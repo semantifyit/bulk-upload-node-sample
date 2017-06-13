@@ -1,0 +1,454 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-daum.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d65DEF8C2-CC06-49F8-89E8-6F2E50A98C1F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendberg 385",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 20636",
+    "email": "ferienwohnungen.daum@aon.at"
+  },
+  "name": "Daum Josef",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Neues Haus in ruhiger, sonniger Lage mit schönem Ausblick ins Tal. Gratisskibusverbindung direkt in Skigebiet Ski Zillertal 3000."
+    },
+    {
+      "@language": "de",
+      "@value": "Brötchenservice, Kinderermäßigung auf Anfrage, Skischuhtrockner, Kinderbett auf Wunsch"
+    },
+    {
+      "@language": "de",
+      "@value": "Nach dem Hotel Schwendbergerhof kommt eine große Linkskurve. Nach dem Waldstück bei der nächsten Abzweigung  links abbiegen. Das 2. Haus auf der linken Seite.\nCheck in 14:00 Uhr - Check out 10:00"
+    },
+    {
+      "@language": "en",
+      "@value": "New house in quiet and sonny position. Payless bus directly to the skiing arena Ski Zillertal 3000."
+    },
+    {
+      "@language": "en",
+      "@value": "roll service, children reduction,"
+    },
+    {
+      "@language": "en",
+      "@value": "Route:\nAfter hotel \"Schwendbergerhof\" there is a big left-curve. After the small forest the next street left. Our house is the second on the left hand side."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2d5a6ca8-3ee3-496b-97bc-38341cc24157/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Josef Hippach - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Josef Hippach - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Josef Hippach - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/706d7027-b305-4af9-9a2a-039c0af9e20f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Josef Hippach - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Josef Hippach - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Josef Hippach - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3217ffe4-c3df-475d-b961-ccc436ef390f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Josef"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8c732982-7e88-4e4c-9618-f59af4f5e0ac/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Josef"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c82e010-a8c2-462e-8fcc-c177d8fd9b01/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Josef"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77b8470d-633a-44d7-afc2-88a2879a64a0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Josef"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b9354b6b-505f-4665-9f7e-8eca6b14209d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Josef Hippach - Sommer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Josef Hippach - Sommer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Josef Hippach - Sommer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/57424aee-dc89-45ec-8367-9faa61235602/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Josef"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eada9f79-8f93-4949-8977-a62e15722513/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Josef"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5a7ec629-21bd-42b6-b52d-9dabd820dfab/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Josef"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f6f4f26-5dd8-462e-955c-36edf10c5961/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Josef"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Josef"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.205203636989",
+    "longitude": "11.8587648868561"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche oder Bad, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower or bath, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, Душевая кабина или ванна, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütliche, neuwertige Ferienwohnung mit großem Balkon, 2 Doppelzimmer, 1 Schlafzimmer mit Etagenbett. Schöne Küche mit Geschirrspüler und kleiner Couch, Sat-TV, Bad mit WC und ein separates WC, Bettwäsche und Handtücher sowie Geschirrtücher vorhanden.\n\nWenn die Wohnung für 2-3 Personen gebucht wird, wird eine  Aufschlag für das zusätzliche Zimmer, falls es benützt wird verrechnet. "
+        },
+        {
+          "@language": "en",
+          "@value": "comfortable new flat with big balcony, 2 doublerooms and one bedroom with bunk bed, kitchen with dish washer and little couch, Sat-TV, bathroom mit WC and one seperate WC, bedlinen inclusive"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung Sabrina"
+            },
+            {
+              "@language": "en",
+              "@value": "ap./3 bedrooms/shower or bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, Душевая кабина или ванна, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "36.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "52.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "66.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "95.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "85m² große neue Ferienwohnung, Wohnzimmer mit Schlafmöglichkeit für 2 Personen, Küche mit Geschirrspüler, 1 Dreibettzimmer, 1 Doppelzimmer, Bad mit WC und ein seperates WC, Balkon und Terasse\n\nWenn die Wohnung für 2-3 Personen gebucht wird, wird eine  Aufschlag für das zusätzliche Zimmer, falls es benützt wird verrechnet. "
+        },
+        {
+          "@language": "en",
+          "@value": "85m² big new holiday apartment with bis living room, kitchen incl. dishwasher, 1 room for three persons, 1 doubleroom, bathrom with WC, 1 seperate WC, balkony and terrace, Sat-TV"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung Marco"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower,bath tube,WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "36.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "66.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "95.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "110.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

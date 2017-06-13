@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Skibus Mayrhofen A-B-C-D-F 18.04. - 23.04.2017",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1604365713433",
+    "longitude": "11.8597482523315"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mayrhofner Bergbahnen",
+    "streetAddress": "Ahornstraße 853",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 62277 ",
+    "faxNumber": "+43 5285 62277-161",
+    "email": "info@mayrhofner-bergbahnen.com",
+    "url": "http://www.mayrhofner-bergbahnen.com"
+  },
+  "description": "Skibus Mayrhofen Linie A,B,C,D,F von 24.12.2015 - 28.03.2016",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ef01d9f-3ccc-49a0-8332-81a2ed7db855/99/image.jpg",
+      "caption": "Logo"
+    }
+  ]
+}

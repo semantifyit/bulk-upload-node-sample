@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Penken - Der Actionberg - Winter",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1633023",
+    "longitude": "11.860612"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Penkenbahn",
+    "streetAddress": "Hauptstraße 472",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 62277",
+    "faxNumber": "+43 5285 62277-161",
+    "email": "info@mayrhofner-bergbahnen.com",
+    "url": "http://www.mayrhofner-bergbahnen.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9de7ec8-54b0-46b6-b647-97aa920e1de3/99/image.jpg",
+      "caption": "Penken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/34577d1e-586e-4ec7-ac95-d3ee989bb262/99/image.jpg",
+      "caption": "Penkenbahn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cb250358-4720-4873-9327-0ee5c5d09d25/99/image.jpg",
+      "caption": "Vans Park 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/077e841c-037b-4224-9a5c-0b4313918782/99/image.jpg",
+      "caption": "Vans Park 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/018aa07a-70d3-4c2b-abbd-886b0bba6406/99/image.jpg",
+      "caption": "Vans Park 3"
+    }
+  ],
+  "url": [
+    "http://www.mayrhofner-bergbahnen.com"
+  ]
+}

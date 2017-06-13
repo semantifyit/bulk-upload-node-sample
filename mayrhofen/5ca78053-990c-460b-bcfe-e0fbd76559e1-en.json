@@ -1,0 +1,468 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "https://www.panorama3d.at/widgets/pano.php?key\u003d452L05385445k8mvG39JRaR07lK455\u0026fullscreen\u003dtrue\u0026autoplay\u003d1\u0026speed\u003d3",
+    "http://www.gaestehaus-oblasser.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d5CA78053-990C-460B-BCFE-E0FBD76559E1"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Oblasser, Gästehaus",
+    "streetAddress": "Hochstegen 831",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 8147",
+    "faxNumber": "0043 5285 8147",
+    "email": "info@gaestehaus-oblasser.at",
+    "url": "www.gaestehaus-oblasser.at"
+  },
+  "name": "Gästehaus Hotel Garni Oblasser",
+  "description": [
+    "Life in the Zillertal Valley is dictated by nature. Walking, skiing and climbing – and those looking for a less hectic mountain experience will love discovering the pristine alpine landscapes during a snowshoeing expedition or mountain tour.\nAnything your heart desires ...\nTwo generations of our family have put heart and soul into being the perfect hosts and we will continue in this tradition to make your stay as comfortable as possible.\n- Top class rooms and apartments in Tyrolean style in a quiet, sunny location on the outskirts of town\n- Every room has a private balcony and our spacious garden is perfect for sunbathing and playing games\n- Bus stop for the free ski bus service is just outside the front door, as well as free parking for house guests\n",
+    "Check in: 3pm\nCheck out: 9am\n\nif you cancel your booking within 30days for arrival, we don\u0027t calculate a cancellation fee. If you made a booking a booking with a deposit and you cancel your booking we charge € 20,- processing fee.\n\nChildrens reduction on request!",
+    "Arrivals to Mayrhofen by car\nOnce you arrive in Mayrhofen, simply drive past the round-about, go straight and follow the \"Bundesstrasse\". When you come to the train station you will see the BP gas station and the SPAR Supermarket, drive past them and directly after the Supermarket turn left. After driving a few meters you will be able to see our Hotel on the left side. In the event you should have any problems finding us you are welcome to give us a call on the way at (05285-62603).\nArrivals by train\nIn order to make your arrival as enjoyable as possible you should take the train to the Jenbach train station. Once there arrange a ticket for the Zillertal train to Mayrhofen.There will be Taxis outside the station. Everage cost for a one-way an 2 person trip: € 5,--\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "80"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c2dccd9-c454-4464-a7f0-bc25142cdb80/99/image.jpg",
+      "caption": "Gästehaus Oblasser Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4593a7be-29a2-450d-bf51-5c83600aef20/99/image.jpg",
+      "caption": "Gästehaus Oblasser Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab952153-40f0-4437-ab7c-c88171a21ad5/99/image.jpg",
+      "caption": "Gästehaus Oblasser Mayrhofen - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/046fb22b-e418-47dd-bc1b-ea2d840cff57/99/image.jpg",
+      "caption": "Gästehaus Oblasser Mayrhofen - Ausblick2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d342af35-df33-4b6b-964a-dc9b2424c2b4/99/image.jpg",
+      "caption": "Gästehaus Oblasser Mayrhofen - Ausblick3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9412482e-f4c3-4d98-93ce-edeac0c2060e/99/image.jpg",
+      "caption": "Gästehaus Oblasser Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e2535944-7670-4aca-b2ea-aa5a40341820/99/image.jpg",
+      "caption": "Gästehaus Oblasser - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c51f7e2-1a18-4826-95ee-e431aa2dade1/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/19fe7274-d8ed-4a45-9fee-30c8abf4d977/99/image.jpg",
+      "caption": "Gästehaus Oblasser - Frühstück"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bfb22060-0e90-4a91-88bf-1a77a91bc2f6/99/image.jpg",
+      "caption": "Rafting"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c1100ef-e46a-44a1-b670-b49c07fc2983/99/image.jpg",
+      "caption": "Biken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/618b0c83-8750-433c-827d-34c94d2e602e/99/image.jpg",
+      "caption": "Skifahren"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a6bfb334-0b8c-44ad-8e50-8d4d63caf7ef/99/image.jpg",
+      "caption": "Vans Penken Park Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d6966f56-a6f3-4b70-ad65-dc24c6e5accf/99/image.jpg",
+      "caption": "Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1617f9e7-432a-474e-931d-52efcae61330/99/image.jpg",
+      "caption": "Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f633009a-951e-4b81-9c1a-d96ba147d5db/99/image.jpg",
+      "caption": "Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ca2ed26-59a5-456c-b77a-3912f0715253/99/image.jpg",
+      "caption": "Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1404ae32-ca78-45f7-8693-f914eaff6259/99/image.jpg",
+      "caption": "Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cb37532c-7988-4c88-a516-d48613902def/99/image.jpg",
+      "caption": "Im Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5692bda4-ae4d-40bb-bb8f-26130afc6313/99/image.jpg",
+      "caption": "Ausblick Grinberg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f4743b2-34d4-4a9e-89ba-9d95dbc6768f/99/image.jpg",
+      "caption": "Schiraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86b85d22-7231-4cac-887d-229688b002ef/99/image.jpg",
+      "caption": "DZ Grinbergspitzen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/88f632cc-7a0d-482d-a2c9-b60c587ea18e/99/image.jpg",
+      "caption": "Adlerbühne"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3474d762-6b3f-4317-ba95-edafcda816e1/99/image.jpg",
+      "caption": "Adlerbühne"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f2ac62a6-7622-488b-a12b-4af43451e6b1/99/image.jpg",
+      "caption": "Adlerbühne"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ba47d781-31be-4257-ad13-6ee20338330e/99/image.jpg",
+      "caption": "Adlerbühne Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81ce094b-4d3d-479c-907d-188238466367/99/image.jpg",
+      "caption": "Adlerbühne"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/524cbe58-7255-4322-9dda-d2721e63f152/99/image.jpg",
+      "caption": "Adlerbühne"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/205f0ad6-696b-475f-99af-0249bf1f230b/99/image.jpg",
+      "caption": "Adlerbühne"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e2631a7-a320-4c81-8b67-53b1bb23c792/99/image.jpg",
+      "caption": "Adlerbühne"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6cc1216-d989-42d3-8ae2-092c50a2e539/99/image.jpg",
+      "caption": "Infrarot 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad3ecf16-f051-4789-a69d-d92759da48fc/99/image.jpg",
+      "caption": "Infrarot"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fd45303f-a3a3-4517-949a-1b13b416bed9/99/image.jpg",
+      "caption": "Frühstück"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a848f114-08a9-42c6-a5e1-731c16085bac/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f157c6b7-cd3d-41ed-ac74-1ffef998740b/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/71de3f96-45b2-481b-9b20-19af78d40b97/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b395f90-8626-4001-bd8f-f6ad4409ee65/99/image.jpg",
+      "caption": "Frühstücksbüffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca89bde9-468e-4834-a7ce-0361e14824a4/99/image.jpg",
+      "caption": "Frühstücksbüffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/de804097-30df-41a0-93bd-cb8074118308/99/image.jpg",
+      "caption": "Bad  DZ Brandberger Kolm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77505d6f-79bc-430b-a64e-60634dbe52c1/99/image.jpg",
+      "caption": "Höllenritt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad36f8d8-58f0-400b-bd0e-656c31488cf1/99/image.jpg",
+      "caption": "Höllenritt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/61c7b2a0-470a-491c-949b-289f406f9b8c/99/image.jpg",
+      "caption": "Höllenritt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/809f6fb9-18e3-47df-af4c-af7b61e5ca26/99/image.jpg",
+      "caption": "Höllenritt Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f8e16f57-40c4-488d-85e4-d5ac26be3c41/99/image.jpg",
+      "caption": "Höllenritt Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f623ffee-d187-47b7-8cb9-cdb3ed3e5b04/99/image.jpg",
+      "caption": "Höllenritt Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bc1148d9-0904-447e-a323-c953eb6e6fba/99/image.jpg",
+      "caption": "DZ Tristner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5dcdb33a-bb3b-47a7-9bf9-9a010c108726/99/image.jpg",
+      "caption": "DZ Tristner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/42cdba13-7814-41b8-96b4-02201b4cf707/99/image.jpg",
+      "caption": "DZ Tristner Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/277892db-99ba-4b58-901e-c9bc2a557f3d/99/image.jpg",
+      "caption": "DZ Tristner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f1f43d5e-eba9-4c98-9c1f-068c32c7f9ff/99/image.jpg",
+      "caption": "DZ Tristner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b46856de-1c8c-4da7-8b73-78a4afdeab98/99/image.jpg",
+      "caption": "DZ Brandberger Kolm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7c5c68b-af29-429c-8ab1-486d5d12c84f/99/image.jpg",
+      "caption": "DZ Brandberger Kolm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/433280c5-1ac7-4493-aadc-2bafe97e8c05/99/image.jpg",
+      "caption": "DZ Brandberger Kolm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/55aaeb81-4cd5-4ba3-891f-9e248427fdd4/99/image.jpg",
+      "caption": "DZ Grinbergspitzen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/24bc291d-b215-401a-ab7a-05f1bbfa6bbd/99/image.jpg",
+      "caption": "DZ Grinbergspitzen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3262ddea-a159-42e9-b13f-3f86f8127c40/99/image.jpg",
+      "caption": "DZ Grinbergspitzen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1596430441612",
+    "longitude": "11.8450212478638"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet, balcony",
+      "description": "Our comfortable double rooms enjoy the major advantage of each having a private balcony. Where you can enjoy the fabulous views and soak up the sunshine in complete privacy :-)\nDouble bed and private balcony\t\nBathroom with shower \u0026 WC, hair dryer\t\nSAT-TV, Safe, Wi-Fi (fee charged)\t\nInfrared cabin (fee charged)\t\nSun terrace and ski store room with boot heater\t\n\nShortstay on request!!!\nExtra-bed on request!!!\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "47.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Spacious apartment on the 1st floor with sep. combined kitchen and living room.\n2 double rooms with balcony\t\n2x bathrooms with shower \u0026 WC, hair dryer\t\nSAT-TV, Safe, Wi-Fi \t\nKitchen with electric stove and microwave, dish washer,\t\nCoffee percolator and fridge with freezer compartment\t\nInfrared cabin (fee charged)\t\nSun terrace and ski store room with boot heater\t\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment 2-4 Pers./2 bedrooms/2xshower,",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "99999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "33.33",
+          "maxPrice": "46.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "25.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Spacious apartment on the 2nd floor with separate living room.\n2 double rooms with balcony\t\n2x bathrooms with shower \u0026 WC, hair dryer\t\nSAT-TV, Safe, Wi-Fi \t\nKitchen with electric stove, oven and dish washer,\t\nCoffee percolator and fridge with freezer compartment\t\nInfrared cabin (fee charged)\t\nSun terrace and ski store room with boot heater\t\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 2 bed rooms",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "99999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "33.33",
+          "maxPrice": "46.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "25.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

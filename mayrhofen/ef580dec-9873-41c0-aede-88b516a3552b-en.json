@@ -1,0 +1,215 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dEF580DEC-9873-41C0-AEDE-88B516A3552B",
+    "http://www.britzerhof.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Britzerhof",
+    "streetAddress": "Hollenzen 71",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62944",
+    "faxNumber": "0043 5285 62944",
+    "email": "britzerhof@aon.at",
+    "url": "http://www.britzerhof.at"
+  },
+  "name": "Britzerhof",
+  "description": [
+    "Pleasant private house with apartments in Hollenzen . Quiet  and centrally located.\nThe center of Mayrhofen is only about 1.5 km away.\nSurrounded by the beautiful mountain scenery of the upper Zillertal is an ideal starting point for many hikes and sporting activities.",
+    "Included in price: Bed linen/towels, heating, water and electricity.\nExcluded: A final cleaning charge of 25,-/30.- Euro ",
+    "Check in: 14:00hr / Check out: 9:00hr.\nDirections: Just before Mayrhofen turn left at the turn off for BRANDBERG-ZILLERGRUND, left again at the next crossing, on until the Restaurant \"Bruggerstube\" (on the left), after the restaurant "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9d264c2a-1565-4f8c-91d4-049c896c8128/99/image.jpg",
+      "caption": "Britzerhof Sommerfoto 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/991b5b31-22ad-4bee-bd38-75b40eba9336/99/image.png",
+      "caption": "Britzerhof Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c535a0d1-cb85-42b7-953f-be64be7fd6ea/99/image.jpg",
+      "caption": "Britzerhof Sommerfoto 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2e9a3c43-34c0-45da-810a-c451764e39f0/99/image.jpg",
+      "caption": "Britzerhof Garten vorne vom Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9cc2e4ba-b2fd-4f88-a90e-b91ffd12758c/99/image.jpg",
+      "caption": "Britzerhof Garten hinten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3ac2564-ded7-4314-b5ef-d9dc5de14558/99/image.jpg",
+      "caption": "Britzerhof Garten vorne"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0cc2b236-1598-4968-8d29-677fa16e3f8e/99/image.jpg",
+      "caption": "Britzerhof Blick Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/31ac33ee-9b04-41a4-8b89-3bdf08fc1cdf/99/image.jpg",
+      "caption": "Britzerhof Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/85b396e4-cdcc-4769-9edc-bf19d8559f96/99/image.jpg",
+      "caption": "Britzerhof Winterfoto 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1bb830dc-cf53-4d61-86d4-8d1ab4f9c02d/99/image.jpg",
+      "caption": "Britzerhof Winterfoto 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/58db800b-305d-44bb-a772-8daa3506cca9/99/image.jpg",
+      "caption": "Britzerhof Winterfoto 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb7e646d-9178-48eb-aafd-759d1ff2b6dd/99/image.jpg",
+      "caption": "Britzerhof Winterfoto 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f7eccc93-34a5-4d80-a743-2b8d8085804b/99/image.jpg",
+      "caption": "Britzerhof Winterfoto 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9123329-6571-4abd-a4c6-d73c738a33d2/99/image.jpg",
+      "caption": "Britzerhof Wohnraum Gesamt App1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f1be319-6e6c-444e-8549-d1b1ca28fd69/99/image.jpg",
+      "caption": "Britzerhof Wohnküche App2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1830735686141",
+    "longitude": "11.8730342388153"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, separate toilet and shower/bathtub",
+      "description": "about 50 m²\nkitchen with dining area and sofa bed , kitchenette with stove / oven, dishwasher , fridge / freezer, coffee maker, kettle , dishes, glasses , flat screen TV, Wi-Fi , access to the balcony\nbedroom with a double bed , additional bed , access to the balcony\nbathroom with shower",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap./combined living-bed-room/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet",
+      "description": "Eat-in kitchen with a small kitchenette , electric stove , microwave, refrigerator , coffee maker, kettle , dishes, glasses\n• seating area , dining area , flat screen TV, Wi-Fi\n• Balcony\n• bedroom with double bed , extra bed ( pull-out) access to the balcony\n• bathroom with sink, shower and toilet\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.living-bedr./1 bedroom/shower,wc",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "59.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, living room/bedroom",
+      "description": "Simple furnishings with a small kitchen / sink, electric stove , refrigerator , coffee maker, kettle , dishes, glasses\n• Living / sleeping area with double bed and sitting area, TV\n• shower with WC, balcony\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 1 bed room",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

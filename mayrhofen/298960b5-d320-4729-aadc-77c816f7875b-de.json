@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Bruggerstube",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.181910491503",
+    "longitude": "11.8712157011032"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hollenzen 111",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63793"
+  },
+  "description": "BRUGGERSTUBE - HOLLENZEN\n\nLandeplatz für alle Flieger. Landevolte bei Taleinwind links bei Talauswind auch links. Es befindet sich auf westlicher Seite eine Hochspannungsleitung und auf östlicher Seite eine Hausstromleitung (in ca. 1,5 km Abstand). Park- und Einkehrmöglichkeit direkt bei der Bruggerstube.\n\nFISCHERKARTE mit Unterkunft zu vergeben...\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ccbf4fb1-d440-4660-96ef-623d27e162bc/99/image.jpg",
+      "caption": "Buggerstube"
+    }
+  ]
+}

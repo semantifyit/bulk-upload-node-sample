@@ -1,0 +1,595 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.zillertal.com/fam-kroell",
+    "http://maps.mayrhofen.at/?foreignResource\u003dCC54ED72-2BAC-4337-8B6B-866D6DB01E70"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Steinfeld, Haus",
+    "streetAddress": "Schweinberg 29",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64132 ",
+    "faxNumber": "0043 5285 64804",
+    "email": "steinfeld@zillertal-tirol.net",
+    "url": "http://www.zillertal.com/fam-kroell"
+  },
+  "name": "Haus Steinfeld",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "2 km außerhalb vom Ortszentrum Mayrhofen in ruhiger sonniger Lage, im Ortsteil Eckartau, befindet sich unser Haus \"Steinfeld\" mit ingesamt vier Ferienwohnungen für 2 bis 6 Personen (ca. 60 bis 110 m2 Größe). Vor dem Haus finden Sie einen Parkplatz, sowie eine schöne Liegewiese mit Sonnenliegen zur kostenlosen Benützung. Direkt vor dem Haus befindet sich die Skibus- und Dörferbushaltestelle, so können sie problemlos und komfortabel von einer Ortsecke zur nächsten pendeln. Lebensmittelgeschäft und Restaurant finden Siein unmittelbarer Nähe."
+    },
+    {
+      "@language": "de",
+      "@value": "exklusive: Endreinigung\ninklusive: Tiefgarage, Sonnenliegen\n\nFür Hunde verrechnen wir pro Tag € 3,--"
+    },
+    {
+      "@language": "de",
+      "@value": "Beim Kreisverkehr (Ortsanfang von Mayrhofen) links ausfahren. An der IQ Tankstelle links abbiegen. Immer gerade aus durch die Ortschaften Laubichl, Hollenzen. Im Ortsteil Eckartau 5m unterhalb des Getränkehandels Unterberger rechts einbiegen. Oder: Direkt von der B169 Zillertal-Bundesstraße nach Hippach bei der Abfahrt Bühel (gegenüber der Firma Alko-Kober) links einbiegen und vor dem Getränkehandel Unterberger links einbiegen."
+    },
+    {
+      "@language": "en",
+      "@value": "Our house \"Steinfeld\" can be found 2km from the centre of Mayrhofen, in a quiet and sunny position in Eckertau. We have four holiday apartments, suitable for between 2-6 persons (approx. 60 to 110m²). There is a car park, and a beautiful sun bathing area with sun loungers for use free of charge. The ski and village bus stop is conveniently situated just outside the front door, which makes it easy to travel from one part of the village to another. A grocery store and a restaurant can be found close by."
+    },
+    {
+      "@language": "en",
+      "@value": "Price excludes: A final cleaning charge\nIncludes: Underground parking, sun loungers."
+    },
+    {
+      "@language": "en",
+      "@value": "At the roundabout at the beginning of Mayrhofen turn left. At the next junction (IQ petrol station) turn left again and drive straight on through the villages of Laubichl and Hollenzen. At Eckertau turn right immediately after the Getränkehandels Unterberger.\nAlternative route: After Hippach turn left from the B169 at Bühel (opposite the Alko-Kober factory) and turn left just before the Getränkehandel Unterberger."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9ecc953-04cc-4d48-9638-1cb0024be1ac/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Steinfeld Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Steinfeld Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Steinfeld Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/80fc854f-77f6-4ed5-8288-9cf877db17a6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Steinfeld - Collage"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Steinfeld - Collage"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Steinfeld - Collage"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8e87797-2375-4da4-b848-d306d0e4fffe/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienwohnung 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienwohnung 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ae8dc49-c095-43ba-9c13-16f303e87d7b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienwohnung 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienwohnung 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf6b038c-aeff-4f84-9709-16e5e16e87da/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienwohnung 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienwohnung 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0dbb21a7-77c9-4903-96a9-ec0c044c5d3a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienwohnung 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienwohnung 4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/935e554d-eeac-46b0-9129-e84091779de1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung 5"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienwohnung 5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienwohnung 5"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/054d18a4-efc6-4566-bc1c-dc7273645e0c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "steinfeld-002"
+        },
+        {
+          "@language": "en",
+          "@value": "steinfeld-002"
+        },
+        {
+          "@language": "ru",
+          "@value": "steinfeld-002"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e1a88038-2c1d-4fe6-ae64-4d448c18c0b3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "steinfeld-004"
+        },
+        {
+          "@language": "en",
+          "@value": "steinfeld-004"
+        },
+        {
+          "@language": "ru",
+          "@value": "steinfeld-004"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2d86a4e7-45b4-438f-a996-f019a9b3f107/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "steinfeld-005"
+        },
+        {
+          "@language": "en",
+          "@value": "steinfeld-005"
+        },
+        {
+          "@language": "ru",
+          "@value": "steinfeld-005"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5238771c-599c-42c9-b233-d03c276cff3c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "steinfeld-026"
+        },
+        {
+          "@language": "en",
+          "@value": "steinfeld-026"
+        },
+        {
+          "@language": "ru",
+          "@value": "steinfeld-026"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7a9fd98-4807-485b-88ef-edb0b7e8312d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "steinfeld-027"
+        },
+        {
+          "@language": "en",
+          "@value": "steinfeld-027"
+        },
+        {
+          "@language": "ru",
+          "@value": "steinfeld-027"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a255dead-ed4c-4b6b-83b8-750125857601/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "steinfeld-010"
+        },
+        {
+          "@language": "en",
+          "@value": "steinfeld-010"
+        },
+        {
+          "@language": "ru",
+          "@value": "steinfeld-010"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c85da6a-f135-4d4d-bb93-030f16ae09fe/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "steinfeld-020"
+        },
+        {
+          "@language": "en",
+          "@value": "steinfeld-020"
+        },
+        {
+          "@language": "ru",
+          "@value": "steinfeld-020"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1881667441069",
+    "longitude": "11.8739730119705"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung für 2 bis 3 Personen (ca. 65 m2), Küche, Wohnzimmer mit Liege, Doppel- und Einbettzimmer, Dusche, WC. Die Wohnungen sind im rustikalen Stil eingerichtet und verfügen über Telefon, Sat-TV, Radio, Mikrowelle, Schneidemaschine, ..."
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment suitable for 2-3 persons (approx. 65m²). Kitchen, lounge with one bed, double and single room, shower, WC. The apartments are rustically furnished, and are equipped with a telephone, SAT-TV, radio, microwave, slicing machine..."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap.1/65m²,Wohn-Schlafraum/2 Schlafr./Dusche,WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./2 bedr./shower, wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Küche, Wohnzimmer mit Liege, Dreibettzimmer, Lesezimmer mit Liege, Bad, WC. Die Wohnungen sind im rustikalen Stil eingerichtet und verfügen über Telefon, Sat-TV, Radio, Mikrowelle, Schneidemaschine, ..."
+        },
+        {
+          "@language": "en",
+          "@value": "Kitchen, lounge with bed, bedroom with 3 beds, reading room with bed, bath, WC. The apartments are rustically furnished, and are equipped with a telephone, SAT-TV, radio, microwave, slicing machine..."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap.2/65m²,Wohn-Schlafraum/1 Schlafraum/Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.liv.-bedroom/1 bedroom/bath,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Küche mit Spülmaschine, Wohnzimmer mit Kachelofen und Liege, 1 Doppelzimmer, 2 Zweibettzimmer, Badezimmer, WC, Abstellraum. Die Wohnungen sind im rustikalen Stil eingerichtet und verfügen über Telefon, Sat-TV, Radio, Mikrowelle, Schneidemaschine, ..."
+        },
+        {
+          "@language": "en",
+          "@value": "Kitchen with dish washer, lounge with a traditional tiled stove, bed, 1 double bedroom, 2 bedrooms with 2 single beds, bathroom, WC, store room. The apartments are rustically furnished, and are equipped with a telephone, SAT-TV, radio, microwave, slicing machine..."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Nr.3/110m²,3 Schlafräume/Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/3 bedrooms/bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnküche mit Liege und Balkon, 1 Bad, 1 WC, 1 Doppelzimmer. Die Wohnungen sind im rustikalen Stil eingerichtet und verfügen über Telefon, Sat-TV, Radio, Mikrowelle, Schneidemaschine, ..."
+        },
+        {
+          "@language": "en",
+          "@value": "Lounge with integrated kitchen and balcony, 1 bathroom, 1 WC, 1 double bedroom. The apartments are rustically furnished, and are equipped with a telephone, SAT-TV, radio, microwave, slicing machine."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Nr. 4/55m²,1 Schlafraum/Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnküche mit Liege, 2 Doppelzimmer, Dusche, WC. Die Wohnungen sind im rustikalen Stil eingerichtet und verfügen über Telefon, Sat-TV, Radio, Mikrowelle, Schneidemaschine, ..."
+        },
+        {
+          "@language": "en",
+          "@value": "Lounge with integrated kitchen and one bed, shower,WC. The apartments are rustically furnished, and are equipped with a telephone, SAT-TV, radio, microwave, slicing machine..."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Nr.5/60m²,2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d7BCF8C1A-7A62-4010-88CF-FE5BFA0F42CD",
+    "https://www.mayrhofen.at/unterkuenfte/angebote/detail/unterkunft/gaestehaus-eberharter-mayrhofen/"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Eberharter, Gästehaus",
+    "streetAddress": "Eckartau 26",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62048",
+    "email": "haus-eberharter@aon.at",
+    "url": "http://www.mayrhofen.at/gaestehaus_eberharter"
+  },
+  "name": "Gästehaus Eberharter",
+  "description": [
+    "Nice, family run bed and breakfast, in a quiet and sunny location. Very close to ski bus stop, cross country ski trail, small supermarket and guest houses. Guest lounge, terrace, garden, ski cellar with shoe dryer, car park, cooking facilities for making snacks. Catering: Extensive breakfast buffet, rooms with television;",
+    "Prices are incl. tax",
+    "Our house can be found in the middle of Eckertau, just before Mayrhofen."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1dfa7e52-d938-4d5b-9fc7-04cb365967e5/99/image.jpg",
+      "caption": "Gästehaus Eberharter Mayrhofen - Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5191fb12-89eb-465e-907e-966cbe211095/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12feaae1-798e-4a29-bb69-58adc592320a/99/image.jpg",
+      "caption": "White Lounge am Genießerberg Ahorn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/48dbcca3-7edd-42bd-a45d-697e4ecc95c2/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd05fe94-c7aa-4c70-af40-d3372355df54/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e5441c32-2eb8-41f3-86f1-548b3c2dc8bb/99/image.jpg",
+      "caption": "Winter am Berg © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/152d2c58-cac8-4a54-b39a-f4e453a822f4/99/image.jpg",
+      "caption": "Zillertaler Jause © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c1e260c-24c7-4043-81cb-bdeaee78183c/99/image.jpg",
+      "caption": "Einkehr © Blickfang Photographie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2d95a59-7fd0-4d4b-b620-8a33e3c1869f/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81dbc03f-41a2-44c8-bfdc-c4227fe9a732/99/image.jpg",
+      "caption": "Klettersteig © Bernd Ritschel"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1881120597785",
+    "longitude": "11.8736028671265"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Double room with an additional third bed when required. All rooms with shower/WC and balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

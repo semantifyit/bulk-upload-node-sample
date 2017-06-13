@@ -1,0 +1,396 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.gletscherblick-hippach.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d90C69AB3-0DB1-41A8-BBB3-BC8EEE498689"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hochschwendberg 503",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3795",
+    "faxNumber": "0043 5282 37952",
+    "email": "gletscherblick.zillertal@aon.at",
+    "url": "http://www.gletscherblick-hippach.at"
+  },
+  "name": "Hotel Gletscherblick",
+  "description": [
+    "Urlaubsglück...\ninmitten der Zillertaler Alpen, bei familiärer Atmosphäre, wo Zillertaler Gastfreundschaft an erster Stelle steht.\n\nUnser Haus verfügt über Einzel-, Doppelzimmer-oder Mehrbettzimmer. Jedes Zimmer hat einen abgetrennten Balkon, von dem aus Sie ein atemberaubendes Bergpanorama bewundern können.\nAlle unsere Zimmer sind mit DU/WC, Fön, Flachbild SAT-TV, Radio, Telefon, Internet via Wireless LAN und einem Zimmersafe ausgestattet.\n\nLassen Sie sich von uns verwöhnen und genießen Sie ein liebevoll zubereitetes \nSalat-und Vorspeisenbuffet, gefolgt von einem Vier-Gänge-Menü nach Wahl. Ob internationale oder Tiroler Spezialitäten- wir sorgen stets für Abwechslung!\n\nIn unserer Saunawelt, wo Sie bei Feuer, Wasser und Wärme Ruhe und Erholung finden.\nLassen Sie einfach Ihre Seele baumeln und vergessen Sie den Alltag!\nIn unserer Saunawelt finden Sie eine Finnische Sauna, Kräutersauna, Infarotkabine,\nWärmebank mit Kneippbecken und ein Damfbad.\n\nNatürlich sind auch Solarium, Fitnessraum, Tischtennis, Skiraum mit Skischuhwärmer, und eine Sonnenterrasse vorhanden.\n     \nUnser Gratisskibus bringt Sie direkt ins beliebte Mayrhofner Skigebiet auf 1800m Seehöhe zur Bergstation.",
+    "Kinderermässigung im Zimmer der Eltern\nbei 2 Vollzahlern:\n\nbis 5,9 Jahre frei \nvon 6 bis 10 Jahre 50% \nvon 11 bis 15 Jahre 30% \n\nBei Kurzaufenthalten gilt\n1 Nacht  pro Person +10,-\n2 Nächte pro Person + 5, ",
+    "Weg: Über Inntalautobahn kommend bis zu Ausfahrt Strass im Zillertal, von dort, über die Zillertaler Bundesstrasse ca. 25 km bis nach Hippach. In Hippach bei der Ampel rechts abbiegen nach der Zillerbrücke, die erste Abzweigung nehmen und weiter Richtung Zillertaler Höhenstrasse. Von der Abzeigung in Hippach sind es ca. 6 km bis zu unserem Haus!",
+    "Gletscherblick\nPanoramablick\nBlick ins Tal"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "226"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/693fd573-3e9a-4669-8f12-555af7589d11/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d5a71063-04dc-456c-816d-54ee8e14ab0e/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60a6e574-2a92-47e2-ab01-6cdd152c48b1/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d99e16f6-f694-4a6e-8783-029fb2c2e891/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Komfortzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f00c26ca-fbb1-4acc-b144-cc3e3e944c2b/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Komfortzimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f46a9a7-ef42-424e-aa2f-5798c7e2cb86/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Erkerzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94b6410e-9731-472d-9444-ef5c52b55efd/99/image.jpg",
+      "caption": "Erkerzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/108a418d-26c3-4bf2-beb3-83a18557e4a4/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Erkerzimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fc647b51-99b1-4802-b350-c052c30c06ff/99/image.jpg",
+      "caption": "Komfortzimmer Deluxe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e004ce32-4c3e-4de3-b4d0-fbebc2f8c87b/99/image.jpg",
+      "caption": "Komfortzimmer Deluxe Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ed37bc15-4283-4ed2-b71c-adf28d5f034c/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/37279912-e051-4c48-a838-96cfb195416a/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Stärkung beim Frühstück"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d298b1c-b64f-416c-938a-0866f7a85b91/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Salatbuffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/95e51771-bc2c-4aa4-ad25-610222a895ab/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Gaststube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/85238564-c420-478f-bd43-c8c7417c72c9/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Gaststube2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e67c45d6-3cfe-4f87-8592-228e78b1defe/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Saunalandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/35c02016-886e-4129-9faa-b645072c4b9f/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Saunalandschaft2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77725958-9551-428c-b8a2-41bf604376c8/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Saunalandschaft3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7e847561-71ab-44d0-880d-8ffb6e717f73/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Fitnessraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d15a41dd-aea4-45ba-9a04-4c7e2957f372/99/image.jpg",
+      "caption": "Gletscherblick Hippach - Panoramaterrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f9ec6d4d-a098-42eb-973b-57388c024b60/99/image.jpg",
+      "caption": "Panorama1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f50491a3-83ec-4cc0-9760-59a9c399d51d/99/image.jpg",
+      "caption": "Wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a71645cc-d669-456a-ae6c-1e1950d18fe4/99/image.jpg",
+      "caption": "Wandern2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f3ef8b5c-5209-40be-8fbc-a1601208e0cc/99/image.jpg",
+      "caption": "Wandern1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4dcdfa0f-9578-4f16-b543-09c8a0ec9965/99/image.jpg",
+      "caption": "Bergsee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3f006c13-020f-4d57-8044-71ed690ff9da/99/image.jpg",
+      "caption": "Panorama2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2af821bc-464f-4ef9-b8a5-31a79349fc2b/99/image.jpg",
+      "caption": "Klettern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e5682c7d-c45e-4c5f-a7f4-951ecc5a038e/99/image.jpg",
+      "caption": "Mountainbike"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ccd693b5-083e-4f44-9664-54b47954e59e/99/image.jpg",
+      "caption": "Sonnenaufgang "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ca4acea-759d-4348-b20b-6c2d1a2e2373/99/image.jpg",
+      "caption": "Wintertraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94889479-a6ed-41d2-8986-26d07d7a3a42/99/image.jpg",
+      "caption": "Skifahren"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4eb0143f-8c66-495f-826d-d76642784bfa/99/image.jpg",
+      "caption": "Tourengehen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1986468668159",
+    "longitude": "11.8378758430481"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle und komfortable Einrichtungen garantieren Ihnen einen traumhaften Schlaf.\nAlle Zimmer sind mit Dusche/WC, Fön, Flachbild SAT-TV, Radio, Telefon  und Safe ausgestattet.\n\nJedes Zimmer hat einen abgetrennten Balkon, von dem aus Sie ein atemberaubendes\nBergpanorama bewundern können.\n\nEin kostenloser W-Lan Internetzugang steht Ihnen zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Helle und komfortable Einrichtungen garantieren Ihnen einen traumhaften Schlaf.\nAlle Zimmer sind mit Dusche/WC, Fön, Flachbild Sat-TV, Radio, Telefon  und Safe ausgestattet.\n\nJedes Zimmer hat einen abgetrennten Balkon, von dem aus Sie ein atemberaubendes\nBergpanorama bewundern können.\n\nEin kostenloser W-Lan Internetzugang steht Ihnen zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Mehrbettzimmer, Dusche, WC",
+      "description": "Helle und komfortable Einrichtungen garantieren Ihnen einen traumhaften Schlaf.\nAlle Zimmer sind mit Dusche/WC, Fön,  Flachbild Sat-TV, Radio, Telefon  und Safe ausgestattet.\n\nJedes Zimmer hat einen abgetrennten Balkon, von dem aus Sie ein atemberaubendes\nBergpanorama bewundern können.\n\nEin kostenloser W-Lan Internetzugang steht Ihnen zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Mehrbettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Fünfbettzimmer, Dusche, WC",
+      "description": "Unsere 32 qm Erkerzimmer vermitteln durch ihre helle und\nharmonische Einrichtung Gelassenheit und Ruhe.\n\nAlle Zimmer sind mit Dusche/WC, Fön, Flachbild SAT -TV, Radio, Telefon \nund Safe ausgestattet.\n\nAuf dem Balkon können Sie sich von einem umwerfenden Panoramablick auf die Zillertaler Alpen \noder dem herrlichen Blick ins Tal faszinieren lassen.\n\nEin kostenloser W-Lan Internetzugang steht ihnen zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Erkerzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "91.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "91.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "91.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Deluxe",
+      "description": "Unsere 30 qm Deluxe Zimmer vermitteln durch ihre helle und\nharmonische Einrichtung Gelassenheit und Ruhe.\n\nAlle Zimmer sind mit Dusche/WC, Fön, Flachbild SAT -TV, Radio, Telefon \nund Safe ausgestattet.\n\nAuf dem Balkon können Sie sich von einem umwerfenden Panoramablick auf die Zillertaler Alpen \noder dem herrlichen Blick ins Tal faszinieren lassen.\n\nEin kostenloser W-Lan Internetzugang steht ihnen zur Verfügung.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortzimmer Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "86.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

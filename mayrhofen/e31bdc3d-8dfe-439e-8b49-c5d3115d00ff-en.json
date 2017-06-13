@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Fun \u0026 Spa Hotel Strass",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1637863",
+    "longitude": "11.8610047"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport \u0026 Spa Hotel Strass Roscher KG",
+    "streetAddress": "Hauptstraße 470",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 6705",
+    "faxNumber": "0043 5285 63477",
+    "email": "info@hotelstrass.com",
+    "url": "http://www.hotelstrass.com"
+  },
+  "description": "We are pleased that you have chosen our hotel for your vacation. We invite you to enjoy active \u0026 sportive days at the mountains \u0026 lakes or simply relax and let us spoil you with all we have to offer in the wonderful Ziller Valley.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8a68e0a9-77f4-459e-8f64-347818a3b9eb/99/image.jpg",
+      "caption": "Hotel Strass"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e0048a9e-2122-4366-ac4b-428198f7e606/99/image.jpg",
+      "caption": "Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/027b8270-d9ba-4261-b2a7-06a8984317e3/99/image.jpg",
+      "caption": "Penthouse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6016966e-b09a-482a-9780-ae1802fd8890/99/image.jpg",
+      "caption": "Durchgang"
+    }
+  ],
+  "url": [
+    "http://www.hotelstrass.com"
+  ]
+}

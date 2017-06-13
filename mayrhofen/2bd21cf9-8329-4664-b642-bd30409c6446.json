@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Hotel Ländenhof"
+    },
+    {
+      "@language": "de",
+      "@value": "Hotel Ländenhof"
+    },
+    {
+      "@language": "ru",
+      "@value": "Hotel Ländenhof"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.159201685309",
+    "longitude": "11.8645799160004"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ländenhof, Hotel",
+    "streetAddress": "Jakob-Moser-Straße 599",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63451",
+    "faxNumber": "0043 5285 6345122",
+    "email": "info@hotel-laendenhof.at",
+    "url": "http://www.hotel-laendenhof.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Am Waldrand in ruhiger, schöner Lage, nur wenige Gehminuten von den Tennisplätzen, Erlebnisbad, Minigolf, Eislaufplatz und Orstzentrum entfernt, befindet sich unser rustikal-elegantes Haus.\nAhornbahn und Penkenbahn sind in wenigen Minuten zu erreichen.\nFerienwohnungen im Haus Kathrein, gleich gegenüber."
+    },
+    {
+      "@language": "en",
+      "@value": "The name \"Ländenhof\" guarantees for atmosphere, quality, style and elegance.\n\nAt the Ländenhof  holiday is an unforgettable experience."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d41186c6-434d-4dd4-a509-d9ad8e08db68/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Ländenhof"
+        },
+        {
+          "@language": "de",
+          "@value": "Ländenhof"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ländenhof"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf73b7ef-20b3-4619-8530-1c0e82080889/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Lokal"
+        },
+        {
+          "@language": "de",
+          "@value": "Lokal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Lokal"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.hotel-laendenhof.at"
+  ]
+}

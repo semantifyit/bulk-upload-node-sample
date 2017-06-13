@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsEvent"
+  ],
+  "name": "TTV Regiomasters 2017",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Tennisclub Hippach"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Lindenstrasse 42",
+      "addressLocality": "Hippach",
+      "postalCode": "6283",
+      "addressCountry": "AT",
+      "email": "info@tc-hippach.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Lindenstrasse 42",
+      "addressLocality": "Hippach",
+      "postalCode": "6283",
+      "addressCountry": "AT",
+      "email": "info@tc-hippach.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2fc09ea2-ef87-44e2-bad0-90e6f6e649c9/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "startDate": "2017-08-31T00:00:00",
+  "endDate": "2017-09-02"
+}

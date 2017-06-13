@@ -1,0 +1,118 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dCB2DE1B5-E25B-4FEA-B067-D484512E4BE8"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laimach 107",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2824",
+    "faxNumber": "0043 5282 2824",
+    "email": "eva@fewo-schweiberer.at"
+  },
+  "name": "Gästehaus Dengg",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e89f88fc-7072-4a9a-9e57-6d737c66b739/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cdd57745-8a93-4955-8bb0-81542a6d65f5/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68da4a8f-76f9-4099-85bc-6f2f2c6214de/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Winter 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5312a9fc-25a7-4d01-8d22-e3dc0698aef6/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c230f1cc-b3c0-4e6d-af46-3a6c0c865e93/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Winter 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f052408-76f7-4b5e-a1b2-7e6bd31ca81e/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Winter 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1bfca19-56d4-4906-9ed2-11ce1628d38a/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Winter 5 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d437cf00-0517-4619-8301-16671db84aa7/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Garten "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/520f2da4-bc9a-4c0d-b614-620461cd8372/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Garten 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2153014458268",
+    "longitude": "11.8651431798935"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

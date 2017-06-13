@@ -1,0 +1,104 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SkiResort",
+    "BarOrPub"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Ice Bar"
+    },
+    {
+      "@language": "de",
+      "@value": "Ice Bar"
+    },
+    {
+      "@language": "ru",
+      "@value": "Ice Bar"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1638157102979",
+    "longitude": "11.8609642982483"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport \u0026 Spa Hotel Strass Roscher KG",
+    "streetAddress": "Hauptstraße 470",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 6705",
+    "faxNumber": "0043 5285 63477",
+    "email": "info@hotelstrass.com",
+    "url": "http://www.hotelstrass.com"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Die Ice Bar im Fun \u0026 Spa Hotel Strass präsentiert sich mit einem Face Lift und noch partyfreundlicheren Öffnungszeiten. Ab Anfang Dezember von 15:00 bis 22:00 geöffnet, bieten wir mit einer neuen Aircondition/Klimaanlage und super Frischluftzufuhr sowohl im Nichtraucher- als auch im abgetrennten Raucherbereich fetzigen Apres Ski der Extraklasse. Ein tolles Entertainment-\nund Überraschungsprogramm mit modernster LED Beleuchtung und Großbild-Videoscreens wird unsere internationalen Tänzerinnen und Tänzer auf Ihren Podesten zum Beben bringen.\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Daily Party Party kicking from 1500 to 2200hrs. International DJ´s, Dance, Animation artists, competitions and your very own Ice bear to cuddle.\n\n\nSnack options:\n\n    Pizza\n    Kebab\n    Cheeseburger\n    Pommes"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/554c25af-24f5-4cfe-8e7e-01184427b52a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e2259137-6724-4905-9f3b-fa218e2ea067/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Ice Bär"
+        },
+        {
+          "@language": "de",
+          "@value": "Ice Bär"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ice Bär"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad1175de-ca7a-498e-be46-40aa72d49a04/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Eisbar"
+        },
+        {
+          "@language": "de",
+          "@value": "Eisbar"
+        },
+        {
+          "@language": "ru",
+          "@value": "Eisbar"
+        }
+      ]
+    }
+  ]
+}

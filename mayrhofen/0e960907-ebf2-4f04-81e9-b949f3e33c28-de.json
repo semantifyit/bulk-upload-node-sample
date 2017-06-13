@@ -1,0 +1,155 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d0E960907-EBF2-4F04-81E9-B949F3E33C28"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Antonia, Landhaus",
+    "streetAddress": "Ahornstraße 862",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62593",
+    "faxNumber": "0043 5285 62593",
+    "email": "landhaus-antonia@gmx.at"
+  },
+  "name": "Landhaus Antonia",
+  "description": [
+    "Unser Haus liegt eine Minute von der Hauptstrasse entfernt und trotzdem am Abend in ruhiger Lage zwischen den Bergbahnen (1min. zur Ahornbahn, 5min. zur Penkenbahn). Das Haus ist eine kleine familiäre Frühstückspension mit gemütlichen Zimmern mit Balkon und Radiowecker, Aufenthaltsraum mit TV, großer Parkplatz, Liegewiese und Gästekühlschrank. Wir bieten auch erweitertes reichhaltiges Frühstück an.",
+    "Die Preise verstehen sich inklusive Kurtaxe und erweiterten Frühstück. Kinderermäßigung auf Anfrage!",
+    "Richtung Mayrhofen, beim Bahnhof vorbei, links abbiegen - Einfahrt Mitte - nach dem Postamt die erste rechts und die Hauptstrasse entlang bis über die Brücke, danach links abbiegen in die Ahornstrasse."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ef50a1a-a802-4384-8f1e-f824099e3785/99/image.jpg",
+      "caption": "Landhaus Antonia Mayrhofen - Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1600916944434",
+    "longitude": "11.862530708313"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Gemütlich eingerichtete Zimmer mit Radiowecker und Balkon nach Osten (Morgensonne).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.50",
+          "maxPrice": "27.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, fl. k/w Wasser",
+      "description": "Gemütlich eingerichtetes Zimmer mit Radiowecker und Balkon (Süd-West) mit herrlicher Aussicht.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Etagendusche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.50",
+          "maxPrice": "26.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Zweibettzimmer, fl. k/w Wasser",
+      "description": "Gemütlich eingerichtetes Zimmer mit Radiowecker und Balkon (nach Osten).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zweibettzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, fl. k/w Wasser",
+      "description": "Gemütlich eingerichtetes kleines Zimmer mit Radiowecker.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Etagendusche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

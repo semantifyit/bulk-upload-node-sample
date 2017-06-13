@@ -1,0 +1,177 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dF7924732-FB38-4E2B-B686-9D58A9833D8F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendberg 266",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3607",
+    "faxNumber": "0043 5282 3607",
+    "email": "msporer@gmx.at"
+  },
+  "name": "Sporer Martha",
+  "description": [
+    "Gepflegtes Haus in sonniger Lage, nur ca. 5 Minuten zu Fuß vom Dorfzentrum entfernt. Frühstück auf Wunsch (Aufpreis).",
+    "Anreise: ab 14.00 Uhr\nAbreise:       10.00 Uhr\n",
+    "Anreise: ab 14.00 Uhr\nAbreise: bis 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4bbddee5-8571-486c-b9c7-b109a783eaf0/99/image.jpg",
+      "caption": "Ferienwohnung Martha Sporer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6cbd13f7-bbcd-4ee1-bc5a-eda29a7bc353/99/image.jpg",
+      "caption": "Sporer Martha Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a0e3e6e-ea38-4d08-89df-2f471a54cf3d/99/image.jpg",
+      "caption": "Sommer/Wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/880253f0-4c19-45a0-898e-de3e860c3970/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c14b1a4-acd0-4dfc-8cdd-abeb3a34abd6/99/image.jpg",
+      "caption": "IMG_3663"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/40a6c427-d6e5-4f04-af1b-53f972b8414a/99/image.jpg",
+      "caption": "IMG_2808"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/45c76b3d-c038-4792-a83b-fd3cf4177a29/99/image.jpg",
+      "caption": "Winter in Hippach"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db6732b4-ff3f-4d7a-93ce-2e0a3c8a5b9e/99/image.jpg",
+      "caption": "Winter in Hippach"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da21c625-bf81-4483-920a-5b1f106c465f/99/image.jpg",
+      "caption": "Ferienwohnung Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d158a87-26c4-4340-a0a2-d8ac567df5c7/99/image.jpg",
+      "caption": "Ferienwohnung Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/364102fb-3617-4bd1-bc2f-b45f444aacd6/99/image.jpg",
+      "caption": "Ferienwohnung Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/966e4792-5bb7-4826-b8ef-95723509c9af/99/image.jpg",
+      "caption": "Sitzecke, Ferienwohnung Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d486431-48a0-43cc-b705-8bed4d866bc4/99/image.jpg",
+      "caption": "Ferienwohnung Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e26a2497-aca2-4505-902e-298cc0042eab/99/image.jpg",
+      "caption": "Aussicht vom Balkon"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2092816194382",
+    "longitude": "11.864150762558"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Die Wohnung hat 3 Doppelzimmer mit Dusche/WC, TV und Balkon.\nEs befindet sich in der Wohnung ebenso eine Küche, die komplett mit Geschirr ausgestattet ist.  \nBettwäsche, Handtücher und Geschirrtücher werden kostenlos zur Verfügung gestellt. Die Ferienwohnung ist eine komplette Etage.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "62.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "72.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "82.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "92.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "102.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

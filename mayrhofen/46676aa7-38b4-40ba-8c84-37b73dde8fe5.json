@@ -1,0 +1,66 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BankOrCreditUnion"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Raiffeisenbank Hippach"
+    },
+    {
+      "@language": "de",
+      "@value": "Raiffeisenbank Hippach"
+    },
+    {
+      "@language": "ru",
+      "@value": "Raiffeisenbank Hippach"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2037531261796",
+    "longitude": "11.8660604953766"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Raiffeisenbank Hippach",
+    "streetAddress": "Lindenstraße 11",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043  5282 3751",
+    "faxNumber": "0043 5282 37517",
+    "email": "info@rbhippach.at",
+    "url": "http://www.rbhippach.at/eBusiness/rai_template1/1028400224524-1034822625382_1034"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Wir sind:\nWintersport Verein Raiffeisen Lagerhaus Hippach\nFussballverein SK Raiffeisen Hippach\nTennisclub TC Raiffeisen Hippach\nEisstockclub ESV Raiffeisen Lagerhaus Ramsau\nRaiffeisenbank Hippach\nRaiffeisenbank Zweigstelle Ramsau\nLagerhaus \n\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7db9e7c-ad00-4bcb-b296-5682888fa312/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Raiffeisenbank Hippach"
+        },
+        {
+          "@language": "de",
+          "@value": "Raiffeisenbank Hippach"
+        },
+        {
+          "@language": "ru",
+          "@value": "Raiffeisenbank Hippach"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.rbhippach.at/eBusiness/rai_template1/1028400224524-1034822625382_1034822729894-1034822729894-NA-1-NA.html"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Reini\u0027s Taxi"
+    },
+    {
+      "@language": "de",
+      "@value": "Reini\u0027s Taxi"
+    },
+    {
+      "@language": "ru",
+      "@value": "Reini\u0027s Taxi"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1687231",
+    "longitude": "11.8663143"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Reinis Taxi",
+    "streetAddress": "Dorf 46 ",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 650 463 7575",
+    "email": "reinis-taxi@aon.at",
+    "url": "www.reinis-taxi.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Wenn Sie Top Service von einem Taxi Unternehmen im Umkreis von Mayrhofen und dem hinteren Zillertal suchen, so haben Sie es mit Reini’s Taxi gefunden!\n\nWir bewegen Mayrhofen seit 2002. Die ausgebildeten Fahrer und modernen Fahrzeuge garantieren eine komfortable Fahrt mit Reini’s Taxi.\nFlughafen Transfers nach Innsbruck, Salzburg oder München, Ortstaxi oder sonstige Zubringer Services – überlassen Sie das Fahren ruhig uns!\n"
+    },
+    {
+      "@language": "en",
+      "@value": "If you’re looking for top service to, from, and all around Mayrhofen and the lower Zillertal, then you’ve found it with Reini’s Taxi!\n\nWe’ve been moving Mayrhofen since 2002 with our team of trained drivers and our modern fleet of vehicles. You can always be sure to ride in comfort when you call for Reini’s Taxi.\nNo matter if you are going to or from Innsbruck, Salzburg, or Munich airports, you can leave the driving to us.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e44ea3cf-de8b-4f5d-92d6-d83e37c0edca/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.reinis-taxi.at"
+  ]
+}

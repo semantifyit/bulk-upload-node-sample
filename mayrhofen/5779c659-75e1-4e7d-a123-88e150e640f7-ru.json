@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness",
+    "BeautySalon"
+  ],
+  "name": "Kinesiologie Praxis Brigitte Eder",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1034938400908",
+    "longitude": "11.8079370392868"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dornauberg 39/1",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 136 32 01",
+    "email": "info@brigitte-eder.at",
+    "url": "http://urlaub-fuer-koerper-geist-und-seele.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f945b76-da2e-4587-915e-b87e05e592ef/99/image.jpg",
+      "caption": "1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1c3c64b-07ed-41cf-be4b-5f2e9ac1ae8a/99/image.jpg",
+      "caption": "2"
+    }
+  ],
+  "url": [
+    "http://",
+    "http://urlaub-fuer-koerper-geist-und-seele.at/"
+  ]
+}

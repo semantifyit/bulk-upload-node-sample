@@ -1,0 +1,90 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TennisComplex"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Tennisplätze Hotel Berghof"
+    },
+    {
+      "@language": "de",
+      "@value": "Tennisplätze Hotel Berghof"
+    },
+    {
+      "@language": "ru",
+      "@value": "Tennisplätze Hotel Berghof"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1691477838745",
+    "longitude": "11.865770816803"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Berghof",
+    "streetAddress": "Durster Straße 220",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62254",
+    "faxNumber": "0043 5285 62254 90",
+    "email": "info@berghof.cc",
+    "url": "http://www.berghof.cc"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Tennis \u0026 Squash im Hotel Berghof\n\nNehmen Sie sich die Zeit und vergnügen Sie sich bei einer Runde Tennis auf unseren hoteleigenen Tennisplätzen. Gelenkschonende Sandplätze im Freien sorgen für angenehmes Spielen. Insgesamt gibt es 4 Tennisfreiplätze, die von 8:00 bis 20:00 Uhr genützt werden können.\n\n\n\nUnsere Hartplätze (Teppich mit Gummigranulat) in der Tennishalle und im Squashcourt bieten bei jeder Witterung optimale Spielmöglichkeit. \n\nBringen Sie Ihren Körper in Höchstform und profitieren Sie von unseren Inklusivleistungen für unsere Hotelgäste:\n\n    kostenlose Benützung der Tennisfreiplätze\n    kostenlose Benützung der Tennishalle von 8-16 Uhr (nur im Winter)\n    kostenlose Benützung des Squashcourts\n\n \n\nPreise für externe Gäste:\n\n1 Stunde auf dem Freiplatz € 10,- und in der Tennishalle € 16,- \n1 Stunde Squashcourt: € 10,- € "
+    },
+    {
+      "@language": "en",
+      "@value": "Make time to enjoy an invigorating game of tennis on one of our 4 outdoor courts open daily in summer from 8am – 7pm.\n\nThe 2 hard courts (carpet with rubber granules) in our tennis hall as well as our squash court offer a good alternative if the weather doesn’t play ball!\n\nKeep fit and make the most of the following facilities offered free of charge to our guests;\n\n    outdoor tennis courts\n    tennis hall from 8am-4pm (only winter)\n    squash court\n\n \n\nPrices for external guests:\n\n1 hour outdoor tennis court € 10,- or in the tennis hall € 16,-\n1 hour squash € 10,-"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/798d50dd-468f-433e-a13a-279f9d306c47/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Hotel Berghof"
+        },
+        {
+          "@language": "de",
+          "@value": "Hotel Berghof"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Berghof"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a45949bd-ac22-4238-b839-de7952b4918b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Tennisplatz"
+        },
+        {
+          "@language": "de",
+          "@value": "Tennisplatz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Tennisplatz"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://",
+    "http://",
+    "http://www.berghof.cc"
+  ]
+}

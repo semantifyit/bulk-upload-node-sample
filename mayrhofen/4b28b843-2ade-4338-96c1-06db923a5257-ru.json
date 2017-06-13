@@ -1,0 +1,96 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.mayrhofen.at/de/haus-christina",
+    "http://maps.mayrhofen.at/?foreignResource\u003d4B28B843-2ADE-4338-96C1-06DB923A5257"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Christina, Haus",
+    "streetAddress": "Laimach 72",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4126",
+    "email": "haus.christina@hotmail.com"
+  },
+  "name": "Haus Christina",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c2646e6-e933-4f74-aefb-479bfa68c86f/99/image.jpg",
+      "caption": "Haus Christina Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/42da538d-9e81-409f-bd95-bd795ab41a4d/99/image.jpg",
+      "caption": "Haus Christina Hippach - Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0729969c-d23e-479c-9d07-4133e9d0a7d2/99/image.jpg",
+      "caption": "Haus Christina Hippach - Sommerbild 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.210711",
+    "longitude": "11.866527"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, ванна, туалет, 4 или больше спалень",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент, bath, toilet, 4 или большее количество спале",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "5"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "20.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "20.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "20.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "20.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

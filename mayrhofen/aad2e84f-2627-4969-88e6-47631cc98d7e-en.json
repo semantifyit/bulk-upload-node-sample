@@ -1,0 +1,153 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dAAD2E84F-2627-4969-88E6-47631CC98D7E"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Stadler",
+    "streetAddress": "Lindenhöhe 612",
+    "addressLocality": "Hainzenberg",
+    "postalCode": "6278",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3332",
+    "email": "konrad.stadler@aon.at"
+  },
+  "name": "Stadler Marianne",
+  "description": "A private pension on a small hill situated, shops in close vicinity\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/240503db-0603-4de2-afeb-6637c34a5bac/99/image.jpg",
+      "caption": "Marianne Stadler Hainzenberg - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef3f261e-3d31-41ed-a004-2fac39417a31/99/image.jpg",
+      "caption": "Baum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d2d3869a-5c8f-41fa-b2c2-b6a7b24867b3/99/image.jpg",
+      "caption": "See"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac592264-3e58-439a-a06d-984121e5796d/99/image.jpg",
+      "caption": "Zaun"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81048c3e-7b34-4381-9ce0-5aa6ed2194fe/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a2ec6f57-7965-482c-886d-80e49f077b51/99/image.jpg",
+      "caption": "Gipfel © Paul Sürth"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1b588e6-9934-496f-a785-d70a366c092a/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fdbee781-92b2-426e-9fed-fe6cb1ca15e0/99/image.jpg",
+      "caption": "Genießerberg Ahorn © Florian Schüppel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63c1bfca-2cbb-4592-81c7-e44b42ac0350/99/image.jpg",
+      "caption": "Skifahren © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81655a14-e7ac-49bf-aaaf-68d4bfea49d7/99/image.jpg",
+      "caption": "Spaß im Schnee © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f08dffb-54c3-4628-9c35-2d64c5137020/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d57cf2b-119c-4ee2-9169-ad4be33801a0/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f3402c0-700b-41e1-a1a4-686f0fcf79f3/99/image.jpg",
+      "caption": "Winter am Berg © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/44896542-725c-4c11-b110-1a8c9fa4cb8a/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bc4646c2-83f8-4485-a576-2e9bcbe683af/99/image.jpg",
+      "caption": "Wandern am Stausee © Norbert Freudenthaler"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2105024021772",
+    "longitude": "11.874423623085"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Big double room with balcony. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, running hot/cold water",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with running hot/cold water",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

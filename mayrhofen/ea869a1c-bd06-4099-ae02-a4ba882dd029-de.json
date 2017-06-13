@@ -1,0 +1,90 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dEA869A1C-BD06-4099-AE02-A4BA882DD029"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Geisler, Ferienwohnungen",
+    "streetAddress": "Dornaustraße 613",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62883",
+    "faxNumber": "0043 5285 62727",
+    "email": "marlene@interwave.at"
+  },
+  "name": "Ferienwohnungen Geisler",
+  "description": [
+    "Unser Haus liegt zentral, sonnig und ruhig. Parkplatz, 2 Gehminuten bis zur Penkenbahn und Ortszentrum. Beide Wohnungen gemütlich eingerichtet, komplette Küchenausstattung, DU/WC, 1 WC separat, Balkon, Kabel-TV, Skiraum mit elektrischem Schuhtrockner;",
+    "Brötchendienst auf Anfrage!",
+    "Check-In: 14:00 Uhr, Check-Out: 10:00 Uhr; Kommend von der Bundesstrasse 169 beim Kreiverkehr vorbei, beim Bahnhof sowie auch bei der ARAL-Tankstelle  vorbei. Nach der Brücke vor dem Roten Kreuz nach links abbiegen und auf der rechten Seite nach ca. 100 m befindet sich unser Haus!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16f32671-0b48-4ec2-97b1-55a777d291ff/99/image.jpg",
+      "caption": "Haus Geisler Mayrhofen - Sommerbild"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1642096163949",
+    "longitude": "11.8591833114624"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Das Appartment (ca. 58m²) verfügt über eine moderne ausgestattete Küche, Vorraum mit Garderobe, gemütliches Wohnzimmer mit Schlafgelegenheit für 2 Personen, Kabel-TV, ein Doppelzimmer mit DU/WC, ein separates WC sowie Balkone. Alle Wohn- und Schlafräume sind mit Parkettböden ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Das Appartment (ca. 74m²) verfügt über eine modern ausgestattete Wohnküche mit Kabel-TV, Wohnzimmer mit Kabel-TV und Schlafgelegenheit für 2 Personen, ein Doppelbettzimmer, ein Dreibettzimmer, Dusche/WC und einem separatem WC sowie Balkone. Alle Wohn und Schlafräume sind mit Parkettböden ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

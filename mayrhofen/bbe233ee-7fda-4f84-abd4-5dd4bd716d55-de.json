@@ -1,0 +1,299 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.alpenparadies.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003dBBE233EE-7FDA-4F84-ABD4-5DD4BD716D55"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergkristall, Aparthotel",
+    "streetAddress": "Laubichl 133",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62580 55",
+    "faxNumber": "0043 5285 6258056",
+    "email": "info@alpenparadies.com",
+    "url": "http://www.alpenparadies.com"
+  },
+  "name": "Aparthotel Bergkristall",
+  "description": [
+    "Apparthotel in sonnige, ruhige Lage, wenige Gehminuten vom Ortszentrum entfernt, Jugendraum, Kinderspielzimmer, Kinderspielplatz, Tiefgarage, Lift, Aufenthaltsraum, Gästewaschmaschine/Trockner, Skikeller, Skischuhtrockner, Liegewiese. Freischwimmbad (Wi. u. So. Betrieb), Sauna, Dampfbad, Solarium nur 70 m. entfernt im Nachbarhaus Gästehaus Camping. Internetraum.\nSie können zu jedem Appartement ein Zusatzdoppelzimmer mit\nDusche, WC, Sitzecke, SAT-TV, Radio und Telefon mieten!!! (Preise: 15,50 bis 25,-- Euro je nach Saisonszeiten und Personenanzahl!)",
+    "im Preis inkludiert: Strom, Wasser, Heizung, Bettwäsche/Handtücher. 1x Wöchentlich Sauna/Dampfbad- benützung, Täglich Freibadbenützung.\nExklusive: Endreinigung, Brötchenservice. Frühstück: 9,-- Euro oder Halbpension: 14,-- Euro.",
+    "Check in: 15:00 Uhr / Check out: 10:00 Uhr.\nAnreise: Richtung Mayrhofen bis zum Kreisverkehr, links bis zur BP-Tankstelle, nochmal links Richtung Laubichl bis zum Campingplatz, kurz davor biegen Sie rechts ab, am Ende der Strasse befindet sich unser Apparthotel Bergkristall."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fda2fca8-9fac-44ae-8a80-9019b66cfb3f/99/image.jpg",
+      "caption": "Bergkristall Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a32e503-d131-4788-b4ad-57a4198a3ba1/99/image.jpg",
+      "caption": "Bergkristall Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ee47efb-13fe-4b5a-9822-35f613ec9776/99/image.jpg",
+      "caption": "Bergkristall Mayrhofen - Reception"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/89177407-f0db-4b3e-b400-745008d2c87d/99/image.jpg",
+      "caption": "Bergkristall Mayrhofen - Schwimmbad"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.174480743459",
+    "longitude": "11.870322296907"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Appartement: Jasmin und Edelweiß: für 4-6 Personen (ca. 65m²). 2 Schlafzimmer, Wohnzimmer mit Kachelofen, Sitzecke und ausziehbares Liegesofa, Küche komplett eingerichtet (Mikrogrill, Geschirrspüler ...), Vorraum mit Garderobe, eine Dusche/WC, ein Ba",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap Jasmin/Edelweiß/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "82.00",
+          "maxPrice": "142.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "82.00",
+          "maxPrice": "142.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "82.00",
+          "maxPrice": "142.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Appartement Himmelschlüssel: für 2-3 Pers. (ca. 38m²). Schlafzimmer mit Himmelbett, Wohnbereich mit Kachelofen, Sitzecke und Liegesofa, Küche komplett eingerichtet (Mikrogrill, Geschirrspüler...), Dusche/WC, Balkon Richtung Westen, SAT-TV, Radio, Telefon und Safe. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Himmelschlüssel/Wohn-Schlafraum/Dusche,",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "83.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "63.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC",
+      "description": "Appartement: Alpenrose und Vergissmeinnicht:  für 2-4 (5) Pers. (ca. 55m²): Schlafzimmer, Wohnzimmer mit Kachelofen, Sitzecke und ausziehbares Liegesofa, Küche komplett eingerichtet (Mikrogrill, Geschirrspüler ...), Bad, WC separat, Vorraum mit Garderobe, Balkon Richtung Osten, SAT-TV, Telefon, Radio und Safe. \noder\nAppartement: Alpenveilchen und Sonnenblume: für 2-4 Pers. (ca. 50m²): Schlafzimmer, Wohnzimmer mit Kachelofen, Sitzecke und ausziehbares Liegesofa, Küche komplett eingerichtet (Mikrogrill, Geschirrspüler ...), Dusche, WC separat, Vorraum mit Garderobe, Balkon Richtung Norden, SAT-TV, Telefon und Safe. \noder\nAppartement: Enzian, Rose und Lilie für 2-5 Personen, (ca. 56 m²). Schlafzimmer, Wohnzimmer mit Kachelofen, Sitzecke und ausziehbares Liegesofa, Küche komplett eingerichtet (Mikrogrill, Geschirrspüler ...), Bad oder Dusche, WC separat, Vorraum mit Garderobe, Balkon Richtung Süden, SAT-TV, Telefon, Radio und Safe. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap./1Wohn-Schlaf\u00261Schlafr./Du od.Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "57.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "64.00",
+          "maxPrice": "107.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "79.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "89.00",
+          "maxPrice": "139.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Appartement: Orchidee für 4-7 Pers. (ca. 78m²). 2 Schlafzimmer, 1 Dusche/WC sowie 1 Dusche und 1 WC separat, Wohnzimmer mit Kachelofen, Sitzecke und ausziehbares Liegesofa (Schlafgelegenheit für 2-3 Personen), Küche komplett eingerichtet (Mikrogrill, Geschirrspüler ...), Vorraum mit Garderobe, Balkon Richtung Süden, SAT-TV, Telefon, Radio und Safe. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Orchidee/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad",
+      "description": "Appartement Veilchen: für 4-6 Pers. (ca. 69m²) 2 Schlafzimmer, Wohnzimmer mit Kachelofen, Sitzecke und ausziehbares Liegesofa, Küche mit Sitzecke komplett eingerichtet (Mikrogrill, Geschirrspüler ...), 1 Dusche/WC, mit Doppelwaschtisch, 1 Dusche separat, 1 WC separat, Vorraum mit Garderobe, Balkon Richtung Süden, SAT-TV, Telefon, Radio und Safe. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Veilchen/Wohn-Schlafr./2 Schlafraum/Bad o. Du",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, Süd",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche oder Bad, Süd",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "77.00",
+          "maxPrice": "77.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "91.00",
+          "maxPrice": "91.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "105.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, 1 Schlafraum",
+      "description": "für 1-2 Personen 20m²\n1 Schlafzimmer \nDoppelbett \n1 Dusche/WC \nSitzgelegenheit \nBalkon Richtung Norden \nFlat-TV mit Sat und Sky \n1 Dusche/WC \nTelefon \nRadio \nSafe\n\nAuch mit Frühstück im benachbarten Landhotel Denggerhof möglich.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Dusche, WC, 1 Schlafraum",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

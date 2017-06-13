@@ -1,0 +1,487 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausdora.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA673B6C1-DC53-41DB-8200-2ADCBD3ACB77"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Dora",
+    "streetAddress": "Jakob-Moser-Straße 579",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0049 9931 8548",
+    "faxNumber": "0049 9931 907954",
+    "email": "info@hausdora.com",
+    "url": "http://www.hausdora.com"
+  },
+  "name": "Haus Dora",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt in der Mitte der 2 Bergbahnen, 5 Gehminuten ins Ortszentrum, zum Tennisplatz, Schwimmbad, Kinderspielplatz, Minigolf, herrlicher Panoramablick, kostenlose Parkplätze"
+    },
+    {
+      "@language": "de",
+      "@value": "Preise inkl. Bettwäsche, Küchentücher\nPreise exkl. Endreinigung"
+    },
+    {
+      "@language": "de",
+      "@value": "Fahren Sie die Hauptstrasse entlang bis zur Penkenbahn, dann links abbiegen dort 1. Straße rechts in die Jakob-Moser-Str. 579"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated inbetween the 2 lift stations, a 5 minute walk from the town centre, the tennis courts, swimming pool and enjoys stunning panoramic views. Free car parking."
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes bed linen and towels.\nExcludes a final cleaning charge "
+    },
+    {
+      "@language": "en",
+      "@value": "Drive up the high street in Mayrhofen until the Penken lifts, turn left here and then take the first right, keeping right, which will lead you in to the Jakob-Moser-Strasse (house nr. 579)."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/15f95b8b-7e30-4f2d-9db8-f63fac152e69/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dora Mayrhofen - Winter 1 "
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dora Mayrhofen - Winter 1 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dora Mayrhofen - Winter 1 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3463c9ba-3c15-4cba-b2ae-aa45ac07d01b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dora Mayrhofen - Sommer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dora Mayrhofen - Sommer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dora Mayrhofen - Sommer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1d30ab4-cf85-4d19-a898-5fec8c67cc4c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dora Mayrhofen - Winter 2 "
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dora Mayrhofen - Winter 2 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dora Mayrhofen - Winter 2 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/599f0cd6-8b54-4d1c-a928-007e1f6b2aa8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Balkon"
+        },
+        {
+          "@language": "ru",
+          "@value": "Balkon"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/03bfff6a-4086-4315-bc5d-06cb7e645ecf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Terrasse"
+        },
+        {
+          "@language": "en",
+          "@value": "Terrasse"
+        },
+        {
+          "@language": "ru",
+          "@value": "Terrasse"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c66f83b-2cc3-493c-8a9c-45f31d381932/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/18b4172e-70ee-43f6-8d65-422616b63e52/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Küche_1"
+        },
+        {
+          "@language": "en",
+          "@value": "Küche_1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Küche_1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6452917-2a86-43cd-8c38-639ec5013cd5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a4e7457-4c38-45aa-861b-bede8ca9be59/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Zimmer_1 (1)"
+        },
+        {
+          "@language": "en",
+          "@value": "Zimmer_1 (1)"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer_1 (1)"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/35e1fcb0-a616-417b-be22-1365004f8377/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Zimmer_1"
+        },
+        {
+          "@language": "en",
+          "@value": "Zimmer_1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer_1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0222cc6d-820f-4139-befa-28f18926edf3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "7"
+        },
+        {
+          "@language": "en",
+          "@value": "7"
+        },
+        {
+          "@language": "ru",
+          "@value": "7"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1614959818143",
+    "longitude": "11.8644511699677"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Dusche, WC, Kitchinette, Wohn-Schlafraum, Schlafzimmer, durchgehender Balkon, hell, sonnig, Blick zum Penken, Parkplatz"
+        },
+        {
+          "@language": "en",
+          "@value": "Shower/WC, kitchenette, combined lounge/bedroom, bedroom, long balcony, light and airy, views of the Penken mountain, car park."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment 2 - 4 Personen"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./1 bedroom/shower,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "45.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "zentral gelegen, ruhig, Blick zum Penken, hell, freundlich, Parkplatz vorhanden, Sonnenterrasse, Wohnzimmer mit Küchenzeile, Schlafzimmer mit Doppelbett u. Klappbett, Dusche, WC\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Centrally situated, quiet, views of the Penken mountain, light and airy, car park, sun terrace, lounge with kitchen facilities, double bedroom with an additional guest bed, shower/WC."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment 2 - 3 Personen"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./1 bedroom/shower,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "2 Schlafzimmer mit Waschbecken, Wohnküche, 2 TV, Dusche, Wc, Mikrowelle, Geschirrspüler, 2 Plattenherde, Kühlschrank"
+        },
+        {
+          "@language": "en",
+          "@value": "2 bedrooms with washbasin, kitchen, 2 TV, shower, toilette, microwave, dishwasher, oven, fridge\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment 2 - 4 Personen"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "45.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dF525CE54-4CEF-4897-94B5-60CB564BE194"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Astbühel 282",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4195",
+    "faxNumber": "0043 5282 4195",
+    "email": "michaelkirchler@gmx.at"
+  },
+  "name": "Kirchler Mathilde",
+  "description": [
+    "Our house Kirchler is situated in sunny position at Schwendberg. There you have wonderful view to the zillertaler mountains. To the center of Hippach with a lot of restaurants and shops  it takes only 300m by feed.\n2,5 km to the Horbergbahn and 5.5 km to Mayrhofen; parking lot for 3 cars",
+    "bread service, final cleaning: € 25-50,--",
+    "Check in 15.00 pm - Check out 10.00 am\n\nway description:\nmotorway exit Zillertal, B169 to Ramsau, turn right at the traffic light, pass the bridge and turn right again - turn left past 500 meters to Zillertaler Höhenstraße - 700m upway then leave the street at Astbühel!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/915fa68c-a85e-44ce-8520-72b7bab6cea1/99/image.jpg",
+      "caption": "Kirchler Mathilde Hippach - Winterbild"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.206395636616",
+    "longitude": "11.8635885813089"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Holiday home, shower and bath, toilet, 4 or more bed rooms",
+      "description": "house with 5 rooms, 2 floors, ca. 110m², groundfloor: livingroom with couch and Sat-TV, kitchen (oven, dish-washer, coffeemachine), eating-corner, bathroom, seperate WC, 1. floor: 1 doubleroom with terasse, 1 bedroom with doublebed, singlebed and balcony, 1 room with doublebed, singlebed, running hot/cold water and balcony, little bedroom for 2 persons , shower and WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "hol. house/4 + more bedrooms/shower,bath",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

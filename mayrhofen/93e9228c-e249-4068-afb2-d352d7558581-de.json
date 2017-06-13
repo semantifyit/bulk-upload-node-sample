@@ -1,0 +1,73 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "Wuppy’s Kinderland",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.164413862851",
+    "longitude": "11.8645691871643"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Monday",
+      "opens": "09:00",
+      "closes": "17:00",
+      "validFrom": "2017-12-18",
+      "validThrough": "2018-03-30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Tuesday",
+      "opens": "09:00",
+      "closes": "17:00",
+      "validFrom": "2017-12-18",
+      "validThrough": "2018-03-30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Wednesday",
+      "opens": "09:00",
+      "closes": "17:00",
+      "validFrom": "2017-12-18",
+      "validThrough": "2018-03-30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Thursday",
+      "opens": "09:00",
+      "closes": "17:00",
+      "validFrom": "2017-12-18",
+      "validThrough": "2018-03-30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Friday",
+      "opens": "09:00",
+      "closes": "17:00",
+      "validFrom": "2017-12-18",
+      "validThrough": "2018-03-30"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wuppy’s Kinderland",
+    "streetAddress": "Waldbadstraße 539",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63612",
+    "email": "kinderkrippe_hopp_hopp_hopp@gmx.at",
+    "url": "http://www.mayrhofen.at"
+  },
+  "description": "Wuppy’s Kinderland im Erlebnisbad Mayrhofen.\n\nAusgestattet mit Kinderbettchen, Wickelmulden, Gehschulen, kindergerechte Spielräume;\n\nZum Verleih wird angeboten: \nKinderwagen, Baby-Tragetaschen und Kinderbettchen - Ausleihgebühr € 10,- pro Tag, Anzahlung € 50,-\n\nAltersgrenze ab 3 Monaten bis 4 Jahre.\nDie vorherige, rechtzeitige Anmeldung ist unbedingt erforderlich!\nDiese ist jährlich ab September möglich.\n\nPreisinformation: \n½ Tag Halbtags - € 40,-\n1 Tag - € 50,-\n5-Tagespauschale - € 185,-\nAufpreis Mittagessen - € 5,-\n\nWährend der Sommermonate ist das Kinderland geschlossen!\n\nKontakt:\nErlebnisbad Mayrhofen\nWaldbadstraße 539\n6290 Mayrhofen\nTel.: +43 5285 63612",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/945bf5a2-1d2e-41ea-b2cb-a75d92c15693/99/image.jpg",
+      "caption": "Kinderland"
+    }
+  ]
+}

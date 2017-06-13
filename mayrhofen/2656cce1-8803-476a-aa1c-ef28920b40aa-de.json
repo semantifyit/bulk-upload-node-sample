@@ -1,0 +1,311 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.chalet-apartments.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d2656CCE1-8803-476A-AA1C-EF28920B40AA"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Oberhollenzer, Chalet - Appartements ",
+    "streetAddress": "Peter-Habeler-Straße 552",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043(0) 5285 63060",
+    "faxNumber": "0043 5285 63060",
+    "email": "j.oberhollenzer@aon.at"
+  },
+  "name": "Oberhollenzer Julitta",
+  "description": [
+    "Unsere Appartements \"TOP 1\", \"TOP 2\" und \"TOP 3\" befinden sich in der Brandberg-straße 354, (nur 3 Gehminuten vom CHALET und von unserem PRIVATHAUS entfernt) in sehr zentraler und sehr ruhiger Lage. Appartements nur für NICHTRAUCHER! Erlebnisbad, Scheulingwald, Waldfestbuden, Waldfestbuden: Advent-Markt: Freitag und Samstag abends, Minigolf, Tennis/Kunsteislaufplatz, Langlaufloipe, Skibushalte-stelle und das Europahaus-Veranstaltungszentrum sind in der Nähe. 5 Gehminuten bis zur Penkenbahn und zur Ortsmitte. 8 Gehminuten bis zur neuen Ahornbahn.",
+    "Inklusiv: Heizung, Strom, Wasser, Kabel-TV/Kabel-Receiver, INTERNET, Radiowecker, Safe, Personenwaage, MÜLLENTSORGUNG, Bettwäsche, Dusch-, Hand- und Geschirrtücher, sowie Waschlappen. \n\nExkl.ER: €50,-- bis €120,--",
+    "Check in: frühestens 16:00 Uhr  \nCheck out:spätestens 10:00 Uhr im Sommer, spätestens 09:00 Uhr im Winter.\nB169: am Bahnhof vorbei, bei km 29,6 links bis Kreuzung,rechts Hauptstraße bis Gasser-links Fischerstraße bis Ende-Einbahn P.Habeler-Str."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "reviewCount": "20"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f170c484-a6f4-48c3-b3f4-667a73b00f51/99/image.jpg",
+      "caption": "Oberhollenzer Chalet Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9079a264-0f58-4653-ae0b-f37809beb90e/99/image.jpg",
+      "caption": "Oberhollenzer Chalet Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/240fc8e2-c17b-41b1-8a39-7a86447922d3/99/image.jpg",
+      "caption": "Bike © Ronny Kiaulehn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f5cdf37-187c-48ff-b965-21a4c2dae5c5/99/image.jpg",
+      "caption": "Bouldern © Ursula Aichner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c0254219-3a6a-4370-84c3-b71b5a20c3eb/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1a54ea25-7bef-4d71-96db-06a476e7ac53/99/image.jpg",
+      "caption": "sommer_mayrhofen__laurin_moser (7)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6688ee07-2cfb-479a-aac3-7d87ce9e12a2/99/image.jpg",
+      "caption": "Sujetbild_WdoT 2017"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bb22654b-9a21-4055-83e6-8effa20c09cd/99/image.jpg",
+      "caption": "Gelebtes Brauchtum © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7e91c5b6-e68c-4bfa-9e53-f564b72ec43d/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aba64514-4e58-49d4-90d9-e79b58ef86da/99/image.jpg",
+      "caption": "Panorama © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53a034cf-7c55-48a7-9c21-f6b75e7166c0/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.165997276213",
+    "longitude": "11.865661397283"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Appartement \"TOP 3\": Doppelschlafzimmer, Vorraum mit Garderobe, Bad: Badewanne, WC Waschbecken. Abstellraum, Wohnraum mit Küchenblock, großer Balkon. Keller mit Schischuhheizung und Schiständer, Autoabstellplatz. NICHTRAUCHERAPPARTEMENT!!! Safe, Radiowecker, Kabel-TV und Kabel-Receiver, INTERNET. \nExklusiv Endreinigung: Sommer: EURO 50,--, Winter: EURO 60,--. \nExklusiv Ortstaxe: pro Person ab 15 Jahre pro Nacht EURO 1,50",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 3",
+          "description": "Appartement \"TOP 3\": Doppelschlafzimmer, Vorraum mit Garderobe, Bad: Badewanne, WC Waschbecken. Abstellraum, Wohnraum mit Küchenblock, großer Balkon. Keller mit Schischuhheizung und Schiständer, Autoabstellplatz. NICHTRAUCHERAPPARTEMENT!!! Safe, Radiowecker, Kabel-TV und Kabel-Receiver, INTERNET. \nExklusiv Endreinigung: Sommer: EURO 50,--, Winter: EURO 60,--. \nExklusiv Ortstaxe: pro Person ab 15 Jahre pro Nacht EURO 1,50",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Appartement \"TOP 2\": 1 Doppelschlafzimmer, 1 Doppelschlafzimmer mit Sitzcouch, großer Hausgang mit Schuhschrank und Telefonschrank mit Sitzgelegenheit, komplette Küche mit Geschirrspüler, Toaster, Kaffeemaschine, Backofen, Wasserkocher, Zitronenpresse, Eierkocher. Wohnzimmer mit Wohnzimmerlandschaft und Eßecke. Bad: Dusche, große Badewanne, Bidet, WC. 1 sep. WC. Loggia, Balkon, Terrasse, Parkplatz. Keller mit Schischuhheizung. Nur für NICHTRAUCHER! Excl. ER: €50,-- bis €120,--,Ortstaxe\n€1,50/P/N",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 2",
+          "description": "Appartement \"TOP 2\": 1 Doppelschlafzimmer, 1 Doppelschlafzimmer mit Sitzcouch, großer Hausgang mit Schuhschrank und Telefonschrank mit Sitzgelegenheit, komplette Küche mit Geschirrspüler, Toaster, Kaffeemaschine, Backofen, Wasserkocher, Zitronenpresse, Eierkocher. Wohnzimmer mit Wohnzimmerlandschaft und Eßecke. Bad: Dusche, große Badewanne, Bidet, WC. 1 sep. WC. Loggia, Balkon, Terrasse, Parkplatz. Keller mit Schischuhheizung. Nur für NICHTRAUCHER! Excl. ER: €50,-- bis €120,--,Ortstaxe\n€1,50/P/N",
+          "numberOfRooms": "7.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "110.00",
+          "maxPrice": "218.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "130.00",
+          "maxPrice": "246.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Appartement \"TOP 1\": Im \"Tiroler Stil\" eingerichtet.1 Doppelschlafzimmer mit großem Schrank und Garderobe, Vorraum mit Garderobe,Bad: Badewanne, Waschbecken, WC, Badezimmerschrank. Küche/Wohnzimmer: Küchenblock mit Kühlschrank, Kaffeemaschine, Eierkocher, Wasserkocher, Elektroherd mit Backrohr, Eß- und Kochgeschirr. Eßecke, Bauernschrank, Wohnzimmerschrank, 2er Couch, 2 Foteulles, Tisch. Keller mit Skischuhheizung, Parkplatz; Nur für NICHT-RAUCHER!!!\nExcl.ER €50,-- bis €100,--, Ortst.€1,50 P/N.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 1",
+          "description": "Appartement \"TOP 1\": Im \"Tiroler Stil\" eingerichtet.1 Doppelschlafzimmer mit großem Schrank und Garderobe, Vorraum mit Garderobe,Bad: Badewanne, Waschbecken, WC, Badezimmerschrank. Küche/Wohnzimmer: Küchenblock mit Kühlschrank, Kaffeemaschine, Eierkocher, Wasserkocher, Elektroherd mit Backrohr, Eß- und Kochgeschirr. Eßecke, Bauernschrank, Wohnzimmerschrank, 2er Couch, 2 Foteulles, Tisch. Keller mit Skischuhheizung, Parkplatz; Nur für NICHT-RAUCHER!!!\nExcl.ER €50,-- bis €100,--, Ortst.€1,50 P/N.",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/8827ff02-9865-4c46-afab-1b2d0b3aa4c8/99/image.jpg",
+              "caption": "File0013525"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/00679c80-93f2-4c4e-a649-23be8c33745e/99/image.jpg",
+              "caption": "Kopie von 24122008 017"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/73a17a22-cf34-4e85-9200-8563c9521a8d/99/image.jpg",
+              "caption": "File0013468"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/19d8ba88-a78d-4184-8eba-673c7f7020e5/99/image.jpg",
+              "caption": "File0013484"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/bd7a4a7e-a4ce-4533-aaba-7cfdf3a96dad/99/image.jpg",
+              "caption": "File0013470"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "113.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "141.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "169.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche, WC, 2 Schlafräume",
+      "description": "CHALET für 2 bis 5 Personen mit Garten. 1 Doppelschlafzimmer mit Waschbecken,\n1 Dreibettzimmer mit Waschbecken, WC im 1. Stock. Wohnzimmer mit Kabel-TV und Kabel-Receiver, komlette Wohnküche mit Eß- und Kochgeschirr, Geschirrspüler, Kaffeema-schine, Toaster, Wasserkocher, Eierkocher, Mikrowelle mit Backofen, Bügeleisen. Dusche mit WC und einem Waschbecken im Erdgeschoß. Skischuhheizung und Skiständer in der Autogarage.INTERNET  \nExklusiv: Endreinigung: €50,-- bis €110,--. Ortstaxe EURO 1,50 P/N",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Chalet",
+          "description": "Das CHALET ist sehr ruhig gelegen neben dem Erlebnisbad. Es kann von 2 bis 5 Personen bewohnt werden. Es besteht im Obergeschoß aus einem 1 Doppelzimmer mit Waschbecken, 1 Dreibettzimmer mit Waschbecken und 1 WC. Im Erdgeschoß befinden sich das Wohnzimmer,  \ndie Wohnküche, die Dusche mit WC und Waschbecken, der Hausgang mit Garderobe.\nAuch ein Balkon mit Stühlen ist vorhanden. Am Balkon haben Sie Morgensonne.\nIn der linken Autogarage befinden sich eine Schischuhheizung und der Skiständer.",
+          "numberOfRooms": "8.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "120.00",
+          "maxPrice": "194.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

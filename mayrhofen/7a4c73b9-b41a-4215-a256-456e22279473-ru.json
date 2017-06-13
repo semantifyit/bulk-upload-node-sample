@@ -1,0 +1,135 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.feldlhuette.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d7A4C73B9-B41A-4215-A256-456E22279473"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Feldlhütte",
+    "streetAddress": "Ramsberg 847",
+    "addressLocality": "Ramsau i.Zillertal",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2934",
+    "faxNumber": "0043 5282 2934",
+    "email": "feldlhof@hotmail.de",
+    "url": "http://www.feldlhuette.at"
+  },
+  "name": "Feldlhütte",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b25ab612-c2c2-4101-9409-4e4d18fa9995/99/image.jpg",
+      "caption": "Feldlhütte Ramsau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d2930d31-e402-4581-87b1-4af1db534cdf/99/image.jpg",
+      "caption": "Feldlhütte Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e3d0ae3b-4628-41e4-a0a4-8710d5d966c8/99/image.jpg",
+      "caption": "Feldlhuette Ramsau Ausblick Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/780f2d80-e0b4-486d-87b6-2db3edbfd8cc/99/image.jpg",
+      "caption": "Gipfel © Paul Sürth"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86aea335-3073-4fc5-a3fe-4fe690daf97b/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/61d5f796-e613-491b-8a64-9ac440f2866d/99/image.jpg",
+      "caption": "Skifahren © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5796cc5f-52ba-41a8-8a4f-d862b73d20f0/99/image.jpg",
+      "caption": "Klettersteig © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e35b8041-927c-4df2-9f11-fd25fe6ace3e/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/524b9f64-1f69-452c-9449-390e38f186a9/99/image.jpg",
+      "caption": "Spaß im Schnee © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3fb453fc-5d56-4ddc-b62c-9d8c68792bb7/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6b81c5d9-65d4-448f-83fb-4936a9b0888a/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2064937564924",
+    "longitude": "11.8858659267426"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, ванна, туалет, три спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет, три спальни",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Дом отдыха, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Дом отдыха, душ, туалет",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "14",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

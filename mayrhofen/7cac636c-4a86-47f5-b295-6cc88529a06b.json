@@ -1,0 +1,343 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hochschwendberg 514",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3290",
+    "email": "spitaler.viktoria@gmail.com"
+  },
+  "name": "Elisabeth Spitaler",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus befindet sich an der Zillertaler Höhenstrasse auf 1200m Seehöhe mit wunderbarem Blick auf die Bergwelt. Wir verfügen über eine neue Ferienwohnung mit 50m². Eine gemütlich eingerichtete Wohnküche mit Schlafsofa, Flur, Badezimmer mit Dusche/WC und ein Schlafzimmer mit Doppel -und Zustellbett stehen ihnen zur Verfügung. Es sind auch Gartenmöbel vorhanden, ein Abstellraum für Ski usw. sowie direkt vor der Wohnung ist genügend Parkmöglichkeit. \nEs ist der ideale Ausgangspunkt für zahlreiche Wander und Bergtouren, Paragliding, uvm.\nIm Winter gelangen sie mit dem Skibus  in ca. 10 min direkt ins Skigebiet 3000."
+    },
+    {
+      "@language": "de",
+      "@value": "Im Preis inkludiert sind W-Lan, Bettwäsche, Handtücher, Skischuhtrockner, Parkplatz uvm."
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise ab 12 Uhr\nUnsere genaue Adresse lautet:\nSchwendberg 514, 6283 Hippach\nTirol"
+    },
+    {
+      "@language": "en",
+      "@value": "Elisabeth Spitaler"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c57a151-73cc-4197-a8fb-f084825f8351/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "HausWinter"
+        },
+        {
+          "@language": "en",
+          "@value": "HausWinter"
+        },
+        {
+          "@language": "ru",
+          "@value": "HausWinter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ef4abbf-13f2-4138-8b84-4ac8aa6bcf40/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Winter 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Winter 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Winter 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/70f99028-f28b-4191-8fa3-548d6554c636/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter Rodeln"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter Rodeln"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter Rodeln"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c374282-c645-4389-8a7b-8e6acc690a8f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Sommer 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Sommer 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Sommer 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09e981c5-de29-4bd5-8fad-b601ce996f1e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ea6e11f-1c66-467d-85ec-3c70f074e53d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gartenmöbel"
+        },
+        {
+          "@language": "en",
+          "@value": "Gartenmöbel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gartenmöbel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c84952f-d0a4-471e-8010-7eee137aa1a2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20160719_124413"
+        },
+        {
+          "@language": "en",
+          "@value": "20160719_124413"
+        },
+        {
+          "@language": "ru",
+          "@value": "20160719_124413"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f17c5bfc-853b-45d4-b2c9-815650d4e4c5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Küchenblock"
+        },
+        {
+          "@language": "en",
+          "@value": "Küchenblock"
+        },
+        {
+          "@language": "ru",
+          "@value": "Küchenblock"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4b9236fd-760f-497e-a4da-c8fdb5d57aa8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Flur mit Garderobe"
+        },
+        {
+          "@language": "en",
+          "@value": "Flur mit Garderobe"
+        },
+        {
+          "@language": "ru",
+          "@value": "Flur mit Garderobe"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/148898c0-a56b-4561-a490-cd610ee1dfb8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Badezimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Badezimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Badezimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/22fea49f-c765-42a4-ac64-799cf2bf2207/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schlafzimmer Doppel-und Zustellbett"
+        },
+        {
+          "@language": "en",
+          "@value": "Schlafzimmer Doppel-und Zustellbett"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schlafzimmer Doppel-und Zustellbett"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b481c54d-c4d7-4510-8d21-b5d9d79ef12b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wohnküche"
+        },
+        {
+          "@language": "en",
+          "@value": "Wohnküche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wohnküche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/044b658e-be04-4c8e-a1dd-4fb5b864d659/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gartenmöbel"
+        },
+        {
+          "@language": "en",
+          "@value": "Gartenmöbel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gartenmöbel"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2004378605845",
+    "longitude": "11.8320643767212"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement/Fewo"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

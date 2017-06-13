@@ -1,0 +1,109 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d9224A2E1-FE08-4FF7-94B1-EE5B0ED3BAE3"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Talblick",
+    "streetAddress": "Eggeweg 672",
+    "addressLocality": "Hainzenberg",
+    "postalCode": "6278",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3335",
+    "faxNumber": "0043 5282 3335"
+  },
+  "name": "Haus Talblick",
+  "description": [
+    "Schöne Pension in sonniger Lage!",
+    "Kinderermässigung auf Anfrage!",
+    "Check out 11.00 Uhr - Check in 12.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a09dbb1e-98db-4d3b-b4eb-d08d902b8191/99/image.jpg",
+      "caption": "Haus Talblick Hainzenberg - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ba5328e1-fb91-4523-a569-3dc43109e2cd/99/image.jpg",
+      "caption": "Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b2a4639-1ae4-4a60-98a7-b7b6094c9c7a/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/31e68981-44a6-430f-87c9-0ff94a13a1cd/99/image.jpg",
+      "caption": "Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aee63675-0504-4c34-87ac-a5ea1b93cd74/99/image.jpg",
+      "caption": "Sommer 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e4bbf28-9a16-49c9-9b1c-3e11f2c5a91a/99/image.jpg",
+      "caption": "Sommer 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e4f1feae-b973-4a4a-a639-814e702c8c24/99/image.jpg",
+      "caption": "Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a4f34b76-47c7-4162-a02c-009fcecae99a/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a4ee17f7-14fe-46f7-aca0-38d9445d3c51/99/image.jpg",
+      "caption": "Winter 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1d44ee20-ea04-4fd2-9bf5-74bb14ecac91/99/image.jpg",
+      "caption": "Winter 4"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2157860631462",
+    "longitude": "11.8783289194107"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer mit Du/WC, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

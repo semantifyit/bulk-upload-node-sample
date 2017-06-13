@@ -1,0 +1,106 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Tiroler Stuben"
+    },
+    {
+      "@language": "de",
+      "@value": "Tiroler Stuben"
+    },
+    {
+      "@language": "ru",
+      "@value": "Tiroler Stuben"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1702856126303",
+    "longitude": "11.8628633022308"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Carla, Apparthotel Landhaus",
+    "streetAddress": "Schwendaustraße 197a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62791",
+    "faxNumber": "(0043) 5285 63070",
+    "email": "info@landhaus-carla.at",
+    "url": "http://www.landhaus-carla.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "TOPLAGE IM ZILLERTAL....\nUnser familiär geführtes Hotel befindet sich am Ortseingang von Mayrhofen, ca. 3 Minuten vom Ortszentrum entfernt. Unser Haus ist der ideale Ausgangspunkt für Wanderungen und Ausflüge in die Zillertaler Alpen. Die Bushaltestelle zu den Mayrhofner Bergbahnen und den Zillertaler Gletscherbahnen befindet sich unmittelbar vor der Haustür. Auch die romantische Zillertalbahn dampft mehrmals täglich Richtung Inntal. \n\nRESTAURANT IM HERZEN VON MAYRHOFEN \"Tiroler Stuben\"...\nIn unserem mit dem Prädikat „Tiroler Wirtshaus“ ausgezeichnetem Restaurant \"Tiroler Stuben\"  verwöhnen wir unsere Gäste bei Live-Musik- und Tanzabenden mit Zillertaler und Tiroler Spezialitäten. Unser Haus ist auch bei Einheimischen und bekannten Zillertaler Musikgruppen ein beliebter Treffpunkt. \n\nWELLNESS IM HOTEL LANDHAUS CARLA...\nFür Erholung nach einem erlebnisreichen Urlaubstag ist in unserem kleinen aber feinen Wellnessbereich bestens gesorgt: Entspannen Sie sich in der Finnische Sauna, dem Dampfbad oder dem Whirlpool. Außerdem stehen Ihnen ein Solarium sowie eine Infrarotkabine zur Verfügung \n\nAuf Ihren Besuch im Zillertal freut sich \nFamilie Carla und Ernst Eberharter\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Lots of wood and attention to detail characterize the atmosphere - numerous Tyrolean including Zillertal specialties crown the culinary of \"Tiroler Stuben\" in \"Hotel Landhaus Carla\". At the entrance to Mayrhofen in the Ziller Valley, just three minutes from the town center."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d40eae1e-f06b-4e73-86c8-583ed2a20b91/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Tiroler Stuben"
+        },
+        {
+          "@language": "de",
+          "@value": "Tiroler Stuben"
+        },
+        {
+          "@language": "ru",
+          "@value": "Tiroler Stuben"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c53971d2-927b-4355-bf55-7732d86036d0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Empfang"
+        },
+        {
+          "@language": "de",
+          "@value": "Empfang"
+        },
+        {
+          "@language": "ru",
+          "@value": "Empfang"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d525030d-8b3f-414f-9e1b-2ab057a9b622/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "de",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.landhaus-carla.at"
+  ]
+}

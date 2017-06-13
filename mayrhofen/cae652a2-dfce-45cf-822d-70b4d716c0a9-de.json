@@ -1,0 +1,132 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dCAE652A2-DFCE-45CF-822D-70B4D716C0A9"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bacher Ferienwohnung",
+    "streetAddress": "Oberkumbichl 900",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64421",
+    "email": "ok900@aon.at"
+  },
+  "name": "Ferienwohnung Bacher",
+  "description": [
+    "Unser Haus liegt auf einer Anhöhe in ruhiger Lage. Am Waldrand neben den Wanderwegen und Rodelbahn gelegen. Mit dem Auto 5 Minuten zum Zentrum und den Seilbahnstationen Ahorn und Penkenbahn.",
+    "Preise inkl. Ortstaxe",
+    "Mayrhofen - Einfahrt Mitte - Richtung Ahornbahn - Abzweigung Gasthof Brücke links und geradeaus weiter Richtung Stilluptal - bis Abzweigung bei Mautstelle links und geradeaus bis Nr. 900."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "17"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c378e64-1e12-4683-9829-5ae6321f9591/99/image.jpg",
+      "caption": "Ferienwohnung Bacher Mayrhofen - Haus Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/feb73c89-1d38-41a2-b3c0-2595db4f164a/99/image.jpg",
+      "caption": "Ferienwohnung Bacher Mayrhofen - Haus Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8bf185a-6223-4738-b24e-bd6f261b57ba/99/image.jpg",
+      "caption": "Ferienwohnung Bacher Mayrhofen - Haus Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d28fdd0a-ac9b-4001-8760-b9dfa73fe02e/99/image.jpg",
+      "caption": "Einkehr © Blickfang Photographie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8735fe69-a467-4281-a8cf-b96522ede147/99/image.jpg",
+      "caption": "Klettersteig © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d0f7ccc1-0dc8-4f8b-befd-e1d42a669922/99/image.jpg",
+      "caption": "Skibergsteigen © Ursula Aichner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/648c9b3a-4819-4a89-96d5-e70491d42795/99/image.jpg",
+      "caption": "Skifahren © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/918a5bb7-4c48-44db-8f2c-e394f73c2d97/99/image.jpg",
+      "caption": "White Lounge am Genießerberg Ahorn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6e0adc62-163e-404d-bb0f-b4635766a5e5/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/100d933f-22ca-45da-a27c-984c19d42d2d/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b32e4cac-568e-4e99-9e9b-b333b1d2a2e1/99/image.jpg",
+      "caption": "Winter am Berg © Laurin Moser"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.155838483402",
+    "longitude": "11.8692415952682"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartment liegt im 1. Stock des Hauses, hat einen separaten Hauseingang, verfügt über die gesamte Etage.\na) Balkon ost u. süd\nb) Dusche, Wc\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

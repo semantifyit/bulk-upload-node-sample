@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Beauty and Care"
+    },
+    {
+      "@language": "de",
+      "@value": "Beauty and Care"
+    },
+    {
+      "@language": "ru",
+      "@value": "Beauty and Care"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2041030017632",
+    "longitude": "11.8703734874725"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Beauty and Care",
+    "streetAddress": "Talstraße 74",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 505 20 64"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12a4f944-b3a4-4cbf-8e4f-1ad74714c78b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Beauty and Care"
+        },
+        {
+          "@language": "de",
+          "@value": "Beauty and Care"
+        },
+        {
+          "@language": "ru",
+          "@value": "Beauty and Care"
+        }
+      ]
+    }
+  ]
+}

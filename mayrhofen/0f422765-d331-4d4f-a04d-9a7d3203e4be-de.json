@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub"
+  ],
+  "name": "Take Off",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1681263",
+    "longitude": "11.8665919"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Durster Straße 227",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62433",
+    "faxNumber": "0043 5285 6243355",
+    "email": "mt@hotel-maria-theresia.com",
+    "url": "http://www.hotel-maria-theresia.com"
+  },
+  "description": "Unser Hotel im Zillertal verfügt über\nHotelhalle, Internet Surfstation, Wi Fi im ganzen Hotel ,\nReception, Sonnenterasse, Liegewiese, Lift, Parkplätze, \nTiefgarage, Sauna, Dampfbad, Solarium, Bar “Take Off “\nZimmer mit allem Komfort wie Bad/ Dusche, WC, Bademantel, \nBadeslippers, Haartrockner, Balkon, Radio, Telefon, Kabel - TV\nBenützung von Sauna und Dampfbad im Winterpreis inkludiert!\nChiropraktische Behandlungen für Wirbelsäule und\nBandscheiben im Haus\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f8734ba-e141-4997-a947-87f289b89e66/99/image.jpg",
+      "caption": "Take Off"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6f85c82-5dae-43d2-b2f5-e158e0b03cb0/99/image.jpg",
+      "caption": "Suite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/703fa4b7-5e14-4692-997a-a55f1ce1233e/99/image.jpg",
+      "caption": "Eingangsbereich"
+    }
+  ],
+  "url": [
+    "http://www.hotel-maria-theresia.com"
+  ]
+}

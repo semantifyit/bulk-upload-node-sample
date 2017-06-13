@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Panorama 1952m - Ahorn",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1369941268484",
+    "longitude": "11.8692279221207"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Panorama Ahorn ",
+    "streetAddress": "Ahorn ",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 625 15"
+  },
+  "description": "Summer \n10. June till 15. October 2017 depends on the weather conditions from 21. October till 26. October 2017 \nno rest day \nno overnight stay possible",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/598d694a-3ba7-43e9-b48d-e2c2b6311574/99/image.jpg",
+      "caption": "Panorama Ahorn"
+    }
+  ]
+}

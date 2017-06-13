@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d42F5B3DF-736A-4CE7-AB76-31F2295D10E6"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergland, Haus",
+    "streetAddress": "Bichl 525",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3686",
+    "email": "josef.klocker@gmx.at",
+    "url": "http://www.bergland-zillertal.com"
+  },
+  "name": "Haus Bergland",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "20"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c83294b7-a591-4929-9b1e-ea165c02029c/99/image.jpg",
+      "caption": "Bergland Ramsau - Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a5a1333-777b-4523-8cd4-23920bb28c49/99/image.jpg",
+      "caption": "Bergland Ramsau - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0838e8bb-3735-4a3b-8861-c8fc00ee5fe2/99/image.jpg",
+      "caption": "Bergland Ramsau - Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f66c785-6380-49bc-b969-168cf9836497/99/image.jpg",
+      "caption": "Bergland Ramsau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/71eaad43-37b6-4632-8d0a-7cd86df36f82/99/image.jpg",
+      "caption": "Bergland Ramsau - Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1e03e947-4031-41a4-b44c-9e46e6842cd3/99/image.jpg",
+      "caption": "Bergland Ramsau - Frühstücksraum 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0aef0284-5820-4eaf-b6c8-67e7de58cc4c/99/image.jpg",
+      "caption": "Bergland Ramsau - Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f88910c-9c83-47f9-87b1-3e30dfa3349e/99/image.jpg",
+      "caption": "Bergland Ramsau - Garten1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a8dbb59c-d68a-4e8a-9b28-7e006a0042e8/99/image.jpg",
+      "caption": "Bergland Ramsau - Gartenhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/278b6a4b-d4ed-476e-ab71-bad7cee37156/99/image.jpg",
+      "caption": "Bergland Ramsau - Ausblick"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1949763254245",
+    "longitude": "11.8742787837982"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент, shower, toilet, 2 спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": [
+    {
+      "@language": "de",
+      "@value": "Festival der Stimmen"
+    },
+    {
+      "@language": "en",
+      "@value": "Festival of Voices"
+    },
+    {
+      "@language": "ru",
+      "@value": "Festival of Voices"
+    }
+  ],
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Zillertal Sound",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Rita \u0026 Andreas"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Archengasse 23",
+      "addressLocality": "Schwaz",
+      "postalCode": "6130",
+      "addressCountry": "AT",
+      "telephone": "+43 676  431 80 23",
+      "email": "info@rita-und-andreas.at",
+      "url": "http://www.rita-und-andreas.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Hotel Berghof",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Durster Straße 220",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "0043 5285 62254",
+      "faxNumber": "0043 5285 62254 90",
+      "email": "info@berghof.cc",
+      "url": "http://www.berghof.cc"
+    }
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Programm:\n\nFreitag, 29. September 2017\nBegrüßungsabend im Musikstadl Hotel Rose mit den Brugger Buam aus Bayern\nBeginn: 19.00 Uhr\n\nSamstag, 30. September 2017\nHauptabend in der Berghofhalle hinter dem Europahaus mit Rita \u0026 Andreas, Vincent \u0026 Fernando und den Zellberg Buam\nEinlass: 18.00 Uhr | Beginn: 19.00 Uhr\n\nSonntag, 01. Oktober 2017\nFrühschoppen in der Berghofhalle mit Rita \u0026 Andreas, den jungen orig. Oberkrainern und dem Auner Alpenspektakel\nEinlass: 10.00 Uhr | Beginn: 11.00 Uhr\n\nKombiticket für alle Tage:\nVorverkauf: € 45,- | Abendkassa: € 52,-\nEinzeltickets für die jeweiligen Tage nur auf Anfrage bzw. am Veranstaltungstag an der Kassa erhältlich.\nErmäßigungen für Busreiseunternehmen auf Anfrage unter +43 664 9290910\n\nTickets erhältlich unter:\nRita \u0026 Andreas +43 664 9290910 oder info@rita-und-andreas.at\nTourismusverband Mayrhofen +43 5285 6760 oder info@mayrhofen.at\nwww.oeticket.com\n\nWir freuen uns auf ein tolles Wochenende mit euch!"
+    },
+    {
+      "@language": "en",
+      "@value": "Program:\n\nFriday, 29th September 2017\nWelcome evening at Musikstadl Hotel Rose with the Brugger Buam from Bavaria\nStart: 7.00 p.m.\n\nSaturday, 30th September 2017\nMain evening in the Berghofhalle behind the Europahaus with Rita \u0026 Andreas, Vincent \u0026 Fernando and the Zellberg Buam\nAdmission: 6.00 p.m. Start: 7.00 p.m.\n\nSunday, 1st October 2017\nMusically brunch in the Berghofhalle with Rita \u0026 Andreas, the young orig. Oberkrainer and the Auner Alpenspektakel\nAdmission: 10.00 a.m. | Start: 11.00 a.m.\n\nCombined ticket for all days:\nPre-sale sale: € 45, - | cash desk: € 52, -\nIndividual tickets for the respective days only available on request or on the day of the event at the cash desk.\nDiscounts for bus companies on request at +43 664 9290910\n\nTickets available at:\nRita \u0026 Andreas +43 664 9290910 or info@rita-und-andreas.at\nTourismusverband Mayrhofen +43 5285 6760 or info@mayrhofen.at\nwww.oeticket.com\n\nWe are looking forward to a great weekend with you! \n \n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1a2c1917-eb21-46f1-afdb-9880837da372/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Rita und Andreas"
+        },
+        {
+          "@language": "en",
+          "@value": "Rita und Andreas"
+        },
+        {
+          "@language": "ru",
+          "@value": "Rita und Andreas"
+        }
+      ]
+    }
+  ],
+  "startDate": "2017-09-29T19:00:00",
+  "endDate": "2017-10-01"
+}

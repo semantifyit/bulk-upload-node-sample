@@ -1,0 +1,64 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d04E8748D-D304-4AE2-A9CC-4DE656123E55"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsberg 880",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2006",
+    "email": "maria.kerschdorfer@aon.at"
+  },
+  "name": "Kerschdorfer Maria",
+  "description": [
+    "Unser Haus liegt in sehr sonniger und ruhiger Lage am Ramsberg und bietet Ihnen wundervollen Ausblick ins Tal und auf die umliegende Bergwelt!!",
+    "Kinderermäßigung auf Anfrage"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/449ae91b-e988-444a-a916-04de7801b6c7/99/image.jpg",
+      "caption": "Maria Kerschdorfer Ramsau - Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/895718ab-2df2-4cd7-86e5-74611fb0ffb7/99/image.jpg",
+      "caption": "Maria Kerschdorfer Ramsau - Winterbild"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1996309807265",
+    "longitude": "11.8884837627411"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC",
+      "description": "neu eingerichtete Wohnung mit 52m²: Wohnküche mit 22m² - Ausziehcouch, Badezimmer mit Dusche und Bad / WC, 1 Schlafzimmer, Sat-TV, Waschmaschine, Holzherd, Geschirr und Bettwäsche vorhanden",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap./1Wohn-Schlaf\u00261Schlafr./Du od.Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

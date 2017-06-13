@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Shape Mayrhofen"
+    },
+    {
+      "@language": "de",
+      "@value": "Shape Mayrhofen"
+    },
+    {
+      "@language": "ru",
+      "@value": "Shape Mayrhofen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1616615",
+    "longitude": "11.8617733999999"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Shape Mayrhofen",
+    "streetAddress": "Zillerlände 490",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8925000",
+    "url": "http://www.shape-mayrhofen.com/"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ob Krafttraining, Aerobic, Pilates oder Yoga – im neuen SHAPE finden Bewegungsprofis, Hobby-Sportler oder Neueinsteiger ein breites und auf ihre individuellen Bedürfnisse abgestimmtes Trainings- und Wellness-Angebot. Erfahrene Trainer betreuen unsere Mitglieder von Anfang an und erstellen mit Ihnen gemeinsam einen perfekt ausgearbeiteten Trainingsplan der auf die spezifischen Bedürfnisse und Wünsche jedes Kunden abgestimmt wird.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Regular exercise and a healthy diet are two of the most important factors in life, in order to increase the physical and mental wellbeing and powerful and persistent feeling of job, family and leisure.\n\nWhether weight training, aerobics, Pilates or yoga - the new SHAPE find professionals movement , amateur athletes or beginners a broad and tailored to their individual needs training and wellness programs. "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/794eb17b-5b06-4e19-962c-e09883dc6c90/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Shape"
+        },
+        {
+          "@language": "de",
+          "@value": "Shape"
+        },
+        {
+          "@language": "ru",
+          "@value": "Shape"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

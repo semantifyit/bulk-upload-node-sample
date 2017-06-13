@@ -1,0 +1,332 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.leo-appartements.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d5741B4D3-7DAA-41F3-BAC1-EBBF4B0CA09F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Leo, Appartments",
+    "streetAddress": "Dornaustraße 608",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 3803303",
+    "faxNumber": "0043 5285 63488",
+    "email": "office@leo-appartements.at",
+    "url": "http://www.leo-appartements.at"
+  },
+  "name": "Appartments Leo",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Das Haus liegt in zentraler und dennoch ruhigen Lage in Mayrhofen im Zillertal, inmitten von weitläufigen Wiesen, eingebettet in die atemberaubende Bergwelt des hinteren Zillertal. \n\nWOHNEN STATT ÜBERNACHTEN\n… in den neu gestalteten LEO-Appartements/Ferienwohnungen im Herzen von Mayrhofen  in Tirol. \nEinmal angekommen, hat auch Ihr Auto Urlaub. Nur wenige Gehminuten trennen Sie vom Einstieg in die Mayrhofner Bergbahnen und hinauf geht es, auf 200m zum Schifahren, Snowboarden, Wandern oder Mountainbiken. \n\nIm Tal locken zahlreiche andere Freizeitaktivitäten, sowie viele Geschäfte, Cafes, Nachtlokale und Restaurants, die ebenfalls in wenigen Gehminuten zu erreichen sind. Selbst der Hintertuxer Gletscher ist weniger als einer halben Stunde entfernt. \nIm Sommer schicken wir Sie baden. Den Eintritt für das Erlebnisbad Mayrhofen und Schwimmbad Hippach übernehmen wir\n"
+    },
+    {
+      "@language": "en",
+      "@value": "The house is situated central and still quiet in Mayrhofen in the Zillertal.\nOnly few walking minutes to the entrance Mayrhofner mountain railways. There you can drive up on 200 m and go skiing, snowboarding, walking or mountain biking.\n\nIn the centre are many shops, cafes, nightclubs and restaurants which you can also reach at few walking minutes. Even the Hintertuxer glacier is removed less than half an hour. \nIn summer we take pay the entry for the swimming pool in Mayrhofen and the swimming-pool Hippach\n"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "54"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dfff16ef-456d-4b4c-9a6d-e1b3be630832/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Appartments Leo Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartments Leo Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Appartments Leo Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dadd54e2-2071-4105-b641-6c02ac1a7aed/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Appartments Leo Mayrhofen - Grundriss Stilluptal"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartments Leo Mayrhofen - Grundriss Stilluptal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Appartments Leo Mayrhofen - Grundriss Stilluptal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dbf7dad7-6557-432d-a3c4-f74b0b1573fc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Appartments Leo Mayrhofen - Grundriss Zemm"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartments Leo Mayrhofen - Grundriss Zemm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Appartments Leo Mayrhofen - Grundriss Zemm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f8d53b0c-c790-42be-a457-5cae8c917717/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Appartments Leo Mayrhofen - Grundriss Ziller"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartments Leo Mayrhofen - Grundriss Ziller"
+        },
+        {
+          "@language": "ru",
+          "@value": "Appartments Leo Mayrhofen - Grundriss Ziller"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1650740112039",
+    "longitude": "11.8588024377823"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Holiday home, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Дом отдыха, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung 26m² \nSchlafbereich 2-3 Personen mit Dusche/WC inkl. Wäsche, Toilettenpapier, Föhn, SAT TV, CD-Player, Safe Wohnküche komplett mit Backofen, Cerankochfeld, Mikrowelle, Geschirrspüler, Kühlschrank mit Gefrierfach, Geschirr, Geschirrtücher, Wasserkocher und Kaffeemaschine, Spülmittel, Balkon \n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement ZEMMGRUND"
+            },
+            {
+              "@language": "en",
+              "@value": "Appartement ZEMMGRUND"
+            },
+            {
+              "@language": "ru",
+              "@value": "Дом отдыха, ванна, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Holiday home, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Дом отдыха, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung 26m² \nSchlafbereich 2-3 Personen mit Dusche/WC inkl. Wäsche, Toilettenpapier, Föhn, SAT TV, CD-Player, Safe Wohnküche komplett mit Backofen, Cerankochfeld, Mikrowelle, Geschirrspüler, Kühlschrank mit Gefrierfach, Geschirr, Geschirrtücher, Wasserkocher und Kaffeemaschine, Spülmittel Balkon \n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement ZILLERGRUND"
+            },
+            {
+              "@language": "en",
+              "@value": "Appartement ZILLERGRUND"
+            },
+            {
+              "@language": "ru",
+              "@value": "Дом отдыха, ванна, туалет"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Holiday home, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Дом отдыха, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung 58m² \nSchlafzimmer 2 Personen mit Dusche/WC inkl. Wäsche, Föhn, SAT TV, Safe, Balkon Schlafzimmer 2-3 Personen mit Dusche/WC getrennt inkl. Wäsche, Föhn, SAT TV, Safe Balkon Diele mit Garderobe Wohn- Esszimmer mit CD-Player, Brettspiele, Balkon Küche komplett mit Backofen, Cerankochfeld, Mikrowelle, Geschirrspüler, Kühlschrank mit Gefrierfach, Geschirr, Geschirrtücher, Spülmittel Wasserkocher und Kaffeemaschine, Spülmittel \n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement STILLUPTAL"
+            },
+            {
+              "@language": "en",
+              "@value": "Appartement STILLUPTAL"
+            },
+            {
+              "@language": "ru",
+              "@value": "Дом отдыха, ванна, туалет"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung 60m² \nSchlafzimmer 2 Personen mit Dusche/WC inkl. Wäsche, Toilettenpapier, Föhn, Safe, Balkon Schlafzimmer 2-3 Personen mit Dusche/WC inkl. Wäsche, Toilettenpapier, Föhn, Safe, Balkon Diele mit Garderobe Wohnküche komplett mit Backofen, Cerankochfeld, Mikrowelle, Geschirrspüler, Kühlschrank mit Gefrierfach, Geschirr, Geschirrtücher, Wasserkocher und Kaffeemaschine Spülmittel, Balkon \n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement TUXERTAL"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet, 2 спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

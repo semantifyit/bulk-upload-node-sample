@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Tag des offenen Bienenstocks",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Bienenzuchtverein Schwendau"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Schormis 104",
+      "addressLocality": "Hippach",
+      "postalCode": "6283",
+      "addressCountry": "AT"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Schormis 104",
+      "addressLocality": "Hippach",
+      "postalCode": "6283",
+      "addressCountry": "AT"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8bc84f88-203d-419d-bcb5-f62e105a1363/99/image.jpg",
+      "caption": "Tag des offenen Bienenstocks"
+    }
+  ],
+  "startDate": "2017-05-21T10:00:00",
+  "endDate": "2017-05-21"
+}

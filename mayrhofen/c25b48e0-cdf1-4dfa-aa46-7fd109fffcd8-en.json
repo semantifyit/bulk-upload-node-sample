@@ -1,0 +1,81 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dC25B48E0-CDF1-4DFA-AA46-7FD109FFFCD8"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Göttstätt 349",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 9233778",
+    "email": "maria@zillertalnet.at"
+  },
+  "name": "Geisler Hubert",
+  "description": "Our house is in sunny and quiet position 700meters above Hippach.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5129e5eb-40e3-45f1-bdf1-18c0b9ceb95b/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2108376569966",
+    "longitude": "11.8609589338303"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet",
+      "description": "kitchen with corner bank, glass cabinet, vapur departure, electricalage, dishwasher, refrigerator, water digester, dish, little storage chamber, living room with coach, glass cabinet, Furnace, TV, radio; two bedrooms with rustical cabinets, 1 bathroom with two wash basins, bath tub, shower, WC in seperate room; big balcony and garden",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.living-bedr./2 bedr./shower,wc",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet, 1 bed room",
+      "description": "kitchen with, electro cooker, vapor departure, dish-washer, Sat-TV, radio, corner-bank, bathroom with shower/WC, wash basin, 1 big livingroom with coach",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/1 bedroom/shower, bath tube,WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

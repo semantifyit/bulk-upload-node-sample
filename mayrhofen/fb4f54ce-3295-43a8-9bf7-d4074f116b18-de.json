@@ -1,0 +1,642 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.alpenparadies.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003dFB4F54CE-3295-43A8-9BF7-D4074F116B18"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Denggerhof, Landhotel",
+    "streetAddress": "Laubichl 127",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62580 52",
+    "faxNumber": "0043 5285 62580 56",
+    "email": "denggerhof@alpenparadies.com",
+    "url": "http://www.denggerhof.at"
+  },
+  "name": "Landhotel Denggerhof",
+  "description": [
+    "Ihr Hotel in Mayrhofen\nHerzlich Willkommen im Denggerhof im Zillertal!\nTreten Sie ein und spüren Sie die familiäre Atmosphäre und den persönlichen Charakter von unserem Landhotel Denggerhof in Mayrhofen im Zillertal. \nUnser Landhotel befindet sich in der Ferienregion Mayrhofen \n- im hinteren Zillertal und im Herzen Tirols.\nDas Leben ist schön ... \nMayrhofen bietet Ihnen mit den weiteren Orten Brandberg, Ginzling, Ramsau und Schwendau ein umfangreiches Angebot für einen traumhaften Winterurlaub und einen unvergesslichen Sommerurlaub.\nIm Winter bietet der Vans Penken Park, einer der größten Snowboard Parks Europas, für Snowboarder und Freestyler unwiderstehliche Herausforderungen. \nFür Skifahrer stehen 157km reinstes Pistenvergnügen, 48 modernste Liftanlagen und jede Menge gemütliche Hütten zur Verfügung.\nIm Sommer ist neben gepflegtem Nichtstun, Wandern, Laufen, Klettern und Biken für alle Fitnessniveaus ein riesen Spaß geboten. Der Naturpark Zillertaler Alpen bietet sehr interessante geführte Wanderungen zu den verschiedensten Themen an und eine bunte Vielfalt an Events versüßt die Stunden nach dem Sport.\n\nLassen sich kulinarisch verwöhnen...\nGaumenfreuden servieren wir Ihnen im Restaurant mit lichtdurchfluteten Wintergarten, auf der gemütlichen Terrasse oder in der rustikalen Stube, hier fühlen Sie sich auf Anhieb wohl. \nNeben internationalen Speisen verwöhnen wir Sie auch gerne mit regionalen Köstlichkeiten. Geborgenes Ambiente, Tiroler Gemütlichkeit und überall spürbare Lebensfreude.\nIm Sommer veranstalten wir einmal wöchentlich einen Grillabend mit Zillertaler Livemusik.\n\nMit unserer BIO- und finnischen Sauna und dem Aroma-Dampfbad lädt es Sie zum Wohlfühlen ein. Anschließend können Sie im Eisbrunnen oder in den Erlebnisduschen Ihren Kreislauf wieder voll in Schwung bringen.\nIhr Immunsystem können Sie in der Infrarotkabine stärken, danach genießen Sie die Ruhe in unserem großzügigen Ruheraum\n\n",
+    "im Preis inkludiert: Frühstücksbuffet, Kurtaxe. Schwimmbad täglich Frei. Sauna 1x inkl. \nSpezialangebote: Fahrradverleih, im Sommer Grillabende mit Musik. Verbilligte Vor- und Nachsaisons Preise, Komfortappartements im benachbarten Apparthotel \"Bergkristall\".",
+    "Check in : 13:00 Uhr / Check out: 10:00 Uhr.\nAnreise: Fahren Sie in Richtung Mayrhofen bis zum Kreisverkehr - links bis zur BP-Tankstelle, nochmals links Richtung Laubichl bis zum Campingplatz. Hier befindet sich auch das Gästehaus Camping."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "251"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4a50fc3-5b3d-486f-baac-c6179003e3be/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b4bf44d-b820-4417-921d-6a070bbf2c1f/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4b371172-6ee6-476c-9d7f-a798db028682/99/image.png",
+      "caption": "Denggerhof Mayrhofen - Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7e46989b-f939-4159-af62-6f7e4d82cbf1/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d4417c44-2635-4682-84d8-00cea027080e/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Restaurant2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c376460-16a2-4c70-a65d-58cc14fb8c1f/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Restaurant3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a5624da-9edf-4405-acf5-4ff6cc9d28b5/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Restaurant4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/29956354-c5c7-47fb-aff9-dd3656b88347/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Wintergarten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a832c6ea-30ba-48db-b5c5-ec659e257a93/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/422be94a-c4c6-4315-a87f-fb49efd95c5a/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Frühstücksbuffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/afde6259-6ed3-4ae6-b6f3-225be60dfb51/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Buffet1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26ea6088-98ba-414c-80a2-7c2e4ef5012f/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Buffetstand"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dcb8ceaa-492a-44c0-aaf2-238661a4f885/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Buffet2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59d56ba0-098e-47bb-b0ca-c08383720b6e/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Buffet 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/036d46ed-fc4d-43f2-b9fc-dbb7c498ef96/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e12a8689-e9ff-442c-a72d-541b7fd2231a/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Ruhebereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c1bdd35-f867-4acd-bb1d-7d15b1c5bd1e/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f631570b-346d-4203-8cd8-0098b8d2e07e/99/image.jpg",
+      "caption": "Denggerhof Mayrhofen - Sauna Ruhebereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/140adc43-397a-47ca-b0b2-789424fc71bd/99/image.gif",
+      "caption": "Denggerhof Mayrhofen - Grundriss DZ1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c9b4fd13-17ea-4e97-a525-b8e2dd29b666/99/image.gif",
+      "caption": "Denggerhof Mayrhofen - Grundriss DZ2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2af653ad-0209-4bf5-b221-94d68e623406/99/image.gif",
+      "caption": "Denggerhof Mayrhofen - Grundriss DZ3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1feabacd-3cb5-422e-a8ec-bd252b31b9aa/99/image.gif",
+      "caption": "Denggerhof Mayrhofen - Grundriss Famz. 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f332e19f-434c-4045-bdc7-89fdd03db400/99/image.gif",
+      "caption": "Denggerhof Mayrhofen - Grundriss Famz. 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8b2e818a-0365-4a5e-adb9-eced196b014e/99/image.jpg",
+      "caption": "Biken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7f920d3-b037-4b9e-8870-65f8fd9ff1c1/99/image.jpg",
+      "caption": "Klettersteig"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a01e75b9-d80c-4df6-af49-616fe457442b/99/image.jpg",
+      "caption": "Wanderung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1498820e-f3ab-4829-a04a-c4193acb3028/99/image.jpg",
+      "caption": "Bergbahn Familie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2bcb8d6c-a35c-4a6d-96c3-875739c81998/99/image.jpg",
+      "caption": "Skilift"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f69730be-d003-4c36-84fd-29ef9280c19b/99/image.jpg",
+      "caption": "Mayrhofner Advent"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c41ba24d-ed06-47bd-a844-d3ba45778887/99/image.jpg",
+      "caption": "Langlaufen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6ec3a379-d4ed-4670-9347-77aac65b3156/99/image.jpg",
+      "caption": "Rodeln"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c8552f3e-33cb-47ce-8a9c-e3c274b97735/99/image.jpg",
+      "caption": "Skifahren"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f953b437-53f9-4efa-a8d7-832c009b7900/99/image.jpg",
+      "caption": "Berggipfel"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1755222281417",
+    "longitude": "11.8691128492355"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Die gemütlichen Zimmer in Ihrer Unterkunft im Mayrhofen sind individuell eingerichtet und komfortabel ausgestattet. Alle Zimmer verfügen über Bad oder Dusche, WC, SAT-TV und Balkon, teilweise mit Kachelofen, Safe und Kühlschrank\nEinzelzimmer für 1 Person: Einzelbett, Dusche, WC, SAT-TV, Radio, Balkon\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC ÜF",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "44.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "55.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Die gemütlichen Zimmer in Ihrer Unterkunft im Mayrhofen sind individuell eingerichtet und komfortabel ausgestattet. Alle Zimmer verfügen über Bad oder Dusche, WC, SAT-TV und Balkon, teilweise mit Kachelofen, Safe und Kühlschrank.\nDoppelzimmer I für 2 Personen: Doppelbett, Dusche, WC, SAT-TV, Radio, Balkon\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer I mit Dusche, WC ÜF",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer I mit Dusche, WC HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Die gemütlichen Zimmer in Ihrer Unterkunft im Mayrhofen sind individuell eingerichtet und komfortabel ausgestattet. Alle Zimmer verfügen über Bad oder Dusche, WC, SAT-TV und Balkon, teilweise mit Kachelofen, Safe und Kühlschrank.\nDoppelzimmer für 2-4 Personen: Doppelbett, Dusche/Bad, WC, SAT-TV, Radio, Sitzecke-Ausziehcouch, teilweise Schiebetüre, Kachelofen und Balkon\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer II mit Dusche, WC ÜF",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer II mit Dusche, WC HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "67.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "43.00",
+          "maxPrice": "67.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "43.00",
+          "maxPrice": "67.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "54.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Die gemütlichen Zimmer in Ihrer Unterkunft im Mayrhofen sind individuell eingerichtet und komfortabel ausgestattet. Alle Zimmer verfügen über Bad oder Dusche, WC, SAT-TV und Balkon, teilweise mit Kachelofen, Safe und Kühlschrank.\nDoppelzimmer für 2 Personen: Doppelbett, Dusche, WC, SAT-TV, Radio, teilweise Himmelbett, Sitzecke und ausziehbares Liegesofa, Kachelofen und Südbalkon\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer III mit Dusche, WC ÜF",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer III mit Dusche, WC HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche, WC",
+      "description": "Die gemütlichen Zimmer in Ihrer Unterkunft im Mayrhofen sind individuell eingerichtet und komfortabel ausgestattet. Alle Zimmer verfügen über Bad oder Dusche, WC, SAT-TV und Balkon, teilweise mit Kachelofen, Safe und Kühlschrank.\nFamilienzimmer für 2-5 Personen: Doppelbett, Dusche, WC, SAT-TV, Radio, kleines separates Kinderzimmer, Sitzecke und ausziehbares Liegesofa, Kachelofen und Balkon\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer I mit Dusche, WC ÜF",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer I mit Dusche, WC HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "46.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "46.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "46.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "57.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "57.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "57.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "57.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche, WC",
+      "description": "Die gemütlichen Zimmer in Ihrer Unterkunft im Mayrhofen sind individuell eingerichtet und komfortabel ausgestattet. Alle Zimmer verfügen über Bad oder Dusche, WC, SAT-TV und Balkon, teilweise mit Kachelofen, Safe und Kühlschrank.\nFamilienzimmer II mit Erker für 2-5 Personen: Doppelbett, 2 Duschen, 2 WC, SAT-TV, Radio, separates Einbettzimmer, Kachelofen und Sitzecke mit Erker, Wohnbereich mit ausziehbarem Liegesofa, Kachelofen und Balkon\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Exclusives Familienzimmer mit Dusche, WC ÜF",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Exclusives Familienzimmer mit Dusche, WC HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "49.00",
+          "maxPrice": "73.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "49.00",
+          "maxPrice": "73.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "49.00",
+          "maxPrice": "73.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "60.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

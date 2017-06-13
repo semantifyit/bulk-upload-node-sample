@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "PlaceOfWorship"
+  ],
+  "name": "Pfarrkirche Brandberg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1671966425739",
+    "longitude": "11.899099946022"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pfarramt Mayrhofen und Brandberg",
+    "streetAddress": "Brandberg",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62269",
+    "faxNumber": "(0043) 5285 62269 20",
+    "email": "pfarre.mayrhofen@pfarre.kirchen.net",
+    "url": "http://www.pfarremayrhofen.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7af0b8f7-134c-4f00-a568-6160b08c192c/99/image.jpg",
+      "caption": "Pfarrkirche Brandberg"
+    }
+  ],
+  "url": [
+    "http://www.pfarremayrhofen.at"
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.steglacher-hof.de",
+    "http://maps.mayrhofen.at/?foreignResource\u003d10D61295-F27C-402E-BDA3-D0C8C16AB924"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Steglacherhof",
+    "streetAddress": "Steglach 3a",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62113",
+    "faxNumber": "0049 89 2443 57376",
+    "email": "mail@steglacher-hof.de",
+    "url": "http://www.steglacher-hof.at"
+  },
+  "name": "Steglacherhof",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser neu erbautes, gepflegtes Ferienhaus befindet sich in einem bäuerlichen Anwesen, gegenüber dem ****Ferienhotel Zillergrund. Die ruhige Lage am Flußufer des Zillers bietet Ihnen \"Natur pur\". Mayrhofen erreichen Sie in wenigen Fahrminuten. Der kostenlose Skibus hält ca. 150 m vor unserem Haus, die Linienbushaltestelle liegt ca. 300 m entfernt. Damit erreichen Sie in Kürze das Ortszentrum Mayrhofen, Bergbahnen und Skigebiete."
+    },
+    {
+      "@language": "de",
+      "@value": "Inklusive: Ortstaxe, Tisch-/ Bettwäsche sowie Handtücher, Endreinigung, Heizung, Wasser, Strom.\nSkikeller mit Skischuhtrockner, Fahrradkeller. Parkplätze sind aussreichend vorhanden.\nCheck-In: 14 Uhr, Check-Out: 9:30 Uhr."
+    },
+    {
+      "@language": "de",
+      "@value": "Talauswärts zum Kreisverkehr Mayrhofen, dann ca. 500m talauswärts bis zur Abzweigung Brandberg/Zillergrund rechts, durch den Brandbergtunnel über die Holzbrücke nach Mayrhofen, gegenüber Ferienhotel Zillergrund."
+    },
+    {
+      "@language": "en",
+      "@value": "Our recently built, well kept holiday house, in farming surroundings can be found at the opposite of the Zillergrung Hotel. In a quiet position, on the banks of the Ziller river - pure nature! Mayrhofen can be reached by car in 5 minutes. The free ski bus service stops 150metres away from the house, and the regional bus stop is 300 metres away. With that you can easily reach the town centre of Mayrhofen, the lifts and ski regions."
+    },
+    {
+      "@language": "en",
+      "@value": "Included in price: Local taxes, Table and bed linen as well as hand towels, final cleaning charge, heating, water and electricity."
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 14.00hr, check out: 09.30hr.\nDrive to Mayrhofen, at the roundabout by the railway station, drive 500 metres out of the valley until the turn off on the right for Brandberg/Zillergrund, through the Brandberg-Tunnel, over the wooden bridge in the direction of the Ferienhotel Zillergrund (the Steglacher Hof is opposite), down the river approx. 200m, over the bridge again, and then right until the last house - you are at the Steglacher Hof."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6b34e0b7-f209-4e5c-bfd4-4c0d919108aa/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Steglacher Hof Brandberg - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Steglacher Hof Brandberg - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Steglacher Hof Brandberg - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ceec912-202b-4405-b17e-415f5551f24b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Steglacher Hof Brandberg - Sommer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Steglacher Hof Brandberg - Sommer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Steglacher Hof Brandberg - Sommer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ccb0ef72-2123-4aca-a8ad-2cfd51f03517/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Steglacher Hof - Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Steglacher Hof - Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Steglacher Hof - Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cad65772-e350-4976-9a4d-cfcb892a8f31/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Steglacher Hof - Küche2"
+        },
+        {
+          "@language": "en",
+          "@value": "Steglacher Hof - Küche2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Steglacher Hof - Küche2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b751525b-1087-496c-b069-4c93ddd59686/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Steglacher Hof - Wohnschlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Steglacher Hof - Wohnschlafraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Steglacher Hof - Wohnschlafraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/226ed533-127d-4dbb-835b-93b219ab07e5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Steglacher Hof - Zimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Steglacher Hof - Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Steglacher Hof - Zimmer"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.158964590197",
+    "longitude": "11.8799436092377"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Exklusive Ferienwohnung ca. 60 m² für 1-4 Personen: 1 Schlafzimmer und 1 Wohn/Schlafzimmer, Küche, DU/WC, Badewanne, Bad mit Fußbodenheizung sowie separates WC, Balkon, SAT-TV und Internetzugang.\n\nKinderermässigung bei Anfrage!"
+        },
+        {
+          "@language": "en",
+          "@value": "Exclusive holiday apartment for 1-4 persons: 1 bedroom and 1 lounge/bedroom, kitchen, shower/WC, bath, separate WC, balcony, cable TV."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment für 4  Personen"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/shower, bath tube,WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Exklusives Panoramastudio für 1-4 Personen, Teeküche mit gemütlicher Sitzecke, DU/WC mit Fußbodenheizung, Balkon, SAT-TV und Internetzugang.\n\nKinderermässigung bei Anfrage!"
+        },
+        {
+          "@language": "en",
+          "@value": "Exclusive apartment for 1-4 persons, kitchen with seating area, shower/WC, balcony or terrace."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment (Studio) für 4 Personen"
+            },
+            {
+              "@language": "en",
+              "@value": "ap./combined living-bed-room/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Exklusives Appartment für 1-2 Personen, Teeküche mit Sitzecke, DU/WC mit Fußbodenheizung, Balkon oder Terrasse mit Liegewiese, SAT-TV, Internetzugang.\n\nKinderermässigung bei Anfrage!"
+        },
+        {
+          "@language": "en",
+          "@value": "Exclusive Appartment for 1-2 people, tea kitchen with living-room furniture, YOU / WC with under-floor heating, balcony or terrace with sunbathing area, SAT TV, Internet access.\nReduction for children with inquiry! "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment für 2 Personen"
+            },
+            {
+              "@language": "en",
+              "@value": "ap./combined living-bed-room/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

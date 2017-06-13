@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Zillertal Catering - Schmaus Zuhaus"
+    },
+    {
+      "@language": "de",
+      "@value": "Zillertal Catering - Schmaus Zuhaus"
+    },
+    {
+      "@language": "ru",
+      "@value": "Zillertal Catering - Schmaus Zuhaus"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1790024",
+    "longitude": "11.8617793999999"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpinhotel Schrofenblick",
+    "streetAddress": "Burgstall 373",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62276"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Zillertal Catering - Schmaus Zuhaus sieht sich als Alternative zum klassischen Restaurant - denn dieses bringen wir Ihnen nach Hause.\nFür jede Feier, ob romatisches Candle Light Dinner oder die große Firmenfeier, Ihr Fest wird ob seines guten Essens noch lange in Erinnerung bleiben.\nGerne unterbreiten wir Ihnen ein individuelles Angebot!\nVon 10 bis 1000 Personen \n\nCATERING \u0026 PARTYSERVICE\nFamilie Eberl\nBurgstall 373\nA-6290 Mayrhofen\nTel. +43 5285 62276\nFax: +43 5285 63437\ninfo@alpin-hotel.at\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0b4ae204-0a24-4526-a7ae-4eb0488c0a46/99/image.gif",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Schmaus Zuhaus "
+        },
+        {
+          "@language": "de",
+          "@value": "Schmaus Zuhaus "
+        },
+        {
+          "@language": "ru",
+          "@value": "Schmaus Zuhaus "
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.alpin-hotel.at/restaurant-catering-mayrhofen.html"
+  ]
+}

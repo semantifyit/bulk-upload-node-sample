@@ -1,0 +1,71 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Squash - Hotel Strass"
+    },
+    {
+      "@language": "de",
+      "@value": "Squash - Hotel Strass"
+    },
+    {
+      "@language": "ru",
+      "@value": "Squash - Hotel Strass"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1636844076165",
+    "longitude": "11.8609857559204"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport \u0026 Spa Hotel Strass Roscher KG",
+    "streetAddress": "Hauptstraße 470",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 6705",
+    "faxNumber": "0043 5285 63477",
+    "email": "info@hotelstrass.com",
+    "url": "http://www.hotelstrass.com"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Sportlich in den Tag mit geführten Wanderungen, Radtouren (Juli, August) oder am Tennisplatz, Squash, Tischtennis, Billard, Pit Pat oder mit Ihren Kindern am Kinderspielplatz oder Riesenschach. "
+    },
+    {
+      "@language": "en",
+      "@value": "Guided walks, bicycle tours (july, august), tennis court, squash courts, table tennis, billard, pit pat, outdoor maxi chess-board, childrens playground. "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3b7a44e-d4a3-4bc8-bf18-c600dc53e87b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Hotel Strass"
+        },
+        {
+          "@language": "de",
+          "@value": "Hotel Strass"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Strass"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.hotelstrass.com",
+    "http://www.berghof.cc"
+  ]
+}

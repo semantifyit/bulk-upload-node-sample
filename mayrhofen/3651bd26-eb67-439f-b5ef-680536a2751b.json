@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Geschenkhaus Mayrhofen"
+    },
+    {
+      "@language": "de",
+      "@value": "Geschenkhaus Mayrhofen"
+    },
+    {
+      "@language": "ru",
+      "@value": "Geschenkhaus Mayrhofen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstr. 412",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "email": "office@reinmueller.cc"
+  }
+}

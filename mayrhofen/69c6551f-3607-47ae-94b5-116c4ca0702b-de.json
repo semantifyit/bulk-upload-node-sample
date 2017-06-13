@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub",
+    "Restaurant",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Coup\u0026More",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1645247",
+    "longitude": "11.8621105"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Coup\u0026More",
+    "streetAddress": "Hauptstraße 455a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 63665",
+    "email": "info@coup-more.at",
+    "url": "http://www.coup-more.at"
+  },
+  "description": "Das Q - Bar, Cafe und Restaurant ist modern und locker.\n\nZentral gelegen, lässt sich das bunte Treiben bequem von der sonnigen Terrasse aus mitverfolgen.\n\nEntspannte Atmosphäre und eine kreative Küche zeichnen das Restaurant aus.\n \nEspresso, Cocktails \u0026 Co.\n\nLassen Sie sich verwöhnen - ob bei einer kurzen Kaffeepause, beim exklusiven Dinner am Abend oder gemütlich bei einem Glas Wein.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e323459-09d8-4315-b4d4-647f76a88e4e/99/image.bmp",
+      "caption": "Q. Coup \u0026 more"
+    }
+  ],
+  "url": [
+    "http://www.coup-more.at"
+  ]
+}

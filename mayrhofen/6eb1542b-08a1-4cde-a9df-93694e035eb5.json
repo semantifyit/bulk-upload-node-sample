@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GroceryStore"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Sparmarkt Eder"
+    },
+    {
+      "@language": "de",
+      "@value": "Sparmarkt Eder"
+    },
+    {
+      "@language": "ru",
+      "@value": "Sparmarkt Eder"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1634801583559",
+    "longitude": "11.8616616725922"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sparmarkt Eder",
+    "streetAddress": "Hauptstrasse 473",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63910",
+    "email": "info@ederfeld.at",
+    "url": "http://www.spar.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8e24d310-f3b9-43f1-886d-cf3a74809fa3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.spar.at"
+  ]
+}

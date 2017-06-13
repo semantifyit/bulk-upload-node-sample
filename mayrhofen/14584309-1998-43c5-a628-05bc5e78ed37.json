@@ -1,0 +1,729 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.zillertalferien.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d14584309-1998-43C5-A628-05BC5E78ED37"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienwohnung Mühlau",
+    "streetAddress": "Laimach 203",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2193",
+    "faxNumber": "0043 5282 2193",
+    "email": "info@zillertalferien.at",
+    "url": "http://www.zillertalferien.at"
+  },
+  "name": "Ferienwohnung Mühlau - Sürth",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich Willkommen!\nZwischen Zell am Ziller und Hippach finden Sie unsere gemütliche Ferienwohnung in sonniger, ruhiger Lage.\nDie überdurchschnittliche Ausstattung verspricht einen tollen Urlaub vom ersten Tag an.\nHöchste Auszeichnung durch den Landesverband der Tiroler Privatzimmervermieter: 4 Edelweiß\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Freier Eintritt ins Erlebnisschwimmbad Schwendau und Mayrhofen, sowie Hallenbad Mayrhofen und Tennisplatz Hippach/Mayrhofen.\n\nPartnerbetrieb des Naturparks Zillertaler Alpen.\nIn unserem Haus können Sie gratis an allen Naturparkwanderungen teilnehmen!\n\nKinderermäßigung auf Anfrage!"
+    },
+    {
+      "@language": "de",
+      "@value": "\nSie erreichen uns über die Inntalautobahn ( A12 )-Ausfahrt Zillertal- über die Zillertalbundesstraße (B169 ) bis Zell am Ziller Ausfahrt Nord  über die Zillerbrücke nach Zellberg und weiter bis Laimach rechts- \"Mühlau\""
+    },
+    {
+      "@language": "de",
+      "@value": "Zillertal, Hippach, Mayrhofen, Ferienwohnung, Schifahren, Wintersport, Appartment, Ferienregion, "
+    },
+    {
+      "@language": "en",
+      "@value": "Quiet location with plenty of sun an magnificent panoramic view, car-park, children\u0027s playground, skibus stop, guests\u0027bus stop, cross country track, food shop, butcher shop, restaurant nearby"
+    },
+    {
+      "@language": "en",
+      "@value": "Free entrance in Outdoor swimming pool Schwendau, indoor pool Mayrhofen and tennis court Hippach!\nFree guidet hiking routes."
+    },
+    {
+      "@language": "en",
+      "@value": "Check-in: 13:00\nCheck-out: 10:00"
+    },
+    {
+      "@language": "en",
+      "@value": "Holiday, Zillertal, Appartment, Skiing, Hippach, Mayrhofen, Tirol"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1fae17f9-7709-4f12-af50-10934f97b6d5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hausansicht April 2015_1920x1280"
+        },
+        {
+          "@language": "en",
+          "@value": "Hausansicht April 2015_1920x1280"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hausansicht April 2015_1920x1280"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/85a62459-71df-4657-9936-4637d5582ca2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hausansicht Winter_1920x1280"
+        },
+        {
+          "@language": "en",
+          "@value": "Hausansicht Winter_1920x1280"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hausansicht Winter_1920x1280"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/500fad40-9e59-493d-a8ad-65b09414736f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Aussicht vom Balkon zu Ahornspitze und Tristner"
+        },
+        {
+          "@language": "en",
+          "@value": "Aussicht vom Balkon zu Ahornspitze und Tristner"
+        },
+        {
+          "@language": "ru",
+          "@value": "Aussicht vom Balkon zu Ahornspitze und Tristner"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1d01f762-ff93-498b-80f1-9c109c1c228a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fewo Mühlau-Sürth - Wohnküche"
+        },
+        {
+          "@language": "en",
+          "@value": "Fewo Mühlau-Sürth - Wohnküche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fewo Mühlau-Sürth - Wohnküche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/37f82cc9-5df7-40a3-8e10-e92bcbc3fbb5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schlafzimmer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Schlafzimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schlafzimmer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d053e460-6d6b-40a3-895d-b89c8d73c9e0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schlafzimmer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Schlafzimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schlafzimmer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a91b4da-ca27-4de9-97d1-eb02c6f166e4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schlafzimmer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Schlafzimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schlafzimmer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a628108-1726-4ed2-9eda-256fa6a42330/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schlafzimmer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Schlafzimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schlafzimmer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec30bccb-0e1e-4e6a-9081-24a3ea396290/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fewo Mühlau-Sürth - Wohnzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Fewo Mühlau-Sürth - Wohnzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fewo Mühlau-Sürth - Wohnzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fdb94ae2-67c2-459f-ac51-aef04be7da37/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fewo Mühlau-Sürth - Wohnzimmer mit Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Fewo Mühlau-Sürth - Wohnzimmer mit Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fewo Mühlau-Sürth - Wohnzimmer mit Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a719ad7a-07e7-4b93-af7b-2150979eb008/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung Mühlau Schlafzimmer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienwohnung Mühlau Schlafzimmer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienwohnung Mühlau Schlafzimmer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ebad4d0d-f8cf-412a-8d85-b2b8437144a0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ausziehsofa"
+        },
+        {
+          "@language": "en",
+          "@value": "Ausziehsofa"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ausziehsofa"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7bf809f2-bf1d-45a5-b118-04f7d9fbf179/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Detail"
+        },
+        {
+          "@language": "en",
+          "@value": "Detail"
+        },
+        {
+          "@language": "ru",
+          "@value": "Detail"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3af6e7bd-8ef5-4512-aa3e-742d3b038dbb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bad"
+        },
+        {
+          "@language": "en",
+          "@value": "Bad"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bad"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df9a6b85-da72-4ad6-a506-e0f2aa34ba4d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bad"
+        },
+        {
+          "@language": "en",
+          "@value": "Bad"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bad"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/44ee84e2-7154-4cc7-929c-672fd70a54af/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schlafzimmer 1 Detail"
+        },
+        {
+          "@language": "en",
+          "@value": "Schlafzimmer 1 Detail"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schlafzimmer 1 Detail"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/42e3d32c-0cec-40ed-8c30-207ae7766060/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahornspitze"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahornspitze"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahornspitze"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a469adeb-55ab-43c0-90e7-eb4a9ea56c04/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Zillertal im Nebel"
+        },
+        {
+          "@language": "en",
+          "@value": "Zillertal im Nebel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zillertal im Nebel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/994a13eb-adff-4164-8caf-e2a591f8074f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hochfeiler und Hochferner"
+        },
+        {
+          "@language": "en",
+          "@value": "Hochfeiler und Hochferner"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hochfeiler und Hochferner"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f0c5f82-808f-4d93-82b6-bab575bd4a5f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "im Tuxertal"
+        },
+        {
+          "@language": "en",
+          "@value": "im Tuxertal"
+        },
+        {
+          "@language": "ru",
+          "@value": "im Tuxertal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ffa83ae-9e41-4a82-9e0d-876ddec649c7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter am Steinerkogel"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter am Steinerkogel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter am Steinerkogel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/45a3466d-f838-47bd-879f-e7d6fc8fa7b5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Malerplatz"
+        },
+        {
+          "@language": "en",
+          "@value": "Malerplatz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Malerplatz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa1d88a2-dfb6-4f60-b805-8a5fd30ea6e0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mondaufgang am Brandberger Kolm"
+        },
+        {
+          "@language": "en",
+          "@value": "Mondaufgang am Brandberger Kolm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mondaufgang am Brandberger Kolm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/30e54136-0ad2-47ac-bcc8-76e5cadfb087/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Weitental/Hintertux"
+        },
+        {
+          "@language": "en",
+          "@value": "Weitental/Hintertux"
+        },
+        {
+          "@language": "ru",
+          "@value": "Weitental/Hintertux"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ba7afb3f-71a5-432d-8221-f492e67af6c0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schafe unterm Rastkogel"
+        },
+        {
+          "@language": "en",
+          "@value": "Schafe unterm Rastkogel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schafe unterm Rastkogel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d2f024f-bd76-4640-831f-9a82fc64a140/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Herbstliches Zillertal"
+        },
+        {
+          "@language": "en",
+          "@value": "Herbstliches Zillertal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Herbstliches Zillertal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e4bffcd-6b61-4c83-8fbf-ef8949152360/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kreuz bei der Karlalm"
+        },
+        {
+          "@language": "en",
+          "@value": "Kreuz bei der Karlalm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kreuz bei der Karlalm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4fa7341a-341a-47f0-b5c5-c0af33b25909/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter im Tuxertal"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter im Tuxertal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter im Tuxertal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/621a4c58-f7b2-439b-a9b4-637c2f79a4db/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahornspitze"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahornspitze"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahornspitze"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b093be66-6643-4e9d-8815-7cae94edaaa4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Frühling im Tuxertal"
+        },
+        {
+          "@language": "en",
+          "@value": "Frühling im Tuxertal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Frühling im Tuxertal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/651e2894-0465-402f-ac8b-541533180951/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Blick von der Zillertaler Höhenstraße"
+        },
+        {
+          "@language": "en",
+          "@value": "Blick von der Zillertaler Höhenstraße"
+        },
+        {
+          "@language": "ru",
+          "@value": "Blick von der Zillertaler Höhenstraße"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04d339d0-725c-465a-b99f-687a8091ba06/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Friesenbergsee"
+        },
+        {
+          "@language": "en",
+          "@value": "Friesenbergsee"
+        },
+        {
+          "@language": "ru",
+          "@value": "Friesenbergsee"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2227013976537",
+    "longitude": "11.8692898750305"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, Komfort"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, modern conveniences"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, современные удобства"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "70 m² große, komplett eingerichtet Komfortwohnung für 2-5 Personen Internet WLAN\nNehmen Sie sich Zeit zum Genießen. Unsere Ferienwohnung hat alles, was Sie für Ihren Urlaub brauchen.\n\nGenießen Sie die angenehme Wohnatmosphäre und den Komfort, den wir Ihnen in gediegener Ausstattung und herrlicher Lage bieten können. Genießen Sie unseren Balkon: er ist ein Logenplatz der besonderen Art. Diesen Rundumblick werden Sie nicht wieder vergessen! Genießen Sie den Anblick der mächtigen Berggestalt des Tristners, der sich immerhin 2000 Meter über Mayrhofen erhebt und dem bekannten Hauptort des Zillertales einen imposanten Abschluss gibt. Genießen Sie den Ausblick auf eine intakte alpine und bäuerliche Landschaft, auf Wiesen und Wälder, Bachläufe und Hecken in der Umgebung, oder schauen Sie vom Balkon aus den Bauern bei der Heuarbeit zu. Wenn im Herbst die Kühe nochmals im Freien weiden, wenn die Luft erfüllt ist vom vielzähligen Glockengeläut, liegt eine wundersame Gelassenheit über dem Tal, eine Stimmung, die sich nicht beschreiben, nur erleben lässt.\n\nGeeignet für:\nFür Kinder geeignet \nNichtraucherdomizil \nHaustiere nicht erwünscht \nGeeignet für Senioren \nNicht Rollstuhlgeeignet\n"
+        },
+        {
+          "@language": "en",
+          "@value": "A large flat with modern conveniences, balcony, 2 bedrooms, livin room with fully-equipped kitchen, sitting and dinning corner, dishwasher, microwave,\nsafe, satellite TV, radio, internetaccess, bath, WC, lobby, bed linen, hand and bath towes available!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Bad, WC   70m²"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, современные удобства"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "152.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "152.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "152.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

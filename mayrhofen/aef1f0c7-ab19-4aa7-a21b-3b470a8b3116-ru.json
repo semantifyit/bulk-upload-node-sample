@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ChildrensEvent",
+    "MusicEvent"
+  ],
+  "name": "Life Radio Summer Tour 2017",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Mayrhofner Bergbahnen",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ahornstraße 853",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 62277 ",
+      "faxNumber": "+43 5285 62277-161",
+      "email": "info@mayrhofner-bergbahnen.com",
+      "url": "http://www.mayrhofner-bergbahnen.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Mayrhofner Bergbahnen",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ahornstraße 853",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 62277 ",
+      "faxNumber": "+43 5285 62277-161",
+      "email": "info@mayrhofner-bergbahnen.com",
+      "url": "http://www.mayrhofner-bergbahnen.com"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7347fcea-a963-4462-b182-f5afcf8bcdb7/99/image.png",
+      "caption": "Life Radio Sommertour"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb0eb5e5-022f-4534-bd30-bfd624a81b75/99/image.jpg",
+      "caption": "Logo Life Radio"
+    }
+  ],
+  "startDate": "2017-08-26T11:00:00",
+  "endDate": "2017-08-26"
+}

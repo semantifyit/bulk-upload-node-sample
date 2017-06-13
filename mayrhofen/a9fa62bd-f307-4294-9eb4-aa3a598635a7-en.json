@@ -1,0 +1,164 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-verena.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA9FA62BD-F307-4294-9EB4-AA3A598635A7"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Verena, Haus",
+    "streetAddress": "Neu-Burgstall 311",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 2442115",
+    "email": "schwaiger@haus-verena.com",
+    "url": "http://www.haus-verena.com"
+  },
+  "name": "Haus Verena",
+  "description": [
+    "Holiday with children - holiday with friends. As your hosts we would like to wish you a very warm welcome. Our rustical, and comfortably furnished holiday apartment for 2-6 persons can be found in a very quiet and sunny position in \"Neu Burgstall\" (2km outside of Mayrhofen). The ski bus stop can be easily reached on foot in 2 minutes, and the Horbergbahn (Ski Region Ski-Zillertal 3000) lifts in 10.",
+    "The price includes electricity, heating, bed linen, hand towels, Sat-TV, shoe dryer, terrace. A deposit of Euro 150.- is to be paid on reservation. Children\u0027s discounts on request. \nThe final cleaning depends on the number of people from 40 - 55 €\nWe want to inform you that we only take cash!",
+    "Approaching from the Inntal-autobahn, the A12: Exit Zillertal, through the Zillertal Brettfall Tunnel, the Zillertal main through fare, the B169 in the direction of Mayrhofen, approx 2 km before Mayrhofen follow the sign posts for Burgstall, Horbergbahn, at the roundabout drive towards Neu Burgstall, after approx. 250 metres Haus Verena can be found on the right."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/871484d7-d895-4539-90a2-7205a20ab100/99/image.jpg",
+      "caption": "Haus Verena Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5b242e09-94a1-482e-b00c-2efe353fcd86/99/image.jpg",
+      "caption": "Haus Verena Mayrhofen - Sommer 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/80df087e-db3c-4b50-bd5f-40e965dcbf60/99/image.jpg",
+      "caption": "Haus Verena Mayrhofen - Wohnküche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5055503-606a-4d3e-bd0e-a07eb9170e81/99/image.jpg",
+      "caption": "Haus Verena Mayrhofen - Hausgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/329834dd-95ed-4d05-9d1a-fb21c367df88/99/image.jpg",
+      "caption": "Haus Verena Mayrhofen - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e44a5b04-d325-454a-94d9-c72fb5c3bcb6/99/image.jpg",
+      "caption": "Haus Verena Mayrhofen - Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2d43830a-94a1-4436-8cbe-44a9c3804f7a/99/image.jpg",
+      "caption": "Haus Verena Mayrhofen - Zimmer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f7b9962-5795-4f01-b54d-44f456077d51/99/image.jpg",
+      "caption": "Haus Verena Mayrhofen - Bad1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c16a9f2e-ed4f-4738-b058-288164959bf6/99/image.jpg",
+      "caption": "Haus Verena Mayrhofen - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/735d15a4-8c55-4b88-9214-d6192651f305/99/image.jpg",
+      "caption": "Haus Verena Mayrhofen - Hausgang2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a45799f-62b6-4e43-8f4b-1d609c808168/99/image.jpg",
+      "caption": "Haus Verena Mayrhofen - Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0508789c-2b02-488c-bb78-948973211ab2/99/image.jpg",
+      "caption": "Haus Verena Mayrhofen - Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7fd010eb-2de7-4625-a2b3-29f4b6225ee4/99/image.jpg",
+      "caption": "Haus Verena Mayrhofen - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1856475608997",
+    "longitude": "11.8589204549789"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 2 bed rooms",
+      "description": "84m² large, 1 double room with an extra bed, 1 bedroom (for 3 persons), fully equipped kitchen with dishwasher and comfortable seating area, television, bathroom, (bath, shower) and separate WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/bath tube, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "73.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "96.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "119.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "140.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

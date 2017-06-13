@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": "Psychotherapeutin Christine Hager",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2091833",
+    "longitude": "11.8732035"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 160",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664/2024046",
+    "email": "christine.hager@aon.at",
+    "url": "http://www.aerztehaus-ramsau.at/index.php/hager"
+  },
+  "description": [
+    "Psychotherapeutin für soziale Unsicherheit, Ängste, Depressionen, Suchterkrankungen, psychische Störungen im Alter, etc.\n\nTermine nach telefonischer Vereinbarung.",
+    "Montag, Dienstag, und Donnerstag nach telefonischer Terminvereinbarung\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63e47bd9-bad4-4d6b-a5fb-4005ba68b9ee/99/image.jpg",
+      "caption": "Christine Hager"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

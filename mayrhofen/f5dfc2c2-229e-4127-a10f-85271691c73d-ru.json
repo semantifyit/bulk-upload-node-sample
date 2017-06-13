@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Optik Amor",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1620576863698",
+    "longitude": "11.8610179424286"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Optik Amor",
+    "streetAddress": "Hauptstraße 487",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62541",
+    "faxNumber": "(0043) 5285 62541 4 ",
+    "email": "amor.optik@tirol.com",
+    "url": "http://www.amor-optik.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/40f24183-f5cb-484f-b8d5-360c250fe9f2/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cb924a64-cf33-4d68-84b7-0ac55772d68c/99/image.jpg",
+      "caption": "Team in Mayrhofen"
+    }
+  ],
+  "url": [
+    "http://www.amor-optik.at"
+  ]
+}

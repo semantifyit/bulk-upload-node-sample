@@ -1,0 +1,133 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d67B0F585-DC9F-4563-B8DF-C358B73C6785"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Jagerschneider, Haus",
+    "streetAddress": "Tuxer Straße 726",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 2830542",
+    "email": "christine.mikesch@aon.at"
+  },
+  "name": "Haus Jagerschneider",
+  "description": [
+    "Herzlich Willkommen im Haus Jagerschneider in der Ferienregion Mayrhofen-Hippach\n\nTreten Sie ein und fühlen Sie sich bei uns in den Alpen wie Zuhause. \nEin Urlaub im Zillertal ist immer ein Erlebnis der besonderen Art. \nSpüren Sie die frische Bergluft, atmen Sie tief durch und genießen Sie das herrliche Zillertaler Bergpanorama. \nUnser familiär geführtes Haus liegt  im Zentrum von Mayrhofen und ist daher der ideale Ausgangspunkt für einen komfortablen Urlaub.\nDie Ahorn- sowie die Penkenbahn sind in unmittelbarer Nähe und leicht  zu Fuß zu erreichen.\n\nWir freuen uns, Sie im Haus Jagerschneider begrüßen zu dürfen.\n\nIhre Familie Mikesch\n\n",
+    "Inklusive: Heizung, Wasser, Strom\nExklusive: Endreinigung\n\nCheck-In: 15.00 Uhr\nCheck-Out: 10.00 Uhr\n\nZwischenreinigung, Handtuchwechsel ab einen Aufenthalt ab 7 Tage auf Anfrage. ",
+    "Von Jenbach kommend fahren Sie bis zur Ortseinfahrt Mayrhofen Süd, biegen links ab und fahren etwa 800m der Tuxer Straße entlang bis zum Scheulinghof - wir sind auf der linken Seite direkt gegenüber."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fbfad51a-e066-412a-b26a-b8fd27c0f479/99/image.jpg",
+      "caption": "Haus Jagerschneider Mayrhofen - Sommer 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7e0c7882-fd90-4dd1-a5ea-35cc34b95350/99/image.jpg",
+      "caption": "Haus Jagerschneider Mayrhofen - Aussicht Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/72de5367-34ba-4718-9700-8fc1ccab4a76/99/image.jpg",
+      "caption": "Haus Jagerschneider Mayrhofen - Sommer 2 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2457f298-5195-4897-a67c-ecb46fb186f9/99/image.jpg",
+      "caption": "Haus Jagerschneider Mayrhofen - Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/71da643f-edcd-400a-8551-4b9ac2aa422a/99/image.jpg",
+      "caption": "Wohnraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f2aa70b-d509-4384-a08b-afb877288994/99/image.jpg",
+      "caption": "Doppelbettzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c7037dd-5e50-4b90-97b4-2377cb37bc27/99/image.jpg",
+      "caption": "Stockbettzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/03a72e67-c5d5-4c35-a6c2-3c0ef379f9ce/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/459174dd-0ec8-4ef8-870c-5761039da978/99/image.jpg",
+      "caption": "Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eafdd911-ef78-4285-b25e-56ade786845f/99/image.jpg",
+      "caption": "Familie"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1608248465066",
+    "longitude": "11.8579441308975"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Gemütlich eingerichtete Ferienwohnung (60 m²) mit eigenem Parkplatz in ruhiger und zentraler Lage, 5 Gehminuten ins Ortszentrum und zu den Bergbahnen.\nVerpflegung: Brötchendienst\nAustattung: Neuwertige, ebenerdige Wohnung mit eigenem Eingang bestehend.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "82.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "82.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "98.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

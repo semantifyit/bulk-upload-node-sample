@@ -1,0 +1,64 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Rodelbahn Brindlingalm"
+    },
+    {
+      "@language": "de",
+      "@value": "Rodelbahn Brindlingalm"
+    },
+    {
+      "@language": "ru",
+      "@value": "Rodelbahn Brindlingalm"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2072149866738",
+    "longitude": "11.8330398612907"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brindlingalm",
+    "streetAddress": "Hochschwendberg 536",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 2683"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Vom Gasthaus Mösl geht man einige hundert Meter auf der Zillertaler Höhenstraße. Dann zweigt eine Forststraße rechts ab durch einen Wald bis zur Brindlingalm.\n\nLänge: 2,5 km\nHöhenlage Start: 1.823 m\nHöhenlage Ziel: 1.480 m\nHöhenunterschied: 343 m\nSchwierigkeitsgrad: leicht\nÖffnungszeiten: täglich geöffnet bei ausreichender Schneelage\nBeleuchtung: Nein\nRodelverleih: Nein\nEinkehrmöglichkeit: Brindlingalm\nErreichbarkeit: Auffahrt über die Zillertaler Höhenstraße bis zum Gasthof Mösl. Parkmöglichkeit beim Gasthof Mösl. Der Start der Rodelbahn ist nur zu Fuß erreichbar, Gehzeit ab Gasthof Mösl ca. 60 min\nAufstiegshilfen: keine "
+    },
+    {
+      "@language": "en",
+      "@value": "Lenght: 2,5 km \nAltitude at start: 1823 m\nAltitude at destination: 1480 m\nAltitude difference: 343 m \nDifficulty level: easy\nOpening times: open every day with sufficient snow \nLighting: No\nSled hire: No\nCost of using the sled run: free of charge\nAvailable refreshment points: the Gasthof Mösl and at the start of the sled run at the Brindlingalm\nSpecial features: It is possible to stay overnight at the Brindlingalm \nAccessibility:\n   How to find: Ascent to the Gasthof Mösl via the Zillertaler Höhenstraße. Parking available at the Gasthof Mösl \nAscent: The start of the sled run is only accessible on foot, time of walk from the Gasthof Mösl: approx. 60 min. \nhelp with your ascent: none "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fc894cb0-7604-4ebd-89f7-f3816e03dea3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "rodeln"
+        },
+        {
+          "@language": "de",
+          "@value": "rodeln"
+        },
+        {
+          "@language": "ru",
+          "@value": "rodeln"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ExhibitionEvent",
+    "TheaterEvent",
+    "MusicEvent"
+  ],
+  "name": [
+    {
+      "@language": "de",
+      "@value": "Zillertal Messe"
+    },
+    {
+      "@language": "en",
+      "@value": "Zillertal Fair"
+    },
+    {
+      "@language": "ru",
+      "@value": "Zillertal Fair"
+    }
+  ],
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Europahaus Mayrhofen",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstraße 25",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6760 ",
+      "email": "congress@mayrhofen.at",
+      "url": "www.europahaus.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Europahaus Mayrhofen",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstraße 25",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6760 ",
+      "email": "congress@mayrhofen.at",
+      "url": "www.europahaus.at"
+    }
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Nähere Informationen folgen!\n"
+    },
+    {
+      "@language": "en",
+      "@value": "More information coming soon!\n\n\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8c0a49b7-3d36-4d8f-a455-cc47f1c777b0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Europahaus"
+        },
+        {
+          "@language": "en",
+          "@value": "Europahaus"
+        },
+        {
+          "@language": "ru",
+          "@value": "Europahaus"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.zillertalmesse.cc"
+  ],
+  "startDate": "2017-04-21T00:00:00",
+  "endDate": "2017-04-23"
+}

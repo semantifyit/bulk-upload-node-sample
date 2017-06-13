@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Skiverleih Startschuss Zillertal",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1907927",
+    "longitude": "11.8588534"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kohlstatt 260",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63696",
+    "email": "info@startschuss-zillertal.at",
+    "url": "http://www.startschuss-zillertal.at/"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9d643072-f070-4703-b284-40d4f5ac7347/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f7a393ea-ec3d-4e4a-85e5-35eda8bdaf39/99/image.jpg",
+      "caption": "Startschuss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3cfd0ee0-34cf-4cf0-872c-01aaf9161f97/99/image.jpg",
+      "caption": "Foto"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

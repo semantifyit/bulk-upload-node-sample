@@ -1,0 +1,101 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hundsbichler-zillertal.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d8C5004E3-46F4-4CA5-829A-215BB892CA5A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hundsbichler",
+    "streetAddress": "Laimach 203",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3194",
+    "email": "m.hundsbichler@tirol.com",
+    "url": "http://hundsbichler-zillertal.at"
+  },
+  "name": "Hundsbichler Jakob",
+  "description": [
+    "HOLIDAYS IN THE WORLD´S MOST ACTIVE VALLEY \nOur large attractive apartment (75sq. m) is suitable for 4-6 persons and is situated in Laimach. \nLaimach is a small village between Zell am Ziller and Hippach. \nYou will have magnificent views of the Zillertal Alps from the south-facing balcony and the large roof-terrace.\nIn front of the apartment block there is a play ground and a bus and ski-bus stop for the directions Mayrhofen (Horberg/Penken) and Zell am Ziller (Zillertal Arena).\nIn winter you have the cross-country tracks direct at the “door-step”. \nIn spring, summer and autumn you have the opportunity to visit the nearby waterfalls, and wander and cycle along the Ziller.\nIn summer you will have as our guests free admittance to the swimming pool in Hippach.\nThrilling adventures are guaranteed ... paragliding and hang-gliding with the world´s smallest flying school, river rafting on the Ziller, canyoneering or cave trekking, guided hiking tours to Zillertal´s most beautiful peaks! \n\nEnjoy a ride on the Zillertalbahn steam train or all-year skiing or snow-boarding at the Hintertux glacier. \nIn Laimach you have the choices of fun and action or relaxing in unspoilt nature. \n",
+    "Travelling by Car\nVia the Inntalautobahn A12 motorway until the exit for Zillertal, from there take the B169 Zillertal Road for the next 30 km to Hippach.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d4e9700-7afc-4e0b-9a70-887d502b23ba/99/image.jpg",
+      "caption": "Hundsbichler Hippach - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/75d4a317-e3f0-4897-9509-57a900976ed8/99/image.jpg",
+      "caption": "Hundsbichler Hippach - Esszimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec5bd100-3bbc-4ea2-8f54-bbea3565e4f6/99/image.jpg",
+      "caption": "Hundsbichler Hippach - Wohnraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3b7d2390-64e7-431e-b267-0fa2153ceaba/99/image.jpg",
+      "caption": "Hundsbichler Hippach - Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6a20afc-60c1-49cd-8d7f-91e0f0663be8/99/image.jpg",
+      "caption": "Hundsbichler Hippach - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/009ac1e8-f445-419b-ab24-628c6cf377c5/99/image.jpg",
+      "caption": "Hundsbichler Hippach - Zweibettzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d042e17c-11ce-44e3-a522-c5da7008f132/99/image.jpg",
+      "caption": "Hundsbichler Hippach - Aussicht Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8c4c8ef4-fa15-4797-af09-0b204e692089/99/image.jpg",
+      "caption": "Hundsbichler Hippach - Aussicht Sommer "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2227013976537",
+    "longitude": "11.8693327903748"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, separate toilet and shower/bathtub, 2 bed rooms",
+      "description": "Facilities:\n- Ca. 75m² apartment with two bedrooms, living room, kitchen with dining area, bathroom and separate toilet. The apartment is suitable for 4 -7 persons. \n- Cloakroom \n- Double Bedroom with double bed and wardrobe \n- Bedroom with two single beds and wardrobe \n- Spacious living room with pull-out couch (double bed) \n- Fully equipped kitchen with dining area, microwave, oven, ceramic stove top, \n- Dish washer, toaster, fridge and electric kettle \n- Bathroom with bath, shower, hairdryer and washing machine \n- The bedrooms, kitchen and lounge are fitted with wooden floors \n- The bathroom and toilet are tiled \n- Colour TV, DVD, HIFI-system incl. CD player \n- Iron board \u0026 iron, bed linen, towels and kitchen/table linen are available and inclusive. \n- A cupboard full of family games and jig saws for all ages \n- Cot, high chair, additional bed and pre-arrival shopping service are available at request. \n- Reserved car parking space \n- Ski-storeroom and dry room \n- Garden furniture \n- WIFI\nDuring the summer season our guests have free admittance to the swimming pool in Hippach\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, separate toilet and shower/bathtub, 2 bed rooms",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

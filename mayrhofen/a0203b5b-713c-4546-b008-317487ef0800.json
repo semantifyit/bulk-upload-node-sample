@@ -1,0 +1,209 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ginzling.net",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA0203B5B-713C-4546-B008-317487EF0800"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dornauberg 25",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 664 5730203",
+    "email": "rudolf.klausner@ginzling.net",
+    "url": "http://www.ginzling.net"
+  },
+  "name": "Klausner Inge",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt in ruhiger, sonniger Lage neben der Kirche.\nEinkaufsmöglichkeit direkt im Haus.\nHunde Willkommen!\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Preis inkl. Endreinigung, Bettwäsche, Handtücher, Strom, Kaffeemaschine usw. In Begleitung ihrer Eltern sind Kinder bis 3 Jahre frei - Kinder von 4 bis 9 Jahren bezahlen nur die Hälfte - Kinder von 9 bis 14 Jahren zahlen 75%. "
+    },
+    {
+      "@language": "de",
+      "@value": "B 169 Richtung Mayrhofen - auf der Umfahrungsstrasse weiter gerade aus Richtung Ginzling (Zemmgrund) - durch den Tunnel oder über die Schluchtstrasse - 8 km bis Ginzling."
+    },
+    {
+      "@language": "en",
+      "@value": "Our holiday apartment is situated in the centre of Ginzling."
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes: Final cleaning charge, bed linen, hand towels, electricity, coffee machine etc. Chilren accompanied by their parents go free up to the age of 3, and from the age of 4 to 12 pay half. "
+    },
+    {
+      "@language": "en",
+      "@value": "Use the B169 to Mayrhofen, on the ring road straight on in the direction of Ginzling (Zemmgrund) - through the tunnel, or on the canyon road - 8km to Ginzling."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6be9512f-1330-472e-9f09-5b2b4e2672ce/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Klausner Inge Ginzling - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Klausner Inge Ginzling - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Klausner Inge Ginzling - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26e94909-8c6b-414a-8869-a1d9f5878cec/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Klausner Inge Ginzling - Mitglied Partnerbetrieb"
+        },
+        {
+          "@language": "en",
+          "@value": "Klausner Inge Ginzling - Mitglied Partnerbetrieb"
+        },
+        {
+          "@language": "ru",
+          "@value": "Klausner Inge Ginzling - Mitglied Partnerbetrieb"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1001725022601",
+    "longitude": "11.8079316616058"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnung PETER hat eine Größe von ca. 50 m². \nAufgeteilt in kleine Wohnküche, Wohn- und Schlafzimmer mit  Kabel-Farb-TV \n(32 Programme), 1 Doppelzimmer sowie Dusche und WC. \n"
+        },
+        {
+          "@language": "en",
+          "@value": "Flat PETER has a size of ca. 50 m ².\nSplit in small kitchen-living room, living- and bedroom with cable colour TV\n(32 programmes), 1 double room as well as  shower and WC. \n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap. Peter/Wohn-Schlafraum/1 Schlafraum/D"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./1 bedroom/shower,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnung ANNA hat eine Größe von ca. 65 m² mit \"Gaulofen\", sowie Dusche und WC. Beide Wohnungen für 2 bis 4 Personen."
+        },
+        {
+          "@language": "en",
+          "@value": "Flat ANNA has a size of ca. 65 m ² with \"Gaulofen\", as well as shower and WC. Both flats for  2 - 4 people. \n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap. Anna/Wohn-Schlafraum/1 Schlafraum/Du"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./1 bedroom/shower,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,959 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "MusicEvent",
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub im Coup\u0026More"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub at Coup\u0026More"
+      },
+      {
+        "@language": "ru",
+        "@value": "DinnerClub at Coup\u0026More"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Coup\u0026More",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Christoph ",
+        "familyName": "Huber"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Coup\u0026More",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub mit DJ Hoody"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub with DJ Hoody"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/778ec2e1-e6a8-4d56-82b8-b560989c52e9/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Logo "
+          },
+          {
+            "@language": "en",
+            "@value": "Logo "
+          },
+          {
+            "@language": "ru",
+            "@value": "Logo "
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-01-06T20:00:00",
+    "endDate": "2017-01-06"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "MusicEvent",
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub im Coup\u0026More"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub at Coup\u0026More"
+      },
+      {
+        "@language": "ru",
+        "@value": "DinnerClub at Coup\u0026More"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Coup\u0026More",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Christoph ",
+        "familyName": "Huber"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Coup\u0026More",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub mit DJ Hoody"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub with DJ Hoody"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/778ec2e1-e6a8-4d56-82b8-b560989c52e9/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Logo "
+          },
+          {
+            "@language": "en",
+            "@value": "Logo "
+          },
+          {
+            "@language": "ru",
+            "@value": "Logo "
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-01-13T20:00:00",
+    "endDate": "2017-01-13"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "MusicEvent",
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub im Coup\u0026More"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub at Coup\u0026More"
+      },
+      {
+        "@language": "ru",
+        "@value": "DinnerClub at Coup\u0026More"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Coup\u0026More",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Christoph ",
+        "familyName": "Huber"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Coup\u0026More",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub mit DJ Hoody"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub with DJ Hoody"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/778ec2e1-e6a8-4d56-82b8-b560989c52e9/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Logo "
+          },
+          {
+            "@language": "en",
+            "@value": "Logo "
+          },
+          {
+            "@language": "ru",
+            "@value": "Logo "
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-01-27T20:00:00",
+    "endDate": "2017-01-27"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "MusicEvent",
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub im Coup\u0026More"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub at Coup\u0026More"
+      },
+      {
+        "@language": "ru",
+        "@value": "DinnerClub at Coup\u0026More"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Coup\u0026More",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Christoph ",
+        "familyName": "Huber"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Coup\u0026More",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub mit DJ Hoody"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub with DJ Hoody"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/778ec2e1-e6a8-4d56-82b8-b560989c52e9/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Logo "
+          },
+          {
+            "@language": "en",
+            "@value": "Logo "
+          },
+          {
+            "@language": "ru",
+            "@value": "Logo "
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-02-02T20:00:00",
+    "endDate": "2017-02-02"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "MusicEvent",
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub im Coup\u0026More"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub at Coup\u0026More"
+      },
+      {
+        "@language": "ru",
+        "@value": "DinnerClub at Coup\u0026More"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Coup\u0026More",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Christoph ",
+        "familyName": "Huber"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Coup\u0026More",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub mit DJ Hoody"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub with DJ Hoody"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/778ec2e1-e6a8-4d56-82b8-b560989c52e9/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Logo "
+          },
+          {
+            "@language": "en",
+            "@value": "Logo "
+          },
+          {
+            "@language": "ru",
+            "@value": "Logo "
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-02-10T20:00:00",
+    "endDate": "2017-02-10"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "MusicEvent",
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub im Coup\u0026More"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub at Coup\u0026More"
+      },
+      {
+        "@language": "ru",
+        "@value": "DinnerClub at Coup\u0026More"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Coup\u0026More",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Christoph ",
+        "familyName": "Huber"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Coup\u0026More",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub mit DJ Hoody"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub with DJ Hoody"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/778ec2e1-e6a8-4d56-82b8-b560989c52e9/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Logo "
+          },
+          {
+            "@language": "en",
+            "@value": "Logo "
+          },
+          {
+            "@language": "ru",
+            "@value": "Logo "
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-02-24T20:00:00",
+    "endDate": "2017-02-24"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "MusicEvent",
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub im Coup\u0026More"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub at Coup\u0026More"
+      },
+      {
+        "@language": "ru",
+        "@value": "DinnerClub at Coup\u0026More"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Coup\u0026More",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Christoph ",
+        "familyName": "Huber"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Coup\u0026More",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub mit DJ Hoody"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub with DJ Hoody"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/778ec2e1-e6a8-4d56-82b8-b560989c52e9/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Logo "
+          },
+          {
+            "@language": "en",
+            "@value": "Logo "
+          },
+          {
+            "@language": "ru",
+            "@value": "Logo "
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-03-03T20:00:00",
+    "endDate": "2017-03-03"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "MusicEvent",
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub im Coup\u0026More"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub at Coup\u0026More"
+      },
+      {
+        "@language": "ru",
+        "@value": "DinnerClub at Coup\u0026More"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Coup\u0026More",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Christoph ",
+        "familyName": "Huber"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Coup\u0026More",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub mit DJ Hoody"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub with DJ Hoody"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/778ec2e1-e6a8-4d56-82b8-b560989c52e9/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Logo "
+          },
+          {
+            "@language": "en",
+            "@value": "Logo "
+          },
+          {
+            "@language": "ru",
+            "@value": "Logo "
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-03-10T20:00:00",
+    "endDate": "2017-03-10"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "MusicEvent",
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub im Coup\u0026More"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub at Coup\u0026More"
+      },
+      {
+        "@language": "ru",
+        "@value": "DinnerClub at Coup\u0026More"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Coup\u0026More",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Christoph ",
+        "familyName": "Huber"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Coup\u0026More",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub mit DJ Hoody"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub with DJ Hoody"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/778ec2e1-e6a8-4d56-82b8-b560989c52e9/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Logo "
+          },
+          {
+            "@language": "en",
+            "@value": "Logo "
+          },
+          {
+            "@language": "ru",
+            "@value": "Logo "
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-03-24T20:00:00",
+    "endDate": "2017-03-24"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "MusicEvent",
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub im Coup\u0026More"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub at Coup\u0026More"
+      },
+      {
+        "@language": "ru",
+        "@value": "DinnerClub at Coup\u0026More"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Coup\u0026More",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Christoph ",
+        "familyName": "Huber"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Coup\u0026More",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub mit DJ Hoody"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub with DJ Hoody"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/778ec2e1-e6a8-4d56-82b8-b560989c52e9/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Logo "
+          },
+          {
+            "@language": "en",
+            "@value": "Logo "
+          },
+          {
+            "@language": "ru",
+            "@value": "Logo "
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-03-31T20:00:00",
+    "endDate": "2017-03-31"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "MusicEvent",
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub im Coup\u0026More"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub at Coup\u0026More"
+      },
+      {
+        "@language": "ru",
+        "@value": "DinnerClub at Coup\u0026More"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Coup\u0026More",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Christoph ",
+        "familyName": "Huber"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Coup\u0026More",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Hauptstraße 455a",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 63665",
+        "email": "info@coup-more.at",
+        "url": "http://www.coup-more.at"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "DinnerClub mit DJ Hoody"
+      },
+      {
+        "@language": "en",
+        "@value": "DinnerClub with DJ Hoody"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/778ec2e1-e6a8-4d56-82b8-b560989c52e9/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Logo "
+          },
+          {
+            "@language": "en",
+            "@value": "Logo "
+          },
+          {
+            "@language": "ru",
+            "@value": "Logo "
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-04-07T20:00:00",
+    "endDate": "2017-04-07"
+  }
+]

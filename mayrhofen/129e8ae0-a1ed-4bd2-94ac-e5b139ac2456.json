@@ -1,0 +1,531 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://",
+    "http://maps.mayrhofen.at/?foreignResource\u003d129E8AE0-A1ED-4BD2-94AC-E5B139AC2456"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendberg 331",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 41 42",
+    "email": "hausdaum@gmx.at"
+  },
+  "name": "Agnes Daum",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Urlaub bei Freunden\n\nFühlen Sie sich wohl und genießen Sie schöne Tage in unserem Appartement.\nWas bietet Ihnen unser Haus?\n\nEs ist eine Wohnung für 2 - 6 Personen mit einer schönen Lounge mit Sonnenliegen und Jausenecke steht zu ihrer Verfügung, das nächste Restaurant ist nur 50 m entfernt.\nParkplätze gibt es vor dem Haus und die ist Schibushaltestelle in 50 m Entfernung.\nSchiaufbewahrung, Schischuhtrockner, 1 Schlafzimmer mit Doppelbett, 1 Schlafzimmer mit Doppelbett und Ausziehcouch und SAT TV, Küche mit allem Komfort.\n\nBad mit Badewanne, Dusche und WC, Fön, Handtücher, Bettwäsche inkl.\nW-Lan, Gitterbett und Hochstuhl sind vorhanden.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Check-In: 14.00 Uhr\nCkeck-Out: 10.00 Uhr "
+    },
+    {
+      "@language": "de",
+      "@value": "Check-In: 14.00 Uhr\nCkeck-Out: 10.00 Uhr "
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated in Hippach, the skibus stop is 30m away from our house.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Check-In: 14.00 \nCkeck-Out: 10.00 "
+    },
+    {
+      "@language": "en",
+      "@value": "Check-In: 14.00 \nCkeck-Out: 10.00 "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b706faa9-3760-4edd-9c3d-6d3c130eaa73/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Agnes Hippach - Sommer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Agnes Hippach - Sommer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Agnes Hippach - Sommer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c8c01df-9b27-43de-ad4f-6682532e31aa/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Daum Agnes Hippach"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Daum Agnes Hippach"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Daum Agnes Hippach"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a4ff91cc-f284-4c4c-aac0-5044167208d6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "P1010768"
+        },
+        {
+          "@language": "en",
+          "@value": "P1010768"
+        },
+        {
+          "@language": "ru",
+          "@value": "P1010768"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c24c5d01-b1fd-4f62-95d6-eb37701f0a9f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ihre Vermieter"
+        },
+        {
+          "@language": "en",
+          "@value": "Ihre Vermieter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ihre Vermieter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/62da06e4-11ff-4c37-8f86-ffe64d2bc9c9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ihre Vermieter"
+        },
+        {
+          "@language": "en",
+          "@value": "Ihre Vermieter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ihre Vermieter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86218fdf-ee28-4f27-8c9d-61840685ebc7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "P1010769"
+        },
+        {
+          "@language": "en",
+          "@value": "P1010769"
+        },
+        {
+          "@language": "ru",
+          "@value": "P1010769"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1e66cd4-375b-4bc2-97cc-d57d9a66f3ca/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "P1010771"
+        },
+        {
+          "@language": "en",
+          "@value": "P1010771"
+        },
+        {
+          "@language": "ru",
+          "@value": "P1010771"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e357f24a-7d9f-4ec2-87d0-e473ad9ce5d7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "P1010772"
+        },
+        {
+          "@language": "en",
+          "@value": "P1010772"
+        },
+        {
+          "@language": "ru",
+          "@value": "P1010772"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b023a987-e6a6-4589-9591-692fe4b4ece2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Agnes Hippach - Ausblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Agnes Hippach - Ausblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Agnes Hippach - Ausblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6e04d0f0-a251-42a0-b58f-e6ffce8a8de2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Agnes Hippach - Ausblick Winter1"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Agnes Hippach - Ausblick Winter1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Agnes Hippach - Ausblick Winter1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a704289-4bb7-486d-9c63-90df7ff5aa4a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Agnes Hippach - Ausblick Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Agnes Hippach - Ausblick Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Agnes Hippach - Ausblick Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d337d00a-e2a8-436e-8889-0bf59dd6f872/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Agnes Hippach - Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Agnes Hippach - Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Agnes Hippach - Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/23e53d0a-7ceb-41da-b5fc-d2ffe5c0816c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "P1010905"
+        },
+        {
+          "@language": "en",
+          "@value": "P1010905"
+        },
+        {
+          "@language": "ru",
+          "@value": "P1010905"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3634748d-131a-4597-8f2d-65123de6e62c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Agnes Hippach - Küchentisch2"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Agnes Hippach - Küchentisch2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Agnes Hippach - Küchentisch2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53da3ecf-a1b1-4f59-8291-cc0033df9920/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "P1010903"
+        },
+        {
+          "@language": "en",
+          "@value": "P1010903"
+        },
+        {
+          "@language": "ru",
+          "@value": "P1010903"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/367022c1-9ac9-4a76-88b0-c7abc3f115eb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "P1010904"
+        },
+        {
+          "@language": "en",
+          "@value": "P1010904"
+        },
+        {
+          "@language": "ru",
+          "@value": "P1010904"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53d936e7-5c35-45ef-bb86-6f39913c81b7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Daum Agnes Hippach - Bad2"
+        },
+        {
+          "@language": "en",
+          "@value": "Daum Agnes Hippach - Bad2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Daum Agnes Hippach - Bad2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bc0705b1-71d6-4d86-a233-0be6806129bd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "P1010901"
+        },
+        {
+          "@language": "en",
+          "@value": "P1010901"
+        },
+        {
+          "@language": "ru",
+          "@value": "P1010901"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8368527e-330d-4c08-9c19-59fa986acaab/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "P1010895"
+        },
+        {
+          "@language": "en",
+          "@value": "P1010895"
+        },
+        {
+          "@language": "ru",
+          "@value": "P1010895"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eac04c00-c805-4bf5-b0fa-693d5e3bdd30/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "P1010897"
+        },
+        {
+          "@language": "en",
+          "@value": "P1010897"
+        },
+        {
+          "@language": "ru",
+          "@value": "P1010897"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da804924-7dc4-4def-a144-41b0c526f935/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "P1010898"
+        },
+        {
+          "@language": "en",
+          "@value": "P1010898"
+        },
+        {
+          "@language": "ru",
+          "@value": "P1010898"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af7d4683-2f4e-48c1-b40a-ad50c6a6491c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "P1010896"
+        },
+        {
+          "@language": "en",
+          "@value": "P1010896"
+        },
+        {
+          "@language": "ru",
+          "@value": "P1010896"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2064067",
+    "longitude": "11.8605035"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Unsere Ferienwohnung ist sehr modern und großzügig ausgestattet.\n2 Parkplätze stehen zu Verfügung.\nNeben zwei großen Schlafzimmern gibt e einen Badezimmer mit Wanne, WC und Dusche.\nDie Küche mit Abstellraum und Essecke ist schön und Funktionell. Der Wohnbereich mit Couch und Wohnwand lädt zum kuscheln ein.  \n"
+        },
+        {
+          "@language": "en",
+          "@value": "Our holiday flat is really modern.\n2 car parks are available.\nNext to 2 big bedrooms are there also a bathroom with a bath tub, toilet and shower.\nThe kitchen with a box room and a dinning area is beautiful and functional. the living room with a couch invites to cuddle."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "84.00",
+          "maxPrice": "112.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "105.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "126.00",
+          "maxPrice": "156.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

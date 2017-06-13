@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Hilde\u0027s Skitenne 1725m - Penken/Horberg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1814328568448",
+    "longitude": "11.8014514446259"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hilde\u0027s Skitenne",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 38 57 574"
+  },
+  "description": [
+    "Hilde’s Skitenne ist auf 1725 Meter Seehöhe, inmitten des Schigebiets Horberg-Penken (Piste Nr. 14) gelegen. Der traditionelle Stil und die natürlichen Materialien vermitteln ein Ambiente der ganz besonderen Art, und machen Hilde’s Schitenne zu einem Treffpunkt für Jung und Alt. \n\nVon unserer Sonnenterrasse aus genießen Sie einen wunderschönen Blick auf die Zillertaler Bergwelt. Sonnenanbeter relaxen in den von uns kostenlos zur Verfügung gestellten Liegestühlen. \n\nWir bieten Ihnen ein umfangreiches Speiseangebot sowie Tiroler Spezialitäten. Bei der Zubereitung unserer Speisen achten wir auf höchste Sorgfalt und verwenden vorwiegend regionale Produkte. Besonders bekannt sind unsere täglich frisch gegrillten Hähnchen, Pizzas sowie Hilde’s hausgemachter Apfel- und Topfenstrudel. \n\nApropos, Ein besonders beliebter Treffpunkt ist unsere Schirmbar. Da ist immer was los. \n\n\n\n",
+    "\n\nSommer \ngeschlossen \nkeine Übernachtung möglich "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d33b7136-cc7a-4cda-905b-c342519fb1f4/99/image.jpg",
+      "caption": "Hildes "
+    }
+  ]
+}

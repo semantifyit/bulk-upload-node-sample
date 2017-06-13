@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BankOrCreditUnion"
+  ],
+  "name": "Hypobank Tirol AG",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1671601719607",
+    "longitude": "11.8626755475998"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hypobank",
+    "streetAddress": "Hauptstraße 418",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 50700 7400",
+    "faxNumber": "0043 50700 4740",
+    "email": "hypo.mayrhofen@hypotirol.com",
+    "url": "http://www.hypotirol.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bafcb596-ad65-4b9f-a7ff-cba2cfad2d2a/99/image.jpg",
+      "caption": "Hypobank"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1e1ed45a-12e9-4db1-9d96-2504f9f9d6f0/99/image.gif",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.hypotirol.com/hypoweb/at/de/unternehmen/geschaeftsstellen/gs_mayrhofen.jsf"
+  ]
+}

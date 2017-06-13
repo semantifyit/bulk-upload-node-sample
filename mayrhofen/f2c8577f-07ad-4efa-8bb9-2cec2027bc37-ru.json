@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Primavera",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.162665",
+    "longitude": "11.8605918"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 480",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64523",
+    "faxNumber": "(0043) 5337 64417",
+    "email": "office@primavera-geschenke.at",
+    "url": "http://www.primavera-geschenke.at/filialen/mayrhofen"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5c56e13-5b82-4550-acf1-b8c9d312350f/99/image.jpg",
+      "caption": "Geschäftsausstattung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af43998b-56b5-44fc-8436-f998e484d50d/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.primavera-geschenke.at/filialen/mayrhofen"
+  ]
+}

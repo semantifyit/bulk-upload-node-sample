@@ -1,0 +1,403 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.berghof-gasthof.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d51D5B1CA-5570-4366-AEF2-6BEA88CFD185"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Berghof, Gasthof",
+    "streetAddress": "Schwendberg 412",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3676",
+    "faxNumber": "0043 5282 36764",
+    "email": "gasthof-berghof@tirol.com",
+    "url": "http://www.berghof-gasthof.at/"
+  },
+  "name": "Gasthof Berghof",
+  "description": [
+    "Der Gasthof Berghof in Hippach im Zillertal liegt auf 850 m Seehöhe in ruhiger Lage an der Zillertaler Höhenstraße, nur 3 Kilometer vom Ortszentrum Hippach und 8 km von Mayrhofen entfernt.\nNatur pur, so weit das Auge reicht, mit einem unbeschreiblichen Panoramablick, reine Bergluft und das Gefühl absoluter Freiheit. Unser Haus ist Ausgangspunkt für viele Aktivitäten wie Skifahren, rodeln, Bergwandern, Rafting, Paragleiten, Motorradtouren und vieles mehr!\nAuch dem motorisierten Gast bieten sich viele Möglichkeiten: das Erkunden entlegener Seitentäler wie z. B. den Schlegeisspeicher und der näheren Umgebung, z. B. die Zillertaler Höhenstraße, sowie das Besichtigen der Attraktionen und Sehenswürdigkeiten des Zillertals.\nUnter anderem macht ein Besuch der Erlebnissennerei-Zillertal mit dem Probieren bester regionaler Heumilch-Spezialitäten Spaß für Groß und Klein.\nAls Gast im Gasthof Berghof im Zillertal haben Sie freien Eintritt in das Freischwimmbad Hippach sowie die unmittelbare Nähe zur Skibus-Haltestelle, die Sie direkt zur Bergbahn der Mayrhofener Bergbahnen bringt.\n",
+    "Check in: ab 16 Uhr, Check out: bis 10 Uhr \nBei Anreise nach 19 Uhr bitten wir Sie, uns dies kurz vorher mitzuteilen!\n\nGratiseintritt ins Erlebnisfreibad Hippach und Mayrhofen.\n\n",
+    "Anreise per Auto\nÜber die Inntalautobahn A12 bis zur Ausfahrt Zillertal und von dort noch 30 km auf der Zillertal Bundesstraße Nr. B169 bis nach Hippach - und dann folgen Sie den Wegweisern Schwendberg (Zillertaler Höhenstraße).\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "33"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9460fbff-9589-4fdf-b5fd-7add75a15349/99/image.jpg",
+      "caption": "Berghof Hippach - Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac05f3c3-9b79-4383-b823-2f37ed708046/99/image.jpg",
+      "caption": "Berghof Hippach - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a5a4303e-7909-40c3-b7b0-cc2c75d19e24/99/image.jpg",
+      "caption": "Berghof Hippach - Sommer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/93d3e17d-1c90-41e3-8be2-b5b65ece0204/99/image.jpg",
+      "caption": "Berghof Hippach - Sommer4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b50bf92d-1548-4c06-8c73-7c812af58abf/99/image.jpg",
+      "caption": "Berghof Hippach - Sommer5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/151a9ce4-5718-41d0-aa7f-48d72e0c84f4/99/image.jpg",
+      "caption": "Berghof Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2943518c-fef3-4155-a72d-5c37d86a2028/99/image.jpg",
+      "caption": "Berghof Hippach - Winter1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df76f2e8-0f19-4b6b-ba3f-18de942154f6/99/image.jpg",
+      "caption": "Berghof Hippach - Stube 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e87f85a7-c7ed-4c08-b3bb-87447d993f2e/99/image.jpg",
+      "caption": "Berghof Hippach - Stube 2 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/062cbd23-8654-4ebc-93b4-c990c8f86875/99/image.jpg",
+      "caption": "Berghof Hippach - Good Morning"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8e1a8ef5-fc29-42c4-9413-906072d5c5f3/99/image.jpg",
+      "caption": "Berghof Hippach - Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5f7babc-65e1-4ce8-a563-0e19abec730d/99/image.jpg",
+      "caption": "Berghof Hippach - Aussicht1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e92dcc41-5026-4482-bd60-47742cd4f5a8/99/image.jpg",
+      "caption": "Berghof Hippach - Aussicht Wohnung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b24f8e2d-bb2e-4a05-87e3-73311b42178d/99/image.jpg",
+      "caption": "Berghof Hippach - Spielplatz1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/984ac92c-1311-456e-b8ff-7e68c11c4516/99/image.jpg",
+      "caption": "Berghof Hippach - Spielplatz2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9cba4f4a-fe45-4a7d-823d-0e627d165998/99/image.jpg",
+      "caption": "Berghof Hippach - Buffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a792b6ba-1bfa-4507-931c-66f5838909a1/99/image.jpg",
+      "caption": "Berghof Hippach - Dampfmassagedusche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f63746d0-f6bf-4a4f-8e43-42eabc2cab82/99/image.jpg",
+      "caption": "Berghof Hippach - Infrarot"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d11ae10c-70b8-42a6-b8c0-828ab4a6a55f/99/image.jpg",
+      "caption": "Berghof Hippach - Brunnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dffd2d53-b4a1-4577-aa7e-c25a299b87bd/99/image.jpg",
+      "caption": "Berghof Hippach"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e58c4687-7c35-4957-a0d5-b6ed2a0b172a/99/image.jpg",
+      "caption": "Berghof Hippach1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad2f5ee2-6c1c-4f7a-976c-5ec1304efb66/99/image.jpg",
+      "caption": "Berghof Hippach - Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/492367a4-5e51-4561-b85b-87c9814e3419/99/image.jpg",
+      "caption": "Berghof Hippach - Deko"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2000136867622",
+    "longitude": "11.8512332439423"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "In unseren zehn Doppel- bzw. Mehrbettzimmern können Sie es sich so richtig gemütlich machen. Klassisch in Holz eingerichtet, präsentieren sich unsere Zimmer im Flair des Tiroler Zillertales.\nAlle Zimmer sind mit Raucherbalkon ausgestattet und bieten durchgehend freien Blick auf das Zillertaler Bergpanorama und freie Sicht von Zell am Ziller bis nach Mayrhofen.\nAuch in unseren Zimmern ist W-Lan verfügbar\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Dusche/WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Dusche/WC Kurz",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "In unseren zehn Doppel- bzw. Mehrbettzimmern können Sie es sich so richtig gemütlich machen. Klassisch in Holz eingerichtet, präsentieren sich unsere Zimmer im Flair des Tiroler Zillertales.\nAlle Zimmer sind mit Raucherbalkon ausgestattet und bieten durchgehend freien Blick auf das Zillertaler Bergpanorama und freie Sicht von Zell am Ziller bis nach Mayrhofen.\nAuch in unseren Zimmern ist W-Lan verfügbar.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/2b2a3c92-5174-4296-a855-f6d0480c1c38/99/image.jpg",
+              "caption": "Bild Zimmer 2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/59468cae-5d51-49af-9c8a-e2fa129269de/99/image.jpg",
+              "caption": "Bild Zimmer 1 Mehrbettzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/86597bb9-4511-441d-acfb-993fb1161de8/99/image.jpg",
+              "caption": "Foto Zimmer 1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/cf80b123-a064-4408-b8ad-469b9f90a71f/99/image.jpg",
+              "caption": "IMG_2781"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC KURZ",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/dddefd3d-6d6d-41dd-8898-ea48e8ec7b5c/99/image.jpg",
+              "caption": "Foto Zimmer 1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/fa32e919-8e3a-4964-826b-cdb1f5ec51e7/99/image.jpg",
+              "caption": "IMG_2781"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "41.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Renoviertes Doppelzimmer 1. Etage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Nutzen Sie die modern ausgestattete Wohnküche, um sich selbst mit gutem Essen zu belohnen, und genießen Sie anschließend das Panorama und die Ruhe auf Ihrem eigenen Balkon.\n- 2 Mehrbettzimmer mit Dusche, 1 Einzelzimmer, 1 Wohn-Schlafzimmer \n- Große Küche (ausgestattet mit Backofen, Herd mit Ceranfeldern, Mikrowelle, Geschirrspüler, Kühlschrank mit Gefrierfach) \n- 3 Fernseher, alle mit SAT-Anschluss \n- Gemütliche Couch im Wohnzimmer \n- Insgesamt 3 Duschen \n- WC \n- Safe\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Dusche, WC",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ff75120b-7e7e-41aa-8d03-b37b009d0dce/99/image.jpg",
+              "caption": "Bild Ferienwohnung Küche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/b87d923a-11f3-4fa2-98cf-6c23532aa2e8/99/image.jpg",
+              "caption": "Bild Ferienwohnung Zimmer 1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/bea8c1b9-3216-48ef-8c33-2aee9a303b0d/99/image.jpg",
+              "caption": "Bild Ferienwohnung Zimmer 2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/39649d1f-ec60-4f2b-a2c1-d1c9e8d26fed/99/image.jpg",
+              "caption": "Esszimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/81d90e7c-f76d-416b-a8e1-06b34f2bf204/99/image.jpg",
+              "caption": "Ferienwohnung"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/c37799c6-86bd-43e5-b8e5-8bb37bc5e006/99/image.jpg",
+              "caption": "Aussicht Wohnung"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "17.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "16.60",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "16.33",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

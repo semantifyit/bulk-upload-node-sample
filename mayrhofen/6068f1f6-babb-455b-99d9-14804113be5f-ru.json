@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Hilde\u0027s Skitenne 1725m - Penken/Horberg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1814328568448",
+    "longitude": "11.8014514446259"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hilde\u0027s Skitenne",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 38 57 574"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d33b7136-cc7a-4cda-905b-c342519fb1f4/99/image.jpg",
+      "caption": "Hildes "
+    }
+  ]
+}

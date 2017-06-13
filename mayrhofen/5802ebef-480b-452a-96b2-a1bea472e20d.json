@@ -1,0 +1,550 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.zillertalnet.at/hubertus.htm",
+    "http://maps.mayrhofen.at/?foreignResource\u003d5802EBEF-480B-452A-96B2-A1BEA472E20D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Hubertus",
+    "streetAddress": "Neu-Burgstall 327",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64434",
+    "email": "sporer.hubertus@aon.at",
+    "url": "http://www.zillertalnet.at/hubertus.htm"
+  },
+  "name": "Haus Hubertus",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Die Horbergbahn ist die erste Zubringerbahn ins Skigebiet Mayrhofen-Penken-Horberg-Rastkogel-Eggalm und ist ca. 500 Meter von unserem Haus entfernt. Ein Kinderskilift wurde 2014 neu errichtet und steht den kleinsten Skifahreren direkt an der Talstation der Horbergbahn zur Verfügung. Die Skibushaltestelle ist ca 100 Meter entfernt. \nDie Langlaufloipe führt in unmittelbarer Nähe unseres Hauses vorbei.\nIm Sommer sind zahlreiche Wanderungen und Fahrradtouren möglich.\nAußerdem befinden sich 3 Klettersteige in der Nähe unseres Hauses.\n\nParkplätze sind vor dem Haus vorhanden. Fahrräder und Ski können in der Garage versperrt werden. Trockenraum und Skischuhtrockner stehen unseren Gästen zur Verfügung.\n \nFrühstück auf Anfrage möglich.\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: ab 16:00 Uhr\nCheck out: bis 10:00 Uhr\nDie Bezahlung erfolgt bei der Ankunft in bar.\n\nHaustiere sind nicht erlaubt. \n\nBitte rufen Sie uns bitte bei kurzfristigen Buchungen an. "
+    },
+    {
+      "@language": "de",
+      "@value": "Von der Bundesstraße B169 kommend vor Mayrhofen bei der Abfahrt zur Horbergbahn rechts abbiegen, beim Kreisverkehr in Richtung Pizzeria Sidan, ein Stück gerade aus und dann rechts abbiegen."
+    },
+    {
+      "@language": "en",
+      "@value": "Summer and winter holiday in the Hubertus Guest House. The Horbergbahn lift station is situated approx. 500m from our house, which will take you to the new ski region, the Ski-Zillertal3000. There approx. 65 ski lifts with 230 kilometres of pistes are at the ski and snow boarder\u0027s disposal. The cross country ski trail leads directly past our house.  Quiet and sunny south facing position. Generous breakfast."
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 16:00 hrs\nCheck out: 10:00 hrs\n\nPrice includes breakfast and local taxes."
+    },
+    {
+      "@language": "en",
+      "@value": "Using the main Zillertal road, the B169, approaching Mayrhofen, turn right at the exit for the Horbergbahn, at the roundabout drive towards the Sidan Pizzeria, go straight on a little and then turn right."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/46c86c8e-bf2f-4de5-8aa9-3c42a72391af/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Hubertus Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Hubertus Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Hubertus Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4231e16c-d022-4d1f-9695-7f4a1af41359/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Hubertus Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Hubertus Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Hubertus Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fd298f78-6b54-4351-a211-36a40a1ae25a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Hubertus Mayrhofen - Sommer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Hubertus Mayrhofen - Sommer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Hubertus Mayrhofen - Sommer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/18f196a9-cd7f-40cf-8502-64f26824eeed/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Hubertus Mayrhofen"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Hubertus Mayrhofen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Hubertus Mayrhofen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cfddc0da-fa6c-47ee-9efa-454cc042dafd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "P1010793"
+        },
+        {
+          "@language": "en",
+          "@value": "P1010793"
+        },
+        {
+          "@language": "ru",
+          "@value": "P1010793"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/776510ad-1a88-4d89-8138-b288a20fa2b9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wohnungsplan"
+        },
+        {
+          "@language": "en",
+          "@value": "Wohnungsplan"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wohnungsplan"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4bf085ef-1386-4f72-9f4f-04565e180772/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bike © Ronny Kiaulehn"
+        },
+        {
+          "@language": "en",
+          "@value": "Bike © Ronny Kiaulehn"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bike © Ronny Kiaulehn"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d419cef1-6e3b-4bff-914e-048e7dabb83c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bouldern © Ursula Aichner"
+        },
+        {
+          "@language": "en",
+          "@value": "Bouldern © Ursula Aichner"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bouldern © Ursula Aichner"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c8db157-ab5e-431f-8d02-d49731a396fc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gelebtes Brauchtum © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Gelebtes Brauchtum © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gelebtes Brauchtum © Norbert Freudenthaler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/931f27ae-1a1f-4b54-9f7b-93c126b834f1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Genießerberg Ahorn © Florian Schüppel"
+        },
+        {
+          "@language": "en",
+          "@value": "Genießerberg Ahorn © Florian Schüppel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Genießerberg Ahorn © Florian Schüppel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/454b8245-83f6-42b0-ae74-40bea0efe94a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hochgebirgs-Naturpark Zillertaler Alpen © Norbert "
+        },
+        {
+          "@language": "en",
+          "@value": "Hochgebirgs-Naturpark Zillertaler Alpen © Norbert "
+        },
+        {
+          "@language": "ru",
+          "@value": "Hochgebirgs-Naturpark Zillertaler Alpen © Norbert "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56e16ff9-c87f-4dcd-835b-541d811e04dd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Langlaufen © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Langlaufen © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Langlaufen © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d6fa7a36-4319-4546-9c17-d05267bfd130/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Panorama © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Panorama © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Panorama © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1905348-3760-4cd5-84d9-aaa0439df396/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "en",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "ru",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4eb1f80a-c05a-490a-be4b-53da5c0b1252/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bergsteigen © Bernd Ritschel"
+        },
+        {
+          "@language": "en",
+          "@value": "Bergsteigen © Bernd Ritschel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bergsteigen © Bernd Ritschel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c4daedb-8ded-4dd7-8d2a-c251d6fc5087/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7d453ca-55d4-4b43-b991-7558da92d33f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09608c2d-fdb7-4366-a8c6-b7b5c2a24f82/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "White Lounge am Genießerberg Ahorn © Frank Bauer"
+        },
+        {
+          "@language": "en",
+          "@value": "White Lounge am Genießerberg Ahorn © Frank Bauer"
+        },
+        {
+          "@language": "ru",
+          "@value": "White Lounge am Genießerberg Ahorn © Frank Bauer"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1866428530672",
+    "longitude": "11.8588131666183"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütliches Doppelzimmer mit Dusche/WC und Sat-TV sorgen für die nötige Erholung.\nWLAN steht Ihnen kostenfrei zur Verfügung.\nWeitere Informationen finden Sie auf unserer Homepage:\nwww.zillertalnet.at/hubertus.htm\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortable double rooom with shower and WC, Sat-TV."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "26.00",
+          "maxPrice": "31.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "21.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "1 Ferienwohnung für 2-6 Personen befindet sich im 1 Stock.\n3 Schlafzimmer alle mit Dusche/WC/Sat-TV/Föhn und Balkon,\ngemütliche Wohnküche komplett ausgestattet: Sat-TV, Geschirrspüler, \nMikrowelle, Kaffeemaschine, E-Herd, Kühlgefrierfach.\n\nWLAN steht Ihnen kostenfrei zur Verfügung.\n\nInkl. Bettwäsche und Handtücher\n"
+        },
+        {
+          "@language": "en",
+          "@value": "1 appartment for 2 - 6 persons located at the first floor.\n3 bedrooms with shower/toilet/SAT-TV/hairdryer and balcony\ncomfortable eat-in kitchen equipped with dishwasher, electric kitchen stove, refrigator with icebox, coffee machine, SAT-TV,...\nWIFI is free!\nBedlines, towels and dish towels are available."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement/Fewo"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "125.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "150.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

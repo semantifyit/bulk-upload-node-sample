@@ -1,0 +1,567 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.ramsauerhof.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d0C91D76B-F0A2-46FB-9356-748BB0FC4422"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ramsauerhof, Alpenhotel",
+    "streetAddress": "Talstraße 95",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3663",
+    "faxNumber": "0043 5282 3597",
+    "email": "info@ramsauerhof.at",
+    "url": "http://www.ramsauerhof.at"
+  },
+  "name": "Alpenhotel Ramsauerhof",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt in der Ferienregion Mayrhofen/Hippach inmitten der Zillertaler Alpen. Hier können Sie Ihren Urlaub in gediegener und familiärer Atmosphäre genießen. In unserem Restaurant werden Sie mit internationalen Spezialitäten aus der Küche verwöhnt. Weitere Köstlichkeiten bietet unser reichhaltiges Salatbuffet!\n\nBesuchen Sie uns unter: www.ramsauerhof.at\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Die angegeben Preise sind inklusive aller Abgaben und Steuern und verstehen sich pro Person und Tag.\nDie Kinderpreise gelten je Kind und Tag im Zimmer mit 2 Vollzahlern\nUnseren Verträgen liegen, soweit nicht hier abweichende Regelungen getroffen sind, die österreichischen Hotelvertragsbedingungen zugrunde.\nBuchungen sind erst verbindlich, wenn sie durch uns schriftlich bestätigt wurden.\n \n"
+    },
+    {
+      "@language": "en",
+      "@value": "Our Ramsauerhof is situated in central position in the holiday area Hippach/Ramsau/Schwendau surrounded of the zillertaler alps. You can enjoy your holidays in family atmosphare. Our restaurant spoil you with international specilities and extended salad buffet!"
+    },
+    {
+      "@language": "en",
+      "@value": "The prices include all taxes per person per day.\nChildren\u0027s prices apply per child per day in the room with 2 adults.\n\nOur contracts are based, unless alternative arrangements have been made here, the Austrian hotel contract conditions based.\nReservations are only binding if confirmed in writing."
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "14"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/682a792b-83cc-4dc7-809b-0518736be240/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "fotos SO08 gfiarig 001"
+        },
+        {
+          "@language": "en",
+          "@value": "fotos SO08 gfiarig 001"
+        },
+        {
+          "@language": "ru",
+          "@value": "fotos SO08 gfiarig 001"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f445561-7615-4b28-932b-386c79eca8a6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "RAMSAUERHOF024"
+        },
+        {
+          "@language": "en",
+          "@value": "RAMSAUERHOF024"
+        },
+        {
+          "@language": "ru",
+          "@value": "RAMSAUERHOF024"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/164b7925-cb27-4e0c-a520-d13238dd1ecb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "RAMSAUERHOF012"
+        },
+        {
+          "@language": "en",
+          "@value": "RAMSAUERHOF012"
+        },
+        {
+          "@language": "ru",
+          "@value": "RAMSAUERHOF012"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9a82047-0d08-4845-9bc0-a819197d7aed/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Familienbild 2013"
+        },
+        {
+          "@language": "en",
+          "@value": "Familienbild 2013"
+        },
+        {
+          "@language": "ru",
+          "@value": "Familienbild 2013"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/42c1ec18-ddb6-4f18-b2e7-b5c5128d96e5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "RAMSAUERHOF010"
+        },
+        {
+          "@language": "en",
+          "@value": "RAMSAUERHOF010"
+        },
+        {
+          "@language": "ru",
+          "@value": "RAMSAUERHOF010"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96453983-aeb3-44a1-8902-2ceb0dae6573/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "RAMSAUERHOF011"
+        },
+        {
+          "@language": "en",
+          "@value": "RAMSAUERHOF011"
+        },
+        {
+          "@language": "ru",
+          "@value": "RAMSAUERHOF011"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ef79928-1026-4ac3-8fa3-b139f8b05aec/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "RAMSAUERHOF016"
+        },
+        {
+          "@language": "en",
+          "@value": "RAMSAUERHOF016"
+        },
+        {
+          "@language": "ru",
+          "@value": "RAMSAUERHOF016"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/915d4c35-514c-4964-a7b2-7b94ec7fbbe8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "RAMSAUERHOF047"
+        },
+        {
+          "@language": "en",
+          "@value": "RAMSAUERHOF047"
+        },
+        {
+          "@language": "ru",
+          "@value": "RAMSAUERHOF047"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/153bb9e3-0702-48a6-ab9c-8d1c2b7feaef/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "RAMSAUERHOF059"
+        },
+        {
+          "@language": "en",
+          "@value": "RAMSAUERHOF059"
+        },
+        {
+          "@language": "ru",
+          "@value": "RAMSAUERHOF059"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2014861680507",
+    "longitude": "11.8717575073242"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "großzügige Nichtraucher Zimmer mit 2 getrennten Zimmern mit Verbindungstüre und Balkon, ausgestattet mit Sat TV, Direktwahltelefon, Internetzugang, Safe, schönen Bäder mit Dusche oder Bad und WC. Haartrockner und Kosmetikspiegel vorhanden, Dusch- und Haarshampoo vorhanden, Bademäntel gegen Entgelt."
+        },
+        {
+          "@language": "en",
+          "@value": "A big room with two seperat rooms with a connecting door and a balcony, equiped tv with sat, telephone\ninternet, safe, wonderful bath with shower or bath with toilet. hair dryer and a mirrow, shower and hair shampoo, bathrobe for money and everything for non-smoker.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Dreibettzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "triple room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "3-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche oder Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower or bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, Душевая кабина или ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "großzügige Nichtraucher Zimmer mit Balkon, ausgestattet mit Sat TV, Direktwahltelefon, Internetzugang, Safe, schönen Bäder mit Dusche oder Bad und WC. Haartrockner und Kosmetikspiegel vorhanden, Dusch- und Haarshampoo vorhanden, Bademäntel gegen Entgelt."
+        },
+        {
+          "@language": "en",
+          "@value": "A big room with two seperat rooms with a connecting door and a balcony, equiped tv with sat, telephone\ninternet, safe, wonderful bath with shower or bath with toilet. hair dryer and a mirrow, shower and hair shampoo, bathrobe for money and everything for non-smoker.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche od. Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower or bath tube, W"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, Душевая кабина или ванна, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Junior Suite, Dusche oder Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Junior suite, shower or bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Полулюкс, Душевая кабина или ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "großzügige Nichtraucher Zimmer mit Balkon, 2 getrennte Schlafzimmer, ausgestattet mit Sat TV, Direktwahltelefon, Internetzugang, Safe, schönen Bäder mit Dusche oder Bad und WC. Haartrockner und Kosmetikspiegel vorhanden, Dusch- und Haarshampoo vorhanden, Bademäntel gegen Entgelt."
+        },
+        {
+          "@language": "en",
+          "@value": "A big room with two seperat rooms with a connecting door and a balcony, equiped tv with sat, telephone\ninternet, safe, wonderful bath with shower or bath with toilet. hair dryer and a mirrow, shower and hair shampoo, bathrobe for money and everything for non-smoker.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Juniorsuite mit Dusche od. Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "juniorsuite with shower or bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Полулюкс, Душевая кабина или ванна, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Familienzimmer, Dusche oder Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Family room, shower or bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Семейный номер, Душевая кабина или ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "großzügige Nichtraucher Zimmer mit 2 getrennten Zimmern mit Verbindungstüre und Balkon, ausgestattet mit Sat TV, Direktwahltelefon, Internetzugang, Safe, schönen Bäder mit Dusche oder Bad und WC. Haartrockner und Kosmetikspiegel vorhanden, Dusch- und Haarshampoo vorhanden, Bademäntel gegen Entgelt."
+        },
+        {
+          "@language": "en",
+          "@value": "A big room with two seperat rooms with a connecting door and a balcony, equiped tv with sat, telephone\ninternet, safe, wonderful bath with shower or bath with toilet. hair dryer and a mirrow, shower and hair shampoo, bathrobe for money and everything for non-smoker.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Familienzimmer mit Dusche od. Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "family room with shower or bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Семейный номер, Душевая кабина или ванна, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

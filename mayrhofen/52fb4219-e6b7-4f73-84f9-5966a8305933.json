@@ -1,0 +1,65 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Lisa\u0027s Laden"
+    },
+    {
+      "@language": "de",
+      "@value": "Lisa\u0027s Laden"
+    },
+    {
+      "@language": "ru",
+      "@value": "Lisa\u0027s Laden"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.162665",
+    "longitude": "11.8605918000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lisa\u0027s Laden ",
+    "streetAddress": "Hauptstraße 480",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 1516482",
+    "email": "info@lisas-laden.at",
+    "url": "http://www.lisas-laden.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Nimm dir Zeit, mach Pause und komm in meinen Laden, entdecke Schönes aber auch Nützliches, finde was Besonderes für dich und dein Zuhause, etwas das dir ein Lächeln in dein Gesicht zaubert, was zum gerne Schenken und Freude machen … \n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68e58c4b-1cd0-4be6-9217-1f87f0cdd371/99/image.png",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.lisas-laden.at"
+  ]
+}

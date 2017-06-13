@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Penken - Der Actionberg - Sommer",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1633023",
+    "longitude": "11.860612"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Penkenbahn",
+    "streetAddress": "Hauptstraße 472",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 62277",
+    "faxNumber": "+43 5285 62277-161",
+    "email": "info@mayrhofner-bergbahnen.com",
+    "url": "http://www.mayrhofner-bergbahnen.com"
+  },
+  "description": "Action Mountain Penken\n\nPenken Panorama Trail\nMount Penken offers pure adventure not only to mountain bikers. Climbers and para­gliders are very much at home here too and, in addition to the Funballz-Station at the Penken reservoir, a great attraction is the Panorama Trail. Grandparents can push the smallest family members in a buggy along the trail, while new parents can try out the via Ferrate route for beginners. On presentation of official ID, the necessary equip­ment may be borrowed free of charge from the cable car offices. The trail then leads along the foot of the Knorren climbing area, where walkers can watch in amazement as the pros negotiate almost vertical rock faces, or watch paragliders and their spec­tacular take-off manoeuvres. But that’s not all: Interactive stations along the trail simulate the experiences of these athletes, such as a hang-swing at the paraglider launch site, where guests can experience what it feels like to fly with a paraglider.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c17d4bef-9ff1-44b0-800e-ad553a77118f/99/image.jpg",
+      "caption": "Penken"
+    }
+  ],
+  "url": [
+    "http://www.mayrhofner-bergbahnen.com"
+  ]
+}

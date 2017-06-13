@@ -1,0 +1,500 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.fischer-haeusl.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dCB46C6E3-24F1-4775-AF74-126E6B8A423F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Talstraße 124",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3469",
+    "email": "rudolf.brugger@aon.at",
+    "url": "http://www.fischer-haeusl.at"
+  },
+  "name": "Fischerhäusl",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Im Fischerhäusl in Ramsau im Zillertal sind Sie herzlich Willkommen.\n\nWir haben 3 Ferienwohnungen und einige Gästezimmer in unserem Haus.\n\nUnser Haus liegt am Ortsrand von Ramsau im Zillertal  umgeben von grünen Wiesen mit wunderbarem Blick auf den Trister und dem Penken.\n\nDas Ortszentrum Ramsau ist nur 1 km vom Haus entfernt und das Ortszentrum Hippach nur ca. 1.5 km.\nNach Mayrhofen sind es ca. 3 km.\nZur Talstation der Horbergbahn ist ca. 2 km.\n\nSkibushaltestelle zum Skigebiet Zillertal 3000 und zur Zillertal Arena nur 200 Meter vom Haus entfernt.\n\nHaustiere nicht erlaubt."
+    },
+    {
+      "@language": "de",
+      "@value": "Kinderermäßigungen auf Anfrage"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in 14.00 Uhr - Check out 10.00"
+    },
+    {
+      "@language": "en",
+      "@value": "Quiet position with sun terrace an sunbathing lawn.\nPets are not allowed."
+    },
+    {
+      "@language": "en",
+      "@value": "Child reduction on request."
+    },
+    {
+      "@language": "en",
+      "@value": "Check in 14.00 Uhr - Check out 10.00"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3025ce63-88a8-4417-acc7-0aad8fc816cc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fischerhäusl Ramau - Hausansicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Fischerhäusl Ramau - Hausansicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fischerhäusl Ramau - Hausansicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1e845b29-98c9-4ab0-884b-ef54fbaf0286/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fischerhäusl Ramsau - Hausansicht 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Fischerhäusl Ramsau - Hausansicht 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fischerhäusl Ramsau - Hausansicht 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/059fd850-26be-4b90-a4d7-8b432742da23/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fischerhäusl Ramsau - Lage"
+        },
+        {
+          "@language": "en",
+          "@value": "Fischerhäusl Ramsau - Lage"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fischerhäusl Ramsau - Lage"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/741f8895-1693-42df-8c0f-a9014ad4aef3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fischerhäusl Ramsau - Frühstücksraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Fischerhäusl Ramsau - Frühstücksraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fischerhäusl Ramsau - Frühstücksraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/351fea75-9c84-4cdb-876b-ef309a93bbbb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerurlaub-1"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerurlaub-1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerurlaub-1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/904fa919-032a-4c52-9aad-cbbd4d5bcfed/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerurlaub-2"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerurlaub-2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerurlaub-2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8b63f832-10cc-456f-81c5-67b91edb82dc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerurlaub-3"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerurlaub-3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerurlaub-3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/05f44377-22dc-49c3-b4ea-4d2d10f6211d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerurlaub-4"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerurlaub-4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerurlaub-4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f3060533-f2f9-4e17-b967-8d6117a8a170/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-1"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12e73525-d954-4ce4-9123-6aea858ad429/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-2"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f449bf20-99bc-479c-96d2-8e931e056f2d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-3"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef3370fb-229a-4fcf-9212-2ad27b344d88/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-4"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/abab0ff6-27f4-4610-a5e9-2498b99a946b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-5"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-5"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.20106702531",
+    "longitude": "11.8703520298004"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Privatzimmer mit  Frühstück.\n\nWir haben 3 Doppelzimmer Dusche WC, SAT-TV und mit Balkon.\n 2 Doppelzimmer Dusche WC, SAT-TV ohne Balkon.\n\n Wir servieren ihnen ein  reichhaltiges erweitertes Frühstück in unserem gemütlichen  Frühstücksraum.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "We have 3 double rooms shower, toilet, TV-SAT and with balcony.\n  2 double room shower WC, SAT-TV, without balcony.\n\n  We serve a sumptuous full breakfast in our cozy breakfast room."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Tage des offenen Tales"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Alle Leistungen können mit Zillertaler Gästekarte* kostenlos am 14. und 15.06.2014 genutzt werden!\n\nFreie Fahrt mit den Zügen der Zillertalbahn inkl. Dampfzug (nicht gültig für Gruppen) \nFreie Berg \u0026 Talfahrt mit der Spieljochbahn und musikalische Unterhaltung bei der Bergstation \nFreie Berg \u0026 Talfahrt mit der Finkenberger Almbahn und Bergfest am Penkenjoch: Zillertaler Musik und echte Zillertaler Spezialitäten bei der Penkentenne (15.06.2014) und bei Christas Skialm sowie informative Kräuterrundwanderung bei der Mittelstation\nFreie Berg \u0026 Talfahrt mit der Rosenalmbahn, Gerlossteinbahn, Ramsberglift, Isskogelbahn, Ahornbahn, Penkenbahn \nFreier Eintritt in alle Freibäder des Zillertals\nFreier Eintritt ins Heimatmuseum Fügen, Regionalmuseum Zell \nFreier Eintritt im Strasser Häusl in Laimach (nur am 15.06.2014) \nKostenlose Besichtigung der Ausstellung \"Seelische Berührung\" in der Galerie im FeuerWerk in Fügen (14.06.2014)\nKostenlose Besichtigung der ErlebnisSennerei Mayrhofen \nKostenlose Besichtigung der Erlebnisbrennerei Feldishütte \nKostenlose Auffahrt zum Schlegeisspeicher\nKostenlose Auffahrt zum Stillupspeicher\nKostenlose Besichtigung der Ausstellung \"Gletscher.Welten\" im Naturparkhaus Ginzling, der \"Kultur.Landschafts.Welten Mitterstall\" in Brandberg und der \"Steinbock.Welten\" Zillergrund \nKostenlose Besichtigung der Spannagelhöhle (nur am 15.06.2014) und des Natur Eis Palastes am Hintertuxer Gletscher (nur am 15.06.2014, Berg- und Talfahrt mit der Hintertuxer Gletscherbahn exklusive)\n*Die Vorlage einer für den Zeitraum (14.+15.06.2014) gültigen Gästekarte der Zillertaler Tourismusverbände berechtigt alle Gäste zum kostenlosen Eintritt bei den angeführten Betrieben.\n"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/63fcca3f-1db2-485d-8ab9-5b244a83d1cb/99/image.png",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Tage des offenen Tales"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Tage des offenen Tales"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Tage des offenen Tales"
+                }
+              ]
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "25.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "20.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Im zweiten Stock haben wir eine Ferienwohnung für 2-4 Personen.\n Ausstattung:\n\n  Zimmer mit Doppelbett \n Dusche WC, SAT-TV. \n\n Wohnraum mit komplett  eingerichteter Küche mit E-Herd und Backrohr\n Kühlschrank mit Gefrierfach.\n Kaffeemaschine, Geschirr, Besteck usw. komplett für 4 Personen vorhanden.\n\n Küchentisch mit 2 Stühle.  Eckbank. SAT-TV. Dusche und WC mit extra Eingang von der Wohnung.\n Balkon.\n  \n Bettwäsche und einmal Handtuch und Badetuch vorhanden.\n\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "On the second floor we have an apartment for 2-4 people.\n  Equipment:\n\n   Room with double bed\n  Shower WC, SAT-TV.\n\n  Living room with fully equipped kitchen with electric stove and oven\n  Refrigerator with freezer.\n  Coffee maker, dishes, cutlery, etc. completely available for 4 persons.\n\n  Kitchen table with 2 chairs. Corner seat. SAT-TV. Shower and toilet with extra input from the apartment.\n  Balcony.\n  \n  Bed linen and towel and beach towel once available."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./Wohn-Schlafraum/1 Schlafraum/Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.liv.-bedroom/1 bedroom/bath,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

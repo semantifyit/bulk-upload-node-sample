@@ -1,0 +1,57 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d38C7878A-0A07-4A42-9419-C293615B6836"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Talstraße 50",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2568",
+    "faxNumber": "0043 5282 2179",
+    "email": "garber.anton@aon.at"
+  },
+  "name": "Garber Maria",
+  "description": "Our house lies very centrally in Ramsau, to the next skiing area (Ramsberglift), to the ski bus stop and to the train you only need 5 WALKING MINUTES. \nTo the bigger skiing areas like Zillertal arena and Mayrhofner mountain railways / Horbergbahn you need 5 AUTOMINUTES. \nThe flat with balcony is furnished comfortably, \nwith 2 separate bedrooms for 4-6 people.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db9fc87f-57da-472d-b97c-a675d0be9b5f/99/image.jpg",
+      "caption": "Maria Garber Ramsau - Winterbild"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.207120582891",
+    "longitude": "11.8711352348328"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet",
+      "description": "Completely comfortably furnished non-smokers-Ferienwohng for 4-6 people, 2 separate bedrooms, bath / WC, kitchen, double sleep couch, Sat TV, balcony. . .",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.living-bedr./2 bedr./shower+bath",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

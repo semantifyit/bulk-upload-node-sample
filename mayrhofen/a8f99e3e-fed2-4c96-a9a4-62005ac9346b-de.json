@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Greizer Hütte 2227m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0433223605014",
+    "longitude": "11.8857264518738"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Greizer Hütte",
+    "streetAddress": "Floite 300",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3211",
+    "email": "greizerhuette@aon.at",
+    "url": "www.alpenverein.at"
+  },
+  "description": [
+    "Sommer \n10.Juni - Anfang Oktober 2017\nkein Ruhetag \nÜbernachtung möglich 92 Zimmerlager/Betten",
+    "Die Hütte liegt im Floitental - eignet sich als Ziel für eine Tagestour, als Stützpunkt, als Standquartier für alpine Ausbildung und als Ausgangspunkt für alpine Touren in Fels und Eis..."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a2d760f8-4ae2-4e6e-9b6c-6e5e7220024c/99/image.jpg",
+      "caption": "Greizerhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4eb47019-8334-42b8-9470-9b37a918ab72/99/image.jpg",
+      "caption": "Greizer Hütte"
+    }
+  ],
+  "url": [
+    "http://www.alpenverein.at/huettenHome/DE/Home/index.php?huetteNr\u003d0551"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Mountain Mass on Hundskehljoch",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "ÖAV - Sektion Zillertal",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Paul",
+      "familyName": "Steger"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Breitlahneweg 284",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "ÖAV - Sektion Zillertal",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Breitlahneweg 284",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT"
+    }
+  },
+  "description": "The mass, which combines valleys.\nThe uniqueness of this mountain mass is that it is held exactly on the border between Tyrol and South Tyrol and on the Hundskehljoch.\nThe Alpine Club Zillertal and the farmer youth of St. Jakob and St. Peter from the Ahrntal organize it together since 1992.\n\nHundskehljoch where is that? The \"dog throat\" can be reached via a side valley of Mayrhofen, the Zillergrund. From Bärenbad it goes right in the Hundskehlgrund. The walk up to the cross, on which the mass is held, is about 2 hours from the Zillertal as well as from the Ahrntal.\n\nThis mass is held every year held in September on the 2nd weekend.\n\nThe organizers are looking forward to many participants to celebrate the holy mass on the mountain together.\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a18873bb-b18e-4a33-ac91-aa8348fc20a4/99/image.jpg",
+      "caption": "Hundskehljochmesse ÖAV"
+    }
+  ],
+  "startDate": "2017-09-10T13:00:00",
+  "endDate": "2017-09-10"
+}

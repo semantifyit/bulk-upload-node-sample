@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub",
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Coup\u0026More"
+    },
+    {
+      "@language": "de",
+      "@value": "Coup\u0026More"
+    },
+    {
+      "@language": "ru",
+      "@value": "Coup\u0026More"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1645247",
+    "longitude": "11.8621105"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Coup\u0026More",
+    "streetAddress": "Hauptstraße 455a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 63665",
+    "email": "info@coup-more.at",
+    "url": "http://www.coup-more.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Das Q - Bar, Cafe und Restaurant ist modern und locker.\n\nZentral gelegen, lässt sich das bunte Treiben bequem von der sonnigen Terrasse aus mitverfolgen.\n\nEntspannte Atmosphäre und eine kreative Küche zeichnen das Restaurant aus.\n \nEspresso, Cocktails \u0026 Co.\n\nLassen Sie sich verwöhnen - ob bei einer kurzen Kaffeepause, beim exklusiven Dinner am Abend oder gemütlich bei einem Glas Wein."
+    },
+    {
+      "@language": "en",
+      "@value": "The Q - Bar, Cafe and Restaurant is modern and easygoing - offering a party atmosphere day and night.\n\nCentrally located, you can follow all the action from the comfort of the sunny terrace.\n\nOur restaurant offers a relaxed atmosphere and an imaginative choice of food. Espresso, cocktails \u0026 more.\n\nWhether it\u0027s for a short coffee stop, during an exclusive dinner or relaxing with a glass of wine."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e323459-09d8-4315-b4d4-647f76a88e4e/99/image.bmp",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Q. Coup \u0026 more"
+        },
+        {
+          "@language": "de",
+          "@value": "Q. Coup \u0026 more"
+        },
+        {
+          "@language": "ru",
+          "@value": "Q. Coup \u0026 more"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.coup-more.at"
+  ]
+}

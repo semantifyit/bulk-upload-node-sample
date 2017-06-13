@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d86D8B0B3-9C30-4688-A089-E3D05F79F231"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Longhino, Haus",
+    "streetAddress": "Eckartau 23",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5288 63181",
+    "email": "haus.katrin@gmx.at"
+  },
+  "name": "Haus Longhino",
+  "description": [
+    "Das Haus Longhino steht frei und sonnig im Ortsteil Eckartau mit großem Garten und schönen Ausblick. Bushaltestelle sowie kleines Lebensmittelgeschäft in unmittelbarer Nähe. Ausreichend Parkplatz vorhanden.\n",
+    "Preise verstehen sich pro Tag exklusive  Endreinigung € 35,--"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3deeaee9-84ad-4dbd-ab2e-94c452e90f3c/99/image.jpg",
+      "caption": "Haus Longhino Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f124e01d-5ee8-4aea-926b-1197f07b1296/99/image.jpg",
+      "caption": "Haus Longhino Mayrhofen - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1874594891128",
+    "longitude": "11.8738067150116"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Die beiden  2009 renovierten Ferienwohnungen eignen sich in Kombination ebenso für Gruppen bis 14 Personen. Jeweils  ca. 80 bzw. 85 m² mit Wohnraum inkl. Sitzgruppe, Küchenzeile (4 Ceranfelder, Backofen, Geschirrspüler, kleiner Gefrierschrank, Kaffeemaschine, Wasserkocher, Toaster). Jeweils 2 Doppelzimmer und 1 Dreibettzimmer. Je Appartement 1Dusche/WC sowie 1 Dusche und 1 WC sep. Sat-TV und großer Balkon. Parkettböden.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

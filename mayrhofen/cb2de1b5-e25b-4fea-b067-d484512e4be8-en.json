@@ -1,0 +1,125 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dCB2DE1B5-E25B-4FEA-B067-D484512E4BE8"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laimach 107",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2824",
+    "faxNumber": "0043 5282 2824",
+    "email": "eva@fewo-schweiberer.at"
+  },
+  "name": "Gästehaus Dengg",
+  "description": [
+    "Comfortable double rooms with shower and WC, balcony, sat-tv. central and sunny position.",
+    "bread-service, children reduction on request",
+    "Check in 12.00 - Check out 10.00 "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e89f88fc-7072-4a9a-9e57-6d737c66b739/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cdd57745-8a93-4955-8bb0-81542a6d65f5/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68da4a8f-76f9-4099-85bc-6f2f2c6214de/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Winter 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5312a9fc-25a7-4d01-8d22-e3dc0698aef6/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c230f1cc-b3c0-4e6d-af46-3a6c0c865e93/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Winter 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f052408-76f7-4b5e-a1b2-7e6bd31ca81e/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Winter 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1bfca19-56d4-4906-9ed2-11ce1628d38a/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Winter 5 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d437cf00-0517-4619-8301-16671db84aa7/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Garten "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/520f2da4-bc9a-4c0d-b614-620461cd8372/99/image.jpg",
+      "caption": "Haus Dengg Hippach - Garten 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2153014458268",
+    "longitude": "11.8651431798935"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Comfortable double room with YOU / WC, Sat TV and balcony with marvellous look.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "Flat for 2-6 people with 2 bedrooms to a residential bedroom and a specially kitchen-living room.\n1 double room beyond the flat could be booked on top of that.\nSo the flat would be to be rented for 2-8 people.\n\nAs good as new, well equipped approx. 70 m² flat with wooden floors in the bedrooms.\n1 double room with shower, wash basin and WC.\n1 double room.\n1 specially shower with WC and wash basin.\n1 sitting room with extendable couch (2 people can sleep here) and Sat TV.\n1 generous, modern kitchen-living room with comfortable living-room furniture and Sat TV.\nVery well equipped with big fridge and freezer, Microwelle, dishwasher, coffeemaker, water cooker,\nToaster, cooker with 4 Ceranfelder and oven as well as smoke deduction.\nHall with cloakroom.\nMore furnished around balcony with marvellous view. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

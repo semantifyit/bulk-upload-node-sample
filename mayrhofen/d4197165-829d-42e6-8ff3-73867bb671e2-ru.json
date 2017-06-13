@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Furtschaglhaus 2295m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0009851929294",
+    "longitude": "11.7473351955414"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Furtschaglhaus",
+    "streetAddress": "Dornauberg 123",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 9646 350",
+    "email": "furtschaglhaus@a1.net",
+    "url": "www.furtschaglhaus.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/99aeb7cf-c550-41ed-bf0c-ff6f5818a513/99/image.jpg",
+      "caption": "Furtschaglhaus 2295m"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fc7253af-dad3-4c06-a25d-95a9aa3c27e0/99/image.jpg",
+      "caption": "Furtschaglhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b7df0689-fa31-43ce-8d66-5c6c39a9d55d/99/image.jpg",
+      "caption": "Furtschaglhaus 1"
+    }
+  ],
+  "url": [
+    "http://www.furtschaglhaus.com"
+  ]
+}

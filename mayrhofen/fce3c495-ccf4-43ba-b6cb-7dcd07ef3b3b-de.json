@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Gasthof Klaushof 1040m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1566519454627",
+    "longitude": "11.9421064853668"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Klaushof",
+    "streetAddress": "Zillergrund 60",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5289 210",
+    "faxNumber": "(0043) 52892108",
+    "email": "info@klaushof.at",
+    "url": "www.klaushof.at"
+  },
+  "description": [
+    "Urlaub im Zillertal - Gasthof Klaushof\n Ein herzliches Grüß Gott im Gasthof Klaushof! Wir sind ein traditioneller Gastbetrieb inmitten der romantischen Bergwelt der Zillertaler Alpen. Seit 1928 führen wir den Familienbetrieb, der das ganze Jahr zum Urlaub im Zillertal einlädt.\nIhr perfekter Urlaub im Zillertal\nDer Klaushof im Zillergrund - ein gutes Plätzchen, wo man sich wohlfühlt und in der Natur wieder Kraft tanken kann. Die Natur pur erleben - in bester Luftqualität wandern - auf den Themenwegen - im Naturgebiet von Brandberg.\nIm Gasthof Klaushof gibt es für Ihren Urlaub im Zillertal:\nFerienwohnungen  - Appartements für 2 - 3 Personen\nFerienwohnungen - Appartements für 4 Personen\nFerienhaus Arnika mit Platz für 6 - 16 Personen\nUnsere Spezialitäten aus unserem Holzbackofen :\nBrot \nSpanferkel \nJubiläumsbrot \nSpeckbrot \nBrot für die Gäste!\n\n",
+    "\n\nSommer \nMitte Mai \nkein Ruhetag \nÜbernachtung möglich "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6aef7112-bba0-48a4-a372-de84a62a1af2/99/image.jpg",
+      "caption": "Klaushof 1040m"
+    }
+  ],
+  "url": [
+    "http://www.klaushof.at"
+  ]
+}

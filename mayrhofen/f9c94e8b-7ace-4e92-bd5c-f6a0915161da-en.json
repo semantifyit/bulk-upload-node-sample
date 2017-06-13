@@ -1,0 +1,65 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartment-zillertal.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dF9C94E8B-7ACE-4E92-BD5C-F6A0915161DA"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsberg 842",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3032",
+    "email": "info@appartment-zillertal.at",
+    "url": "http://www.appartment-zillertal.at"
+  },
+  "name": "Brugger Christa",
+  "description": "Our house lies in quiet and sunny situation above Ramsau in the district Ramsberg. It is a comfortable family house in  country style. From here you can start nice hikings or bicycle tours. In winter you can reach at few minutes the nicest ski areas with the car. zB ski 3000 - 5 km, ski arena - 6 km or the toboggan run - 2 km. Ski coach directly beside the house. \nThe indoor swimming pool and outdoor swimming pool only in summer valid!\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b0987c2d-a007-4438-a0b8-3c1c21a1125b/99/image.jpg",
+      "caption": "Christa Brugger Ramsberg - Hausansicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2077255362282",
+    "longitude": "11.8855977058411"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 2 bed rooms",
+      "description": "Ground floor flat simply, nevertheless, normally - comfortably furnished.\n2 bedrooms: 1 double room with additional bed (couch), 1 family room with 4 beds and separate bathroom (YOU, WC).\nInklusiv: Stream, water, heating, animals\nExclusiv: Final cleaning",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet, 2 bed rooms",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "3"
+          }
+        }
+      ]
+    }
+  ]
+}

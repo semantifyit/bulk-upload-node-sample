@@ -1,0 +1,235 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.regina-mayrhofen.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dE2732DFB-4A45-4948-B0C9-8E5F75BEAB12"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Regina",
+    "streetAddress": "Stillupklamm 800",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 8104",
+    "faxNumber": "0043 5285 8184",
+    "email": "pension-regina@zline.at",
+    "url": "http://www.regina-mayrhofen.at"
+  },
+  "name": "Pension Regina",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "reviewCount": "95"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a025cde-6d49-40ca-8af3-b06b010339b5/99/image.jpg",
+      "caption": "Pension Regina Mayrhofen - Sommeransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5aaa133d-e3ec-418f-a2f1-33d451f1a944/99/image.jpg",
+      "caption": "Logo2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63f9c31e-c936-4c60-b244-baa73f142411/99/image.jpg",
+      "caption": "Pension Regina Mayrhofen - Winteransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0fd1baee-bb82-47af-8407-6cffb86ae3bc/99/image.jpg",
+      "caption": "Pension Regina - Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9acb1d33-96b2-4bb5-8e37-ff8d7a750b7d/99/image.jpg",
+      "caption": "Pension Regina - Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/24c7c8e7-55dc-4fcc-8458-20c95d8a97b5/99/image.jpg",
+      "caption": "Pension Regina - Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7f9a6ce-d6dc-4a13-97fc-d4ce2d2d6eb0/99/image.jpg",
+      "caption": "Pension Regina - Stillupklamm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/efcb3fbc-e085-48f2-bcc4-d9ee315a44b0/99/image.jpg",
+      "caption": "Pension Regina - Skiraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf18be76-fb17-48a0-9aaf-282f6f391ef0/99/image.jpg",
+      "caption": "Pension Regina - Hausgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ba34cb6b-7891-48ea-8e5c-fe2ccb58a4af/99/image.jpg",
+      "caption": "Pension Regina - Ansicht süd"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bd8f8033-0c29-49b0-baec-1b1ed03e6555/99/image.jpg",
+      "caption": "Pension Regina - Doppelzimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e841747-9cc6-4de3-b0e1-aced4bf426c8/99/image.jpg",
+      "caption": "Pension Regina - Stiegenhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c5319fdd-ef8d-409f-a135-3414330f567d/99/image.jpg",
+      "caption": "Pension Regina - Gang 2OG"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c0b0b4d8-d872-4a79-9eb9-772b5daa6253/99/image.jpg",
+      "caption": "Edith Lounge1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c40d8633-6be9-4457-9c93-b9b1d0dcb302/99/image.jpg",
+      "caption": "Edith rezeption1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c95d2bc-7de7-4107-9e3d-84406058bed2/99/image.jpg",
+      "caption": "Eingang"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1583663762889",
+    "longitude": "11.8477463722229"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Одноместный номер, душ, туалет, некурящий",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Одноместный номер, душ, туалет, некурящий",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "41.50",
+          "maxPrice": "46.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет, некурящий",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет, некурящий",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "41.00",
+          "maxPrice": "44.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "43.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "3-местный номер, душ, туалет, некурящий",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3-местный номер, душ, туалет, некурящий",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.50",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "33.50",
+          "maxPrice": "43.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "32.50",
+          "maxPrice": "41.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

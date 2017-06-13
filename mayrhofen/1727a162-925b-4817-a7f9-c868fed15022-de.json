@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ClothingStore"
+  ],
+  "name": "Tom Tailor - Damen- und Herrenmode",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1633415601961",
+    "longitude": "11.8613290786743"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tom Tailor - Damen- und Herrenmode",
+    "streetAddress": "Hauptstrasse 457",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fe35a7af-b720-48ef-8471-a16a31aa6275/99/image.bmp",
+      "caption": "Logo"
+    }
+  ]
+}

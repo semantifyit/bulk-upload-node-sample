@@ -1,0 +1,330 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausangelika.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dEDF4EFB6-97B4-419B-A189-56B26B4DDDFD"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Angelika, Ferienhaus",
+    "streetAddress": "Schwendberg 270",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 4300125 ",
+    "email": "info@hausangelika.at",
+    "url": "http://www.hausangelika.at"
+  },
+  "name": "Ferienhaus Angelika",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus (Neubau) befindet sich auf einer sonnigen, aussichtigen Anhöhe, in einem idealen Wander- und Skigebiet. Nur 5 Gehminuten vom Ortskern und Schwimmbad entfernt.\nEs sind nur einige Schritte zur Bushaltestelle und dann 5 Minuten Busfahrt (1 km) bis zur Talstation der Horbergbahn, von der Sie mit der 8er-Gondelbahn ins großartige \nWander- und Schigebiet gelangen. Winterwanderwege kommen direkt an unserem \nHaus vorbei. Erleben Sie das ganze Jahr über die schöne einzigarte Bergwelt der Alpen. \nWie im Sommer so auch im Winter.\n\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Haustiere sind nicht erlaubt\nBrötchenservice\nEndreinigung € 50,-\nHeizung und Stromkosten sind im Preis inbegriffen \nBei nicht ordnungsgemässer Mülltrennung verrechnen wir 5 €\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise\n\nFahren Sie auf der Inntalautobahn A12 E60 bis zur Ausfahrt 39 Zillertal/Achensee-Wiesing. Sie Fahren durch das Zillertal auf der Zillertaler Bundesstraße B 169 Fahrtrichtung Mayrhofen bis zum Ortzentrum Hippach. In Hippach bei der Ampel fahren Sie rechts über das Bahngleis hoch bis zur nächsten Kreuzung, dann wieder rechts bei der Kirche vorbei. Richtung Hinweistafel \"Höhenstraße\". Dann links die Höhenstraße hoch, nach eine Rechtskehre und eine Linkskehre (ca. 0,6 Km) ist Haus Angelika direkt rechts.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated on a sunny  hill, in an ideal travell and skiing area, with a beautiful view.\nThere are only some steps to the bus stop and then 5 minutes to drive with the bus (1 km) up to the valley station of the Horbergbahn,\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Pets are not allowed\nbread service\nFinal cleaning € 50, -\nHeating and electricity costs are included in the price\nIn case of improper waste separation, we charge € 5\n"
+    },
+    {
+      "@language": "en",
+      "@value": "getting there\n\nDrive on the Inntalautobahn A12 E60 until exit 39 Zillertal / Achensee-Wiesing. You drive through the Zillertal on the Zillertaler Bundesstraße B 169 direction Mayrhofen until the center of Hippach. In Hippach at the traffic lights, turn right over the railway to the next crossing, then turn right past the church. Direction sign \"Höhenstraße\". Then left the high road high, after a right-hand bend and a left-hand bend (about 0,6 km) Haus Angelika is directly to the right.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/184e2af6-617e-47db-8878-ac6def8e7049/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus Angelika Hippach - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienhaus Angelika Hippach - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienhaus Angelika Hippach - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1a170dd-31e0-4480-b731-20330d024831/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus Angelika Hippach - Wohnküche"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienhaus Angelika Hippach - Wohnküche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienhaus Angelika Hippach - Wohnküche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/31b9e24b-47ca-44ad-84e1-bd018d13cf20/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus Angelika Hippach - Badezimmer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienhaus Angelika Hippach - Badezimmer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienhaus Angelika Hippach - Badezimmer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8008ad07-2b39-4b55-8627-8aa6a962823d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus Angelika Hippach - Badezimmer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienhaus Angelika Hippach - Badezimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienhaus Angelika Hippach - Badezimmer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ce1a46d1-dacb-4bce-820c-21325f90197c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus Angelika Hippach - Zimmer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienhaus Angelika Hippach - Zimmer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienhaus Angelika Hippach - Zimmer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f0bae9b-f758-4cf3-9e7a-ede0d1327511/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus Angelika Hippach - Zimmer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienhaus Angelika Hippach - Zimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienhaus Angelika Hippach - Zimmer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/051368d2-668c-4c54-860a-28da7d4e1ddd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus Angelika Hippach - Zimmer 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienhaus Angelika Hippach - Zimmer 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienhaus Angelika Hippach - Zimmer 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/54e73091-062d-4c94-8192-4c26eaed5485/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus Angelika Hippach - Skiraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienhaus Angelika Hippach - Skiraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienhaus Angelika Hippach - Skiraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c72ead4a-6a79-44eb-81e7-a2387cdc3d49/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus Angelika Hippach - Berge"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienhaus Angelika Hippach - Berge"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienhaus Angelika Hippach - Berge"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/555beb0b-d688-46dd-8f38-8f9d844ccaec/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer  Gipfel Panorama"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer  Gipfel Panorama"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer  Gipfel Panorama"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ed1275d0-a380-46ca-ae1e-2c97b5d31c8e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "en",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wanderung Olpererhütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ffff0b44-3438-42e0-b087-744350dcc6f8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter Landschaft"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter Landschaft"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter Landschaft"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2098173096521",
+    "longitude": "11.8639469146729"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche oder Bad, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower or bath, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, Душевая кабина или ванна, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ausstattung der Ferienwohnung:\n 1 Vierbettzimmer mit Dusche \u0026 WC und TV\n2 Dreibettzimmer\n1 Badezimmer mit Eckbadewanne, Dusche \u0026 WC \nEine comfortable ausgestattete Wohnküche mit ausziehbarer Couch für 2 Personen \nVorraum mit Garderobe \nSkiraum bzw. Trockenraum \nKüche ausgestattet mit Geschirrspüler, Backofen, Mikrowelle, Ceranfeld, Kaffeemaschine, Wasserkocher und Toaster. Besteck und Geschirr vorhanden. \nWeiter informationen:\nBettwäsche vorhanden \nLiegestühle vorhanden \n"
+        },
+        {
+          "@language": "en",
+          "@value": "Furnishing of the apartment\n\n2 x 3 bedrooms\n 1 x 4 bedrooms with shower and WC \n\n◦1 bathroom with large corner bath, shower and toilet\n\n◦A comfortable furnished kitchen-living room with sofa bed for 2 persons\n\n◦Hall with wardrobe\n\n◦Room for skis and for drying your clothes and boots\n\n◦Kitchen equipped with dishwasher, baking oven, microwave, ceramic glass cooktop, coffeemachine, waterboiler and toaster. Of course tableware and cutlery are also available.\n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/3 Schlafräume/Du od. Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap./3 bedrooms/shower or bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, Душевая кабина или ванна, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

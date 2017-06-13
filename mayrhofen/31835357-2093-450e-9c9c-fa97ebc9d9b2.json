@@ -1,0 +1,66 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ElectronicsStore"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Elektrotechnik Sporer"
+    },
+    {
+      "@language": "de",
+      "@value": "Elektrotechnik Sporer"
+    },
+    {
+      "@language": "ru",
+      "@value": "Elektrotechnik Sporer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1586290076145",
+    "longitude": "11.8478965759277"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Elektrotechnik Sporer",
+    "streetAddress": "Stillupklamm 800a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64206",
+    "faxNumber": "0043 5285 6255",
+    "email": "info@elektro-sporer.at",
+    "url": "http://www.elektro-sporer.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Besuchen Sie einfach unser Geschäft in Mayrhofen oder in Fügen - Wir bieten Ihnen in Mayrhofen auf einer Geschäftsfläche von ca. 400 m² nahezu alles aus dem Bereich der Elektrogeräte, HI-FI, TV, Küchengeräte, Waschmaschinen, Trockner, Kaffemaschinen, Handy, Premiere World, Bose, Elektrokleinmaterial ...\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b543054d-b848-4fe7-81bc-6dfd08a90a82/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Elektrotechnik Sporer"
+        },
+        {
+          "@language": "de",
+          "@value": "Elektrotechnik Sporer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Elektrotechnik Sporer"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.elektro-sporer.at"
+  ]
+}

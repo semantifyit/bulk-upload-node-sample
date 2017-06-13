@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Schlegeis Stausee"
+    },
+    {
+      "@language": "de",
+      "@value": "Schlegeis Stausee"
+    },
+    {
+      "@language": "ru",
+      "@value": "Schlegeis Stausee"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0367602325287",
+    "longitude": "11.7042589187622"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Verbund Tourismus GmbH",
+    "streetAddress": "Tuxer Straße 795",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 8127",
+    "email": "tourismus@verbund.com",
+    "url": "http://www.verbund.com"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "In Ginzling (990 m) beginnt die 16 km lange und 6 m breite Alpenstraße Schlegeis. Sie führt durch mehrere Tunnel (Höhenbeschränkung 3.60 m) bis zum Stausee Schlegeis (1782 m). Die Mautstelle befindet sich in Breitlehner (1251 m). Ampelregelung wegen der zwei einspurigen Tunnels beginnend ab Mautstelle Breitlahner (5 Kehren) bis Südportal Spiegelschlagtunnel (ca. 2 km). Großer Parkplatz direkt am Stausee. "
+    },
+    {
+      "@language": "en",
+      "@value": "The reservoir Schlegeis-Speicher, located at 1.800 meters above the sea level, with its 313 m high and double-arcuated dam is a perfect starting point for a plenty of paths leading to your final hiking desti­nations.\n\n´Hiking destinations in the Zemmgrund\nAlpenrose, Berliner Hütte, Breitlahner, Dominikushütte, Friesenberghaus, Fur­tschaglhaus, Grawandhütte, Greizerhütte, Innerböden, Karlsteg, Klausenalm, Max­hütte, Olpererhütte, Pfitscherjochhaus, Schlegeis-Restaurant, Steinbockhaus, Tri­stenbachalm"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dac5d878-b6c5-405a-9735-35fb14eb0c90/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Schlegeis Alpenstrasse"
+        },
+        {
+          "@language": "de",
+          "@value": "Schlegeis Alpenstrasse"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schlegeis Alpenstrasse"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.verbund.com/tm/de/schlegeis"
+  ]
+}

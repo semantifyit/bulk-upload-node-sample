@@ -1,0 +1,101 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.tiscover.at/hotel-franz-josef",
+    "http://maps.mayrhofen.at/?foreignResource\u003dBC81A21C-BA02-4207-BB56-F376A77922A7"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Franz-Josef, Garni",
+    "streetAddress": "Rauchenwald 672",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63059",
+    "faxNumber": "0043 5285 63059",
+    "email": "fam.fischer-mhf@aon.at",
+    "url": "http://www.tiscover.at/hotel-franz-josef"
+  },
+  "name": "Garni Franz Josef",
+  "description": [
+    "A house where the whole family will feel at home. Quietly located, with an inforal atmosphere and comfortable, pleasant furnishings. Enjoy the fabulous view of the majestic Zillertaler mountains, the fresh alpine air and the feeling of being amongst friends.\nMeet for a chat in our guest lounge, or in the summer house for a barbeque.\nRelax in our sauna or solarium after a hard days skiing. Mayrhofen town centre and the Penken and Ahorn lifts are a comfortable 5-7 minute walk away.",
+    "Included in price: breakfast buffet and local taxes.\nExcluded: Solarium\nChildren\u0027s price reductions on request.",
+    "CHeck in: 12.00hr / Check out: circa 09.00hr\nUse the Zillertaler main throughfare, the B169 until Mayrhofen, past the railway station and straight on. Turn left immediately after the Spar supermarket, and our house can be found on the left."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/08ea648c-23cd-4d9a-90ab-f8078c056560/99/image.jpg",
+      "caption": "Hotel Garni Franz Josef Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb5afed4-7fbe-4aae-9597-0d881dd2cd01/99/image.jpg",
+      "caption": "Hotel Garni Franz Josef Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df8b7c0e-ceea-4dc6-8a49-575baa3b9994/99/image.jpg",
+      "caption": "Hotel Garni Franz Josef Mayrhofen - Grillhäusl"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1637062914192",
+    "longitude": "11.8556267023087"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower or bath, toilet",
+      "description": "Double room with shower or bath/WC. TV, radio, safe and balcony. Fridge in room.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower or bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Triple room, shower or bath, toilet",
+      "description": "Room with 3 beds with shower or bath/WC, television, radio, fridge, safe and balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "triple room with shower or bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "3"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,870 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.pension-zillertal.eu",
+    "http://maps.mayrhofen.at/?foreignResource\u003dB0C0B0FF-BE0D-4C06-B560-D1A4C74AB43F",
+    "http://www.youtube.com/embed/OOaRcU-J1hU?rel\u003d0",
+    "http://www.youtube.com/embed/yBqB_b82Q6g?rel\u003d0",
+    "http://www.youtube.com/embed/m1PLfagWrEY?rel\u003d0",
+    "http://www.youtube.com/embed/QEBDLyFut9w?rel\u003d0",
+    "http://www.youtube.com/embed/HQanXF5caRY?rel\u003d0",
+    "http://www.youtube.com/embed/b7RmNeUJ97A?rel\u003d0"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Mariandl",
+    "streetAddress": "Talstraße 55",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 20367",
+    "email": "info@pension-zillertal.eu",
+    "url": "http://www.pension-zillertal.eu"
+  },
+  "name": "Pension Mariandl",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich Willkommen in der Pension Mariandl in Ramsau im Zillertal.\nWir sind Familie van der Paauw und seit 1 mei 2014 die stolzen Besitzer der schönen Pension Mariandl, gelegen im Ramsau in Zillertal.\nBei uns sind Sie an der richtige Adresse für einen unvergesslichen Urlaub!\nUnsere Pension befindet sich zentral zwischen Mayrhofen und Zell am Ziller.\nAb hier sind alle Ausflüge sehr gut zu erreichen. Auch gibt es die Möglichkeit Ihr auto auf unserem Parkplatz abzustellen\nGenießen Sie mit uns die Schönheit die das Zillertal zu bieten hat.\nVor allem der Naturpark der Zillertaler Alpen und die Zillertaler Höhenstraßen sind einen Besuch wert. Auf einer Seehöhe von 550m-2020m können Sie dort aus ein wunderschönes Alpenpanorama.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Nür schlafen \nMit Früstuk\nMit Halbpension\n"
+    },
+    {
+      "@language": "de",
+      "@value": "\nAnreise: ab 15:00 bis 23:00 \nAbreise: ab 10:00 bis 11:00 \nBed \u0026 Breakfast zugänglich: ab 08:00"
+    },
+    {
+      "@language": "en",
+      "@value": "Our pension is situated central between Mayrhofen and Zell am Ziller. \nIt is a good starting point for many activities. Also there is the possibility to put down your car on our parking bay.\nThe nature reserve of the Zillertaler Alps and the \"Zillertaler Höhenstraße\" are worth a visit. On a sea height from 550m-2020m you have a wonderful panorama.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Only Sleeping\nWhit breakfast\nWhit Halfboard"
+    },
+    {
+      "@language": "en",
+      "@value": "Check-in: from 15:00 until 23:00 \nCheck-out: from 10:00 until 11:00 \nBed \u0026 Breakfast open: from 08:00"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/75ba5311-2899-4359-8837-c93f7c6eb94f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c44df78-5226-4b04-80c9-343bdf707fbc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/83551577-ee23-4f6b-aa40-ce92891e3eac/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Garten 1 "
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Garten 1 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Garten 1 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6e8f40d-7b2e-4d62-aebf-60879e7c33ed/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Garten 2 "
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Garten 2 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Garten 2 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/be61fa51-844e-44ab-b243-ab79685ed744/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Gang "
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Gang "
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Gang "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6290bf78-648e-440e-8eaf-6b4520b903ee/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Restaurant"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Restaurant"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Restaurant"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc0b76c7-abcf-4252-8d8d-c176efdbff7a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Speisesaal"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Speisesaal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Speisesaal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f083d8ac-917d-4be7-9973-849169d83543/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Bar1"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Bar1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Bar1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f1177c5-a2cb-4777-953c-d7fcdf340f39/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Bar"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Bar"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Bar"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a0efbaf1-65ed-45ca-a535-119187a2f15d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Pension"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Pension"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Pension"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/416c8419-7554-4d74-904c-a97d668d6480/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Erste stock"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Erste stock"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Erste stock"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/949c363d-2a62-4b17-be03-686392cfabeb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Lobby"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Lobby"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Lobby"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bb20d691-ea32-49af-81ca-7daf0e0ba415/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Lobby 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Lobby 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Lobby 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f031cfa-fcd8-4047-8043-8049f2e0da05/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Lobby 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Lobby 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Lobby 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e8db816-eca8-43bf-b243-58311c687f6d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Ausenvenster Weinachten"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Ausenvenster Weinachten"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Ausenvenster Weinachten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dbb4f1f1-d394-48b8-9713-0f20fc63b137/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Unsere papagaai"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Unsere papagaai"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Unsere papagaai"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cbb0949b-67c0-4f1a-9657-4919d04ec623/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - momente"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - momente"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - momente"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/954b06f2-f907-45ec-acb4-ec8a800d43d8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - December 2014"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - December 2014"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - December 2014"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/19c422f0-5951-4ae5-8083-59ac2efe5f5d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - 2014 december"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - 2014 december"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - 2014 december"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a565a2b-8bb1-4275-be5f-4bf25c24fef5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mariandl Ramsau - Terras"
+        },
+        {
+          "@language": "en",
+          "@value": "Mariandl Ramsau - Terras"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mariandl Ramsau - Terras"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52a5a160-e31a-40b1-9679-4fee88422769/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Zillertal"
+        },
+        {
+          "@language": "en",
+          "@value": "Zillertal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zillertal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d07219a7-b1a4-4fa9-bf60-1f924334a366/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Stausee"
+        },
+        {
+          "@language": "en",
+          "@value": "Stausee"
+        },
+        {
+          "@language": "ru",
+          "@value": "Stausee"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/057700ec-90d4-46f3-b55e-d40a61a2b3ed/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Vogeltje"
+        },
+        {
+          "@language": "en",
+          "@value": "Vogeltje"
+        },
+        {
+          "@language": "ru",
+          "@value": "Vogeltje"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f119046-a8e7-43bf-a72c-5b411da8b538/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Stausee 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Stausee 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Stausee 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d91d0d4a-9473-4f70-8072-2456940f8b79/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hintertuxer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Hintertuxer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hintertuxer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/62dcc69f-75ad-4b6f-9468-1e862861da82/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hintertuxer 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Hintertuxer 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hintertuxer 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ae0bdb8-17dc-415b-b89e-89d8695d42c7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gondel Penken"
+        },
+        {
+          "@language": "en",
+          "@value": "Gondel Penken"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gondel Penken"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dc93d034-6698-4a53-a149-b0c0c0aee814/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Mariandl - Speisesaal 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Mariandl - Speisesaal 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Mariandl - Speisesaal 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dcc72ce5-9310-411a-b63b-edeed12cb723/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/08a14b31-1f2e-480a-82aa-f53055f12dac/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Mariandl -  Stimmung"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Mariandl -  Stimmung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Mariandl -  Stimmung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/530980c8-35e7-4a12-be45-02c0c8ed5bf8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter Ausblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter Ausblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter Ausblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e5be18b-20dc-4c14-95b8-354aa2435c5b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Mariandl -  Deko"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Mariandl -  Deko"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Mariandl -  Deko"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fdb3cc9f-628b-461c-b5c7-60b83f34314f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Mariandl -  Stimmung 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Mariandl -  Stimmung 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Mariandl -  Stimmung 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d956c71-a535-4361-870b-067db1e5ff96/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Mariandl - Stimmung 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Mariandl - Stimmung 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Mariandl - Stimmung 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8aac5af0-c735-428c-93f6-55142249a61b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Mariandl -  Speisesaal 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Mariandl -  Speisesaal 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Mariandl -  Speisesaal 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/58f13f0f-6a69-4b5c-aa4c-49c70c2c0cd6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/408e2520-1765-48c6-aadb-96b35e03deae/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da1ed487-4346-42d8-aa98-80b03078756a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter 4"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2063789",
+    "longitude": "11.8715531"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütliche Zimmer\nWir verfügen über 11 Zimmer für 2 oder 3 Personen. Es besteht auch die Möglichkeit ein weiteres Bett dazu zu stellen. Ihr Urlaub in unserer Pension ist immer etwas besonderes, da die Zimmer eine traditionelle österreichische Atmosphäre aufweisen.\nDie großen Zimmer verfügen über:\nSAT TV \nDusche und Toilette \nWaschbecken \nWIFI \nFön\nAlle Zimmer haben eine wunderbare Aussicht. Die meisten Zimmer haben einen Balkon.\nUnsere Pension ist für Kinder ab 10 Jahren geeignet.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "We have eleven  rooms for two or three people with the  possibility to put a bed extra in. Your holiday in our pension is always  special, because the rooms are in Traditional Austrian  Atmosphere.\nIn your rooms we have:\nFree Wi-Fi\nDouche\nWC\nSink\nTV\nWhit the  stairs you arrive to where  your room is. All rooms have a nice view, and most rooms have a balcony.\nOur pension is  suitable for chideren Ten Years old and Upwards.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Dreibettzimmer"
+            },
+            {
+              "@language": "en",
+              "@value": "Triple room"
+            },
+            {
+              "@language": "ru",
+              "@value": "3-местный номер"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütliche Zimmer\nWir verfügen über 11 Zimmer für 2 oder 3 Personen. Es besteht auch die Möglichkeit ein weiteres Bett dazu zu stellen. Ihr Urlaub in unserer Pension ist immer etwas besonderes, da die Zimmer eine traditionelle österreichische Atmosphäre aufweisen.\nDie großen Zimmer verfügen über:\n \nDusche und Toilette \nWaschbecken \nWIFI \nFön\nAlle Zimmer haben eine wunderbare Aussicht. Die meisten Zimmer haben einen Balkon.\nUnsere Pension ist für Kinder ab 10 Jahren geeignet.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Our Prices are HalfBoard and Toeristtax. \nbath Private bathroom\nBeds: Double bed \nBathroom facilities: Shower,Toilet,Washbasin Room facilities: Private entrance,\t\nBalcony/terrace, TV,Seat,Heating,Wifi"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

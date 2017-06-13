@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Schiestl\u0027s Sunnalm 1800m - Penken/Horberg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1885167224741",
+    "longitude": "11.8102490901947"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schiestl\u0027s Sunnalm",
+    "streetAddress": "Hochschwendberg 371",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 4182",
+    "email": "info@schiestls-sunnalm.at",
+    "url": "www.schiestls-sunnalm.at"
+  },
+  "description": "Summer \n01. July till middle of October 2017 \nno rest day",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c0b11d40-4c4d-4517-a098-5702d027f9ec/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/18a98908-fc45-4a72-9dc0-2bf5fe0a92b6/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "url": [
+    "http://www.schiestls-sunnalm.at",
+    "http://www.schiestls-sunnalm.at"
+  ]
+}

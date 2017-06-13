@@ -1,0 +1,65 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Bahnhof Mayrhofen"
+    },
+    {
+      "@language": "de",
+      "@value": "Bahnhof Mayrhofen"
+    },
+    {
+      "@language": "ru",
+      "@value": "Bahnhof Mayrhofen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1693520113435",
+    "longitude": "11.8623161315918"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhof Mayrhofen",
+    "streetAddress": "Am Marktplatz 200",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5244 60 6290",
+    "email": "office@zillertalbahn.at",
+    "url": "http://www.zillertalbahn.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Die Zillertalbahn bietet allen Radfahrern vielfältige Möglichkeiten: Citybikes, Kinderfahrräder, Kindersitze und Helme können an den Bahnhöfen ausgeliehen und dort auch wieder zurückgegeben werden. Für Ihren Heimweg benützen Sie dann am besten einen unserer Züge. Wer auf sein eigenes Rad setzen möchte, kann für den Radtransport problemlos und ohne Zusatzkosten unsere Bahn benützen, denn Fahrräder werden in den Zügen ohne Aufpreis befördert. \nDer Radweg von Strass im Z. bis Mayrhofen ist gut ausgebaut und bestens markiert, sodass einem netten Ausflug nichts mehr im Weg steht.\n\nWir vermieten nur gepflegte Markenfahrräder.\nFahrrad-Manager:\nHans Hechenblaikner\nMobil ++43 (0) 676 84643331\nE-Mail: hans.hechenblaikner@zillertalbahn.at \n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/93d12c2c-cedd-4918-b953-bed104f047e8/99/image.gif",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.zillertalbahn.at"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Konditorei Bäckerei Kröll"
+    },
+    {
+      "@language": "de",
+      "@value": "Konditorei Bäckerei Kröll"
+    },
+    {
+      "@language": "ru",
+      "@value": "Konditorei Bäckerei Kröll"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2048703",
+    "longitude": "11.865345"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Cafe Konditorei Kröll",
+    "streetAddress": "Hippach-Dorf 24",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 3651",
+    "faxNumber": "(0043) 5282 3651-7",
+    "email": "konditorei@cafe-kroell.at",
+    "url": "http://www.cafe-kroell.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich Willkommen\nin der Café Konditorei Kröll\nin Hippach\n\nTreten Sie ein in die freundliche und familär geführte Atmosphäre unseres Tagescafes. Einfach genießen - vom Glück des süßen Augenblicks!\nDer verführerische Duft von leckeren Backwaren und feinstem Kaffee laden zum Verweilen ein.\n\nAngenehm wohnen lässt es sich in unseren gemütlich und liebevoll eingerichteten Appartements für 2-6 Personen. Ein Urlaub für Geniesser!\n\nWir freuen uns darauf, Sie in unserem Haus begrüßen und verwöhnen zu dürfen.\n\nIhre Familie Trinkl\n\n\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c283bfdb-cea0-4e2c-8407-8a77075998fe/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Kröll"
+        },
+        {
+          "@language": "de",
+          "@value": "Kröll"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kröll"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.cafe-kroell.at"
+  ]
+}

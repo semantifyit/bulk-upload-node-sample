@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Josef Rieser GmbH \u0026 Co.KG",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1616615",
+    "longitude": "11.8617733999999"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Großhandel Rieser",
+    "streetAddress": "Zillerlände 490",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62422",
+    "faxNumber": "(0043) 5285 63381",
+    "email": "info@rieser.co.at",
+    "url": "http://www.rieser.co.at/"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7bf3998-910b-424b-8eb2-49d81805fda0/99/image.png",
+      "caption": "Josef Rieser "
+    }
+  ],
+  "url": [
+    "http://www.rieser.co.at/"
+  ]
+}

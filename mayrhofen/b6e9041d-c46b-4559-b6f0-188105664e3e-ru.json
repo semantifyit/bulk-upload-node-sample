@@ -1,0 +1,152 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ferienhausbarbara.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dB6E9041D-C46B-4559-B6F0-188105664E3E"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 242",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3710",
+    "email": "info@ferienhausbarbara.at",
+    "url": "http://www.ferienhausbarbara.at"
+  },
+  "name": "Kröll Barbara",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3b913668-acf1-4877-ba5d-c9b811b7204e/99/image.jpg",
+      "caption": "Winterfoto "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b23e891f-7b24-4c51-9359-e0638919d813/99/image.jpg",
+      "caption": "Sommerfoto"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6ce5661e-4257-41a4-8d39-7f31a3981816/99/image.jpg",
+      "caption": "Kröll - Hausansicht 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9b6cc7c-6c25-4c26-a87e-93f77fc920b1/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63565bb1-674e-4ca6-a1e8-ed9d56a905ef/99/image.jpg",
+      "caption": "Küche-Enzian"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/06340c56-cb87-4a90-851f-6ccb97b9fc95/99/image.jpg",
+      "caption": "Wohnzimmer-Enzian"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b29bf8a2-d2c0-43d6-833e-aa6da1c0c763/99/image.jpg",
+      "caption": "Badezimmer-Enzian"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a8f8ee03-4bff-4647-8a81-578382a71142/99/image.jpg",
+      "caption": "Schlafzimmer-Enzian"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98ea76fd-bb96-4eea-8339-8510f9315f08/99/image.jpg",
+      "caption": "Wandern in den Zillertaler Alpen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f3553fe8-71c2-4f5b-9e2b-39e5b11af11d/99/image.jpg",
+      "caption": "Erlebnisschwimmbad- Hippach"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9614954-e423-441a-bcc3-02adc35f221d/99/image.jpg",
+      "caption": "Ramsau im Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68a09224-d97a-4ae6-932e-86f5662aa01f/99/image.jpg",
+      "caption": "Wandern im Stilluptal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d04dae5-1ced-4e9a-bf86-9dabe6fd058c/99/image.jpg",
+      "caption": "verschneite Winterlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/699ec7a1-1f6e-4828-aa3c-b7754022ba7a/99/image.jpg",
+      "caption": "Kinderskischule"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b306f727-8d57-4c05-a6ed-1ec962af2d6c/99/image.jpg",
+      "caption": "Schneeschuhwandern Zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/efc6ffa0-3982-491f-a8f9-9e5c83a08fae/99/image.jpg",
+      "caption": "Traumhafte Pisten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa94024b-6f59-4f1f-8b77-4bc24c00240e/99/image.jpg",
+      "caption": "Karte der Skigebiete"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2052692370429",
+    "longitude": "11.8727821111679"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, одна спальня",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, одна спальня",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "64.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "64.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

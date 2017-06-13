@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Gäste- und Dörferbus 01.05. - 06.12.2017",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.16962",
+    "longitude": "11.8627685"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhof Mayrhofen",
+    "streetAddress": "Am Marktplatz 200",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5244 60 6290",
+    "email": "office@zillertalbahn.at",
+    "url": "http://www.zillertalbahn.at"
+  },
+  "description": "Unser Gäste- und Dörferbus verbindet die Dörfer Ramsau, Hippach, Laimach, Schwendau, Mayrhofen, Laubichl, Hollenzen, Bichl",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3f186bb9-d5b0-4486-8277-2f11bd7cad72/99/image.jpg",
+      "caption": "Logo"
+    }
+  ]
+}

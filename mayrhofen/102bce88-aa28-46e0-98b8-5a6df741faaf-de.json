@@ -1,0 +1,261 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.haus-walcherhof.at/",
+    "http://maps.mayrhofen.at/?foreignResource\u003d102BCE88-AA28-46E0-98B8-5A6DF741FAAF"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Walcherhof",
+    "streetAddress": "Hochschwendberg 491",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3611",
+    "faxNumber": "0043 5282 3611",
+    "email": "haus.walcherhof@aon.at",
+    "url": "http://www.haus-walcherhof.at/"
+  },
+  "name": "Walcherhof",
+  "description": [
+    "Unser Bauernhaus liegt auf 1200 m Seehöhe inmitten der Zillertaler Alpen. Die Gästezimmer sind mit DU/WC ausgestattet. Sie erhalten ein abwechslungsreiches Frühstück mit selbstgebackenem Brot und Erzeugnissen aus unserer Landwirtschaft. Unsere gemütliche Bauernstube mit TV steht Ihnen zur Verfügung. Ebenso im Winter unsere Skischuhheizung!",
+    "Hausmusik, Brötchenservice, Kinderermäßigung: 0-2 Jahre frei, 3-5 Jahre 8,- Euro, 6-8 Jahre 13,- Euro, 8-10 Jahre 15,- Euro (im Zimmer der Eltern)",
+    "Check in 12.00 Uhr - Check out 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64653bd2-a3ba-44e2-a13b-5cf3204d9629/99/image.jpg",
+      "caption": "Walcherhof Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2fe501d-0c36-4b6b-8fab-6ab7048b97d1/99/image.jpg",
+      "caption": "Walcherhof Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/842d0c0f-9f8f-4bf7-8297-f5f3c5790722/99/image.jpg",
+      "caption": "Walcherhof Hippach - Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b97f813a-b166-49f6-a09b-ab1e2fc58c1e/99/image.jpg",
+      "caption": "Walcherhof Hippach - Frühstücksbuffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2a92d9f6-5e5c-475e-a8a5-2351b033b4e5/99/image.jpg",
+      "caption": "Walcherhof Hippach - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28b1d1ee-cee4-422e-9e4a-3a37e2b935b5/99/image.jpg",
+      "caption": "Walcherhof Hippach - Aufenthaltsraum-Hausmusik"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e88199b8-d365-4758-8d9b-8f1d4f6c0114/99/image.jpg",
+      "caption": "Kuf auf der Alm "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c13e2e8-aa1e-4ac8-a202-d3a53a7bf6c3/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/65743305-857c-4150-83e9-f85fcf5fb5e9/99/image.jpg",
+      "caption": "bike mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/043870dd-8365-4999-9d0e-0c5980443674/99/image.jpg",
+      "caption": "skifahrer-in-action"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a772601-387b-4d50-8d70-6042592adeac/99/image.jpg",
+      "caption": "Sommer wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/febbc559-32b3-40ea-aa38-2c36fd517272/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/38c616c8-bb7c-4b38-bc41-9dd868ecf436/99/image.jpg",
+      "caption": "Bauer__Landwirt_Kulinarik_Brettljause_Wiese (Archi"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/767f3772-e623-41f7-9ed2-cc1bba199424/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/89db4438-7007-45f9-ace2-c4314c5a2e1d/99/image.jpg",
+      "caption": "MayrhofnerBergbahnen_Talabfahrt_am_Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/06179492-3c2c-46ba-8ab7-a68893584b85/99/image.jpg",
+      "caption": "MayrhofnerBergbahnen_WhiteLounge_IgluDorf"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/977d682a-de02-4a6d-96e3-ff178d559f91/99/image.jpg",
+      "caption": "MayrhofnerBergbahnen_ActionbergPenken"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.198431817272",
+    "longitude": "11.839292049408"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Unsere Doppelzimmer mit Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "36.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.00",
+          "maxPrice": "54.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche, WC",
+      "description": "Familienzimmer für 2 Erwachsene und 2-3 Kinder, Balkon, DU/WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "36.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.00",
+          "maxPrice": "54.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Neuwertige, komplett ausgestattete Ferienwohnung mit 2 großen Schlafzimmern!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "115.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "130.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": [
+    {
+      "@language": "de",
+      "@value": "Zillertaler Geigenfest"
+    },
+    {
+      "@language": "en",
+      "@value": "Zillertal Fiddler Festival "
+    },
+    {
+      "@language": "ru",
+      "@value": "Zillertal Fiddler Festival "
+    }
+  ],
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Christoph",
+      "familyName": "Hauser"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gerlosberg 58",
+      "addressLocality": "Zell am Ziller",
+      "postalCode": "6280",
+      "addressCountry": "AT",
+      "telephone": "+43 664 3854660",
+      "url": "http://www.zillertaler-geigerin.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Tourismusverband Mayrhofen-Hippach",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstraße 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6760",
+      "email": "info@mayrhofen.at",
+      "url": "http://www.mayrhofen.at"
+    }
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Nähere Informationen folgen!\n"
+    },
+    {
+      "@language": "en",
+      "@value": "More Information coming soon!\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b027fcf5-a218-4417-ba07-16afcb959229/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Geigenfest"
+        },
+        {
+          "@language": "en",
+          "@value": "Geigenfest"
+        },
+        {
+          "@language": "ru",
+          "@value": "Geigenfest"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.zillertaler-geigerin.com"
+  ],
+  "startDate": "2017-07-07T00:00:00",
+  "endDate": "2017-07-09"
+}

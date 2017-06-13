@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": "Sepp Kahn \u0026 Zillertaler Singer",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Europahaus",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstr. 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6750",
+      "faxNumber": "+43 5285 6760-33",
+      "email": "office@europahaus.at",
+      "url": "www.europahaus.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Europahaus",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstr. 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6750",
+      "faxNumber": "+43 5285 6760-33",
+      "email": "office@europahaus.at",
+      "url": "www.europahaus.at"
+    }
+  },
+  "description": "Sepp kahn is a primary rock of the Unterländer Mundartdichter. The Oslbauer from Itter lives about 100 days a year, from June to September, alone on its two alpine huts in the Windautal. There he finds peace and the ideas of his tales. His daily work lasts from half past six to seven o\u0027clock in the evening, when the stories come to him. In between, of course, the animals and the almbooks are provided. Kahn does everything by hand - produce cheese and butter, and he also writes his texts by hand. This art was included in his \"Almtagebuch\", which was printed in his manuscript.\nThis is not to say that he is struggling against modernity. With irony and humor he denounces profit-thinking, ignorance and superficiality. \"I let the people laugh, until they realize that they are meant for themselves, and start thinking,\" Sepp Kahn smiles cunningly.\n\nThe stories of Sepp Kahn are musically accompanied by Zillertal singers. Further information on the program will follow!\n\nStart: 8.30 p.m.\nInlet: 8.00 p.m.\n\nTickets:\nPre-sale: € 17,00 | cash desk: € 19,00\n\nTickethotline: +43 5285 6760 or ticket@mayrhofen.at\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b0e82bb8-57b8-477e-a2a8-48fa6fd9e6d5/99/image.jpg",
+      "caption": "Sepp Kahn"
+    }
+  ],
+  "url": [
+    "http://mayrhofen.at/shop"
+  ],
+  "startDate": "2017-05-18T20:30:00",
+  "endDate": "2017-05-18"
+}

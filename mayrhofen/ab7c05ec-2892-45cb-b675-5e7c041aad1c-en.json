@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Taxi Sandhofer",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2044638085419",
+    "longitude": "11.8675249814987"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Taxi Sandhofer",
+    "streetAddress": "Hippach-Dorf 3",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3604",
+    "email": "office@transporte-sandhofer.at",
+    "url": "http://www.transporte-sandhofer.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db4c7e80-937b-4594-a49c-b77424827f90/99/image.jpg",
+      "caption": "Sandhofer "
+    }
+  ],
+  "url": [
+    "http://www.transporte-sandhofer.at"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Gasthof Waldcafe",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1637938265402",
+    "longitude": "11.8648159503937"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Waldcafe",
+    "streetAddress": "Peter-Habeler-Straße 556",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62664",
+    "email": "reservierung@gmx.at",
+    "url": "www.gasthof-waldcafe.at"
+  },
+  "description": "Herzlich Willkommen\n...im Gasthof Waldcafe in Mayrhofen im Zillertal - dem aktivsten und\nwahrscheinlich bekanntesten Tal Tirols.\n\nAuf den folgenden Seiten werden Sie alles über unseren Gasthof \nerfahren, wir stellen Ihnen den wunderschönen Urlaubsort Mayrhofen\nvor, Sie bekommen einen kleinen Einblick in die Tradition des\nSchnapsbrennens und können sich in Zillertaler Kochkunst\nüben - einige Originalrezepte warten auf Sie!\n\nWir wünschen Ihnen jetzt viel Spaß beim „Erkunden“ unserer \nHomepage und würden uns freuen, Sie vieleicht schon bald in \nunserem Haus begrüßen zu dürfen.\n\nIhr Team vom Waldcafe\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77659cc3-751e-4a49-abe9-45be13978d6f/99/image.jpg",
+      "caption": "Waldcafe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/29a23eab-1787-45da-b745-0067e389500c/99/image.jpg",
+      "caption": "Zimmer"
+    }
+  ],
+  "url": [
+    "http://www.gasthof-waldcafe.at"
+  ]
+}

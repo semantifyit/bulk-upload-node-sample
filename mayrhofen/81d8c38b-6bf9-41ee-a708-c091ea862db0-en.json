@@ -1,0 +1,548 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness",
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d81D8C38B-6BF9-41EE-A708-C091EA862DB0",
+    "http://www.landhaus-gredler.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burgstall 359b",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62372",
+    "faxNumber": "(0043) 5285 62372",
+    "email": "landhaus-gredler@aon.at",
+    "url": "http://www.landhaus-gredler.at"
+  },
+  "name": "Landhaus Gredler",
+  "description": [
+    "Our house is situated in a quiet position approx. 1km outside of Mayrhofen, close to the Horbergbahn lift station and the ski bus stop.  We have a large garden, guest lounge, table tennis and car park. We offer a continental breakfast and rooms with shower/WC and balcony.",
+    "The price includes local taxes and breakfast. Children\u0027s reductions on request.",
+    "Our cozy cottage and our newly built holiday home located in a quiet location, just 1 km from Mayrhofen. We are right near the Horbergbahn and the cross-country ski trail even runs right past the house. The free ski bus to Mayrhofen Mountain Lifts Maple, Penken and Horberg stop across from our house. In summer we are surrounded by the most beautiful hiking areas of the Zillertal. The famous via ferrata \"Zimmereben\" in the immediate vicinity is a must for the whole family!\nIn our house we offer both double rooms and apartment 2-5 people. \n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "10"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14c92338-af40-4681-8c55-6ac557d0462a/99/image.jpg",
+      "caption": "Land- und Ferienhaus Gredler - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53697717-d5d1-4c17-ae71-bb4e2d3736da/99/image.jpg",
+      "caption": "Land- und Ferienhaus Gredler - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/407678da-be77-49e9-9a1c-8fce92954f10/99/image.jpg",
+      "caption": "Land- und Ferienhaus Gredler - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/084af312-781e-4288-8bee-394f2f68d516/99/image.jpg",
+      "caption": "Land- und Ferienhaus Gredler Mayrhofen2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0773f796-ff95-48b0-a127-1c611112518f/99/image.jpg",
+      "caption": "DSC00639"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/58635b0c-7430-4f97-8515-b9e2e2283305/99/image.jpg",
+      "caption": "DSC00635"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64332167-af8b-47bb-b41b-4db9002bb31a/99/image.jpg",
+      "caption": "DSC00640 - Kopie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b26f2159-fa26-4b03-8b89-3d8c318e6a73/99/image.jpg",
+      "caption": "DSC00632"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50aa4da1-a016-49db-8669-63da661c79c8/99/image.jpg",
+      "caption": "DSC00618 - Kopie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2425971-e6e8-44b8-abe0-c461d37a33d2/99/image.jpg",
+      "caption": "DSC00617"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5bb06215-f9b9-4d55-ae0d-bc5444bcc988/99/image.jpg",
+      "caption": "DSC00631"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d01360fa-9b7d-46e9-8ddd-439d5d3ad681/99/image.jpg",
+      "caption": "DSC00630"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e0e3a0a6-c3b3-4499-a01c-99364e627dc8/99/image.jpg",
+      "caption": "DSC00626"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81cbb888-0fcf-4f8f-8ead-8468f7b58731/99/image.jpg",
+      "caption": "DSC00627"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c9663f5-495b-405f-90ce-dd35453f0ee2/99/image.jpg",
+      "caption": "DSC00624 - Kopie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/524ac2c2-af59-4822-8223-7ab5ec9574a2/99/image.jpg",
+      "caption": "Land- und Ferienhaus Gredler Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8188f4a4-548f-49ee-a154-f548cb818e46/99/image.jpg",
+      "caption": "Land- und Ferienhaus Gredler - Ihre Vermieter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1413d11-0e22-4019-af2d-eca228922ae0/99/image.jpg",
+      "caption": "Gang Gästehaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa44c89d-3f68-4017-b4a4-408fd95bc397/99/image.jpg",
+      "caption": "Land- und Ferienhaus Gredler - Frühstücksraum "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c275e58-d4f9-48f3-a295-1d45af51dc19/99/image.jpg",
+      "caption": "Zimmer mit Schlafcouch im Alpenröschen/ -veilchen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77ef7a59-3d65-4512-89cd-84e01b87668f/99/image.jpg",
+      "caption": "Wohnraum mit Küche (Ferienhaus)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e9792c0e-a85e-4f0d-8fa0-4980999b9df7/99/image.jpg",
+      "caption": "Zimmer mit Schlafcouch im Enzian und Edelweiss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fb2e1e8a-9dea-4b0a-858c-d89af5712081/99/image.jpg",
+      "caption": "Wohnküche Apartments (Ferienhaus)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/335b92fa-1036-46da-90c3-e753d4039cae/99/image.jpg",
+      "caption": "Badezimmer Apartments (Ferienhaus)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dc267523-370e-4501-a743-8a92457a3c13/99/image.jpg",
+      "caption": "Zimmer 1 (Landhaus/Blick Garten)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/836fa7da-eca6-437c-9724-4272562c0f62/99/image.jpg",
+      "caption": "Zimmer 2 (Landhaus/Blick Garten)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c07aff67-7aa1-4b43-a0f0-d4843f10375b/99/image.jpg",
+      "caption": "Zimmer 3 (Landhaus/Blick Horberg)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/69df9b47-504a-49f8-ba2a-fcc18bcb9334/99/image.jpg",
+      "caption": "Zimmer 4 (Landhaus/Blick Horberg)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e941da98-b58b-4aaf-a262-4435736d766c/99/image.jpg",
+      "caption": "Zimmer 5 (Landhaus/Blick Garten)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d02df44e-6f18-417a-99df-2f0892fcdc8b/99/image.jpg",
+      "caption": "Badezimmer (Landhaus)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a8cff4f-970a-46f3-a8f9-fa27fab37ce2/99/image.jpg",
+      "caption": "Spuren im Schnee..."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6a1ef537-3dd5-41ef-8880-895b20b2c33d/99/image.jpg",
+      "caption": "Winterwunderland"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e105ef10-0620-4277-ab00-4710a2602b12/99/image.jpg",
+      "caption": "Flug über Burgstall"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6b366594-1596-453a-96bb-76a0f77e6cc8/99/image.jpg",
+      "caption": "Klettersteig Zimmereben"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/58ddf675-5b59-4721-b713-f99c6c8a27f6/99/image.jpg",
+      "caption": "Blick ins Tal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ac53845-8651-4651-9c48-445140b8890e/99/image.jpg",
+      "caption": "Familienwanderung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf1a494a-39b6-47fb-8e53-9a865f3c33b8/99/image.jpg",
+      "caption": "Wandern"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1820490412104",
+    "longitude": "11.8606612086296"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Single room, shower, toilet",
+      "description": "All rooms with shower/WC and balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "single room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shared shower/shared toilet",
+      "description": "Doubleroom for 1-2 persons\nRoom Nr. 1\nCozy double room with balcony, cable-TV, W-LAN and its own shower/WC on the floor.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shared shower/shared toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "29.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Double room for 2-3 persons\nRoom Nr. 2 \u0026 3\nCozy double room with sofabed, shower/WC, cable-TV, W-LAN and balcony.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "29.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "29.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "The double rooms are furnished in a country house with comfort and attention to detail. All rooms are, of course, with balcony, shower, WC and TV. A full breakfast is served in the cozy parlor.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.00",
+          "maxPrice": "29.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "Apartment „Alpenröschen“ 2-3 persons (47m²)\nSpacious double room with additional bed, shower/WC, cozy living room with top equipped kitchen, large sitting area, couch, TV, W-LAN and terrace.\nWithout catering, bread service on request.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "21.00",
+          "maxPrice": "29.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "Apartment \"Alpenveilchen\" 2-3 persons (47m²)\nSpacious double room with additional bed, shower/WC, cozy living room with top equipped kitchen, large sitting area, couch, TV, W-LAN and balcony.\nWithout catering, bread service on request\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "21.00",
+          "maxPrice": "29.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "Apartment „Edelweiß“ 4-5 persons (62m²)\n2 separate double rooms (one with additional bed), 2x shower/WC, cozy living room with top equipped kitchen, large sitting area, couch, TV, W-LAN and terrace.\nWithout catering, bread service on request\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "22.33",
+          "maxPrice": "31.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "20.75",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "43.00",
+          "maxPrice": "48.20",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "Apartment „Enzian“ 4-5 persons (62m²)\n2 separate double rooms (one with additional bed), 2x shower/WC, cozy living room with top equipped kitchen, large sitting area, couch, TV, W-LAN and balcony.\nWithout catering, bread service on request\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "22.33",
+          "maxPrice": "31.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "20.75",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "43.00",
+          "maxPrice": "48.20",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

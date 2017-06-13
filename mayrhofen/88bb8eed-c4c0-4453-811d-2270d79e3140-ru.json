@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore",
+    "BikeStore"
+  ],
+  "name": "Mountainbiker Zillertal",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2108959619662",
+    "longitude": "11.8660819530487"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mountainbiker Zillertal",
+    "streetAddress": "Laimach 71",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 22650",
+    "email": "zillertal@mountainbiker.at",
+    "url": "http://www.mountainbiker.at/shops/zillertal"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c94a6640-30d9-4e95-b46b-d9ae03d7db32/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.mountainbiker.at/shops/zillertal"
+  ]
+}

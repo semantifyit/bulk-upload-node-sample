@@ -1,0 +1,67 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "BookStore"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Tyrolia"
+    },
+    {
+      "@language": "de",
+      "@value": "Tyrolia"
+    },
+    {
+      "@language": "ru",
+      "@value": "Tyrolia"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.165122",
+    "longitude": "11.8619345"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tyrolia",
+    "streetAddress": "Hauptstraße 452",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62432",
+    "faxNumber": "(0043) 62432-20",
+    "email": "mayrhofen@tyrolia.at   ",
+    "url": "http://www.tyrolia.at/unternehmen/standorte/mayrhofen"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Sortiment - Übersicht:\nBücher\nPapier- und Schreibwaren\nGeschenkartikel\nLandkarten\nSchulbücher\nKalender\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d51d605a-5d18-42b1-8913-abfa90a69182/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Tyrolia "
+        },
+        {
+          "@language": "de",
+          "@value": "Tyrolia "
+        },
+        {
+          "@language": "ru",
+          "@value": "Tyrolia "
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.tyrolia.at/unternehmen/standorte/mayrhofen"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": "Allgemeinmediziner Dr. Michael Sporer",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2071278715265",
+    "longitude": "11.8706899881363"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 197",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3758",
+    "faxNumber": "(0043) 5282 3233",
+    "email": "Dr.michael.sporer@gmx.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e240402e-8baf-4448-b08d-f30acf77fcc4/99/image.jpg",
+      "caption": "Team"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b63761ee-ebb9-4cfe-b204-aafae0f10615/99/image.jpg",
+      "caption": "Dr. Sporer Michael"
+    }
+  ]
+}

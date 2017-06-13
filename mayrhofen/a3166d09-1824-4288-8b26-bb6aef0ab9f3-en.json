@@ -1,0 +1,213 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.pension-mayrhofen.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA3166D09-1824-4288-8B26-BB6AEF0AB9F3"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Privatpension Leo",
+    "streetAddress": "Dorf 41",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2394",
+    "faxNumber": "0043 5282 23944",
+    "email": "haus.leo@aon.at",
+    "url": "http://www.pension-mayrhofen.at"
+  },
+  "name": "Haus Leo",
+  "description": [
+    "Our house is situated on a little hill - very sunny. You enjoy a wonderful view over the alps. Sauna, Solarium, steam bath. The rooms are equipped with shower, WC, balcony, telphone, sat-tv. barbecue evenings. extended breakfast. Busstation direct in front of our house",
+    "• Children under 3 years free\n• For other children discounts, we are looking forward to your inquiry and will be happy to make a special offer",
+    "• On arrival, we are happy to be flexible - please contact us by mail or phone ideal for your arrival time\n• departure till 10:00 clock"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a5ffe90-6dd4-4059-adac-0a49347aca04/99/image.jpg",
+      "caption": "Haus Leo Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8b1fbcc7-a5b8-4539-a124-b5b81792d651/99/image.jpg",
+      "caption": "Haus Leo Hippach Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/750d5f3a-1c46-4b9a-b533-e7fb90ee4433/99/image.jpg",
+      "caption": "Haus Leo Hippach - Dopplezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f8dfb330-ba10-4c0c-bf31-0a0c8c5efba2/99/image.jpg",
+      "caption": "Haus Leo Hippach - Einzelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d6e854b5-c087-40fa-be9d-a23ab0018f5d/99/image.jpg",
+      "caption": "Haus Leo Hippach - Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/62bd1a3a-632f-4404-b83a-75a3d71d097e/99/image.jpg",
+      "caption": "Haus Leo Hippach - Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6b0c3e1f-3cb1-46a8-8dbe-27d87d35822a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/40f33115-1306-46fa-bd19-d5a917fd6e45/99/image.jpg",
+      "caption": "Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98f93f3f-5716-4a59-9183-d5e6b09a80dc/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd4f5770-c45c-4c78-94c0-480d20684fef/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d2f362d3-9760-4015-997a-4d69f0deff4a/99/image.jpg",
+      "caption": "Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ce5cae20-84eb-41f0-b266-1534a0781523/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1825068e-51cd-40cb-8e9f-049bed613292/99/image.jpg",
+      "caption": "Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8ca886c9-5790-456a-a66b-236cdc96df2d/99/image.jpg",
+      "caption": "Sommer 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e0a61c6-add8-4d6f-9e88-3fa0a66e0b6c/99/image.jpg",
+      "caption": "Haus Leo Hippach- Ausblick"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2082357324748",
+    "longitude": "11.8657547235489"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Double Room with\n • Satellite TV\n • phone\n • Shower / WC\n • sunny balcony\n • as new carpeting",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/63539649-ceb6-4e2f-b227-5d0b79e301ba/99/image.jpg",
+              "caption": "Doppelzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/435bf9eb-f0e0-40ef-92c7-c1199f9a73a7/99/image.jpg",
+              "caption": "Doppelzimmer 2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d04cc285-f103-4120-b7e4-2a828592e692/99/image.jpg",
+              "caption": "Doppelzimmer 3"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "37.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Single room, shower, toilet",
+      "description": "Single Room\n • Satellite TV\n • phone\n • Shower / WC\n • partly sunny balcony\n • Carpets",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "single room with shower, WC",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ae0c325d-dd63-4b71-888e-7787cf4012f3/99/image.jpg",
+              "caption": "Einzelzimmer 1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/95c40b62-403d-474c-aa00-c52d70925dad/99/image.jpg",
+              "caption": "Einzelzimmer 2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d7401a8f-5c30-4e33-b11e-5cd8e90ce702/99/image.jpg",
+              "caption": "Einzelzimmer 3"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "33.00",
+          "maxPrice": "38.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

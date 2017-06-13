@@ -1,0 +1,122 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dE5975D2D-5CFD-4F83-9CF3-3021A13EF8B1"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Talstraße 114",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5151856",
+    "email": "ferienwohnung.roessler@gmx.at"
+  },
+  "name": "Ferienwohnung Rössler",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f877396b-6bdb-4085-8140-c339cfd84efe/99/image.jpg",
+      "caption": "Ferienwohnung Rössler Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1e3ce040-f7b5-4b01-b48c-d7b5e08a952e/99/image.jpg",
+      "caption": "Sommerurlaub-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf473c9e-eba0-4add-a234-0b4aa1f68e01/99/image.jpg",
+      "caption": "Sommerurlaub-3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ded4e0f-2ddc-43fc-9cfd-9c5df2efc45d/99/image.jpg",
+      "caption": "Sommerurlaub-5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/367d9aab-ec49-42ad-bbcc-2fc11036f6ac/99/image.jpg",
+      "caption": "Winterurlaub-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f9aa307-64fe-4be0-81f3-379cd0e962bc/99/image.jpg",
+      "caption": "Winterurlaub-2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63d90323-d972-4a28-8d54-3e0324e604a8/99/image.jpg",
+      "caption": "Winterurlaub-3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d4b54a06-c382-4f87-8f80-f7f6aaf35c8e/99/image.jpg",
+      "caption": "Winterurlaub-4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d4e7eb3-336d-49fa-adf7-a20b71b9ec51/99/image.jpg",
+      "caption": "Winterurlaub-5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4cb19283-f3c6-4629-92a1-f9cf39ddd0cb/99/image.jpg",
+      "caption": "Sommerurlaub-2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2014752339343",
+    "longitude": "11.8710601329803"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ и ванна, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент, shower and bath, toilet, 2 спальни",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

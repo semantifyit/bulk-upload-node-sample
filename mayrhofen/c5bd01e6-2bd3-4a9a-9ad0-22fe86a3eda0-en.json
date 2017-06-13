@@ -1,0 +1,193 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.gaestehaus-aschenwald.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dC5BD01E6-2BD3-4A9A-9AD0-22FE86A3EDA0"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Aschenwald",
+    "streetAddress": "Sportplatzstraße 311",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62765",
+    "email": "gaestehaus-aschenwald@aon.at",
+    "url": "http://www.gaestehaus-aschenwald.at"
+  },
+  "name": "Gästehaus Aschenwald",
+  "description": [
+    "The guest house Aschenwald is a small comfortable pension, quiet situated, with 4 double rooms on the first floor. A double room can also be rented as a holiday apartment. \nTelevision, ski cellar, fridge in the breakfast space. Toilet and shower in the hall. Showering is for free.\n\n-------------------------------------------------------------------------------------------------------------------------------------------\n\nThe flat on the second floor is approx. 75 square meters big and is for 6-7 people with 3 bedrooms for two people in each case of 1 room can also be used as a three-bed room. \n2 rooms and the kitchen are equipped with television. \nThe kitchen and 2 rooms have balcony. \nShower is free. \n\n\nParking space at the house, the ski bus stops in 150 m of distance, the next restaurant is 150 m away. The next supermarket you can find in 700 m.\n\n\n",
+    "W-Lan\nChildrens request",
+    "Check in: 15.00 \nCheck out: 10.00 "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e9566a78-8d32-4cbb-9371-9d3616c6577f/99/image.jpg",
+      "caption": "Gästehaus Aschenwald Mayrhofen - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/11d4c071-e8c6-4b3e-ab05-842babafd170/99/image.jpg",
+      "caption": "Gästehaus Aschenwald Mayrhofen - Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2adb3a2f-2b4e-4b24-a86f-1e994dabd4e8/99/image.jpg",
+      "caption": "Gästehaus Aschenwald Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26a6e939-5c6d-48d2-868a-54a6525fa6f0/99/image.jpg",
+      "caption": "Gästehaus Aschenwald Mayrhofen - Adventzeit"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7853f4a9-e523-4737-9996-cf5535611c09/99/image.jpg",
+      "caption": "Gästehaus Aschenwald Mayrhofen - Ausblick"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1665636733191",
+    "longitude": "11.8692749621187"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, 3 bed rooms",
+      "description": "Aschenwald House is happy to welcome you! \n\n\"God Bless\" Mayrhofen. \n\nSurrounded by the beautiful countryside, you will find everything you need for a relaxing holiday. \n\nStarting from Mayrhofen, the key place of the Zillertal Valley, you have the opportunity for complete rest and relaxation, to enjoy an active holiday. And after a busy day, you can relax and taste the typical Tyrolean hospitality. For night owls there are many bars, pubs and nightclubs to choose from. \n\nYou will see that a visit",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 3 bed rooms",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/68f32b19-a831-4b93-bfc1-8c2bf4ffe6bb/99/image.jpg",
+              "caption": "Bild Wohnküche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/2a1d6c73-3345-4dbf-b797-8e6c9e6ba1a3/99/image.jpg",
+              "caption": "Bild Wohnküche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/bff073a2-3e79-44bd-a005-135760b22aae/99/image.jpg",
+              "caption": "Bild Wohnküche "
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/daf78f95-62d4-446a-bea2-b8d50207076e/99/image.jpg",
+              "caption": "Bild Zimmer die \"Kuschelecke\""
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/b013abcf-32f8-419a-bd30-a2b4ac942e2c/99/image.jpg",
+              "caption": "Bild Zimmer"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, running hot/cold water, facing the garden",
+      "description": "Double room with running water, balcony, TV, blinds, Wlan, TV,\nShower and toilet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with running hot/cold water",
+          "description": "The Gästehaus Aschenwald is near the center of Mayrhofen.\nThe rooms are cozy and heel windows with blinds.\nToilet and shower in the corridor",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "4"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "27.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "27.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, running hot/cold water",
+      "availability": "http://schema.org/InStock"
+    }
+  ]
+}

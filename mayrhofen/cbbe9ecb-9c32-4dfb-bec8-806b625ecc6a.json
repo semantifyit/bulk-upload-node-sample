@@ -1,0 +1,214 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.tiscover.at/innerspielleiten",
+    "http://maps.mayrhofen.at/?foreignResource\u003dCBBE9ECB-9C32-4DFB-BEC8-806B625ECC6A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Innerspielleiten, Ferienhaus",
+    "streetAddress": "Spielleiten 379",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62596",
+    "email": "innerspielleiten@A1.net",
+    "url": "http://www.tiscover.at/innerspielleiten"
+  },
+  "name": "Ferienhaus Innerspielleiten",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Schönes, komfortables Ferienhaus in ruhiger, sonniger Lage am Schwendberg für 16-24 Personen\n\nZweite Internetadresse: www.zillertalnet.at/innerspielleiten"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in 10:00 Uhr - Check out 12:00"
+    },
+    {
+      "@language": "de",
+      "@value": "Verbilligte Preise in der Vor- und Nebensaison auf Anfrage!!"
+    },
+    {
+      "@language": "en",
+      "@value": "beautiful comfortable holidayhouse for 3-12 persons in quiet and sunny position"
+    },
+    {
+      "@language": "en",
+      "@value": "cheaper prices in low saison on request"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0789fa8-b358-47cc-9194-7064e0877c2c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Innerspielleiten Hippach - Sommerbild"
+        },
+        {
+          "@language": "en",
+          "@value": "Innerspielleiten Hippach - Sommerbild"
+        },
+        {
+          "@language": "ru",
+          "@value": "Innerspielleiten Hippach - Sommerbild"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bee0d34f-d591-4598-9bc5-b4bfeac81b5c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Innerspielleiten Hippach - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Innerspielleiten Hippach - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Innerspielleiten Hippach - Winter"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2078603742848",
+    "longitude": "11.8567317724228"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche oder Bad, WC, 4 oder mehr Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower or bath, toilet, 4 or more bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, Душевая кабина или ванна, туалет, 4 или больше спалень"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Es stehen Ihnen 8 Schlafzimmer davon 5 mit Waschgelegenheit, 5 Dusche/WC im ersten/zweiten Stock, 1 Wohnzimmer mit Couch, Sat-TV, 2 Küchen Herd mit Backrohr, Spülmaschine, Kühlschrank, Kaffeemaschine, Wasserkocher, Toaster,Eckbank, Sat-TV, Balkon, Terasse, Skiraum mit Skischuhhtrockner...zur Verfügung !"
+        },
+        {
+          "@language": "en",
+          "@value": "6 doublerooms, 2 singlerooms, 2 bathrooms with shower, 1 bathroom, 2 WC, balcony, terasse, livingarea with furnice, kitchen with dishwasher, toaster, coffee machine...."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./4 od. mehr Schlafräume/Du od. Bad,WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap./4 + more bedrooms/shower or bath, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, Душевая кабина или ванна, туалет, 4 или больше спалень"
+            }
+          ],
+          "numberOfRooms": "8.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "22",
+            "minValue": "4"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Almabtriebspauschale 7 Nächte"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower or bath, toilet, 4 or more bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower or bath, toilet, 4 или большее количество спале"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Die Pauschale beinhaltet:\n\n7 Übernachtungen\nWillkommensgeschenk\nSO\tAnreise\nMO\tOrtsrundgang\nDI\tAuf den Spuren der Heumilchprodukte (Bus nach Brandberg, Wanderung auf der Heumilch-Genuss-Route mit Einkehr, Besuch der ErlebnisSennerei)\nMI\tfreie Gestaltung (Empfehlung: Adlerbühne, Sinnesspiele, Steinbockwelten, \n\tNaturparkausstellung)\nDO\tBerggottesdienst am Ahorn beim Ahornsee mit Erwin Aschenwald (Ticket excl.)\nFR\tHooo-Ruck-Party in der ErlebnisSennerei am Abend\nSA\tGroßer Almabtrieb in Mayrhofen ab 10.30 Uhr\nHooo-Ruck-Konzert am Abend\nSO\tHooo-Ruck-Frühschoppen\n"
+            }
+          ],
+          "numberOfRooms": "8.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "20",
+            "minValue": "4"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Almabtriebspauschale 2 Nächte"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower or bath, toilet, 4 or more bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower or bath, toilet, 4 или большее количество спале"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Unsere Pauschale beinhaltet\n\n2 Übernachtungen \nWillkommensgeschenk\nFR\tHerbstfest im Berghof Gastgarten mit den Haderlumpen am Abend\nSA\tGroßer Almabtrieb in Mayrhofen ab 10.30 Uhr\nHerbstfest im Berghof Gastgarten mit Marc Pircher Trio am Abend\nSO\tHooo-Ruck-Frühschoppen\n"
+            }
+          ],
+          "numberOfRooms": "8.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "20",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

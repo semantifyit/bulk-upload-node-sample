@@ -1,0 +1,80 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d746B36D4-0A82-4F16-81F7-C009D969BD0D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Neuner, Haus",
+    "streetAddress": "Schweinberg 31",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63310",
+    "faxNumber": "0043 5285 63310",
+    "email": "neuner.sabine@aon.at"
+  },
+  "name": "Haus Neuner",
+  "description": [
+    "Our family run bed and breakfast is situated about 2km outside of Mayrhofen surrounded by nature. The four rustically furnished double rooms are all equipped with a balcony (sunshine from 9.00 to 10.00hr), with a wonderful view of Mayrhofen and the majestic mountains of Zillertal, as well as shared shower and separate WC facilities. A pleasant sun terrace and well tended garden with deck chairs, and a breakfast room is also available for our guest\u0027s use.",
+    "The price includes local taxes and breakfast.",
+    "Our house is situated approx 2km before Mayrhofen on the left side of the valley. Go through Ramsau (where there are traffic lights) and after 1,5km  there is a round about. Take the second drive and turn right. After app. 600m is a small side road with brown house signs. Turn left and then left again up a small hill. The next house on this road is ours. Our house is directly next door to the \"Eckertauerhof\"."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e854e1de-860e-4a5e-bab6-ba0378633d3e/99/image.jpg",
+      "caption": "Haus Neuner Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bdb62c8f-f2a4-433e-8639-8e53889c2d3e/99/image.jpg",
+      "caption": "Haus Neuner Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e87728a3-94d5-4a96-9656-61a5cfb85ad1/99/image.jpg",
+      "caption": "Haus Neuner Mayrhofen - Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd335b5e-bcae-4a4a-bdda-67bc62bb4749/99/image.jpg",
+      "caption": "Haus Neuner Mayrhofen - Frühstücksraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1885276592609",
+    "longitude": "11.8737423419952"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, running hot/cold water",
+      "description": "Comfortably furnished double room in a rustical style. Large, sunny balcony with a fabulous view of the Zillertaler mountains.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with running hot/cold water",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

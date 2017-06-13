@@ -1,0 +1,131 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apart-zillertal.com"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Durst 257",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 7906190",
+    "email": "landhausthomas@aon.at ",
+    "url": "http://www.apart-zillertal.com"
+  },
+  "name": "Appart Manuel",
+  "description": [
+    "Our newly built apartment is located in a part of Mayrhofen, called Durst. It is a quiet, beautiful and central location with fantastic views of our Zillertal mountains.\nThe level-access apartment can accommodate 2 - 6 people\nit has a spacious living area with seating area and fully equipped kitchen, TV, 3 bedrooms (depending on occupancy),\nShower room with toilet and separate toilet, terrace.\nSki boot dryer available.\nViews of our mountains.\nInternet surcharge",
+    "wifi 2 € per day",
+    "Check-in: 15:00pm (on request possible earlier)\nCheck-out: 09:00am"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "15"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/30207b98-e1f3-447d-baab-1e9a16f4a5e8/99/image.jpg",
+      "caption": "Appart Manuel Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f1467b89-9e54-4fbb-9a35-56724e82dbae/99/image.jpg",
+      "caption": "IMG_5340[1]"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/314dd20d-6865-4652-a83a-87a0ca7f1341/99/image.jpg",
+      "caption": "IMG_5341[1]"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d08be063-e2c3-4800-905f-edd0e57bd159/99/image.jpg",
+      "caption": "Appart Manuel Mayrhofen - Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/330dc70f-6c82-4e8b-8718-52d785d034a8/99/image.jpg",
+      "caption": "Appart Manuel Mayrhofen - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c34a88d-977a-4195-bab6-8bb5b9d72af1/99/image.jpg",
+      "caption": "Appart Manuel Mayrhofen - Küche2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/05b5e302-2e49-415a-9930-c62209ac9f85/99/image.jpg",
+      "caption": "Appart Manuel Mayrhofen - Wohnbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d9d8af7-00b1-4554-bc03-e1a789980c7c/99/image.jpg",
+      "caption": "Appart Manuel Mayrhofen - Couch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/92ed8c72-5bb3-4747-8611-7d65da4ef3fc/99/image.jpg",
+      "caption": "Appart Manuel Mayrhofen - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/66a74725-35fb-4bfa-a777-f0f82b495be8/99/image.jpg",
+      "caption": "Appart Manuel Mayrhofen - Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3dcd25ad-d611-491f-aba5-06197d81e755/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/41c7fec4-2a23-4470-a37d-7165cfc9b787/99/image.jpg",
+      "caption": "Funpark Mayrhofner Bergbahnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dfaecac1-6718-481c-a097-d74861be9fff/99/image.jpg",
+      "caption": "bike mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d112bcf9-c03e-41ae-8679-64f97740092c/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.168971",
+    "longitude": "11.8699561"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 3 bed rooms",
+      "description": "The level-access apartment can accommodate 2 - 6 people\nit has a spacious living area with seating area and fully equipped kitchen,\nTV, 3 bedrooms (depending on number of people), bathroom with shower and separate toilet,\nTerrace.\nSki boot dryer available.\nViews over our mountains.\nwifi",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 3 bed rooms",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

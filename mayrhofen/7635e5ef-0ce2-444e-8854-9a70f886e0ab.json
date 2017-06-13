@@ -1,0 +1,167 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d7635E5EF-0CE2-444E-8854-9A70F886E0AB"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Angerhof",
+    "streetAddress": "Burgstall 340a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64456",
+    "faxNumber": "0043 5285 64456",
+    "url": "http://www.mayrhofen.at/de/angerhof"
+  },
+  "name": "Angerhof",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ferien, Erholung Sommer und Winter im \"Angerhof\" bei Familie Emberger. 1 Ferienwohnung für 2-5 Personen. Sonnige, ruhige Lage, Liegewiese. Die Horbergbahn befindet sich ganz in unmittelbarer Nähe."
+    },
+    {
+      "@language": "de",
+      "@value": "Kinderermäßigung auf Anfrage!"
+    },
+    {
+      "@language": "de",
+      "@value": "Über die B169 bis zur Ausfahrt Horbergbahn/Burgstall. Vor der Horbergbahn beim Kreisverkehr biegen Sie links ab und fahren durch den Ortstal Mühlbach bis Sie in Burgstall ankommen. Unser Haus befindet sich auf der rechten Seite."
+    },
+    {
+      "@language": "en",
+      "@value": "Enjoy a relaxing winter or summer holiday in the \"Angerhof\" with the Emberger family. One holiday apartment suitable for 2-5 persons situated in a sunny, quiet position, with sun bathing area. The Horbergbahn can be found very close by."
+    },
+    {
+      "@language": "en",
+      "@value": "Details of children\u0027s discounts available on request."
+    },
+    {
+      "@language": "en",
+      "@value": "Use the B169 until the turnoff for the Horbergbahn/Burgstall. Before the Horberg lift turn left at the roundabout and drive through Mühlbach and then Burgstall. Our house can be found on the right."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ac4a8cc-d202-4f0c-8419-c52746cbb12d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Angerhof Mayrhofen - Sommerfoto"
+        },
+        {
+          "@language": "en",
+          "@value": "Angerhof Mayrhofen - Sommerfoto"
+        },
+        {
+          "@language": "ru",
+          "@value": "Angerhof Mayrhofen - Sommerfoto"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d4bd2a9-c090-4d12-be5a-00d86f2cc3fb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Angerhof Mayrhofen - Nebenhaus Winterfoto"
+        },
+        {
+          "@language": "en",
+          "@value": "Angerhof Mayrhofen - Nebenhaus Winterfoto"
+        },
+        {
+          "@language": "ru",
+          "@value": "Angerhof Mayrhofen - Nebenhaus Winterfoto"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9ca4923e-68a7-4e9e-a01e-090a7b60bd9b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Angerhof Mayrhofen - Nebenhaus Sommerfoto"
+        },
+        {
+          "@language": "en",
+          "@value": "Angerhof Mayrhofen - Nebenhaus Sommerfoto"
+        },
+        {
+          "@language": "ru",
+          "@value": "Angerhof Mayrhofen - Nebenhaus Sommerfoto"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1839522400678",
+    "longitude": "11.8602079153061"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Unser Bauernhof ist ca. 1 km von Mayrhofen entfernt. Die Ferienwohnung befindet sich im Bauernhaus im 2.Stock. Die Wohnung ist sehr ruhig gelegen, mitten in einem Obstgarten."
+        },
+        {
+          "@language": "en",
+          "@value": "Our farm can be found approx. 1km from Mayrhofen. The holdiay apartment is situated in a neighbouring house on the second floor. A pleasant, quiet location in the middle of a orchard."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

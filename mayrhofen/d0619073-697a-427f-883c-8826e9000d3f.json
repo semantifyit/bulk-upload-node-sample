@@ -1,0 +1,87 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Allgemeinmediziner Dr. Gergely Vladan"
+    },
+    {
+      "@language": "de",
+      "@value": "Allgemeinmediziner Dr. Gergely Vladan"
+    },
+    {
+      "@language": "ru",
+      "@value": "Allgemeinmediziner Dr. Gergely Vladan"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2091030548312",
+    "longitude": "11.8733882904053"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 160",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 50991",
+    "faxNumber": "0043 5282 50991 4",
+    "email": "vladen.gergely@gmx.at",
+    "url": "http://www.aerztehaus-ramsau.at/index.php/gergely"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich Willkommen bei Dr. Vladan Gergely,\nder Schwerpunkt meiner Tätigkeit liegt in der allgemeinmedizinischen Betreuung aller Altersgruppen.\nAußerhalb der angegebenen Ordinationszeiten sind auch folgende Leistungen nach Terminvereinbarung möglich:\nKlassische Homöopathie \nPsychosomatisch orientierte Gesprächsführung \nPsychotherapie: Katathym imaginative Psychotherapie, sowohl für Erwachsene als auch für Kinder \nHypnose, Focousing\nSonstiges: Führerscheinuntersuchungen, EKG, Lungenfunktion, Ergometrie, 24h Blutdruckmessung, Vorsorgeuntersuchungen\nLabor: Blutabnahmen bis spätestens 11.30 Uhr, dann erfolgt Transport in das Labor. Die Ergebnisse werden noch am gleichen Tag elektronisch übermittelt.\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Mo, Di, Mi, Fr: 08.30 - 12.00 Uhr\nMo u. Do:15.00 - 17.00 Uhr\nMi: 17.00 - 19.00 Uhr \n\nsowie nach Vereinbarung"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b447f7b6-76c5-451d-b045-25757ef06189/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Dr. Gergely Vladan"
+        },
+        {
+          "@language": "de",
+          "@value": "Dr. Gergely Vladan"
+        },
+        {
+          "@language": "ru",
+          "@value": "Dr. Gergely Vladan"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/30a0500c-fd06-492a-bf62-6965df34ad30/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Behandlungszimmer"
+        },
+        {
+          "@language": "de",
+          "@value": "Behandlungszimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Behandlungszimmer"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.aerztehaus-ramsau.at/index.php/gergely"
+  ]
+}

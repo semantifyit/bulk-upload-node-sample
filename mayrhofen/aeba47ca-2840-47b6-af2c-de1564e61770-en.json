@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church"
+  ],
+  "name": "Gschirrkapelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2181648127256",
+    "longitude": "11.848634488794"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gschirrkapelle",
+    "streetAddress": "Schwendberg 322",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4191",
+    "faxNumber": "(0043) 5282 4191",
+    "email": "schoeser.veitlerhof@aon.at",
+    "url": "http://www.veitlerhof.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/abd87456-3413-46c4-a310-872353acfac0/99/image.jpg",
+      "caption": "Gschirrkapelle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1c283d7-ad07-4161-9ff4-2bde29515d00/99/image.jpg",
+      "caption": "Gschirrkapelle 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2100e618-62fc-4141-a095-b481e44ce960/99/image.jpg",
+      "caption": "Gschirrkapelle von innen"
+    }
+  ],
+  "url": [
+    "http://www.veitlerhof.at"
+  ]
+}

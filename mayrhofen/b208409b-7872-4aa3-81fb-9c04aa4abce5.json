@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ClothingStore"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Benetton"
+    },
+    {
+      "@language": "de",
+      "@value": "Benetton"
+    },
+    {
+      "@language": "ru",
+      "@value": "Benetton"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1689143800912",
+    "longitude": "11.8652451038361"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Benetton",
+    "streetAddress": "Hauptstraße 401",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62703",
+    "email": "margit.boehmer@aon.at",
+    "url": "http://benetton.at/start.htm"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dbd95d6e-fd59-466f-947d-01521731f705/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Benetton"
+        },
+        {
+          "@language": "de",
+          "@value": "Benetton"
+        },
+        {
+          "@language": "ru",
+          "@value": "Benetton"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://benetton.at/start.htm"
+  ]
+}

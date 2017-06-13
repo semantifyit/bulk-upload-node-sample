@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Museum",
+    "EntertainmentBusiness"
+  ],
+  "name": "Museum Strasser Häusl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.217498585111",
+    "longitude": "11.865781545639"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Strasser Häusl ",
+    "streetAddress": "Laimach",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0043 676 3225522",
+    "email": "info@mayrhofen.at",
+    "url": "http://www.mayrhofen.at/ausflugsziele/"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ccdbb128-659a-4417-8c5f-07825aebb824/99/image.bmp",
+      "caption": "Strasserhäusl Museum"
+    }
+  ],
+  "url": [
+    "http://www.mayrhofen.at/ausflugsziele/"
+  ]
+}

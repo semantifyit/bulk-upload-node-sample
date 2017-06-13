@@ -1,0 +1,555 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apart-bergheil.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d5558AFE9-AD25-40DE-9F8E-1A7C25D0894C"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dorf 167a",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2264830",
+    "email": "info@apart-bergheil.at",
+    "url": "http://www.apart-bergheil.at"
+  },
+  "name": "Apart BergHeil",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "ROMANTISCH, RUSTIKALE GEMÜTLICHKEIT und Kom­fort wie Zuhause — unter diesem Motto und mit viel Liebe zum Detail haben wir unser Apartment BergHeiL gestal­tet. Genießen Sie die per­sön­liche, famil­iäre und gemütliche Atmo­sphäre, inmit­ten der faszinieren­den und einzi­gar­ti­gen Bergwelt.\n\nHEIMKOMMEN und WOHLFÜHLEN, die zen­trale Lage und kosten­lose Park­möglichkeit dir­ket am Haus sor­gen für ein stress­freies Ankommen. \n\nZENTRALE TOP-LAGE, in nur 3 Autominuten / 10 Gehminuten erreichen sie die Talstation der Horbergbahn - eines der größten Skigebiete im Zillertal!\n\nPanoramablick, WLAN Internet, ver­schließbarer Ski­ab­stell­raum und elektr. Bek­lei­dungs– und Skischuhtrock­e­nan­lage, Handtücher und Bet­twäsche inklu­sive!\n\nFrüh­stück und Brötchenservie auf Wunsch!\n\nGerne heißen wir Sie in Schwen­dau willkommen!\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Es gelten die österreichischen Hotelvertragsbedingungen!"
+    },
+    {
+      "@language": "de",
+      "@value": "Check -In ab 14:00 Uhr / Check - Out bis 09:00 Uhr\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Enjoy the personal, familiar and cozy atmosphere, surrounded by the fascinating and unique mountains of the Zillertal Alps. \n\nThe fully equipped apartments ensure carefree living comfort in a sunny, quiet prime location in the center of Schwendau. \n\nOf course, towels and linen included, breakfast and bread Service,a ski room and free parking next to our house.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Valid are the austrian hotel contract conditions!"
+    },
+    {
+      "@language": "en",
+      "@value": "Check -In: 14:00 hrs / Check - Out: 09:00 hrs\n"
+    },
+    {
+      "@language": "ru",
+      "@value": "По-деревенски уютно и комфортно, как дома - это девиз, которому мы следуем и относимся с большой любовью к каждой детали в нашем апартаменте.  --- Насладитесь семейной и уютной атмосферойв окружении очаровательных и неповторимых Циллертальских Альп. --- Наши апартаменты представляют собой идеальную комбинацию для всех видов отдыха, о которых Вы только можете подумать. Полностью обставленные апартаменты гарантируют отдых без забот в спокойном, солнечном месте в центре Швендау. -- Летом ли или зимой наши семейные апартаменты - идеальное место для отправной точки Вашего отдыха. --- Естественно полотенца и постельное белье входит в стоимость, завтрак и доставка свежего хлеба по запросу. Также у нас есть комната для хранения лыж, детская кроватка и, если необходимо, бесплатная парковка прямо перед нашим домом. "
+    },
+    {
+      "@language": "ru",
+      "@value": "Заезд с 14:00 / Выезд до 09:00"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/692baa1b-a8b5-41da-8594-6a5dd5b0d72c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gäste Terrasse"
+        },
+        {
+          "@language": "en",
+          "@value": "Gäste Terrasse"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gäste Terrasse"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6fe5805e-4845-49e3-8dbb-105a5cb791b2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apartment Bergheil"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment Bergheil"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apartment Bergheil"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/738d4f2d-2dcd-4040-8710-e45c3d2a4c95/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Herzlich Willkommen"
+        },
+        {
+          "@language": "en",
+          "@value": "Herzlich Willkommen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Herzlich Willkommen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0439e1cd-fe88-4e65-8038-e01331e849a4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Terrasse"
+        },
+        {
+          "@language": "en",
+          "@value": "Terrasse"
+        },
+        {
+          "@language": "ru",
+          "@value": "Terrasse"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/812a4aa3-d120-459a-8695-b743f71bd1ea/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Panoramablick"
+        },
+        {
+          "@language": "en",
+          "@value": "Panoramablick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Panoramablick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b22a292d-8fa3-45df-9b3d-ebb168448373/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Balokn Ausblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Balokn Ausblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Balokn Ausblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f80adea9-d4a1-457c-90a9-6c9f1360e3b1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Terrasse Ausblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Terrasse Ausblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Terrasse Ausblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7616775d-f232-4368-aca2-7a14b3867fe1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart BergHeil Schwendau - Balkonblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart BergHeil Schwendau - Balkonblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart BergHeil Schwendau - Balkonblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aaa9a180-4f58-4bb5-a23c-2655a0e5a1e0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart BergHeil Schwendau - Wein"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart BergHeil Schwendau - Wein"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart BergHeil Schwendau - Wein"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df18d931-accb-42b9-b59d-4fc0d3e6c957/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart BergHeil Schwendau - Winter1"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart BergHeil Schwendau - Winter1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart BergHeil Schwendau - Winter1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4a0a92c-9533-4939-8d61-b71fbb61b5e8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart BergHeil Schwendau - Winter5"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart BergHeil Schwendau - Winter5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart BergHeil Schwendau - Winter5"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/66daa0b5-5eba-4b65-ae27-07cee61acbb0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart BergHeil Schwendau - Winter6"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart BergHeil Schwendau - Winter6"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart BergHeil Schwendau - Winter6"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3d06ce7-7ae2-4b4c-8661-021482cbc235/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart BergHeil Schwendau - Winter2"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart BergHeil Schwendau - Winter2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart BergHeil Schwendau - Winter2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5db74f58-a6a4-487a-a6ba-beaeb573c66f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart BergHeil Schwendau - Winter3"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart BergHeil Schwendau - Winter3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart BergHeil Schwendau - Winter3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dfdf67d2-0d81-40c9-b96f-ccd4208175f0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart BergHeil Schwendau - Schneemann"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart BergHeil Schwendau - Schneemann"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart BergHeil Schwendau - Schneemann"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7fc9d7fe-8039-44fd-b07e-b3559e420905/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart BergHeil Schwendau - Winter7"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart BergHeil Schwendau - Winter7"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart BergHeil Schwendau - Winter7"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4cfabf01-31cd-437a-bbda-a002469ab297/99/image.png",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart BergHeil Schwendau - BergHeiL Logo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart BergHeil Schwendau - BergHeiL Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart BergHeil Schwendau - BergHeiL Logo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f9dbe17-42b3-4589-992e-b8388dc1352c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_20160623_080207"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_20160623_080207"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_20160623_080207"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1964201",
+    "longitude": "11.8586302"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, separate toilet and shower/bathtub, balcony"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, отдельный туалет и душ/ванна, балкон"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Apartment Theresia liegt im Altbau (Dorf 167)! 55m² großes Apartment bestehend aus kleinem Vorraum mit Garderobe, Wohnküche mit eingebautem komplett ausgestatteten Küchenblock mit gemütlicher Essecke, SAT-TV,W-LAN kostenlos! 2 Doppelzimmer mit eingebauten Waschbecken, Ausziehcouch, separates Bad mit Dusche, ein separates WC sowie ein großer Balkon mit traumhaften Panoramablick. Nichtraucherdomizil!"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment Theresia is located in the old building ( house 167)\n55m ² large apartment consisting of a small entrance hall, kitchen with dining area, satellite-TV, W-LAN free! 2 double bedrooms with wash basin, sofa, separate bathroom with shower, a separate toilet and a large balcony with stunning panoramic view. No smoking, Towels and linen included!\n\n"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент Терезия находится в старом здании площадью 55 м². В апартаменте есть: небольшая прихожая с гардеробом, кухня-гостиная со полностью встроенной кухней и уютной обеденной зоной. Спутниковое ТВ и Wi-FI  - бесплатно! 2 спальни с двуспальными кроватями и раковиной, отдельная ванна с душем, отдельный туалет. Балкон с панорамным видом. ДЛЯ НЕКУРЯЩИХ!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Theresia"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, separate toilet and shower/bathtub, balcony"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, отдельный туалет и душ/ванна, балкон"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "24.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "24.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "24.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, neuwertig"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, good as new"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, практически как новый"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Das Apartment BergHeiL befindet sich im Neubau (Dorf 167a),im hellen, lichtdurchfluteten Souterrain mit separaten Eingang und einer traumhaft sonnig und ruhig gelegenen Terrasse inklusive Gartenmöblierung und Panoramablick. 45m² großes Apartment bestehend aus Wohnküche mit eingebautem, vollausgestatteten Küchenblock und Essecke,SAT-TV,W-LAN kostenlos!, Wohnschlafraum mit Doppelbett und Zustellbett, separates Badezimmer mit Dusche-WC,Vollholzparkettboden,Allergiker geeignet,Nichtraucherdomizil!"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment Bergheil is located in the new building (house 167a), in the bright, light-filled basement with separate entrance and a fantastically sunny and quiet terrace including garden furniture and panoramic view. 45m ² large apartment consisting of a kitchen with dining area, satellite TV, Wi-Fi free!, Bedroom with double bed and sofa, separate bathroom with shower and WC, No smoking !"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент БергХайль находится в новом здании, в светлом месте с отдельным входом и солнечной терассой с садовой мебелью и панорамным видом. Апартамент площадью 45 м². В апартаменте есть: кухня-гостиная со встроенной кухней с столовой зоной. Спутниковое ТВ и WI-Fi - бесплатно! Спальня - гостиная с двуспальной кроватью и дополнительной кроватью. Отдельно ванная комната с душем и туалетом. На полу паркет из цельного дерева, антиаллергенный. ДЛЯ НЕКУРЯЩИХ!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Bergheil"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower and bath, toilet, good as new"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, практически как новый"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "24.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

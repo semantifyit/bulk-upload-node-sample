@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Brewery"
+  ],
+  "name": "Schnapsbrennerei Stiefelscherm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1636989968193",
+    "longitude": "11.8592369556427"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Martin, Landhaus",
+    "streetAddress": "Dornauerstraße 615",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 699 19049897",
+    "faxNumber": "0043 5285 64021 ",
+    "email": "holiday@landhaus-martin.at",
+    "url": "http://www.apart-central.at/schnapsbrennerei/"
+  },
+  "description": "Verkauf und Schnapsverkostung auf Anfrage möglich.\n\nObst aus Bioanbau: u.a. Äpfel, Birnen, Zwetschgen, Kirschen;\nSortenreiner Edelbrand: Williams, Zwetschge, Marille, Vogelbeer;\nTraditionsbrände: Zillertaler Obst Edelbrand, Meisterwurz, Zirbe, 6ex Kräuter;\nSpezialitäten: Zachlingbrand, Schwammerl Likör;\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/abc88705-f6ca-4fb8-8977-59f7226cc1a2/99/image.jpg",
+      "caption": "Stiefelscherm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eed834ae-6f04-4f36-b039-400628756d81/99/image.jpg",
+      "caption": "Schnapsbrennerei"
+    }
+  ],
+  "url": [
+    "http://www.trummlerhof.at/kontakt.htm"
+  ]
+}

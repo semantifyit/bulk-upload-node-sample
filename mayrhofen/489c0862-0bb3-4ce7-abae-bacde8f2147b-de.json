@@ -1,0 +1,220 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast",
+    "Hotel"
+  ],
+  "url": [
+    "http://www.zillertalonline.com/claudia/index.htm",
+    "http://maps.mayrhofen.at/?foreignResource\u003d489C0862-0BB3-4CE7-ABAE-BACDE8F2147B"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Claudia, Haus",
+    "streetAddress": "Fischerstraße 504",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62361",
+    "faxNumber": "0043 5285 62361",
+    "email": "haus.claudia@zline.at",
+    "url": "http://www.fruehstueckspension-claudia.at/"
+  },
+  "name": "Gästehaus - Hotel Garni Claudia",
+  "description": [
+    "Behagliches Haus in zentraler Lage bei der Penkenbahntalstation - ideal für Skisportler. 3 Minuten bis ins Zentrum, 5 Minuten zum Erlebnisbad/Hallenbad, Waldnähe. Gediegene Komfortzimmer mit Bad oder Du/WC, Farb-Kabel-TV und Balkon. Großer Aufenthaltsraum, gemütliche Hausbar, Solarium, eigener Parkplatz.",
+    "Inklusive: Ortstaxe, Parkplatz. Genaue Kinderermäßigung auf Anfrage.",
+    "Check-In: 14.00 Uhr, Check-Out: 10.00 Uhr\nMayrhofen, Einfahrt Mitte, am Postamt vorbei, dann bei der Kreuzung rechts, die Hauptstraße hoch bis zur Penkenbahn, gegenüber der Penkenbahn links einbiegen\nKurzaufenthalt für 1 Nacht nur im Sommer"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "104"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50e460ab-37cb-4ba7-9fe7-08ff07bcfaf4/99/image.png",
+      "caption": "hotel Claudia Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b276cd90-eb81-4063-96db-16c9ce6a703c/99/image.jpg",
+      "caption": "Haus Claudia Mayrhofen - Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/15d4cd9c-5b70-4121-a2df-4ea341b28af4/99/image.jpg",
+      "caption": "Haus Claudia Mayrhofen - Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/57e65224-3732-4ed4-844b-6891c97c4f0f/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/970a03ca-2b2f-4709-b3ea-2644627018d3/99/image.jpg",
+      "caption": "Bergsteigen © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f86b6ad6-3746-4eb6-b9b5-52365308b56b/99/image.jpg",
+      "caption": "Langlaufen © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8caeeeda-684c-4d43-a19b-b115964be848/99/image.jpg",
+      "caption": "Skifahren © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8b052856-b860-4301-98c8-6135ec446ef3/99/image.jpg",
+      "caption": "Wandern am Stausee © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63af2a6f-5270-484c-86fb-80f4e695de12/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/71692068-ecb1-489c-a1d9-d738636169a4/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4c1d75c-38ac-4b39-a39c-eb9c7b63757f/99/image.jpg",
+      "caption": "Winter am Berg © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c138c10-e1c7-4bd5-93f6-02e2f42936f6/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/55127297-a04e-43b6-8f4b-631e9d2e40a4/99/image.jpg",
+      "caption": "Zillertaler Jause © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a8f0e04-0294-45dc-95aa-e331ad23525c/99/image.jpg",
+      "caption": "Klettersteig © Bernd Ritschel"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1628236375566",
+    "longitude": "11.8619030714035"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Zimmer mit Du/WC und Balkon, Kabel-TV (Panoramabild)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "47.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Zimmer mit Dusche/Bad/WC und Balkon, Kabel-TV (Panoramabild)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "27.00",
+          "maxPrice": "41.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC",
+      "description": "Zimmer mit Dusche/Bad/WC und Balkon, Kabel-TV (Panoramabild)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

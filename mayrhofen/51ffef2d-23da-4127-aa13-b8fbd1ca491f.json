@@ -1,0 +1,109 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "Landform",
+    "FoodEstablishment"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Alte Kotahornalm 1624m"
+    },
+    {
+      "@language": "de",
+      "@value": "Alte Kotahornalm 1624m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Alte Kotahornalm 1624m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1940185530201",
+    "longitude": "11.9078198075294"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alte Kotahornalm",
+    "streetAddress": "Ramsberg",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 2309"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Inmitten der Zillertaler Bergwelt auf 1630m Höhe liegt die über 400 Jahre alte Kotahornalm.\nMan sieht der urigen Hütte deutlich an, daß sie über Jahrhunderte den stark wechselnden Witterungseinflüssen\ngetrotzt hat, die sonnenverbrannte Holzschalung hält dennoch Wind und Wetter stand.\nUnverfälscht und echt wie die majestätischen Gletscherriesen, auf die sich ein herrlicher Ausblick bietet,\nist die Hütte ein beliebtes Ausflugsziel für Wanderer und Mountainbiker.\nDie alte Kotahornalm ist von Pfingsten bis Ende Oktober geöffnet und einen Einkehrschwung wert,\nauch Busgruppen und Vereine sind uns nach Voranmeldung herzlich willkommen! (ca. 20minütiger, einfacher Fußmarsch auf nur leicht an- und absteigendem Weg nötig!)\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\ngeschlossen\n\nkeine Übernachtung möglich "
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nclosed \n\nno overnight stay possible "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d44af2d-6be9-45fd-a054-ff19cb946450/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Kotahornalm"
+        },
+        {
+          "@language": "de",
+          "@value": "Kotahornalm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kotahornalm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7b95b93c-c36f-4b1c-b38f-d8cb9e1ce540/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Kotahornalm2"
+        },
+        {
+          "@language": "de",
+          "@value": "Kotahornalm2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kotahornalm2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/41773ba9-3f8a-4319-bcdc-e3aebf34af1b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Terrasse"
+        },
+        {
+          "@language": "de",
+          "@value": "Terrasse"
+        },
+        {
+          "@language": "ru",
+          "@value": "Terrasse"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.kotahorn.at"
+  ]
+}

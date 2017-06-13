@@ -1,0 +1,66 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub",
+    "CafeOrCoffeeShop"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Funky\u0027s"
+    },
+    {
+      "@language": "de",
+      "@value": "Funky\u0027s"
+    },
+    {
+      "@language": "ru",
+      "@value": "Funky\u0027s"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1661888",
+    "longitude": "11.86528"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Funky\u0027s",
+    "streetAddress": "Scheulingstraße 371",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5587055",
+    "email": "info@funkys.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Funky\u0027s ist ein Cafe, Bar und Restaurant in zentraler Lage in Mayrhofen. Vielseitige Karte mit sehr guten Drinks und einer Auswahl an vegetarischen und klassischen Gerichten. Die Stars sind aber ganz klar die Drinks!!!\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Funky’s is the place to chill in Mayrhofen! Drop by for a yummy pizza, one of our delicious pastas or our famous kebabs after a day on the piste Our relaxed atmosphere and funky tunes will have you in chill mode in no time. Funky food, funky drinks, funky friends.  Free WiFi and no hassels.\n\nSee you soon!"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a83bf28-3a80-4824-8b62-150a0ede6a81/99/image.bmp",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Funky\u0027s"
+        },
+        {
+          "@language": "de",
+          "@value": "Funky\u0027s"
+        },
+        {
+          "@language": "ru",
+          "@value": "Funky\u0027s"
+        }
+      ]
+    }
+  ]
+}

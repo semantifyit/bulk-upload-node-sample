@@ -1,0 +1,85 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.blumen-sandhofer.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dD3364652-E327-4B00-ADBC-96D76E84F7B6"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sandhofer, Appartements",
+    "streetAddress": "Scheulingstraße 389",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62367",
+    "faxNumber": "0043 5285 63784",
+    "email": "sandhofer.h@aon.at",
+    "url": "http://www.appartement-sandhofer.at"
+  },
+  "name": "Appartements Sandhofer",
+  "description": [
+    "Unser Haus liegt direkt im Herzen von Mayrhofen. Sie müssen einfach nur Ihr Fahrzeug bei uns parken und schon liegt Ihnen unser Urlaubsparadies zu Füßen. Ob im Sommer oder im Winter - alles in Ihrer Nähe. (Gondelbahn, Erlebnisbad, Nightlife, Supermarkt etc.) Mehr unter --- www.blumen-sandhofer.at ---\n",
+    "Inklusive: Ortstaxe, Heizung, Strom, Wasser, Gitterbettchen, Kinderrodel evtl. noch weitere Spiel- und Kindersachen zum Ausleihen, Bett- und Tischwäsche\nExklusive: Endreinigung",
+    "Check in: / Check out: auf Anfrage.\nA12 Autobahn, Abfahrt Zillertal, B169 Bundesstraße, Einfahrt Mayrhofen Mitte, an der Post vorbei, über Kreuzung  und erste Straße rechts einbiegen. Sie stehen nach ca. 100m direkt vor unserem Haus."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a622dcc7-8d5b-4587-9ec3-4374c8d360f3/99/image.jpg",
+      "caption": "Haus Sandhofer Mayrhofen - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1656065005829",
+    "longitude": "11.8632978200912"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Gemütliche Küche mit Tv, Mikrowelle, Waschmaschine, Couchliege; 2 Doppelzimmer, Zustellbett möglich",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ahornspitz/Appartement/2 Schlafräume/Dus",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 4 oder mehr Schlafräume",
+      "description": "Küche mit Mikrowelle, Kaffemaschine, etc. Gemütliche Stube mit TV; 2 Doppelzimmer \u0026 2 Einzelzimmer, Bad mit Dusche und Badewanne.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Grünberg/Ap./4 od. mehr Schlafräume/Bad,",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

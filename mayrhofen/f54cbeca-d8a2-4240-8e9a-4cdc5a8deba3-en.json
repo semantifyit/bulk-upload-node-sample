@@ -1,0 +1,91 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dF54CBECA-D8A2-4240-8E9A-4CDC5A8DEBA3"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Stillupperhaus, Gasthaus",
+    "streetAddress": "Stillup 955",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62496",
+    "faxNumber": "0043 5285 62496",
+    "email": "info@stillupperhaus.at",
+    "url": "http://www.stillupperhaus.at"
+  },
+  "name": "Gasthaus Stillupperhaus",
+  "description": [
+    "Comfortable guest house situated in the beautiful Stilluptal. Only open in summer (from the beginning of May until the end of October).",
+    "Price includes half board and local taxes.  Children\u0027s reductions on request.",
+    "Drive in to Einfahrt Mitte in Mayrhofen, turn right at the first junction. up the high street until the bridge, turn left, drive past the Ahorn lift in to the Stilluptal valley."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/534ee205-9d08-4044-8304-25f9a645e47b/99/image.jpg",
+      "caption": "Gasthaus Stillupperhaus Mayrhofen - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d7f8886-fc62-4a20-9f89-ab73a839a445/99/image.jpg",
+      "caption": "Gasthaus Stillupperhaus - Frühstücksbuffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ddad745-f24e-4057-9af7-d182cf0af04d/99/image.jpg",
+      "caption": "Gasthaus Stillupperhaus - Gaststube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4317e14d-407d-45e0-8f03-bac7fdfcfe3c/99/image.jpg",
+      "caption": "Gasthaus Stillupperhaus - Gaststube2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e595043e-0f1f-46f1-bf71-ecc94809e0d5/99/image.jpg",
+      "caption": "Gasthaus Stillupperhaus - Gaststube3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5a1cc2d6-c271-4285-b9ed-68ed0eb1ccb4/99/image.jpg",
+      "caption": "Gasthaus Stillupperhaus - Gaststube4"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0952388817505",
+    "longitude": "11.900714635849"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, running hot/cold water",
+      "description": "Comfortable rooms with shared shower facilities.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with running hot/cold water",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

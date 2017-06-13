@@ -1,0 +1,313 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.koesslerhof-hippach.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d2C727DE8-1C3B-4DBD-A9B4-E9C299CFACBC"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kösslerhof",
+    "streetAddress": "Laimach 174",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2818",
+    "faxNumber": " ",
+    "email": "f-trojer@aon.at",
+    "url": "www.koesslerhof-hippach.at"
+  },
+  "name": "Kösslerhof",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt im Tal in einer ruhigen unverbauten zentralen Lage umgeben von Wiesen und Feldern. Alle Appartements mit herrlichem Ausblick auf die Zillertaler Berge verfügen über einen großen Balkon. Weiters steht Ihnen eine Grillhütte mit Elektrogriller zur Verfügung. Die großen Skigebiete sowie Sportplatz und Schwimmbad sind mit dem Auto in 3 bis 5 Minuten erreichbar. Ein Kinderspielplatz liegt in unmittelbarer Nähe."
+    },
+    {
+      "@language": "en",
+      "@value": "Quit, central an unspoil south-facing position with magnicificent view, sunbathing lawn, barbecue cabin, large car park, satellite TV, own mountain hut"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84d12e70-24e1-474c-9190-38b4761a2eba/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kösslerhof Hippach - Winter 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Kösslerhof Hippach - Winter 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kösslerhof Hippach - Winter 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa456099-d0bd-4530-b92f-62a6ec9a029c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kösslerhof Hippach - Winter 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Kösslerhof Hippach - Winter 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kösslerhof Hippach - Winter 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/198718d0-7982-4f0e-bf5a-f7a87b61378a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kösslerhof Hippach - Winter 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Kösslerhof Hippach - Winter 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kösslerhof Hippach - Winter 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/feb90b89-13ab-41d5-8932-693fa894c1a7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kösslerhof Hippach - Winter 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Kösslerhof Hippach - Winter 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kösslerhof Hippach - Winter 4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/06d2d4fe-bcf3-4a9c-bd09-4348ad3bc200/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kösslerhof Hippach - Sommer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Kösslerhof Hippach - Sommer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kösslerhof Hippach - Sommer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa46f53f-002a-45e4-beaf-16602b2523f0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kösslerhof Hippach - Sommer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Kösslerhof Hippach - Sommer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kösslerhof Hippach - Sommer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f122052d-27de-474f-818b-42914beb2958/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kösslerhof Hippach - Garten"
+        },
+        {
+          "@language": "en",
+          "@value": "Kösslerhof Hippach - Garten"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kösslerhof Hippach - Garten"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2194296605519",
+    "longitude": "11.86667740345"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung in rustikaler Massivholzausstattung mit Balkon, Sat-TV, Bettwäsche und Handtücher"
+        },
+        {
+          "@language": "en",
+          "@value": "Holiday appartement in rustic-style timber design with balcony, satellite TV, bed linen an hand towels"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/1 Schlafraum/Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung in rustikaler Massivholzausstattung mit Balkon alle Schlafzimmer mit eigener DU/WC, Sat-TV, Bettwäsche und Handtücher"
+        },
+        {
+          "@language": "en",
+          "@value": "Holiday appartement in rustic-style timber design with balcony, satellite TV, bed linen and hand towels"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/3 Schlafräume/Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/3 bedrooms/bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "84.00",
+          "maxPrice": "84.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

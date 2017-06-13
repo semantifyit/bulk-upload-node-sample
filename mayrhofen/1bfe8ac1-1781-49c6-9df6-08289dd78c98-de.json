@@ -1,0 +1,250 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://members.aon.at/gaestehaussteinberger",
+    "http://maps.mayrhofen.at/?foreignResource\u003d1BFE8AC1-1781-49C6-9DF6-08289DD78C98"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendberg 452",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3107",
+    "email": "marthasteinberger@hotmail.com",
+    "url": "http://www.members.aon.at/gaestehaussteinberger/"
+  },
+  "name": "Steinberger Martha",
+  "description": [
+    "Unser Haus liegt in sonniger Lage an der Zillertaler Höhenstraße mit herrlichem Rundblick auf die Berge. Aufenthaltsraum mit TV und Kochgelegenheit! Die Skibushaltestelle befindet sich neben dem Haus. Der Skibus bringt Sie direkt ins Skigebiet der Mayrhofner Bergbahnen.\n\nDie Doppelzimmer können auch ohne Frühstück gebucht werden.\nEin Aufenthaltsraum mit Küche steht zur Verfügung. \n\n W-Lan Netz im gesamten Haus kostenlos!",
+    "W-Lan im Haus",
+    "Check in 12.00 Uhr - Check out 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9e9fa35-b50a-4604-9f18-5b66f276e0f8/99/image.jpg",
+      "caption": "Steinberger Martha Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/83d3be58-9893-4f61-a38f-c0b517769504/99/image.jpg",
+      "caption": "Steinberger Martha Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/116144ce-846e-42e1-840a-be28f4ae457d/99/image.jpg",
+      "caption": "Steinberger Martha Hippach - Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16888189-0570-40af-b95b-a7a4f69890a3/99/image.jpg",
+      "caption": "Steinberger Martha Hippach - Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/49d38e33-fd1b-4fb5-9ce0-ebeb28558acc/99/image.jpg",
+      "caption": "Fr_hst_ck"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/992d2755-4bdf-4374-87b9-4baa94a399aa/99/image.jpg",
+      "caption": "K_che"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0eb978a7-b533-4a12-8844-cc0c3faff297/99/image.jpg",
+      "caption": "Fr_hst_cksraum1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae43bfc9-1345-4740-b2c7-1c0c427c1a76/99/image.jpg",
+      "caption": "Bike_Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae3b1c09-c758-4d5e-a99c-2faf60a56e96/99/image.jpg",
+      "caption": "herbst_wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a42d984-84ab-475a-a3ab-91f78a5d7f0d/99/image.jpg",
+      "caption": "Hintertuxergletscher"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f838379-2389-4414-a0e1-09fa6c040dc5/99/image.jpg",
+      "caption": "Langlaufen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/598ad11c-e662-4744-882d-2ab8a168a040/99/image.jpg",
+      "caption": "harakiri"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cb856753-8fef-4ef0-b8d1-82db256bc21e/99/image.jpg",
+      "caption": "Zimmer3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.207018541889",
+    "longitude": "11.8527674674988"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer mit DU/WC, Aufenthaltsraum mit Kochgelegenheit!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "26.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "24.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "gemütlich eingerichtete Ferienwohnung  ( 42m2) für 2- 4 Personen mit Doppelzimmer, Badezimmer mit Dusche und WC, Vorraum mit Garderobe, 1 Wohnküche mit Schlafmöglichkeit (Doppelcouch). Die Küchenzeile ist gut ausgestattet mit Ceranfeld, Backrohr, Kühlschrank mit Gefriermöglichkeit, Microwelle, Spülmaschine. Sat-TV-Anlage.Eigener Eingang mit Terrasse, Liegewiese und Gartenmöbel\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement BARBARA",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "65.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "neu renovierte Ferienwohnung im Dachgeschoss mit \"Dachschräge\".\nca. 70m2 für 2 - 5 Personen \nbestehend aus 1 Doppelzimmer, 1 Einzelzimmer, Badezimmer mit Badewanne und Dusche, 1 WC seperat, 1 Vorraum mit Garderobe, 1 Küche mit bestausgestattetem Echtholz - Küchenblock ( Ceranfeld, Backrohr, Mikrowelle, Kühlschrank, Spülmaschine,  Holzherd mit Brennholz zum Einheizen, gemütliche Sitzecke mit  ausziehbarem Esstisch, 1 Wohnizmmer mit Doppelcouch  und SAT-TV-Anlage, 1 Abstellraum und Balkon!\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement MATTHIAS",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

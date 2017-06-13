@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "DanceEvent"
+  ],
+  "name": "Zillertaler Mander Festival 2017",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Zillertaler Mander ",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Christian",
+      "familyName": "Fankhauser"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dornau 354",
+      "addressLocality": "Finkenberg",
+      "postalCode": "6292",
+      "addressCountry": "AT",
+      "telephone": "(0043) 664 4540738",
+      "faxNumber": "(0043) 5286 5295 ",
+      "email": "info@zillertaler-mander.at",
+      "url": "http://www.zillertaler-mander.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Zillertaler Mander ",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dornau 354",
+      "addressLocality": "Finkenberg",
+      "postalCode": "6292",
+      "addressCountry": "AT",
+      "telephone": "(0043) 664 4540738",
+      "faxNumber": "(0043) 5286 5295 ",
+      "email": "info@zillertaler-mander.at",
+      "url": "http://www.zillertaler-mander.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/704dd678-5e72-4031-a69f-07300ab5b09a/99/image.jpg",
+      "caption": "Zillertaler Mander"
+    }
+  ],
+  "url": [
+    "http://www.mayrhofen.at/shop/"
+  ],
+  "startDate": "2017-07-20T00:00:00",
+  "endDate": "2017-07-23"
+}

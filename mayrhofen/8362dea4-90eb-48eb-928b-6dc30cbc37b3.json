@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Jagen - Hubers Urlaubsdomizile"
+    },
+    {
+      "@language": "de",
+      "@value": "Jagen - Hubers Urlaubsdomizile"
+    },
+    {
+      "@language": "ru",
+      "@value": "Jagen - Hubers Urlaubsdomizile"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.164815",
+    "longitude": "11.8589331000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Edergasse 518",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63431",
+    "email": "info@huber-domizile.com",
+    "url": "http://ww.huber-domizile.com"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Verbinden Sie Ihren wohlverdienten Urlaub mit einem schönen Jagderlebnis. Unser 2500ha großes Jagdrevier befindet sich in einem Seitental, dem Hundskehlgrund. \nHier haben Sie die Möglichkeit im wildromantischen Zillergrund auf die Pirsch zu gehen.\n\nErleben Sie heimisches Wild in freier Natur!\n*Reh \n*Gams \n*Murmeltier "
+    },
+    {
+      "@language": "en",
+      "@value": "Our 2500 hectare big hunting area is located in a side-valley, called the \"Hundskehlgrund\". Here you have the posibility to go hunting in the wild an romantic \"Zillergrund\"."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf346ef6-c23b-4c9d-a7e9-93759216aaa4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Hubers Urlaubsdomizile "
+        },
+        {
+          "@language": "de",
+          "@value": "Hubers Urlaubsdomizile "
+        },
+        {
+          "@language": "ru",
+          "@value": "Hubers Urlaubsdomizile "
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

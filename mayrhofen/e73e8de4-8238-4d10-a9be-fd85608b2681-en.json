@@ -1,0 +1,295 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.tiscover.com/alpenrose.mayrhofen",
+    "http://maps.mayrhofen.at/?foreignResource\u003dE73E8DE4-8238-4D10-A9BE-FD85608B2681"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Alpenrose",
+    "streetAddress": "Wiesl 463",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 (0)5285 62219",
+    "faxNumber": "+43 (0)5285 63029",
+    "email": "ute.hotter@aon.at",
+    "url": "http://www.tiscover.com/alpenrose.mayrhofen"
+  },
+  "name": "Landhaus Alpenrose",
+  "description": [
+    "The Hotter family wishes you a warm welcome in their \"Landhaus Alpenrose\". Centrally, yet quietly situated, only a 2 minute walk from the centre of town, the adventure swimming pool, bus stops and shops. Relax on a deck chair in our garden, and feel at home in one of our well equipped, tastefully furnished holiday apartments with big balconys facing south.\n",
+    "Children\u0027s discounts: 0-5 years old free. Final cleaning charge Euro 42.00 - 56.00",
+    "Check in:14.00hr, check out: 09.00hr.\nDrive in to Mayrhofen at the \"Einfahrt Mitte\", past the post office and then turn right up the main street until the Action Club Zillertal on the right side.\nNow turn up right into the Wieselweg."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "20"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4595f488-7cca-4c5e-a668-c9d091a43bb8/99/image.jpg",
+      "caption": "Landhaus Alpenrose Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b492d205-a12d-4294-9b32-8d894ea9759d/99/image.jpg",
+      "caption": "Landhaus Alpenrose Mayrhofen - Haupthaus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2eaf1ec-4e43-450b-854c-17a703a17fcc/99/image.jpg",
+      "caption": "Landhaus Alpenrose Mayrhofen - Anbau Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76f3c986-09d3-4036-8992-c671fbf51b74/99/image.jpg",
+      "caption": "Landhaus Alpenrose Mayrhofen - Blick vom Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/139e3d95-6566-4145-afa8-4d3b105f02ee/99/image.jpg",
+      "caption": "Landhaus Alpenrose Mayrhofen - Blick vom Balkon1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1649755365558",
+    "longitude": "11.8608033657074"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet, 1 bed room",
+      "description": "50m² (newer house), downstairs, lobby with entrance hall, 1 bedroom, lounge with dining and seating area (double sofa bed), cable - (flatscreen)TV, separate kitchen with dishwasher, electric stove with 4 plates (no oven), micowave, coffee machine, kettle, toaster, bathroom with bath, shower, WC, and one separate WC, south facing terrace/balcony. Internet (WI-FI) for free.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/1 bedroom/shower, bath tube,WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "86.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet, 1 bed room",
+      "description": "ca 50m2 (newer house), 1. floor, lobby with entrance hall, 1 bedroom, lounge with dining and seating area (double bed sofa), cable - (flatscreen) TV, fully equipped separate kitchen with dishwasher, electric stove with 4 plates (no oven), microwave, coffee machine, kettle, toaster, bathroom with bath, shower, WC and one separate WC, south facing balcony. Internet (WiFi) for free.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower and bath, toilet, 1 bed room",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "91.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 3 bed rooms",
+      "description": "Complete top floor, entrance hall with cloakroom, 1 double bedroom, 1 bedroom for 2-4 persons (1 double bed / 1 double bed sofa separated by a curtain) each with shower / WC / flatscreen (cable) TV, 1 single bedroom with hand basin, 1 separate WC, lounge/kitchen with a pleasant seating area and flatscreen (cable) TV, kitchen equipped with dishwasher, electric stove with 4 plates (no oven), microwave, coffee machine, kettle, toaster, large south facing balcony. Internet (WiFi) for free.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/3 bedrooms/shower, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "66.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "76.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "86.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Approx. 65m², entrance hall with cloakroom, 1 double bedroom, 1 bedroom with 3 beds (1 double bed / 1 single bed) aeach with shower/ WC and flatscreen (cable)-TV, 1 separate WC, lounge with pleasant seating area and flatscreen (cable)-TV, kitchen equipped with dishwasher, electric stove with 4 plates (no oven), microwave, coffee machine, kettle, toaster. Big south facing balcony.  Internet (WI-FI) for free.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "122.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "58.00",
+          "maxPrice": "122.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "68.00",
+          "maxPrice": "122.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "78.00",
+          "maxPrice": "132.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Approx. 50m², entrance hall with cloakroom, 1 bedroom with shower/WC, 1 children\u0027s room with bunk beds and a hand basin and shower (no WC), lounge with dining area and seating, cable TV, separate kitchen, 3 balconies (north, west and south facing). Internet (WI-FI) for free.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

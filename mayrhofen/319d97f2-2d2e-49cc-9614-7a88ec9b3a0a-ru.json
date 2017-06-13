@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Hotel Neue Post",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2031554167195",
+    "longitude": "11.8646550178528"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Neue Post, Hotel",
+    "streetAddress": "Johann-Sponring-Straße 81",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2968",
+    "faxNumber": "0043 5282 264060",
+    "email": "info@neuepost.tv",
+    "url": "www.neuepost.tv"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76bf2e48-3489-4710-b61b-1d28e75c0bff/99/image.jpg",
+      "caption": "Neue Post Hippach"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e6513521-2c79-4cdf-a706-2720c43a1798/99/image.jpg",
+      "caption": "Hotel neue Post"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bb41e110-4089-46ca-8d64-f92c4efabcc8/99/image.jpg",
+      "caption": "Deluxe Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/840d19bd-c803-442d-93bf-9bbf5d8d3a11/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2b42c932-7e81-4c6c-b647-6c095bd590cf/99/image.jpg",
+      "caption": "Hallenbad"
+    }
+  ],
+  "url": [
+    "http://www.neuepost.tv"
+  ]
+}

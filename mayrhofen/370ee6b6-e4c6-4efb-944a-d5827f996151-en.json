@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Alpenrose 1875m - Zemmgrund",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0252791374949",
+    "longitude": "11.8014407157898"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Zemmgrund 281",
+    "addressLocality": "Ginzling",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5504520 ",
+    "email": "franzorgon@gmail.com",
+    "url": "www.alpenrose-zillertal.com"
+  },
+  "description": "Summer \n01. June 2017 \novernight stay possible 55 beds and 20 dormitories",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d3d324d-e979-4fc4-870c-a2358ffaeb90/99/image.jpg",
+      "caption": "Alpenrosenhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f50d2f6-d4d4-4e52-9913-8c4ae1785904/99/image.jpg",
+      "caption": "Alpenrosenhütte II"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/957e5ce1-655c-4b80-a7fc-f5c58bb8e0ee/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/511e60c8-3285-47c9-b62d-818301990437/99/image.jpg",
+      "caption": "Zimmer II"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d51474e7-60e1-4155-ab79-33171e2d4fff/99/image.jpg",
+      "caption": "Möseler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7e6cda5-24cf-4d50-99c6-5f37f7c8a72b/99/image.jpg",
+      "caption": "Schwarzenstein"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ecddcaa3-da42-4596-81e7-254b7c15b13f/99/image.jpg",
+      "caption": "Turnerkamp"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28828fd3-aec0-4b06-b740-0edfa7ca6dc6/99/image.jpg",
+      "caption": "Kühe auf der Weide"
+    }
+  ],
+  "url": [
+    "http://www.alpenrose-zillertal.com"
+  ]
+}

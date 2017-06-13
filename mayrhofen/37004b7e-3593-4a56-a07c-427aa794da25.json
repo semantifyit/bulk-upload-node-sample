@@ -1,0 +1,477 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel",
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.hotel-poell.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d37004B7E-3593-4A56-A07C-427AA794DA25"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pöll, Gästehaus",
+    "streetAddress": "Förstersteig 231",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "email": "marlenebp@icloud.com",
+    "url": "http://www.mpoell.at"
+  },
+  "name": "Gästehaus Pöll",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unsere Pension liegt im Herzen von Mayrhofen - ruhig und doch zentral ganz in der Nähe vom Europahaus (i). Nur im Winter geöffnet."
+    },
+    {
+      "@language": "de",
+      "@value": "Preise inklusive Ortstaxe und Frühstücksbuffet. Kinderermäßigung auf Anfrage. Hunde frei."
+    },
+    {
+      "@language": "de",
+      "@value": "Bei Mayrhofen Einfahrt Nord ausfahren, dann rechts abbiegen und bei der nächsten Kreuzung links den Hügel hoch, beim Europahaus vorbei, hinter dem Hotel Maria-Theresia rechts abbiegen und noch einige Meter geradeaus, das Hotel-Garni Pöll befindet sich auf der rechten Seite."
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated in the heart of Mayrhofen, quiet, yet central, and very close to the Europahaus. (i) Open only in winter."
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes local taxes and breakfast buffet. Children reduction. No charge made for dogs."
+    },
+    {
+      "@language": "en",
+      "@value": "Drive to Mayrhofen Einfahrt Nord (roundabout exit), turn right at next junction, and then first left, up the hill, past the Europahaus, turn right after the Hotel Maria- Theresia and then straight on for a few metres, the Hotel-Garni Pöll can be found on the right."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf66a10c-6bd6-4c12-809b-0ee358ad28df/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Pöll Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Pöll Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Pöll Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0748a0b5-4926-4196-ba16-f2e958ff0c36/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Pöll Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Pöll Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Pöll Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b082f1a-67cd-4a40-aa1e-f38c24f0c61e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Teil des Frühstücksbuffets"
+        },
+        {
+          "@language": "en",
+          "@value": "Teil des Frühstücksbuffets"
+        },
+        {
+          "@language": "ru",
+          "@value": "Teil des Frühstücksbuffets"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2531baa3-0b88-4c09-a275-22a5c1a4bb7f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Küchenabteil der Wohnung"
+        },
+        {
+          "@language": "en",
+          "@value": "Küchenabteil der Wohnung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Küchenabteil der Wohnung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/43ae4a5e-7462-4b3c-aa27-2b5596a6cbe7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Doppelzimmer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Doppelzimmer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cdd540ca-c9ac-4c4c-b112-af4edb012c12/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Doppelzimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Doppelzimmer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d368d380-e472-4e6e-bd7c-9d63ce81643f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ski-Trockenraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Ski-Trockenraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ski-Trockenraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd16aff5-92f3-4c24-92dc-9abe4cd08b4d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Frühstücksraum 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Frühstücksraum 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Frühstücksraum 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/989f6f67-22c8-45bc-807f-602ac16a4c59/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Frühstücksraum 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Frühstücksraum 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Frühstücksraum 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bebab274-d705-4019-9c91-ba1d2af4f96e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Frühstücksraum 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Frühstücksraum 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Frühstücksraum 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dc48e6a6-1e87-4a72-803b-49aac3a35b6b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Frühstücksraum 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Frühstücksraum 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Frühstücksraum 4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0965f8a-48c1-4b28-9d0f-3690ccf417a5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Eingangsbereich 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Eingangsbereich 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Eingangsbereich 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/499d98f8-88d0-4537-a8c6-06105970baa6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Eingangsbereich 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Eingangsbereich 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Eingangsbereich 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9ca3f56b-540a-4de9-b1da-51b3d385d1aa/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Rezeption"
+        },
+        {
+          "@language": "en",
+          "@value": "Rezeption"
+        },
+        {
+          "@language": "ru",
+          "@value": "Rezeption"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1676160528261",
+    "longitude": "11.8669402599335"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Alle Zimmer sind mit Dusche,WC,Balkon und Kabel - TV ausgestattet. Bis zu 30% Aufschlag bei Kurzaufenthalt."
+        },
+        {
+          "@language": "en",
+          "@value": "All rooms are furnished with shower/WC, and cable TV. Up to a 30% additional charge made for short stays."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Alle Zimmer sind mit Bad, WC, Balkon und Kabel-TV ausgestattet. Aufschlag bei Kurzaufenthalt bis zu 30%."
+        },
+        {
+          "@language": "en",
+          "@value": "All rooms are furnished with bath/WC, balcony and cable TV. Additional charge of up to 30% made for short stays."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Dreibettzimmer mit Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "triple room with bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "3-местный номер, ванна, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, душ, туалет"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Single room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "отдельный номер, shower, toilet"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

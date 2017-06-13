@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dEF6960A3-AB0D-48D6-A1C4-7F3DC5622B58"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Laura, Appartments",
+    "streetAddress": "Breitlahneweg 296",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62565",
+    "email": "appartementlaura@aon.at "
+  },
+  "name": "Appartments Laura",
+  "description": [
+    "Das Appartmenthaus liegt herrlich ruhig, aber nur wenige Gehminuten vom Zentrum von Mayrhofen entfernt. Ruhige, sonnige Lage, in Gehweite zu Einkaufsmöglichkeiten und Restaurants.",
+    "Kaution: Euro 30,00 pro Person \nCheck in: 15.00 Uhr\nCheck out: 10.00 Uhr\nKinderbetten auf Anfrage - kostenlos\nHaustiere erlaubt, € 5,00 pro Tag ohne Futter\nBrötchenservice möglich",
+    "Anreisebeschreibung zum Ort:\nVon München kommend über die Autobahn A8 beim Intaldreieck Richtung Innsbruck weiter auf die A12 bis zur Ausfahrt Wiesing/Zillertal. Durch den Brettfalltunnel auf die B169 Richtung Mayrhofen ca. 35km gerade aus bis zum Kreisverkehr in Mayrhofen.\n\nAnreisebschreibung vom Ort zur Unterkunft:\nbeim Kreisverkehr links Richtung Zentrum - danach rechts - danach links beim Hotel Berghof - bei der nächsten Gabelung rechts - am Haus Montana vorbei - nach 100m liegen links die Appartments Laura"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2edda7ec-687f-4d9a-9101-4555b0c76d6e/99/image.jpg",
+      "caption": "Appartments Laura Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/95c65a9b-6758-473f-ac91-3ddd98b69135/99/image.jpg",
+      "caption": "Appartments Laura Mayrhofen - Schlafzimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1660186291092",
+    "longitude": "11.871178150177"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Die freundich ausgestattete Wohnung im 1. Stock verfügt über ein Vorraum mit Küchenecke mit 4 Herdplatten, Wasslerkocher, Mikrowelle, Kafeemaschine mit Kühlschrank. Weiters ein Badezimmer mit Dusche, separates WC, Wohnzimmer mit Esstisch für 8 Personen und Doppelcouch + Einzelbett, 2 Schlafzimmer mit Doppelbett. Kabel-TV mit Kanal RTL 4. Diese Wohnung verfügt auch über einen sonnigen Balkon. die durchschnittliche Wohnfläche beträgt ca. 41m². Belegung: minimal 2 Personen maximal 8 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement für 4 - 7 Personen",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

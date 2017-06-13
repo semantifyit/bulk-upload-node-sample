@@ -1,0 +1,202 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.traum-ferienwohnungen.de/3733.htm",
+    "http://maps.mayrhofen.at/?foreignResource\u003dAD758D7A-13ED-4421-9B1F-3582D49AE693"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Dornegg, Haus",
+    "streetAddress": "Leiten 228a",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 9962465",
+    "email": "egge2@gmx.net",
+    "url": "www.traum-ferienwohnungen.de/3733.htm"
+  },
+  "name": "Haus Dornegg",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/561df3ef-246f-423a-9586-7a7481b9fc54/99/image.jpg",
+      "caption": "Haus Dornegg Schwendau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/00a92c65-76d2-4ef3-9d59-542269d8a030/99/image.jpg",
+      "caption": "Haus Dornegg Schwendau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59a73f1b-27da-4f9a-984f-ff865df8d271/99/image.jpg",
+      "caption": "Haus Dornegg Schwendau - Blick Richtung Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3dd63a1a-bd26-4b87-8c53-3b1377297d6a/99/image.jpg",
+      "caption": "Haus Dornegg Schwendau - Winterimpression"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1d6c90cc-d06e-4416-a591-2af3598a6f03/99/image.jpg",
+      "caption": "Haus Dornegg Schwendau - Winterblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/87dabfce-6410-4583-a04f-5398c316bed3/99/image.jpg",
+      "caption": "Haus Dornegg Schwendau - winter1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2321ed6-e93c-43de-8c07-912c850a1376/99/image.jpg",
+      "caption": "Weg zum Pfitscherjoch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a4cd5f3-320e-42bc-96fc-d4f519be7c2f/99/image.jpg",
+      "caption": "Sommer in den Bergen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/67dc233c-a0d4-4dff-8a4c-259216442eb3/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/de63044a-0aff-4247-93af-27c683aacf71/99/image.jpg",
+      "caption": "20160224_141022"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1112cb1b-c57a-4aec-9eac-6659c29a73d2/99/image.jpg",
+      "caption": "20160224_135707"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c093903c-922f-4348-ad2a-f0387c4e2875/99/image.jpg",
+      "caption": "20160304_084454"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28e60994-3c55-4ade-bdde-783c17553d32/99/image.jpg",
+      "caption": "20160317_112352"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5244ddce-a7d8-4224-88b8-aee98e4c818c/99/image.jpg",
+      "caption": "20160317_112359"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1989493926649",
+    "longitude": "11.8550205230713"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ и ванна, туалет, три спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ и ванна, туалет, три спальни",
+          "numberOfRooms": "8.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "245.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "125.00",
+          "maxPrice": "245.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "150.00",
+          "maxPrice": "245.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "175.00",
+          "maxPrice": "245.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, одна спальня",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, одна спальня",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

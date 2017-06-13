@@ -1,0 +1,295 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.tiscover.com/alpenrose.mayrhofen",
+    "http://maps.mayrhofen.at/?foreignResource\u003dE73E8DE4-8238-4D10-A9BE-FD85608B2681"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Alpenrose",
+    "streetAddress": "Wiesl 463",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 (0)5285 62219",
+    "faxNumber": "+43 (0)5285 63029",
+    "email": "ute.hotter@aon.at",
+    "url": "http://www.tiscover.com/alpenrose.mayrhofen"
+  },
+  "name": "Landhaus Alpenrose",
+  "description": [
+    "Gemütlich und zentral wohnen - Grüß Gott und herzlich willkommen bei Familie Hotter im \"Landhaus Alpenrose\". Unser Haus ist zentral, jedoch ruhig gelegen, nur 2 Gehminuten zum Ortszentrum sowie zur Penkenbahn (200m). Ahornbahn, Erlebnisbad, Bushaltestellen (Gletscher), Geschäfte und Unterhaltung in unmittelbarer Nähe. Der Garten mit Liegestühlen lädt zum Ausspannen ein. In unseren behaglich eingerichteten  Ferienwohnungen mit guter Ausstattung und großen Südbalkonen werden Sie sich gleich wohlfühlen - ein erholsamer Urlaub kann beginnen.\n",
+    "Kinderermäßigung 0-5 Jahre gratis. Endreinigung Euro 42.00 - 56.00",
+    "Check-In: 14:00 Uhr, Check-Out: 9:00 Uhr.\nÜber die Einfahrt Mitte an der Post vorbei und dann nach rechts auf die Hauptstrasse abbiegen. Diese fahren Sie dann hinauf bis zum Action Club Zillertal auf der rechten Seite, danach gleich rechts abbiegen."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "20"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4595f488-7cca-4c5e-a668-c9d091a43bb8/99/image.jpg",
+      "caption": "Landhaus Alpenrose Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b492d205-a12d-4294-9b32-8d894ea9759d/99/image.jpg",
+      "caption": "Landhaus Alpenrose Mayrhofen - Haupthaus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2eaf1ec-4e43-450b-854c-17a703a17fcc/99/image.jpg",
+      "caption": "Landhaus Alpenrose Mayrhofen - Anbau Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76f3c986-09d3-4036-8992-c671fbf51b74/99/image.jpg",
+      "caption": "Landhaus Alpenrose Mayrhofen - Blick vom Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/139e3d95-6566-4145-afa8-4d3b105f02ee/99/image.jpg",
+      "caption": "Landhaus Alpenrose Mayrhofen - Blick vom Balkon1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1649755365558",
+    "longitude": "11.8608033657074"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "ca. 50m² (Anbau) Parterre, Vorraum mit Garderobe, 1 Schlafzimmer, Wohnzimmer mit Essecke und Couch (ausziehbar zum Doppelbett), Kabel-(Flatscreen)TV, voll eingerichtete separate Küche mit Geschirrspüler, E-Herd mit 4 Platten (kein Backrohr), Mikrowelle, Kaffeemaschine, Wasserkocher, Toaster, Bad mit Wanne, Dusche, WC sowie ein separates WC, Terrasse / Balkon (Süden). Gratis Internet über W-Lan.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "86.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "ca. 50m\" (Anbau), 1. Stock, Vorraum mit Garderobe, 1 Schlafzimmer, Wohnzimmer mit Essecke und Couch (ausziehbar zum Doppelbett), Kabel- (Flatscreen) TV, voll eingerichtete separate Küche mit Geschirrspüler, E-Herd mit 4 Platten (kein Backrohr), Mikrowelle, Kaffeemaschine, Wasserkocher, Toaster, Bad mit Wanne, Dusche, WC, sowie ein separates WC, Balkon (Süden). Gratis Internet über W-Lan.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "91.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Komplette obere Etage, Vorraum mit Garderobe, 1 Schlafzimmer mit DU/WC für 2 Personen, 1 Schlafzimmer mit DU/WC für 2-4 Personen (1x Doppelbett, 1x Doppelausziehcouch)und (Flat)TV, 1 Einzel-Schlafzimmer mit Waschbecken, 1 separates WC, Wohnküche mit gemütlicher Eckbank und Kabel-(Flat)TV, Küche voll eingerichtet mit Geschirrspüler, E-Herd mit 4 Platten (kein Backrohr), Mikrowelle, Kaffeemaschine, Wasserkocher, Toaster. Großer Balkon (Süden). Gratis Internet über W-Lan. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "66.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "76.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "86.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Ca. 65m², Vorraum mit Garderobe, 1 Doppelbett-Schlafzimmer und 1 Dreibett-Schlafzimmer (1x Doppelbett / 1x Einzelbett) jeweils mit DU/WC und Flatscreen (Kabel)-TV, 1 separates WC, Wohnküche mit gemütlicher Eckbank und Flatscreen (Kabel)-TV, Küche ausgestattet mit Geschirrspüler, E-Herd mit 4 Platten (kein Backrohr), Mikrowelle, Kaffeemaschine, Wasserkocher, Toaster. Großer Balkon (Süden). Gratis Internet über W-Lan. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "122.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "58.00",
+          "maxPrice": "122.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "68.00",
+          "maxPrice": "122.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "78.00",
+          "maxPrice": "132.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "ca. 50m², Vorraum mit Garderobe, 1 Schlafzimmer, Bad mit DU/WC, 1 kleines Schlafzimmer mit Etagenbett und Waschbecken/Dusche (kein WC), Wohnzimmer mit Essecke sowie Sitzgarnitur und Kabel-(Flatscreen)TV, voll eingerichtete separate Küche mit Geschirrspüler, E-Herd mit 4 Platten (kein Backrohr), Mikrowelle, Kaffeemaschine, Wasserkocher, Toaster, 3 Balkone (Norden, Osten, Süden).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

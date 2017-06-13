@@ -1,0 +1,188 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dECBFEC0B-E9D6-4D40-806B-8A9A7BE588E2"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Eckartau 8b",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62987",
+    "email": "info@apart-magdalena.at",
+    "url": "http://www.apart-magdalena.at"
+  },
+  "name": "Apart Magdalena",
+  "description": [
+    "Das Haus wurde im Jahr 2013 neu erbaut und wurde liebevoll im ländlich modernem Stil eingerichtet.Die Wohnung hat 1-2 Schlafzimmer, großzügige Wohnküche,Badezimmer mit Dusche, Waschtisch,Fön und WC\nDie Wohnküche ist voll ausgestattet mit Cerankochfeld, Backofen, Geschirrspüler, Mikrowelle, Kaffeemaschine und Wasserkocher eingerichtet.\nBequeme Coutch ,großer Flat-TV ,gratis W-LAN\nDie Schlafzimmer sind mit Holzmöbeln eingerichtet und verleihen den Zimmern eine warme Atmosphäre.\n\nIn der gesamten Wohnung befindet sich eine Fußbodenheizung.Großzügige sonnige Terrasse",
+    "Die Wohnung liegt im Ortsteil Eckartau 5 Autominuten vom Ortszentrum Mayrhofen entfernt, vor dem Haus befindet sich die Bushaltestelle von der aus sie in wenigen Minuten in 3 verschiedenen Skigebieten sind.\nNächste Gaststätte 50m entfernt."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "10"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6aa3a9b-17c5-455f-bad0-d5a8ac7506f2/99/image.jpg",
+      "caption": "Apart Magdalena Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/20f00601-6228-4947-8dc0-c9cc0e2f41b5/99/image.jpg",
+      "caption": "Apart Magdalena Mayrhofen - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ce0e4a9c-36cc-40f2-a0c0-bdda40fec862/99/image.jpg",
+      "caption": "Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1aa50a76-89b5-4d7e-bd7b-9a0ac92fe668/99/image.jpg",
+      "caption": "Wohnküche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b53dc27a-1002-479c-8287-083f180ab06d/99/image.jpg",
+      "caption": "Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/958b9078-eb55-4921-a792-3181b67a8d13/99/image.jpg",
+      "caption": "Bergsteigen © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1b44584-05f1-4b1f-8565-a7c777340bf1/99/image.jpg",
+      "caption": "Wandern am Stausee © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/29ede56a-96b7-4b4c-9f0c-e50f8037ced3/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ce9b85cb-0f9e-436c-9157-c161404f434d/99/image.jpg",
+      "caption": "Skifahren © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a6cc5dc-4f86-4349-97ed-be9e55028c95/99/image.jpg",
+      "caption": "Spaß im Schnee © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/82af0407-8ed4-4703-b0d2-2692f1099851/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fc76e5cc-4465-4393-83b5-4955a35c99a9/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3e5ac2fb-db62-43d4-890d-832e46d80b1b/99/image.jpg",
+      "caption": "Winter am Berg © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13e6c857-dc81-49bd-aee9-42d6d6eeea48/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/39313aef-e401-4343-9300-05035e6225b4/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1884119",
+    "longitude": "11.8725826"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Haus wurde im Jahr 2013 neu erbaut und wurde liebevoll im ländlich modernem Stil eingerichtet.Die Wohnung hat 1-2 Schlafzimmer, großzügige Wohnküche,Badezimmer mit Dusche, Waschtisch,Fön und WC\nDie Wohnküche ist voll ausgestattet mit Cerankochfeld, Backofen, Geschirrspüler, Mikrowelle, Kaffeemaschine und Wasserkocher eingerichtet.\n\nDie Schlafzimmer sind mit Holzmöbeln eingerichtet und verleihen den Zimmern eine warme Atmosphäre.\n\nIn der gesamten Wohnung befindet sich eine Fußbodenheizung.Gro",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Das Haus wurde im Jahr 2013 neu erbaut und wurde liebevoll im ländlich modernem Stil eingerichtet.Die Wohnung hat 1-2 Schlafzimmer, großzügige Wohnküche,Badezimmer mit Dusche, Waschtisch,Fön und WC\nDie Wohnküche ist voll ausgestattet mit Cerankochfeld, Backofen, Geschirrspüler, Mikrowelle, Kaffeemaschine und Wasserkocher eingerichtet.\n\nDie Schlafzimmer sind mit Holzmöbeln eingerichtet und verleihen den Zimmern eine warme Atmosphäre.\n\nIn der gesamten Wohnung befindet sich eine Fußbodenheizung.Gro",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

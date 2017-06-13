@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ClothingStore",
+    "Store"
+  ],
+  "name": "Cecil Store",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1689437",
+    "longitude": "11.865256"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pircher Moden KG",
+    "streetAddress": "Hauptstraße 401",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63664"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7b24c01e-918a-4ba0-8174-437197961670/99/image.png",
+      "caption": "logo"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

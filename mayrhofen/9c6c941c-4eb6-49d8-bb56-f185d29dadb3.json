@@ -1,0 +1,90 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub",
+    "IceCreamShop",
+    "CafeOrCoffeeShop"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Mo\u0027s"
+    },
+    {
+      "@language": "de",
+      "@value": "Mo\u0027s"
+    },
+    {
+      "@language": "ru",
+      "@value": "Mo\u0027s"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1669851126688",
+    "longitude": "11.8631690740585"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mo\u0027s",
+    "streetAddress": "Hauptstraße 417",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63435",
+    "faxNumber": "(0043) 05285 634354 ",
+    "email": "info@mos-cafe.com",
+    "url": "http://www.mos-cafe.com"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "bar esscafe \u0026 musicroom\n\nMo‘s IST ... EINE PORTION LEBENSLUST, EIN HAUCH VON JAZZ, ROCK, POP, BLUES, SALSA UND MEHR. FLAIR DES AMERIKANISCHEN SÜDENS – SO BUNT WIE DIE MENSCHEN IST AUCH DIE KÜCHE, MIT MEDITERRANEN UND KARIBISCHEN EINFLÜSSEN. DIE GETRÄNKE – HEISS WIE DIE SONNE UND COOL WIE DAS MEER. COME, HEAR AND FEEL ... THAT´S Mo‘s.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Mo‘s iS ... LOVE OF LIFE, A TOUCH OF JAZZ, ROCK, POP, BLUES, SALSA AND MORE. THE AMERICANSOUTH, COLOURFUL LIKE IT‘S PEOPLE, CAN ALSO BE FELT IN MO´S CUISINE, WITH MEDITERRANEANAND CARRIBEAN INFLUENCES. DRINKS, HOT LIKE THE SUN, COOL LIKE THE SEA. COME, HEAR AND FEEL ...\nTHAT´S Mo‘s. "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c133e00f-b0a3-4ab9-abc8-fb343a51d518/99/image.bmp",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Mo\u0027s"
+        },
+        {
+          "@language": "de",
+          "@value": "Mo\u0027s"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mo\u0027s"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4b0f2374-9e6f-40ed-893a-be49d8541eff/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Mo\u0027s Bar"
+        },
+        {
+          "@language": "de",
+          "@value": "Mo\u0027s Bar"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mo\u0027s Bar"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.mos-cafe.com"
+  ]
+}

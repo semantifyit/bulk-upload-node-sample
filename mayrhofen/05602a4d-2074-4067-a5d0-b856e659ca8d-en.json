@@ -1,0 +1,475 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.montana-mayrhofen.at/home/sommer/?L\u003d3",
+    "http://maps.mayrhofen.at/?foreignResource\u003d05602A4D-2074-4067-A5D0-B856E659CA8D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Montana, Hotel Garni, 302",
+    "streetAddress": "Sportplatzstraße 302",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63802",
+    "faxNumber": "0043 5285 63669",
+    "email": "info@montana-mayrhofen.at",
+    "url": "http://www.montana-mayrhofen.at"
+  },
+  "name": "Hotel Garni Montana",
+  "description": [
+    "Your holidays at Hotel Montana\nOur house is quietly located on the edge of a forest and it´s just a short walk to the center of Mayrhofen. Personal care, family atmosphere and exceptional hospitality are our priority!\nTake a look at our attractive packages.  Maybe you will spend the most beautiful days of the year in Zillertal.\nDo you know already?\nOur guests have free entrance to the outdoor pool in Mayrhofen and Hippach.\n",
+    "Price includes breakfast buffet\nHalfboard on request possible\nDogs allowed",
+    "In Mayrhofen take the Einfahrt Nord at the roundabout, right at the next junction, and then left, past the Europahaus, keeping right, past the football pitch and the Hotel-Garni Montana can be found on the left."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/48740d83-a0d6-45ac-b1a0-1a8db1754537/99/image.jpg",
+      "caption": "Hotel Garni Montana Mayrhofen Zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd225176-49e9-4aab-8a48-d12579927dd0/99/image.jpg",
+      "caption": "Hotel Garni Montana Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ae376bc-429e-49af-97ec-c612bfd07ccf/99/image.jpg",
+      "caption": "Hotel Garni Montana Mayrhofen - Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ba43d658-c2bc-4019-97ae-9b5deda414d3/99/image.jpg",
+      "caption": "Hotel Garni Montana Mayrhofen Garten2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/323d5a78-c4e0-450a-bc6d-cff3ad1564b0/99/image.jpg",
+      "caption": "Hotel Garni Montana Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b339188d-6e02-43c0-8fbb-66c275b7fba1/99/image.jpg",
+      "caption": "Hotel Garni Montana Mayrhofen - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c86f7786-d515-4e05-8d5e-4c37d1dd2b4c/99/image.jpg",
+      "caption": "Hotel Garni Montana Mayrhofen - Sommer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12432cf4-f08d-4b57-b9a3-023c03cbd042/99/image.jpg",
+      "caption": "Hotel Garni Montana - Frühstücksbuffet1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dc525b05-b37a-4e78-b6f8-ef738e6df0a4/99/image.jpg",
+      "caption": "Hotel Garni Montana - Frühstücksbuffet2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50324cb7-7cf7-4cd9-b833-68f1d3a829ed/99/image.jpg",
+      "caption": "Hotel Garni Montana - Frühstücksbuffet3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e162ce3c-579d-471d-803f-76fd2915bfb8/99/image.jpg",
+      "caption": "Hotel Garni Montana - Frühstücksbuffet4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/72424308-fd77-4af2-bfd3-03fc1dba1dd4/99/image.jpg",
+      "caption": "Hotel Garni Montana - Frühstücksbuffet5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/71b16cf6-49e9-4da0-8a1a-d02340e19745/99/image.jpg",
+      "caption": "IMG_2999"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e77c691-08a9-42db-8f7d-a83e5a0e1e0d/99/image.jpg",
+      "caption": "Hotel Garni Montana - Frühstücksbuffet6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/747c69a0-c7b2-4153-ab46-55b898fb210d/99/image.jpg",
+      "caption": "Hotel Garni Montana - Frühstücksbuffet7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7cce8ac-2e98-46a9-a255-860bfb2f6552/99/image.jpg",
+      "caption": "Hotel Garni Montana - Frühstück "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/550b6208-e071-4500-806b-a7a86a58bda4/99/image.jpg",
+      "caption": "Hotel Garni Montana - Frühstück 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/debf01f7-4ca3-4ce2-af42-8143fc2ca53a/99/image.jpg",
+      "caption": "Hotel Garni Montana - Garten "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c73cd4a-c84c-49dd-b3ef-ee70db224d4b/99/image.jpg",
+      "caption": "Hotel Garni Montana - Kristallklares Bergwasser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/312f0977-403f-4c74-a403-4aeb2508915e/99/image.jpg",
+      "caption": "DSCN0679"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cea2e0e6-6ccc-4b97-ba45-021638f5f52c/99/image.jpg",
+      "caption": "IMG_2998"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e1adf447-4637-4a0f-b680-f3f779ce299d/99/image.jpg",
+      "caption": "IMG_2996"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/368ee5f8-224a-4134-8148-2ed17a63d047/99/image.jpg",
+      "caption": "Fotos Handy 119"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/41015a88-5321-4763-b476-3c78060f5b43/99/image.jpg",
+      "caption": "Fotos Handy 109"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/389df265-d180-4cfc-807f-8a6e1c98a3ac/99/image.jpg",
+      "caption": "Fotos Handy 124"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c5862d89-027f-4526-b82f-206ab9442f75/99/image.jpg",
+      "caption": "Fotos Handy 111"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5cd8ef75-a578-4a48-9d67-f48c6fa6aa0e/99/image.jpg",
+      "caption": "DSC_0024"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f84f718-95ad-498a-a4dc-56f6772aba18/99/image.jpg",
+      "caption": "DSC_0027"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/270fed24-0475-43e9-a9c3-379c92f41a22/99/image.jpg",
+      "caption": "DSC_0034"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b4867c76-696e-4480-a558-7e3a306b5208/99/image.jpg",
+      "caption": "DSC_0051_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3d7c3706-07d4-4b74-9e75-623a653d2e94/99/image.jpg",
+      "caption": "DSC_0054"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3bfd37b4-c52d-4a82-ab17-43b001a40086/99/image.jpg",
+      "caption": "DSC_0053_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e0c46ad2-45bd-4f23-9fbc-be7fbe446c56/99/image.jpg",
+      "caption": "DSC_6106"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/69731113-d57b-4bc2-84b7-3f528e22dcf0/99/image.jpg",
+      "caption": "DSC_6034"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd0f6e57-3fe7-41a8-ad6f-7be36723480d/99/image.jpg",
+      "caption": "DSC_6037"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/30d1f923-2cd0-46d1-af6a-c90c7cbcdab7/99/image.jpg",
+      "caption": "DSC_6028"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/44861124-34e2-4843-9668-7c89b79113dd/99/image.jpg",
+      "caption": "DSC_6091"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e57e0fa-ca86-4310-a2fc-ad989327af94/99/image.jpg",
+      "caption": "DSC_6030 (2)"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1657414456736",
+    "longitude": "11.8699282407761"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Single room, shower, toilet",
+      "description": "All our spacious comfort rooms are equipped with shower and toilet, flat screen cable TV, radio, telephone and safe. Enjoy the views from your private balcony In the morning we pamper you with a sumptuous breakfast buffet with local delicacies. W-LAN for a small fee!\nFurnishings at a glance\n\n- Comfort double bed\n- Safe\n- Balcony\n- Shower / WC\n- Cable- Flat TV\n- Radio\n- Telephone\n- Internet Hotspot Wlan Austria\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "single room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "36.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "All our spacious comfort rooms are equipped with shower and toilet, flat screen cable TV, radio, telephone and safe. Enjoy the views from your private balcony In the morning we pamper you with a sumptuous breakfast buffet with local delicacies. W-LAN for a small fee!\nFurnishings at a glance\n\n- Comfort double bed\n- Safe\n- Balcony\n- Shower / WC\n- Cable- Flat TV\n- Radio\n- Telephone\n- Internet Hotspot Wlan Austria\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerpauschale inkl. Z-Card Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerpauschale inkl. Z-Card, Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "60.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "36.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "296.00",
+          "maxPrice": "296.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "296.00",
+          "maxPrice": "296.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "326.00",
+          "maxPrice": "326.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "326.00",
+          "maxPrice": "326.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Triple room, shower, toilet, 1 bed room",
+      "description": "All our spacious comfort rooms are equipped with shower and toilet, flat screen cable TV, radio, telephone and safe. Enjoy the views from your private balcony In the morning we pamper you with a sumptuous breakfast buffet with local delicacies. W-LAN for a small fee!\nFurnishings at a glance\n\n- Comfort double bed\n- Safe\n- Balcony\n- Shower / WC\n- Cable- Flat TV\n- Radio\n- Telephone\n- Internet Hotspot Wlan Austria\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "triple room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerpauschale inkl. Z-Card, Dreibettzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "36.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "36.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "326.00",
+          "maxPrice": "326.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "326.00",
+          "maxPrice": "326.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 1 bed room",
+      "description": "Our 45 m² apartment offers space for 2 to 4 persons and for a small fee we will also pamper you with a sumptuous breakfast buffet.\nAdditional to the ante room, and the spacious bed room the apartment has a top equipped kitchen with a seating area. We provide a Coffee machine, a micro wave and dinnerware as well as bed linen and dish towels. \nOur rooms have as well as our apartments Cable-TV, Phone, Radio and a balcony. For a small fee we provide also Internet access.\nOur facilities at a glance\n- Spacious bed room\n- Kitchen with seating area\n- Shower and sep. WC\n- Coffee machine, mico wave and kettle\n- Furnished balcony\n- Cable-TV\n- Radio\n- Phone\n- Internet Hotspot\n- Sumptuous breakfast buffet (for a fee)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/1 bedroom/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "90.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dB0BFC262-66D4-4170-9E66-40DC114A1834"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schragl, Haus",
+    "streetAddress": "Ginzling 255",
+    "addressLocality": "Ginzling",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5286 5274"
+  },
+  "name": "Haus Schragl",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/34e19510-7a80-448d-9d8d-b2d533794232/99/image.jpg",
+      "caption": "Hasu Schragl Ginzling - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/de94741c-6627-44d5-9ce3-821085f36225/99/image.jpg",
+      "caption": "Haus Schragl Ginzling - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a6b542f8-2d68-4046-9334-f914181ec743/99/image.jpg",
+      "caption": "Haus Schragl Ginzling - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4b234886-0bb2-4954-ab71-4c6a4b751b0f/99/image.jpg",
+      "caption": "Haus Schragl Ginzling - Schlafzimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca1da1ee-8fc9-48a1-aa95-ff52ebb1373d/99/image.jpg",
+      "caption": "Haus Schragl Ginzling - Schlafzimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/87834475-c3ab-4256-9332-0976cc2072bc/99/image.jpg",
+      "caption": "Haus Schragl Ginzling - Schlafzimmer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e3084f63-350f-42e9-a1b6-de00389ad200/99/image.jpg",
+      "caption": "Haus Schragl Ginzling - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/36b9a4f5-a085-4292-8a3d-140d53fa5076/99/image.jpg",
+      "caption": "Haus Schragl Ginzling - Gang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b90aa84d-6954-4504-b31e-7e3d1eaf6129/99/image.jpg",
+      "caption": "Haus Schragl Ginzling - Dusche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dc7f3568-ad19-42fa-8ea6-235c5f3c6298/99/image.jpg",
+      "caption": "Haus Schragl Ginzling - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bb43266e-cf9f-4b27-9814-f65c43ed7764/99/image.jpg",
+      "caption": "Haus Schragl Ginzling - Esstisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64e2254f-370e-4318-8461-403b6733a6e8/99/image.jpg",
+      "caption": "Haus Schragl Ginzling - Wohnbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/88114606-1f0b-42da-ba86-03285b1d440b/99/image.jpg",
+      "caption": "Haus Schragl Ginzling - Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bd64fb8a-527d-4116-b9a8-0061d5fd1e29/99/image.jpg",
+      "caption": "Haus Schragl Ginzling - Balkon Ausblick"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0979047734359",
+    "longitude": "11.8060648441315"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

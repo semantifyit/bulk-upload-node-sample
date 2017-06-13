@@ -1,0 +1,171 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d25A3C4FF-DB47-4389-B07B-20A7172E6488",
+    "http://www.bergfex.at/sommer/mayrhofen/pension-haus-groeblacher"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gröblacher, Haus",
+    "streetAddress": "Sportplatzstraße 300",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63142",
+    "faxNumber": "0043 5285 63142",
+    "email": "haus.glkl@aon.at",
+    "url": "http://www.bergfex.at/sommer/mayrhofen/pension-haus-groeblacher"
+  },
+  "name": "Haus Gröblacher",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3b44d404-293d-4203-a055-0c090c46e1e7/99/image.jpg",
+      "caption": "Haus Gröblacher Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8adc5aff-5df9-4050-a8cd-d1c2e44142f2/99/image.jpg",
+      "caption": "Haus Gröblacher Mayrhofen - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/690ae738-bc79-452d-b619-78e2d71af023/99/image.jpg",
+      "caption": "Haus Gröblacher Mayrhofen - Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7d0fe44-86bc-449c-8172-e395ad7bb7a9/99/image.jpg",
+      "caption": "Haus Gröblacher Mayrhofen - Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ddb57c2-73ff-4ced-9098-d82417ccf926/99/image.jpg",
+      "caption": "Haus Gröblacher Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/71142b22-1c4c-445c-8fd5-a924e4254ea3/99/image.jpg",
+      "caption": "Haus Gröblacher Mayrhofen - Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/37e31ad0-48d6-41ab-a76f-656ff84666f5/99/image.jpg",
+      "caption": "Haus Gröblacher Mayrhofen - Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/39f6bdb5-b197-4eb3-83b4-b5147152fec4/99/image.jpg",
+      "caption": "Haus Gröblacher Mayrhofen - Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bd4edaac-142d-48ff-be31-b05745402c8a/99/image.jpg",
+      "caption": "Frühstücks- und Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a9ae31c-f410-4bb6-abe4-8c5d1370cf14/99/image.jpg",
+      "caption": "Frühstücks- und Aufenthaltsraum 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ed7628f-1ad0-4be9-aae1-19cfa81a6a3b/99/image.jpg",
+      "caption": "Aussicht vom Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d49870e6-c7f8-48f5-abc2-7deaa7620885/99/image.jpg",
+      "caption": "Aussicht vom Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a5c47eda-aae0-4a74-a295-d3127ee7ce63/99/image.jpg",
+      "caption": "Aussicht Richtung Anfahrtsstraße"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da487d51-f15f-423f-adab-5e995032298f/99/image.jpg",
+      "caption": "Aussicht Richtung Grünberg u. Penken"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1653388888653",
+    "longitude": "11.8699637800455"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, одна спальня",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, одна спальня",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "28.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

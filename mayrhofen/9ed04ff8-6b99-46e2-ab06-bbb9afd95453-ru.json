@@ -1,0 +1,806 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhausgasser.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d9ED04FF8-6B99-46E2-AB06-BBB9AFD95453"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Gasser",
+    "streetAddress": "Fischerstraße 506",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63115",
+    "faxNumber": "0043 5285 631155",
+    "email": "info@landhausgasser.com",
+    "url": "http://www.landhausgasser.com"
+  },
+  "name": "Landhaus Gasser",
+  "description": [
+    "Добро пожаловать! \t\nЗдравствуйте и добро пожаловать в совершенно новый \"Landhaus Gasser\" \t\nВы хотите отдохнуть в тихом месте, но в то же время в центре города с прекрасным видом на деревню, на окружающие леса и на Альпы? Тогда вы \"Landhaus Gasser\" - идеальное место. \t\nНаш только что отремонтированный и достроенный жилой дом расположен в тихом месте, недалеко от центра, и подъемника Пенкен. Остановка до подъемника Ахорн находится всего в 100 метрах от отеля. \t\nАбсолютно новые, уютные апартаменты обставлены с комфортом и вниманием к деталям. Мы с радостью приветствуем гостей с детьми и животными. Наша цель состоит в том, чтобы предложить Вам уютный дом для отдыха, с большим вниманием относимся к вашим пожеланиям и запросам. Будем рады видеть Вас среди наших гостей, с уважением, семья Гасснер.\t\n\t\n\t\n",
+    "В стоимость входит: бассейны в Майрхофене и Хиппахе и программы парка летом, \t\nтуристический налог, отопление, электричество, вода. В стоимость не входит: финальная уборка (цена по запросу в зависимости от количества человек), собаки € 30, -\t\n\t\n",
+    "на автомобиле: \t\nДвигайтесь по автомагистрали Inn Valley, съезд на Циллерталь, а оттуда 30 км по шоссе В169. \t\nНа поезде: до станции Jenbach, а оттуда еще 35 км нана поезде или автобусе до  Майрхофен  Расстояние от аэропортов: а/п Мюнхен - 190 км,  а/п Зальцбург - 170 км, а/п Инсбрук - 65 км\t\n\t\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "143"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cecab74b-229c-4678-8b3a-a5591839c984/99/image.jpg",
+      "caption": "Landhaus Gasser Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e790960-ab9a-4b43-81d7-bcce1b9a8b86/99/image.jpg",
+      "caption": "Landhaus Gasser Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd674fb4-254b-4832-b157-2897b87002d8/99/image.jpg",
+      "caption": "Landhaus Gasser Mayrhofen - Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a885d041-5ad1-44c1-b8d5-28a77dda54ef/99/image.jpg",
+      "caption": "Landhaus Gasser Mayrhofen - Ansicht von oben"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/18dceae5-865a-41e3-afbf-d2c9deb1d39d/99/image.jpg",
+      "caption": "Landhaus Gasser Mayrhofen - Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/efa97076-97fb-4f00-8e65-34ee7e497aeb/99/image.jpg",
+      "caption": "Landhaus Gasser Mayrhofen - Rezeption"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.162725158737",
+    "longitude": "11.8622839450836"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет",
+      "description": "Квартира \"Astegg\" с его более чем 25 м2, небольшая, но уютная - хорошее жилье для 2 человек. \t\nдвуспальная кровать, удобные кресла, спутниковое телевидение, радио, Часы радио и сейф. \t\nВанная комната полностью отремонтирована, новые сантехника и красивая плитка\t\nНебольшая кухня полностью оборудована и имеет двухконфорочную плиту, духовку , холодильник с морозильной камерой, кофеварку, чайник, тостер, специи, удобный уголок для завтрака и телефон.\t\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "53.00",
+          "maxPrice": "9999999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "description": "Удобные роскошные апартаменты отделанные из цельного дерева, площадью 66m² на 4-8 чел, для некурящих. В апартаменте:  2 спальни, 2 ванные комнаты, спутниковое телевидение, радио + CD / DVD плеер, телефон / интернет, сейф, просторная кухня (4 конфорочная  плита + духовка, посудомоечная машина, кофеварка, чайник, тостер), балкон на южную сторону",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "96.00",
+          "maxPrice": "121.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "114.00",
+          "maxPrice": "213.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "127.50",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "140.00",
+          "maxPrice": "255.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "0.00",
+          "maxPrice": "271.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "165.00",
+          "maxPrice": "287.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "description": "Новый апартамент RASTKOGEL расположен на втором этаже и имеет площадь около 59 м2. \t\nЯркие, уютные комнаты, мебель из массива дерева и теплые дружеские цвета приглашаем вас провести с нами великий праздник. Уютные спальни (1 двуместная, 1 трехместная) у каждого есть собственная ванная комната с душем / туалетом, спутниковым телевидением, сейфом и общий балкон с панорамным видом на город и церковь. \t\nВ уютной гостиной есть удобный уголок и большой стол для небольшой вечеринки со спутниковым телевидением и системой DVD Micro.Полностью оборудованная кухня: 4-х конфорочная плита с духовкой, посудомоечная машина, холодильник с морозильной камерой, кофеварка, чайник, тостер, специи и оснащена всеми необходимыми кухонными принадлежностями.\t\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Naturpark-Pauschale 3 Nächte Lunach",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Naturpark-Pauschale 5 Nächte Lunach",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Naturpark Erlebniswoche, Apartment Rastkogel",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "81.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "96.00",
+          "maxPrice": "121.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "107.50",
+          "maxPrice": "204.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "121.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "127.00",
+          "maxPrice": "136.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "127.00",
+          "maxPrice": "136.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "127.00",
+          "maxPrice": "136.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "127.00",
+          "maxPrice": "136.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "196.00",
+          "maxPrice": "203.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "196.00",
+          "maxPrice": "203.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "196.00",
+          "maxPrice": "203.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "196.00",
+          "maxPrice": "203.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "307.00",
+          "maxPrice": "342.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "307.00",
+          "maxPrice": "342.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "307.00",
+          "maxPrice": "342.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "307.00",
+          "maxPrice": "342.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "description": "Новый просторный и светлый апартамент \"KOLM\" площадью 70 м2, для некурящих. Два  спальни, отделанные натуральным деревом (одна спальня с двуспальной кроватью плюс дополнительной кроватью, другая с двуспальной кроватью и диваном) каждом номере есть отдельная ванная комната с душем / туалетом / фен, спутниковое телевидение, сейф и общий балкон. В трехместном номере есть DVD система. \t\nхорошо оборудованная кухня с 4 конфорками, посудомоечной машиной, холодильником и морозильной камерой. Встроенные кухонные принадлежности, кофеварка, тостер, специи и чайник, естественно, присутствует.\t\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "96.00",
+          "maxPrice": "121.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "109.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "122.50",
+          "maxPrice": "231.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "135.00",
+          "maxPrice": "252.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, одна спальня",
+      "description": "Стильный и яркий апартамент площадью 36 м2 для некурящих на третьем этаже . Уютная гостиная с удобными креслами, имеется полностью оборудованная кухня (4-х конфорочная плита с духовкой, холодильник, морозильник, посудомоечная машина, кофеварка, чайник, тостер, специи). Все необходимые кухонные принадлежности, естественно, присутствуют\t\nдвуспальный диван-кровать, спутниковое телевидение и система DVD Micro \t\nВ уютной спальне \t\n(двуспальная + дополнительная кровать) с мебелью из цельного дерева, спутниковое телевидение и сейф. Светлая ванная комната с душем / туалетом.\t\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, одна спальня",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Naturpark-Pauschale 3 Nächte Rastkogel",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Naturpark-Pauschale 5 Nächte Rastkogel",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Naturpark Erlebniswoche, Apartment Lunach",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "72.50",
+          "maxPrice": "129.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "84.00",
+          "maxPrice": "149.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "110.00",
+          "maxPrice": "164.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "113.50",
+          "maxPrice": "128.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "113.50",
+          "maxPrice": "128.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "113.50",
+          "maxPrice": "128.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "113.50",
+          "maxPrice": "128.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "178.00",
+          "maxPrice": "211.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "178.00",
+          "maxPrice": "211.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "178.00",
+          "maxPrice": "211.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "178.00",
+          "maxPrice": "211.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "328.50",
+          "maxPrice": "349.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "328.50",
+          "maxPrice": "349.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "328.50",
+          "maxPrice": "349.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "328.50",
+          "maxPrice": "349.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "description": "Удобные роскошные апартаменты отделанные из цельного дерева, площадью 66m² на 4-8 чел, для некурящих. В апартаменте:  2 спальни, 2 ванные комнаты, спутниковое телевидение, радио + CD / DVD плеер, телефон / интернет, сейф, просторная кухня (4 конфорочная  плита + духовка, посудомоечная машина, кофеварка, чайник, тостер), балкон на южную сторону",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "99999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "96.00",
+          "maxPrice": "121.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "114.00",
+          "maxPrice": "213.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "127.50",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "140.00",
+          "maxPrice": "255.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "0.00",
+          "maxPrice": "271.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "165.00",
+          "maxPrice": "287.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "description": "Новый комфортабельный апартамент Steinkar плоадью 66 м2 и расположен на третьем этаже нашего дома. \t\nАпартамент для некурящих: две уютные спальни (1 двуспальная, 1 трехспальная), каждая с собственной ванной комнатой (душ / туалет), спутниковым телевидением и сейфом. В уютной кухне комфортный уголок с большим обеденным столом. Хорошо оборудованный кухонный блок имеет 4-конфорочную плиту с духовкой, посудомоечную машину, холодильник и морозильную камеру. Кухонные принадлежности, кофеварка, тостер, специи и чайник, естественно, присутствуют. Здесь же есть шестое дополнительное спальное место,  спутниковое телевидение и система DVD Micro. Просторный балкон с панорамным видом города и церковь.\t\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "99999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "96.00",
+          "maxPrice": "121.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "107.50",
+          "maxPrice": "204.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "121.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "134.50",
+          "maxPrice": "246.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, одна спальня",
+      "description": "Новая и с любовью меблированая квартира Хамберг для некурящих. Расположена на третьем этаже нашего дома и составляет около 45 м2. Из светлых и уютных спален со спутниковым телевидением и сейфом есть выход на просторный балкон с прекрасным видом на город и церковь. \t\nВ уютной гостиной, есть также дополнительный диван-кровать, спутниковое телевидение и DVD -Mikro система. Хорошо оборудованная кухня имеет плиту с 4 конфорками,  духовку, посудомоечну машину, холодильник с морозильной камерой. Встроенные кухонные принадлежности, кофеварка, тостер, специи и чайник, естественно, присутствует \t\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, одна спальня",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.50",
+          "maxPrice": "9999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "78.00",
+          "maxPrice": "133.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "89.50",
+          "maxPrice": "153.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "101.00",
+          "maxPrice": "168.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, одна спальня",
+      "description": "Недавно отремонтированный и со вкусом меблированый апартамент Бранденбург для некурящих. Расположен в подвале нашего дома, и составляет около 35 м2. \t\nЯркая и уютная спальня с современной ванной комнатой с душем / туалетом. Квартира имеет отдельный вход. Удобный диван и дополнительное спальное место. Телевизор со спутниковым ТВ, а также радио с CD-плеером , помогут весело провести вечер. Также в апартаменте есть телефон и доступ в Интернет. \t\nХорошо оборудованная кухня имеет 4 конфорочную плиту с духовкой, посудомоечной машиной, холодильником и морозильной камерой. Встроенные кухонные принадлежности, кофеварка, тостер, специи и чайник, естественно, присутствует. \t\nсадовая терраса с зоной отдыха и красивый вид на сад, луга, леса и горы.\t\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, одна спальня",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "99999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "72.50",
+          "maxPrice": "129.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

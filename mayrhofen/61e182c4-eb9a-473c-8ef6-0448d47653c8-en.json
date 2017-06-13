@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Adlerbühne Ahorn",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1371984013812",
+    "longitude": "11.8693864345551"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ahornbahn",
+    "streetAddress": "Ahornstraße 853",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 62277",
+    "faxNumber": "+43 5285 62277-161",
+    "email": "info@mayrhofner-bergbahnen.com",
+    "url": "http://www.mayrhofner-bergbahnen.com"
+  },
+  "description": "The Mount Ahorn Birds of Prey Show takes place at 2,000 m between the middle of June and the middle of October at 2.00 p.m. (closed on Fridays). Visitors to the Ahorn Eagles\u0027 Stage in Mayrhofen have an ecounter of a very close kind indeed, as eagles and other birds of prey hover just a few centimetres above their heads. The one-hour Bird of Prey show isn\u0027t the only experience on fun-packed Mount Ahorn\u0027s natural stage:\n\nSpectecular air acrobatics performed with explanations of the birds \n\nGuests are integrated into the demonstration (in both German and English) \n\nOur team of falconers provide insights into the professional art of falconery\n\nBe a falconer for a day - where you\u0027ll jhave hte opportunity to feed, care for and train the birds \n\nFree entry to Europe\u0027s highest birds of Prey station - daily from 10.00 a.m. (except during the birds of prey demonstrations). Easy to reach from the Ahornbahn mountain station in the Zillertal Alps.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/884235ab-3d46-43a0-8a06-e30e25e1c10c/99/image.png",
+      "caption": "Adlerbühne 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4238056a-c486-49dc-a4e2-dc26669bcdae/99/image.jpg",
+      "caption": "Adlerbühne 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c5a3784a-f96b-445d-a846-da9650a37275/99/image.jpg",
+      "caption": "Adlerbühne 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/48951afd-b0b7-422e-bc78-ff85d3fcceef/99/image.jpg",
+      "caption": "Adlerbühne 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d95cd052-604a-4939-a0a3-88a4fe2a5b73/99/image.jpg",
+      "caption": "Adlerbühne 5"
+    }
+  ],
+  "url": [
+    "http://sommer.mayrhofner-bergbahnen.com/de/100357/100550/adlerbuehne-greifvogelschau-ahorn-mayrhofen.html"
+  ]
+}

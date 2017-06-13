@@ -1,0 +1,78 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsEvent"
+  ],
+  "name": "22. Zillertaler Old Man\u0027s Race at the Ahorn ",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Skiclub Mayrhofen",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Josef",
+      "familyName": "Wechselberger"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Burgstall 370 a",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 664 130 62 48",
+      "email": "josef.wechselberger@generali.com",
+      "url": "http://www.sc-mayrhofen.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Skiclub Mayrhofen",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Burgstall 370 a",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 664 130 62 48",
+      "email": "josef.wechselberger@generali.com",
+      "url": "http://www.sc-mayrhofen.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ef98139-3370-4e54-a8bd-417020f36188/99/image.jpg",
+      "caption": "Altherrenrennen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7adb5720-e839-40df-a123-80e16a08dbd4/99/image.jpg",
+      "caption": "Altherrenrennen1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6af764f9-c6ed-4e7f-bc4a-2e6cc851fdbc/99/image.jpg",
+      "caption": "Altherrenrennen2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9cc30861-a64f-441f-8fc4-17bf5a8c0662/99/image.jpg",
+      "caption": "Altherrenrennen3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fef0a5b6-417f-415c-80f9-5722ac27de68/99/image.jpg",
+      "caption": "Altherrenrennen4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/27fa07a6-54d7-4f92-9113-cfa6e9f07a70/99/image.jpg",
+      "caption": "Altherrenrennen5"
+    }
+  ],
+  "url": [
+    "http://sc-mayrhofen.at"
+  ],
+  "startDate": "2017-03-19T10:30:00",
+  "endDate": "2017-03-19"
+}

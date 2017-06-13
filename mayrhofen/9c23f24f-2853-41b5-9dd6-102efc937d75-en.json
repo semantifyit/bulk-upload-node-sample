@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": "Facharzt für Unfallchirurgie Prof. Dr. W. Hackl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1952533562745",
+    "longitude": "11.8712425231934"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bichl 486",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 51010",
+    "faxNumber": "(0043) 5282 51020 ",
+    "email": "office@sportmed-tirol.com",
+    "url": "http://www.sportmed-tirol.com/index.php/unfallchirurgie"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1235ff00-9174-4cd3-9324-d0b1f8f05fb1/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.sportmed-tirol.com/html/sportmed-unfallchirurgie.htm"
+  ]
+}

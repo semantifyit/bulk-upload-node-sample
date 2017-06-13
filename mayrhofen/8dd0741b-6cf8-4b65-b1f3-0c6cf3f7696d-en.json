@@ -1,0 +1,408 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-glueckauf.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d8DD0741B-6CF8-4B65-B1F3-0C6CF3F7696D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Glück Auf, Hotel Garni",
+    "streetAddress": "Tuxer Straße 730",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62436",
+    "faxNumber": "0043 5285 62436 40",
+    "email": "info@hotel-glueckauf.at",
+    "url": "http://www.hotel-glueckauf.at"
+  },
+  "name": "Hotel Garni Glück Auf",
+  "description": [
+    "Hotel Garni Glück Auf, renovated newly in 2010, is located on the edge of Mayrhofen. All important points of the place can be reached within a few walking minutes. Most of the restaurants, cafes and bars are not far from our house. Also the shopping mile is in immediate vicinity of our Hotel Garni Glück Auf. \nMany walks can be done directly from the hotel in summer  without using public transport. The two cablecars of the Mayrhofner Bergbahnen calles Penken and Ahorn are comfortably attainable on foot and offers effortless mountain pleasure in summer and winter times. \nThe imposing scenery of the Zillertaler Alps is ubiquitous. You can be impressed by only looking out of your window..",
+    "Single room: €15. 00 per night \nReduction for children: \nChildren 0-3 year of life 50% \nChildren 4-12 years 25% \nChildren from 13 years 10% \nA final cleaning has to be paid at the apartments.",
+    "Via the Inntalautobahn A12 motorway until the exit for Zillertal, from there take the B169 Zillertal Road for the next 30 km to Mayrhofen"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "114"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cba41f01-2d35-4897-95e0-3c939673977b/99/image.jpg",
+      "caption": "Glück Auf Mayrhofen - Winter 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4b130dee-8350-4184-bf60-1385c254fff3/99/image.jpg",
+      "caption": "Glück Auf Mayrhofen - Winter 2 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a7309943-2c7d-4375-9ecf-adef6546b3f7/99/image.jpg",
+      "caption": "hotel_garni_glueckauf_01_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e8cd5291-2308-4561-a916-f50ea317dc52/99/image.jpg",
+      "caption": "hotel_garni_glueckauf_03_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e1803939-deef-450b-9a3e-305f3051cbd8/99/image.jpg",
+      "caption": "hotel_garni_glueckauf_04_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f6448549-1fb9-4035-98b7-847163c9ac90/99/image.jpg",
+      "caption": "hotel_garni_glueckauf_05_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ae90f05-f032-4f3d-a81c-13fad070c929/99/image.jpg",
+      "caption": "hotel_garni_glueckauf_06_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/278f6ba7-24bc-4bcd-a591-602e1411eebc/99/image.jpg",
+      "caption": "hotel_garni_glueckauf_07_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aaaecb5a-a17d-44d4-a132-6ca9fcf65104/99/image.jpg",
+      "caption": "hotel_garni_glueckauf_08_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6105e272-cde6-4e76-9772-f02f6bcb8895/99/image.jpg",
+      "caption": "hotel_garni_glueckauf_09_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/524e447a-2da3-4985-94f8-919f27c0aa51/99/image.jpg",
+      "caption": "hotel_garni_glueckauf_12_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a6ad6f0-73a5-4754-a054-58ed87127238/99/image.jpg",
+      "caption": "hotel_garni_glueckauf_02_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b58ec7ae-d9ae-4798-885e-0a47f3c31c54/99/image.jpg",
+      "caption": "innen_hotel_glueckauf_01a_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c4d1416-8303-482c-b1c7-7f7563d2905e/99/image.jpg",
+      "caption": "innen_hotel_glueckauf_03a_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13ed2528-ee49-4521-8844-b79425822c7c/99/image.jpg",
+      "caption": "innen_hotel_glueckauf_02a_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e037f563-2371-4bea-aab7-72768790d514/99/image.jpg",
+      "caption": "innen_hotel_glueckauf_05a_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e8a07eff-1cd6-45ae-ab22-8e5367c5362f/99/image.jpg",
+      "caption": "innen_hotel_glueckauf_06a_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f9e483f-88d3-4f12-b897-7e054ce5b7ab/99/image.jpg",
+      "caption": "innen_hotel_glueckauf_07a_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/101bc7d7-43fb-46d1-b714-758a876523bf/99/image.jpg",
+      "caption": "innen_hotel_glueckauf_08a_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2fac54c7-bd4e-4e5f-b6a2-69ebc81e4cac/99/image.jpg",
+      "caption": "innen_hotel_glueckauf_09a_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f87913d-d791-483e-b8a2-82fccf5e658e/99/image.jpg",
+      "caption": "innen_hotel_glueckauf_10a_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ecd3b080-c349-48e0-bbd7-7a04fc008beb/99/image.jpg",
+      "caption": "innen_hotel_glueckauf_11a_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4556041b-2216-4a99-be45-57346c81aa81/99/image.jpg",
+      "caption": "innen_hotel_glueckauf_14a_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f67b1103-db68-4194-a2b2-5063b3981a6e/99/image.jpg",
+      "caption": "innen_hotel_glueckauf_15a_master_0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae7c822b-fc4a-4980-9d6a-e9299bbd8fd9/99/image.jpg",
+      "caption": "innen_hotel_glueckauf_04a_master_0"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1606315287855",
+    "longitude": "11.8575149774551"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Triple room, shower, toilet",
+      "description": "Double or tripleroom. Next to the main room they have an additional room which contains a comfortable seat area or there is the third bed occupancy. All rooms are equipped with telephone, WLAN and digital cable TV (over one hundred international programs). The rooms of this variant have a south-sided balcony. The living space is 22 m2.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "triple room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "54.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "40.00",
+          "maxPrice": "54.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Our standard rooms are big rooms with a spacious bathroom. Rooms of this variant have a separate desk next to a comfortable seat area. They are equipped with room safe, mini-bar, telephone, WIFI and digital cable TV. The living space is 21 m2.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "42.00",
+          "maxPrice": "59.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet",
+      "description": "1 double room, living room with couch for pull-out, shower and WC, cable TV, large balcony, sauna in the house, massage on request, 2012 newly renovated",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.living-bedr./1 bedroom/shower,wc",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "9.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "142.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.liv.-bedroom/1 bedroom/bath,wc",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "74.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "96.00",
+          "maxPrice": "141.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "128.00",
+          "maxPrice": "188.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Family room, shower, toilet, 2 bed rooms",
+      "description": "Our family suites consist of  two sleeping rooms  separated by a door, a balcony to the west.  \nThe smaller of the two rooms contains two separate beds, a wardrobe and a seating area. \nThe main room offers a double bed, a wardrobe and a seating area and an additional desk. \nOur family suites are equipped with flatscreen (over 100 programs), a mini-bar, safe, WIFI, and telephone.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Family room, shower, toilet, 2 bed rooms",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "95.00",
+          "maxPrice": "188.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "117.00",
+          "maxPrice": "188.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "154.00",
+          "maxPrice": "188.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior suite, shower, toilet, 1 bed room",
+      "description": "Our junior suites have a generous bathroom, a south-sided balcony with a wonderful view of the mountains and an additional living room with kitchenette, dining table and a big panorama window.\nThe rooms are equipped with a digital cable TV, cooking facilities, refrigerator, WIFI and telephone. \nThe living space is 27 m2 without balcony",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior suite, shower, toilet, 1 bed room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "89.00",
+          "maxPrice": "109.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "89.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

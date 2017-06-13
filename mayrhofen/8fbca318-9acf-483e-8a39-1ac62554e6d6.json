@@ -1,0 +1,65 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "dm Friseurstudio"
+    },
+    {
+      "@language": "de",
+      "@value": "dm Friseurstudio"
+    },
+    {
+      "@language": "ru",
+      "@value": "dm Friseurstudio"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1694030680881",
+    "longitude": "11.8655562400818"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "dm-Drogerie Markt GmbH",
+    "streetAddress": "Durster Straße 220",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 6502015",
+    "email": "info@dm-drogeriemarkt.at",
+    "url": "http://www.dm-drogeriemarkt.at/cms/servlet/segment/at_homepage"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Mein friseurstudio bei dm \n\nLeistungen für mich \nIch lehne mich entspannt zurück und lasse mich von den dm Profis verwöhnen und beraten\n\nMeine Angebote im dm friseurstudio \nIch lasse mich ver- wöhnen! In meinem dm friseurstudio gibt\u0027s alle zwei Monate neue Angebote für mich\n\nNägel im Crackle Style! Mit dem dm friseur- studio absolut trendig in den Sommer!\n\n\t\n\n\n\n\n\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8e86c869-4c5f-43cb-8e6b-875e87adf3be/99/image.gif",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "dm Friseurstudio"
+        },
+        {
+          "@language": "de",
+          "@value": "dm Friseurstudio"
+        },
+        {
+          "@language": "ru",
+          "@value": "dm Friseurstudio"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.dm-drogeriemarkt.at"
+  ]
+}

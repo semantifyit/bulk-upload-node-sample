@@ -1,0 +1,86 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Zahnarzt DDr. Altrichter Robert"
+    },
+    {
+      "@language": "de",
+      "@value": "Zahnarzt DDr. Altrichter Robert"
+    },
+    {
+      "@language": "ru",
+      "@value": "Zahnarzt DDr. Altrichter Robert"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.209121275737",
+    "longitude": "11.8733882904053"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 160",
+    "addressLocality": "Ramsau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 1226912",
+    "email": "r.altrichter@aon.at",
+    "url": "http://www.aerztehaus-ramsau.at/index.php/altrichter"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "CARMEN freut sich auf die reife Erdbeere. Sie nimmt ein Stück an der Seite des Stängels und macht sich daran von der kühlen Spitze abzubeißen. Mit ihren gesunden und perfekt sanierten Zähnen ist sie in der Lage mit einer Präzision von 3/100 Millimetern jedes Körnchen der leckeren Erdbeere nicht nur festzuhalten sondern mit exakt dosiertem Druck diese Körnchen auch zu zermahlen, was der Frucht neben ihrem Geschmack diese kleine besondere explosive Note gibt.\nMehrere Hunderttausend kleinste Bindegewebsfasern halten jeden ihrer Zähne im Kieferknochen fest. Das ermöglicht eine geringe Beweglichkeit und gibt über tausende von Nervenfasern einen ständigen Überblick über die Belastungs- und Ruheposition des Zahnes. So wechseln bei jedem Kauakt Millionen Informationen von den Zähnen ins Gehirn und vermitteln Sicherheit und Wohlbefinden, Essen ist schließlich nicht nur lebensnotwendig sondern soll auch Spaß machen.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Mo-Fr: 8.00 - 12.00 Uhr\nMo, Di, Do: 13.30 - 16 Uhr\n\nAbendtermine auf spezielle Vereinbarung!\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fb3b71ff-3b9e-4436-ab4c-6ee4592c7af4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Dr. Altrichter Robert"
+        },
+        {
+          "@language": "de",
+          "@value": "Dr. Altrichter Robert"
+        },
+        {
+          "@language": "ru",
+          "@value": "Dr. Altrichter Robert"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53862f01-fb98-42d2-8301-9551d741fb3c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Warteraum"
+        },
+        {
+          "@language": "de",
+          "@value": "Warteraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Warteraum"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.aerztehaus-ramsau.at/index.php/altrichter"
+  ]
+}

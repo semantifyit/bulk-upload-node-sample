@@ -1,0 +1,159 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub",
+    "SkiResort"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Harakiri Bar - die steilste Bar im Zillertal"
+    },
+    {
+      "@language": "de",
+      "@value": "Harakiri Bar - die steilste Bar im Zillertal"
+    },
+    {
+      "@language": "ru",
+      "@value": "Harakiri Bar - die steilste Bar im Zillertal"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1648952978188",
+    "longitude": "11.8618977069855"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 454",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2005380",
+    "email": "info@harakiri-bar.at",
+    "url": "http://www.harakiri-bar.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Wenn du abends in lockerer Atmosphäre und gediegenem Ambiente abhängen willst, dann bist du bei uns genau richtig. Lässige Musik und coole Leute, Lebenslust und Partylaune - die steilste Bar im Zillertal lädt zum Chillen ein!\n\nBei uns ist immer was los! DJs, Promis, spezielle Events, und ein wohl einzigartiges Ambiente schaffen die ideale Umgebung für einen anregenden Abend in ungezwungener Atmosphäre. Und ermöglichen dir ein ganz besonderes Lebensgefühl - lass dich einfach davon anstecken!\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "If you\u0027re looking for somewhere with a relaxed atmosphere, super stylish surroundings and great music to boot; then you\u0027re in the right place. A wide ranging drinks menu and snacks are served by our friendly staff who provide a clientele spanning all ages with the perfect back drop to either chill all day or party all night!"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0450947b-91ee-4278-a6a0-3c4c61d9bf68/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Harakiri"
+        },
+        {
+          "@language": "de",
+          "@value": "Harakiri"
+        },
+        {
+          "@language": "ru",
+          "@value": "Harakiri"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6e083ab2-8732-4762-9f10-780e43e81038/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Gastgeber Nici und Flo"
+        },
+        {
+          "@language": "de",
+          "@value": "Gastgeber Nici und Flo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gastgeber Nici und Flo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e65dddf8-cc1a-4337-a7d7-a4aa072224cf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Harakiri Bar"
+        },
+        {
+          "@language": "de",
+          "@value": "Harakiri Bar"
+        },
+        {
+          "@language": "ru",
+          "@value": "Harakiri Bar"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa71a87d-2b2f-4ae8-8b95-b20ff3670b16/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Harkiri Bar 2"
+        },
+        {
+          "@language": "de",
+          "@value": "Harkiri Bar 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Harkiri Bar 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bb7b542c-47dc-4a1d-8932-6955bcf00b1f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Harkir Bar 3"
+        },
+        {
+          "@language": "de",
+          "@value": "Harkir Bar 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Harkir Bar 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0af64bd5-2c2c-4c32-9b3d-ae4887da35bb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Harakir Bar 4"
+        },
+        {
+          "@language": "de",
+          "@value": "Harakir Bar 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Harakir Bar 4"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.harakiri-bar.at"
+  ]
+}

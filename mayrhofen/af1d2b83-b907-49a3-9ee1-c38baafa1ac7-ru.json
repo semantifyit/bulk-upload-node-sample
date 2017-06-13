@@ -1,0 +1,135 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dAF1D2B83-B907-49A3-9EE1-C38BAAFA1AC7",
+    "http://www.mayrhofen.at/de/haus-ahornblick"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ahornblick, Haus",
+    "streetAddress": "Edergasse 521",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3793",
+    "email": "f.schwemberger@aon.at",
+    "url": "http://www.mayrhofen.at/de/haus-ahornblick"
+  },
+  "name": "Haus Ahornblick",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/08ee5cf2-abff-4068-b9d3-658e0e40eba4/99/image.jpg",
+      "caption": "Haus Ahornblick Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3d621e0e-3d72-4cc9-a430-48278fc256b3/99/image.jpg",
+      "caption": "Haus Ahornblick Mayrhofen - Skizze"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e2ed26cd-bfb4-4d97-a9ad-e77623fa9174/99/image.jpg",
+      "caption": "Haus Ahornblick Mayrhofen - Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5500b814-8d64-404f-a9f4-4860bf9f379e/99/image.jpg",
+      "caption": "Haus Ahornblick Mayrhofen - Balkon 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/918b92bf-2020-4cbc-abff-69d99ee694ca/99/image.jpg",
+      "caption": "Haus Ahornblick Mayrhofen - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0fbb9956-af47-4f25-a23b-2378a09600c1/99/image.jpg",
+      "caption": "Haus Ahornblick Mayrhofen - Küche 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ebba8dd-2553-48e3-8a13-02f4a83f7bd5/99/image.jpg",
+      "caption": "Haus Ahornblick Mayrhofen - Wohnraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dbac6ea3-e8cb-4782-9336-23baf8898344/99/image.jpg",
+      "caption": "Haus Ahornblick Mayrhofen - Wohnraum 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c8dcdde-9065-4c84-ba64-2f3627b10c8b/99/image.jpg",
+      "caption": "Haus Ahornblick Mayrhofen - Wohnraum 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a4f49b1-6ec2-464f-9792-58fe14e41623/99/image.jpg",
+      "caption": "Haus Ahornblick Mayrhofen - Wohnraum 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d0826cd1-d1ff-4ea0-b936-9fb62259359d/99/image.jpg",
+      "caption": "Haus Ahornblick Mayrhofen - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f36d701-8a00-426b-a558-93b6d444d497/99/image.jpg",
+      "caption": "Haus Ahornblick Mayrhofen - Zimmer 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1644576298465",
+    "longitude": "11.8634158372879"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, одна спальня",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, одна спальня",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "120.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

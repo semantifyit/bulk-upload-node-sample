@@ -1,0 +1,96 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dBACFAA69-6668-4DF7-AD45-1DB842F375AF"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sonnenheim, Haus",
+    "streetAddress": "Durster Straße 229",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62058",
+    "email": "huber.gitti@aon.at"
+  },
+  "name": "Haus Sonnenheim",
+  "description": [
+    "Our house is only 2 minutes from the town centre, the ski bus stop and the indoor tennis courts. Sun bathing area, car park, ski store room.",
+    "The price exkludes final cleaning, includes electricity.",
+    "Use the B169 to Mayrhofen, left at the roundabout in the direction of the Infocenter Europahaus, Haus Sonnenheim can be found 100m further at the right side."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/500d3189-979f-4c91-8e19-8bafa31dc989/99/image.jpg",
+      "caption": "Sonnenheim Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bc0d79b1-7c48-4546-acf6-ce12f25438e4/99/image.jpg",
+      "caption": "Sonnenheim Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/45272855-2940-4c57-b842-f1409f9894ca/99/image.jpg",
+      "caption": "Sonnenheim Mayrhofen - Sommer2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1680719297788",
+    "longitude": "11.8669027090073"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "The pleasantly furnished holiday apartment is equipped with 2 bedrooms, lounge/kitchen, entrance hall, separate shower and WC, balcony and television. Included in the price are heating, electricity, bed linen, towels and crockery. A cot is also available.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "\nAppartment with 2 separate bedrooms, shower, WC specially, kitchen-living room, balcony ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

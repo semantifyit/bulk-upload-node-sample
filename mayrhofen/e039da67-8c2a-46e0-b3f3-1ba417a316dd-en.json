@@ -1,0 +1,418 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.mayrhofen.or.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dE039DA67-8C2A-46E0-B3F3-1BA417A316DD"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Moigg, ALPEN Appartements",
+    "streetAddress": "Scheulingstraße 390",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63156",
+    "faxNumber": "0043 5285 62932 20",
+    "email": "info@mayrhofen.or.at",
+    "url": "http://www.mayrhofen.or.at"
+  },
+  "name": "ALPEN Appartements Moigg",
+  "description": [
+    "Our apartement*** (85m²) is quietly located in city centre. It´s newly built within a big balcony facing south and garantuees you a sunny holiday. Comfortable and fully equipped kitchen with dish washer, 2 luxury twin bedded rooms, large bathroom with bath and shower/toilet, additional toilet,store room, big housefloor with nice wardrobe; satellite TV and radio.\nBedclothes and towels included. \n\"NOT AT HOME AND FEELING SO HOMEY\"  we are looking forward to welcome you...",
+    "Taxe is included.",
+    "The rate of the apartment includes bed linen (anti allergic), towels, dishwasher tablets , various cleaning fluids, toilet paper (First fill in).  WLAN free of charge.\n\nEndcleaning € 55,--\nexcl TAX",
+    "\nC/in 12.oo p.m. C/out 10.00 a.m. even later possible early check in / late check out - on demand! !!CHILDREN REDUCTION comes into Action on booking request!!\n\nDeposit €200,-- (payback check out)",
+    "Family Mayrhofen Zillertal Skiing Penkenbahn Ahornbahn Glacier Action Snowboarding Fun"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9ed5fe77-5a22-4fa6-b7bf-b40cafe5e50c/99/image.jpg",
+      "caption": "Moigg Mayrhofen Sommerfoto"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1bf841a7-0340-42cb-a600-23b0cdea5803/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ebf3f197-d30d-4a44-8110-a96d8f930078/99/image.jpg",
+      "caption": "Alpen Appartements Moigg Familie Michaela Hochmuth"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d0559696-924b-49f7-90d7-fc2152bb470e/99/image.jpg",
+      "caption": "MoiggII Mayrhofen - KÜCHE mit Marmorkamin"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/560edbdc-fcd3-4f4d-9280-5a6877f96703/99/image.jpg",
+      "caption": "Moigg App 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/714d95a9-fe59-454a-ac6d-6056bb66957a/99/image.jpg",
+      "caption": "MOIGG Wohnzimmer neu 2016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f087be7-1031-4ed3-972e-c9e5a4c9a387/99/image.jpg",
+      "caption": "MOIGG Wohnzimmer neu 2016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/74017dd7-5ebe-416c-9e4a-660114251491/99/image.jpg",
+      "caption": "MoiggII Mayrhofen - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/22daad97-88a1-480d-9735-67db4cef1518/99/image.jpg",
+      "caption": "MoiggII Mayrhofen - Schlafzimmer (1,40m)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/88a2a254-3b78-4a71-961d-88649d92e026/99/image.jpg",
+      "caption": "MoiggII Mayrhofen - Bad mit Dusche/WC und Wanne"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/20136817-5a30-46dc-a342-e0536bdeaf3f/99/image.jpg",
+      "caption": "MoiggII Mayrhofen - Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e9add5da-1332-4a08-8008-4abe2cf5c97b/99/image.jpg",
+      "caption": "Moigg App 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12471636-2a93-4f98-a5de-1e89edb9ca58/99/image.jpg",
+      "caption": "MoiggI Mayrhofen - Wohnküche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/61473065-2f2b-4971-b941-c6cf05b322a4/99/image.jpg",
+      "caption": "MoiggI Mayrhofen - Schlafzimmer/ Dreibett"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f724ed55-821f-4308-b299-10f9bcc4121e/99/image.jpg",
+      "caption": "MoiggI Mayrhofen - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/089ef215-f87c-4bde-bd08-ac283a7e5506/99/image.jpg",
+      "caption": "MoiggI Mayrhofen - Bad mit Wanne , DUSCHE und WC"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/469196f1-c56d-4e4a-8070-2bc97564a5c7/99/image.jpg",
+      "caption": "MoiggI Mayrhofen - Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d273503c-7199-4acd-98ba-7f2cc805551b/99/image.jpg",
+      "caption": "Alpen Appartement MOIGG"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3e04c899-bf9f-4d42-b303-fb01a1a7eb9e/99/image.jpg",
+      "caption": "Moigg Alpen Appartements 390"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.165566381706",
+    "longitude": "11.8628472089767"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+      "description": "MOIGGI (85m²) is located in city centre. Within a big balcony facing south and garantuees you a sunny holidays. Comfortable and fully equipped kitchen with dish washer, 2 luxury twin bedded rooms, large bathroom with bath and shower/toilet, additional toilet,additional storeroom, big housefloor with nice wardrobe;satellite TV and radio.\nBedclothes and towels included\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower,bath tube,WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet, 1 bed room",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/71481e0e-e520-4bf6-9dd4-746a648f46eb/99/image.jpg",
+              "caption": "SKIFUN"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Activ Card MOIGG I",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "85.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "485.00",
+          "maxPrice": "485.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "485.00",
+          "maxPrice": "485.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "362.50",
+          "maxPrice": "362.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "343.50",
+          "maxPrice": "343.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "273.50",
+          "maxPrice": "273.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "238.50",
+          "maxPrice": "238.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "203.50",
+          "maxPrice": "203.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+      "description": "MOIGGII  (85m²) is located in city centre. Within a big balcony facing south and garantuees you a sunny holiday. Comfortable and fully equipped kitchen with dish washer, 2 luxury twin bedded rooms, large bathroom with bath and shower/toilet, additional toilet,additional storeroom, big housefloor with nice wardrobe;satellite TV and Radio, HIGHLIGHT-open fire place\nBedclothes and towels included\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "inkl. Skipass, MOIGG II  - Kachelofen",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ActivCard MOIGG II-  Kachelofen",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "85.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "81.00",
+          "maxPrice": "81.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "67.00",
+          "maxPrice": "67.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "343.50",
+          "maxPrice": "343.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "273.50",
+          "maxPrice": "273.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "238.50",
+          "maxPrice": "238.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "203.50",
+          "maxPrice": "203.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

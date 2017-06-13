@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Zillertaler Bauernladen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2042414935442",
+    "longitude": "11.8674230575562"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zillertaler Bauernladen",
+    "streetAddress": "Hippach-Dorf 3",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 55065",
+    "email": "bauernladen@zillertalnet.at",
+    "url": "http://www.mayrhofen.at/de/101017/101183/101184/heimische-produkte.html"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad7a302e-791e-4385-b7f2-ef21dbddb51e/99/image.jpg",
+      "caption": "Speck"
+    }
+  ],
+  "url": [
+    "http://www.mayrhofen.at/de/101017/101183/101184/heimische-produkte.html"
+  ]
+}

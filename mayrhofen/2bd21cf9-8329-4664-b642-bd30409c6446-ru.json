@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Hotel Ländenhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.159201685309",
+    "longitude": "11.8645799160004"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ländenhof, Hotel",
+    "streetAddress": "Jakob-Moser-Straße 599",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63451",
+    "faxNumber": "0043 5285 6345122",
+    "email": "info@hotel-laendenhof.at",
+    "url": "http://www.hotel-laendenhof.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d41186c6-434d-4dd4-a509-d9ad8e08db68/99/image.jpg",
+      "caption": "Ländenhof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf73b7ef-20b3-4619-8530-1c0e82080889/99/image.jpg",
+      "caption": "Lokal"
+    }
+  ],
+  "url": [
+    "http://www.hotel-laendenhof.at"
+  ]
+}

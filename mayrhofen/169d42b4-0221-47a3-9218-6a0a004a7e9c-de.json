@@ -1,0 +1,169 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://",
+    "http://maps.mayrhofen.at/?foreignResource\u003d169D42B4-0221-47A3-9218-6A0A004A7E9C"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sidanweg 251",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 9243014 ",
+    "faxNumber": "0043 5285 64425 ",
+    "email": "anna.rauch@a1.net"
+  },
+  "name": "Anna und Friedrich Rauch",
+  "description": [
+    "Ruhige Lage, 5 Gehminuten direkt an der Horbergbahn und Schibushaltestelle, \nauf dem Ortsplan Hippach finden Sie uns unter den Planquadrat J5",
+    "Inklusive: Bettwäsche, Strom, Wasser, Heizung und Endreinigung\nExklusive: Handtücher bitte selber mitnehmen\nKaution: 70 Euro (für Schlüssel,…)\nSprachen: Englisch, Deutsch\n\nCheck-In: 13.00 - 18.00 Uhr\nCheck-Out: 10.00 Uhr",
+    "Wegbeschreibung:\nAutobahnausfahrt Zillertal weiter bis Ramsau, Richtung Mayrhofen, nach dem Kreisverkehr recht abbiegen, Richtung Horbergbahn, über den Bahnüberbang bis zum nächsten Kreisverkehr, beim Kreisverkehr\nrechts abbiegen und gleich wieder rechts abbiegen, Sidanweg geradeaus das erste Haus auf der linken Seite, Sidanweg 251, 6283 Schwendau"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/61a79408-6b4d-493e-83ec-816b2d7eddc6/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa1a6c4a-54c6-4b1e-a572-2c1e1f0ac096/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f90d7f9d-43ff-4134-8109-d0920e7a8691/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8ee29fc-653e-4373-a61f-80072aeb7f66/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9369736e-d13e-46e5-807e-2aa5debcd5fa/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f14a0577-1754-469c-80b0-366ae8f7b78f/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/559d534a-5446-41e1-91a5-b107355f0a44/99/image.jpg",
+      "caption": "Hauseingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4c946a6e-ff29-4c0b-b98b-a6dcdb781309/99/image.jpg",
+      "caption": "DSC06863"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/42f0ca71-0640-4080-b859-ce68fe3d8bb9/99/image.jpg",
+      "caption": "Ski- u. Trockenraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1913069",
+    "longitude": "11.8641355"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Wohnung im Erdgeschoss, ca. 90 m² für 6 bis 10 Personen\nVorraum mit Garderobe, Bad (Dusche, Badewanne, Waschbecken) separates WC, Küche (E-Herd, Kühlschrank, Spühlmaschine, Kaffeemaschine, Toaster, Wasserkocher und Geschirr) mit Essecke und eingebauter Liege, Wohnzimmer mit Couch, Sitzecke und TV, zwei Dreibettzimmer, ein Zweibettzimmer, Terrasse.\n\nHinweis: Ein zusätzliches Doppelzimmer mit Dusche/WC außerhalb der Wohnung kann dazu gebucht werden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wohnung Erdgeschoss",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "6"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "108.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "126.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "144.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Wohnung im 1. Stock, ca. 70 m² für 4 bis 6 Personen\nVorraum mit Garderobe, Küche (E-Herd, Kühlschrank, Kaffeemaschine, Toaster, Wasserkocher und Geschirr) mit Essecke und eingebauter Liege, \n3 Doppelzimmer (1 davon mit DU/WC), Badezimmer mit Dusche, Waschbecken und WC, Balkon.\n\nHinweis: Ein zusätzliches Doppelzimmer mit Dusche/WC außerhalb der Wohnung kann dazu gebucht werden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wohnung 1. Stock",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "108.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

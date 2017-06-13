@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BodyOfWater"
+  ],
+  "name": "Stillup Stausee",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1207237256288",
+    "longitude": "11.8683671951294"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Stilluptal",
+    "streetAddress": "Stillup",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT"
+  },
+  "description": "Not only the reservoir (2,5 km length) with its naturally constructed dam is worth visiting, the tollway is an unforgettable experience too. \nExplore the highlying cottages and persuade yourself of the natural beauty of the alps. \n\nHiking destinations in the Stilluptal\nGrüne-Wand-Hütte, Kasseler Hütte, Stilluphaus, Wasserfall",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2e0310cf-b230-4206-8173-2c2d4b0de3ed/99/image.jpg",
+      "caption": "Stillup"
+    }
+  ],
+  "url": [
+    "http://www.mayrhofen.at/de/101029/101105/101141/stilluptal.html"
+  ]
+}

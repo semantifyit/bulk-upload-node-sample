@@ -1,0 +1,67 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Brewery"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Schnapsbrennerei Zeile - Zillertaler Edelbrände"
+    },
+    {
+      "@language": "de",
+      "@value": "Schnapsbrennerei Zeile - Zillertaler Edelbrände"
+    },
+    {
+      "@language": "ru",
+      "@value": "Schnapsbrennerei Zeile - Zillertaler Edelbrände"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1961247",
+    "longitude": "11.8569497"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dorf 179",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 175 57 89 ",
+    "email": "zeile1@utanet.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unsere ausgezeichneten Edelbrände werden nur aus vollreifen Früchten und besten Rohprodukten, nach traditioneller Art im Kupferkessel doppelt gebrannt und bis zur harmonischen Reife gelagert. So entstehen dichte, vielschichtige Edelbrände mit besonderem Aroma\n\nProbieren Sie\u0027s - wir laden Sie gerne ein!\nMarkus Spitaler, Brennmeister"
+    },
+    {
+      "@language": "en",
+      "@value": "\nOur excellent brandies are distilled twice only from fully ripe fruit and the best raw products, the traditional way in copper kettles and stored until harmonious maturity. This results in dense, multi-layered brandies with special flavor\n\nTry it - we are inviting you!\nMarkus Spitaler, Master Distiller"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6a86003-9776-4996-bd77-4ccac3693095/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Brennerei Zeile 1"
+        },
+        {
+          "@language": "de",
+          "@value": "Brennerei Zeile 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Brennerei Zeile 1"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.haus-tipotsch.at.tt"
+  ]
+}

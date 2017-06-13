@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Ferienanlage Hotel Eder",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1971305666932",
+    "longitude": "11.8727231025696"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Eder GmbH",
+    "streetAddress": "Bichl 465",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3286",
+    "faxNumber": "0043 5282 32864",
+    "email": "info@hotel-eder.com",
+    "url": "http://www.hotel-eder.com"
+  },
+  "description": "Create the time to indulge in the essential pleasures of rest, relaxation and revitalisation. Time just for you. Time to relax, to dream and be pampered – all that and more, for a very special holiday!\n\nThe Eder Family and their staff look forward to meeting you!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1927fb0d-bbdf-4226-8949-fb9921210c88/99/image.jpg",
+      "caption": "Eder - Ferienanlage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e8067606-0d19-4c9f-90ee-69ea3496d344/99/image.jpg",
+      "caption": "Infrarotkabine"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4085fb11-ba99-4188-b7a9-6205efa3c419/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f48491fa-e1a4-4246-addd-43db81c6e69d/99/image.jpg",
+      "caption": "Swimming pool"
+    }
+  ],
+  "url": [
+    "http://www.hotel-eder.com"
+  ]
+}

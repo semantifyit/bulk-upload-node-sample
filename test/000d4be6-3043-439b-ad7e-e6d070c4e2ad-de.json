@@ -1,0 +1,76 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Kermes \"Kirmes\"",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Festhalle Fügen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Franziskusweg 1",
+        "addressLocality": "Fügen",
+        "postalCode": "6263",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5288 62262",
+        "email": "fuegen@best-of-zillertal.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Festhalle Fügen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Franziskusweg 1",
+        "addressLocality": "Fügen",
+        "postalCode": "6263",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5288 62262",
+        "email": "fuegen@best-of-zillertal.at"
+      }
+    },
+    "description": "Kulturfest",
+    "startDate": "2017-05-20T10:00:00",
+    "endDate": "2017-05-20"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Kermes \"Kirmes\"",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Festhalle Fügen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Franziskusweg 1",
+        "addressLocality": "Fügen",
+        "postalCode": "6263",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5288 62262",
+        "email": "fuegen@best-of-zillertal.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Festhalle Fügen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Franziskusweg 1",
+        "addressLocality": "Fügen",
+        "postalCode": "6263",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5288 62262",
+        "email": "fuegen@best-of-zillertal.at"
+      }
+    },
+    "description": "Kulturfest",
+    "startDate": "2017-05-21T10:00:00",
+    "endDate": "2017-05-21"
+  }
+]

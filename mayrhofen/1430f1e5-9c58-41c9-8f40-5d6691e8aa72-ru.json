@@ -1,0 +1,365 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.tiscover.com/at/unterkuenfte/landhaus-rauch",
+    "http://maps.mayrhofen.at/?foreignResource\u003d1430F1E5-9C58-41C9-8F40-5D6691E8AA72"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Rauch, Landhaus",
+    "streetAddress": "Mühlbach 294",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(+43) 5285 63676",
+    "email": "landhaus_rauch@gmx.at",
+    "url": "http://www.landhaus-rauch.at"
+  },
+  "name": "Landhaus Rauch",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e3b00f30-8f96-47e2-a128-37ae96fe3b61/99/image.jpg",
+      "caption": "Landhaus Rauch Schwendau Winter1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ad24d46-9199-4add-9131-2cb81d262f8b/99/image.jpg",
+      "caption": "Landhaus Rauch Schwendau Winter3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7704409e-447d-4844-bd4e-5e49b0708c58/99/image.jpg",
+      "caption": "Landhaus Rauch Schwendau - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/93f106b8-eb2b-4caf-9761-1ff323e5c5e3/99/image.jpg",
+      "caption": "Landhaus Rauch Schwendau - Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef6af119-1007-4e05-8c6a-8cdb571e73d1/99/image.jpg",
+      "caption": "Landhaus Rauch Schwendau - Sommer/Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/297c9301-15b3-4c51-b927-9c45033822bc/99/image.jpg",
+      "caption": "Landhaus Rauch - Ausblick 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7d8deee-551a-483b-97f9-9b293589ee44/99/image.jpg",
+      "caption": "Landhaus Rauch - Ausblick 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/794bccfc-00ad-4140-8566-63f1cc906763/99/image.jpg",
+      "caption": "Landhaus Rauch - Garten "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ede70601-651b-4fb1-8fc1-8d476e28a58d/99/image.jpg",
+      "caption": "Landhaus Rauch - Frühstück 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3db23c22-3cd8-4c4f-a4c4-3dc7b7c69438/99/image.jpg",
+      "caption": "Landhaus Rauch - Frühstück 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8115035d-0d51-4c6d-b92d-241ba4e8c446/99/image.jpg",
+      "caption": "Landhaus Rauch - DZ1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af33898c-c94a-41ab-a850-8013b504c5b3/99/image.jpg",
+      "caption": "Landhaus Rauch - DZ2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2b5d3992-0e87-43ed-b494-0028849490ef/99/image.jpg",
+      "caption": "Landhaus Rauch - DZ3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2967bb7d-764e-4607-85e0-60ca2bb4dec5/99/image.jpg",
+      "caption": "Landhaus Rauch - DZ4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/899898b8-39fe-4acf-96b7-37f729ce1acb/99/image.jpg",
+      "caption": "Landhaus Rauch - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4cf8455d-1e7f-4b39-af52-a17ec939b418/99/image.jpg",
+      "caption": "Landhaus Rauch - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/701a40cc-4681-4685-a350-0d33ba7f945f/99/image.jpg",
+      "caption": "Landhaus Rauch - Küche2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13d55238-28fc-40fa-b9b7-ed5fb52a8c46/99/image.jpg",
+      "caption": "Landhaus Rauch - Küche3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/166df448-842d-4765-8047-6b5336702d3f/99/image.jpg",
+      "caption": "Landhaus Rauch - Sitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/35e17c4c-62b4-4e83-8edb-9653ad27dc58/99/image.jpg",
+      "caption": "Landhaus Rauch - Zimmer Fewo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a79452af-6d25-4d82-8f61-1be518193ea7/99/image.jpg",
+      "caption": "Landhaus Rauch - Zimmer Fewo2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a20d54dd-8d2d-420b-aff0-dd2e58114fde/99/image.jpg",
+      "caption": "Landhaus Rauch - Kasten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b16ad4c6-7d10-468c-971e-2300d7c62890/99/image.jpg",
+      "caption": "Landhaus Rauch - Gang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5fd6679d-1af2-4752-ace2-b867f21c7f4e/99/image.jpg",
+      "caption": "Landhaus Rauch - Balkon"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1878787393446",
+    "longitude": "11.8601220846176"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет, балкон",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет, балкон",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "комната на двоих, shower, toilet",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/e0f58a44-4285-48b7-996d-e09509fc9995/99/image.jpg",
+              "caption": "Doppelzimmer 1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a173601a-ccc9-444e-8e62-0f2096d906c3/99/image.jpg",
+              "caption": "Doppelzimmer 2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d2d9a0f4-9bc3-48d9-932b-26c32776fa1c/99/image.jpg",
+              "caption": "Doppelzimmer 3"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ef0a3448-f0f3-4186-acb1-886716dcf90b/99/image.jpg",
+              "caption": "Doppelzimmer 4"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/49a8d41c-f34b-4ae6-8fac-2c916429a829/99/image.jpg",
+              "caption": "Bad "
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "29.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент, shower, toilet, 2 спальни",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/87f30641-c373-46cb-a9f2-a9a53fce7a4b/99/image.jpg",
+              "caption": "Zimmer 1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/66b8292f-1b05-4531-b577-46c07a5a2088/99/image.jpg",
+              "caption": "Zimmer 2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/5f6e5330-e1a4-4e96-9e01-c47188953230/99/image.jpg",
+              "caption": "Kasten "
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/0c2bf5e7-5d8e-47a4-bc18-7bf63fa53389/99/image.jpg",
+              "caption": "Küche 1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/5d70d427-a8ff-4787-9589-0cb9f3b5268a/99/image.jpg",
+              "caption": "Küche 2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ff69b5ce-b946-4fbe-907e-b2fda5a7587b/99/image.jpg",
+              "caption": "Küche 3"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/dfec0c28-3a71-4cd0-885b-fcc049c51156/99/image.jpg",
+              "caption": "Sitzgelegenheit"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/bf84e41f-ec77-4ee9-8276-8b539e9e5cc8/99/image.jpg",
+              "caption": "Gang"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/06622161-9ffb-4d89-bb07-1eed1ff9455d/99/image.jpg",
+              "caption": "Balkon"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "26.67",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "25.00",
+          "maxPrice": "27.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "22.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "20.00",
+          "maxPrice": "23.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "18.57",
+          "maxPrice": "22.14",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

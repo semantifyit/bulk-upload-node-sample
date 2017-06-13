@@ -1,0 +1,641 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hotel-eder.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d1344C213-343F-4C89-A05C-0C668AF5F4A9"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Eder GmbH",
+    "streetAddress": "Bichl 465",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3286",
+    "faxNumber": "0043 5282 32864",
+    "email": "info@hotel-eder.com",
+    "url": "http://www.hotel-eder.com"
+  },
+  "name": "Ferienanlage Eder",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Restaurant, Wellnessbereich, Hallenbad, Kinderspielraum, Tischtennis, Dart, Fußball-Volleyballplatz, Liegewiese, großer Parkplatz,"
+    },
+    {
+      "@language": "de",
+      "@value": "Frühstücksbuffet, Menüwahl-4 Gänge,wöchentlich Themenbuffet, Diätküche, Zimmerservice\n\nHunde Euro 4,00, Aufpreis für HP in Ferienwohnung Euro 20,50 für Erwachsene, Frühstücksbuffet Euro 9,50 pro Erw. und Tag.\n\nPreise inclusive Endreinigung und Ortstaxe"
+    },
+    {
+      "@language": "de",
+      "@value": "gratis Leihräder, Mountianbikes, Citybikes, Kinderräder, freier Eintritt in das Erlebnisschwimmbad Hippach"
+    },
+    {
+      "@language": "en",
+      "@value": "restaurant, welness area, indoor swimming pool, table tennis, dart, football - volleyballplace, sunbathing lawn, big parking lot"
+    },
+    {
+      "@language": "en",
+      "@value": "breakfast buffet, 4 cours menue, theme-buffet once a week, diet-kitchen, roomservice\n\ndogs € 4,--, possible with halfboard € 20,50  or breakfast buffet € 9,50 per day and person.\n\nPrices inkl. final cleaning and taxes."
+    },
+    {
+      "@language": "en",
+      "@value": "payless mountain-, citybikes and bikes for children, free entrance to the experience outdoor swimmingpool and payless use of the tennis courts in Hippach"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ce52ee1e-58e1-46e2-8f61-5cb29b97c2b5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienanlage Eder Ramsau - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienanlage Eder Ramsau - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienanlage Eder Ramsau - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6acd7a36-bfe5-4e3f-a7b0-fafce9f572e0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienanlage Eder - Ausblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienanlage Eder - Ausblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienanlage Eder - Ausblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b78fea33-aeea-42a3-907d-4f0072b1be24/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienanlage Eder - See Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienanlage Eder - See Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienanlage Eder - See Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/21c480cb-2148-43f4-94ec-ddb64b3caff7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienanlage Eder - See Winter1"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienanlage Eder - See Winter1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienanlage Eder - See Winter1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a093e7ba-30a4-47ed-b191-f3c6182b58b0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienanlage Eder - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienanlage Eder - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienanlage Eder - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/555f7585-1c57-4ba5-8f21-e53f308d96e8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienanlage Eder - Winter1"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienanlage Eder - Winter1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienanlage Eder - Winter1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d0cacc17-f989-42f2-8705-3b4c7a6e498a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienanlage Eder-Appartment Wohnung"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienanlage Eder-Appartment Wohnung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienanlage Eder-Appartment Wohnung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a859ed17-9301-48df-95f6-ba7885fbf1a6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienanlage Eder - Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienanlage Eder - Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienanlage Eder - Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ce8cb7ff-bd48-4062-8ab7-9333ab037a5c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienanlage Eder - Schlafzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienanlage Eder - Schlafzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienanlage Eder - Schlafzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6e0ca63-a604-45e7-a386-4afe51ff7b17/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienanlage Eder - Polster"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienanlage Eder - Polster"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienanlage Eder - Polster"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1968863508431",
+    "longitude": "11.8727070093155"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Komfortable Wohnung mit großem Balkon, Wohnküche, 2 getrennte Schlafzimmer, Dusche oder Bad WC, Fön, Sat-TV und Safe\n\nGrundpreis für 4 Personen Aufpreis € 16,- je weitere Pers.\nHallenbad und Saunabenützung im Preis enthalten.\nHalbpension möglich."
+        },
+        {
+          "@language": "en",
+          "@value": "comfortable appartement with big balcony, living kitchen, 2 seperate bedrooms, shower and bath/WC, Sat-TV and save"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC 2-4 Pers."
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "78.00",
+          "maxPrice": "275.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "238.00",
+          "maxPrice": "275.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "238.00",
+          "maxPrice": "275.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Komfortable Wohnung mit großem Balkon, Wohnküche, 2 getrennte Schlafzimmer, Dusche oder Bad WC, Fön, Sat-TV und Safe\n\nGrundpreis für 4 Personen Aufpreis € 16,- je weitere Pers.\nHallenbad und Saunabenützung im Preis enthalten.\nHalbpension möglich."
+        },
+        {
+          "@language": "en",
+          "@value": "comfortable appartement with big balcony, living kitchen, 2 seperate bedrooms, shower and bath/WC, Sat-TV and save"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC 2-4 Pers. - 7"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "78.00",
+          "maxPrice": "275.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "238.00",
+          "maxPrice": "275.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "238.00",
+          "maxPrice": "275.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche oder Bad, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower or bath, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, Душевая кабина или ванна, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Komfortabel Wohnung mit großem Balkon, Wohnküche, 3 getrennte Schlafzimmer , Dusche oder Bad,Fön, getrenntes WC, Sat-TV und Safe\n\nPreis für 5 Personen je weitere Pers. € 16,-\nHallenbad und Saunabenützung inclusive.\nHalbpension möglich."
+        },
+        {
+          "@language": "en",
+          "@value": "comfortable appartement with big balcony, living area with kitchen, 3 seperate bedrooms, shower or bath, seperate WC, Sat-TV and save"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/3 Schlafräume/Du od. Bad, WC, 4-5 Pers."
+            },
+            {
+              "@language": "en",
+              "@value": "ap./3 bedrooms/shower or bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, Душевая кабина или ванна, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "238.00",
+          "maxPrice": "275.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "283.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower or bath, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, Душевая кабина или ванна, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Komfortable Wohnung mit großem Balkon, Wohnküche, getrenntes Schlafzimmer, Dusche WC, Fön, , Sat-TV und Safe.\n\nAufpreis pro Kind Euro 16,00\n"
+        },
+        {
+          "@language": "en",
+          "@value": "comfortable appartement with big balcony, living are with kitchen, seperate bedrooms, shower and bath/WC, Sat-TV and save"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/1 Schlafraum/Dusche od. Bad,WC 2-3 Pers."
+            },
+            {
+              "@language": "en",
+              "@value": "ap./1 bedroom/shower or bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, Душевая кабина или ванна, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "78.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "179.00",
+          "maxPrice": "195.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Appartement für 4-8 Personen"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartement for 4-8 persons"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment 4-8 Personen"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "294.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "339.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "384.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "0.00",
+          "maxPrice": "429.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "0.00",
+          "maxPrice": "474.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

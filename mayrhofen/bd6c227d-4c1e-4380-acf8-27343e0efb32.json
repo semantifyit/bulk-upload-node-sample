@@ -1,0 +1,577 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dBD6C227D-4C1E-4380-ACF8-27343E0EFB32",
+    "http://booking.mayrhofen.at/mayrhofen/de/accommodation/detail/ZIL/BD6C227D-4C1E-4380-ACF8-27343E0EFB32/lindenhof"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartment Lindenhof",
+    "streetAddress": "Schweinberg 44",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 699 1012 6295",
+    "email": "lindenhof@interwave.at",
+    "url": "http://booking.mayrhofen.at/mayrhofen/de/accommodation/detail/ZIL/BD6C227D-4C1E-"
+  },
+  "name": "Lindenhof",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Gepflegtes Haus in sonniger, ruhiger Aussichtslage, maximal 5 Autominuten ins Zentrum und zu den Seilbahnen. Eigener Parkplatz, Garten und Liegewiese. Hanglage im Winter eventuell Schneeketten !"
+    },
+    {
+      "@language": "de",
+      "@value": "Inklusive: Wäsche, Strom, Heizung im Winter.\nExklusive: Endreinigung einmalig, Heizung im Sommer\nNichtraucher Wohnung\nEndreinigung ist je nach Belegung € 40,- bzw. 50 €,-"
+    },
+    {
+      "@language": "de",
+      "@value": "Check-in: 14:00 Uhr\nCheck-out: 10:00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Well tended house situated in a sunny, quiet position enjoying wonderful views, only a 5 minute drive from the town centre and lifts. Car park, garden and sun bathing area. Situated on a slope, where snow chains may be needed in winter."
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes: Bed linen/towels, electricity, heating in winter.\nExcludes: a final cleaning charge, heating in summer.\nNo smoking apartment!\nfinal cleaning between 40 - 50,- €"
+    },
+    {
+      "@language": "en",
+      "@value": "Check-in: 14:00 \nCheck-out: 10:00 "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad94321b-09b2-4c91-86f3-0f02c28ca518/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Lindenhof Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Lindenhof Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Lindenhof Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4107f83c-c254-48c8-969b-1b741139025b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Lindenhof Mayrhofen - Sommer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Lindenhof Mayrhofen - Sommer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Lindenhof Mayrhofen - Sommer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aed00bcd-566c-43f4-bac9-9b27ac987a71/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Lindenhof Mayrhofen - Sommer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Lindenhof Mayrhofen - Sommer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Lindenhof Mayrhofen - Sommer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e8f5727e-a3d7-4a9d-b649-9e8d76de32c8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Lindenhof Mayrhofen - Sommer3"
+        },
+        {
+          "@language": "en",
+          "@value": "Lindenhof Mayrhofen - Sommer3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Lindenhof Mayrhofen - Sommer3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ffa49d8f-77e0-47f9-88ee-31988b3fdfbf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Lindenhof Mayrhofen - Hausansicht mit Garten"
+        },
+        {
+          "@language": "en",
+          "@value": "Lindenhof Mayrhofen - Hausansicht mit Garten"
+        },
+        {
+          "@language": "ru",
+          "@value": "Lindenhof Mayrhofen - Hausansicht mit Garten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b5d47dc7-6d84-4bbc-bf26-242006a2b200/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Lindenhof Mayrhofen - Garten"
+        },
+        {
+          "@language": "en",
+          "@value": "Lindenhof Mayrhofen - Garten"
+        },
+        {
+          "@language": "ru",
+          "@value": "Lindenhof Mayrhofen - Garten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9d1c3c10-a22f-41d5-900c-04a1cb8e2f8d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "kuh auf der alm"
+        },
+        {
+          "@language": "en",
+          "@value": "kuh auf der alm"
+        },
+        {
+          "@language": "ru",
+          "@value": "kuh auf der alm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/acc0b89b-85fa-4cc5-8a7f-abc2914a8369/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahorn White Lounge"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahorn White Lounge"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahorn White Lounge"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8bc68d0a-69f9-4122-9c4f-a9761a92f118/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "bike mayrhofen"
+        },
+        {
+          "@language": "en",
+          "@value": "bike mayrhofen"
+        },
+        {
+          "@language": "ru",
+          "@value": "bike mayrhofen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/792c9c9a-bd2f-4aae-9443-8eb716928ae2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "skifahrer-in-action"
+        },
+        {
+          "@language": "en",
+          "@value": "skifahrer-in-action"
+        },
+        {
+          "@language": "ru",
+          "@value": "skifahrer-in-action"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16590a9a-58e1-4089-b0c0-9e275d77051d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "en",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wanderung Olpererhütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13ba383c-3894-4a18-b47c-544e6343246d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+        },
+        {
+          "@language": "en",
+          "@value": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d15ab101-b58a-4195-907e-3ca63c76450a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer_Gipfel_Panorama ("
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer_Gipfel_Panorama ("
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer_Gipfel_Panorama ("
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1866173329883",
+    "longitude": "11.8774437904358"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "70m² große Ferienwohnung, komfortabel und gemütlich eingerichtet, Wohnzimmer mit SAT-TV, seperate Küche m. gemütlicher Sitzecke, Herd m. Backrohr, Kaffeemaschine, Mikrowelle, Wasserkocher, Toaster, Kühlschrank u. Geschirr. Zwei Schlafzimmer - 1 Doppelzimmer und Zweibettzimmer, Bad und separate Dusche, WC seperat, Vorraum mit Garderobe, großer Balkon, sonnige Ruhige Aussichtslage;"
+        },
+        {
+          "@language": "en",
+          "@value": "70m² apartment, comfortable and pleasantly furnished, lounge with Sat-TV and radio, separate kitchen with comfortable seating area, electric oven, coffee machine, microwave, fridge and crockery. Two bedrooms, shower and bath, separate WC, entrance hall with cloakroom, large balcony, sunny position enjoying lovely views."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/2-4 Personen"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower,bath tube,WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "80m² große Ferienwohnung, komfortabel eingerichtet, großes Wohnzimmer mit SAT-TV, seperate Küche mit gemütlicher Sitz-Ecke, Herd m. Bachrohr, Kühlschrank, Kaffeemaschine, Mikrowelle u. Geschirr, Toaster, Wasserkocher, 2 große Doppelbett Schlafzimmer, 1 Einbettzimmer alle mit eigener Dusche, WC seperat, Vorraum m. Garderobe, großer Balkon, sonnige ruhige Aussichtslage;"
+        },
+        {
+          "@language": "en",
+          "@value": "80m² apartment, comfortably furnished, large lounge with Sat-TV, separate kitchen with pleasant seating area, oven, fridge, coffee machine, microwave and crockery, 2 large double bedrooms, shower, bath and separate WC, entrance hall with cloakroom, large balcony, sunny position enjoying lovely views, including bed linen/towels, electricity and heating! Well tended house, situated on a slope where snow chains may be needed in winter!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/4-5 Personen"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower,bath tube,WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "70m² große Ferienwohnung, komfortabel eingerichtet, großes Wohnzimmer mit SAT-TV, seperate Küche mit gemütlicher Sitz-Ecke, Herd m. Backrohr, Kühlschrank, Kaffeemaschine, Mikrowelle u. Geschirr, Toaster, Wasserkocher, 2 große Doppelbett Schlafzimmer, Dusche, WC, Vorraum m. Garderobe, großer Balkon, sonnige ruhige Aussichtslage;"
+        },
+        {
+          "@language": "en",
+          "@value": "70 m ² big holiday apartment, comfortably furnished, big sitting room with SAT TV, seperate kitchen with comfortable living-room furniture, cooker m. Baking pipe, fridge, coffeemaker, microwave and dishes, toaster, water cooker, 2 big double beds bedroom, shower, WC, anteroom m. Cloakroom, big balcony, sunny quiet view situation; "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement/Fewo 4 Personen (Nr1)"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "70m² große Ferienwohnung, komfortabel eingerichtet, großes Wohnzimmer mit SAT-TV, seperate Küche mit gemütlicher Sitz-Ecke, Herd m. Backrohr, Kühlschrank, Kaffeemaschine, Mikrowelle u. Geschirr, Toaster, Wasserkocher, 2 große Doppelbett Schlafzimmer, Dusche, WC, Vorraum m. Garderobe, großer Balkon, sonnige ruhige Aussichtslage;"
+        },
+        {
+          "@language": "en",
+          "@value": "70 m ² big holiday apartment, comfortably furnished, big sitting room with SAT TV, seperate kitchen with comfortable living-room furniture, cooker m. Baking pipe, fridge, coffeemaker, microwave and dishes, toaster, water cooker, 2 big double beds bedroom, shower, WC, anteroom m. Cloakroom, big balcony, sunny quiet view situation; "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement/Fewo 4 Personen (Nr2)"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

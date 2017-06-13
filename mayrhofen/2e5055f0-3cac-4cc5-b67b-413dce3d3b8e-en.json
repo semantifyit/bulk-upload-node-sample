@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Moreboards",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1646655225829",
+    "longitude": "11.8617582321167"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Moreboards GmbH",
+    "streetAddress": "Hauptstraße 456",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64444",
+    "email": "mayrhofen@moreboards.com",
+    "url": "http://www.moreboards.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc54d495-b70d-4d14-9bf9-aa9a8d6ed02f/99/image.jpg",
+      "caption": "logo"
+    }
+  ],
+  "url": [
+    "http://www.moreboards.com"
+  ]
+}

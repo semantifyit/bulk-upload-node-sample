@@ -1,0 +1,102 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Gasthof Zillertaler Weinstadl"
+    },
+    {
+      "@language": "de",
+      "@value": "Gasthof Zillertaler Weinstadl"
+    },
+    {
+      "@language": "ru",
+      "@value": "Gasthof Zillertaler Weinstadl"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2035052962451",
+    "longitude": "11.8660926818848"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zillertaler Weinstadl",
+    "streetAddress": "Lindenstraße 13a",
+    "addressLocality": "Hippach ",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3314",
+    "faxNumber": "0043 5282 33145",
+    "email": "info@zillertaler-weinstadl.com",
+    "url": "http://www.zillertaler-weinstadl.com"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich willkommen im Gasthof - Hotel Zillertaler Weinstadl!\nüberspringen Wer die Berge liebt, ist bei uns richtig! Unser Gasthof liegt im Zentrum von Hippach. Guter Ausgangspunkt im Sommer für schöne Bergwanderungen und im Winter um in die Skigebiete Ski Zillertal 3000, Zillertal Arena und Hintertuxer Gletscher zu gelangen. \n\nSkibushaltestelle vor unserem Haus. Gerne verwöhnen wir Sie mit unserer gutbürgerlichen Küche. Wir, die Wirtsfamilie, legen besonderen Wert darauf, Ihnen einen erholsamen Urlaub und familiäres Ambiente zu bieten. \n\nWir würden uns freuen, Sie bei uns begrüßen zu dürfen! \nFamilie Peter und Annelies Hundsbichler\n\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f773226-1665-4782-a0d8-241d6e7ad871/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Weinstadl"
+        },
+        {
+          "@language": "de",
+          "@value": "Weinstadl"
+        },
+        {
+          "@language": "ru",
+          "@value": "Weinstadl"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c250af5-120a-4c95-8537-3f01582d682b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Gasthof Weinstadl"
+        },
+        {
+          "@language": "de",
+          "@value": "Gasthof Weinstadl"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Weinstadl"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db12171f-bd8a-4610-b290-d2ab6c3afb4a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Titelbild"
+        },
+        {
+          "@language": "de",
+          "@value": "Titelbild"
+        },
+        {
+          "@language": "ru",
+          "@value": "Titelbild"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.zillertaler-weinstadl.com"
+  ]
+}

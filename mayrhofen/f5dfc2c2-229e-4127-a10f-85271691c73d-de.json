@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Optik Amor",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1620576863698",
+    "longitude": "11.8610179424286"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Optik Amor",
+    "streetAddress": "Hauptstraße 487",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62541",
+    "faxNumber": "(0043) 5285 62541 4 ",
+    "email": "amor.optik@tirol.com",
+    "url": "http://www.amor-optik.at"
+  },
+  "description": [
+    "Aus Liebe zu schönen Dingen.\nDie Vielfalt der in unserem Hause angebotenen Dienstleistungen spiegelt sich in einer grossen Anzahl an Produkten wider, die wir unseren Kunden anbieten können. \nDer ehrliche Umgang mit den Menschen ist für uns seit mehreren Generationen oberste Priorität.\nWir wollen zufriedene Kunden – dafür nehmen wir uns Zeit! \nIn unserem Familienbetrieb sind Optiker, Uhrmacher, Graveure und VerkäuferInnen tätig, die mit Leidenschaft unsere Firmenphilosophie leben. \nAll diese Dinge tragen dazu bei, dass wir eine große Anzahl an zufriedenen Kunden haben, für deren Treue wir uns recht herzlich bedanken möchten. \nWir wollen auch in Zukunft Ihr vertrauensvoller Partner sein und Sie topaktuell, fachkundig und gewissenhaft beraten. \nWir freuen uns auf Ihren geschätzten Besuch. \nVitus, Werner und Harald Amor\n",
+    "Mo - Fr: 8.00 - 12.00 Uhr, 14.00 - 18.30 Uhr\nSa: 8.00 - 12.00 Uhr \n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/40f24183-f5cb-484f-b8d5-360c250fe9f2/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cb924a64-cf33-4d68-84b7-0ac55772d68c/99/image.jpg",
+      "caption": "Team in Mayrhofen"
+    }
+  ],
+  "url": [
+    "http://www.amor-optik.at"
+  ]
+}

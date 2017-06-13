@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Organization",
+    "Place"
+  ],
+  "name": "Kinderspielplatz Ofenach",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1005214195502",
+    "longitude": "11.8069516500824"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kinderspielplatz",
+    "streetAddress": "Ofenach",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT"
+  },
+  "description": "Am neu renovierte Kinderspielplatz im Naherholungsgebiet Ofenach (oberhalb der Pfarrkirche in Ginzling) können sich die Kinder so richtig austoben. Schaukel, Wippe, Rutsche, Sandkasten,... lassen keine Wünsche offen.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c51b246b-d934-4c5d-b687-fa1dfe02e3f5/99/image.jpg",
+      "caption": "Spielplatz Ofenach 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ee7efad-0024-493e-9481-de89a30540a6/99/image.jpg",
+      "caption": "Spielplatz Ofenach 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2ed185e-363b-4c6e-abd7-17ad19f3ee57/99/image.jpg",
+      "caption": "Spielplatz Ofenach 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a2356783-b866-4615-98e2-d972cb2f8661/99/image.jpg",
+      "caption": "Spielplatz Ofenach 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ecb5ba3-0d9b-42cd-a717-dc36aa02eac4/99/image.jpg",
+      "caption": "Spielplatz Ofenach 5"
+    }
+  ],
+  "url": [
+    "http://www.mayrhofen.at/de/101029/101030/101549/kinderspielplaetze.html"
+  ]
+}

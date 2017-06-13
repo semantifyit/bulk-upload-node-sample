@@ -1,0 +1,145 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://apartment-fiona.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d651D4880-B825-49AB-B0D2-DE1A69C55AB0"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fiona, Apartment ",
+    "streetAddress": "Waldfeldweg 632",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 699 12697620",
+    "email": "info@apartment-fiona.at",
+    "url": "www.apartment-fiona.at"
+  },
+  "name": "Apartment Fiona",
+  "description": [
+    "Our roof-terrace-flat (85 sqm) is located in a silent but central byway. Within 3-5 minutes on foot you can easily reach the mainroad with its numerous shopping and entertainment possibilities as well as the cabins to the ski resorts Penken and Ahorn.",
+    "Our offer includes the cost of electricity, firing, bedding and towels plus the fully equipped kitchen (dishes, dishwasher, cooker, fridge, microwave, coffee machine, toaster etc.). The costs of cleaning(50€) is not included.",
+    "Stay on the B169 after the roundabout at the beginning of Mayrhofen. Pass the station and the BP gasonline and turn left after 300m at the company Eisenbacher/Auto Skoda. Then follow the sign \"Waldfeldweg\" on the left side. You will reach our Apartment (No 632) after 100m."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3fccdfb-4d88-4360-aabc-4cc7072df0a9/99/image.jpg",
+      "caption": "Apartment Fiona Mayrhofen - Sommer 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ea1ff358-4ebe-4147-9c68-d69c39b98a72/99/image.jpg",
+      "caption": "DSC09541"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e65f33b-1c6f-482b-89d7-248922faba07/99/image.jpg",
+      "caption": "DSC09618"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/62c34828-d1ab-4f26-a079-4b71adc67eb0/99/image.jpg",
+      "caption": "DSC09560"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/73407014-aab1-4bab-96db-c53ce86d13ee/99/image.jpg",
+      "caption": "DSC09628"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7f64d50-7f1c-4fbe-83d6-2cd87b2a5d74/99/image.jpg",
+      "caption": "DSC09632"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad51bc58-02ae-4f38-9a48-b5acbe8da7b1/99/image.jpg",
+      "caption": "DSC09537"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6e9d8af6-ffaf-49ff-9436-2d6734c214e0/99/image.jpg",
+      "caption": "DSC09625"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53073389-ee58-4012-9613-d96754bf75cc/99/image.jpg",
+      "caption": "DSC09615"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98e4018b-20c8-4229-9423-65ce396e1eee/99/image.jpg",
+      "caption": "apartment_fiona_mayrhofen___sommer_1_"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1643591540558",
+    "longitude": "11.8572360277176"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet",
+      "description": "",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "95.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "105.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

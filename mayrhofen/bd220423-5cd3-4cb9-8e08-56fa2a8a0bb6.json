@@ -1,0 +1,83 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Drechslerei, Holzwarengeschäft Buchberger Walter"
+    },
+    {
+      "@language": "de",
+      "@value": "Drechslerei, Holzwarengeschäft Buchberger Walter"
+    },
+    {
+      "@language": "ru",
+      "@value": "Drechslerei, Holzwarengeschäft Buchberger Walter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1666473",
+    "longitude": "11.8643102"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pfarrer-Krapf-Straße 394",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62698 ",
+    "email": "firma@mikesch.co.at",
+    "url": "http://www.drechslerei-buchberger.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Seit 1903 gibt es die Drechslerwerkstatt Buchberger in Mayrhofen.\nHier werden aus Holzarten wie Zirbel-Kiefer, Kirschbaum, Nussholz, Esche und vielen weiteren heimischen Hölzern schöne Dinge des täglichen Gebrauchs oder zur Dekoration im Wohnbereich erzeugt. Eine Spezialität unserer Werkstatt sind Schüsseln bis zu einem Durchmesser von 80 cm, die oftmals als Buffet- bzw. Salatschüsseln verwendet werden. Viele der selbst erzeugten Holzwaren werden in unserem Fachgeschhäft in Mayrhofen im Zillertal verkauft.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e50f34c-cbe3-4605-92b5-a411b8e0c367/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Drechslerei Buchberger"
+        },
+        {
+          "@language": "de",
+          "@value": "Drechslerei Buchberger"
+        },
+        {
+          "@language": "ru",
+          "@value": "Drechslerei Buchberger"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e10c6fd2-8688-437a-a368-015ca892d264/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.mikesch.co.at"
+  ]
+}

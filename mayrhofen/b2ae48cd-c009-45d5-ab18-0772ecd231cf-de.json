@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "BookStore"
+  ],
+  "name": "Bahnhofskiosk Wechselberger",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.16962",
+    "longitude": "11.8627685"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhofskiosk",
+    "streetAddress": "Am Marktplatz 200 ",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 64417"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81a3fa05-4e14-4ebe-af4d-5e46aface52c/99/image.png",
+      "caption": "Bahnhofskiosk"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

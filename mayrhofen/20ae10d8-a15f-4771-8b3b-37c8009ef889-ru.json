@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Brewery"
+  ],
+  "name": "Schnapsbrennerei Trummlerhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1880202",
+    "longitude": "11.8770122"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schnapsbrennerei Trummlerhof",
+    "streetAddress": "Schweinberg 40",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 49 36 002",
+    "email": "Robert.Eberharter@aon.at",
+    "url": "http://www.trummlerhof.at/kontakt.htm"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db1f1170-eb24-4c31-b706-d4cbd699adf6/99/image.jpg",
+      "caption": "Trummlerhof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/99283d75-f2dd-4ea9-81ca-3df4b73bc07a/99/image.jpg",
+      "caption": "Trummlerhof 1"
+    }
+  ],
+  "url": [
+    "http://www.trummlerhof.at/kontakt.htm"
+  ]
+}

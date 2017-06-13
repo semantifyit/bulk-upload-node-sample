@@ -1,0 +1,71 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Alpengasthaus Wiesenhof 1056m"
+    },
+    {
+      "@language": "de",
+      "@value": "Alpengasthaus Wiesenhof 1056m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Alpengasthaus Wiesenhof 1056m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1510340611438",
+    "longitude": "11.8581104278564"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Wiesenhof",
+    "streetAddress": "Hauserberg 930",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 64814",
+    "faxNumber": "(0043) 5285 64814",
+    "email": "alpengasthaus.wiesenhof@a1.net"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Beliebtes Ausflugsgasthaus mit einem herlichen Ausblick auf das Zillertal und seine Bergwelt. Bodenständige Küche mit heimischen Spezialitäten und Produkten aus der eigenen Landwirtschaft!"
+    },
+    {
+      "@language": "de",
+      "@value": "ganzjährig geöffnet, von 1. November bis mitte November geschlossen.\n\nkeine Übernachtung möglich "
+    },
+    {
+      "@language": "en",
+      "@value": "open the whole year, from 1. November till the middle of November closed\n\nno overnight stay possible "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0cd7b9bd-729b-44fa-a2f4-48e2bc1e95bd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ]
+}

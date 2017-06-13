@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Pharmacy"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Steinbockapotheke"
+    },
+    {
+      "@language": "de",
+      "@value": "Steinbockapotheke"
+    },
+    {
+      "@language": "ru",
+      "@value": "Steinbockapotheke"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1660842776057",
+    "longitude": "11.8623322248459"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Steinbockapotheke",
+    "streetAddress": "Hauptstraße 444",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62313",
+    "faxNumber": "0043 5285 62313 23 ",
+    "email": "info@steinbock-apotheke.at",
+    "url": "http://www.steinbock-apotheke.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich willkommen in der Steinbock Apotheke im Zillertal, dem \"aktivsten Tal Tirols\".\n\nSeit 1951 sind wir der Gesundheitspartner in Mayrhofen, vor allem bei Sport und Freizeitaktivitäten können wir Ihnen als kompetenter Berater zur Seite stehen.\n\nDie langjährige Tradition und die Modernität des Unternehmens sind hier kein Widerspruch. Ob Omas Rezepturen, Hausspezialitäten, ihre spezielle Teemischung oder ein Gesundheitscheck mit Blutdruck-, Cholesterin- und Blutzuckermessung, wir sind stets um Sie bemüht. Falls Sie einmal ihre Tabletten daheim vergessen haben, wir besorgen jedes ausländische Medikament innerhalb von 1 bis 2 Werktagen.\n\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Mo-Fr: 8.00 - 12.30 und 14.30 -18.30 Uhr\nSa: 8.00 - 12.00 Uhr"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ef3aa4b-8f80-43c8-a0b4-113b21f32192/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Steinbock"
+        },
+        {
+          "@language": "de",
+          "@value": "Steinbock"
+        },
+        {
+          "@language": "ru",
+          "@value": "Steinbock"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.steinbock-apotheke.at"
+  ]
+}

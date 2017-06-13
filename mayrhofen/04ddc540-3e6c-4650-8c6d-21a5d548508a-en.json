@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub"
+  ],
+  "name": "Club Down Stairs",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1661888",
+    "longitude": "11.86528"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Club Down Stairs",
+    "streetAddress": "Scheulingstraße 371",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 660 2006 066"
+  },
+  "description": "\nThe Downstairs is now popular since 1996 for its cozy and familiar atmosphere. Our bartender and our service staff are distinguished not only by their professional work but also by their welcoming nature.  ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2487f09-c56f-4747-b981-3d3c4a667196/99/image.png",
+      "caption": "Logo"
+    }
+  ]
+}

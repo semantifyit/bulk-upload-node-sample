@@ -1,0 +1,98 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://zillertalnet.at/0013/",
+    "http://maps.mayrhofen.at/?foreignResource\u003d981AC924-C2F6-4BA5-884F-540F749DE2BB"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Riederhof ",
+    "streetAddress": "Ramsberg 887",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3747 ",
+    "email": "riederhof.pair@gmail.com"
+  },
+  "name": "Riederhof",
+  "description": [
+    "Neu errichtete großzügig ausgestattete Ferienwohnung in ruhiger Lage \nmit grandioser Aussicht in das Zillertal und dessen Bergwelt.\n",
+    "Kinderermäßigung auf Anfrage.\nKurzanfenthalt möglich - Aufpreis auf Anfrage."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17e4885a-6d47-4288-8c75-9038ba50e28a/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1992045336063",
+    "longitude": "11.8892911076546"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 2 Schlafräume",
+      "description": "1 traumhafte großzügig ausgestatteter Wohnbereich mit Küche\nund Satanschluss und Flach-TV mit Zugang zum Balkon.\nElektroherd mit Ceranfeld und Backrohr, Kühl-Gefrierschrank.\nWasserkocher und Kaffeemaschine. Kaminofen der auf Wunsch vom Gastgeber beheizt wird.\nBettwäsche, Handtücher werden gestellt.\n \nDie Wohnung liegt in der 2. Etage und ist ca. 78 m² mit großem Balkon.\n2 Schlafzimmer jeweils mit Doppelbett und Einzelbett, eines mit Balkonausgang. Der Riedhof Liegt in Ramsau im Zillertal auf 1000 Meter Seehöhe am Ramsberg.\n\nDie Gerlosstein Talstation ist nur 2.5 km vom Haus entfernt und kann mit dem eigenen Auto bequem erreicht werden: \nZum Ortszentrum mit den Nächsten Einkaufsmöglichkeiten sind es nur 5 km.\nZufahrt über kleine Bergstraße von Hippach Ramsau (5 km). Im Winter Schneeketten erforderlich.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

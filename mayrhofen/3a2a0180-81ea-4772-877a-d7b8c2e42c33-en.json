@@ -1,0 +1,115 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.kroell.at/",
+    "http://maps.mayrhofen.at/?foreignResource\u003d3A2A0180-81EA-4772-877A-D7B8C2E42C33"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kröll Alois, Ferienwohnungen",
+    "streetAddress": "Scheulingstraße 382",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62364",
+    "faxNumber": "0043 5285 64549",
+    "email": "ferienwohnungen@kroell.at",
+    "url": "http://www.kroell.at"
+  },
+  "name": "Ferienwohnungen Kröll Alois",
+  "description": [
+    "Welcome to apartments Kröll in Mayrhofen. Our house lies central (only 3 min on foot to the Penkenbahn) and, nevertheless, quietly in the middle of the place. It is therefore the ideal starting ponit for many activities. \nOur 3 apartments are equipped very well and they are on the 2nd and 3rd floor of the house. breakfast on inquiry.",
+    "animals are not permitted!\n",
+    "Motorway exit Zillertal, on the B169 to Mayrhofen (35 km), there about the roundabout traffic, past the train station and afterwards turn left into the centre, along the postal office, about the crossroad, turn right at the next street, at the end oft the street turn left and after 30 m right and then you are directly before our house.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e92b350b-155c-456f-ae73-45b8471c1185/99/image.jpg",
+      "caption": "FeWo Kröll Alois Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2b156f24-4fd1-4f0e-bfdf-8725ce558021/99/image.jpg",
+      "caption": "FeWo Kröll Alois Mayrhofen - Anreise"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1656575609278",
+    "longitude": "11.8641239404678"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Holiday home, bath, toilet",
+      "description": "Our flat with 63 m ² is on the second floor of the house. Suitable for from 2 to 6 people.\n* Kitchen: Microwelle with grill function, Kaffemaschine, dishwasher, water cooker, fridge with freezer compartment, toaster, dishes and dish towels\n* big Residential cubicle with living-room furniture, extendable couch, cable TV, Internet connection, safe, allergy sufferer\u0027s bedclothes\n*2 double rooms specially couch, cable TV, Internet connection, safe\n*Bad: Bath, shower, WC, cupboard, hair hairdrier, cosmetics Vergrösserungs mirror, towels\n*Balkon the south, - north-sided and east sided with balcony piece of furniture\n*Vorraum: Mirror and cloakroom ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment Bergkristall",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Holiday home, bath, toilet, 1 bed room",
+      "description": "Our flat with 63 m ² is on the second floor of the house. Suitable for from 2 to 6 people.\n* Kitchen: Microwelle with grill function, Kaffemaschine, dishwasher, water cooker, fridge with freezer compartment, toaster, dishes and dish towels\n* big Residential cubicle with living-room furniture, extendable couch, cable TV, Internet connection, safe, allergy sufferer\u0027s bedclothes\n*2 double rooms specially couch, cable TV, Internet connection, safe\n*Bad: Bath, shower, WC, cupboard, hair hairdrier, cosmetics Vergrösserungs mirror, towels\n*Balkon the south, - north-sided and east sided with balcony piece of furniture\n*Vorraum: Mirror and cloakroom \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment AHORNBLICK",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet",
+      "description": "Our flat with 28 m ² is on the third floor of the house.\n*Küche with living-room furniture\n*Wohnschlafraum-double bed\n*1 bathrooms (bath / WC or you / WC)\n*Balkon north-sided\n*Kaffeemaschine, toaster, eggs \u0026 water cookers\n*Kühlschrank with freezer compartment, dishes. . . .\n*Kabel TV, radio\n*Allergiker bedclothes \u0026 towels\n*Safe \n\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap./combined living-bed-room/shower, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

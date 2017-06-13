@@ -1,0 +1,73 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "Wuppy’s Kinderland",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.164413862851",
+    "longitude": "11.8645691871643"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Monday",
+      "opens": "09:00",
+      "closes": "17:00",
+      "validFrom": "2017-12-18",
+      "validThrough": "2018-03-30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Tuesday",
+      "opens": "09:00",
+      "closes": "17:00",
+      "validFrom": "2017-12-18",
+      "validThrough": "2018-03-30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Wednesday",
+      "opens": "09:00",
+      "closes": "17:00",
+      "validFrom": "2017-12-18",
+      "validThrough": "2018-03-30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Thursday",
+      "opens": "09:00",
+      "closes": "17:00",
+      "validFrom": "2017-12-18",
+      "validThrough": "2018-03-30"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Friday",
+      "opens": "09:00",
+      "closes": "17:00",
+      "validFrom": "2017-12-18",
+      "validThrough": "2018-03-30"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wuppy’s Kinderland",
+    "streetAddress": "Waldbadstraße 539",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63612",
+    "email": "kinderkrippe_hopp_hopp_hopp@gmx.at",
+    "url": "http://www.mayrhofen.at"
+  },
+  "description": "Wuppy’s Kinderland\n\nTrained baby sitters are more than happy to help out with childcare.\n\nKindergarden and day nursey for children aged from 3 months to 4 years. \nEarly registration in advance is an absolute must and is possible from September every year! \n\nPrices:\nHalf day - € 40,-\nFull day - € 50,-\n5 day package - € 185,-\nSurcharge for lunch - € 5,-\n\nThe Kinderland is closed during the summer!\n\nContact:\nErlebnisbad Mayrhofen\nWaldbadstraße 539\n6290 Mayrhofen\nTel.: +43 5285 63612",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/945bf5a2-1d2e-41ea-b2cb-a75d92c15693/99/image.jpg",
+      "caption": "Kinderland"
+    }
+  ]
+}

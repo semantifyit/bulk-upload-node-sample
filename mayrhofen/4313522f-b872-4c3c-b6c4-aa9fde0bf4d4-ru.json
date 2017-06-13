@@ -1,0 +1,574 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartements-mair.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d4313522F-B872-4C3C-B6C4-AA9FDE0BF4D4"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mair, Ferienwohnungen",
+    "streetAddress": "Peter-Habeler-Straße 551",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63880",
+    "faxNumber": "0043 5285 63847",
+    "email": "info@mair.at",
+    "url": "http://www.appartements-mair.at"
+  },
+  "name": "Ferienwohnungen Mair",
+  "description": [
+    "Описание отеля:\nСемейный отель с уютной атмосферой и приятными людьми.\nНасладитесь уютной атмосферой в наших обставленных с любовью апартаментах. Отель расположен в тихом месте, при этом совсем рядом с центром активной жизни Майрхофена. В непосредственной близости  бассейн Erlebnis Schwimmbad Mayrhofen, теннистые корты, подъемники Penkenbahn и Ahornbahn, трасса для беговых лыж, каток и многое другое!\n",
+    "Дополнительные условия:\nЗаезд в апартаменты возможен с 14:00\nПри заезде после 18:00 просим предупредить об этом по телефону.\nВ день отъезда просим освободить апартаменты до 10:00.\n",
+    "Прибытие:\nЗаезд с 14:00, при готовности апартамента - возможно раньше, освобождение апартамента не позднее 9:30. На автомобиле доезжаете до съезда Mitte, поворачиваете налево, далее прямо до пересечения улицы Hauptstrasse с Fischerstrasse, там поворот направо к подъемнику Penkenbahn, далее поворот налево и еще раз налево в конце улицы. С правой стороны увидите нашу парковку."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "21"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a09469ca-9563-4778-a827-ad3bb75ec649/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a865c867-7821-4594-96ce-3f87af48fe66/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd2a095e-f9ae-4fed-8946-81d1c5ed3f1c/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7d71d52-b232-422a-86f3-fd20124efac7/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Antonius Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1fd1c70b-0598-479d-b201-b4af99789ecd/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Christian Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/27981f78-3259-4604-aefd-6eac274784ed/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Elisabeth Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/306e676a-88eb-4d73-93f1-39631b3713d1/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Gloria Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d8eca9f3-d4bb-41ec-b27a-3eb91ece46d4/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Hella Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a8ff6c3-8f5f-4232-b38a-a6e1e5b512fa/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Markus Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3d3b87b-8e58-4acf-b290-4af0dba71460/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Michael Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a7847b47-04d1-4e8e-8cdb-243a026cae4c/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Wohnbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9d265d87-ce1a-4deb-a65f-ea8871051866/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Wohnung Elisabeth"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/417fdbfa-40ab-45b6-9a67-f7cc64790d0a/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Wohnung Michael"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/392c6cd7-24fa-4b42-9a93-562f352d76d8/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Zimmer Markus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9289eb44-e5d6-481d-811b-b3178c3e2d9c/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Wohnraum Antonius"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56778639-1d96-4a87-a595-20aa49a4e60d/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Wohnbereich Gloria"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d33637c5-1a48-407e-8894-a5cbb7b43c57/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Küche Gloria"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df2a5053-b92f-418d-abea-77d4489988d3/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Zimmer GLoria"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1be6891c-7106-4079-852a-75a5897d9f25/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Küche Markus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3eb51e1d-93f2-4ce3-9099-e09033b65c5f/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Bad Gloria"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af58f023-3688-4f74-ae79-0276dc348889/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Wohnraum Hella"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/babc852c-63c1-4bf5-9c23-b8f7d45f9d2c/99/image.jpg",
+      "caption": "Mayrhofner Advent"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c76f6616-7fd3-49e5-ac26-a7bf47b967be/99/image.jpg",
+      "caption": "Skipiste"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84e1affb-43ed-4481-91f9-3c364bf2c9e2/99/image.jpg",
+      "caption": "Skilift"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/093a034b-8ebe-4d4b-95f6-8322ce05d965/99/image.jpg",
+      "caption": "Rodeln"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f3d71cc9-090b-4a93-828a-e893843eb56b/99/image.jpg",
+      "caption": "Langlaufen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/57c725c9-b4e0-4c98-8020-d846946f49b6/99/image.jpg",
+      "caption": "Paragliden"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6bf62df-92da-44ec-b0eb-3db364068950/99/image.jpg",
+      "caption": "Radfahren"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/544519d5-a046-4053-84fc-7dd7c65e0d90/99/image.jpg",
+      "caption": "Rafting"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3694720-30c3-4c54-96df-8a75d8fa6c1c/99/image.jpg",
+      "caption": "Wanderung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5b99834-5f7d-454d-9213-1e592b1582af/99/image.jpg",
+      "caption": "Klettersteig"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1647238782925",
+    "longitude": "11.8660175800323"
+  },
+  "paymentAccepted": [
+    "Diners",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "description": "Апартамент Хелла\n66м², 2 - 6 человек\nВ апартаменте балкон, выходящий на Юг, две спальные и две ванные комнаты, гостиная и кухня.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "39.33",
+          "maxPrice": "39.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "39.50",
+          "maxPrice": "39.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "34.60",
+          "maxPrice": "34.60",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "31.33",
+          "maxPrice": "31.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет",
+      "description": "Апартамент Кристоф\nАпартамент на полуподвальном этаже\nЭтот, примерно 50м² большой апартамент находится на наполовину заглубленном этаже. Он состоит из гостиной с кухней и спальной комнаты с двуспальной кроватью. В ванной комнате находится душ и туалет.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ и ванна, туалет, две спальни",
+      "description": "Люкс-апартамент Глория\n90м², 2 - 6 человек\nЕсли вы предпочитаете что-то особенное, то Ваш выбор - Люкс-апартамент Глория. Вам придется по вкусу элегантно обставленная гостиная с изразцовой печью и уютным обеденным уголком, спальня с водяной кроватью и кухня со всем необходимым.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ и ванна, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.50",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "31.67",
+          "maxPrice": "39.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "31.25",
+          "maxPrice": "39.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "28.00",
+          "maxPrice": "34.60",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "25.83",
+          "maxPrice": "31.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "description": "Апартамент Антониус\n62м², 2 - 6 человек\nВ этом апартаменте кроме замечательного балкона, выходящего на Юг - две спальные комнаты, гостиная, кухня и ванная комната.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "39.33",
+          "maxPrice": "39.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "39.50",
+          "maxPrice": "39.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "34.60",
+          "maxPrice": "34.60",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "31.33",
+          "maxPrice": "31.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет",
+      "description": "Апартамент Михаэль\n58м², 2 - 4 человека\nЭтот апартамент имеет небольшой садик , гостиную, спальню, кухню и ванную комнату.\nСовременно обставленный апартамент расположен на 2-х этажах, большая гостиная с обеденным уголком, отдельная кухня и, выходящий на Юг, маленький садик.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "39.33",
+          "maxPrice": "39.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "33.25",
+          "maxPrice": "33.25",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет",
+      "description": "Апартамент Маркус\n50м², 2 - 4 человека\nВ апартаменте есть балкон, выходящий на Юг, две спальные комнаты и две ванные, а также кухня.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "39.33",
+          "maxPrice": "39.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "39.50",
+          "maxPrice": "39.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "34.60",
+          "maxPrice": "34.60",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет",
+      "description": "Апартамент Элизабет\n40м², 2 - 4 человек\nВ апартаменте есть балкон, выходящий на Юг, одна спальная комната с ванной, а также костиная с кухонным уголком.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "39.33",
+          "maxPrice": "39.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "33.25",
+          "maxPrice": "33.25",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет",
+      "description": "Апартамент Кристиан\n36м², 2 человека\nЭтот апартамент располагает террасой, уютной гостиной с кухней и спалной комнатой с ванной.\nНовый апартамент, уютно и комфортно обставленный в национальном стиле выходит в небольшой садик-террасу примерно 60м².",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент, shower, toilet",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.33",
+          "maxPrice": "65.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

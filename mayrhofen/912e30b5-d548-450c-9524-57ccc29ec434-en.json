@@ -1,0 +1,96 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d912E30B5-D548-450C-9524-57CCC29EC434"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bernadette, Ferienwohnungen",
+    "streetAddress": "Burgstall 372",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64588",
+    "faxNumber": "0043 5285 64588",
+    "email": "fewo-bernadette@aon.at"
+  },
+  "name": "Ferienwohnungen Bernadette",
+  "description": [
+    "Our house can be found in a quiet position, an approx. 15 minute walk from the centre of Mayrhofen. The apartments each have a spacious balcony, from where one can enjoy wonderful panoramic views of the surrounding mountains. The car park can be found right in front of the house. The bus stop for the ski bus and the access to the cross country ski trail is also close by. Your skis and snow boards can be easily stored in our ski cellar, which is also equipped with a ski boot warmer.",
+    "Our house can be found in a quiet position, an approx. 15 minute walk from the centre of Mayrhofen. The apartments each have a spacious balcony, from where one can enjoy wonderful panoramic views of the surrounding mountains. The car park can be found right in front of the house. The bus stop for the \"Dörferbus\" as well as the access to the Ziller-promenade and cycle path is also close by. If desired  you may make use of our morning bread roll service.",
+    "Included in price: Heating, water, electricity, bed linen and towels. Excluded:a final cleaning charge of 30.- Euro.",
+    "Check in: 14.00hr/Check out: 10.00hr\nUse B169 to Mayrhofen, straight on at the roundabout and after 50 meters turn right over the level crossing and take the road to Schwendau until the chapel on the hill (Burgschrofen) - our house is situated here.",
+    "Ferienwohnung\nApartment\nZillertal\ncomfortable\nfamily\nvacation\nholidays\nMayrhofen\nHippach\nBurgstall"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dbbd298b-2681-4054-8312-d7a123e4596e/99/image.jpg",
+      "caption": "Ferienwohnungen Bernadette Mayrhofen - summer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c988d082-ea07-4841-8a51-b6f4bf61fef0/99/image.png",
+      "caption": "Ferienwohnungen Bernadette Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/763b296b-15ab-46e5-a407-8e959aef8c42/99/image.jpg",
+      "caption": "Ferienwohnungen Bernadette Mayrhofen - winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1793837189398",
+    "longitude": "11.8621283769608"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower or bath, toilet, 2 bed rooms",
+      "description": "Beautiful holiday apartment equipped with a lounge/kitchen, a nice and cosy dining area for 6 persons, cooking facilities (electric oven), refrigerator, double bedroom (additional double bedroom possible), shower and separate WC, Satellite-TV and radio, bed linen, hand, bath and tea towels as well as a spacious balcony with  marvellous mountain panorama. WiFi possible.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap./2 bedrooms/shower or bath tube, WC",
+          "description": "Beautiful holiday apartment equipped with a lounge/kitchen, a nice and cosy dining area for 6 persons, cooking facilities (electric oven), refrigerator, double bedroom (additional double bedroom possible), shower and separate WC, Satellite-TV and radio, bed linen, hand, bath and tea towels as well as a spacious balcony with  marvellous mountain panorama. WiFi possible.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 1 bed room",
+      "description": "Nice holiday apartment suitable for 2-4 persons, equipped with a lounge/kitchen, a cosy dining area for 4 persons, cooking facilities (electric oven), refrigerator, double bedroom (additional double bedroom possible), shower and separate WC, SAT-TV and radio, bed linen, hand, bath and tea towels as well as a spacious balcony with mountain panorama. WiFi possible.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/1 bedroom/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

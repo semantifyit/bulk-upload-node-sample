@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Berghotel Restaurant Gerlosstein 1650m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2023244435979",
+    "longitude": "11.9133853912354"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gerlosstein",
+    "streetAddress": "Hainzenberg 551",
+    "addressLocality": "Hainzenberg",
+    "postalCode": "6278",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 2419",
+    "faxNumber": "(0043) 5282 2419 4",
+    "email": "info@gerlosstein.at",
+    "url": "www.gerlosstein.at"
+  },
+  "description": "Summer \n25. May till 08. October 2017 \nno rest day \novernight stay possible",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/159866e7-9374-4fc4-aaec-3af7e6d1e729/99/image.jpg",
+      "caption": "Hütte mit Gondel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/91da36c9-39c3-4b7a-9122-f595010fc86f/99/image.jpg",
+      "caption": "Hütte - alte Ansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f3e6d375-96d0-446f-98ec-9bad6ddc003a/99/image.jpg",
+      "caption": "Gerlossteinwand"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6b0e765e-a2a6-42b6-80bc-bc775333e702/99/image.jpg",
+      "caption": "Klettersteig Gerlossteinwand"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60205cbb-01c0-490a-8fa2-946b442bfc62/99/image.jpg",
+      "caption": "Hütte im Winter"
+    }
+  ],
+  "url": [
+    "http://www.gerlosstein.at"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": "Psychologin Mag. Katrin Andergassen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2091833",
+    "longitude": "11.8732035"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 160",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 40 27 954",
+    "url": "http://www.aerztehaus-ramsau.at/index.php/andergassen"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fd6b69dc-4180-4c64-80ba-cb809ca94bac/99/image.jpg",
+      "caption": "Mag. Katrin Andergassen"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

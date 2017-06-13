@@ -1,0 +1,157 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d60B2C086-44C4-47EB-8211-95C102F53B46"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Stab-Hütte",
+    "streetAddress": "Hochschwendberg 649",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 5107732",
+    "email": "stabalm@gmx.at",
+    "url": "http://www.stabhuette.com"
+  },
+  "name": "Stab-Hütte",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/455b5621-e622-427f-8141-ce69a373716d/99/image.jpg",
+      "caption": "Stabhütte (10)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eabf53ea-b075-40f8-ba3a-9e18ecc4f21d/99/image.jpg",
+      "caption": "Stabhütte (5)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/10358e82-a8eb-4961-b5b8-93aa9f8912f2/99/image.jpg",
+      "caption": "Stabhütte (4)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e40502a0-610a-4883-b2f6-9ab6c6880a75/99/image.jpg",
+      "caption": "Stab-Hütte Hochschwendberg - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1a165ab3-cae0-49b4-a232-c7433223ad1e/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db43d7e4-8578-4af8-b794-bf01dd657849/99/image.jpg",
+      "caption": "Wohnraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/898d7de2-fc65-4e43-a8b9-e10a99d4e073/99/image.jpg",
+      "caption": "Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/62df86a7-3fe3-4041-81eb-9e5613ed6dcc/99/image.jpg",
+      "caption": "Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/07634705-7709-4783-b1a7-5248b538272c/99/image.jpg",
+      "caption": "Zweibettzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e54d1154-1fc2-4f87-9f5e-20bba1c88748/99/image.jpg",
+      "caption": "Einzelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f680ef47-26d5-4a44-aa76-56b743d9a061/99/image.jpg",
+      "caption": "Einzelzimmer Stabhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a994739f-08c8-434d-9744-5750f20d6659/99/image.jpg",
+      "caption": "Schlafzimmer Einzelbett"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/15e24c2d-d774-42f8-ba0b-a9fd3f925c11/99/image.jpg",
+      "caption": "Badezimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2089572873595",
+    "longitude": "11.813360452652"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Дом отдыха, душ, туалет, три спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Дом отдыха, душ, туалет, три спальни",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "5"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "102.00",
+          "maxPrice": "123.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "102.00",
+          "maxPrice": "123.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "116.00",
+          "maxPrice": "137.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "130.00",
+          "maxPrice": "151.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "144.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

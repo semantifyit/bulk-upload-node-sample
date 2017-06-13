@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Hotel Neue Post",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1691218",
+    "longitude": "11.8647319"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Neue Post",
+    "streetAddress": "Hauptstraße 400",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62131",
+    "faxNumber": "(0043) 5285 63666",
+    "email": "info@neue-post.at",
+    "url": "http://www.neue-post.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9cad0108-875f-4137-a99c-b9fd4eff7be9/99/image.jpg",
+      "caption": "Neue Post Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf3892d4-c130-4a8d-bbb7-fa855c95fd29/99/image.jpg",
+      "caption": "Neue Post 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c10a0106-c235-417e-a5eb-3ddd1b81ca1d/99/image.jpg",
+      "caption": "Neue Post 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a6519cec-4aa3-4ea3-aeca-5014d16ae470/99/image.jpg",
+      "caption": "Neue Post 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3d34a41d-4f0c-4ee0-91cd-6ff6ef2a2e7b/99/image.jpg",
+      "caption": "Neue Post 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc15418a-8520-4e2a-9e3a-dd19dd04ad61/99/image.jpg",
+      "caption": "Neue Post 5"
+    }
+  ],
+  "url": [
+    "http://www.neue-post.at"
+  ]
+}

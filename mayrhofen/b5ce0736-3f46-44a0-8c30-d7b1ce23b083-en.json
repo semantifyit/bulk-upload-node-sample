@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "Jagen - Gasthof Perauer",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1610874656802",
+    "longitude": "11.8611037731171"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Perauer, Hotel Gasthof",
+    "streetAddress": "Ahornstraße 854",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62566",
+    "faxNumber": "(0043) 5285 625666",
+    "email": "info@perauer.at",
+    "url": "http://www.perauer.at"
+  },
+  "description": "In certain areas and at certain times you can go hunting. Please notice, that certain areas must be fullfilled.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64fd4130-b1c8-4fde-b489-8622a53bd473/99/image.jpg",
+      "caption": "Wandern"
+    }
+  ],
+  "url": [
+    "http://www.perauer.at"
+  ]
+}

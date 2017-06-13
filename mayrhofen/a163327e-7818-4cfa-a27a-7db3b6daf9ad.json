@@ -1,0 +1,528 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dA163327E-7818-4CFA-A27A-7DB3B6DAF9AD"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 453",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63411",
+    "faxNumber": "0043 5285 64713",
+    "email": "stefankroell@aon.at"
+  },
+  "name": "Kröll Stefan",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus (erbaut 1910) liegt direkt an der Hauptstraße von Mayrhofen und ist eines der wenigen Häuser, das noch größtenteils im alten Stil belassen wurde. Seit 1996 wurden 3 gemütliche Ferienwohnungen errichtet, die sich großer Beliebtheit erfreuen. So können wir 2 bis 12 Personen ein Wohlfühlquartier bieten.\n Auf Grund der zentralen Lage sind alle Infrastruktureinrichtungen in Kürze zu Fuß erreichbar. \n Im Parterre befindet sich ein Damen- und Kindermodengeschäft und im Sommer ein Eissalon."
+    },
+    {
+      "@language": "de",
+      "@value": "Inkl.  Wasser, Heizung, Strom,   Schischuhtrockner, Bettwäsche, Handtücher, Parkplatz;\nExklusive Endreinigung, Brötchendienst."
+    },
+    {
+      "@language": "de",
+      "@value": "Check-In: 12.00 Uhr, Check-Out: 10.00 Uhr; Anreise: Unser Haus liegt direkt an der oberen Hauptstraße (Einfahrt Mitte, bei der ersten Kreuzung rechts einbiegen) mitten im Ortszentrum, ca. 150m vor der Penkenbahn."
+    },
+    {
+      "@language": "en",
+      "@value": "Our house (built in 1910) is situated directly on the high street, and is one of the few houses that has been kept in the  old style. During a roof renovation in 1996, a comfortable holiday apartment was created, which has proved to be a great favourite. Our central position means that all local facilities are only a few minutes walk away. On the ground floor there is a ladies and children\u0027s clothes shop and in summer also a ice-cream salon!"
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes water, electricity, heating, bed linen, towels, car park; Excludes a final cleaning charge, delivered bread."
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 12.00hr, check out: 10.00hr. Directions: Our house is situated at the top half of the high street. (At Einfahrt mitte, turn right at the first junction) in the middle of the town centre, 150m away from the Penken lift station."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab020815-8d0c-477a-b6b9-fa5d2252b4b9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kröll Stefan Mayrhofen - Sommer "
+        },
+        {
+          "@language": "en",
+          "@value": "Kröll Stefan Mayrhofen - Sommer "
+        },
+        {
+          "@language": "ru",
+          "@value": "Kröll Stefan Mayrhofen - Sommer "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7235bf08-dddb-4a68-a7fc-a4ac7666f9a2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kröll Stefan - Gang"
+        },
+        {
+          "@language": "en",
+          "@value": "Kröll Stefan - Gang"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kröll Stefan - Gang"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ebe5d2f-60e7-4d6b-af80-72063ced0cc2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kröll Stefan - Gang2"
+        },
+        {
+          "@language": "en",
+          "@value": "Kröll Stefan - Gang2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kröll Stefan - Gang2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f038c16-d2fb-4b7d-b94f-81c20dfa60cf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Appartement Ahorn - Wohnküche"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartement Ahorn - Wohnküche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Appartement Ahorn - Wohnküche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fce9993c-3f58-4b68-88ab-b58664c559bd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Appartement Ahorn - Zimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartement Ahorn - Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Appartement Ahorn - Zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/38d9f611-2da6-4451-ad4c-211ab30267db/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Appartement Grünberg - Wohnküche"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartement Grünberg - Wohnküche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Appartement Grünberg - Wohnküche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a90d6e7e-bf80-4606-9dc0-082fb8d4b6ec/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Appartement Grünberg - Zimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartement Grünberg - Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Appartement Grünberg - Zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/24b94901-4615-4136-ad62-9421ece722a7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Appartement Penken - Wohnküche"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartement Penken - Wohnküche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Appartement Penken - Wohnküche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/270819e8-3005-4499-87ca-52e4a3d6925c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Appartement Penken - Zimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartement Penken - Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Appartement Penken - Zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e4f3c2ce-61f8-433d-92f0-cdf7a7843446/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Appartement Penken - Zimmer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartement Penken - Zimmer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Appartement Penken - Zimmer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f6a187b1-4772-41a5-8f44-d1f6678c9831/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Appartement Penken - Zimmer3"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartement Penken - Zimmer3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Appartement Penken - Zimmer3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/922c334a-6d94-4d7a-8e8f-752773c20c4b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Appartement Penken - Bad"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartement Penken - Bad"
+        },
+        {
+          "@language": "ru",
+          "@value": "Appartement Penken - Bad"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1649718893432",
+    "longitude": "11.862359046936"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Schönes, gemütliches Appartment mit 2 Schlafzimmern, großes Bad, 2 Balkone, moderne gut ausgestattete Wohnküche mit Kabel-TV, Flur mit großem Gardarobenschrank, direkt im Zentrum inkl. Parkplatz;\nSchischuhtrockner!"
+        },
+        {
+          "@language": "en",
+          "@value": "Beautiful, comfortable apartment with 2 large bedrooms, 2 balconies, pleasant lounge/kitchen with Sat-TV, entrance hall with cloakroom, situated directly in town centre with car park.Skibootswarmer."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Penken/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "160.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "180.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Appartement \"AHORNSPITZE\"\n\nMit viel Liebe wurde diese Ferienwohnung im Herbst 2006\nerrichtet.\nDirekt im Zentrum und doch in ruhiger Lage ist der Wohnraum mit Kabel-TV und modern eingerichtetem Küchenteil, sowie einem großen Balkon das Herzstück."
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment \"Ahornspitze\"\n\nWith a lot of love this holiday apartment became in autumn, 2006\nestablishes.\nDirectly in the centre and in quiet situation is the living space with cable TV and modern furnished kitchen, as well as a big balcony the heart. \n\n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Ahornspitz/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "140.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Neues gemütliches Appartement zum Wohlfühlen direkt im Zentrum, geräumiger Wohnraum mit Küchenblock mit Mikrowelle, Sat-TV, Balkon südseitig."
+        },
+        {
+          "@language": "en",
+          "@value": "Beautiful, comfortable apartment with pleasant lounge/kitchen with Sat-TV, balcony, situated directly in town centre with car park."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Grünberg/1 Schlafraum/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "In unseren Ferienwohnungen befinden sich    \n4 Doppelzimmer,sowie ein 2-Bettzimmer,die wir auf Anfrage auch als \"Zimmer mit Frühstück\" anbieten. Durch die zentrale Lage, ideal für alle Sommeraktivitäten.\nWanderfreunde und Familien willkommen."
+        },
+        {
+          "@language": "en",
+          "@value": "Large, airy room with balcony looking over a large field."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

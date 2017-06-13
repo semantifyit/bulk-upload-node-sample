@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ClothingStore"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Sisley"
+    },
+    {
+      "@language": "de",
+      "@value": "Sisley"
+    },
+    {
+      "@language": "ru",
+      "@value": "Sisley"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1646089475839",
+    "longitude": "11.861796439148"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sisley",
+    "streetAddress": "Hauptstrasse 456",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62064"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7e91e19d-d5f3-48d9-b65f-26c233115608/99/image.png",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ]
+}

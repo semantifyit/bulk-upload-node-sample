@@ -1,0 +1,218 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.ahornblick.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dAF4C1FBA-95D7-48BC-B008-07F2FD8D5F6C",
+    "https://www.facebook.com/G%C3%A4stehaus-Ahornblick-190438514333674/"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ahornblick, Gästehaus",
+    "streetAddress": "Wiesl 468",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62511",
+    "email": "info@ahornblick.at",
+    "url": "http://www.ahornblick.at"
+  },
+  "name": "Gästehaus Ahornblick",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "36"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cda3870b-086f-4069-8abd-b8610bf5912c/99/image.jpg",
+      "caption": "Ahornblick Mayrhofen Sommerfoto 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/909bf63d-32ab-497f-902f-b455c00ddaa0/99/image.jpg",
+      "caption": "Ahornblick Mayrhofen Winterfoto 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/282667a3-09cf-44c0-99df-3485297725e0/99/image.jpg",
+      "caption": "Ahornblick Mayrhofen Frühstücksraum "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd258cc3-71d6-4c24-8722-ab7f24284d9e/99/image.jpg",
+      "caption": "Ahornblick Mayrhofen Garten 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/233c9a02-32b4-47a1-a961-57ab7a690b27/99/image.jpg",
+      "caption": "Ahornblick Mayrhofen Garten 2 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1728bb8-457b-460c-92bb-d985e35baca6/99/image.jpg",
+      "caption": "Ahornblick Mayrhofen Sommerfoto 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ad582db-fd7d-4570-a529-4655cdeed1b6/99/image.jpg",
+      "caption": "Ahornblick Mayrhofen Sommerfoto 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/35b85a2f-2db0-438e-b276-74f152db19c0/99/image.jpg",
+      "caption": "Bike Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a75ab85d-772f-4ad5-ab69-a1a13c6c46fb/99/image.jpg",
+      "caption": "Ahornblick Mayrhofen Berg 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0501a238-0f21-498c-829f-74c28dce2baa/99/image.jpg",
+      "caption": "Ahornblick Mayrhofen Sommerfoto 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02702a02-d175-4cde-b694-25090a0d575b/99/image.jpg",
+      "caption": "Ahornblick Mayrhofen Winterfoto 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/67ac3812-6666-4236-9986-4eac28f9a806/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e6daf6d1-ca0a-4a2a-b46a-0a0a32732646/99/image.jpg",
+      "caption": "Funpark Mayrhofner Bergbahnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d4be5ddb-6c78-4e12-948e-45c37d899d36/99/image.jpg",
+      "caption": "Schifahrer in Action"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1647749394858",
+    "longitude": "11.8606960773468"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "33.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "33.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "33.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "33.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

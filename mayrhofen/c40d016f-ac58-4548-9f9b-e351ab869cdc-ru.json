@@ -1,0 +1,60 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dC40D016F-AC58-4548-9F9B-E351AB869CDC"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schroll",
+    "streetAddress": "Burgstall 370",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63239",
+    "email": "HannesSchroll@gmx.at"
+  },
+  "name": "Schroll Irmi",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/06627b00-4f9e-498e-9461-b3d796e73b43/99/image.jpg",
+      "caption": "Schroll Irmi Mayrhofen - Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d0ef39e-30e9-41ee-ad23-5b0d8f7770e3/99/image.jpg",
+      "caption": "Schroll Irmi Mayrhofen - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1796498925676",
+    "longitude": "11.8620210886002"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

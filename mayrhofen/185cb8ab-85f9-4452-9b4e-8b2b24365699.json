@@ -1,0 +1,85 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore",
+    "BikeStore"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Schiestl\u0027s Sport \u0026 Mode Hippach"
+    },
+    {
+      "@language": "de",
+      "@value": "Schiestl\u0027s Sport \u0026 Mode Hippach"
+    },
+    {
+      "@language": "ru",
+      "@value": "Schiestl\u0027s Sport \u0026 Mode Hippach"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.203986376825",
+    "longitude": "11.8657922744751"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schiestl\u0027s Sport \u0026 Mode",
+    "streetAddress": "Dorf 9",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 4315",
+    "faxNumber": "(0043) 5282 4315 43",
+    "email": "info@sport-schiestl.at",
+    "url": "http://www.sport-schiestl.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Die Ski- \u0026 Snowboardschule Horberg bietet Ihnen ein umfangreiches Kursangebot. Damit sollte für jeden Sportler, der sich im Skilauf oder auf dem Snowboard individuell verbessern möchte, das passende Angebot dabei sein. Die intensivste und damit schnellste Form des Lernens bieten sicherlich unsere Privatkurse für Ski oder Snowboard - wir informieren Sie gerne über die umfangreichen Möglichkeiten dazu.\n\nAndreas Schiestl,\nLeiter der Ski- \u0026 Snowboardschule Horberg\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9303eaf5-711d-45f7-806e-3df27c3b7156/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "geschäft hippach"
+        },
+        {
+          "@language": "de",
+          "@value": "geschäft hippach"
+        },
+        {
+          "@language": "ru",
+          "@value": "geschäft hippach"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f86ca2e4-12c0-4e9f-be71-62089e36b15b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "logo"
+        },
+        {
+          "@language": "de",
+          "@value": "logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "logo"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.sport-schiestl.at"
+  ]
+}

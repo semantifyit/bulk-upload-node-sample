@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "Restaurant"
+  ],
+  "name": "Restaurant Café Joggl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1620407",
+    "longitude": "11.8591489"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Viktoria ",
+    "streetAddress": "Tuxerstraße 710 ",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62293  ",
+    "faxNumber": "(0043) 5285 64738  ",
+    "email": "info@hotelviktoria.at  ",
+    "url": "http://www.joggl.at"
+  },
+  "description": "In restaurant café Joggl we serve for lunch or dinner tyrolean specialties and international cuisine. In the afternoon we pamper our guests with a cup of coffee and homemade apple pie. Whether it\u0027s yoghurt, cakes or ice-cream; here they’re homemade with milk from our own farm!\n\nYou can also come for breakfast, our guests will be spoiled in the morning with a sumptuous breakfast buffet and in the evening with a 4-course menu in our cozy lounges.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bd2ae30c-3073-45b6-990b-7632fd57b8d6/99/image.jpg",
+      "caption": "Joggl - Cafe"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

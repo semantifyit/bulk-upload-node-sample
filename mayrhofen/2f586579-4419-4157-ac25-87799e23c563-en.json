@@ -1,0 +1,61 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.sandhofer.at.tf",
+    "http://maps.mayrhofen.at/?foreignResource\u003d2F586579-4419-4157-AC25-87799E23C563"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lindenhöhe 614",
+    "addressLocality": "Hainzenberg",
+    "postalCode": "6278",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 4443"
+  },
+  "name": "Sandhofer Heinz",
+  "description": "Our house is situated in a sunny and quiet place called \"Lindenhöhe\" in Ramsau. Skibus and villagebus are for free and stob nearby. The next grocery store is 150 m away. Skiing areas Horberg and Zillertal Arena are only 2 km from our house. Outdoor swimmingpool Hippach 1 km.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16be0154-ea99-4048-bbfd-93f0619e6e3c/99/image.jpg",
+      "caption": "Heinz Sandhofer Hainzenber - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/90a7e0aa-79d6-4ad4-861a-397789b183ee/99/image.jpg",
+      "caption": "Heinz Sandhofer Hainzenber - Aussicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2101379923612",
+    "longitude": "11.8747508525848"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "very spacious apartement, 1 kitchen, 1 large living room with firplace store, 2 bedrooms with bath, shower, WC, lobby, guests WC, spacious balcony",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

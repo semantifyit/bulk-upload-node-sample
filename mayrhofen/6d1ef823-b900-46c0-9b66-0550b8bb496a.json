@@ -1,0 +1,65 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BankOrCreditUnion"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Sparkasse Schwaz - Zweigstelle Mayrhofen"
+    },
+    {
+      "@language": "de",
+      "@value": "Sparkasse Schwaz - Zweigstelle Mayrhofen"
+    },
+    {
+      "@language": "ru",
+      "@value": "Sparkasse Schwaz - Zweigstelle Mayrhofen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1653694340528",
+    "longitude": "11.86199426651"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sparkasse Schwaz - Zweigstelle Mayrhofen",
+    "streetAddress": "Hauptstraße 450",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 50100 77420",
+    "email": "mayrhofen@sparkasse-schwaz.at",
+    "url": "http://www.sparkasse-schwaz.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Sparkasse - Zweigstelle Mayrhofen\n\nÖffnungszeiten\nMontag - Freitag: 08.00-12.00 \u0026 14.00-17.00 Uhr "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f43bbcbd-b6a1-4ecf-bc09-7e33ac86aba7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Sparkasse Schwaz - Zweigstelle Mayrhofen"
+        },
+        {
+          "@language": "de",
+          "@value": "Sparkasse Schwaz - Zweigstelle Mayrhofen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sparkasse Schwaz - Zweigstelle Mayrhofen"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.sparkasse-schwaz.at"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Brewery"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Schnapsbrennerei Innerummerland"
+    },
+    {
+      "@language": "de",
+      "@value": "Schnapsbrennerei Innerummerland"
+    },
+    {
+      "@language": "ru",
+      "@value": "Schnapsbrennerei Innerummerland"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2091030548312",
+    "longitude": "11.8637537956238"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Innerummerland, Ferienwohnungen",
+    "streetAddress": "Schwendberg 272",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 50949",
+    "email": "h.ummerland@aon.at",
+    "url": "http://www.ummerland.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Schnapsbrennerei Innerummerland   Verkostung \u0026 Ab-hof Verkauf\t\t\nDie Brennerei Innerummerland liegt an der Zillertaler Höhenstraße. So können Sie sich - direkt nach dem Ausflug - bei uns vorbeischauen und sich einen edlen Tropfen gönnen. \n\nAuf dem Erbhof wird seit 300 Jahren schnaps gebrannt. Zahlreiche Edelbrände haben \nPrämierungen bekommen.\nDie Schnapsbrennerei befindet sich in einer urigen gemütlichen Hütte, wo mann das ganze \nJahr über verkosten und kaufen kann.\n\nFür die Hausgäste wird einmal wöchentlich eine Schnapsverkostung angeboten.\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Distillery Innerummerland - Tasting \u0026 farmgate sales\n    \nOn the family farm liquor is burned for 300 years.\nAttend a schnapps tasting and learn about the distillate from the production to the tasting.\nThe Innerummerland distillery is on the scenic Zillertal Höhenstraße. This means a visit to the distillery is ideal for combining with an excursion.\nMany of the schnapps made at the distillery have won prizes.\nThe distillery is open for visits on enquiry.\nSales ans tastings possible at all times, guided tours available on request.\nBest time to visit is all year around.\nGroups are welcome with advance booking.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5850776b-a4d9-440c-a88a-e565ebfd5cb5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Schnapsbrennerei Innerummerland"
+        },
+        {
+          "@language": "de",
+          "@value": "Schnapsbrennerei Innerummerland"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schnapsbrennerei Innerummerland"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/599a5252-1751-4be3-a188-5c41592ba749/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Schnapsbrennerei"
+        },
+        {
+          "@language": "de",
+          "@value": "Schnapsbrennerei"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schnapsbrennerei"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.ummerland.at.tf"
+  ]
+}

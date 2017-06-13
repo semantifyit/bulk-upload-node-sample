@@ -1,0 +1,239 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.white-lounge.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d050613A1-FD36-4654-BFAE-B6335AE5BFE5"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mayrhofner Bergbahnen",
+    "streetAddress": "Ahornstraße 853",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62277130",
+    "faxNumber": "0043 5285 62277161",
+    "email": "white-lounge@mayrhofner-bergbahnen.com",
+    "url": "http://www.mayrhofner-bergbahnen.com"
+  },
+  "name": "WHITE LOUNGE - Das Igludorf auf 2000m",
+  "description": [
+    "Bequeme Liegestühle, coole Loungemusik, trendige Cocktails und dazu die Vorfreude auf eine Iglu Übernachtung, die keiner vergessen wird!\n\nDas Iglu Hotel White Lounge bietet 7 kuschelige Iglu Suiten, \n- die entweder exklusiv für Paare (Romance Package)\n- oder auch für Gruppen bis zu vier Personen (Basic Package) \nbuchbar sind.\n\nFahrt mit der größten Gondel Österreichs, der Ahornbahn, auf 2.000 m zum Ahornplateau.\nNach einer Begrüßung inkl. Begrüßungsgetränk und wenn die Sonne hinter den Tuxer Gipfeln verschwindet, \nbeginnt eine romantische Fackelwanderung . \nDort wartet ein bezauberndes Abendessen  auf Sie. \n\nDanach geht es in wenigen Minuten im Schein der Fackeln zurück zum Iglu Hotel, \nwo ihr bei einem wärmenden Lagerfeuer den funkelnden Sternenhimmel genießen könnt. \n\nEs folgen eine kuschelige Nacht im dicken Schlafsack \nund ein Morgen mit einem atemberaubend schönen Sonnenaufgang \nsowie einem köstlichen Genießerfrühstück.\n \nBeste Voraussetzungen für einen weiteren unvergesslichen Iglu-Tag!",
+    "Buchungen nur von Personen die das 18. Lebensjahr vollendet haben.\nBis 3 Monate vor Ankunftstag kann die Buchung ohne Stornogebühr aufgelöst werden.\nAufpreis für Wochenendbuchungen.\nIndividuelle Angebote für Firmenfeiern, Hochzeiten etc. auf Anfrage.",
+    "Anmeldung an der Kassa Ahornbahn bis spätestens 16.00 Uhr. Bis 16.30 Uhr (letzte Bergfahrt) erfolgt die Auffahrt mit Gepäck (Transport ab Bergstation). Über den Panoramaweg erreichst du die White Lounge, welche ab 17.00 Uhr bezugsfertig ist.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e6c038a3-45a6-4d89-a5ce-f48848378b8c/99/image.jpg",
+      "caption": "White Lounge Iglu Außenansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb5fd7b3-9d12-4927-957f-4cdfb0bc4efa/99/image.png",
+      "caption": "RZ_Logo_WhiteLounge rgb"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e4d683e1-3240-4311-a593-69fbe80fd276/99/image.jpg",
+      "caption": "White Lounge Iglu Übernachtung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f915119-5bdc-4037-ace0-f8b8a050e5d1/99/image.jpg",
+      "caption": "White Lounge Iglu Eisbar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4474dec-58a5-448f-add6-fd6c57a830bd/99/image.jpg",
+      "caption": "White Lounge Iglu Dorf Außenansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56dd4c5c-5936-4950-85be-1933eef0f775/99/image.jpg",
+      "caption": "White Lounge Iglu Innen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/abab3379-9452-4721-9606-1acf128cdcb9/99/image.jpg",
+      "caption": "White Lounge Iglu Übernachtung Außenansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a416c7df-40fb-4a41-852e-8f7306c4dd05/99/image.jpg",
+      "caption": "White Lounge Iglu Chill out Area"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0fa73d82-83d0-494b-8fb3-1da0389ec981/99/image.jpg",
+      "caption": "White Lounge Iglu Übernachtung Innen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f132d458-81bc-49b9-987b-a85e1871e930/99/image.jpg",
+      "caption": "White Lounge Iglu Übernachtung Lagerfeuer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ffe5758-1f43-4f5d-b8f8-15a5c240f492/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59afd557-cdd7-4485-ad77-202d9c70b601/99/image.jpg",
+      "caption": "MayrhofnerBergbahnen_WhiteLounge_IgluDorf"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1359",
+    "longitude": "11.873381"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA",
+    "Sofortüberweisung"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Suite, fl. k/w Wasser, 1 Schlafraum",
+      "description": "ROMANCE Package für 2 beinhaltet:\n\n- Romantik-Übernachtung in der eigenen Iglu Suite zu zweit\n- Berg- \u0026 Talfahrt mit der Ahornbahn, inklusive Gepäckservice\n- Begrüßungsgetränk\n- Einführung und Betreuung durch geschulte Guides\n- genussvolles Abendessen in gemütlichem Ambiente im Café-Bistro Freiraum\n- Mystische Fackelwanderung mit anschließendem Panorama-Lagerfeuer\n- Eisstockschießen\n- Kuschliger Schlafsack\n- Prickelnde Überraschung\n- Genießerfrühstück",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "ROMANCE",
+          "description": "ROMANCE Package für 2 beinhaltet:\n\n- Berg- \u0026 Talfahrt mit der Ahornbahn, inklusive Gepäckservice\n- Begrüßungsgetränk\n- Einführung und Betreuung durch geschulte Guides\n- genussvolles Abendessen in gemütlichem Ambiente im Café-Bistro Freiraum\n- Mystische Fackelwanderung mit anschließendem Panorama-Lagerfeuer\n- Eisstockschießen\n- Romantiknacht in einer Iglu Suite zu zweit \n- Übernachtung im Schlafsack\n- Prickelnde Überraschung\n- Genießerfrühstück",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "369.00",
+          "maxPrice": "399.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, fl. k/w Wasser, 2 Schlafräume",
+      "description": "BASIC Package beinhaltet:\n\n- Berg-\u0026 Talfahrt, inklusive Gepäckservice ab der Bergstation\n- Begrüßungsgetränk\n- Einführung \u0026 Betreuung durch geschulte Guides\n- genussvolles Abendessen im Café-Bistro FREIRAUM\n- Mystische Fackelwanderung mit Panorama-Lagerfeuer\n- Eisstockschießen\n- Kuscheliger Expeditionsschlafsack mit Innenschlafsack \n- Genießerfrühstück\n\nINFORMATION: Es besteht die Möglichkeit, dass bei Vollauslastung 2 weitere Gäste  im selben Iglu untergebraucht werden. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "BASIC für 2 Personen",
+          "description": "BASIC Package beinhaltet:\n\n- Berg-\u0026 Talfahrt, inklusive Gepäckservice ab der Bergstation\n- Begrüßungsgetränk\n- Einführung \u0026 Betreuung durch geschulte Guides\n- genussvolles Abendessen im Café-Bistro FREIRAUM\n- Mystische Fackelwanderung mit Panorama-Lagerfeuer\n- Eisstockschießen\n- kuscheliger Expeditionsschlafsack mit Innenschlafsack \n- Genießerfrühstück\n\nINFORMATION: Falls Sie z.B. 2 Basic-Packages buchen, besteht die Möglichkeit, dass bei Vollauslastung im selben Iglu 2 weitere Gäste untergebraucht sind. \n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "139.00",
+          "maxPrice": "159.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, fl. k/w Wasser, 3 Schlafräume",
+      "description": "BASIC Package beinhaltet:\n\n- Berg-\u0026 Talfahrt, inklusive Gepäckservice ab der Bergstation\n- Begrüßungsgetränk\n- Einführung \u0026 Betreuung durch geschulte Guides\n- genussvolles Abendessen im Café-Bistro FREIRAUM\n- Mystische Fackelwanderung mit Panorama-Lagerfeuer\n- Eisstockschießen\n- Kuscheliger Expeditionsschlafsack mit Innenschlafsack \n- Genießerfrühstück\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "BASIC für 3 Personen",
+          "description": "BASIC Package beinhaltet:\n\n- Berg-\u0026 Talfahrt, inklusive Gepäckservice ab der Bergstation\n- Begrüßungsgetränk\n- Einführung \u0026 Betreuung durch geschulte Guides\n- genussvolles Abendessen im Café-Bistro FREIRAUM\n- Mystische Fackelwanderung mit Panorama-Lagerfeuer\n- Eisstockschießen\n- Kuscheliger Expeditionsschlafsack mit Innenschlafsack \n- Genießerfrühstück\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "139.00",
+          "maxPrice": "159.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, fl. k/w Wasser, 4 oder mehr Schlafräume",
+      "description": "BASIC Package beinhaltet:\n\n- Berg-\u0026 Talfahrt, inklusive Gepäckservice ab der Bergstation\n- Begrüßungsgetränk\n- Einführung \u0026 Betreuung durch geschulte Guides\n- genussvolles Abendessen im Café-Bistro FREIRAUM\n- Mystische Fackelwanderung mit Panorama-Lagerfeuer\n- Eisstockschießen\n- Kuscheliger Expeditionsschlafsack mit Innenschlafsack \n- Genießerfrühstück",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "BASIC für 4 Personen",
+          "description": "BASIC Package beinhaltet:\n\n- Berg-\u0026 Talfahrt, inklusive Gepäckservice ab der Bergstation\n- Begrüßungsgetränk\n- Einführung \u0026 Betreuung durch geschulte Guides\n- genussvolles Abendessen im Café-Bistro FREIRAUM\n- Mystische Fackelwanderung mit Panorama-Lagerfeuer\n- Eisstockschießen\n- Kuscheliger Expeditionsschlafsack mit Innenschlafsack \n- Genießerfrühstück\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "139.00",
+          "maxPrice": "159.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

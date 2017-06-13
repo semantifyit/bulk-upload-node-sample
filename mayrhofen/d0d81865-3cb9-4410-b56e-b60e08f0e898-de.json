@@ -1,0 +1,194 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-wechselberger.at/",
+    "http://maps.mayrhofen.at/?foreignResource\u003dD0D81865-3CB9-4410-B56E-B60E08F0E898"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Neu-Burgstall 330",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62537",
+    "faxNumber": "0043 5285 62539",
+    "email": "info@haus-wechselberger.at",
+    "url": "http://www.haus-wechselberger.at"
+  },
+  "name": "Wechselberger Michael",
+  "description": [
+    "Unser Haus liegt in ruhiger, sonniger Lage, 300m vom Skilift Horbergbahn entfernt. Wir vermieten drei Appartements von 45 bis 80 meter. Alle Appartements sind mit dem Prädikat **** Edelweiß bewertet.  Jedes Appartment verfügt über zwei räumlich getrennte Doppelschlafzimmer sowie Erweiterungsmöglichkeit bei den größeren Appartements. Separate Küche bzw. Wohnküche, Dusche/WC sind bei den größeren Appartements getrennt. Sat TV, Zimmersafe, Haartrockner, Kosmetikspiegel und kostenloser Parkplatz am Haus. ",
+    "Kinderermässigung: 0-4 Jahre gratis\n                                   \n\nInklusive: Heizung, Strom, Wasser, Bettwäsche, Handtücher\n\nExklusive:  Brötchenservice, Endreinigung (€ 30,-)",
+    "Check out: 09.00 Uhr\nCheck in: 16.00 Uhr",
+    "Seilbahnnähe weniger als 350 Meter, ruhig, für Familien geeignet, gratis Parkplatz, gratis WLAN "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2b901648-5fc0-42ab-b431-df8f1bc23ca0/99/image.jpg",
+      "caption": "Hausansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b432ef95-99e6-4aef-bba9-536ada6fea7d/99/image.jpg",
+      "caption": "4 Edelweiß-Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0aec245b-ea71-47d0-a343-2a3539f16d37/99/image.jpg",
+      "caption": "Ap1-Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f853c4f3-ccab-497e-bac2-3a95cce465db/99/image.jpg",
+      "caption": "WLAN in allen Wohnungen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53610a1f-2133-477a-9f68-1be3469c6cfb/99/image.jpg",
+      "caption": "Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ead9b7ac-d38e-441d-99aa-4b9b39bb4770/99/image.jpg",
+      "caption": "Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/00223ffa-a61f-486f-8dcc-4ab5977ff5c3/99/image.jpg",
+      "caption": "Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/27c65d60-6a6d-49bd-8098-db0cda7123f1/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/986c4e1a-8c33-4583-af0b-6dbc935be0e1/99/image.jpg",
+      "caption": "Panoramablick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f39dfc96-9c1e-4284-954d-a1a90a17e38f/99/image.jpg",
+      "caption": "Klettersteig"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1871277322345",
+    "longitude": "11.8582713603973"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "80m² Ferienwohnung im ersten Stock (gesamtes Stockwerk), 2 Doppelschlafzimmer in Massivholzausführung, Küche mit Geschirrspüler und Sitzecke, Wohnzimmer mit Ausziehcouch, Sat TV, zwei Duschen, WC-separat, Südostbalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung 4-6 Personen",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "104.00",
+          "maxPrice": "112.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "124.00",
+          "maxPrice": "132.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "144.00",
+          "maxPrice": "152.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "144.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 2 Schlafräume",
+      "description": "90m² Ferienwohnung (gesamtes Stockwerk), 2 Schlafzimmer, Küche, Wohnzimmer, Sat-TV, Whirlbad mit Dusche, WC separat, Südostbalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung 2-4 Personen",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "108.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "108.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "76.00",
+          "maxPrice": "112.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "132.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

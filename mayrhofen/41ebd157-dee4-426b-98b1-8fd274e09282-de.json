@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Shape Mayrhofen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1616615",
+    "longitude": "11.8617733999999"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Shape Mayrhofen",
+    "streetAddress": "Zillerlände 490",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8925000",
+    "url": "http://www.shape-mayrhofen.com/"
+  },
+  "description": "Ob Krafttraining, Aerobic, Pilates oder Yoga – im neuen SHAPE finden Bewegungsprofis, Hobby-Sportler oder Neueinsteiger ein breites und auf ihre individuellen Bedürfnisse abgestimmtes Trainings- und Wellness-Angebot. Erfahrene Trainer betreuen unsere Mitglieder von Anfang an und erstellen mit Ihnen gemeinsam einen perfekt ausgearbeiteten Trainingsplan der auf die spezifischen Bedürfnisse und Wünsche jedes Kunden abgestimmt wird.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/794eb17b-5b06-4e19-962c-e09883dc6c90/99/image.jpg",
+      "caption": "Shape"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

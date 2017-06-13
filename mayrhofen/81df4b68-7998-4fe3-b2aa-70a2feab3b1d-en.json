@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Moni\u0027s Speckstube",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1661888",
+    "longitude": "11.86528"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Moni\u0027s Speckstube",
+    "streetAddress": "Scheulingstrasse 449",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62800"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d8cb4879-3118-460a-aa5e-606e7b123132/99/image.png",
+      "caption": "Logo"
+    }
+  ]
+}

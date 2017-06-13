@@ -1,0 +1,130 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://",
+    "http://maps.mayrhofen.at/?foreignResource\u003d2370C791-B0A3-4109-B9C2-40784484FF9D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Neu-Burgstall 322",
+    "addressLocality": "Schwendau",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63086",
+    "email": "l.walder@gmx.net"
+  },
+  "name": "Ferienwohnung Walder Elisabeth",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ea6cea9-71ff-4006-872a-492ac749a031/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b0f0b1cc-92b8-4ec0-bb53-a400be898638/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/19697b31-e00e-4e95-a211-ab9096d843c0/99/image.jpg",
+      "caption": "FeWo Walder Elisabeth Schwendau - Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/951dafc3-2b4e-4d8f-b392-ce06a185e833/99/image.jpg",
+      "caption": "FeWo Walder Elisabeth - Wohn u Esszimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c3603ed8-3bd4-4b37-b184-aa71355a5476/99/image.jpg",
+      "caption": "FeWo Walder Elisabeth - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c9b4af6c-f869-4823-bd32-8fb657b96e3b/99/image.jpg",
+      "caption": "FeWo Walder Elisabeth - Zimmer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f1da74d3-993d-4075-be98-192aff479132/99/image.jpg",
+      "caption": "FeWo Walder Elisabeth - Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c8d391a-4787-4215-9150-5c789b1cdb91/99/image.jpg",
+      "caption": "FeWo Walder Elisabeth - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5db113c5-7385-439f-b46a-03ae0f709f1d/99/image.jpg",
+      "caption": "FeWo Walder Elisabeth - Zillergrund"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd5adfa3-d34a-4948-8002-588eb5c2ef3e/99/image.jpg",
+      "caption": "FeWo Walder Elisabeth - Grundschartner"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.186015784719",
+    "longitude": "11.8589901924133"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, ванна, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент, bath, toilet, 2 спальни",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "132.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "132.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "132.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

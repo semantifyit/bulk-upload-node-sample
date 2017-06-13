@@ -1,0 +1,91 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "DanceEvent"
+  ],
+  "name": [
+    {
+      "@language": "de",
+      "@value": "Zillertaler Mander Fest 2017"
+    },
+    {
+      "@language": "en",
+      "@value": "Zillertaler Mander Festival 2017"
+    },
+    {
+      "@language": "ru",
+      "@value": "Zillertaler Mander Festival 2017"
+    }
+  ],
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Zillertaler Mander ",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Christian",
+      "familyName": "Fankhauser"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dornau 354",
+      "addressLocality": "Finkenberg",
+      "postalCode": "6292",
+      "addressCountry": "AT",
+      "telephone": "(0043) 664 4540738",
+      "faxNumber": "(0043) 5286 5295 ",
+      "email": "info@zillertaler-mander.at",
+      "url": "http://www.zillertaler-mander.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Zillertaler Mander ",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dornau 354",
+      "addressLocality": "Finkenberg",
+      "postalCode": "6292",
+      "addressCountry": "AT",
+      "telephone": "(0043) 664 4540738",
+      "faxNumber": "(0043) 5286 5295 ",
+      "email": "info@zillertaler-mander.at",
+      "url": "http://www.zillertaler-mander.at"
+    }
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Programm:\n\nDonnerstag, 20. Juli:\n\nBegrüßungsabend mit CD-Präsentation des neuen Albums 2017 im Brückenstadl in Mayrhofen.\nBeginn: 18.30 Uhr, Eintritt frei, live mit dabei: die Alpis!\n\nFreitag, 21. Juli:\n\nFanwanderung zum Talbachstüberl in Laimach. Für beste Stimmung sorgt das Kasermandl Duo. Natürlich werden die Zillertaler Mander als Wanderführer agieren und dabei sein. \nFanwanderung nur durch Voranmeldung möglich (www.zillertaler-mander.at od. +43 664 4540738). \n\nAb 20.00 Uhr:\n20 jähriges Bühnenjubiläum Chris \u0026 Albin Zillertaler Mander präsentieren Jungmusiker aus dem Alpenland am Festplatz\n\nSamstag, 22. Juli:\n\nGroßes Fest in Zell am Ziller am Festplatz\nEinlass 16 Uhr, Beginn 17.00 Uhr\nKinder bis 15 Jahre Eintritt frei!\nEintritt € 13,-\nUnterland Echo\nMelanie Payer\nDie Fetzig´n\nFrancine Jordi\nModeration Alex Weber vom ORF Radio Tirol \n\nKonzert der Zillertaler Mander ab 21.00 Uhr\n\nAftershowparty im Discozelt mit DJ Mox\n\nSonntag, 23. Juli:\nFrühschoppen am Festplatz, Beginn 10.30 Uhr\n\nModeration Ingo Rotter vom Radio U1 Tirol\nTirolerisch gspielt\nTirol Echo\nDie Pfundskerle\nZillertaler Mander\nEintritt: € 5,- \nKinder bis 15 Jahre frei!\n\nÄnderungen vorbehalten!\n\nTickets:\n\nKombiticket ab 16 Jahre € 20,-\nSamstagsticket ab 16 Jahre € 11,-\n\nTourismusverband Mayrhofen- Hippach\nticket@mayrhofen.at oder 05285 6760\n\nOnline Tickets:"
+    },
+    {
+      "@language": "en",
+      "@value": "Program:\n\nThursday, 20th July:\n\nWelcome evening with CD presentation of the new album 2017 at the Brückenstadl in Mayrhofen.\nStart: 6.30 p.m., free entry, live with: the Alpis!\n\nFriday, 21st July:\n\nGuided hike to the Talbachstüberl in Laimach. The Kasermandl Duo provides the best atmosphere. Of course, the Zillertal Mander will act as a guide and be there.\nFan hike only possible by pre-registration (www.zillertaler-mander.at or +43 664 4540738).\n\nFrom 8 p.m.:\nChris \u0026 Albin Zillertaler Mander present young musicians from the Alps at the festival area\n\nSaturday, July 22nd:\n\nGreat festival in Zell am Ziller at the festival area\nInlet: 4.00 p.m. | Start: 5.00 p.m.\nChildren up to 15 years free entry!\nAdmission € 13, -\n\nActs:\nUnterland Echo\nMelanie Payer\nDie Fetzig\u0027n\nFrancine Jordi\nModerator Alex Weber from ORF Radio Tirol\n\nConcert of the Zillertal Mander from 9.00 p.m.\n\nAftershowparty in the disco tent with DJ Mox\n\nSunday, 23rd July:\nMusically brunch at the festival area, start at 10.30 a.m.\n\nModeration Ingo Rotter from Radio U1 Tirol\nTirolerisch gspielt\nTirol echo\nDie Pfundskerle\nZillertal Mander\nAdmission: € 5, -\nChildren up to 15 years free!\n\nSubject to change!\n\nTickets pre sale:\n\nCombined ticket from 16 years: € 20, -\nTicket only for Saturday from 16 years: € 11, -\n\nTourismusverband Mayrhofen- Hippach\nTicket@mayrhofen.at or 05285 6760\n\nOnline Tickets:\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/704dd678-5e72-4031-a69f-07300ab5b09a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Zillertaler Mander"
+        },
+        {
+          "@language": "en",
+          "@value": "Zillertaler Mander"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zillertaler Mander"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.mayrhofen.at/shop/"
+  ],
+  "startDate": "2017-07-20T00:00:00",
+  "endDate": "2017-07-23"
+}

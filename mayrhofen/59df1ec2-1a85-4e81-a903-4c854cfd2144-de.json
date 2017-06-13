@@ -1,0 +1,265 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d59DF1EC2-1A85-4E81-A903-4C854CFD2144",
+    "http://www.logenplatz-zillertal.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Logenplatz Zillertal Vermietung und Verpachtung",
+    "streetAddress": "Bichl 665",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 664 7500 1901",
+    "email": "info@logenplatz-zillertal.at",
+    "url": "http://www.logenplatz-zillertal.at"
+  },
+  "name": "Logenplatz Zillertal",
+  "description": [
+    "Ob das großzügige Appartement oder unser wunderschönes Chalet - den Namen Logenplatz Zillertal tragen beide aus gutem Grund. Oberhalb von Ramsau auf 730m Seehöhe gelegen haben Sie hier einen sensationellen Blick ins Tal bis nach Mayrhofen.",
+    "Preise verstehen sich inkl. Ortstaxe inkl. Endreinigung, Haustier € 50,-\ninkl.MwSt 13%",
+    "Check-in: 16:00\nCheck-out: 09.00",
+    "Chalet, Logenplatz, Zillertal, Appartement, Aussicht, Alleinlage, Panoramablick"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/940c2394-ebdf-4cfa-8b0a-1472339b0056/99/image.jpg",
+      "caption": "Chalet Tagesansicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ee011e3a-a460-480f-a6bb-23e5d2a4fc1b/99/image.png",
+      "caption": "Logo Logenplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/79480bcc-f2b5-443d-a288-302db028ed76/99/image.jpg",
+      "caption": "Außenansicht Chalet mit Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e683c3af-fb79-4075-8eaf-02be81f1076e/99/image.jpg",
+      "caption": "Gartenansicht und Panorama Chalet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/91ef315b-2f05-46f8-b6c0-ae436e11b07f/99/image.jpg",
+      "caption": "Sommerfoto Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ebad3ac-8686-4598-83b8-291186a449eb/99/image.jpg",
+      "caption": "Terrasse Appartement"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5c1ed17-77d6-40e2-a5b3-892214060e8d/99/image.jpg",
+      "caption": "Hausfoto Sommer Appartement"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4416a556-858c-48cf-8883-2c860968fbb7/99/image.jpg",
+      "caption": "Chalet Gartenmöbel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f7039fe-8f8b-4e6d-8148-69b4d0cd923b/99/image.jpg",
+      "caption": "Chalet Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1608fc55-8691-4b58-9fe7-56255d001ee4/99/image.jpg",
+      "caption": "Panorama Chalet Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/129d7416-49dd-442f-b679-003af3d3722b/99/image.jpg",
+      "caption": "Aussicht Mayrhofen Ramsau"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa5c43b2-a62f-422e-b346-17afe8f3b67b/99/image.jpg",
+      "caption": "Nachtansicht Chalet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8085ea0c-8e32-4eff-91e9-a0ff3b310464/99/image.jpg",
+      "caption": "Dämmerung Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8afa11b-e659-4dce-8103-3db682cd34a7/99/image.jpg",
+      "caption": "Nachtdämmerung Chalet"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1980373",
+    "longitude": "11.8811812"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus",
+      "description": "Beschreibung des Chalets:\n\n* Herrlich fantastischer Ausblick bei Tag und Nacht\n* Blick nach Mayrhofen-Schwendau-Hippach-Ramsau\n* Kurze Entfernung zum Skigebiet Horberg-Penken-Ahorn (ca. 2min mit Auto)\n* Große Fenster mit Terrassentüren\n* Balkon- große Gartenanlage\n* Chalet bietet Platz für 2-max.8 Personen\n* 2-Zimmer mit TV/ Doppelbett ,mit Bad und Badewanne\n* 1-Zimmer mit TV/Doppelbett,\n* 1-Zimmer klein mit TV/für 7-8 Person (Bettmaß 1,40cm)\n* 1- Dusche-WC \n* Wohnbereich mit \"Tiroler Stube\"\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Chalet",
+          "numberOfRooms": "10.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement - Bauernhaus",
+          "numberOfRooms": "10.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "300.00",
+          "maxPrice": "600.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "350.00",
+          "maxPrice": "650.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "400.00",
+          "maxPrice": "700.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "445.00",
+          "maxPrice": "745.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "490.00",
+          "maxPrice": "790.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "125.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Für 2 bis 6 Personen\nWohnfläche ca. 60m²\nAppartement mit fantastischer Aussicht\nSeparater Eingang, Terrasse mit kleinem Garten, Gartenstühle, Grill\nWohnküche mit TV-Sat, gemütliche Sitzecke, Spülmaschine, Backrohr, Mikrowelle, Ceranfeld, Kaffeemaschine, Wasserkocher, Toaster, Messerblock, Gefrier.Kühlkombination, Kachelofen\n1 Doppelzimmer für 2 Personen\n1 Kleines Zimmer mit Stockbett für 2Personen\n1 Komfortables Ausziehbett (160cm breit) für 2 Personen\n1 Dusche -WC -Waschbecken\n\nBelegung: 2 - 6\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "125.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "160.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

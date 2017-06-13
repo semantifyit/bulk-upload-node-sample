@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Greenline Skibus Mayrhofen-Hintertux 23.12.2016 - 23.04.2017",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.169343078776",
+    "longitude": "11.8623446306581"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhof Mayrhofen",
+    "streetAddress": "Am Marktplatz 200",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5244 60 6290",
+    "email": "office@zillertalbahn.at",
+    "url": "http://www.zillertalbahn.at"
+  },
+  "description": "The Greenline is the bus connection, which takes skier in skiequipement from Mayrhofen to Hintertux and return.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e689d318-99ff-4e88-8bc7-60d175259054/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d749e85a-1cad-4613-952b-7c5b4f611c7a/99/image.jpg",
+      "caption": "Skibus"
+    }
+  ]
+}

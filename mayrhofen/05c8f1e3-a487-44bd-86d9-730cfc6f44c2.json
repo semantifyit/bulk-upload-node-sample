@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Gasthof Tipotsch"
+    },
+    {
+      "@language": "de",
+      "@value": "Gasthof Tipotsch"
+    },
+    {
+      "@language": "ru",
+      "@value": "Gasthof Tipotsch"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2050141252663",
+    "longitude": "11.8702983856201"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tipotsch, Gasthof",
+    "streetAddress": "Talstraße 66",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3614",
+    "faxNumber": "0043 5282 36144",
+    "email": "gasthof-tipotsch@aon.at",
+    "url": "http://gasthof-tipotsch.at/"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Gasthof Tipotsch ist ein traditioneller Gasthof im schönen Zillertal, mit Cafe, Restaurant, gemütlicher Hausbar, Terrasse, Tischtennistisch, Spielecke und Kinderspielplatz.\nFür Abwechslung ist nebenan in der dazugehörigen Discothek gesorgt.\nWir würden uns freuen auch Sie in Zukunft zu unseren Gästen zählen zu dürfen. \n"
+    },
+    {
+      "@language": "en",
+      "@value": "\nOur family-run inn is located\ncentrally located in Ramsau-Hippach and offers a \nCafe-restaurant, dining,\nBar (Pink Panther)."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e3db690-b19d-4080-971e-b3e06f858039/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Tipotsch"
+        },
+        {
+          "@language": "de",
+          "@value": "Tipotsch"
+        },
+        {
+          "@language": "ru",
+          "@value": "Tipotsch"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.tipotsch.at.tt"
+  ]
+}

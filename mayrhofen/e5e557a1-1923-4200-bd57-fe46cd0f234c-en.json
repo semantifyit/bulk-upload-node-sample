@@ -1,0 +1,347 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.paulerhof.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dE5E557A1-1923-4200-BD57-FE46CD0F234C"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Paulerhof, Gasthof",
+    "streetAddress": "Schwendberg 395",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 9121272",
+    "faxNumber": "0043 5282 3629",
+    "email": "info@paulerhof.at",
+    "url": "http://www.paulerhof.at"
+  },
+  "name": "Ferienwohnungen Paulerhof",
+  "description": [
+    "Our restaurant \"Paulnerhof\" is situated on the Zillertaler Höhenstrasse on about 800m sealevel and is easily reachably by car or by bus (busstop directly in front of the house). \nOur house is a liked trip goal for walkers and mountainbikers. In our restaurant we serve typical tyrollean kitchen as well as national and international kitchen. Special courts are game courts from our own games.  At our terasse you enjoy a wonderful view into the valley and the mountains of the Zillertal.  For the children we have a playcourt.",
+    "Own hard liquore destillary. \nBread service.",
+    "Check in 12.00 - Check out 9.00 "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8705b579-bee0-4109-82a2-74fe1359e3ec/99/image.jpg",
+      "caption": "Paulerhof Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cabd2f15-5562-4b9f-bca9-57d8511f0463/99/image.jpg",
+      "caption": "Paulerhof - Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/31bd3b8e-04ef-459f-ba0d-d1dc0cb997dd/99/image.jpg",
+      "caption": "Paulerhof - Restaurant-Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17af4b75-13e4-477e-a1a9-e97ff105bd59/99/image.jpg",
+      "caption": "Paulerhof - Lage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b1fcfd14-edb5-476d-9a69-0e7731eb7e64/99/image.jpg",
+      "caption": "Paulerhof - Anfahrtsplan"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e3aecfdb-4995-484b-b8a2-f5e453972133/99/image.jpg",
+      "caption": "Paulerhof - Ferienwohnung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ebaa3e4-f3b0-4088-9443-f26252a55e3c/99/image.jpg",
+      "caption": "Paulerhof - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6163c645-7436-4d42-b176-df7160aff73f/99/image.jpg",
+      "caption": "Paulerhof - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cad7a9d5-4280-4b2b-a1e2-d8a7fb2d5c27/99/image.jpg",
+      "caption": "Paulerhof - Küche1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3724f7c-e386-4c1f-911a-a0bce24c90c2/99/image.jpg",
+      "caption": "Paulerhof - Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/45fb9999-d1b5-4cda-b813-187ba0b047fc/99/image.jpg",
+      "caption": "Paulerhof - Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/147fb65b-d1ad-408d-813a-f5a9e9ca70dc/99/image.jpg",
+      "caption": "Paulerhof - Küche Lara Marie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/22aeedd3-7ad9-4a30-a80d-5beec3b99a39/99/image.jpg",
+      "caption": "Paulerhof - zimmer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bd630e97-7cb2-431c-a0e8-03d658678de7/99/image.jpg",
+      "caption": "Paulerhof - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e34c8400-c64a-49d0-92d7-9b660570fb7c/99/image.jpg",
+      "caption": "Paulerhof - Stube"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.201821479859",
+    "longitude": "11.8548166751862"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 1 bed room",
+      "description": "WELCOME\nWe would like to welcome you on www.paulerhof.at! \n\nTime also took its toll on this beautiful place. This old farmhouse that started off as a small serviced alpine farm gave a home to two generations of the Bair family with many children, maidservants and farm laborers and over the years it has developed into a guesthouse with rooms and apartments. \nThe people living in the region of the Tyrolean Unterland are down-to-earth and fond of their roots while at the same time remain open towards people from all over the world. \n\nPaulerhof is located above the Zillertal, embedded in the farm’s own fruit gardens. The surrounding Zillertal Alps showcase their most beautiful side inviting you for a hike, a biking tour or a day of skiing. \n\nIts location right next to the Zillertaler Höhenstraße (mountain pass) definitely has its benefits – this road counts among the highest mountain passes and guarantees a perfect bus infrastructure for skiing tourists and hikers, who prefer leaving the car parked at the hotel…\n\nWe always do our best to make your time more pleasant!\n\nFam. Bair",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/1 bedroom/bath tube, WC",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/520f9e3e-23c9-4fdc-9e1b-976d2e198d02/99/image.jpg",
+              "caption": "Schlafzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a6bf6bc5-6ef9-436e-af89-56ba185b0e6c/99/image.jpg",
+              "caption": "2014-12-18 151233"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/596cd66a-4e04-4129-b5e7-835eae7f18da/99/image.jpg",
+              "caption": "Bad WC"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/7a7e1f72-aed2-40df-bb65-267e9069266c/99/image.jpg",
+              "caption": "Wohnraum mit Schlafsofa"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a064e335-9e76-4a2f-9a00-6a47f12f8167/99/image.jpg",
+              "caption": "2014-12-18 152616"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "44.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "66.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "88.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 4 or more bed rooms",
+      "description": "WELCOME\nWe would like to welcome you on www.paulerhof.at! \n\nTime also took its toll on this beautiful place. This old farmhouse that started off as a small serviced alpine farm gave a home to two generations of the Bair family with many children, maidservants and farm laborers and over the years it has developed into a guesthouse with rooms and apartments. \nThe people living in the region of the Tyrolean Unterland are down-to-earth and fond of their roots while at the same time remain open towards people from all over the world. \n\nPaulerhof is located above the Zillertal, embedded in the farm’s own fruit gardens. The surrounding Zillertal Alps showcase their most beautiful side inviting you for a hike, a biking tour or a day of skiing. \n\nIts location right next to the Zillertaler Höhenstraße (mountain pass) definitely has its benefits – this road counts among the highest mountain passes and guarantees a perfect bus infrastructure for skiing tourists and hikers, who prefer leaving the car parked at the hotel…\n\nWe always do our best to make your time more pleasant!\n\nFam. Bair",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/4 + more bedrooms/bath tube,WC",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "6"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "22.00",
+          "maxPrice": "156.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "22.00",
+          "maxPrice": "182.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "22.00",
+          "maxPrice": "208.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "20.00",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "20.00",
+          "maxPrice": "260.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 2 bed rooms",
+      "description": "WELCOME\nWe would like to welcome you on www.paulerhof.at! \n\nTime also took its toll on this beautiful place. This old farmhouse that started off as a small serviced alpine farm gave a home to two generations of the Bair family with many children, maidservants and farm laborers and over the years it has developed into a guesthouse with rooms and apartments. \nThe people living in the region of the Tyrolean Unterland are down-to-earth and fond of their roots while at the same time remain open towards people from all over the world. \n\nPaulerhof is located above the Zillertal, embedded in the farm’s own fruit gardens. The surrounding Zillertal Alps showcase their most beautiful side inviting you for a hike, a biking tour or a day of skiing. \n\nIts location right next to the Zillertaler Höhenstraße (mountain pass) definitely has its benefits – this road counts among the highest mountain passes and guarantees a perfect bus infrastructure for skiing tourists and hikers, who prefer leaving the car parked at the hotel…\n\nWe always do our best to make your time more pleasant!\n\nFam. Bair",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet, 2 bed rooms",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "52.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "22.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "22.00",
+          "maxPrice": "104.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "20.00",
+          "maxPrice": "127.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "20.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, balcony",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet, balcony",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "25.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

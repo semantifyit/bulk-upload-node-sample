@@ -1,0 +1,554 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://ww.waldruh-brandberg.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d18D088F4-9607-4989-B5C9-E34611636A6D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Brandberg 115",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63187",
+    "faxNumber": "0043 5285 63187",
+    "email": "info@waldruh-brandberg.at",
+    "url": "http://ww.waldruh-brandberg.at"
+  },
+  "name": "Gästehaus Waldruh",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt im Dorf Brandberg, oberhalb von Mayrhofen, in sehr ruhiger, sonniger Lage, kein Durchzugsverkehr."
+    },
+    {
+      "@language": "de",
+      "@value": "inklusive: Bettwäsche\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Von der Bundesstraße B169 vor Mayrhofen links abbiegen, Richtung Brandberg durch einen Tunnel, nach dem Tunnel gleich rechts bis Brandberg. Bei der Kirche die erste Abfahrt nach rechts in Richtung Volksschule und Gemeindeamt."
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated in the village of Brandberg, above Mayrhofen, in a very sunny and quiet position, no through traffic."
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes: Bed linen\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Directions: Use the B169 and turn left just before Mayrhofen in the direction of Brandberg, through a tunnel, after the tunnel turn right towards Brandberg. At the church turn right in the direction of the school (Volksschule) and city hall."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e30642a4-6527-453c-8675-ff9ee23cf480/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Waldruh Brandberg - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Waldruh Brandberg - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Waldruh Brandberg - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9439e623-257e-4df4-b359-0fceca3a1c54/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Waldruh Brandberg - Ortsansicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Waldruh Brandberg - Ortsansicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Waldruh Brandberg - Ortsansicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/74f2ac2b-0b09-40c9-919b-d3c4d8770673/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter "
+        },
+        {
+          "@language": "en",
+          "@value": "Winter "
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c0069c1c-e088-4ce3-9d21-417d9579cad2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/976fa02c-0efd-49c0-9e26-3d8f83fe3b31/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/66296b96-6d83-45c6-9b08-45a95a76681e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahorn White Lounge"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahorn White Lounge"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahorn White Lounge"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/30a09acc-5771-439e-be06-675d277ccdb8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "bike mayrhofen"
+        },
+        {
+          "@language": "en",
+          "@value": "bike mayrhofen"
+        },
+        {
+          "@language": "ru",
+          "@value": "bike mayrhofen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/916da81c-2553-4d65-a857-7f6403d807a9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bauer__Landwirt_Kulinarik_Brettljause_Wiese (Archi"
+        },
+        {
+          "@language": "en",
+          "@value": "Bauer__Landwirt_Kulinarik_Brettljause_Wiese (Archi"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bauer__Landwirt_Kulinarik_Brettljause_Wiese (Archi"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/42056411-28c9-4b04-9378-407489305e3e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer wandern"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer wandern"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer wandern"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7e7d62a5-d852-450a-ac55-3c78f6fdf1bb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer_Gipfel_Panorama ("
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer_Gipfel_Panorama ("
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer_Gipfel_Panorama ("
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/085705c6-ac27-4447-9409-0d83a60c1418/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e23370c6-ad1d-46bd-bbde-c7d09efa2e08/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "en",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wanderung Olpererhütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/06e3a690-45a4-48de-bf63-4064a0147b80/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "skifahrer-in-action"
+        },
+        {
+          "@language": "en",
+          "@value": "skifahrer-in-action"
+        },
+        {
+          "@language": "ru",
+          "@value": "skifahrer-in-action"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/44d9ee47-e365-4e87-aa18-316b52494786/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+        },
+        {
+          "@language": "en",
+          "@value": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1665511090192",
+    "longitude": "11.8980270624161"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "3 Schlafzimmer, Wohnküche, Du/WC und 2. WC, Sat-TV, Balkon\n"
+        },
+        {
+          "@language": "en",
+          "@value": "3 bedrooms, kitchen/lounge, shower/WC, 2nd WC, Sat-TV, balcony."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/FW3, 3 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/3 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "86.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "86.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "94.00",
+          "maxPrice": "102.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "1 Schlafzimmer, 1 Wohnzimmer mit Doppelcouch, 1 kleine Küche, Du/WC, Balkon, Sat-TV"
+        },
+        {
+          "@language": "en",
+          "@value": "1 bedroom, lounge with double sofa bed, 1 small kitchen, shower/WC, Sat-TV."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./FW2,Wohn-Schlafraum/1 Schlafraum/Du,WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./1 bedroom/shower,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "66.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "1 Schlafzimmer, 1 Küche mit Ausziehcouch, Süd-Balkon, Sat-TV"
+        },
+        {
+          "@language": "en",
+          "@value": "1 bedroom, 1 kitchen with sofa bed, south facing balcony, Sat-TV."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/FW1, 1 Schlafraum/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "62.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

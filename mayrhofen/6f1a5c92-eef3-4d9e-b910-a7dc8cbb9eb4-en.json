@@ -1,0 +1,141 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d6F1A5C92-EEF3-4D9E-B910-A7DC8CBB9EB4"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kröll Edith, Haus",
+    "streetAddress": "Waldfeldweg 626",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62893",
+    "faxNumber": "0043 5285 62893",
+    "email": "e.kroell@gmx.at"
+  },
+  "name": "Haus Kröll",
+  "description": [
+    "Our house is on the edge. Really calm and sunny location. Near the Penkenbahn and the mainstreet (3-5 minutes).\nThere\u0027s a balcony and also a car park.\n\n",
+    "The price includes breakfast and local taxes. Children\u0027s price reduction up tot he age of 10 -30%.",
+    "Directions: Take the ring road until the \"Eisenbacher\" shop car park, turn left in there, and left again and then the first road on the left, or go up the high street until \"Kaffee Joggl\", and turn immediately right into the Waldfeldweg."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e9b5ea03-278e-4548-af0b-c45e6f0580f4/99/image.jpg",
+      "caption": "Haus Kröll 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d796fb3-4a03-44da-ac24-edb8e49f950b/99/image.jpg",
+      "caption": "Haus Kröll"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/22837fa8-d989-448b-b08c-c8b881a5c4cb/99/image.jpg",
+      "caption": "Haus Kröll Mayrhofen - Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1655627345339",
+    "longitude": "11.8580943346024"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, bath, toilet",
+      "description": "On the first floor, a bedroom with 2 beds, shower/WC. Large balcony terrace with one can enjoy a view of the Grünberg mountain and afternoon sun.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shovertube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Triple room, shower",
+      "description": "In my apartment of the first floor I have a comfortable double room in Tyrolean style with a handbasin, and next door a beautiful bathroom/WC. In the room there is a small couch, suitable for a child to sleep on. There is also a nice west facing balcony terrace with seating and a view of meadows and mountains, where one can enjoy the long summer evenings.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "triple room with shower",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower or bath, toilet, 3 bed rooms",
+      "description": "Our holiday apartment is 70m² and consists of a double room with shower/WC, 2 double rooms sharing a large bathroom/WC, another separate WC, entrance hall with living area and kitchen with all modern conveniences.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap./3 bedrooms/shower or bath tube, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 3 bed rooms",
+      "description": "Holiday apartment for 6-7 people (100 m ²)\n1 anteroom\n3 bedrooms (1 double room, 1 double room with extra bed and 1 twin-bedded room)\n1 bath with bath / WC\n1 bath with shower / WC\n1 sitting room (Sat TV, living-room furniture, tiled stove, sleeping couch)\n1 kitchen (dining area, dishwasher, microwave, coffeemaker, additional sleeping possibility)\nBedclothes and towels including ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet, 3 bed rooms",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "6"
+          }
+        }
+      ]
+    }
+  ]
+}

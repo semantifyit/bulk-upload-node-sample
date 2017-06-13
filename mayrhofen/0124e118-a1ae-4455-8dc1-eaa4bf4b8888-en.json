@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Bärenbadalm 1450m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1217421355518",
+    "longitude": "12.0386070013046"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bärenbadalm ",
+    "streetAddress": "Zillergrund",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 232 7009",
+    "email": "andrea@baerenbad-alm.at",
+    "url": "www.baerenbadalm.at"
+  },
+  "description": "Summer \nstart at 26. May till middle of October 2017 \nno rest day \novernight stay possible 3 Double room 1 Room for 4 Person",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ba455e4-61c8-44fb-8e22-70e5e503c283/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c27acc39-cddf-480d-ae75-90e702a52239/99/image.jpg",
+      "caption": "Bärenbad"
+    }
+  ],
+  "url": [
+    "http://www.baerenbadalm.at"
+  ]
+}

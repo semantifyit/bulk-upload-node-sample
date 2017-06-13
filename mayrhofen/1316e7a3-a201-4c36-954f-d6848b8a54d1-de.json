@@ -1,0 +1,112 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hotel-laendenhof.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d1316E7A3-A201-4C36-954F-D6848B8A54D1"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kathrein, Haus",
+    "streetAddress": "Jakob-Moser-Straße 593",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63451",
+    "faxNumber": "0043 5285 63451 22",
+    "email": "info@hotel-laendenhof.at",
+    "url": "http://www.hotel-laendenhof.at"
+  },
+  "name": "Haus Kathrein",
+  "description": [
+    "Unser Haus liegt in sehr ruhiger Lage am Waldrand. Frühstück oder Halbpension auf Anfrage buchbar -  Hotel Ländenhof***, (\u003dZimmer) 1 Minute entfernt.",
+    "Im Preis inkludiert: Strom, Heizung, Wasser, Bettwäsche/Handtücher.\nExklusive:  Endreinung 30,-- bis 38,-- Euro je nach Wohnung, Frühstück im Ländenhof: 10,-- Euro oder Halbpension (Frühstück und Abendessen): 22,-- Euro.",
+    "Check in / Check out: ab 14 Uhr\nAnreise: Kreisverkehr Mayrhofen Richtung Bahnhof - Einfahrt Mitte - an der Kreuzung rechts, entlang der Hauptstrasse bis zur Penkenbahn - links abbiegen (Metzgerei Gasser) - nächste Abzweigung rechts - nächste Seitenstrasse rechts (Jakob-Moser-Strasse). Unser Haus befindet sich am Ende dieser Strasse auf der linken Seite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e6c5705-872d-4147-8679-6d1b4a383249/99/image.jpg",
+      "caption": "Haus Kathrein Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9aed3afe-bd54-498a-a7fa-0f9ab6f2b1a7/99/image.jpg",
+      "caption": "Haus Kathrein Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a6d6074f-4627-4457-a154-7b08d249cdf9/99/image.jpg",
+      "caption": "Haus Kathrein Mayrhofen - Anreise"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09888091-dbac-48c6-9de7-c47b3bf0280a/99/image.jpg",
+      "caption": "Speisesaal - Hotel Ländenhof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/10aa08be-6216-470e-9e14-86886f42c849/99/image.jpg",
+      "caption": "Haus Kathrein Mayrhofen - Apartment Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/febe7708-b101-4d48-b3a9-30fe58f61a7b/99/image.jpg",
+      "caption": "Haus Kathrein Mayrhofen - Apartment Küche"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1600734567009",
+    "longitude": "11.8644940853119"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Ferienwohnung für 2-4 Personen, 40-56m², 2 Doppelzimmer mit DU/WC und Balkon, Wohnküche mit Sitzecke und Kabel-TV. Auf Wunsch mit Frühstück oder Halbpension Buchbar (im Nachbarhaus Hotel Ländenhof).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

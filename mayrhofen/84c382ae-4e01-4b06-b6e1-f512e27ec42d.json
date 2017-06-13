@@ -1,0 +1,386 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.laimach.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d84C382AE-4E01-4B06-B6E1-F512E27EC42D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laimach 210",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 699 11676485",
+    "email": "markus.kolb@aon.at",
+    "url": "http://www.laimach.at"
+  },
+  "name": "Kolb Markus",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Neu erbautes gemütlich eingerichtetes Haus in ruhiger, sonniger Lage. Die größten Skigebiete des Zillertals erreichen sie in nur wenigen Minuten mit den kostenlosen Skibussen, die nur 50m von unseren Haus entfernt sind.\nEbenfalls befinden sich ein kleines Lebensmittelgeschäft, eine Metzgerei und einige gute Restaurants nur wenige Gehminuten von uns entfernt.\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "W-Lan"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: 14.00 Uhr\nCheck out: 09.00 Uhr\n\nDer Preis für die Endreinigung beträgt Euro 40,00"
+    },
+    {
+      "@language": "en",
+      "@value": "A new built house comfortably furnished in quiet, sunny situation. The biggest skiing areas of the Zillertal you can reach at only few minutes by the free ski coaches which are removed only 50 m from our house. \nAlso there are a small food store, a butcher\u0027s shop and some good restaurants only few walking minutes away from us.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Wi-Fi"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 14.00 \nCheck out: 09.00 "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ab72c66-78c7-4d06-b013-63eb43f158d9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kolb Markus Hippach - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Kolb Markus Hippach - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kolb Markus Hippach - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b2aa4a8-9b56-4c93-82ff-8c27a8f8c36e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kolb Markus Hippach - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Kolb Markus Hippach - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kolb Markus Hippach - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/55a36c7e-eba5-439d-9039-c84814db126a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter1"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52749137-bf51-4af3-9768-5a473e1f8464/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter2"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/83c04445-de76-4480-803d-d9e95da9a0a0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter3"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/22cce0a9-b4e1-4b87-a5dc-400fefdd1500/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter4"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/774cc7ee-c3c6-4d5f-85b9-9e9c4c9c24f7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kuh auf der Alm"
+        },
+        {
+          "@language": "en",
+          "@value": "Kuh auf der Alm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kuh auf der Alm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/828d0c7e-d0c0-4f29-850f-281c5ba62646/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "en",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wanderung Olpererhütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cbc6108b-65fe-4102-8b42-b1fffcca7f67/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter Landschaft"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter Landschaft"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter Landschaft"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a3b7fe4-3068-4860-825e-68e53b917fd5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer Gipfel Panorama"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer Gipfel Panorama"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer Gipfel Panorama"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2232333091033",
+    "longitude": "11.8682545423508"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "67m² großes Appartment, 2 Schlafzimmer, 1 Wohn-Schlafzimmer, ebenerdig, separater Hauseingang, Badezimmer - WC."
+        },
+        {
+          "@language": "en",
+          "@value": "67 m² big appartment, 2 bed rooms, 1 living-bed-room, own entrance, bath - WC."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./Wohn-Schlafraum/2 Schlafr./Dusche,WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./2 bedr./shower,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "65 m² großes Appartement, 2 Schlafzimmer (davon ist eines gleich neben der Wohnung mit DU/WC), 1 Wohnschlafzimmer, Küche, Bad, WC, Hausgang + Garderobe, Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "65 m² apartment, 2 bedrooms (of which one is right next to the apartment with shower / WC), 1 living room, kitchen, bathroom, toilet, hallway + wardrobe, balcony"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./Wohn-Schlafraum/2 Schlafr./Dusche,WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./2 bedr./shower, wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

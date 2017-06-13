@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Vernissage: Through the Zillertal on high ways - from Paul Sürth",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Grawandhütte ",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Martin ",
+      "familyName": "Frontull"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Im Zemmgrund 279",
+      "addressLocality": "Ginzling",
+      "postalCode": "6295",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5286 5213",
+      "email": "info@grawandhuette.at",
+      "url": "http://www.grawandhuette.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Grawandhütte ",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Im Zemmgrund 279",
+      "addressLocality": "Ginzling",
+      "postalCode": "6295",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5286 5213",
+      "email": "info@grawandhuette.at",
+      "url": "http://www.grawandhuette.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/590d5a2b-4c6b-454e-8d0a-e2a1d87c6e1b/99/image.jpg",
+      "caption": "Bild von Paul Sürth"
+    }
+  ],
+  "url": [
+    "http://www.grawandhuette.at/"
+  ],
+  "startDate": "2017-05-27T13:00:00",
+  "endDate": "2017-07-31"
+}

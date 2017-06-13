@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Gasthof Perauer"
+    },
+    {
+      "@language": "de",
+      "@value": "Gasthof Perauer"
+    },
+    {
+      "@language": "ru",
+      "@value": "Gasthof Perauer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.161029105976",
+    "longitude": "11.8611091375351"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Perauer, Hotel Gasthof",
+    "streetAddress": "Ahornstraße 854",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62566",
+    "faxNumber": "(0043) 5285 625666",
+    "email": "info@perauer.at",
+    "url": "http://www.perauer.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Philosophie\nEin sturer Bock, was Qualität angeht ...\n... das Hotel Gasthof Perauer steht für Qualität, Besinnung auf Traditionen, aufrichtige Gastfreundschaft und Herzlichkeit, große Heimatliebe, der nötige Schmäh ... Ein Tiroler Original! \n\nDie Lage des Hotel-Gasthof Perauer\nIn herrlich-sonniger und vor allem zentrumsnaher Panoramalage von Mayrhofen - unmittelbar neben der neuen Ahornbahn und nur 3 Gehminuten von der Penkenbahn entfernt.\n\nGastronomie mit hauseigener Metzgerei im Hotel\nTraditionelle Klassiker aus der hauseigenen Metzgerei, saisonale Höhepunkte, internationale Spezialitäten oder süße Sünden - Genusskultur im wunderschönen Ambiente der heimeligen Stuben (Metzgerstube ist über 300 Jahre alt!), der Bürgerstube, dem Lumpenstüberl, der \"Jagahittn\", dem Wintergarten, der Sonnenterrasse, sowie in der großen Auswahl an edlen Tropfen aus Nah und Fern aus unserem Gewölbeweinkeller. Nach dem Essen empfiehlt sich ein „Absacker“ in der stilvollen Hotelbar „Kaminzimmer“.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Everyone is talking about the fine cuisine in our traditional guesthouse. Since it is not only guests, but also many locals too who take delight in letting the tasty delights created by our team of chefs melt in their mouths.\n\nAnyone who has been here once, always comes back. And anyone who hasn\u0027t been here, will hopefully hear tell everywhere about how good things taste here with us :-) The Perauer name typifies quality. This applies as much to a fillet of salmon on a bed of vegetables as it does to a guest in a cosy bed ..."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f7e1fa10-ae41-4810-984b-0dfe9f55893f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Perauer"
+        },
+        {
+          "@language": "de",
+          "@value": "Perauer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Perauer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf0d99b1-5592-471c-871a-cad3063f28b7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Perauer 1"
+        },
+        {
+          "@language": "de",
+          "@value": "Perauer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Perauer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1738861b-18fb-47c5-a21f-24c7d334df12/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Saunabereich"
+        },
+        {
+          "@language": "de",
+          "@value": "Saunabereich"
+        },
+        {
+          "@language": "ru",
+          "@value": "Saunabereich"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56ddea8b-6e2c-4c6b-a122-4a52e2baad31/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "de",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fdca7b30-bfec-4524-ac75-6df6d03255ba/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Zimmer 2"
+        },
+        {
+          "@language": "de",
+          "@value": "Zimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer 2"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.perauer.at"
+  ]
+}

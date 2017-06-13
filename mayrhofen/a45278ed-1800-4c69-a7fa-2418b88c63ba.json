@@ -1,0 +1,622 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.dianes-apartments.at",
+    "web.geoportal.at/GDM/externalcall.htm?project\u003dtvb\u0026user\u003dGesamt\u0026view\u003dLuftbild\u0026layerid\u003dU\u0026keyname\u003dU_ID\u0026keyvalue\u003dU115",
+    "web.geoportal.at/GDM/externalcall.htm?project\u003dtvb\u0026user\u003dGesamt\u0026view\u003dOrtsplan\u0026layerid\u003dU\u0026keyname\u003dU_ID\u0026keyvalue\u003dU115",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA45278ED-1800-4C69-A7FA-2418B88C63BA"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lindenhöhe 618",
+    "addressLocality": "Hainzenberg",
+    "postalCode": "6278",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 20931",
+    "faxNumber": "0043 5282 20931",
+    "email": "04deanne08@gmail.com",
+    "url": "http://www.dianes-apartments.at"
+  },
+  "name": "Blaschek German und Diane",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ganz besonders freuen wir uns, wenn Sie den Weg nach Mayrhofen, mitten in Tirols beeindruckender Bergwelt, finden und ein paar unvergessliche Tage in unserem Apartmenthaus verbringen - wir sorgen dafür, dass Sie einen wundervollen Aufenthalt bei uns haben!\nUnsere Ferienwohnungen liegen in idyllischer und sehr sonniger Lage in Hainzenberg. Obwohl in herrlicher Ruhe gelegen, sind Sie ganz nah an den pulsierenden Touristenzentren Ramsau, Hippach, Zell am Ziller und Mayrhofen. Für unsere Winterurlauber: die attraktiven, schneesicheren Skigebiete erreichen Sie mit dem Auto ganz bequem in nur 5-10 Minuten! Auch das Ärztehaus und zwei Großgeschäfte liegen in unmittelbarer Nähe und sind mit dem Auto schnell zu erreichen.\nDie Ferienwohnungen verfügen über eine große Sonnenterrasse, von welcher aus Sie einen herrlichen Rundblick auf unsere Bergwelt haben. Es ist eine ruhige und sonnige Lage. Hippach, Zell am Ziller \u0026 Mayrhofen liegen in greifbarer Nähe. Sie erreichen die Schilifte innerhalb von 5-10 Autominuten. Der Sonnenalm Schilift in Ramsau ist 5 Minuten entfernt. Ideal für Sommer \u0026 Winterurlaub."
+    },
+    {
+      "@language": "de",
+      "@value": "Brötchenservice, Preise excl. Endreinigung"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: 13.00 Uhr \nCheck out: 10.00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Situated on quiet, sunny hillside. Wonderful Panorama. Near bus stop to Zell am Ziller or Mayrhofen ski areas. Hintertux glacier is 20 minutes by car. Bread roll service, price includes taxes and end cleaning"
+    },
+    {
+      "@language": "en",
+      "@value": "Bread roll service, children reduction on request, prices excl. final cleaning"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 13.00 \nCheck out: 10.00 "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2390d7a4-b555-40cf-ae05-4b1c3081394f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Blaschek Hainzenberg - Terrasse "
+        },
+        {
+          "@language": "en",
+          "@value": "Blaschek Hainzenberg - Terrasse "
+        },
+        {
+          "@language": "ru",
+          "@value": "Blaschek Hainzenberg - Terrasse "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e9bef565-cc82-4c5f-9dc0-d8e2814fd1ce/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Blaschek Hainzenberg - Winter "
+        },
+        {
+          "@language": "en",
+          "@value": "Blaschek Hainzenberg - Winter "
+        },
+        {
+          "@language": "ru",
+          "@value": "Blaschek Hainzenberg - Winter "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/95b6c62c-3fd1-47b0-b9bb-020055a52ace/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Blaschek Hainzenberg - Tristner Blick vom Haus"
+        },
+        {
+          "@language": "en",
+          "@value": "Blaschek Hainzenberg - Tristner Blick vom Haus"
+        },
+        {
+          "@language": "ru",
+          "@value": "Blaschek Hainzenberg - Tristner Blick vom Haus"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04a67572-fc12-4e9f-ab78-38ac90341f3e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Blaschek Hainzenberg - Zillertal by Night"
+        },
+        {
+          "@language": "en",
+          "@value": "Blaschek Hainzenberg - Zillertal by Night"
+        },
+        {
+          "@language": "ru",
+          "@value": "Blaschek Hainzenberg - Zillertal by Night"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae7fff7c-d195-46e5-8cd1-46b0d3a39313/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern Stilluptal"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern Stilluptal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern Stilluptal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4236c477-d273-4096-bf40-7e548a3a1ed2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern Schlegeisspeicher"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern Schlegeisspeicher"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern Schlegeisspeicher"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/03a31d48-ee83-44ac-a4c4-473cd147c97d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Staumauer"
+        },
+        {
+          "@language": "en",
+          "@value": "Staumauer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Staumauer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bb9cecc0-9640-497d-b656-c48a1f566482/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Erlebniswoche Naturpark Zillertal"
+        },
+        {
+          "@language": "en",
+          "@value": "Erlebniswoche Naturpark Zillertal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Erlebniswoche Naturpark Zillertal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6276e92d-ff84-44a0-981f-12d5b7bd77c5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerurlaub-1"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerurlaub-1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerurlaub-1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/00716fdd-4b28-47a0-8e46-a6b209748e8a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerurlaub-3"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerurlaub-3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerurlaub-3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fdee650c-b139-4d59-99d2-fc2900aa2e5b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-1"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fcc8888c-2b97-4a5c-9977-0ba00b08ee83/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-2"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c42210a-8623-4fa9-9089-6ec371c224a3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Tristner \u0026 Penken 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Tristner \u0026 Penken 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Tristner \u0026 Penken 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6f4580e-7d72-4e64-80c4-c66f024f2e17/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Tristner \u0026 Penken"
+        },
+        {
+          "@language": "en",
+          "@value": "Tristner \u0026 Penken"
+        },
+        {
+          "@language": "ru",
+          "@value": "Tristner \u0026 Penken"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2c2c6c3-4df6-4803-8d7e-7da4217d8828/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Tuxer Alps in the background"
+        },
+        {
+          "@language": "en",
+          "@value": "Tuxer Alps in the background"
+        },
+        {
+          "@language": "ru",
+          "@value": "Tuxer Alps in the background"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f24498a0-e49f-4a26-b3ed-2c9ba5b581c2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "View from Bedroom window"
+        },
+        {
+          "@language": "en",
+          "@value": "View from Bedroom window"
+        },
+        {
+          "@language": "ru",
+          "@value": "View from Bedroom window"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/835935f5-c0a1-45f7-8e35-efa617496109/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wild Gerlos Spitz"
+        },
+        {
+          "@language": "en",
+          "@value": "Wild Gerlos Spitz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wild Gerlos Spitz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8518f48-2d8f-44ef-924b-4b98028c1c4f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Zeller Skigebiet"
+        },
+        {
+          "@language": "en",
+          "@value": "Zeller Skigebiet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zeller Skigebiet"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c458c8e2-48af-421f-9a4d-5a8e0cf34e20/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Zillertal Alps \u0026 Fern Clouds"
+        },
+        {
+          "@language": "en",
+          "@value": "Zillertal Alps \u0026 Fern Clouds"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zillertal Alps \u0026 Fern Clouds"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c186ba30-28b8-4c50-967a-a79a93a6304d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Zillertal Alps"
+        },
+        {
+          "@language": "en",
+          "@value": "Zillertal Alps"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zillertal Alps"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6caf586a-9175-4a73-97ca-9ae515c5c928/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skiing the Plateau"
+        },
+        {
+          "@language": "en",
+          "@value": "Skiing the Plateau"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skiing the Plateau"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2093818340052",
+    "longitude": "11.8749895691872"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Apartment Zillergrund:\nAusreichend Platz für 2 Personen bietet Ihnen das Apartment Zillergrund. Die 33m² teilen sich auf in ein separates Wohnzimmer und Schlafzimmer, Kochnische, Dusche und WC. Genießen Sie den wunderbaren Ausblick von der Südterrasse auf das umliegende Gebirge. Auch für eine Familie mit einem Kind geeignet.\nAlle Ferienwohnungen haben Handtücher, Bettwäsche, Koch- und Essgeschirr, Kaffeemaschine, Fön, WIFI, TV, Terrasse oder Balkon\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Kitchenette with frig, microwelle, kettle, filter coffe maker.  Modern bathroom with shower, bedroom with 160cm bed, Sitting Room with television. Sunny Terrace with löovelyx views of our mountains, in summer there is a possibility to BBQ,  In the lounge area there is a pull-out couch which can accommodate a third person."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung Zillergrund"
+            },
+            {
+              "@language": "en",
+              "@value": "Studio Opa/1 bedroom/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Apartment Stillup:\nDas gemütlich eingerichtete Apartment Stillup bietet Ihnen auf 33m² ein kombiniertes Wohn- und Schlafzimmer, Dusche und WC sowie eine separate Küche und eine Süd Terrasse.Geeignet für 2 Personen\nAlle Ferienwohnungen haben Handtücher, Bettwäsche, Koch- und Essgeschirr, Kaffeemaschine, Fön, WIFI, TV, Terrasse oder Balkon.\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Kitchenette with frig, microwelle, kettle,toaster, and filter coffe machine. Modern  bathroom with shower and WC, bed/sitting Room, Sunny Terrace with lovely views of our mountains. In the Summer a possibility to BBQ. "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung Stillup"
+            },
+            {
+              "@language": "en",
+              "@value": "Studio Oma/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Apartment Schlegeis:\nDas Apartment Schlegeis ist mit 45m² Wohnraum die ideale Ferienwohnung für Familien. Die Aufteilung des Apartment: Ein Schlafzimmer, Wohnzimmer mit ausziehbarer Couch, Badezimmer, Küche und einem großen Balkon.\nAlle Ferienwohnungen haben Handtücher, Bettwäsche, Koch- und Essgeschirr, Kaffeemaschine, Fön, WIFI, TV, Terrasse oder Balkon.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortable apartment with Bedroom, Sitting Room with pull-out Couch, Sat TV, Bathroom. Fully equiped Kitchen, Own Entrance \u0026 Parking place.\nBalcony with panoramic views."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung Schlegeis"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

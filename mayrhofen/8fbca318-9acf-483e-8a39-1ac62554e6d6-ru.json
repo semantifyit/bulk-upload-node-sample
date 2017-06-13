@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon"
+  ],
+  "name": "dm Friseurstudio",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1694030680881",
+    "longitude": "11.8655562400818"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "dm-Drogerie Markt GmbH",
+    "streetAddress": "Durster Straße 220",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 6502015",
+    "email": "info@dm-drogeriemarkt.at",
+    "url": "http://www.dm-drogeriemarkt.at/cms/servlet/segment/at_homepage"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8e86c869-4c5f-43cb-8e6b-875e87adf3be/99/image.gif",
+      "caption": "dm Friseurstudio"
+    }
+  ],
+  "url": [
+    "http://www.dm-drogeriemarkt.at"
+  ]
+}

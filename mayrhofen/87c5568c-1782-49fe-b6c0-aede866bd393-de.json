@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Bergmesse am Hundskehljoch",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "ÖAV - Sektion Zillertal",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Paul",
+      "familyName": "Steger"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Breitlahneweg 284",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "ÖAV - Sektion Zillertal",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Breitlahneweg 284",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT"
+    }
+  },
+  "description": "Die Messe, die Täler verbindet.\nDie Einzigartigkeit dieser Bergmesse besteht darin, dass die Messe genau auf der Grenze zwischen Tirol und Südtirol abgehalten wird und zwar auf dem Hundskehljoch.\nDer Alpenverein Zillertal und die Jungbauernschaft von St. Jakob und St. Peter aus dem Ahrntal veranstalten seit 1992 diesen Gottesdienst gemeinsam.\n\nHundskehljoch, wo liegt das eigentlich? Die „Hundskehle“ ist über ein Seitental von Mayrhofen, den Zillergrund, zu erreichen. Von Bärenbad aus geht es rechts abbiegend in den Hundskehlgrund. Die Gehzeit bis zum Kreuz, an dem die Messe abgehalten wird, beträgt ca. 2 Stunden. Sowohl vom Zillertal als auch vom Ahrntal aus.\n\nDiese Messe wird immer am 2. Wochenende im September abgehalten und findet dieses Jahr am Sonntag, den 10.09.2017 statt. Umrahmt wird der Gottesdienst üblicherweise von einer Bläsergruppe abwechselnd diesseits oder jenseits der Grenze.\n\nDie Veranstalter freuen sich über jeden, der die heilige Messe am Berg mitfeiern möchte\n\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a18873bb-b18e-4a33-ac91-aa8348fc20a4/99/image.jpg",
+      "caption": "Hundskehljochmesse ÖAV"
+    }
+  ],
+  "startDate": "2017-09-10T13:00:00",
+  "endDate": "2017-09-10"
+}

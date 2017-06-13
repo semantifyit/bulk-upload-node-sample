@@ -1,0 +1,454 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.eadahof.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d67789CF3-AFF4-4351-9B65-0F2E0E9E78D8"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Eadahof ",
+    "streetAddress": "Brandach 214",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 0650 6377443",
+    "faxNumber": "0043 05282 4239",
+    "email": "urlaub@eadahof.at",
+    "url": "http://www.eadahof.at"
+  },
+  "name": "Eadahof",
+  "description": [
+    "Our house is situated in a sunny and calm location in the center of Laimach/Hippach. Zoo with pony, goats, rabbits...",
+    "generous breakfast, with self baked bread and yard-own eggs, smoked bacon and marmelade from own produktion. children reduction on request",
+    "Check in 2.00pm . Check out 9.00am\nOur house is situated in Laimach - a part of Hippach. turn left to the second bridge in Laimach, our guesthouse is situated after 300m on the right hand side."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4eb2e7f9-ec1a-47ac-8b38-652b848261f2/99/image.jpg",
+      "caption": "Eadahof Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dcd7a345-9165-4a25-ac70-0d2600740a2c/99/image.jpg",
+      "caption": "Eadahof Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2e6ea2a1-116e-4bb0-80a7-d4fb19493466/99/image.jpg",
+      "caption": "Eadahof Hippach - Kutschenfahrt für Kinder"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a63e0f2-5b8c-4192-a96a-66dbee21a3c5/99/image.jpg",
+      "caption": "Eadahof Hippach - Trampolin"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c0e5d48-0db8-4b77-8ad9-849d96ee4b7a/99/image.jpg",
+      "caption": "Eadahof Hippach - Gartengrill"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1d1aa4f-8e30-49d0-a1db-9ca0d89a28ad/99/image.jpg",
+      "caption": "Eadahof Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b1440965-1276-4cf9-a6b0-39e64de9d0ea/99/image.jpg",
+      "caption": "Eadahof Hippach - Kühe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4c888d87-3e79-4916-9c1a-c20f556ad0ec/99/image.jpg",
+      "caption": "Eadahof Hippach - Winteransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/820eab71-f502-4d89-b8ee-a3e8a3332f40/99/image.jpg",
+      "caption": "Eadahof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c00f7489-b93c-418a-a043-b65651f77433/99/image.jpg",
+      "caption": "Eadahof - Garten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.223566284363",
+    "longitude": "11.865673608026"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 1 bed room",
+      "description": "Apartment Ahorn\nSize: 35 sqm\nfor 2 - 3 people\n\nEquipment:\n- Living room (not separated)\n- Balcony\n- SAT / TV\n- Shower and WC.\n- Kitchenette\n\nAll apartments are equipped with table and hand linen, as well as cooking and eating utensils.\nUpon request, you will daily fresh bread or homemade bread, as well as with our farm produce fresh milk u. Eggs supplied.\nCheck-in time 14.00 clock, check-out 9.00 clock",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/1 bedroom/shower, WC",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/5ce0b43c-ab57-4b40-84bd-a39503e193f9/99/image.jpg",
+              "caption": "Küchenzeile"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/31faae5c-4080-44cf-b9b4-58c8a321e9f4/99/image.jpg",
+              "caption": "Sitzecke"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "44.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "44.00",
+          "maxPrice": "44.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Apartment Tristner\n\nSize: 50 sqm\nfor 4 people\n\nEquipment:\n- Balcony\n- Separate toilet\n- SAT / TV\n- 2 bedrooms (1 double, 1 room with 2 separate beds)\n- Shower\n- Kitchen with divan\n\nAll apartments are equipped with table, Bed linen and towels, as well as cooking and eating utensils.\nUpon request, you will daily fresh bread or homemade bread, as well as with our farm produce fresh milk and eggs, supplied.\nCheck-in time 14.00 clock, check-out 9.00 clock",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/8910e87c-09f6-44e0-a064-ae0c2130f00c/99/image.jpg",
+              "caption": "tristner"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/04204047-01a9-41b9-b57d-bfcb928e538d/99/image.jpg",
+              "caption": "Zimmer 2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/c033dc33-7f81-48ac-b526-535f8585acce/99/image.jpg",
+              "caption": "zimmer 1"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Apartment Sonnalm\n\nSize: about 65 m² - 85 m²\nfor 4 - 6 people\n\nEquipment:\n- Balcony\n- Separate toilet\n- SAT / TV\n- 2 Bedrooms\n- Optional 3rd bedroom\n- 2 showers and WC.\n- Entrance hall with cloakroom\n- Big kitchen\n \nAll apartments are equipped with table, Bed linen and towels, as well as cooking and eating utensils.\nUpon request, you will daily fresh bread or homemade bread, as well as with our farm produce fresh milk and eggs, supplied.\nCheck-in time 14.00 clock, check-out 9.00 clock",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/39fbbf0b-d062-4fa9-a313-48e89ea7c838/99/image.jpg",
+              "caption": "sonnalm dusche"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "88.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "88.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "132.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "132.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Apartment Stefanie\nSize: 50 sqm\nfor 4 - 5 people\n\nEquipment:\n- Balcony\n- SAT / TV\n\n- 2 double rooms with shower and WC.\n- Sofa bed or extra bed available\n- Entrance hall with cloakroom\n- Dishwasher\n- Large, comfortable kitchen\n\nAll apartments are equipped with table and hand linen, as well as cooking and eating utensils.\nUpon request, you will daily fresh bread or homemade bread, as well as with our farm produce fresh milk or eggs, supplied.\nCheck-in time 14.00 clock, check-out 9.00 clock",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 2 bed rooms",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ae7f3d51-df5c-4f72-8330-a76f6bb63b63/99/image.jpg",
+              "caption": "Zimmer 1"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "88.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "88.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "one room with three bed, shower WC and balcony\n2 doublerooms with shower/WC and balcony\n1 doubleroom with running hot/cold water",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "27.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 3 bed rooms",
+      "description": "Apartment Julia\nSize: about 65 - 85 m²\nfor 4 - 7 people\nEquipment:\n- Kitchen\n- Large living room\n- 2-3 bedrooms each with shower / wc\n- Balcony\n- Good as new apartment.\n- Dishwasher\n - SAT / TV\n\n All apartments are equipped with table, Bed linen and towels, as well as cooking and eating utensils.\n Upon request, you will be provided daily with fresh bread or homemade bread, as well as with our own farm products such as fresh milk or eggs.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 2 bed rooms",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/9d7946b8-76b5-4777-b895-4ce9c13f1905/99/image.jpg",
+              "caption": "Küche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/8901266d-9ef7-4d75-9065-e38a9344f9f9/99/image.jpg",
+              "caption": "esszimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/bf299583-59c8-470e-9096-c04bfc8dea02/99/image.jpg",
+              "caption": "Wohnzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ee683fc0-efe3-49c5-a3d8-41ef7a715887/99/image.jpg",
+              "caption": "Zimmer 2"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Holiday home, bath, toilet, 1 bed room",
+      "description": "Apartment Moni\nSize: 45 sqm\nfor 2 - 3 people\nequipment:\n- Private terrace\n- SAT / TV\n- Double Room\n- ZUS single.\nSeparate shower and toilet -.\n- Entrance hall with cloakroom\n- Kitchen\nAll apartments are equipped with table, Bed linen and towels, as well as cooking and eating utensils.\nUpon request, you will daily fresh bread or homemade bread, as well as with our farm produce fresh milk and eggs, supplied.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung Moni",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/9cb33adc-1a54-4c2a-82c8-a401b35983bd/99/image.jpg",
+              "caption": "küche wohn- esszimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/e388c1ea-7a87-4d5a-ba97-bf9588bce49e/99/image.jpg",
+              "caption": "eigene terrasse"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/af2577ac-c34e-47b3-8390-00f371c0c0dc/99/image.jpg",
+              "caption": "doppelzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/3bc88016-8820-4575-bffa-982b84c3aae9/99/image.jpg",
+              "caption": "einzelzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/b0e5484c-e23f-44fa-a17c-c5257b1317a0/99/image.jpg",
+              "caption": "dusche"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "44.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "66.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

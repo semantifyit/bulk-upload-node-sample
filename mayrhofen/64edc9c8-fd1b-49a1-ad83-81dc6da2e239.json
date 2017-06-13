@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Zillergrund Stausee"
+    },
+    {
+      "@language": "de",
+      "@value": "Zillergrund Stausee"
+    },
+    {
+      "@language": "ru",
+      "@value": "Zillergrund Stausee"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.121804188573",
+    "longitude": "12.0650482177734"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenstraße",
+    "streetAddress": "Zillergrund ",
+    "addressLocality": "Brandberg ",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "email": "info@zillergrund.com",
+    "url": "http://www.zillergrund.com"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Der ca. 25 Kilometer lange Zillergrund mit seinem spektalulärem Stausee auf 1.900 m Seehöhe ist nicht nur ein bedeutendes Radler- und Wanderterrain, sondern ist aufgrund von wenig Lärm und Abgasen sehr beliebt. Als Busbenutzer profitieren Sie zusätzlich vom „Umweltbonus“. Euro 1,50 für Ihre Jause haben Sie schon mit der Fahrkarte bezahlt. \n\nWeiters können Sie diesen speziellen Rabatt auf den einladenden Hütten (ausgenommen Plauener Hütte) bequem einlösen.\n\nWanderziele im Zillergrund \nAlmstüberl, Bärenbad, Bärenbadalm, Einkehr zum Adlerblick, Häusling, In der Au, Kainzenalm, Klaushof, Plauener Hütte, Zillergrund"
+    },
+    {
+      "@language": "en",
+      "@value": "The \"Zillergrund\" (25 km length) with its impressing reservoir is not only a remar­kable bike- and hike terrain. Above all this place is famous because of less exhaust emission as well as less noise.  A local bus service operates daily during the main season and each passenger re­ceives a 1,50 voucher which can be rufunded against refreshments in one of the restaurants.  (Environment Bonus cannot be redeemed at Plauener Hütte!)\n\nHiking destinations in the Zillergrund\nAlmstüberl, Bärenbad, Bärenbadalm, Einkehr zum Adlerblick, Häusling, In der Au, Kainzenalm, Klaushof, Plauener Hütte, Zillergrund"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b5fc5821-4760-4a5d-a6c5-c308857a4e9e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Zillergrund"
+        },
+        {
+          "@language": "de",
+          "@value": "Zillergrund"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zillergrund"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.zillergrund.com/index.html"
+  ]
+}

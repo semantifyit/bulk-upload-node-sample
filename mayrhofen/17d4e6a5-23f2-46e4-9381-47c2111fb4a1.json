@@ -1,0 +1,1145 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.gasthof-waldcafe.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d17D4E6A5-23F2-46E4-9381-47C2111FB4A1"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Waldcafe",
+    "streetAddress": "Peter-Habeler-Straße 556",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62664",
+    "email": "reservierung@gmx.at",
+    "url": "www.gasthof-waldcafe.at"
+  },
+  "name": "Gasthof Pension Waldcafe",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Im Haus befinden sich gemütliche Einzel-, Doppel- und Mehrbettzimmer mit Dusche/WC. \nAußerdem sind alle Zimmer mit SAT-TV ausgestattet und in sehr gutem Zustand.Renovierung 2005 und 2012.\nDie Lage ist zentral aber doch ruhig. Die Talstation der Penkenbahn ist nur 300 Meter entfernt!!!! Hallenbad, Freischwimmbad mit Sauna, Rutschbahnen und Dampfbad befinden sich in unmittelbarer Nähe (Erlebnisbad Mayrhofen).\nAußerdem liegen Tennisplätze (Sommer) und Kunsteisbahn (Winter) direkt gegenüber.\nEXTRA-BONUS (ab 2015): Freier Eintritt ins Erlebnisbad Mayrhofen und Hippach inklusive Sauna - von Mitte April bis Mitte Oktober\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Kinderermäßigungen - Halbpension:\nHP Kinder: 0 bis 2 -100%, 3 bis 6 -75%, 7 bis 12 -50%, 13 bis 16 -25%\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Autobahn A12 Ausfahrt Zillertal, Richtung Mayrhofen - Kreisverkehr Mayrhofen - gerade aus, Einfahrt Mitte - links abbiegen bis zur Kreuzung - dann rechts abbiegen, Hauptstraße bis zur Penkenbahn, bei Metzgerei Gasser links abbiegen- gerade aus 300m\n"
+    },
+    {
+      "@language": "en",
+      "@value": "In the house there are comfortable single rooms, double rooms and shared rooms with shower and toilet.\nAll rooms are equipped with SAT TV. Renovated in 2005 and 2012. \nThe situation from the house is quiet, nevertheless central. The valley station of the Penkenbahn is only 300 metres away!! Indoor swimming pool, outdoor swimming pool with sauna, slides and steam bath are in close vicinity (experience bath Mayrhofen). \n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Childrens Reduction Halfboard:\nHP Kinder: 0 to 2 -100%, 3 to 6 -75%, 7 to 12 -50%, 13 to 16 -25%"
+    },
+    {
+      "@language": "en",
+      "@value": "Autobahn A12, exit Zillertal, Mayrhofen (ca. 30km), pass the railway station, turn left at Einfahrt Mitte - 20 m after the post office turn right into the main street until the Penkenbahn cable car, turn left into a side street (ca. 300m)\n"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "98"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c42e95db-9a61-489f-8253-3a374f597271/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d05a912f-add5-4b58-a9d6-8079b2aed834/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "150623 Logo Waldcafe Zimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "150623 Logo Waldcafe Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "150623 Logo Waldcafe Zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8363026a-b941-4504-adce-b77585ff2c7c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Mayrhofen - Sommer 1 "
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Mayrhofen - Sommer 1 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Mayrhofen - Sommer 1 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b77574cc-ab00-41fd-9e9d-1ab16bb799b1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Mayrhofen - Sommer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Mayrhofen - Sommer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Mayrhofen - Sommer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/01fff89e-a848-4ce6-8a4b-71f1ec606966/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Mayrhofen - Sommer3"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Mayrhofen - Sommer3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Mayrhofen - Sommer3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2bbcac2a-e7c0-47f7-ad5e-305459aa069c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dc338b87-dac0-4484-92ca-6b30e1e80c8f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Mayrhofen - Winter 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Mayrhofen - Winter 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Mayrhofen - Winter 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f237647f-dcc5-4487-96fb-a12023e836b0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Mayrhofen - Winter 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Mayrhofen - Winter 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Mayrhofen - Winter 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab0e5fea-bb8c-4412-bfcc-bfe204fc5a6e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Mayrhofen - Winter 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Mayrhofen - Winter 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Mayrhofen - Winter 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ba26b1a2-dded-4614-a93d-a97bce97554b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Mayrhofen - Terrasse"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Mayrhofen - Terrasse"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Mayrhofen - Terrasse"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/06f1f9bd-fdba-4d5e-803f-db220fc1a778/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Mayrhofen - Terrasse2"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Mayrhofen - Terrasse2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Mayrhofen - Terrasse2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/865ef45e-6cc6-4bb6-9c4b-f27b98a8f97a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Mayrhofen - Terrasse3"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Mayrhofen - Terrasse3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Mayrhofen - Terrasse3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14fcf953-fa18-4056-b6f9-6384285d66e7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Mayrhofen - Terrasse4"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Mayrhofen - Terrasse4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Mayrhofen - Terrasse4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/29c36f81-9b3b-4ebb-8265-4faad903a658/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Mayrhofen "
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Mayrhofen "
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Mayrhofen "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/35db07fb-aba6-494f-8f55-a474e5689acc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Mayrhofen - Eingang"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Mayrhofen - Eingang"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Mayrhofen - Eingang"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ebab3833-c303-4a6c-90a9-ee0ae89b80ab/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Gang "
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Gang "
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Gang "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c596d54d-8b3a-4358-80f1-b8cfa002920a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Außenansicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Außenansicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Außenansicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c7c0ca7-2504-42ac-bdda-9b59a0e9807b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Stube"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Stube"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Stube"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2080fd2c-72b5-402c-8872-27ef5ac39f5f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Zimmer 11"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Zimmer 11"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Zimmer 11"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/747b66e6-4a26-4229-8a81-f9262aab10cc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Badezimmer Nr 11"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Badezimmer Nr 11"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Badezimmer Nr 11"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c21b941-153f-45f1-929a-2063e0c301f1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Zimmer 7"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Zimmer 7"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Zimmer 7"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f950a324-c8ca-4029-b222-fa7699de4337/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Badezimmer Nr 7"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Badezimmer Nr 7"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Badezimmer Nr 7"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f2552a4-62fd-40f2-b1b0-ee5f46b1ad58/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Zimmer 8"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Zimmer 8"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Zimmer 8"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b06fae88-275d-4bcd-a387-6eec294aa5a8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Zimmer 8.1"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Zimmer 8.1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Zimmer 8.1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c22c3265-e7ad-4867-93da-f648c840e445/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Zimmer 8.2"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Zimmer 8.2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Zimmer 8.2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6bf139a-250c-401e-90f5-794a5c0854c7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Badezimmer Nr 8"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Badezimmer Nr 8"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Badezimmer Nr 8"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5300e601-4c6d-4000-99f8-2501310f0ee8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Zimmer 9"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Zimmer 9"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Zimmer 9"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8a49a4c-eb35-4343-9088-fe748fbb9499/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Zimmer 9.1"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Zimmer 9.1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Zimmer 9.1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/67a23256-c3de-4d8a-8d2d-fff81e78c484/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Badezimme Nr 9"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Badezimme Nr 9"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Badezimme Nr 9"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1351b954-690e-4412-a147-2b282d47200e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Zimmer 10"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Zimmer 10"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Zimmer 10"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5a6ba7ad-b765-4d6f-9909-31f5b9a182b9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Zimmer 10.1"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Zimmer 10.1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Zimmer 10.1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6da56414-5b94-4dca-b942-c20f8fd21ff3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Zimmer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Zimmer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Zimmer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fbd96d96-b260-4330-a81e-c04a00eb0970/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Zimmer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Zimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Zimmer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0d58810-43df-441b-839a-b5e617864408/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Zimmer 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Zimmer 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Zimmer 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0b365b49-a275-4b30-a74c-ba09b6e2d119/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Zimmer 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Zimmer 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Zimmer 4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/38426f5b-c5a0-4526-9200-d14dc3450c1e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Zimmer 5"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Zimmer 5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Zimmer 5"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02c7facd-90c2-473b-86a7-23fcb169f7f0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe - Zimmer 6"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe - Zimmer 6"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe - Zimmer 6"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f30f4d18-47ee-4955-91e4-46800d8ed1b2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Zimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f68e1ea-4075-453f-ab15-20646f47089a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Frühstück"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Frühstück"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Frühstück"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6aa19980-f2cc-47e0-abb6-92b85c012379/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Frühstück"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Frühstück"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Frühstück"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8b04a0ae-42e5-4847-9e50-94c9393fc7cc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Frühstück"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Frühstück"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Frühstück"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c818cf0c-6ca7-4fa4-aff4-d9570352416a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Frühstück"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Frühstück"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Frühstück"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/32b7deaa-0860-4802-88fb-fa622db040c0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Frühstück"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Frühstück"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Frühstück"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cb1bd8bd-52f4-438d-a201-9638ac550b36/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Restaurant"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Restaurant"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Restaurant"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4bf742dd-1282-4f82-99da-4028317259ec/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Restaurant"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Restaurant"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Restaurant"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4fcf67ac-4841-4d09-a2fe-5be8200d6843/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Terrasse"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Terrasse"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Terrasse"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/571a4d70-fa9d-49f2-8651-a3b091204696/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gasthof Waldcafe Terrasse"
+        },
+        {
+          "@language": "en",
+          "@value": "Gasthof Waldcafe Terrasse"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Waldcafe Terrasse"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1637464117009",
+    "longitude": "11.8648427724838"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Geräumiges Doppelzimmer - mit Zubettung auch für 3 Personen geeignet\nWunderschöner Blick auf die Zillertaler Alpen\nNEUWERTIG Fertigstellung November 2012\nHandtücher\nSafe\nmit Frühstück oder Halbpension\n\nBettenarten: 1 Doppelbett, 1 Couchliege\nEinrichtung: Heizung\nAusstattung: WC und Dusche, Haarfön, Handtücher, Kabel-TV/SAT-TV, Safe, Steckdosen, Wireless Internet (kostenlos)\nBesondere Eignung: Familien, Gruppen, Paare, Alleinreisende, Geschäftsreisende, Jugendliche, Kinder, Nichtraucher\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Recently renovated room with comfy seating area, shower/WC, hairdryer, safe, flat screen TV, and free Wi-Fi, extra bed possible. \n\n- optionally available with half board\n\nEXTRA bonus: free admission to the Erlebnisbad Mayrhofen leisure pool (next door)\n\n "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer DU/WC 1-3 Pers."
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower, toilet"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Kleines Einzelzimmer\nNEUWERTIG Fertigstellung November 2012\nHandtücher\nSafe\nmit Frühstück oder Halbpension\n\nBettenarten: 1 Einzelbett\nEinrichtung: Heizung\nAusstattung: WC und Dusche, Haarfön, Handtücher, Kabel-TV/SAT-TV, Safe, Steckdosen, Wireless Internet (kostenlos)\nBesondere Eignung: Familien, Gruppen, Alleinreisende, Jugendliche, Nichtraucher\nLage der Räumlichkeiten: Ostseite"
+        },
+        {
+          "@language": "en",
+          "@value": "Recently renovated, small single bedroom, modern furnishings with shower/WC, hairdryer, safe, flat screen TV and free Wi-Fi\n\n- Optionally available with half board\n\nEXTRA-bonus: Free admission to the Erlebnisbad Mayrhofen leisure pool (next door)"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer DU/WC 1 Pers."
+            },
+            {
+              "@language": "en",
+              "@value": "Single room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "отдельный номер, shower, toilet"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer mit wunderschönem Blick auf die Zillertaler Alpen\nDusche/WC\nHandtücher\nSafe\nmit Frühstück oder Halbpension\n\nBettenarten: 1 Doppelbett\nEinrichtung: Heizung\nAusstattung: WC und Dusche, Haarfön, Handtücher, Kabel-TV/SAT-TV, Safe, Steckdosen, Wireless Internet (kostenlos)\nBesondere Eignung: Familien, Gruppen, Paare, Alleinreisende, Geschäftsreisende, Jugendliche, Kinder, Nichtraucher\nLage der Räumlichkeiten: Haupthaus, Ostseite\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Modern rooms, some recently renovated, equipped with shower, WC, SAT-TV, safe and free Wi-Fi\n\n- optionally available with half board\n\nEXTRA bonus: free admission to the Erlebnisbad Mayrhofen leisure pool (next door)"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer DU/WC 1-2 Pers."
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Geräumiges Doppelzimmer - mit Zubettung auch für 4 Personen geeignet\nWunderschöner Blick auf die Zillertaler Alpen\nDusche/WC\nHandtücher\nSafe\nmit Frühstück oder Halbpension\n\nBettenarten: 1 Doppelbett, 1 Doppelcouch\nEinrichtung: Heizung\nAusstattung: WC und Dusche, Haarfön, Handtücher, Kabel-TV/SAT-TV, Safe, Steckdosen, Wireless Internet (kostenlos)\nBesondere Eignung: Familien, Gruppen, Paare, Alleinreisende, Geschäftsreisende, Jugendliche, Kinder, Nichtraucher\nLage der Räumlichkeiten: Haupthaus"
+        },
+        {
+          "@language": "en",
+          "@value": "Modern room with sofa bed, shower/WC, hairdryer, safe, flat screen TV and free Wi-Fi\n\n- optionally available with half board\n\nEXTRA bonus: free admission to the Erlebnisbad Mayrhofen leisure pool (next door)\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer DU/WC 2-4 Pers."
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

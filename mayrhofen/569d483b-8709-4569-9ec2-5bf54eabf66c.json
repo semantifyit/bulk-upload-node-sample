@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Erlebnisbad Mayrhofen"
+    },
+    {
+      "@language": "de",
+      "@value": "Erlebnisbad Mayrhofen"
+    },
+    {
+      "@language": "ru",
+      "@value": "Erlebnisbad Mayrhofen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1642392",
+    "longitude": "11.8648114"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Erlebnisbad Mayrhofen",
+    "streetAddress": "Waldbadstraße 539",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 62559",
+    "email": "info@erlebnisbad-mayrhofen.at",
+    "url": "http://www.erlebnisbad-mayrhofen.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Das Freibad im Erlebnisbad Mayrhofen garantiert Wasserspaß für die ganze Familie (45m lange Rutsche). Vom sportlichen Schwimmer bis zum Sonnenanbeter... da gibt\"s für jeden das passende Programm!\nAuch ein Beachvolleyballplatz steht den Badegästen zur Verfügung.\nMayrhofner- \u0026 Hippacher Erlebnisbad-Partnerbetriebe:\nGegen Vorweis der Gästekarte freier Eintritt ins Freibad! \n\nSAUNA im ERLEBISBAD\nDer Körper holt sich Kraft und die Seele wird frei.\nEin Hit für alle Gesundheitsbegeisterten:\nDie Solariengrotte gibt dem Körper Licht und Wohlbefinden. \nSaunieren in einem der öffentlichen Saunalandschaften der Ferienregion Mayrhofen-Hippach im Zillertal.\n2x Finnische Sauna \n1x Finnische Textilsauna \n1x Sonarium \nSolarien \n1x Dampfbad \nKneippbecken \n2x Infrarotkabinen \nFrischluftbereich \nMassageraum, Saunabar\n"
+    },
+    {
+      "@language": "en",
+      "@value": "If you keep following the signposts “Waldbadstrasse” in Mayrhofen, you are going to reach the adventure pool of this village, an attraction both for adults and kids. This facility with indoor pool, outdoor pool and wellness area is ideal for keeping fit and to relax, and offers also many attractions for young visitors. Ǵay colours prevail, which make the adventure pool Mayrhofen particularly friendly, even if the weather is rather bad, if it’s snowing or raining.\n\nThe indoor pool of 300 sqm boasts a pleasant water temperature of 31° C. Faucet aerators, wild waters, waterfall, neck jet body showers, massage jets, whirl air and recesses for relaxing are only some of the attractions of the facility, providing welcome changes. Kids’ and adolescents’ hearts will leap for joy when they try the two slides: on the one hand the 65 m long tubing slide “Crazy River”, on the other hand the 101 m long slide that also makes some adolescents cheer. In the outdoor area with 648 sqm water surface, you can choose from sports pools, non-swimmer pools, slides and massage bench seats. Moreover there is a lawn for sunbathing, a beach volley field and a children’s playground, as well as a relaxing area on the green roof terrace."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/215553bb-5c83-49bd-b803-85e1c97c23e8/99/image.gif",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Erlebnisbad"
+        },
+        {
+          "@language": "de",
+          "@value": "Erlebnisbad"
+        },
+        {
+          "@language": "ru",
+          "@value": "Erlebnisbad"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.erlebnisbad-mayrhofen.at"
+  ]
+}

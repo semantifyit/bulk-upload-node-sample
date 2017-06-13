@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Brewery"
+  ],
+  "name": "Schnapsbrennerei Kreidl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2114790081373",
+    "longitude": "11.8611037731171"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schnapsbrennerei Kreidl",
+    "streetAddress": "Göttstätt 355",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 38 76 006",
+    "email": "Kreidl-Edelbrand@gmx.at",
+    "url": "http://www.kreidl-edelbrand.npage.at"
+  },
+  "description": "Gerne machen wir mit Ihnen natürlich auch eine Schnapsverkostung, \nsowie eine Besichtung mit Erklärung des Weges wie das Obst zum Destillat \nund zu einem Spitzenprodukt weiter verarbeitet wird. \nUnser Schnapsbrennerei hat täglich geöffnet. \nWir bitten Sie jedoch sich für eine Verkostung oder Besichtigung unserer Brennerei \ntelefonisch oder per E-mail vorher anzumelden. \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f8871c5c-9756-49ff-ba44-c5d21e52be29/99/image.jpg",
+      "caption": "Schnapsbrennerei 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/83e58f0f-099a-4db5-a29e-76d6cb72a6e9/99/image.jpg",
+      "caption": "Schnapsbrennerei 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bc8fb8a8-333f-422d-b2ee-6844f061b3e6/99/image.jpg",
+      "caption": "Schnapsbrennerei 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/49726c05-5d71-468f-93af-6bab744557b3/99/image.jpg",
+      "caption": "Schnapsbrennerei 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3073f9c-b3b2-4942-ab2f-1071b61b8f4a/99/image.jpg",
+      "caption": "Schnapsbrennerei 5"
+    }
+  ],
+  "url": [
+    "http://kreidl-edelbrand.npage.at/"
+  ]
+}

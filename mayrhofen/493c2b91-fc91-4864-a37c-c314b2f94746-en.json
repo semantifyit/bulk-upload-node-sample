@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GovernmentOffice"
+  ],
+  "name": "Gemeindeamt Ramsau",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2049578",
+    "longitude": "11.8738559"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeinde Ramsau",
+    "streetAddress": "Ramsau 265",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3662",
+    "email": "buergermeister@ramsau.tirol.gv.at",
+    "url": "http://www.vivomondo.com/de/rathaus/ramsau_im_zillertal"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7978f274-e15c-4bcd-b97c-79bafa0b937b/99/image.jpg",
+      "caption": "Ramsau "
+    }
+  ],
+  "url": [
+    "http://www.vivomondo.com/de/rathaus/ramsau_im_zillertal"
+  ]
+}

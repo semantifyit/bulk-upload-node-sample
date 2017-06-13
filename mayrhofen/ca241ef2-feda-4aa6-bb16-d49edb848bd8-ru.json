@@ -1,0 +1,123 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dCA241EF2-FEDA-4AA6-BB16-D49EDB848BD8"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Amelie, Appart",
+    "streetAddress": "Maidlergasse 378",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 3615814",
+    "email": "karsten.schmidt@tele2.at"
+  },
+  "name": "Appart Amelie",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6e29721-694e-46b2-884e-6455ba008b60/99/image.jpg",
+      "caption": "Haus Amelie Mayrhofen - Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/037ac988-fff3-4bb8-9095-71751548fb88/99/image.jpg",
+      "caption": "Haus Amelie Mayrhofen - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/46fb143d-8bc8-4183-b869-1a656d757fb7/99/image.jpg",
+      "caption": "Haus Amelie Mayrhofen - Sommer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fce3735b-ef5d-4388-bbd1-e35f063a5092/99/image.jpg",
+      "caption": "Haus Amelie Mayrhofen - Sommer4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81c5dbd8-853e-4ce1-9df8-e9d4478c5601/99/image.jpg",
+      "caption": "Sommer Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef62e90b-bb0a-42ee-903e-79f3fd78d291/99/image.jpg",
+      "caption": "Ahornbahn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c4e45c0-b623-47da-b1cc-e12248f7246d/99/image.jpg",
+      "caption": "Langlaufen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/87749ba8-2bde-41f1-b63c-11ad442eb540/99/image.jpg",
+      "caption": "Spaß im Schnee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/07c82e0e-6ee4-4563-bb9f-9a45f540ef88/99/image.jpg",
+      "caption": "Wandern im Naturpark "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/90223a9d-f33f-4266-a414-18d3633cdf10/99/image.jpg",
+      "caption": "Pistenspaß "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/462a284c-c292-4358-8c40-6a9107c87bc0/99/image.jpg",
+      "caption": "Winterwandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/92576b22-97df-4454-8736-6458ca36e805/99/image.jpg",
+      "caption": "Wandern im Stilluptal "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1647019949089",
+    "longitude": "11.8647462129593"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

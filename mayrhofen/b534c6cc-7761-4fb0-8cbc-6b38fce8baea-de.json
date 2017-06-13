@@ -1,0 +1,72 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://ginzling.tourismusservice.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003dB534C6CC-7761-4FB0-8CBC-6B38FCE8BAEA"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Seyer, Appartment",
+    "streetAddress": "Dornauberg 36",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 5332 56314",
+    "email": "jseyer@a1.net",
+    "url": "http://ginzling.tourismusservice.com"
+  },
+  "name": "Appartment Seyer",
+  "description": [
+    "Das Haus steht in sonniger, ruhiger Aussichtslage im Ortsteil Ginzling, ca. 500m von der Ortsmitte entfernt, Skibushaltestelle, Übungslift und Rodelbahn ca. 500m, Gasthof ca. 300m.",
+    "Preise exklusive Strom. Erhöhte Preise zu Weihnachten/Fasching!",
+    "Die Zillertaler Bundesstrasse B169 Richtung Mayrhofen, weiter bis Ginzling (ca.9 km von Mayrhofen entfernt)."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b82e7c1-ca4f-4b38-ab0f-64e9d373e5e9/99/image.jpg",
+      "caption": "Haus Seyer Ginzling "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec3caa39-c4ab-4701-9f12-7507e6d8a748/99/image.jpg",
+      "caption": "Haus Seyer Ginzling - Garage"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0995444131263",
+    "longitude": "11.8065422773361"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Bad, WC, 2 Schlafräume",
+      "description": "Der Luxus von heute in einer Bergwelt wie vor 200 Jahren genießen. Eine voll ausgestattete Küche, angefangen vom Kühlschrank bis zum Herd läßt keine Wünsche offen... SAT-TV mit zahlreichen Sendern für geruhsame Fernsehabende. Große Couch mit Tisch, ein wunderbarer Kachelofen mit bunter Sitzbank.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/2 Schlafräume/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

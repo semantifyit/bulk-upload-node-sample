@@ -1,0 +1,230 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dCC30BBA1-F8F7-47CD-A88F-E6F46CFC2615"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kröll, Landhaus",
+    "streetAddress": "Mühlen 190a",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63605",
+    "faxNumber": "0043 5285 63605",
+    "email": "landhaus.kroell@aon.at",
+    "url": "http://www.zillertal-landhauskroell.at"
+  },
+  "name": "Landhaus Kröll",
+  "description": [
+    "Landhaus in ruhiger, sonniger Lage mit schönem Ausblick.\nVerbringen Sie einen erholsamen, unvergesslichen Urlaub in den Zillertaler Bergen im Landhaus Kröll! Unsere gemütlichen Ferienwohnungen bieten Groß und Klein zu jeder Jahreszeit Erholung pur.\n\nWir wohnen nur 500 Meter von der Talstation der Horberg / Penkenbahn entfernt, die in ca. 10 Minuten zu Fuß oder in 3 Minuten mit dem Auto erreichbar ist. Auch die anderen Schigebiete des Zillertals sind nur wenigen Minuten mit dem Auto von unserem Haus aus erreichbar.\n\nUnser Landhaus Kröll ist stets ein idealer Ausgangspunkt für Wanderungen, Klettertouren, Fahrradfahren und vieles mehr! Das Zillertal weiß in seiner Vielfalt jedem zu gefallen. Als Partnerbetrieb des Tourismusverbandes Mayrhofen und Umgebung haben unsere Gäste nur Vorteile, und sie können so kostenlos die Sommerwelt Hippach sowie das Erlebnisbad Mayrhofen benützen. \n\nHaben wir Ihr Interesse wecken können? Dann hoffen wir, dass wir auf dieser Internetseite für Sie wichtige Informationen zusammentragen konnten und würden uns sehr freuen, Sie bei uns begrüßen zu dürfen! (...|\n\n15 Gehminuten vom Ortzentrum Hippach entfernt. \n \n\n",
+    "Kinderermäßigung: bis 2 Jahre frei, 3-5 Jahre -50%, 6-12 Jahre -20%",
+    "Anreise nach Absprache  \nAbreise bis 9.30\n\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/abc61440-16c6-4cbf-8d75-f4f30ec8942b/99/image.jpg",
+      "caption": "Landhaus Kröll Schwendau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26c4315c-1299-477a-8e21-d8e34cd93d31/99/image.jpg",
+      "caption": "Landhaus Kröll Schwendau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c52e2451-9c4e-4702-acdb-59b0ddf6cbfa/99/image.jpg",
+      "caption": "Landhaus Kröll Schwendau - Sommer 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/985277dc-79ac-44de-b937-d2fee0492ff4/99/image.jpg",
+      "caption": "Lage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1f25a6e-82f6-4877-b001-0631c66f8d84/99/image.jpg",
+      "caption": "Ausblick vom Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3174dbab-c266-4a2e-b65d-9e617eca279d/99/image.jpg",
+      "caption": "DSC02635"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.194925293268",
+    "longitude": "11.8538081645966"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Ferienwohnung \"A\"\nUnsere Ferienwohnung \"A\" ist ca. 80m² groß und bietet Platz für 2 bis 5 Personen. Sie besteht aus zwei getrennten Schlafzimmern, einem kleinen Vorraum mit Garderobe, einer großen Wohnküche, einem Badezimmer mit Dusche sowie einem separaten WC. \nkleiner Vorraum mit Garderobe \ngroße gemütliche Wohnküche mit Essecke, Couch, Geschirrspülmaschine, 4-Plattenherd (Ceranfeld) mit Backofen, Wasserkocher, Kaffeemaschine, Kühlschrank mit Gefrierfach, SAT-TV, Zugang zum Balkon mit sehr schönem Ausblick \n1 Doppelzimmer mit Zugang zum Balkon \n1 Doppelzimmer \nZustellbett bei Bedarf möglich \nDusche und separates WC \nWLAN-Internet\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung A",
+          "description": "Gemütliche Landhaus in ruhiger sonniger Lage mit schönen Ausblick \n15 Gehminuten vom Ortszentrum Hippach \nentfernt.Familienfreundlich . ",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "50.00",
+          "maxPrice": "99.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "59.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Ferienwohnung \"B\"\nUnsere Ferienwohnung \"B\" ist ca. 60m² groß und bietet Platz für 2 bis 4 Personen. Sie besteht aus zwei getrennten Schlafzimmern, einem kleinen Vorraum mit Garderobe, einer Wohnküche sowie einem Badezimmer mit Dusche\u0026WC. \nkleiner Vorraum mit Garderobe \ngemütliche Wohnküche mit Essecke, Geschirrspülmaschine, Kühlschrank mit Gefrierfach, 4-Plattenherd mit Backofen, Wasserkocher, Kaffeemaschine, SAT-TV, Zugang zum Balkon mit sehr schönem Ausblick \n1 Doppelzimmer und eine Schlafcouch mit SAT-TV \n1 Doppelzimmer \nBadezimmer mit Dusche\u0026WC \nWLAN-Internet\nBettwäsche, Geschirrtücher, Reinigungsmittel und Toilettenpapier werden ebenfalls zur Verfügung gestellt.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung B",
+          "description": "Gemütliche Landhaus in ruhiger sonniger Lage mit schönen Ausblick \n15 Gehminuten vom Ortszentrum Hippach \nentfernt.Familienfreundlich . ",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "36.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "42.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "49.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Ferienwohnung \"C\"\nUnsere Ferienwohnung \"C\" ist ca. 85m² groß und bietet Platz für 2 bis 6 Personen. Sie besteht aus drei getrennten Schlafzimmern, einem kleinen Vorraum mit Garderobe, einer großen Wohnküche sowie zwei Badezimmern mit Dusche\u0026WC. \nkleiner Vorraum mit Garderobe \ngroße, gemütliche Wohnküche mit Essecke, Geschirrspülmaschine, Kühlschrank mit Gefrierfach, 4-Plattenherd (Ceranfeld) mit Backofen, Wasserkocher, Kaffeemaschine, SAT-TV, Terrassenausgang zum Garten \n3 Doppelzimmer \nZustellbett bei Bedarf möglich \n2 Badezimmer mit Dusche\u0026WC \nWLAN-Internet\nBettwäsche, Geschirrtücher, Reinigungsmittel und Toilettenpapier werden ebenfalls zur Verfügung gestellt.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung C",
+          "description": "Gemütliche Landhaus in ruhiger sonniger Lage mit schönen Ausblick \n15 Gehminuten vom Ortszentrum Hippach \nentfernt.Familienfreundlich . ",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "52.00",
+          "maxPrice": "99.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "59.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "65.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

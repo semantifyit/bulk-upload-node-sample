@@ -1,0 +1,74 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dF7FA61AA-A9CC-4135-9972-169C54533C27"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Mühlbach 283a",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64796",
+    "email": "rauchkarin@aon.at"
+  },
+  "name": "Rauch Karin",
+  "description": [
+    "Unser Haus befindet sich im Ortsteil Mühlbach, zwischen Hippach und Mayrhofen in optimaler Lage. Beide Zentren sind mit dem Auto in wenigen Minuten bequem erreichbar. \nIm Winter: Die Talstation Horbergbahn, die Anschluß ins größte Skigebiet des Zillertals den Mayrhofner Bergbahnen (Horberg, Penken, Finkenberg, Tux) gibt, befindet sich direkt vor unserer Haustür sowie die Langlaufloipe und zahlreiche Winterwanderwege sind in Hausnähe.\nIm Sommer: Idealer Ausgangspunkt für Radtouren, Wanderungen, uvm.",
+    "Kinderermässigung auf Anfrage\n\nInbegriffen im Preis:  Bettwäsche, Handtücher, Koch- und Essgeschirr\n\nCheck in: 12.00 Uhr\nCheck out: 10.00 Uhr\n\nWegbeschreibung: Sie fahren die Zillertalbundesstrasse B 169 bis nach Hippach. 2 km weiter befindet sich auf der rechten Straßenseite die Ausfahrt Horbergbahn/Burgstall. Nach rund 300 m erreichen Sie den Kreisverkehr, bei dem Sie links abbiegen. Wenige Meter weiter befindet sich unser Haus auf der linken Strassenseite."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "10"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8953744b-c1e8-4fdf-84d0-e08d4b86ce5c/99/image.jpg",
+      "caption": "Rauch Karin Schwendau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/90eb21c9-ef0d-4e2e-8588-449c6f6362f8/99/image.jpg",
+      "caption": "Rauch Karin Schwendau - Winter 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4de8dcff-b70f-49a8-8717-0181d6d96a8e/99/image.jpg",
+      "caption": "Rauch Karin Schwendau - Winter 2 "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1890052300865",
+    "longitude": "11.8607497215271"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Wir bieten ein komfortables Appartment mit großem Balkon, Vorraum mit Garderobe, Bad/Dusche/WC mit Haarfön, WC zusätzlich, Doppel- sowie Dreibettzimmer, vollausgestattete Wohnküche mit gemütlicher Sitzecke und Liegecouch sowie Geschirrspülmaschine, Mirkowelle, Backofen, Elektroherd, Kühlschrank mit Gefriermöglichkeit, Wasserkocher, Kaffeemaschine; Sat-TV und Radio.\nGeschirr, Handtücher und Bettwäsche sind vorhanden.\nNatürlich wird auch ein Brötchenservice angeboten!\nInternetzugang möglich!\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

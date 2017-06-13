@@ -1,0 +1,125 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apartment-kreidl.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d52D1A1A8-9685-477B-AED5-4AAF55DFA4D0"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apartment Kreidl",
+    "streetAddress": "Göttstätt 355",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 387 6006",
+    "email": "info@apartments-zillertal.at",
+    "url": "http://www.apartments-zillertal.at"
+  },
+  "name": "Apartment Kreidl",
+  "description": [
+    "Unser Haus liegt in ruhiger und sonniger Lage am Schwendberg, etwas oberhalb von Hippach auf ca. 750 m Seehöhe.\nDer eindrucksvolle Blick auf die Zillertaler Bergkulisse machen Ihren Urlaub unvergesslich.\n\nVor unserem Haus befinden sich genügig Parkplätze.\nDie Bergbahnen sind innerhalb von wenigen Minuten mit dem Auto erreichbar, sollten Sie jedoch Ihr Auto im Urlaub lieber stehen lassen, befindet sich die Bushaltestelle nur einige Gehminuten vom Haus entfernt! Haustiere sind in unserem Haus nicht erlaubt.\n\nFalls wir Ihr Interesse geweckt haben, würden wir uns sehr freuen, wenn wir Sie bei uns begrüßen dürfen!\n",
+    "Haustiere nicht erlaubt\nINKLUSIVE:\tHeizung - Wasser - Bettwäsche\nEXLUSIVE:\tEndreinigung € 60,--\n",
+    "CheckIn 16 Uhr/CheckOut 9 Uhr\nAuf der B169 bis Ramsau,bei der Ampel rechts abbiegen Richtung Hippach,rechts abbiegen Richtung Laimach. \nBei der Kreuzung links nach Schwendberg abbiegen. \nNach dem Hotel Schwendbergerhof gerade weiter nach \"Göttstätt\"."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a8603894-bce4-4e71-a30f-0e4ff25752c1/99/image.jpg",
+      "caption": "DSCI0105"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94806281-152c-45f6-8481-2fd66da5a2f4/99/image.png",
+      "caption": "Apartment Kreidl - LOGO"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/45902024-251c-4d4a-a4b3-b7cb4192f3d0/99/image.jpg",
+      "caption": "DSCI0118"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ced72dd2-ca92-4d35-a283-d377fdc42758/99/image.jpg",
+      "caption": "DSCI0092"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bdd0d216-4cc2-4994-ad28-f9a147f6dded/99/image.jpg",
+      "caption": "IMG_20111228_140750"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/34821ede-b4a7-4316-a20d-3019402d9cbb/99/image.jpg",
+      "caption": "IMG_20111228_140648"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2114680760806",
+    "longitude": "11.8611091375351"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Unser Apartment mit großzügigem Garten liegt im Untergeschoß des Hauses und verfügt über 2 neu möblierte Doppelzimmer, ein Bad mit Dusche / WC und eine geräumige Wohnküche mit Schlafgelegenheit.\nDer Garten mit super Blick ins Tal lädt zu entspannenden Stunden ein. Falls gewünscht wird auchein Grill für einen geselligen Grillabend zur Verfügung gestellt.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "44.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "138.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

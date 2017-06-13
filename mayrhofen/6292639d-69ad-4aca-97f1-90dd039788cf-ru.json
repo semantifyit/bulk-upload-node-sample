@@ -1,0 +1,159 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d6292639D-69AD-4ACA-97F1-90DD039788CF"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Geisler, Ferienwohnungen",
+    "streetAddress": "Dorf Haus 765",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "email": "fw-geisler@aon.at"
+  },
+  "name": "Ferienwohnungen Geisler",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02cad81c-3fc8-4cff-8cf9-5b67db23a503/99/image.jpg",
+      "caption": "Ferienwohnungen Geisler Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d59713ca-df73-42cf-9668-9bd45b98a6f5/99/image.jpg",
+      "caption": "Ferienwohnungen Geisler Mayrhofen - Esstisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f71fbaff-cfa8-4366-a9da-b9c2325e1799/99/image.jpg",
+      "caption": "Ferienwohnungen Geisler Mayrhofen - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e828e114-a802-48ed-9e8a-2bb9f4900ee7/99/image.jpg",
+      "caption": "Ferienwohnungen Geisler Mayrhofen - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/07a0059a-5765-46cc-9a3b-43830a8613cb/99/image.jpg",
+      "caption": "Ferienwohnungen Geisler Mayrhofen - Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/258832c9-2943-4ba7-85a1-dc676e1e1c57/99/image.jpg",
+      "caption": "Ferienwohnungen Geisler Mayrhofen - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a529b675-5b91-44b2-95ca-ddbc024846fb/99/image.jpg",
+      "caption": "Ferienwohnungen Geisler Mayrhofen-Blick zum Penken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/722a5681-090f-4dca-9a27-5013b737c57a/99/image.jpg",
+      "caption": "Ferienwohnungen Geisler Mayrhofen-Blick vom Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97b9575b-7645-43d2-95bb-9725369c2b7c/99/image.jpg",
+      "caption": "IMG_3808 - Kopie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/72782d12-c689-42cb-b679-f68ff449a8ee/99/image.jpg",
+      "caption": "IMG_3800"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1587858562592",
+    "longitude": "11.8570804595947"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a0e19dc0-c4b6-4a59-b48d-f60cb13cfba4/99/image.jpg",
+              "caption": "IMG_3816"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/b1310f54-ccfb-481e-8dea-5ab0556ea60c/99/image.jpg",
+              "caption": "IMG_3772"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/8fa0db85-6238-4e0d-a3ec-f46e55188bfa/99/image.jpg",
+              "caption": "IMG_3795"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/1e5051c6-f759-4944-8225-b5ee1c117a53/99/image.jpg",
+              "caption": "IMG_3778"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/4fc03eea-2c9a-43a2-bce1-bd7db55299ea/99/image.jpg",
+              "caption": "IMG_3774"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d88e18b1-e835-413a-aa58-04008e47c72c/99/image.jpg",
+              "caption": "Unser Haus im Sommer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/70793d71-f412-428b-bd94-382e703ac008/99/image.jpg",
+              "caption": "Blick zum Penken"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hochschwendberg 660",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(+43) 5282 4608",
+    "email": "zilleral.urlaub@aon.at"
+  },
+  "name": "Berghütte Ahornblick",
+  "description": [
+    "The Hut\non the \"Hochschwendberg\" ( holiday region Mayrhofen/Hippach) is our \"Mountainhut Ahornblick\".\nThe hut got redeveloped in summer 2015 now it offers everything for a great stay.\n\nOur hut offers: a comfortable living room with Sat-TV, corner bench for more people as well as a comfortable lounger.\nA kitchen with a E-heater and a oven, a dishwasher, fridge, a freezer, a coffee machine, kettle, dishes etc.",
+    "Incl. electricity, water, heating, bedlinen, towels",
+    "A12 motorway - exit 39 Wiesing - by Brettfall tunnel on the Zillertal Str / B169 34 km to the Zillertal.. In the direction of Mayrhofen until the center of Ramsau iZ In Ramsau i.Z. at the traffic light, turn right until the next junction, then turn r"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "10"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7726b50-e0bd-4edb-b409-fddf540f0909/99/image.jpg",
+      "caption": "Berghütte Ahornblick Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/55167e94-472e-468b-8646-64712d2b5888/99/image.jpg",
+      "caption": "Berghütte Ahornblick Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/559237b9-d0f4-48f7-b7cd-ca02d9337be9/99/image.jpg",
+      "caption": "Berghütte Ahornblick Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17a159ef-7ca8-4b29-bd0b-cd6d18229533/99/image.jpg",
+      "caption": "Berghütte Ahornblick Winter 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/66392a5c-3c7d-4df0-8161-82b0eaeb5fc4/99/image.jpg",
+      "caption": "Berghütte Ahornblick Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf461339-5a3b-4a15-b832-fd14b60ff6b5/99/image.jpg",
+      "caption": "Berghütte Ahornblick Wohnen 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9a930cb-c5cc-41f3-b27c-667097b37aef/99/image.jpg",
+      "caption": "Berghütte Ahornblick Wohnen 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96eec677-d256-466a-9063-5ea66b32f530/99/image.jpg",
+      "caption": "Berghütte Ahornblick Badezimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d85e4e1a-4bc8-4cc2-8e9e-0c6612e47b8f/99/image.jpg",
+      "caption": "Berghütte Ahornblick Badezimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b08c60a3-1b6e-4093-a5f4-1f95e93803f0/99/image.jpg",
+      "caption": "Berghütte Ahornblick Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96ea9d9d-04ae-4df7-b2e4-84877ede7548/99/image.jpg",
+      "caption": "Berghütte Ahornblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6dac517d-16dc-4026-8932-c68592969d6c/99/image.jpg",
+      "caption": "Berghütte Ahornblick Deko"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2b7202a1-2f7d-4ec6-a6e4-80089c6d9267/99/image.jpg",
+      "caption": "20151219_193928"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b1de6f2-18f8-4473-a575-16c998ac421e/99/image.jpg",
+      "caption": "20151219_194318"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2075921166172",
+    "longitude": "11.8312669535339"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Hut, bath, toilet",
+      "description": "Our mountain hut has a kitchen with E cooker with baking pipe, washer, fridge, freezer compartment, dishes, etc. , a comfortable room, a spacious bath with shower, double wash basin and WC, 3 double rooms, additional WC on the first floor.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "350.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "350.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "350.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "350.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "350.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

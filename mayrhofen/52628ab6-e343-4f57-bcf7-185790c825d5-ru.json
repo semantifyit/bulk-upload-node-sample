@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Steinbockhütte 1380m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0773844676325",
+    "longitude": "11.8504775315523"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Steinbockhütte ",
+    "streetAddress": "Floitental ",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2823636",
+    "email": "johann.klause@chello.at",
+    "url": "http://www.steinbockhuette.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b3069d36-657d-4230-ad77-8674ad31e1e5/99/image.jpg",
+      "caption": "Steinbockhütte 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/48e079e9-044e-4cca-953e-d5096c753b18/99/image.jpg",
+      "caption": "Steinbockhütte 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/555e747c-abf2-43f9-a4e1-601632ff11f0/99/image.jpg",
+      "caption": "Steinbockhütte 3"
+    }
+  ]
+}

@@ -1,0 +1,591 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.sidan.at/",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA87EEBF9-B917-4980-A91A-410388D1AD37"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sidan, Ferienwohnung",
+    "streetAddress": "Mühlbach 295",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63698",
+    "faxNumber": "0043 5285 63687",
+    "email": "info@sidan.at",
+    "url": "www.sidan.at"
+  },
+  "name": "Sidan, Ferienwohnung",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Urlaubsvergnügen für die ganze Familie\nFerienwohnungen in Mayrhofen - Urlaub inmitten der Natur\nUrlaub in unseren Ferienwohnungen bedeutet ankommen und sich vom ersten Moment an wohlzufühlen. Hier haben Sie Ihren Platz gefunden. Lichtdurchflutete Wohnungen in warmen Farbtönen gehalten sowie Massivholzmöbel in klaren Linien setzen neue Maßstäbe in Sachen Wohnen.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: 13:00 - Check out: 09:00\nAm Anreisetag stehen Ihnen die Zimmer ab 13.00 Uhr zur Verfügung. Die Rezeption im nahegelegenen restaurant Sidan ist bis 23.00 Uhr besetzt. Bei Anreise nach 18.00 Uhr bitte die Rezeption kontaktieren. Am Abreisetag ersuchen wir Sie, die Zimmer bis 09.00 Uhr freizugeben.- Wir bitten in diesem Fall auch um telefnoische Vereinbarung. Gerne erteilen wir telefonische Aukunft darüber, ob eine Fereinwohnung auch zu einem früheren Zeitpunkt für Sie freisteht.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise mit dem PKW\nAbfahrt von der Inntalautobahn A12 - Ausfahrt Zillertal - B 169 Richtung Mayrhofen bis Hippach - weiter Richtung Mayrhofen - Ausfahrt Horbergbahn bis Kreisverkehr, 50m danach auf der linken Seite\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Holiday fun for the whole family\nApartments in Mayrhofen - holiday in the country \nStay in our apartments means arrive and feel at home from the first moment. Here you have found your place. Light-filled apartments decorated in warm tones and solid wood furniture set in clear lines new standards in living.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 13:00 - Check out: 09:00\nOn arrival the room from 13.00 clock. The reception at the nearby restaurant Sidan is open until 23:00 clock. For arrivals after 18.00 clock please contact the reception. On departure day we ask that you vacate your room until 09.00 clock. - We ask in this case also to telefnoische agreement. Please contact us for telephonic Aukunft whether a Fereinwohnung free is also available at an earlier time for you.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Arrival by car \nDeparture from the Inn valley motorway A12 - exit Zillertal - Mayrhofen B 169 direction to Hippach - further towards Mayrhofen - Horbergbahn exit to the roundabout, after 50m on the left\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/90a8bcff-99b8-418e-ae88-770bc82f42ca/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sidan Schwendau - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Sidan Schwendau - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sidan Schwendau - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e1360e4a-93b5-4936-b64a-3dfd712c073c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sidan Schwendau - Sommer 1 "
+        },
+        {
+          "@language": "en",
+          "@value": "Sidan Schwendau - Sommer 1 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Sidan Schwendau - Sommer 1 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d20727d4-72a2-4368-84c3-ee11781ce1f6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sidan Schwendau - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Sidan Schwendau - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sidan Schwendau - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7cae33f5-a8ae-42c3-bacb-3b96a810d3da/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sidan - Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Sidan - Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sidan - Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1476ce7-de72-4d3c-bed2-85eccc7bb7d5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sidan - Küche1"
+        },
+        {
+          "@language": "en",
+          "@value": "Sidan - Küche1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sidan - Küche1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2e3c9774-46d4-4cc8-857b-0528209fe3ac/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sidan - Wohnzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Sidan - Wohnzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sidan - Wohnzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f88d7f35-9e92-4c15-a085-3dd6a6d2cd96/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sidan - Wohnzimmer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Sidan - Wohnzimmer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sidan - Wohnzimmer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/321f3090-eaba-448c-9064-9d2e969fcc00/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sidan - Wohnzimmer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Sidan - Wohnzimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sidan - Wohnzimmer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/19611505-5b50-432d-916f-015b3456043f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sidan - Schlafzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Sidan - Schlafzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sidan - Schlafzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0299388a-3310-4442-9499-3cf8cf3e045d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sidan - Schlafzimmer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Sidan - Schlafzimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sidan - Schlafzimmer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ddb4cd0f-81d2-45b5-a462-0e243b0558f4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sidan - Schlafzimmer 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Sidan - Schlafzimmer 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sidan - Schlafzimmer 3"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1876709374697",
+    "longitude": "11.8600630760193"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Unsere Ferienwohnung 1 ist die ideale Unterkunft für Urlaub mit Familie oder Freunden, bietet sie doch mit ihren 85m² genügend Platz zum Urlauben. Ein EXTRA-Plus ist die südseitig gelegene Terrasse zum Sonnenbaden und Faulenzen.\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Our apartment 1 is the ideal accommodation for holidays with family or friends, but it offers with its 85m ² enough space to holidays. An EXTRA-Plus is the south-facing terrace for sunbathing and lounging.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment 1"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower,bath tube,WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Familienurlaub kann so entspannt sein - vorausgesetzt, man tritt sich nicht gegenseitig auf die Füße :-) In unserer Ferienwohnung 2 ist einfach Platz zum Wohnen, Kuscheln und Spielen. Vom Panoramabalkon aus genießen Sie zudem noch die atemberaubende Aussicht auf die Zillertaler Berge!\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Family holidays can be as relaxed - assuming you tread on each others feet :-) In the apartment 2 is easy place to live, cuddle and play. From the panoramic balcony you can also still enjoy the breathtaking views of the Zillertal mountains!\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment 2"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/3 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "6"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Hell und sonnig - so lässt sich unsere Ferienwohnung 3 am besten beschreiben. 85m² zum Wohlfühlen. Hier dominiert das Element Holz - wir haben für Sie die Natur ins Haus geholt!\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Bright and sunny - this is our apartment 3 best describe. 85m ² to feel good. Here the element dominates wood - we have brought nature into the home for you!\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment 3"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower and bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Mehrbettzimmer 4-6 Pers. mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Mehrbettzimmer 4-6 Pers. mit Dusche, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Unsere Zimmer verfügen teilweise über einen Fernseher, Haarföhn und Balkon!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Dreibettzimmer 1-3 Pers. mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "triple room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "3-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Unsere Zimmer verfügen teilweise über einen Fernseher, Haarföhn und Balkon!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer 2-5 Pers. mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

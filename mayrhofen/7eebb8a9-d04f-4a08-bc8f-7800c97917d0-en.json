@@ -1,0 +1,147 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.mayrhofen.at/de/101031/101218/101250/andreas-wechselberger.html",
+    "http://maps.mayrhofen.at/?foreignResource\u003d7EEBB8A9-D04F-4A08-BC8F-7800C97917D0"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wechselberger Andreas",
+    "streetAddress": "Mühlbach 291",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 6645000259",
+    "email": "info.huber@tirol.com",
+    "url": "http://www.mayrhofen.at/de/andreas-wechselberger"
+  },
+  "name": "Wechselberger Andreas",
+  "description": [
+    "Our house lies in the district of \"Mühlbach\", 2 km before Mayrhofen, directly in the near is the Horbergbahn (on foot 5 minutes).\n",
+    "Journey: Motorway exit Wiesing - Zillertal. \nThen drive to direction Mayrhofen - departure Horbergbahn with the roundabout traffic 3rd exit in the direction of \"Mühlbach\" house No. 291.\n",
+    "Check in 14 Uhr\nCheck out 10 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/24732daa-42aa-47d6-8309-b14be33bc2dd/99/image.jpg",
+      "caption": "Haus Mühlbach Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/815ac19a-1987-4719-99eb-5c27f738b214/99/image.jpg",
+      "caption": "Haus Mühlbach 291 Sommerfoto"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a805da67-9f4d-4912-af51-d2175cfa7d3d/99/image.jpg",
+      "caption": "Haus Mühlbach Stube 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6ec32810-3f98-401d-9784-f1ac8f691e3c/99/image.jpg",
+      "caption": "Haus Mühlbach Stube 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94bcaf25-150b-4fc2-ab97-9d4307186759/99/image.jpg",
+      "caption": "Haus Mühlbach Zimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b467bcbd-c8f7-4d83-8d17-7e94c7fd44b8/99/image.jpg",
+      "caption": "Haus Mühlbach Zimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8d49659a-145c-42ef-9d8a-adfa71edc5e2/99/image.jpg",
+      "caption": "Haus Mühlbach Zimmer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3f418155-6b87-44ee-bffa-950148db1d2d/99/image.jpg",
+      "caption": "Kinderland Schilift Horbergbahn Tal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f68a5b39-90b5-4d35-82f7-a55fad5df404/99/image.jpg",
+      "caption": "Loipe Mühlbach"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dc710a63-919b-4b7f-aed0-c3f128220ffb/99/image.jpg",
+      "caption": "Bergsteigen © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2489d84b-4fca-4f32-a9e9-1c4ddcf4ffbc/99/image.jpg",
+      "caption": "Entspannung pur © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7692f2ad-f9cb-498a-8f68-a01304fdc5fe/99/image.jpg",
+      "caption": "Genießerberg Ahorn © Florian Schüppel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d600a02-fdb0-4821-96a6-65a495030b39/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86e70e6c-94b5-4440-82d4-f5fea791cd58/99/image.jpg",
+      "caption": "Hochgebirgs-Naturpark Zillertaler Alpen © Norbert "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1884182912916",
+    "longitude": "11.8601435422897"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, running hot/cold water",
+      "description": "Our rooms are comfortable furnished and have cold- and warmwater as soon as a shower and a toilette. The breakfast is served in our comfortable day room. We also offer you a kitchen and a fridge. \n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with running hot/cold water",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "18.00",
+          "maxPrice": "27.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "20.50",
+          "maxPrice": "27.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

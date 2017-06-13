@@ -1,0 +1,275 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.dornauer-zillertal.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dC7C8FFE9-9AAC-4E0D-AA1A-88BFB98C69A1"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lindenstraße 46",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 2984",
+    "faxNumber": "(0043) 5282 2984",
+    "email": "e.dornauer@tirol.com",
+    "url": "http://www.dornauer-zillertal.at"
+  },
+  "name": "Dornauer Evi",
+  "description": [
+    "Well-maintained pension in  sunny and central position, sun terrace, sunbathing lawn, breakfast room and lounge, non-smoking room, rustic-style hallway with TV, sauna and solarium, free cycle hire, ski area 1km, fun swimming pool, tennis courts and children\u0027s playground 100m.\nSwimming and playing tennis in Hippach and Mayrhofen are free.\nW-Lan for FREE",
+    "guided mountain and mineral walk with propietor\nin summertimes is the entry in the outdoor swimming pool for free",
+    "Check in: 14.00 \nCheck out: 09.10 "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a280533-8354-47b9-bc6c-add8dc848c88/99/image.jpg",
+      "caption": "Haus Dornauer Schwendau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bd460b5b-49bf-4cbd-8611-31e4d6b4ad36/99/image.jpg",
+      "caption": "Haus Dornauer Schwendau - Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76712c71-8d0b-4f11-9dbd-605bf05c8d12/99/image.jpg",
+      "caption": "Haus Dornauer Schwendau - Winter 2 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e195f3a-c191-40ad-bd40-afb9eef246ad/99/image.jpg",
+      "caption": "Haus Dornauer Schwendau - Winterzeit"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7b45916-dc96-439d-92dd-d040362a272b/99/image.jpg",
+      "caption": "Haus Dornauer Schwendau - Winterzauber "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7bbfbb61-80d4-4c8d-a3a9-d17b2cebba04/99/image.jpg",
+      "caption": "Sommer 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/67546852-18fc-4c5e-839a-f08bd399aa62/99/image.jpg",
+      "caption": "Sommer 2 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b04fccd-6376-4f21-a1ee-ed49bfe095c7/99/image.jpg",
+      "caption": "Sommer 3 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ea2c38c-f4ca-435b-b4b7-04fbf8f51d64/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/672e87a4-e69d-47ea-b664-62ce895f34f1/99/image.jpg",
+      "caption": "Buffet 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/182ce027-c1f4-463a-8943-dfe5c9165e8e/99/image.jpg",
+      "caption": "Buffet 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b3b0098b-c905-4242-84ec-70f5233676c9/99/image.jpg",
+      "caption": "Sauna 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2337c8a5-bc38-4f02-b49c-887b71bbd09b/99/image.jpg",
+      "caption": "Sauna 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/abd90b0d-69d1-4013-a7e3-57d91cece5cc/99/image.jpg",
+      "caption": "Skiraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c623cec-c9a0-41f4-9d7a-cc13a8057053/99/image.jpg",
+      "caption": "Gang"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2008374065786",
+    "longitude": "11.8658244609833"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Comfortroom with shower/WC, Sat-TV, radio and balcony",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "20.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "400.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "400.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Single room, shower, toilet",
+      "description": "Single room with shower, wc, balcony, sat-tv",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "single room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "24.50",
+          "maxPrice": "29.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+      "description": "Apartment:\n2 double bzw. three bed roms\n2 wc\n1 living room\n2 bath\nsat-tv, balcony, w-lan,...\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower,bath tube,WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "65.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

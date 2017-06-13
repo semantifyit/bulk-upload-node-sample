@@ -1,0 +1,374 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.nieslerhof.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dF3563D61-BD96-4EB2-9B90-4517532137E1"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Nieslerhof",
+    "streetAddress": "Dorf Haus 777",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62596",
+    "faxNumber": "(0043) 5285 62596",
+    "email": "nieslerhof@aon.at",
+    "url": "http://www.nieslerhof.at"
+  },
+  "name": "Nieslerhof",
+  "description": [
+    "Frühstückspension in ruhiger Lage. Nähe Skibushaltestelle, gemütlicher Aufenthaltsraum mit Kabel-TV und Kachelofen, Schiraum mit Schischuhtrockner, eigene Jagd u. Landwirtschaft.",
+    "Tiere erlaubt! Preise exkl. Endreinigung",
+    "Check-In: 12:00 Uhr, Check-Out: 09:30 Uhr; Einfahrt Mayrhofen Süd, weiter bis Restaurant Corso dann rechts abbiegen und nach einigen Häusern kommt auf der rechten Seite der \"Nieslerhof\" mit der Hausnummer 777 im Ortsteil Dorf-Haus."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/85a236bf-d6f7-4ba4-be0a-9a6e71dbf61b/99/image.jpg",
+      "caption": "Nieslerhof Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ced27b0-8497-4c10-9ff8-be4c6a587eb2/99/image.jpg",
+      "caption": "Nieslerhof Mayrhofen - Kornspeicher"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/298e13af-ad34-487f-a8bb-10cd6d1c9738/99/image.jpg",
+      "caption": "Nieslerhof Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf3244ee-c4b1-4632-9876-30ea02203ec6/99/image.jpg",
+      "caption": "Nieslerhof Mayrhofen - ERBHOF"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/42a8b613-070a-4596-b8e1-fae942646dd0/99/image.jpg",
+      "caption": "Nieslerhof Mayrhofen - Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0503d5ab-5aeb-43a3-ae42-5762609fcfff/99/image.jpg",
+      "caption": "Nieslerhof Mayrhofen - Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b310493f-0716-4c75-9597-3045681ad0c1/99/image.jpg",
+      "caption": "Nieslerhof Mayrhofen - Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef99f227-591e-4dc0-9c9b-223269f84c77/99/image.jpg",
+      "caption": "Nieslerhof Mayrhofen - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1baa30c8-d310-4ee4-ae83-c7ca685586e8/99/image.jpg",
+      "caption": "Nieslerhof Mayrhofen - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3bb156f3-2177-4caa-bb14-f8496ba3bf49/99/image.jpg",
+      "caption": "Nieslerhof Mayrhofen - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1588259802568",
+    "longitude": "11.8545806407928"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "schönes, komfortabel eingerichtetes Appartment für 2 Personen mit einem Doppelschlafzimmer, Dusche/WC, einer geräumigen Wohnküche mit Kühlschrank inklusive Gefrierfach, Kaffeemaschine, Elektroherd mit Backrohr, Dunstabzug und einer gemütlichen Sitzecke mit Kabel-TV und sonnigen Balkon; Endreinigung Euro 22,--",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. 2 P. - 1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "schöne, komfortabel eingerichtete Ferienwohnung für 2-3 Personen mit einem großen Dreibettzimmer Dusche/WC separat, einer geräumigen Wohnküche mit Kühlschrank, Kaffeemaschine, Elektroherd und einer gemütlichen Sitzecke mit Kabel-TV plus großem Balkon und sonniger Terrasse; 4. Person wäre auf Anfrage möglich! Enreinigung Euro 25,--",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. 2-3 P. - 1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "66.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "schöne, komfortabel eingerichtete Ferienwohnung für 4-5 Personen mit 2 getrennten Doppelschlafzimmern, einer Schlafcouch, Dusch/WC separat, einer geräumigen Wohnküche (komplett neu eingerichtet) mit gemütlicher Sitzecke und Kabel-TV sowie Kühlschrank mit Gerfrierfach, Dunstabzug, Kaffemaschine, Elektroherd mit Backrohr usw. und einem großen Balkon mit sonniger Terrasse und einem seperaten Aufgang;  Preise exkl. Endreinigung Euro 25,-- und Kurtaxe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. 4-5 P. - 2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "schönes, komfortabel eingerichtetes Ferienhaus für 6-9 Personen mit 3 getrennten Doppelschlafzimmern, einem Bad mit Dusche und Badewanne, 2 WC, einem gemütlichen Wohnzimmer mit großer Wohnlandschaft und Schlafgelegenheit für 2 Personen, Kabel-TV sowie einer geräumigen Küche mit Abstellkammer, Kühlschrank mit Gefrierfach, Kaffeemaschine, Elektroherd mit Backrohr und Dunstabzug usw. und einer großen, ebenerdigen Terrasse sowie einem Balkon im 1.Stock des Hauses. 9.Person auf Anfrage! Endreinigung Euro 45,--",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. 6-9 P. - 3 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "6"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "130.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "140.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "150.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Schönes, komfortabel eingerichtetes Appartement für 2-4 Personen komplett neu eingerichtet mit 2 getrennten Doppelschlafzimmern, Dusche/WC und Balkon in beiden Zimmern, einer geräumigen Wohn-Küche mit Kühlschrank inklusive Gefrierfach, Elektroherd mit Backrohr, Kaffeemaschine, Dunstabzug usw. und einer gemütlichen Sitzecke mit Kabel-TV!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. 2-4 P. - 2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "66.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "2 schöne, gemütliche Doppelzimmer mit Dusche/WC, Balkon, Kabel-TV und reichhaltigem, erweitertem Frühstück;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "25.00",
+          "maxPrice": "31.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "2 schöne, gemütliche Doppelzimmer mit Dusche/WC, Balkon, Kabel-TV und reichhaltigem, erweitertem Frühstück;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC BUCHBAR",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "26.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": "Tirolerisch g’spielt auf der Granatalm",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Granatalm.at GmbH",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Christina",
+      "familyName": "Kröll-Brindlinger"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Penken 422",
+      "addressLocality": "Mayrhofen ",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5285 63033",
+      "faxNumber": "(0043) 5285 63033-33",
+      "email": "info@granatalm.at",
+      "url": "www.granatalm.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Granatalm.at GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Penken 422",
+      "addressLocality": "Mayrhofen ",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5285 63033",
+      "faxNumber": "(0043) 5285 63033-33",
+      "email": "info@granatalm.at",
+      "url": "www.granatalm.at"
+    }
+  },
+  "description": "Sonntag, 19.03.2017 ab 12.00 Uhr auf der Granatalm:\n\nTirolerisch g’spielt zum Josefn-Tag mit Hanna von der Gruppe Harfonie\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/471a7c34-318b-45e4-b2bc-23f2d3ae918c/99/image.jpg",
+      "caption": "Tirolerisch g\u0027spielt"
+    }
+  ],
+  "startDate": "2017-03-19T12:00:00",
+  "endDate": "2017-03-19"
+}

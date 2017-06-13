@@ -1,0 +1,118 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-anna.at/",
+    "http://maps.mayrhofen.at/?foreignResource\u003dCA79D8DE-C2C0-4B9F-B094-3490B2A7E9D8"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Anna, Landhaus",
+    "streetAddress": "Dorf 132",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 3845459",
+    "email": "info@landhaus-anna.at",
+    "url": "www.landhaus-anna.at"
+  },
+  "name": "Landhaus Anna",
+  "description": [
+    "Das Landhaus Anna liegt im Ortszentrum von Schwendau, ca 1 km zum Lift entfernt, Skibus direkt ab Haus. Insg. 4-8er Appartements, ca. 80m² gross, mit jeweils zwei separaten Schlafzimmern und einem Wohn-Schlafraum mit komfortabler 2er Sitz Schlafcouch.\n\nAnreisebeschreibung:\n\nCheck in: 15.00 Uhr (oftmals früher möglich)\nCheck out: ca. 9.00 Uhr\n\nOrtseingang Schwendau - rechte Hand das Hotel Neuwirt - weiter geradeaus, an der T-Kreuzung, auf der rechten Seite befindet sich das Eckhaus Landhaus Anna!",
+    "Bereits im Preis inklusive: Endreinigung, Strom, Heizung\n\n\n",
+    "Gerne können sie bereits nach Absprache ab Mittags anreisen. Wir freuen uns sehr sie bei uns zu begrüßen. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6418459e-cb0a-4e8c-9cd6-e19db99979dd/99/image.jpg",
+      "caption": "Landhaus Anna Schwendau - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/677aaed1-9d58-4982-bccc-fcd6d8c26026/99/image.jpg",
+      "caption": "Landhaus Anna Schwendau - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3f90d6d8-e58b-499a-951f-333bd33da2a7/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1f7ce51-4d0e-4627-9566-80a233f7f546/99/image.jpg",
+      "caption": "Bergsteigen © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/496c5c0c-2290-43d5-9099-285053a6badc/99/image.jpg",
+      "caption": "Bouldern © Ursula Aichner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d6d380ff-f1f7-4588-accf-2ab8f4634770/99/image.jpg",
+      "caption": "Gelebtes Brauchtum © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/725754a6-bcb8-41f8-b814-d256d70b50f7/99/image.jpg",
+      "caption": "Hochgebirgs-Naturpark Zillertaler Alpen © Norbert "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/292c6ca6-63c8-4c5e-908d-2bde4f2e3b13/99/image.jpg",
+      "caption": "Einkehr © Blickfang Photographie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c64c8dfc-d682-4cf5-b918-0d1949462869/99/image.jpg",
+      "caption": "Langlaufen © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76dd25a9-05c7-4f4d-832a-d8899ee5a504/99/image.jpg",
+      "caption": "Panorama © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/090cfd59-30f6-4e20-9e17-14de1c06c0c2/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a78a2e94-8a7e-4c80-a4c4-2a2685aec7a0/99/image.jpg",
+      "caption": "Kulinarische Veranstaltungen © Norbert Freudenthal"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1972216917224",
+    "longitude": "11.8592691421509"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "4-8er Ferienwohnung mit 2 separatem 2-3er Zimmer und Wohn-Schlafraum mit guter 2er Sitz Schlafcouch, Küchenecke, jedes Schlafzimmer mit Dusche/WC, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

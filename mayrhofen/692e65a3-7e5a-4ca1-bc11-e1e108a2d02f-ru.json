@@ -1,0 +1,102 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel"
+  ],
+  "url": [
+    "http://ferienwohnungsteger.jimdo.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d692E65A3-7E5A-4CA1-BC11-E1E108A2D02F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ahornstraße 880",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 660 5279986",
+    "email": "ferienwohnung.steger@gmail.com ",
+    "url": "http://ferienwohnungsteger.jimdo.com"
+  },
+  "name": "Ferienwohnung Steger",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3f36482e-ac2d-4eb0-9cd9-110feb80d1db/99/image.jpeg",
+      "caption": "Ferienwohnung Steger - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d548118d-a8ad-413c-8cd4-94784e2dbc26/99/image.jpg",
+      "caption": "Ferienwohnung Steger - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5f7a617d-8f88-45fa-b805-afd9f2473b2e/99/image.jpg",
+      "caption": "Winter1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae475de9-820a-484c-b5ea-6f4dab065b25/99/image.jpg",
+      "caption": "Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bccb538c-45f8-4f82-bba0-e76709cbf31f/99/image.jpg",
+      "caption": "Winter3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d98696d-dfaa-4286-8d6d-3aacbcf7ac63/99/image.jpg",
+      "caption": "Winter4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02041cc8-fadb-4fc7-b24b-bf1c9f9c4be3/99/image.jpg",
+      "caption": "Winter5"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1576814",
+    "longitude": "11.8654853"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, одна спальня",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент, shower, toilet, 1 спальня",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

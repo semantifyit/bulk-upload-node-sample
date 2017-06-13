@@ -1,0 +1,1039 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.scheulinghof.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dE0C15508-5634-450C-8B78-F20E61B38640"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Scheulinghof",
+    "streetAddress": "Tuxer Straße 731",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62295",
+    "faxNumber": "0043 5285 64321",
+    "email": "info@scheulinghof.at",
+    "url": "http://www.scheulinghof.at"
+  },
+  "name": "Scheulinghof",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Familiär geführte Frühstückspension, ruhig und zentral gelegen,nahe den Bergbahnen, 21 Doppelzimmer/Zweibettzimmer, 2 Ferienwohnungen für 4-6 Personen, gemütlicher Aufenthaltsraum, Garten mit Liegen, Tischtennisraum, Personenlift, Infrarotkabine, Sauna, großer Parkplatz."
+    },
+    {
+      "@language": "de",
+      "@value": "Preise inklusive Ortstaxe und Frühstück"
+    },
+    {
+      "@language": "de",
+      "@value": "Check-In: 14.00-18:00 Uhr, früher/später nur nach Absprache; Check-Out: 10.00 Uhr; Anreise: In Mayrhofen die Einfahrt Süd nehmen, die Tuxerstraße entlang bis nach der 4. Bodenwelle. Unser Haus befindet sich auf der rechten Straßenseite."
+    },
+    {
+      "@language": "en",
+      "@value": "Family-run bed and breakfast; quiet, yet centrally situated, close to the lift stations, 21 double/twin rooms, 2 apartments 4-6 persons, comfortable guest lounge, garden with sunning area, table tennis room, lift, sauna, infrared cabin, large car park."
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes local taxes and breakfast."
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 14.00-18:00hr,earlier/later only on request; Check out: 10.00hr; Arrival: Take Mayrhofen entrance south, follow Tuxer street until the 4th bump. Our house is on the right hand side."
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "293"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/57be2689-f5a3-475e-a2ca-fafee9b649f7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d759a0e7-e626-4c86-8897-f2e7462f51b4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b3bc545-cdaa-4c05-af7e-d563d723e523/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof Mayrhofen - Sommer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof Mayrhofen - Sommer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof Mayrhofen - Sommer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16ad3ee7-6acc-4741-a2aa-825dea2b8c8e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof Mayrhofen - Sommer3"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof Mayrhofen - Sommer3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof Mayrhofen - Sommer3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cea5ccac-bc3d-4d94-b253-20f194939a3d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof Mayrhofen - Sommer4"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof Mayrhofen - Sommer4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof Mayrhofen - Sommer4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f7b7d77-f6aa-4a9b-b315-20cdd94fb7d0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof Mayrhofen - Sommer5"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof Mayrhofen - Sommer5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof Mayrhofen - Sommer5"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1935b5f-3e83-4325-a622-ced8d275253a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof Mayrhofen - Eingang Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof Mayrhofen - Eingang Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof Mayrhofen - Eingang Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3cd0393b-870d-4e7f-abfc-688b6c8cc80b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Rezeption"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Rezeption"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Rezeption"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2f2d933-719d-413b-8a8b-b6d6534fc6eb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Frühstücksraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Frühstücksraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Frühstücksraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4457572-a35f-40e6-b13e-4dbe1117f66c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Frühstücksraum Neu"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Frühstücksraum Neu"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Frühstücksraum Neu"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f79f2da9-12b7-4d89-8350-7ea76c80abef/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Frühstücksraum1"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Frühstücksraum1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Frühstücksraum1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/344ee89a-2269-4164-a527-15c373bfc12f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Frühstücksraum2"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Frühstücksraum2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Frühstücksraum2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f782f34-a9dc-4873-86da-58e20482363f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Frühstücksraum3"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Frühstücksraum3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Frühstücksraum3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb7a409e-ba1d-4765-ae42-f4f4d74600c8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Frühstücksraum4"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Frühstücksraum4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Frühstücksraum4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3a02044-01be-4cd2-8a0d-fc613eb6d10b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Stube"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Stube"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Stube"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b4d53df2-0081-4c23-b56a-5a4142e8deeb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Garten1"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Garten1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Garten1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5f632344-8a57-40f8-b660-64f06827973c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Garten3"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Garten3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Garten3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/31a12181-39c2-46d1-b69a-1b7cc394e0d0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Garten4"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Garten4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Garten4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3e479587-8a6d-4f5b-9ae4-02b8c7c460c7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Witner"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Witner"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Witner"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5976e70-f3f4-4a2d-99dc-2b0c49f822cc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Winter2"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Winter2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Winter2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d6546d9d-7749-4974-8c1a-96fca0dd8213/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Winter3"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Winter3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Winter3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9c351c4-390c-4072-879c-7343681e36cf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Winter4"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Winter4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Winter4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d332d17e-2010-4372-bce1-d9c39914ea18/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Sauna1"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Sauna1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Sauna1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c955a7b-6a1e-46ba-a246-d34a26bc94a4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Sauna2"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Sauna2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Sauna2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68377119-6aaf-47fe-80df-c6792d48d179/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Sauna3"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Sauna3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Sauna3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4095818-3d78-4bc5-ba54-f9e02226d2f4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Infrarotkabine"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Infrarotkabine"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Infrarotkabine"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7cb505fd-ffcc-41c0-be4c-3bfcaa88ed3e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Tischtennisraum1"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Tischtennisraum1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Tischtennisraum1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6735e746-3763-40e3-b07a-f0923f751bb9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Tischtennisraum2"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Tischtennisraum2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Tischtennisraum2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63d73a84-b292-4974-bf30-10b2636f5652/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scheulinghof - Skischuhraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Scheulinghof - Skischuhraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulinghof - Skischuhraum"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.160657061355",
+    "longitude": "11.8580567836761"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche oder Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower or bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, Душевая кабина или ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer mit Doppelbett, Balkon, Safe, SAT-TV, Bad oder Dusche/WC, Haarfön\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room with double bed, balcony, safe, Sat-TV, bath or shower/WC, hairdryer\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer Scheulinghof"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower or bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, Душевая кабина или ванна, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Winterpauschale"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower or bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower or bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Die Pauschale beinhaltet 7 Übernachtungen inkl. 6 Tages Superskipass"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer Scheulinghof - Winterpauschale"
+            },
+            {
+              "@language": "en",
+              "@value": "Doppelzimmer Scheulinghof - Winterpauschale"
+            },
+            {
+              "@language": "ru",
+              "@value": "Doppelzimmer Scheulinghof - Winterpauschale"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "27.50",
+          "maxPrice": "36.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "27.50",
+          "maxPrice": "36.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "449.50",
+          "maxPrice": "449.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "449.50",
+          "maxPrice": "449.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Zweibettzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Twin room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Твин, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Zweibettzimmer mit 2 Einzelbetten, Balkon, Safe, Sat-TV, Dusche/WC, Haarfön\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Twin room with 2 single beds, balcony, safe, Sat-TV, shower/WC, hairdryer\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Zweibettzimmer Scheulinghof"
+            },
+            {
+              "@language": "en",
+              "@value": "Twin room"
+            },
+            {
+              "@language": "ru",
+              "@value": "Твин"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Zweibettzimmer Scheulinghof - Winterpauschale"
+            },
+            {
+              "@language": "en",
+              "@value": "Zweibettzimmer Scheulinghof - Winterpauschale"
+            },
+            {
+              "@language": "ru",
+              "@value": "Zweibettzimmer Scheulinghof - Winterpauschale"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "33.50",
+          "maxPrice": "42.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "26.50",
+          "maxPrice": "35.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "491.50",
+          "maxPrice": "491.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "442.50",
+          "maxPrice": "442.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Apartment für 4-6 Personen im Scheulinghof, bestehend aus 2 Doppelzimmern (jeweils mit Doppelbett, Sitzecke oder Sitzgelegenheit, Sat-TV, Safe und Balkon), Wohnküche (Essecke, 4-Platten-E-Herd, Backofen, Kühlschrank, Geschirrspüler, Toaster, Mikrowelle, Kaffeemaschine, Wasserkocher) und Badezimmer mit WC\nFrühstück zubuchbar, Brötchenservice"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment for 4-6 persons in Scheulinghof, consisting of 2 double rooms (each with double bed, sitting area or sitting facility, Sat-TV, safe and balcony), kitchen (sitting corner, 4-fields-electrical-stove, oven, fridge, dish washer, toaster, microwave, coffea maker, water brewer) and bathroom with WC.\nBreakfast can be booked additionally. Bread service"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment im Scheulinghof"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "62.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "24.00",
+          "maxPrice": "41.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "18.00",
+          "maxPrice": "31.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "17.40",
+          "maxPrice": "28.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "17.00",
+          "maxPrice": "27.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Familienzimmer, Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Family room, bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Семейный номер, ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Familienzimmer für 3-6 Personen, bestehend aus 2 Doppelzimmern (jeweils mit Doppelbett, Sitzecke oder Sitzgelegenheit, Sat-TV, Safe und Balkon), einem Vorraum und großem Badezimmer mit WC. "
+        },
+        {
+          "@language": "en",
+          "@value": "Family room for 3-6 persons , consisting of 2 double rooms (each with double bed, sitting area or sitting facility, Sat-TV, safe and balcony), an entrance hall and a bathroom with WC."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Familienzimmer Scheulinghof"
+            },
+            {
+              "@language": "en",
+              "@value": "Family room"
+            },
+            {
+              "@language": "ru",
+              "@value": "Семейный номер"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "38.50",
+          "maxPrice": "38.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "36.50",
+          "maxPrice": "36.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "36.50",
+          "maxPrice": "36.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "36.50",
+          "maxPrice": "36.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

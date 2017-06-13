@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Rodelbahn Gasthof Wiesenhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1510315225756",
+    "longitude": "11.8580442355819"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Wiesenhof",
+    "streetAddress": "Hauserberg 930",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 64814",
+    "faxNumber": "(0043) 5285 64814",
+    "email": "alpengasthaus.wiesenhof@a1.net"
+  },
+  "description": "Lenght: 2,5 km \nAltitude at start: 1058m\nAltitude at destination: 633m \nAltitude difference: 425m \nDifficulty level: easy \nOpening times: open every day with sufficient snow\nLighting: No\nSled hire: Yes \nCost of using the sled run: free of charge \nAvailabe refreshment points: At the start of the run at the Gasthof Wiesenhof\nAccessibility:\n   Ascent: at the valley station Ahornbahn \n   on foot or with the rodeltaxi, Taxi Kröll (+43 5285 62260)\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09bc56ee-4922-4a5b-85de-99ae2364d205/99/image.jpg",
+      "caption": "rodeln"
+    }
+  ]
+}

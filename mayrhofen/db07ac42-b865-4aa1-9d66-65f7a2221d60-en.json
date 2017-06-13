@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon"
+  ],
+  "name": "Look meine Haarwelt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2071442709527",
+    "longitude": "11.8711593747139"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Look meine Haarwelt",
+    "streetAddress": "Talstraße 50",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3468",
+    "email": "office@look-haarwelt.at",
+    "url": "http://www.look-haarwelt.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4cdd71e-6a63-43d9-869c-444c39f55e80/99/image.png",
+      "caption": "Look meine Haarwelt"
+    }
+  ],
+  "url": [
+    "http://www.look-haarwelt.at"
+  ]
+}

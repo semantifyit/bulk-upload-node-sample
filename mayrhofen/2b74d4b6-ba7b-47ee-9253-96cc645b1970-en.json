@@ -1,0 +1,62 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d2B74D4B6-BA7B-47EE-9253-96CC645B1970"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Anemone, Haus",
+    "streetAddress": "Dornaustrasse 606",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0043 5285 63138",
+    "faxNumber": "(0043) 0043 5285 63929",
+    "email": "wolfgang.hollaus65@gmail.com"
+  },
+  "name": "Anemone, Haus",
+  "description": [
+    "Located in the center, 100 m to the Penkenbahn\nNew furnished appartement, 2 floors with 2 bedrooms (1 double room each), bath, shower, toilet, kitchen with stove, dishwasher, oven, mikrowave, etc. \n1 seperate toilet in the 1st floor, living room in typical tyrolean style with 1 extrabed, tiled stove (will be heated by the landlord)",
+    "In the price included: Laundry (Towels, bed linen, tea towls)\nOn your arrival day you have to pay € 150 caution. From which local tax, the bread delivery (if desired) and the final cleaning will be drawn off. The rest will be payed back, if nothing in the appartement is broken.\nFinal cleaning: € 50 - € 60.\nThe appartement can also be booked by 2 persons, but you have to pay the price for 4 persons. Arrival is possible every day, departure only on saturdays.\nNo reduction for children.",
+    "You take the first at the round-about, then you pass the train station (right side) and the petrol station (left side). Right after the petrol station you turn left. You pass the red cross house. Then you take the first right. After 15 meters you can see our house."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a9d2c08-7062-4ecc-aab0-c1916b315dee/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1658942",
+    "longitude": "11.8590509"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Holiday home, shower and bath, toilet, 2 bed rooms",
+      "description": "New furnished appartement, 2 floors with 2 bedrooms (1 double room each), bath, shower, toilet, kitchen with stove, dishwasher, oven, mikrowave, etc. 1 seperate toilet in the 1st floor, living room in typical tyrolean style with 1 extrabed, tiled stove (will be heated by the landlord)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "holiday house/2 bedrooms/shower, bath,WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

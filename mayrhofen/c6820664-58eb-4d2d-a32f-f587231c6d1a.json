@@ -1,0 +1,486 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.haus-bertoni.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dC6820664-58EB-4D2D-A32F-F587231C6D1A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bertoni, Haus",
+    "streetAddress": "Neu-Burgstall 301",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64459",
+    "faxNumber": "0043 5285 64459",
+    "email": "haus-bertoni@gmx.at",
+    "url": "http://www.haus-bertoni.at"
+  },
+  "name": "Haus Bertoni",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser familiär geführtes Gästehaus befindet sich in Neu Burgstall ca. 1,5 km vor Mayrhofen in ruhiger, sonniger Lage.\nVon uns aus haben Sie einen wunderbaren Blick auf die umliegende Zillertaler Bergwelt.\nDas Zillertal bietet hervorragende Möglichkeiten für sportliche Aktivitäten, aber auch zum Entspannen und Relaxen.\n\nIn unserer Umgebung bieten sich viele Möglichkeiten für Hüttenwanderungen und anspruchsvolle Gipfelbesteigungen. \nSehen Sie sich die Zillertaler Bergwelt doch einfach mal von oben an. So haben Sie die Möglichkeit, sich beim Paragleiten frei wie ein Vogel zu fühlen. \n \nIm Zillertal gibt es reichlich ausgebaute Radwege und beschilderte Mountainbike-Routen.\n\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Kinderermäßigung auf Anfrage!\n\nCheck-In: 12:00; Check-Out: 10:00"
+    },
+    {
+      "@language": "de",
+      "@value": "Auf der B169 in Richtung Mayrhofen; nach Hippach rechts über die Brücke zur Horbergbahn. Beim Kreisverkehr dann links. Ca. 300 m nach der Pizzeria Sidan auf der rechten Strassenseite. Hausnummer 301."
+    },
+    {
+      "@language": "en",
+      "@value": "Privately owned bed and breakfast situated in a quiet, sunny position close to the Horbergbahn lift station, ski and village bus stop next to house, cross country skiing trail and cycle path close by, garden, barbeque in summer house, comfortable guest lounge with sat TV.\nContinental breakfast, all rooms with shower/WC sat. TV and balcony.  Plenty of car parking space."
+    },
+    {
+      "@language": "en",
+      "@value": "Children\u0027s reductions on request.\n\nCheck in : 12.00hr; check out: 10.00hr"
+    },
+    {
+      "@language": "en",
+      "@value": "Use the B169 in the direction of Mayrhofen, after Hippach turn right going over the bridge towards the Horberbahn, then left at the roundabout. Approx. 300m after the Sidan Pizzeria we can be found on the right. House number 301."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a93e4b2e-0fd5-4188-888c-7b75a1d7a182/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bertoni Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bertoni Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bertoni Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5fd22d62-1a25-439b-830d-36ee50998178/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bertoni Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bertoni Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bertoni Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0dc5213a-73df-44f1-84eb-ae530550dea2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bertoni Mayrhofen - Gartenhaus"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bertoni Mayrhofen - Gartenhaus"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bertoni Mayrhofen - Gartenhaus"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5f149a61-6ea2-46ad-951d-249c8dfaebd4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sitzecke"
+        },
+        {
+          "@language": "en",
+          "@value": "Sitzecke"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sitzecke"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e341b2f8-ac6b-481d-836c-06e742c2d9eb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bertoni Mayrhofen - Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bertoni Mayrhofen - Balkon"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bertoni Mayrhofen - Balkon"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6c2bb31-0be6-4698-b8d6-37bf57a91afd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sonnenuntergang am Ahornspitz"
+        },
+        {
+          "@language": "en",
+          "@value": "Sonnenuntergang am Ahornspitz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sonnenuntergang am Ahornspitz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/71f7cb14-8905-49c0-a6b1-7948ddeef52b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahornspitz im Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahornspitz im Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahornspitz im Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e65f213-1ce2-41cb-9a6a-81213bcb448c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Brandberger Kolm"
+        },
+        {
+          "@language": "en",
+          "@value": "Brandberger Kolm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Brandberger Kolm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef278db4-a6e6-4209-855d-d77402dbe43a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Langlaufloipe Burgstall"
+        },
+        {
+          "@language": "en",
+          "@value": "Langlaufloipe Burgstall"
+        },
+        {
+          "@language": "ru",
+          "@value": "Langlaufloipe Burgstall"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e0dd2991-1f24-4808-bb1b-ad23ba3f60f8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter1"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb3a4c3f-845b-42fd-9137-8e75bea52d1d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter2"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter2"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1856220403423",
+    "longitude": "11.8602776527405"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Nettes Einzelzimmer, TV, WC am Gang"
+        },
+        {
+          "@language": "en",
+          "@value": "Nice single room , TV, WC on the floor"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer mit Dusche, WC am Gang"
+            },
+            {
+              "@language": "en",
+              "@value": "single room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "23.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "einfache Doppelzimmer mit DU/WC, Balkon, teilweise mit SAT-TV."
+        },
+        {
+          "@language": "en",
+          "@value": "Simple double room with shower/WC, balcony sat. TV."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "23.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnung für 2 - 4 Pers., grosse Wohnküche, Spülmaschine, Elektroherd, Mikrowelle, SAT-TV und Radio, große Sitzecke, Balkon mit schöner Aussicht auf Wiesen + Berge, 2 Bäder mit DU/WC, freundlich eingerichtete Zimmer\nEs ist auch möglich 1 separates Zimmer im gleichen Stockwerk dazuzumieten mit eigener DU/WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment suitable for 2-5 persons, large lounge/kitchen, dish washer, electric cooker, microwave, Sat-TV and radio, balcony with a beautiful view of fields and mountains, 2 bathrooms with shower/WC, pleasantly furnished rooms."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

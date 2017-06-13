@@ -1,0 +1,100 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d97CF9B07-35B4-4A44-8287-8D84E3BB8A77"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hollenzen 95",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64249",
+    "email": "fam.geisler1@gmx.at"
+  },
+  "name": "Geisler Michael",
+  "description": [
+    "Our house is situated in the sub district of Hollenzen, approx. 2km from Mayrhofen town centre, in a sunny and quiet spot, approx. 100m from the ski bus stop. The cross country ski trail passes directly past the house.",
+    "Price includes heating, electricity, TV, bed linen, towels, local taxes, bread delivery service on request. Excludes a final cleaning charge.",
+    "Turn left at the Firma Alko factory heading towards Hollenzen. First road on the right."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8fe57e7-e6e0-4553-8437-ef01cce32908/99/image.jpg",
+      "caption": "Pension Geisler Christine Mayrhofen - Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/80815afe-5635-4158-af7f-b992338a5464/99/image.jpg",
+      "caption": "Pension Geisler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3f7f3d0-d08d-4e48-b074-57622a37e47d/99/image.jpg",
+      "caption": "Haus mit freier Sicht auf die Berge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df8e2b35-e96a-4e3f-a78a-d3e4619a0f9c/99/image.jpg",
+      "caption": "Aussicht von den Wohnungen mit Balkon"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1848418345243",
+    "longitude": "11.8720632791519"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "The apartment is approx. 70m², with it\u0027s own kitchen, 1 lounge, 2 bedrooms, large balcony with stunning views, additional WC. All rooms have a wooden ceiling and carpets, quiet position.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 2 bed rooms",
+      "description": "Gemütlich ausgestattete Wohnküche 15m² mit SAT/TV, Radio, Backrohr, Mikrowelle, 2 Schlafzimmer, Du/WC, Diele, Abstellraum, Parkplatz\nbeim Haus, Balkon mit freiem Ausblick, ruhige Lage, Geschirr, Bettwäsche, Handtücher, Ortstaxe, Strom im Preis ingebriffen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/bath tube, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

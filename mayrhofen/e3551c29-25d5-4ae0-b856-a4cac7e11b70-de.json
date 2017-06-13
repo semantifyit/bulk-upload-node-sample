@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Bäckerei Konditorei, Lebensmittel Bacher",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1646691698167",
+    "longitude": "11.8634158372879"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bäckerei-Konditorei Bacher",
+    "streetAddress": "Edergasse 522",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62228",
+    "faxNumber": "0043 5285 622283",
+    "email": "bacherbrot@aon.at",
+    "url": "http://bacherbrot.com"
+  },
+  "description": "Herzlich Willkommen in der Bäckerei Bacher!\nWir, die Familie Bacher sind stolz auf unsere traditionellen Backwaren. Bei uns wird seit Generationen nach traditioneller Rezeptur und guter, alter Handwerkskunst gebacken. \nUnsere 20 Mitarbeiter sind zum Teil seit vielen Jahren in unserem Betrieb tätig und helfen aktiv mit, unser gutes Brot und Gebäck herzustellen. Die Freundlichkeit unserer Verkäufer/Innen sorgen dafür, dass unsere Kunden gerne wiederkommen.\nÜberzeugen Sie sich von unseren Köstlichkeiten und probieren Sie selbst! Frühstück mit frischen Backwaren direkt aus unserer Backstube wird sowohl in unserem Geschäft in Mayrhofen als auch in der Filiale in Schwendau bereits ab 6.30 Uhr serviert! \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02ba3483-03a4-4288-93fb-7971a082844d/99/image.jpg",
+      "caption": "Bacher"
+    }
+  ]
+}

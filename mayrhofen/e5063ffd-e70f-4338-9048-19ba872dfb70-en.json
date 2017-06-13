@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness",
+    "SportsActivityLocation"
+  ],
+  "name": "Hochseilgarten",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1433601322604",
+    "longitude": "11.8282480640351"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mountain Sports Zillertal",
+    "streetAddress": "Hauptstraße 456",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 3120266",
+    "faxNumber": "0043 5285 62986",
+    "email": "info@mountain-sports-zillertal.com",
+    "url": "http://www.mountain-sports-zillertal.com"
+  },
+  "description": "Experience nature and thrilling action at 5-14 metres above the ground.\nThe new high rope course is in the middle of a forest in a canyon called \"Zemm­schlucht\" between Mayrhofen and Ginzling.\n30 stations spread over 2 varied courses present a very real challenge. The high rope course was built around natural trees at heights of between 5 to 14 metres and impresses intrepid climbers with views of an 88 metre drop at its highest point.\nA professional team is on hand to take care of visitors personally. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e897662-d791-4e3b-94ed-cdc5ba7899ca/99/image.jpg",
+      "caption": "Hochseilgarten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c1addea-5769-4285-b0cc-37b700eadf5a/99/image.jpg",
+      "caption": "Hochseilgarten 2"
+    }
+  ],
+  "url": [
+    "http://www.actionclub-zillertal.at"
+  ]
+}

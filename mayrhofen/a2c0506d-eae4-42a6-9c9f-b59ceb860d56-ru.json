@@ -1,0 +1,77 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.sailer.at.tf",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA2C0506D-EAE4-42A6-9C9F-B59CEB860D56"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Edergasse 514",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62514",
+    "email": "irene.sailer@aon.at"
+  },
+  "name": "Haus Sailer",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3cf4bc0e-bdeb-4831-99fc-dda2de800592/99/image.jpg",
+      "caption": "Haus Sailer Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8339121c-af91-4e8d-89fb-47e546fa3ca6/99/image.jpg",
+      "caption": "Haus Sailer Mayrhofen - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1633415601961",
+    "longitude": "11.8632978200912"
+  },
+  "paymentAccepted": [
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.50",
+          "maxPrice": "39.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

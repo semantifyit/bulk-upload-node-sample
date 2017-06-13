@@ -1,0 +1,80 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": [
+    {
+      "@language": "de",
+      "@value": "Sommerfest der BMK Mayrhofen"
+    },
+    {
+      "@language": "en",
+      "@value": "Sommer Festival with the Mayrhofen Brass Band  "
+    },
+    {
+      "@language": "ru",
+      "@value": "Sommer Festival with the Mayrhofen Brass Band  "
+    }
+  ],
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bundesmusikkapelle Mayrhofen",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 64949",
+      "email": "eberharter@hoteltextil.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Bundesmusikkapelle Mayrhofen",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 64949",
+      "email": "eberharter@hoteltextil.at"
+    }
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Am 23. Juli 2017 findet das Sommerfest der Bundesmusikkapelle am Waldfestplatz in Mayrhofen statt.\n\nBeim alljährlichen Sommerfest der BMK Mayrhofen sorgen zahlreiche Musikgruppen für Unterhaltung, Tanz \u0026 Stimmung.\nFür das leibliche Wohl ist ebenfalls bestens gesorgt!\n\nEintritt frei!"
+    },
+    {
+      "@language": "en",
+      "@value": "The Summer Festival of Music will be taking place on 23rd July 2017, at the Forest Festrival Area in Mayrhofen.\n\nWith well known bands providing dance \u0026 entertainment. Local specialities will also be available, such as \u0027Zillertaler Krapfen - savoury crepes\u0027. Detailed information to follow.\n\nFree admission!\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/31a34772-59d9-4144-b075-e9d53df67879/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerfest der BMK Mayrhofen"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerfest der BMK Mayrhofen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerfest der BMK Mayrhofen"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.musikkapelle-mayrhofen.at/"
+  ],
+  "startDate": "2017-07-23T11:00:00",
+  "endDate": "2017-07-23"
+}

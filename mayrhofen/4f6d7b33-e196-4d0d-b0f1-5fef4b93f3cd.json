@@ -1,0 +1,134 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d4F6D7B33-E196-4D0D-B0F1-5FEF4B93F3CD"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Oblasser, Haus",
+    "streetAddress": "Stillupklamm 821",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 8342",
+    "email": "haus.oblasser@hotmail.com"
+  },
+  "name": "Haus Oblasser",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt im Ortsteil Stillupklamm in ruhiger Lage!"
+    },
+    {
+      "@language": "de",
+      "@value": "Die Preise verstehen sich inklusive Strom, Heizung, Wasser, Handtücher, Bettwäsche, Brötchenservice und Ortstaxe. Exklusive Endreinigung!"
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise: Umfahrungsstrasse von Mayrhofen immer geradeaus weiter bis zur Kreuzung \"Hintertux\", dort geradeaus weiter, nach ca. 50m links (5. Haus)!"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated in the quiet sub district of Stillupklamm."
+    },
+    {
+      "@language": "en",
+      "@value": "The price includes electricity, heating, water, towels, bed linen, bread delivery service and local taxes. Excludes a final cleaning charge!"
+    },
+    {
+      "@language": "en",
+      "@value": "Directions: Stay on the Mayrhofen ring road (the Umfahrungsstrasse) until the turn off for \"Hintertux\", carry straight on and we are the 5th house on the left (approx. another 50 metres)."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0716a91f-8875-4458-a2e1-dc80e261d775/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1574033836554",
+    "longitude": "11.8460404872894"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Abgeschlossene Wohnung, ca. 70m² mit Wohnküche, 2 separate Schlafzimmer - 1 Dreibettzimmer und ein Doppelzimmer mit Dusche/WC, 2 Balkon, Sat-TV!"
+        },
+        {
+          "@language": "en",
+          "@value": "Self contained apartment, approx. 70m² with kitchen/living room, 2 separate bedrooms - bedroom with 3 beds and a double bedroom with shower/WC, 2 balconies, Sat-TV!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        }
+      ]
+    }
+  ]
+}

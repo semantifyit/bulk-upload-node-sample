@@ -1,0 +1,296 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.ramsauerhof.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d0C91D76B-F0A2-46FB-9356-748BB0FC4422"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ramsauerhof, Alpenhotel",
+    "streetAddress": "Talstraße 95",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3663",
+    "faxNumber": "0043 5282 3597",
+    "email": "info@ramsauerhof.at",
+    "url": "http://www.ramsauerhof.at"
+  },
+  "name": "Alpenhotel Ramsauerhof",
+  "description": [
+    "Our Ramsauerhof is situated in central position in the holiday area Hippach/Ramsau/Schwendau surrounded of the zillertaler alps. You can enjoy your holidays in family atmosphare. Our restaurant spoil you with international specilities and extended salad buffet!",
+    "The prices include all taxes per person per day.\nChildren\u0027s prices apply per child per day in the room with 2 adults.\n\nOur contracts are based, unless alternative arrangements have been made here, the Austrian hotel contract conditions based.\nReservations are only binding if confirmed in writing."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "15"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/682a792b-83cc-4dc7-809b-0518736be240/99/image.jpg",
+      "caption": "fotos SO08 gfiarig 001"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f445561-7615-4b28-932b-386c79eca8a6/99/image.jpg",
+      "caption": "RAMSAUERHOF024"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/164b7925-cb27-4e0c-a520-d13238dd1ecb/99/image.jpg",
+      "caption": "RAMSAUERHOF012"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9a82047-0d08-4845-9bc0-a819197d7aed/99/image.jpg",
+      "caption": "Familienbild 2013"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/42c1ec18-ddb6-4f18-b2e7-b5c5128d96e5/99/image.jpg",
+      "caption": "RAMSAUERHOF010"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96453983-aeb3-44a1-8902-2ceb0dae6573/99/image.jpg",
+      "caption": "RAMSAUERHOF011"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ef79928-1026-4ac3-8fa3-b139f8b05aec/99/image.jpg",
+      "caption": "RAMSAUERHOF016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/915d4c35-514c-4964-a7b2-7b94ec7fbbe8/99/image.jpg",
+      "caption": "RAMSAUERHOF047"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/153bb9e3-0702-48a6-ab9c-8d1c2b7feaef/99/image.jpg",
+      "caption": "RAMSAUERHOF059"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2014861680507",
+    "longitude": "11.8717575073242"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Triple room, shower, toilet",
+      "description": "A big room with two seperat rooms with a connecting door and a balcony, equiped tv with sat, telephone\ninternet, safe, wonderful bath with shower or bath with toilet. hair dryer and a mirrow, shower and hair shampoo, bathrobe for money and everything for non-smoker.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "triple room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower or bath, toilet",
+      "description": "A big room with two seperat rooms with a connecting door and a balcony, equiped tv with sat, telephone\ninternet, safe, wonderful bath with shower or bath with toilet. hair dryer and a mirrow, shower and hair shampoo, bathrobe for money and everything for non-smoker.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower or bath tube, W",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior suite, shower or bath, toilet",
+      "description": "A big room with two seperat rooms with a connecting door and a balcony, equiped tv with sat, telephone\ninternet, safe, wonderful bath with shower or bath with toilet. hair dryer and a mirrow, shower and hair shampoo, bathrobe for money and everything for non-smoker.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "juniorsuite with shower or bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Family room, shower or bath, toilet",
+      "description": "A big room with two seperat rooms with a connecting door and a balcony, equiped tv with sat, telephone\ninternet, safe, wonderful bath with shower or bath with toilet. hair dryer and a mirrow, shower and hair shampoo, bathrobe for money and everything for non-smoker.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "family room with shower or bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

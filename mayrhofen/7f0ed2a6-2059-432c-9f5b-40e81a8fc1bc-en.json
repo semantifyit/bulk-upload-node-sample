@@ -1,0 +1,304 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.zillertaler-weinstadl.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d7F0ED2A6-2059-432C-9F5B-40E81A8FC1BC"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zillertaler Weinstadl",
+    "streetAddress": "Lindenstraße 13a",
+    "addressLocality": "Hippach ",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3314",
+    "faxNumber": "0043 5282 33145",
+    "email": "info@zillertaler-weinstadl.com",
+    "url": "http://www.zillertaler-weinstadl.com"
+  },
+  "name": "Gasthof Zillertaler Weinstadl",
+  "description": [
+    "We are in the centre of Hippach. Sport and leisure arrangements acessible in few minutes. In winter the ski bus stop is before the house. \nIn the house is a sauna with solarium, table tennis, sunbathing area, lift and a big parking bay. Rooms are with shower/WC/TV/telephone. Extensive breakfast.\n",
+    "Prices are incl. taxe",
+    "Travelling by Car\nVia the Inntalautobahn A12 motorway until the exit for Zillertal, from there take the B169 Zillertal Road for the next 30 km to Hippach.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f2b07acc-4b3d-4c82-abe6-52094712f846/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/32c452c8-f950-4c4e-ba32-2ad300ef28aa/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf6d9fae-5215-4ff9-a804-64003d1f618e/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3fa571d8-778e-4479-a1c1-5b6abacdaf4c/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e49abb4a-6c06-4cda-bc1e-0d6d74321c08/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Sommer4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c47fdb99-6b43-4ea7-b0b7-80287d418d2a/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Sommer5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ea05dac9-a148-4269-87a3-da6ae04b9af3/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Sommer6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/55d44a85-e7fd-4248-b1f8-40f0f7a6c5d4/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Sommer7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94b4f8d6-cf8c-4ca6-ac96-c7f2276cecbe/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/182c222d-74de-4aac-a9de-6447a9022966/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/40d282b1-7ba1-42ce-96b6-b2088d4f9b69/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Winter3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e29228e8-90b0-417e-b763-6feead8343e5/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Abend"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f3222479-48af-479a-9ed7-9a38563999e9/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Abend2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/24f72f79-a1b7-4398-b1e1-b20364802d37/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e67dd89b-9cf9-4415-b824-d85eaab1f563/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Terrasse2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/88815ac9-6bd8-445b-a4f5-9f0b6fcccc93/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Terrasse3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7edcfd40-eb31-4df2-8c44-fd92a4a69b09/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Terrasse4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fcf9cca5-872d-4ccd-9677-bbb528a5a246/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Terrasse5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/adc656e9-e9d6-4b48-a05c-0d9149297bb3/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Terrasse6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5314ef36-8e61-4ade-aeec-018e4d7282b4/99/image.jpg",
+      "caption": "Zillertaler Weinstadl Schwendau - Terrasse7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09adb148-aa6d-4800-9fd9-b8a3395c4112/99/image.jpg",
+      "caption": "Zillertaler Weinstadl - Essen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/85f34f16-382d-4385-a15c-bebb93f195e7/99/image.jpg",
+      "caption": "Zillertaler Weinstadl - Essen2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a13290a2-01b4-41ec-857e-b4c1aeeae3ec/99/image.jpg",
+      "caption": "Zillertaler Weinstadl - Essen3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6edae82-3ab8-452d-8395-06ffb9ea5f12/99/image.jpg",
+      "caption": "Zillertaler Weinstadl - Deko"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2036109885646",
+    "longitude": "11.8659800291061"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Single room, shower, toilet",
+      "description": "The comfortable rooms are equipped with bath or shower/WC, Sat-TV and a balcony. a lift and a parking-area is available",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "single room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "52.00",
+          "maxPrice": "67.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Family room, bath, toilet",
+      "description": "the comfortable rooms are equipped with bath or shower/WC, SAT_TV, telephone and a balcony. a lift and a parking-area is available.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "family room with bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "the comfortable rooms are equipped with bath or showe/WC, SAT_TV, telephone and a balcony. a lift and a parking-area is available.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Triple room, shower, toilet",
+      "description": "the comfortable rooms are equipped with bath or shower/WC, SAT-TV, telephone and a balcony. a lift and a parking-area is also available",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Triple room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

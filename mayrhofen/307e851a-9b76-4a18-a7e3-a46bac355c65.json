@@ -1,0 +1,792 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-schmieder.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d307E851A-9B76-4A18-A7E3-A46BAC355C65"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Rieser - Rieser Josef und Ursula",
+    "streetAddress": "Bichl 532",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2574",
+    "faxNumber": "0043 5282 2574",
+    "email": "Landhaus.schmieder@tele2.at",
+    "url": "http://www.landhaus-schmieder.com"
+  },
+  "name": "Landhaus Schmieder Rieser Sepp/Ursula",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Gepflegtes Haus mit 3 Ferienwohnungen, schönem Garten mit Liegewiese in ruhiger Ortsrandlage. Zentral zu allen Liften und  Ausflugszielen.\nParkplätze vorhanden, Ski und Trockenraum.\nBahnhof und Bushaltestelle ca 300 Meter\nSkibushaltestelle ca.120 Meter\nWelan möglich"
+    },
+    {
+      "@language": "de",
+      "@value": "Endreinigung 50,- bis 70,- Euro je nach Belegung und Wohnungsgrösse\n\nHunde 4,- Euro pro Tag\n\nW-Lan im Haus\n\nBettwäsche, Hand- und Küchentücher\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise ab 15°° Uhr,oder nach Absprache, Anreisen nach 18 °° bitte vorher absprechen.\nAbreise bis spät. 10°° Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Quit and central position for lifts an excoursions. Car-park,nice garden, sunbathing lawn, skiroom,skibus 120m distance, WElAN possible,bedclothes and towels includet."
+    },
+    {
+      "@language": "en",
+      "@value": "Final cleaning 45, - to 60 euro according to allocation and flat size \nDogs: 4 euro per day \nW-Lan in the house \nBedclothes, hand cloths and culinary cloths\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in :  3 p.m.\nCheck out : 10 a.m,"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f4f8f54-2040-4179-a73f-5bf7823b084d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Zufahrt"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Zufahrt"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Zufahrt"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/23d4d92e-cf64-4bb9-aa88-914e256e8822/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04cebc37-f208-43f1-8bb0-d41bb76b4323/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Südseite"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Südseite"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Südseite"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e406f9dc-14ed-4dea-a469-928c7e132972/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Eingang"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Eingang"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Eingang"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8457ef85-663f-48eb-866e-249d9c591e2e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Wohnzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Wohnzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Wohnzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c8331a5-1617-427f-88b9-f0a788564065/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Wohnzimmer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Wohnzimmer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Wohnzimmer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aaefec00-87d9-4dae-b794-a8f8359b9142/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9747aba-c6a5-476c-a422-7da7463ddd8c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Schlafzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Schlafzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Schlafzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/493a57d8-5711-43a8-a404-a0783b557ccd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Badezimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Badezimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Badezimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5704ec7e-86cd-42a0-9d66-a1662be136cc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Garten"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Garten"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Garten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84a9bd2c-81a9-4d72-bcea-45a13eb1c3cb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Garten 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Garten 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Garten 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/095f1820-41b7-4421-a505-8f4d2af59810/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Garten 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Garten 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Garten 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/113fbcc8-5585-4944-ab39-fb4247d40f0f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Aussicht Norden"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Aussicht Norden"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Aussicht Norden"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f3fae20-95ac-4b88-aeb4-eb4b92ff049d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Fewo 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Fewo 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Fewo 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d50d5e9-808c-49d5-8045-488617dd1a72/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Wohnraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Wohnraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Wohnraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b845f77a-49a2-4c1e-8e91-ee77c1c7eaf1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Essplatz"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Essplatz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Essplatz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8fa21a84-df95-49e0-b6dd-3fe665873089/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Küche 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Küche 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Küche 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b45c4d2b-6171-4c37-8eb7-948a7f2608b5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Schlafraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Schlafraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ed2bc679-fdac-4157-ab51-7ed0565df7c4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Du / WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Du / WC"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Du / WC"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/411ee399-6c26-4ffe-9fa8-50197cd00058/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Westaussicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Westaussicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Westaussicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6bec111-fc10-4429-b89a-495fbe8e047c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Panorama"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Panorama"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Panorama"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b9a9230b-1528-41f6-a7a1-5962e78be730/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Fewo 3-Wohnk."
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Fewo 3-Wohnk."
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Fewo 3-Wohnk."
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2073f561-eea9-45d7-a486-50271cd00f50/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Schlafz.Fewo3"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Schlafz.Fewo3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Schlafz.Fewo3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b37a611b-41c3-4e2b-b695-cb952cff2659/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Bad "
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Bad "
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Bad "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e6996116-ae8f-49e6-a7c4-ca4667127acc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Balkon "
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Balkon "
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Balkon "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f711ad4-b10f-42d8-867e-6e8454c99b3b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Schmieder - Balkon 2 "
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Schmieder - Balkon 2 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Schmieder - Balkon 2 "
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1944660016516",
+    "longitude": "11.8745577335358"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, gartenseitig"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, facing the garden"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, с видом на сад"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die Ferienwohnung 1 ist 70qm gross und liegt ebenerdig mit Ausgang auf die Terrasse und den Garten.\n\nSie besteht aus:\neinem 2 Bettzimmer,\neinem 4 Bettzimmer mit Kinderbett,\neinem Wohnraum mit Farb - Sat TV,\nund einer separaten, gut ausgestatteten Küche,\neinem Vorraum mit Garderobe, \nund einem geräumigen Bad mit abgeteiltem WC. \nTerrasse mit Ausgang in den Garten\nWir vermieten diese Wohnung für 2 Personen (mit einem Schlafzimmer) - 6 Personen.\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment 1 is approx. 70 square meter large and located on ground flour level. \n\nIt consists of a double bedroom, \na four bedroom with a crib, \na living room with a dining area and couch, \ncolour SAT- Television as well as direct access to terrace and garden. \nFurthermore a complete arranged kitchen with 4 hot plates hearth with oven, percolator, refrigerator, a vestibule with wardrobe and a spacious bath with WC.\n\nThis apartment is for 2 (one bedroom) to 6 persons.\n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung 1"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.liv.-bedroom/2 bedroom/bath,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, с видом на сад"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "80.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, talseitig"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, facing the valley"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, с видом на долину"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die Ferienwohnung 2 ist ca 60 qm gross und befindet sich im 1. Stock unseres Hauses.\n\nSie besteht aus:\neiner gut ausgestatteten Küche,\neinem gemütlichen Wohnraum mit Farb SAt TV und 2 Sofas , die zum Schlafen geignet sind.\n\nVom Wohnzimmer gelangt man auf den Balkon mit herrlicher Aussicht.\nDas grosse Schlafzimmer hat Ehebetten und ein Etagenbett für die Kinder sowie eine sep. Waschecke.\nWeiters sind vorhanden ein kleiner Flur mit Gardeobe und eine Dusche / WC\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment 2 is approx. 60 square meter large and located on the first floor. \nIt consists of a separate kitchen, full arranged with refrigerator, percolator,hearth with oven as well as a percolator. \nIn a lovely equipped living room there is a table and chairs and a sitting area consisting of couches (matched for sleeping) and a colour SAT – Television.\nFrom the sitting room you can reach the balcony with a superb view. \nThe large bedroom with double bed and story bed has a additional washing area. \nIn addition there is a small corridor with wardrobe as well a shower bath with WC. \n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung 2"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.liv.-bedroom/1 bedroom/bath,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, с видом на долину"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "62.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Fewo 3 liegt ebenfalls im 1. Stock unseres Landhauses.  Sie besteht aus einer gut ausgestatteten Wohnüche mit einem oder zwei Schlafzimmern. Gegebenenfalls kann auch auf gleichem Flur ein grosser Wohn- Schlafraum angemietet werden. Der Wohnraum ist auch bei schlechtem Wetter oder über Feiertage eine angenehme Alternative. Ein grosser, südseitiger Balkon mit herrlichem Blick auf Wiesen und Berge gehört ebenfalls dazu.  Eine schöne Ferienwohnung für 2- 6 Personen!\t\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment 3 is situated on the first floor.\n\nIt consists of a well established eat-in-kitchen and one ore two bedrooms.\nIf you want to, we can offer you an additional large Living- and Bedroom on the same level.\nThis livingroom can be a nice alternative if the wheater is bad.\nFurthermore, there is a big southward balcony with a wonderful view to meadows and mountains. It is a nice apartment for 2 to 6 persons!\n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung 3"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "90.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

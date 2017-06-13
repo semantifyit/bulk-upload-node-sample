@@ -1,0 +1,60 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "GroceryStore"
+  ],
+  "name": "Ferienhotel Neuwirt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1969957013627",
+    "longitude": "11.8600738048553"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Neuwirt, Ferienhotel",
+    "streetAddress": "Dorf 138",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62917",
+    "faxNumber": "0043 5285 6291750",
+    "email": "info@ferienhotel-neuwirt.at",
+    "url": "http://www.ferienhotel-neuwirt.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf1763bd-4b2b-4133-aa01-996e65d1a205/99/image.jpg",
+      "caption": "Neuwrit"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ff0ceb66-bcf9-4874-bbc2-081e997f1c86/99/image.jpg",
+      "caption": "Adlersuite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bea4f324-dc8c-4f15-a2ff-89d32d4f89bd/99/image.jpg",
+      "caption": "Adlersuite 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9fd7bfbb-c5f9-4e58-97ef-092dd47e5dc2/99/image.jpg",
+      "caption": "Wellnesraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df799c83-3630-407e-a22f-33b739fc2167/99/image.jpg",
+      "caption": "Hotel Seitenansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1a5109a7-799b-4b3f-be0a-283fb7e64ee0/99/image.jpg",
+      "caption": "Einzelzimmer"
+    }
+  ],
+  "url": [
+    "http://www.ferienhotel-neuwirt.at"
+  ]
+}

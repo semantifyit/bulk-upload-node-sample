@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Exhibition: Rima Wurzenrainer",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Europahaus",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstr. 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6750",
+      "faxNumber": "+43 5285 6760-33",
+      "email": "office@europahaus.at",
+      "url": "www.europahaus.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Europahaus",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstr. 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6750",
+      "faxNumber": "+43 5285 6760-33",
+      "email": "office@europahaus.at",
+      "url": "www.europahaus.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1c95d02-b7f4-4727-b2f0-36cede9c7204/99/image.jpg",
+      "caption": "Wurzenrainer"
+    }
+  ],
+  "startDate": "2017-02-03T09:00:00",
+  "endDate": "2017-03-21"
+}

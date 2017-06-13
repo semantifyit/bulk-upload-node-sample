@@ -1,0 +1,750 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausjohanna.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d29CD29B1-F1F5-42B2-A9E3-F60225D6F160"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartmenthaus Johanna",
+    "streetAddress": "Waldrist 465",
+    "addressLocality": "Hippach/Mayrhofen",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 528255069",
+    "email": "info@hausjohanna.at",
+    "url": "http://www.hausjohanna.at"
+  },
+  "name": "Haus Johanna",
+  "description": [
+    "Ferienhaus in ruhiger, sonniger Lage mit Panoramablick für 2 bis 19 Personen.\nDas Haus befindet sich mitten in den schönsten Ski und Wandergebieten des Zillertales!",
+    "\n*großer Kinderspielplatz\n*Panoramaliegewiese\n*Gartengrill mit großem Holztisch\n*kostenloses W-Lan\n*Brötchenservice\n*Kinderermäßigung auf Anfrage\n*Endreinigung € 60,-- pro Wohnung  sowie € 1,50 pro Erw. Pers/Nacht Kurtaxe kommt zum Preis extra hinzu!",
+    "Wegbeschreibung\n\nFahren Sie auf der Inntalautobahn A12 E60 bis zur Ausfahrt 39 Zillertal/Achensee-Wiesing. Sie Fahren durch das Zillertal auf der Zillertaler Bundesstraße B 169 in Fahrtrichtung Mayrhofen bis zum Ortzentrum Hippach. In Hippach bei der Ampel fahren Sie rechts über das Bahngleis hoch bis zur nächsten Kreuzung (ohne Ampel), dann wieder rechts bei der Kirche vorbei. Richtung Hinweistafel-\"Zillertaler Höhenstraße\". Dann die Höhenstraße hoch (ca. 4,5 Km) bis zur Werbetafel \"Haus Johanna\" links von der Straßenseite. Bitte fahren Sie noch ca. 100m weiter zu unserem Umkehrplatz. Genau gegenüber von unserer Werbetafel fahren Sie die Einfahrt hoch, bis zu unserem Haus. (Das 3-te Haus auf der linken Seite.)\n\nGute Fahrt!\nFamilie Schrama",
+    "ferienhaus, ferienwohnungen, Appartements, Apartments, hotels, Zillertal, Tirol, Unterkunft, Zimmer"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "20"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4b6629a5-b0b4-4681-b82b-20b08f34a7a9/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/34360b0b-ed91-4548-9f3c-44eaaf5f5e31/99/image.jpg",
+      "caption": "Jause"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/884fc2d3-c585-4cd7-825e-cbf64a2ffef5/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/195fc918-0bfe-4d7e-b44f-de804947387b/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa8b1d2f-8087-46af-b0a6-0deb04d37b08/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Winter1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f9521639-fdfe-4b72-b59f-371cbfd57710/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Essbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97346904-ad03-48c4-bf1a-3511fd33d6b5/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Essbereich 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ed6d03ef-f35c-414f-8c7b-0c42a38a9c71/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Essbereich 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94d49a34-e347-436f-b8b8-1ebecd1e28cf/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77047250-234d-4aba-8d76-1a1ebaaa6f10/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Küche 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a6da519d-9b70-46e3-8eed-f682f4d32781/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Jause"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f07effc8-5e4e-470f-80c9-7983912f3fc1/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c37dacf-1d57-4ec6-99a2-8c7c543c7c83/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Schlafzimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3512c171-4313-4fbc-809b-3dd0fb37998b/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Schlafzimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/19c259e1-e8b2-4966-90bd-5ef0f9c0ea9e/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Schlafzimmer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fd3b30d8-52a7-4aab-99ae-06ff4b37c3f5/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Deko"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0234f3fc-da43-4db4-9e8c-896ce4fb6f39/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Deko 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ab58d27-e219-42cc-929a-0f37b8474323/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Doppelbett a"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d2b8ef44-79c4-4d9e-b562-95e5df3b9c6d/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Badezimmer a-ideal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af4c8401-3f0d-49cd-acd6-7564160c5d89/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Garderobe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/51121302-8728-477c-98cc-ac22a3683964/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Essecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8803d093-5108-4ccb-8975-a8b3860ed0a9/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Stockbett a klein"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/00abc3b8-d8af-4589-8106-25f83f4e7546/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Toilet a"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2522ed5b-8b24-467b-9052-6c3cfabd6276/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1625e297-8469-45d1-8bef-91b5d70173d8/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Garten 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/affc3114-aebc-493a-a0cb-23a60b7c5a57/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Garten 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4cf14430-70ab-4eb5-a3b8-50fba6cbb4f0/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Garten 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3cba20cd-568f-4552-8822-e10a706657ae/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Garten 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/264698a2-0c74-4fb3-822c-0c22c29dda9a/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Garten 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/85f203a7-3584-4aca-b88b-adebc7c2e69f/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Garten 6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6dc84165-7584-433a-8a97-609e452a8069/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Garten 7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d11c1e76-746a-48ce-b554-11b60bdbd2f6/99/image.jpg",
+      "caption": "Haus Johanna Hippach - Blumen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/15b96664-db30-41ba-a248-76c88dc1205c/99/image.jpg",
+      "caption": "Familienfoto"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f9e5dbb-20de-4766-bb49-4f23cbf5abc3/99/image.jpg",
+      "caption": "Almabtrieb"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9818b3ec-5edd-4b41-8ee2-18cbbc5ded89/99/image.jpg",
+      "caption": "Winter1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/822a7ad5-5107-425c-8532-b52c244a2e7a/99/image.jpg",
+      "caption": "Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f1db9c6f-1140-45f9-a3fa-d5c282bac9f2/99/image.jpg",
+      "caption": "Winter3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/369cf4b9-2883-4915-8d57-4375b0a47bda/99/image.jpg",
+      "caption": "Winter4"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2053239036926",
+    "longitude": "11.8487656116486"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Badewanne, Superior",
+      "description": "Appartementhaus Johanna für 2 bis 19 Personen in ruhiger,sonniger Lage. Ideal für Gruppen und Familienurlaube. \n*Kinderspielplatz\n*Liegefläche\n*Grillplatz\n*Internet\n*Skibus direkt am Haus-auf die Piste\n*Mitten in den Wander und Skigebieten",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartmenthaus Johanna",
+          "description": "Ihr Urlaubsziel zu jeder Jahreszeit, Appartmenthaus mit besonderer Atmosphäre, urig, gemütlich, familienfreundlich und ganzjährig geöffnet.Kinderspielplatz, Sonnenterasse,Panoramaliegewiese,Balkon und Grillplatz.\n Wir vermieten 2 Appartements:\n\nGratis Skibus ab Haus, fährt direkt auf die Piste in das Skigebiet Hippach-Mayrhofen, \nSki-Zillertal3000. \n\nFerienhaus Johanna liegt in ruhiger, sonniger Lage mit Ausblick auf die Z",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/0c61a5cc-cb21-4dea-bcc8-fc45f93643c4/99/image.jpg",
+              "caption": "Winterfoto"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/1b5aeeee-969b-4e00-b57c-fbf46f39646a/99/image.jpg",
+              "caption": "DSCN1035"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/7cdc8f49-3953-43b1-b8f0-fa4b0a06e54b/99/image.jpg",
+              "caption": "wohnzimmer_b"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/6dd5c795-37df-44f5-b238-8975eb77f266/99/image.jpg",
+              "caption": "Wohnzimmer im App Sonnenschein"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/af0eef1b-5048-4285-a21e-2aa9c48eef23/99/image.jpg",
+              "caption": "Wohnzimmer im App Sonnenschein 2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/8ff412e5-d384-4c7c-a0ff-7344b248fc9c/99/image.jpg",
+              "caption": "stockbett_a klein"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/69c1486d-e1ed-44f4-a1d5-3295addb7504/99/image.jpg",
+              "caption": "Dreibettzimmer im App Sonnenschein"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d92dd17b-ba89-4e67-91b5-bf9bbb48ee3a/99/image.jpg",
+              "caption": "Doppelzimmer im App Sonnenschein"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/c4a9b789-9638-434e-b633-03c2f633b553/99/image.jpg",
+              "caption": "Vierbettzimmer im App Sonnenschein"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/0eb5f8c5-b1ac-46d8-ab03-85580e0a1826/99/image.jpg",
+              "caption": "Vierbettzimmer im App Sonne"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/431925d2-ae0d-41a6-9baa-2d637192a13f/99/image.jpg",
+              "caption": "badezimmer_d"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/e71997d2-b90f-48e7-abb6-aec25afec809/99/image.jpg",
+              "caption": "Winterfoto"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/7a0c3ead-4cc6-4caa-b9c1-be153ed2e285/99/image.jpg",
+              "caption": "Kinderspielplatz"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/170823df-f32c-489b-8287-007ede6e78f4/99/image.jpg",
+              "caption": "Liegewiese und Kinderspielplatz"
+            }
+          ],
+          "numberOfRooms": "11.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "19",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Almabtriebspauschale 7 Nächte",
+          "description": "Unser Pauschalpreis beinhaltet folgendes:\n\n7 Tage urlauben nur 6 Tage bezahlen\nAppartment in ruhiger und sonniger Lage mit herrlichem Bergblick\ngroßer Kinderspielplatz\nPanoramaliegewiese\nGrillplatz mit Picknicktisch\nTischtennistafel\nkostenloser W-Lan\nWillkommensgeschenk\n\nSO\tAnreise\nMO\tOrtsrundgang\nDI\tAuf den Spuren der Heumilchprodukte (Bus nach Brandberg, Wanderung auf der Heumilch-Genuss-Route mit Einkehr, Besuch der ErlebnisSennerei)\nMI\tfreie Gestaltung (Empfehlung: Adlerbühne, Sinnesspiele, Steinbockwelten, \n\tNaturparkausstellung)\nDO\tBerggottesdienst am Ahorn beim Ahornsee mit Erwin Aschenwald (Ticket excl.)\nFR\tHooo-Ruck-Party in der ErlebnisSennerei am Abend\nSA\tGroßer Almabtrieb in Mayrhofen ab 10.30 Uhr\nHooo-Ruck-Konzert am Abend\nSO\tHooo-Ruck-Frühschoppen",
+          "numberOfRooms": "11.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "300.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "300.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "140.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "160.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "200.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "230.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "260.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "260.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 13",
+          "minPrice": "260.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 14",
+          "minPrice": "280.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 15",
+          "minPrice": "280.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 16",
+          "minPrice": "280.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 17",
+          "minPrice": "350.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 18",
+          "minPrice": "350.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 19",
+          "minPrice": "350.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Das Appartment \"Sonne\" hat 2 Schafzimmer, wobei ein Zimmer mit einem Stockbett ist. Das geräumige Wohnzimmer hat, neben einer Eß-/Sitzecke, eine Bettcouch. Weiterhin gibt es auch eine separate Küche, wo Sie alles was Sie brauchen, finden können (Wasserkocher, Mikro, Ofen, Kaffeemaschine, ... etc.) Das Badezimmer verfügt über eine Dusche und Toilette. Vor der Wohnung befindet sich eine große Liegewiese sowie ein Picknicktisch  für gemütliche Stunden",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Sonne für 8 Personen",
+          "description": "Appartement Sonne das 70m² groß ist, befinden sich ein Vierbettzimmer, ein kleines Stockbettzimmer für \n2 Erwachsene oder 2 Kinder, sowie eine ausziehbare Schlafcouch für 2 Personen. Ein Badezimmer mit Dusche, WC, Haarföhn und kleinem Vorraum. \nGemütliche Stunden können Sie in unserem Wohnzimmer mit Liegecouch und Fernseher (Sat-Tv) verbringen.Die Küche ist voll ausgestatett,-Mirko,Ofen,Kaffemaschine,Wasserkocher und Geschirr.\nSkibus fährt direkt ins Skigebiet",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/967baced-d6a7-4131-a882-745e7ec5e2cf/99/image.jpg",
+              "caption": "Haus Johanna - 600x450"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/4a53860b-eaff-4b57-9fc4-d732a10ccea1/99/image.jpg",
+              "caption": "DSCN1106"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/582bca3d-90ba-4432-99f9-e8a1a46f3e33/99/image.jpg",
+              "caption": "schlaffzimmar_1a"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ffe821b1-9c07-416a-9f47-fd32b0d8ff59/99/image.jpg",
+              "caption": "stockbett_a klein"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/8c0b43ee-1613-44ea-a0b1-cb444686940a/99/image.jpg",
+              "caption": "toilet_a klein"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d0732be6-f31f-4d7d-8e7a-543b98c37e18/99/image.jpg",
+              "caption": "DSCN0771"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/e7122569-20c9-4d11-8c88-f937b1b7537b/99/image.jpg",
+              "caption": "wohnzimmer_b"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/e6634247-028c-4e45-a12c-9247ae5d7e68/99/image.jpg",
+              "caption": "wohnzimmer_a"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/fca91bbc-be6b-499d-8eb6-e3c193af9528/99/image.jpg",
+              "caption": "DSCN0762"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/45fe5365-9301-48c0-ae51-d5f3c92740b3/99/image.jpg",
+              "caption": "DSCN0784"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/641f5181-b3a7-43ac-ab1e-7a11aadca388/99/image.jpg",
+              "caption": "DSCN0765"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/2ead1560-bfca-48a5-bc39-88041874ab2c/99/image.jpg",
+              "caption": "foto gut"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ffc5424d-057c-4d56-9fb8-afb766f6e0e1/99/image.jpg",
+              "caption": "Neue Fotos Ferienhaus Johanna (24)"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/5cbca1cf-db10-4206-a13e-9ae13c63caef/99/image.jpg",
+              "caption": "DSCN1070 gut"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/010d5fff-8254-41c0-9e5e-49069df93416/99/image.jpg",
+              "caption": "GOPR0259"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/3e032a1d-b87d-4a75-acd2-a27e3046092c/99/image.jpg",
+              "caption": "GOPR0275"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/2b0a9d7f-23c5-444c-a129-1b897667ecbb/99/image.jpg",
+              "caption": "Familienfoto"
+            }
+          ],
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "120.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "200.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, Balkon",
+      "description": "Das Appartment \"Sonnenschein\" hat 2 grosse Schlafzimmer, 1 Doppelzimmer, 1 Vierbettzimmer und 1 Einbettzimmer. In der Wohnküche (32 m2) gibt eis einen großen Küchenblock mit einem Geschirrspüler, Wasserkocher, Mikrowelle, Kaffemaschine, Ofen, etc.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment Sonnenschein für 11 Pers",
+          "description": "In unserem Appartement Sonnenschein, das 100m² groß ist, befinden sich ein Doppelbettzimmer, ein Vierbettzimmer, ein Einzelzimmer und eine ausziehbare Schlafcouch für 2 Personen.Ein Badezimmer mit Dusche, Badewanne, WC, Haarföhn und ein Doppelwaschbecken.Ein Gardarobenraum, sowie eine große, gemütliche Wohnküche mit Sofa und einer Sitzecke,TV und Radio, die Küche ist vollausgestatett,-Kaffemaschine,Mikro,Spülmaschine,Ofen und komplettes Koch und Tafelservice.\n*Skibus fährt direkt auf Skipiste",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d844314d-0073-4c64-b523-f5fbcd4ba705/99/image.jpg",
+              "caption": "Winterfoto"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/e52cffd2-0e26-40b5-b95b-e2c72055e073/99/image.jpg",
+              "caption": "Aussicht von hinterm Haus"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/419f8870-37d3-4924-89fa-093ee1fb95c5/99/image.jpg",
+              "caption": "Kinderspielplatz"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/00bb554e-97d7-44a8-9457-2b9b066f02bf/99/image.jpg",
+              "caption": "Liegewiese und Kinderspielplatz"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ff9d13fc-efd7-4035-a289-c76fdf1cd083/99/image.jpg",
+              "caption": "Winterfoto"
+            }
+          ],
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "11",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "90.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "120.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "160.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "160.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "300.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "300.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

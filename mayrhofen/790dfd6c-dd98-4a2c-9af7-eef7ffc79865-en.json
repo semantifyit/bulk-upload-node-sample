@@ -1,0 +1,179 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ferienhuette-georg.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d790DFD6C-DD98-4A2C-9AF7-EEF7FFC79865"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Georg, Ferienhütte",
+    "streetAddress": "Schwendberg 638",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2846",
+    "email": "info@ferienhuette-georg.at",
+    "url": "http://www.ferienhuette-georg.at"
+  },
+  "name": "Ferienhütte Georg",
+  "description": [
+    "The \"Ferienhütte Georg\" is situated on ca. 1000m sealevel, directly on the \"Zillertal Mountain Road\" and has space for 15 person. Die hut was completely renovated in 2007. \n",
+    "Service charges included: final cleaning, wood, bed linen, electricity, local tax (€ 1,20 per person a day)\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/39d43126-8dfd-4164-849f-c83ede93d91e/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1cb6838-a406-465f-b630-23cc79f4821d/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7811caea-3865-4396-961f-321e3d929828/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - Sitzecke mit TV"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab2e54c2-1344-4ccf-afbe-109d1c06293e/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - Essecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b4eea499-96f5-4d5f-879d-8df5a96aa99a/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - Küchenblock"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f9764632-fe12-4bbe-9d4e-e532e0681886/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/15bf071e-2b34-45bb-b256-643dae064e50/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - Dreibettzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a43f0bc-c606-49bb-83f3-ce428ba998fc/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - Stockbettzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0281680f-910a-46a2-87e3-96b877f7642e/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - 2er Stockbettzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/66409b97-0d86-4dfd-ba68-2ecb22ff71b4/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0fa3969d-17c1-47c2-a0be-78c9c4c79bd3/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - Doppelzimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b882daa1-663d-4ddf-8593-d5d4fe73b0fa/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - Doppelzimmer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/081b103d-20f8-4678-b3f3-25f440d973c6/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - Dusche mit WC"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/83b0ef6d-e9b6-42de-b495-f49527aa07e8/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - weitere Dusche mit WC"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f676814c-5b35-4266-a10a-f6c331ee18d4/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - WC seperat"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d161cc8d-3eb8-42b6-a7e8-b07cf3b5dd88/99/image.jpg",
+      "caption": "Ferienhütte Georg Hippach - Terassenblick ins Tal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6e0a152-b6f4-4900-82ad-4d73429b0d55/99/image.jpg",
+      "caption": "Ferienhütte Georg - Blick zur Hütte im Winter 2012"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0bb50a29-c2a5-46da-9167-c9357398495d/99/image.jpg",
+      "caption": "DSC_0698"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63c95230-b9b2-4a0f-9395-85f30f78649a/99/image.jpg",
+      "caption": "DSC_0709"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fec94d85-fc81-458c-8ed2-cccf445ad36d/99/image.jpg",
+      "caption": "DSC_0699"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/23ef294d-cda3-48c7-9b98-34778c860a56/99/image.jpg",
+      "caption": "DSC_0710"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/555e1a9b-bdfd-42d6-882e-976660fddff2/99/image.jpg",
+      "caption": "DSC_0715"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/071e2dcd-8cbd-462d-902d-a34fa2f71a3f/99/image.jpg",
+      "caption": "DSC02359"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2065812210858",
+    "longitude": "11.8508899211884"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Holiday home, shower, toilet, 4 or more bed rooms",
+      "description": "The hut was renovated in autuum 2007. \nAll rooms are made of light pine. The hut has electricity,\nKitchen with refrigerator, electric stove with oven, dishwasher, microwave, sink, coffeemaker, sitting area and desk, nice big stove, satellite TV. A total of 6 rooms in light wood for up to 15 people (3 doubles, 1 double bedroom with bunk beds, 1 room with 2 bunk beds), 2 showers and toilets and underfloor heating, 1 more extra toilet, sunny terrace with grill and seats. Nearest supermarket: 4 km\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "hol. house/4 + more bedrooms/shower, WC",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "15",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartcarola.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d921E1D04-B93D-45AF-8ABA-DFB075B15C4C"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Carola, Appart-Haus",
+    "streetAddress": "Bichl 522",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 676 6207911",
+    "email": "appartcarola@aon.at",
+    "url": "http://www.appartcarola.at"
+  },
+  "name": "Appart-Haus Carola",
+  "description": "central, quiet, sunny situation below Mayrhofen, with top view of Ahorn, Penken and Horberg, ideal starting point for sportive activities. \nWireless-Lan, ground-level ski space, electric clothing and ski shoe dryer in the house, enough parking bays available, ski coach in close vicinity, walking time 1 minute. \nSummer: bicycle space, Zillertal travelling map, Strass to Mayrhofen for free! \n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/676d89da-afc1-4a62-aa67-2a4e2fa4e71f/99/image.jpg",
+      "caption": "Appart-Haus Carola - Sommeransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/78bea9f2-5858-4c9a-94fd-0bb82c5a100d/99/image.jpg",
+      "caption": "Appart-Haus Carola - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1955850623635",
+    "longitude": "11.8734848499298"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 4 or more bed rooms",
+      "description": "Really well equiped, spacious 105 m² appartement for up to 10 persons, completly new decorate!\n\none double room, on three-bed room, if necessary a extra bed aviable! one room with double beds and a conection door, children bed\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appart Carola",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SkiResort",
+    "BarOrPub"
+  ],
+  "name": "Happy End",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.163155546308",
+    "longitude": "11.861098408699"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Happy End",
+    "streetAddress": "Hauptstraße 477 ",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62333",
+    "faxNumber": "0043 5285 623334 ",
+    "email": "ski@spiess.at",
+    "url": "http://www.spiess.at/de/happyend.html"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84538ccc-917d-43b4-a18e-3ceacc2ad733/99/image.bmp",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.spiess.at/de/happyend.html"
+  ]
+}

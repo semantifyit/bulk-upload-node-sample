@@ -1,0 +1,253 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.zillertal-ferienhaeuser.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dC6F20071-9C7A-4B27-ADF1-E78CBCDD62F8"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Chiara, Ferienhaus",
+    "streetAddress": "Schwendberg 446",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64152 13",
+    "faxNumber": "0043 5285 641524",
+    "email": "ferienhaus.chiara@aon.at",
+    "url": "http://www.zillertal-ferienhaeuser.at"
+  },
+  "name": "Ferienhaus Chiara",
+  "description": [
+    "Neuwertiges Ferienhaus in ruhiger, sonniger Berglage mit Blick auf das Zillertal und des Bergpanoramas des hinteren Zillertales. Der Skibus fährt direkt ins Skigebiet. Wir bieten Ihnen ein komplett ausgestattetes Ferienhaus mit Sauna, Solarium, einer Garage, Parkplätze, Dachterrasse, Safe und Galerie.",
+    "Kinderermäßigung auf Anfrage!\n\n",
+    "Check in 16.00 Uhr - Check out 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6e00676-21fa-49b4-89f8-383d71765a95/99/image.jpg",
+      "caption": "Ferienhaus Chiara Schwendau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c622204d-6074-4121-a931-83a1b3fba1e0/99/image.jpg",
+      "caption": "Ferienhaus Chiara Schwendau - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a64cb85e-eabc-4a0d-9d9a-8dd6916c291c/99/image.jpg",
+      "caption": "Ferienhaus Chiara Schwendau - Grundriß-Erdgeschoß"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b723467e-4c71-4646-a6c9-8b4f623ec848/99/image.jpg",
+      "caption": "Ferienhaus Chiara Schwendau - Grundriß-Dachgeschoß"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dee744ac-4053-42ba-9cfe-ec19b7257277/99/image.jpg",
+      "caption": "Ferienhaus Chiara Schwendau -Grundriß-Untergeschoß"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9fd6daba-35ab-4ad8-b801-730fd5e1c2c8/99/image.jpg",
+      "caption": "Ferienhaus Chiara Schwendau - Grundriß Obergeschoß"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c32817c9-990d-4c17-bef9-cad1bab6a22e/99/image.jpg",
+      "caption": "Ferienhaus Chiara Schwendau - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b64379ee-8265-40c1-93d1-afde06edbb46/99/image.jpg",
+      "caption": "Ferienhaus Chiara Schwendau - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/913ddea5-5ea7-45cd-aac4-de8d3b308517/99/image.jpg",
+      "caption": "Ferienhaus Chiara Schwendau - Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/287f372d-a458-49d3-9d8f-c5b00addbe7e/99/image.jpg",
+      "caption": "Einkehr © Blickfang Photographie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1229b73a-2160-4815-b8aa-d0bd2902b6dc/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b46092e0-4c52-4743-9fcb-42d8b2741ecf/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e46cac2c-0897-4946-a901-bf1a659cf1dc/99/image.jpg",
+      "caption": "Winter am Berg © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1e5ed3c0-ee88-4cbb-94db-71e7ac5170ba/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/38bdffe5-1116-489c-8770-f34457df2206/99/image.jpg",
+      "caption": "Zillertaler Jause © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/410e589c-d225-4960-8ae5-fa67582b67b4/99/image.jpg",
+      "caption": "Klettern © Tom Malecha"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2096679000004",
+    "longitude": "11.8523275852203"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche, WC, 4 oder mehr Schlafräume",
+      "description": "Gemütliches Ferienhaus mit Sauna, Solarium, voll ausgestatteter Küche, Dachterrasse und Galerie!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/4 od. mehr Schlafr./Dusche,WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "20",
+            "minValue": "6"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "210.00",
+          "maxPrice": "396.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "210.00",
+          "maxPrice": "396.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "210.00",
+          "maxPrice": "396.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "210.00",
+          "maxPrice": "396.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "210.00",
+          "maxPrice": "396.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "231.00",
+          "maxPrice": "396.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "252.00",
+          "maxPrice": "420.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 13",
+          "minPrice": "273.00",
+          "maxPrice": "455.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 14",
+          "minPrice": "294.00",
+          "maxPrice": "490.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 15",
+          "minPrice": "315.00",
+          "maxPrice": "525.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 16",
+          "minPrice": "336.00",
+          "maxPrice": "560.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 17",
+          "minPrice": "357.00",
+          "maxPrice": "595.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 18",
+          "minPrice": "378.00",
+          "maxPrice": "630.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 19",
+          "minPrice": "378.00",
+          "maxPrice": "665.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 20",
+          "minPrice": "637.00",
+          "maxPrice": "700.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

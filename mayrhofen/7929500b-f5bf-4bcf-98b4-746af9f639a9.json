@@ -1,0 +1,353 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.heisenhaus.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d7929500B-F5BF-4BCF-98B4-746AF9F639A9"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Heisenhaus",
+    "streetAddress": "Ramsau 341",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3709",
+    "email": "heisenhaus-ramsau@aon.at",
+    "url": "http://www.heisenhaus.at"
+  },
+  "name": "Heisenhaus",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Familienurlaub am Bauernhof - Unser Haus liegt in ruhiger und sonniger Lage. Gemütlicher Aufenthaltsraum mit Sat-TV, Sonnenterasse und Liegewiese."
+    },
+    {
+      "@language": "de",
+      "@value": "Für Kinder: Spielwiese, Ponyreiten und Streicheltiere"
+    },
+    {
+      "@language": "en",
+      "@value": "family-holiday on farm - Our house is situated in quiet and sunny position. Comfortable lounge with Sat-TV, sun-terasse, sunbathing lawn"
+    },
+    {
+      "@language": "en",
+      "@value": "pony-riding, childrens playground and petting for children"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8949c9cf-92d4-4494-8c25-f2977dfadb94/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Heisenhaus Ramsau - Sommerbild"
+        },
+        {
+          "@language": "en",
+          "@value": "Heisenhaus Ramsau - Sommerbild"
+        },
+        {
+          "@language": "ru",
+          "@value": "Heisenhaus Ramsau - Sommerbild"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56cd1b6a-6958-408b-bf3a-5383d86c74e7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bergsteigen © Bernd Ritschel"
+        },
+        {
+          "@language": "en",
+          "@value": "Bergsteigen © Bernd Ritschel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bergsteigen © Bernd Ritschel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bc431c12-16d3-433b-8694-01546afcb012/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gipfel © Paul Sürth"
+        },
+        {
+          "@language": "en",
+          "@value": "Gipfel © Paul Sürth"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gipfel © Paul Sürth"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9f76a3a-d12c-43d0-bcb3-6323d6469b05/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "en",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "ru",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/670c053b-ca9a-47ce-8f58-83d0ccb67f34/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Einkehr © Blickfang Photographie"
+        },
+        {
+          "@language": "en",
+          "@value": "Einkehr © Blickfang Photographie"
+        },
+        {
+          "@language": "ru",
+          "@value": "Einkehr © Blickfang Photographie"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cb6f1b86-7732-464c-bf18-02ed0736a6ea/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skifahren © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Skifahren © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skifahren © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ea3c6fd-24cb-459d-913c-43bee7973d63/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e474ba4-2060-4b5d-9708-6dc98920b729/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf876b02-de84-4e6b-817a-15d4cfd055b4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter am Berg © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter am Berg © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter am Berg © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6bf0b227-015a-4671-bf84-9e5fc9e078c1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterwandern © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/673ddfa0-1728-4af9-b968-ef88ee2d8f4b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.202683717205",
+    "longitude": "11.875153573627"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütliche Doppelzimmer mit Dusche/WC, Balkon und einem reichhaltigen Frühstück mit hofeigenen Produkten."
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortable double rooms with shower / WC, balcony and an extensive breakfast with products belonging to court. "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

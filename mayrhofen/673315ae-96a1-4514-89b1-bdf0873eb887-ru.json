@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Plauenerhütte 2363m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1183145062716",
+    "longitude": "12.0962423086166"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Plauenerhütte",
+    "streetAddress": "Zillergrund",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 281 89 14",
+    "email": "info@plauener-huette.at",
+    "url": "www.plauener-huette.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0b03f4ea-5d8d-42b4-85e1-c9bf02ab9f5a/99/image.jpg",
+      "caption": "Plauenerhütte 2363m"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0cf1a2fa-1bf2-4a12-b4a4-439e415ef75e/99/image.jpg",
+      "caption": "Plauenerhütte"
+    }
+  ],
+  "url": [
+    "http://www.plauener-huette.at/willkommen/"
+  ]
+}

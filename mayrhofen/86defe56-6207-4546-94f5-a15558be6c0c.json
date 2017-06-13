@@ -1,0 +1,551 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d86DEFE56-6207-4546-94F5-A15558BE6C0C"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Draxl",
+    "streetAddress": "Laimach 97",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2543",
+    "faxNumber": "0043 5282 2543",
+    "email": "martina.hundsbichler@aon.at"
+  },
+  "name": "Draxl",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Altes Bauernhaus umgeben von Wiesen, sonnige ruhige Tallage, zentral gelegen und schöne Aussicht.  Mit gemütlicher großen Stube mit Kachelofen, Sat TV, großer Küche, einem Badezimmer mit Badewanne und Dusche und separatem WC, einem Badezimmer mit Dusche/WC und 5 großen Schlafzimmern. "
+    },
+    {
+      "@language": "de",
+      "@value": "Im Preis inkludiert:    Holz, Endreinigung ab Eur 40,00\nIm Preis exkludiert:   Strom (0,20 pro kwh), \n                                       Bettwäsche (Eur 5,00 pro Person)\nPreise ohne Bettwäsche\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Check-in: 14:00\nCheck-out: 10:00"
+    },
+    {
+      "@language": "en",
+      "@value": "old farmerhouse surround by meadows, sunny calm valley situation, central situated. Very beautiful view! \nSun bathing area, parking lot, storage possibility for ski and skishoes, in the near of ski bus stop and village bus stop, cross-country trail, cycle track, children play-ground and outdoor swimming pool."
+    },
+    {
+      "@language": "en",
+      "@value": "in price included: wood, final cleaning off € 40,00\nin price excluded: energy (0,20 per kWh), bedlinen (5,00 € per person)\nPrice without bedlinen"
+    },
+    {
+      "@language": "en",
+      "@value": "Check-in: 14:00\nCheck-out: 10:00"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d0612ff1-aa13-4959-babd-564de2a856c9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC02327"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC02327"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC02327"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3474ff17-27f5-48cc-9874-079375adcebe/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC02325"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC02325"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC02325"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/172a978f-2b98-4c9f-a658-73eb9d7ec4e0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC02314"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC02314"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC02314"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/48b1df92-c992-4ec7-89f9-618fd5eef166/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Draxl Sommerfoto"
+        },
+        {
+          "@language": "en",
+          "@value": "Draxl Sommerfoto"
+        },
+        {
+          "@language": "ru",
+          "@value": "Draxl Sommerfoto"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d937d626-3d7f-42e6-8f75-ee061d262f44/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Draxl Sommerfoto 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Draxl Sommerfoto 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Draxl Sommerfoto 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/55161cef-5d80-4c59-a3a4-01ffc84f0127/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Draxl Obstgarten"
+        },
+        {
+          "@language": "en",
+          "@value": "Draxl Obstgarten"
+        },
+        {
+          "@language": "ru",
+          "@value": "Draxl Obstgarten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4bcbe846-e9bb-47ad-acb3-6a43aa812a08/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Aussicht nach Mayrhofen, Ahornspitz"
+        },
+        {
+          "@language": "en",
+          "@value": "Aussicht nach Mayrhofen, Ahornspitz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Aussicht nach Mayrhofen, Ahornspitz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c47ac14-bd51-40cb-80a2-af79a62a40c1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Aussicht nach Zell am Ziller"
+        },
+        {
+          "@language": "en",
+          "@value": "Aussicht nach Zell am Ziller"
+        },
+        {
+          "@language": "ru",
+          "@value": "Aussicht nach Zell am Ziller"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c1cce9b-60b7-457e-9e8a-5bfe6e8b7107/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kühe auf der Weide"
+        },
+        {
+          "@language": "en",
+          "@value": "Kühe auf der Weide"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kühe auf der Weide"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63d4ec81-0c61-47a9-b35a-16b9a7056161/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bike Mayrhofen"
+        },
+        {
+          "@language": "en",
+          "@value": "Bike Mayrhofen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bike Mayrhofen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52e61e4b-2008-4ab9-8630-b8b35cef6877/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer Gipfel Panorama"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer Gipfel Panorama"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer Gipfel Panorama"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da051cf3-4298-430e-b28a-2aafbb4d33db/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4aba0401-b66c-47da-9c6e-af4a598ee394/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "en",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wanderung Olpererhütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/826af7e4-e821-421d-983c-dac23229506a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kuh auf der Alm"
+        },
+        {
+          "@language": "en",
+          "@value": "Kuh auf der Alm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kuh auf der Alm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86d771dd-58d8-4347-9bb5-9548f548c283/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skifahrer in Action"
+        },
+        {
+          "@language": "en",
+          "@value": "Skifahrer in Action"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skifahrer in Action"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c8bba37-cc9c-48a8-a4c7-9436c4adec18/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahorn White Lounge"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahorn White Lounge"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahorn White Lounge"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/25829f81-0f8d-45a6-818b-1d6266223793/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Rafting"
+        },
+        {
+          "@language": "en",
+          "@value": "Rafting"
+        },
+        {
+          "@language": "ru",
+          "@value": "Rafting"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76e55db2-9976-4daa-8be6-3dfc2cce8e5f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter Landschaft"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter Landschaft"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter Landschaft"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2141500064638",
+    "longitude": "11.8647837638855"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus, Bad, WC, 4 oder mehr Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Holiday home, bath, toilet, 4 or more bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Дом отдыха, ванна, туалет, 4 или больше спалень"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Parterre sowie erster Stock - ca. 150m²\ngroße Stube, große Küche, 1 Badezimmer mit Badewanne/Dusche und separatem WC, 1 Badezimmer mit Dusche/WC,\n5 große Schlafzimmer (Doppelzimmer,Drei-Vierbettzimmer). Beheizung mit Kachelofen und Elektroraditioren.\n\nAnreise: 14.00 Uhr\nAbreise: 10.00 Uhr\n"
+        },
+        {
+          "@language": "en",
+          "@value": "ground floor + 1st floor - ca. 150 m²\nbig living room, big kitchen, 1 bathroom with bath tub and shower and separately WC, 1 bathroom with shower/WC, 5 large sleeping rooms (double rooms, three- four bed rooms). Heating with tiled stove"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienhaus/5 Schlafr./2 Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "hol. house/5 bedrooms/2 bath, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Дом отдыха, ванна, туалет, 4 или больше спалень"
+            }
+          ],
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "16",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "36.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "42.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "46.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "50.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "60.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "70.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "75.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "80.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "85.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "90.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "96.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 13",
+          "minPrice": "102.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 14",
+          "minPrice": "108.00",
+          "maxPrice": "215.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 15",
+          "minPrice": "114.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 16",
+          "minPrice": "120.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

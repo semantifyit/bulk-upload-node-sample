@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Hotel Zenzerwirt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.204095712712",
+    "longitude": "11.8650358915329"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zenzerwirt, Landhotel",
+    "streetAddress": "Hippach-Dorf 14",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3602",
+    "faxNumber": "0043 5282 3622-44",
+    "email": "hotel@zenzerwirt.at",
+    "url": "http://www.zenzerwirt.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/46202659-b8bb-4925-af55-8793a089d0f6/99/image.jpg",
+      "caption": "Zenzewirt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76833ed8-592e-46c6-963b-9228bf6e70a2/99/image.jpg",
+      "caption": "Hallenbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e3898e7-cea1-478c-b85d-404ab59fdd97/99/image.jpg",
+      "caption": "Hotel Zenzerwirt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a2c48489-d355-4c90-8f3e-d2be02b562f7/99/image.jpg",
+      "caption": "Zimmer"
+    }
+  ],
+  "url": [
+    "http://www.zenzerwirt.at"
+  ]
+}

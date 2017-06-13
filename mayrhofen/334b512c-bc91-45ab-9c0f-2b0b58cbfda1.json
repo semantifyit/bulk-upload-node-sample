@@ -1,0 +1,411 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d334B512C-BC91-45AB-9C0F-2B0B58CBFDA1",
+    "http://www.britzerhof.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Britzerhof",
+    "streetAddress": "Hollenzen 71",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62825",
+    "faxNumber": "0043 5285 62944",
+    "email": "britzerhof@aon.at",
+    "url": "http://www.britzerhof.at"
+  },
+  "name": "Britzerhof",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Bauernhof mit Frühstücksraum, Aufenthaltsraum, Liegewiese, auf Wunsch mit reichhaltigem Bauernfrühstück. In ruhiger Lage, Skibushaltestelle hinter dem Haus, Skiraum."
+    },
+    {
+      "@language": "de",
+      "@value": "Kinder bis 15 Jahre zahlen keine Ortstaxe. "
+    },
+    {
+      "@language": "de",
+      "@value": "B169 Richtung Mayrhofen - Abzweigung ErlebnisSennerei - 200m talauswärts unterhalb Restaurant Bruggerstube auf der rechten Seite."
+    },
+    {
+      "@language": "en",
+      "@value": "Farm house in quiet location, with breakfast room, guest lounge, sunning area, plentiful farmers breakfast, ski store, ski bus stop behind house."
+    },
+    {
+      "@language": "en",
+      "@value": "Children under 15 years do not pay local taxes.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "B169 to Mayrhofen - turn off at the signs for the Erlebnissennerei (dairy) - 200m in the opposite direction - just below the Restaurant Bruggerstube on the right."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60569065-144f-450e-ac18-7b030a846528/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Britzerhof Mayrhofen - Sommerbild"
+        },
+        {
+          "@language": "en",
+          "@value": "Britzerhof Mayrhofen - Sommerbild"
+        },
+        {
+          "@language": "ru",
+          "@value": "Britzerhof Mayrhofen - Sommerbild"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5815b37f-db40-4b8d-81c0-e673758f4037/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Britzerhof Mayrhofen - Winterbild "
+        },
+        {
+          "@language": "en",
+          "@value": "Britzerhof Mayrhofen - Winterbild "
+        },
+        {
+          "@language": "ru",
+          "@value": "Britzerhof Mayrhofen - Winterbild "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/131da767-89d3-4441-a35d-c36c7d2a7d8d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bergsteigen © Bernd Ritschel"
+        },
+        {
+          "@language": "en",
+          "@value": "Bergsteigen © Bernd Ritschel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bergsteigen © Bernd Ritschel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/85d58c3a-11f4-4ddb-aa70-7e5dddf06e00/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Klettersteig © Bernd Ritschel"
+        },
+        {
+          "@language": "en",
+          "@value": "Klettersteig © Bernd Ritschel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Klettersteig © Bernd Ritschel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a470ebb4-2e83-4635-a2d4-4b95fa30ef17/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pistenspaß © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Pistenspaß © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pistenspaß © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/58bee45a-5feb-4578-9235-bf6eab6cc875/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "en",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "ru",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/34ef0d9f-edd3-430d-8f6e-a76efc90cf2f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schneeschuhwandern © Frank Bauer"
+        },
+        {
+          "@language": "en",
+          "@value": "Schneeschuhwandern © Frank Bauer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schneeschuhwandern © Frank Bauer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9ad05da5-573d-4654-8674-79c624e5e421/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skifahren © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Skifahren © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skifahren © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7ee4ccf-8825-458a-b587-9f933ce31f1f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Spaß im Schnee © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Spaß im Schnee © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Spaß im Schnee © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e9fecc20-6d3d-4d4e-9090-b8d080a1501f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4ace26e-3a4d-4ae2-af21-95e71a19f3d1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gipfel © Paul Sürth"
+        },
+        {
+          "@language": "en",
+          "@value": "Gipfel © Paul Sürth"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gipfel © Paul Sürth"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94098935-d1e7-440f-ab24-0c103daff30e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterwandern © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/504299b1-e60c-4abc-b8ab-4c8b5cf6283e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1831683637447",
+    "longitude": "11.8727499246597"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, fl. k/w Wasser, Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, running hot/cold water, balcony"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, горячая/холодная вода, балкон"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Zimmer mit Fließwasser/Etagendusche und Balkon."
+        },
+        {
+          "@language": "en",
+          "@value": "Room with hand basin, shared shower facilities, balcony."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit fl. Wasser"
+            },
+            {
+              "@language": "en",
+              "@value": "triple room with running hot/cold water"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, горячая/холодная вода, балкон"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, fl. k/w Wasser"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, running hot/cold water"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, горячая/холодная вода"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Zimmer mit Fließwasser/Etagendusche und Balkon."
+        },
+        {
+          "@language": "en",
+          "@value": "Room with hand basin, shared shower facilities, balcony."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit fl. Wasser"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with running hot/cold water"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, горячая/холодная вода"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

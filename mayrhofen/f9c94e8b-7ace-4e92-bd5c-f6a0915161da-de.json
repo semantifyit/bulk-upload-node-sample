@@ -1,0 +1,65 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartment-zillertal.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dF9C94E8B-7ACE-4E92-BD5C-F6A0915161DA"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsberg 842",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3032",
+    "email": "info@appartment-zillertal.at",
+    "url": "http://www.appartment-zillertal.at"
+  },
+  "name": "Brugger Christa",
+  "description": "Unser Haus liegt in ruhiger und sonniger Lage oberhalb von Ramsau im Ortsteil Ramsberg. Es ist ein gemütliches 2-Familienhaus im Landhausstil. Von da aus kann man schöne Wanderungen oder Radtouren starten. Im Winter erreicht man mit dem Auto in wenigen Minuten die schönsten Schigebiete zB Schi 3000 - 5 km, Schi Arena - 6 km oder die Rodelbahn - 2 km. Schibus direkt neben dem Haus.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b0987c2d-a007-4438-a0b8-3c1c21a1125b/99/image.jpg",
+      "caption": "Christa Brugger Ramsberg - Hausansicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2077255362282",
+    "longitude": "11.8855977058411"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Erdgeschoss-Wohnung einfach jedoch standardmäßig - gemütlich eingerichtet.\n2 Schlafzimmer: 1 Doppelzimmer mit Zusatzbett (Couch), 1 Familienzimmer mit 4 Betten und separatem Badezimmer (DU, WC).\n\nInklusiv: Strom, Wasser, Heizung, Tiere\nExklusiv: Endreinigung, ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "3"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Friesenberghaus 2498m"
+    },
+    {
+      "@language": "de",
+      "@value": "Friesenberghaus 2498m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Friesenberghaus 2498m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0676701213139",
+    "longitude": "11.7020970582962"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Friesenberghaus",
+    "streetAddress": "Ginzling",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 749 7550",
+    "email": "friesenberghaus@gmx.at",
+    "url": "www.friesenberghaus.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Das Friesenberghaus 2498m liegt am Tuxer Hauptkamm in herrlicher Lage am Friesenbergsee mit imposanten Ausblick auf die Zillertaler Alpen.\nAufstieg vom Schlegeisstausee ca. 2,5 Stunden.\n\nFlo und Susi\nNachdem wir beide die letzten Jahre viele Eindrücke und Erfahrungen auf Hütten sammeln konnten, haben wir nun den Schritt gewagt und bewirtschaften ab Juni 2013 gemeinsam das Friesenberghaus. \nWir legen viel Wert auf eine angenehme, gemütliche Atmosphäre und freundlichen Service. In der Küche achten wir besonders auf regionale Produkte, die wir für Euch möglichst frisch und abwechslungsreich zubereiten. Die Speisekarte wird mit verschiedenen Tagesgerichten und Kuchen ergänzt. \nWir freuen uns schon auf den Sommer, die frische Luft und die gute Aussicht, die wir hoffentlich mit Euch genießen werden. \nBerg Heil\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\ngeschlossen\n\nSommer\nmitte Juni bis ende September 2017\nkein Ruhetag\n\n\nÜbernachtung möglich \n24 Betten und 32 Lager \nErmäßigung für AV-Mitglieder  "
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nclosed\n\nSummer\nmiddle June till end of September 2017\nno rest day\n\novernight stay possible \n24 beds and 32 dormitories\ndiscount for AV members  \n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e461709f-e1c2-4495-be3a-657f1c1329c0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Friesenberghaus 2498m"
+        },
+        {
+          "@language": "de",
+          "@value": "Friesenberghaus 2498m"
+        },
+        {
+          "@language": "ru",
+          "@value": "Friesenberghaus 2498m"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f2934e7-dc16-4331-8d64-ba986dca1d37/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Friesenberghaus"
+        },
+        {
+          "@language": "de",
+          "@value": "Friesenberghaus"
+        },
+        {
+          "@language": "ru",
+          "@value": "Friesenberghaus"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.friesenberghaus.at"
+  ]
+}

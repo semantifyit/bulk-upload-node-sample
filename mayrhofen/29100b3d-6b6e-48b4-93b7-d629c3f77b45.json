@@ -1,0 +1,532 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d29100B3D-6B6E-48B4-93B7-D629C3F77B45"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Holaus, Haus",
+    "streetAddress": "Hollenzen 69",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62524",
+    "faxNumber": "0043 5285 62524",
+    "email": "helene.holaus62@gmx.at"
+  },
+  "name": "Haus Holaus",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Erholsamen Urlaub in unserem gemütlichen Landhaus wünscht Fam. Holaus. Ruhige Sonnige Lage, Liegewiese."
+    },
+    {
+      "@language": "de",
+      "@value": "im Preis inkludiert: Endreinigung, Ortstaxe, Heizung, Wasser, Bettwäsche, Handtücher.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: 15:00 Uhr / Check out: 9:00 Uhr.\nFahren Sie bis Mayrhofen-Kreisverkehr (Bundesstrasse 169), dort links abfahren, dann nach ca. 100 m. an der Kreuzung wieder links abbiegen und nach 1,5 km befindet sich auf der rechten Seite ein Dorfbrunnen. Beim Brunnen rechts den Weg benützen und Sie haben Ihr Ziel erreicht."
+    },
+    {
+      "@language": "en",
+      "@value": "The Holaus Familiy wishes you a relaxing holiday in our pleasant country house. Quiet, sunny position, sun bathing area."
+    },
+    {
+      "@language": "en",
+      "@value": "Included in price: Final cleaning charge, local taxes, heating, water, bed linen, towels.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 15.00hr / Check out: 9.00 Uhr.\nDrive to the Mayrhofen roundabout (using the B169), turn left there, then after 100m left again at the next junction, and after approx. 1.5km the village well can be found on the right. At the well take the road on the right and you will find you have arrived at your destination."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81394e59-b752-46af-a40f-d35f74934bbe/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Holaus Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Holaus Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Holaus Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c778fb8e-6155-4c5b-a076-9aeffaf9349e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Holaus Mayrhofen - Sommer3"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Holaus Mayrhofen - Sommer3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Holaus Mayrhofen - Sommer3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/491befa4-c4da-4574-af9c-32420cc2f1b7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Holaus Mayrhofen - Ausblick Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Holaus Mayrhofen - Ausblick Balkon"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Holaus Mayrhofen - Ausblick Balkon"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aed95965-354b-4095-8593-266e2236ae29/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSCF0477"
+        },
+        {
+          "@language": "en",
+          "@value": "DSCF0477"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSCF0477"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8fce2c16-6821-477e-a0fc-264020819235/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Holaus Mayrhofen - Küche gr. Wohnung"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Holaus Mayrhofen - Küche gr. Wohnung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Holaus Mayrhofen - Küche gr. Wohnung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/009c2a28-e448-4c61-8486-56398f26bf94/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Holaus Mayrhofen - Küche/Sitzeck gr. Wohnung"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Holaus Mayrhofen - Küche/Sitzeck gr. Wohnung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Holaus Mayrhofen - Küche/Sitzeck gr. Wohnung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d428f8b8-0f0d-45ad-a8c5-c48aae648241/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Holaus Mayrhofen - DZ gr. Wohnung"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Holaus Mayrhofen - DZ gr. Wohnung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Holaus Mayrhofen - DZ gr. Wohnung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8453d245-82a8-451f-8864-8f364756990f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Holaus Mayrhofen - Dz2 gr. Wohnung"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Holaus Mayrhofen - Dz2 gr. Wohnung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Holaus Mayrhofen - Dz2 gr. Wohnung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c2608d7-5cc6-4430-ae00-ff2ff3ff4ec9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Holaus Mayrhofen - Zweibettz. gr. Wohnung"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Holaus Mayrhofen - Zweibettz. gr. Wohnung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Holaus Mayrhofen - Zweibettz. gr. Wohnung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb6ee416-7a00-47ed-984d-7645d96dc391/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Holaus Mayrhofen - DU gr. Wohnung"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Holaus Mayrhofen - DU gr. Wohnung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Holaus Mayrhofen - DU gr. Wohnung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/208dd41f-ec96-4ce6-b633-c56ef97b4a06/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Holaus Mayrhofen - Bad große Wohnung"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Holaus Mayrhofen - Bad große Wohnung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Holaus Mayrhofen - Bad große Wohnung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97e2ef6f-2abb-45db-b591-9db967051d23/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Holaus Mayrhofen - Küche kl. Wohnung"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Holaus Mayrhofen - Küche kl. Wohnung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Holaus Mayrhofen - Küche kl. Wohnung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2522a75a-a986-49af-9121-a5f35ea4183c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Holaus Mayrhofen - Küche/Sitzecke kl. Wohnung"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Holaus Mayrhofen - Küche/Sitzecke kl. Wohnung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Holaus Mayrhofen - Küche/Sitzecke kl. Wohnung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5f7b0fab-2cc9-4289-889e-93166dce55a7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Holaus Mayrhofen - Zimmer kl. WOhnug"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Holaus Mayrhofen - Zimmer kl. WOhnug"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Holaus Mayrhofen - Zimmer kl. WOhnug"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94949772-bb8b-49f1-992b-8d829c95251a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Holaus Mayrhofen - Zimmer2 kl. Wohnung"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Holaus Mayrhofen - Zimmer2 kl. Wohnung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Holaus Mayrhofen - Zimmer2 kl. Wohnung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/528b6880-ef00-4617-b683-e845e8c81650/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSCF0476"
+        },
+        {
+          "@language": "en",
+          "@value": "DSCF0476"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSCF0476"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/841996a4-ed2a-4ddb-8e85-43ca52ad8c10/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSCF0479"
+        },
+        {
+          "@language": "en",
+          "@value": "DSCF0479"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSCF0479"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f78a10e-7bb6-44f6-8580-0510b3427c54/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSCF0480"
+        },
+        {
+          "@language": "en",
+          "@value": "DSCF0480"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSCF0480"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.183398058936",
+    "longitude": "11.8741714954376"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Rustikales, gemütliches Appartment für 2 Pers. (ca. 26m²) mit Parkettboden. Wohnküche mit Sitzecke, 1 Doppelzimmer."
+        },
+        {
+          "@language": "en",
+          "@value": "Rustival, comfortable apartment suitable for 2 persons (approx. 26m²) with parquet flooring, 1 double room."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/1 Schlafraum/Dusche, Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/shower, bath tube,WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Erholsamen Urlaub in unserem gemüthlichen Landhaus wünscht Fam. Holaus. Ruhige, sonnige Lage, Parkplatz, Skiraum mit Skischuhwärmer."
+        },
+        {
+          "@language": "en",
+          "@value": "Relaxed holiday in our comfortable land house!\nCalm and sunny location, car park, skiing room with a ski boots warmer.\n\nFamily Holaus\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräum"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower and bath, toilet, 2 спальни"
+            }
+          ],
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

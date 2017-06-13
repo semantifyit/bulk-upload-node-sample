@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TrainStation"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Dampfzug"
+    },
+    {
+      "@language": "de",
+      "@value": "Dampfzug"
+    },
+    {
+      "@language": "ru",
+      "@value": "Dampfzug"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.169351430086",
+    "longitude": "11.8623869350342"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zillertaler Verkehrsbetriebe AG",
+    "streetAddress": "Austraße 1",
+    "addressLocality": "Jenbach",
+    "postalCode": "6200",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5244 606-0",
+    "faxNumber": "(0043) 5244 606-39",
+    "email": "office@zillertalbahn.at",
+    "url": "http://www.zillertalbahn.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "DAMPFZUG\nMit Volldampf ins Zillertal\n\nWandern mit dem Dampfzug \nZeit haben. Beschaulich und mit einem kleinen Schuss Abenteuer. Ohne Hektik und Stress. Der optimale Start in einen positiven und erlebnisreichen Tag. Ein Platz am offenen Fenster oder am offenen \"Cabrio\". Eintauchen in die faszinierende Landschaft des Zillertales.\nDer Weg ist das Ziel. Und die echte Wahrheit des Reisens liegt in der Langsamkeit. Mit uns können Sie dieses schon in Vergessenheit geratene Reisegefühl noch erleben. \n"
+    },
+    {
+      "@language": "en",
+      "@value": "Experience that unforgettable travel feeling an dlose yourslef in the Zillertals\u0027s fascinating landscape with the nostalgic steam train. You can smell the steam train air even on a taster steam train journey between Mayrhofen and Kaltenbach.\nTimetable at www.zillertalbahn.at\nSteam train prices at www.zillertalbahn.at\nBest time to visit: all year around\nGroup reservations possible starting from 10 people, special train on enquiry.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b89d23eb-1e83-4390-b300-b9ece37beec7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Zillertalbahn"
+        },
+        {
+          "@language": "de",
+          "@value": "Zillertalbahn"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zillertalbahn"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.zillertalbahn.at"
+  ]
+}

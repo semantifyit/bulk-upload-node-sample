@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "Snowboardschule SMT Mayrhofen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1646851",
+    "longitude": "11.86187"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Snowboardschule SMT Mayrhofen",
+    "streetAddress": "Hauptstraße 456",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63939",
+    "faxNumber": "(0043) 5285 63007",
+    "email": "info@snowboard-mayrhofen.at",
+    "url": "http://www.snowboard-mayrhofen.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1189320c-f92f-4162-9ccc-ecb7a735df15/99/image.jpg",
+      "caption": "logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e9e1ea7f-8685-42c4-8f76-b3c7ca23dbff/99/image.jpg",
+      "caption": "schule"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ee4b4ea-6233-4eb3-bc72-08631356c0e3/99/image.jpg",
+      "caption": "snowboard"
+    }
+  ],
+  "url": [
+    "http://www.snowboard-mayrhofen.at"
+  ]
+}

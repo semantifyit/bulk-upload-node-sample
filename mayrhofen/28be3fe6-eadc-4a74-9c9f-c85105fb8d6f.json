@@ -1,0 +1,106 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Hotel Gletscherblick"
+    },
+    {
+      "@language": "de",
+      "@value": "Hotel Gletscherblick"
+    },
+    {
+      "@language": "ru",
+      "@value": "Hotel Gletscherblick"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.198650511716",
+    "longitude": "11.8378114700317"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Gletscherblick",
+    "streetAddress": "Schwendberg 503",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3795",
+    "faxNumber": "0043 5282 3795-2 ",
+    "email": "gletscherblick.zillertal@aon.at",
+    "url": "http://www.gletscherblick-hippach.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Urlaub im Sommer und Winter inmitten der Zillertaler Bergwelt!\nDas abwechslungsreiche Sport-, Freizeit- und Kulturangebot unserer Ferienregion ermöglichen abwechslungsreichen Urlaub! Wanderwege beginnen direkt vorm Haus und Wege führen an idyllischen Almen vorbei ...\nIm Haus befinden sich eine neue Saunalandschaft, Solarium, Massageliege, Fitnessraum, Tischtennis, Wintergarten, Sonnenterrasse, Zimmer sind mit DU/WC, Fön, Balkon, SAT-TV, Radio, Telefon, Internet via Wireless LAN und einem Zimmersafe ausgestattet. Unser Haus verfügt über Einzel-, Doppelzimmer, die auch mit Zustellbett genützt werden können, auch Familienzimmer sind vorhanden. Das Erkerzimmer kann als Doppelzimmer oder Familienzimmer genützt werden, hat 32m², und herrlichen Ausblick auf die Zillertaler Bergwelt! Reichhaltiges Frühstücksbuffet und 4-gängiges Abendmenü nach Wahl. Täglich frisches Salatbuffet. Unser Gratisskibus bringt Sie direkt ins beliebte Mayrhofner Skigebiet auf 1800m Seehöhe zur Bergstation."
+    },
+    {
+      "@language": "en",
+      "@value": "Relax in our lovingly in Tyrolean style furnished house\nand let yourself from the unique panorama enchanted the upper Zillertal.\n\n\n \nOur house is in a sunny location in the Zillertal,\nwhere it is most beautiful and yet a little away from the hustle and bustle.\n\nCome to us and let yourself be pampered.\n\nWe are looking forward you as a guest in our house to welcome"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8288317d-9494-49c4-9794-1cc69f19b75e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Gasthof Gletscherblick"
+        },
+        {
+          "@language": "de",
+          "@value": "Gasthof Gletscherblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthof Gletscherblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f7d5e6e-a873-4dc7-8b1f-52d50f3debcb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "de",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d35483fb-1fb8-4145-8327-0815e748adbf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Gletscherblick"
+        },
+        {
+          "@language": "de",
+          "@value": "Gletscherblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gletscherblick"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.gletscherblick-hippach.at"
+  ]
+}

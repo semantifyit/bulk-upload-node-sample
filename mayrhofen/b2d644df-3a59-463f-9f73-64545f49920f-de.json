@@ -1,0 +1,494 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.wasserfaelle.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dB2D644DF-3A59-463F-9F73-64545F49920F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wasserfälle, Haus",
+    "streetAddress": "Dorf Haus 794",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 8115",
+    "faxNumber": "(0043)5285 8115",
+    "email": "info@wasserfaelle.at",
+    "url": "http://www.wasserfaelle.at"
+  },
+  "name": "Appartements Wasserfälle",
+  "description": [
+    "Herzlich Willkommen in unseren Ferienwohnungen/Appartements im Zillertal! Ruhig und doch zentral wohnen Sie am Ortsrand von Mayrhofen. Bushaltestelle direkt vorm Haus bzw. in der Nähe. Supermarkt in direkter Nähe. Ca. 500 m zur Penkenbahn/Ahornbahn. 18 km zum Hintertuxer Gletscher. Versperrbarer Raum für Fahrräder. W-LAN kostenlos im ganzen Haus. In unserem familiär geführten Gästehaus sind Kinder herzlich Willkommen. Tischtennis, Trampolin, Gartengrill, Wandertipps. Fragen Sie nach unseren Kinderermäßigungen. Im Sommer kostenloser Eintritt ins Erlebnisbad! Auf Wunsch Brötchenservice. Hunde auf Anfrage willkommen.",
+    "Herzlich Willkommen in unseren Ferienwohnungen/Appartements im Zillertal! Ruhig und doch zentral wohnen Sie am Ortsrand von Mayrhofen. Skibushaltestelle direkt vorm Haus. Supermarkt in direkter Nähe. Ca. 500 m zur Penkenbahn/Ahornbahn. 18 km zum Hintertuxer Gletscher. Skiraum mit elektrischem Skischuhtrockner. W-LAN kostenlos im ganzen Haus. In unserem familiär geführten Gästehaus sind Kinder herzlich Willkommen - Fragen Sie nach unseren Kinderermäßigungen. Pauschalangebote inklusive Superskipass auf Anfrage! Auf Wunsch Brötchenservice. Hunde auf Anfrage willkommen.",
+    "Check in: Winter ab 16:00 Uhr, Sommer ab 15:00 Uhr\nCheck out: Winter bis 9:00 Uhr, Sommer bis 10:00 Uhr bzw. nach Rücksprache.\nAus organisatorischen Gründen bitten wir Sie um Mitteilung Ihrer ungefähren Ankunftszeit! Vielen Dank! Ihre Gastgeber",
+    "Über die Inntalautobahn A12 bis zur Ausfahrt Zillertal und von dort noch 30 km auf der Zillertal Bundesstraße Nr. B169 bis nach Mayrhofen. Wir wünschen gute und staufreie Anfreise in die Berge!\n",
+    "Ferienwohnung, Appartements, Appartments, familienfreundlich, kinderfreundlich, Haustiere erlaubt"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "30"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aef3b024-2a6e-4629-b774-bd743ca73985/99/image.jpg",
+      "caption": "Gästehaus Wasserfälle Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f8295ed-7494-4d89-911f-71e816fbd0fa/99/image.jpg",
+      "caption": "Gästehaus Wasserfälle Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e806f4a2-09e5-44b3-909b-b5af3948f0cc/99/image.jpg",
+      "caption": "Gästehaus Wasserfälle - Wohnung Ahorn1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2f583a6-0d72-4ea2-bd31-c41b50c7f62a/99/image.jpg",
+      "caption": "Gästehaus Wasserfälle - Ahorn1 Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fef4f2de-9828-4f4a-8f38-feb49dc8eeec/99/image.jpg",
+      "caption": "Gästehaus Wasserfälle - Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/230dcf74-334a-4a97-9dce-2f35905d9a6f/99/image.jpg",
+      "caption": "Gästehaus Wasserfälle - Ahornblick Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b3d889a6-0b80-4ea7-aa53-af5b6a1119dc/99/image.jpg",
+      "caption": "Gästehaus Wasserfälle - Ahornblick Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64af8999-9c6d-4ea1-86b0-191d092e4d63/99/image.jpg",
+      "caption": "Gästehaus Wasserfälle - Ahornblick Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa0820e1-1638-4df8-9a9f-9b039d57b7fb/99/image.jpg",
+      "caption": "Gästehaus Wasserfälle - Penkenblick Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dbbee41d-570c-4b68-a6f4-d477a8c7d24f/99/image.jpg",
+      "caption": "Gästehaus Wasserfälle - Zimmer Penkenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c10871b-4f65-407c-a752-aa674958151c/99/image.jpg",
+      "caption": "Gästehaus Wasserfälle - Bad Penkenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ae3f933-0c72-4e42-a7e6-8849de01ad45/99/image.jpg",
+      "caption": "Kuh"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14d32ef2-6a64-4bc7-a8e9-b94a97b0fcc7/99/image.jpg",
+      "caption": "Biken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/36948680-0301-491a-bc34-ea46b13e251f/99/image.jpg",
+      "caption": "White Lounge Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59731924-05d9-41e6-9ead-22b9818a82a1/99/image.jpg",
+      "caption": "White Lounge chill out"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa075a1f-4b98-4200-8ba4-71365f7c26a2/99/image.jpg",
+      "caption": "Wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/973b91a3-a9df-477c-b971-260b8097a719/99/image.jpg",
+      "caption": "Snowboarden"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db4e6fbd-2db5-4e13-b1fe-f50119646506/99/image.jpg",
+      "caption": "Sommer wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/729fc0ed-d502-481c-9c26-fc4b36d9f054/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c7a2c7a-0af9-4987-9efa-98e4be84d380/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d3c9e6b7-ea24-480f-b5d6-4ff5cb813727/99/image.jpg",
+      "caption": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/99c306d5-ff02-4e66-963d-1d73454af480/99/image.jpg",
+      "caption": "Sommer_Gipfel_Panorama ("
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1586472458528",
+    "longitude": "11.8520486354828"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 2 Schlafräume",
+      "description": "In unserem Appartement Penken verfügen Sie über 2 Schlafzimmer, eine geräumige Wohnküche, Badezimmer mit kombinierter Dusche/Badewanne sowie 2 Waschbecken.\nDas WC befindet sich separat.\nZusätzlich haben Sie hier einen Balkon mit Sitzgelegenheiten.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement \"PENKEN\", 2 Schlafzimmer",
+          "description": "FeWo im 2. OG, zwei neu renovierte Schlafzimmer mit Doppelbett und Einzelbett (alle Fußende offen), Flat-Screen SAT-TV, Zugang zum Balkon. Küche komplett eingerichtet mit großem Eßtisch, Internetanschluß (LAN+WLAN), Geschirrspüler uvm. Badezimmer mit zwei Waschbecken, Badewanne mit Duschtrennwand, separate Toilette",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/58bdf6e1-f617-4d14-91e0-6dd5e00d6eeb/99/image.jpg",
+              "caption": "Badezimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/710072cf-53f1-4d49-8072-47568e616c35/99/image.jpg",
+              "caption": "Schlafzimmer mit 3 Bett und Couch"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/b7071276-e59a-4bfc-8e68-6eda06d54fd8/99/image.jpg",
+              "caption": "helle Küche mit Balkonzugang"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ba9b8047-59c6-4dbf-a67f-ef7e2809918b/99/image.jpg",
+              "caption": "Schlafzimmer mit Doppelbett (Zustellbett möglich)"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "24.25",
+          "maxPrice": "42.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "22.80",
+          "maxPrice": "38.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "21.83",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "21.14",
+          "maxPrice": "32.86",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 2 Schlafräume",
+      "description": "Das Appartement Hausererberg befindet sich im Hochparterre. Ihnen steen ein Schlafzimmer mit Doppelbett sowie ein zweites Schlafzimmer mit einem Queensize-Doppelbett (160cm Breite, 190cm Länge) zur Verfügung.\nBad/Dusche-Kombination, WC separat.\nDie Küche ist komplett ausgestattet mit vier Sitzplätzen am Fenster.\nDas Appartement verfügt über keinen Balkon bzw. keine Terrasse. Allerdings steht Ihnen unser Garten zur Mitbenutzung zur Verfügung.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement \"Hausererberg\" (Hochparterre)",
+          "description": "Appartement im Hochparterre ohne Balkon. Ruhig nach hinten Richtung Wald gelegen. Zwei Schlafzimmer, Badezimmer mit Badewanne/Duschtrennwand, Waschbecken, Föhn, Seife, Kosmetiktücher, Duschgel/Haarshampoo-Spender, Handtücher. WC separat. Küche komplett ausgestattet inkl. Geschirrspüler, Backofen usw. Esstisch mit vier Sitzplätzen am Fenster.",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "37.50",
+          "maxPrice": "37.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "In unserem Appartement Ahorn haben:\n1 Schlafzimmer mit Doppelbett mit eigener Dusche und WC. (Zustellbett möglich)\n1 Schlafzimmer mit Doppelbett. Von diesem Zimmer aus gelangen Sie in das dritte Schlafzimmer mit dem dritten Doppelbett. Diese beiden Zimmer teilen sich Dusche und WC. (Zustellbett möglich)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement \"AHORN\"",
+          "description": "Geräumiges Appartement mit 3 Schlafzimmern (davon 1 Kinderzimmer), Wohnbereich/Küche, 2 Badezimmer, großer geräumiger Balkon bzw. Terrasse nach hinten Richtung Wald",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/f81210de-79aa-4fe4-a5ff-e4042a2f8024/99/image.jpg",
+              "caption": " Ihre Küche "
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/372700d9-077b-4af7-842e-3066cd7dfaab/99/image.jpg",
+              "caption": "Bitte zu Tisch!"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/75b0e27c-d0f9-4987-a383-4a4c729ecadd/99/image.jpg",
+              "caption": "Schlafzimmer mit Dusche/WC"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/bbc6e7c9-efe5-43ce-86fe-34d2e936a25b/99/image.jpg",
+              "caption": "Dusche/WC (Föhn, Kosmetiktücher, Seife)"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "24.75",
+          "maxPrice": "42.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "23.20",
+          "maxPrice": "37.70",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "22.17",
+          "maxPrice": "34.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "21.43",
+          "maxPrice": "32.21",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "20.88",
+          "maxPrice": "30.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Zwei Schlafzimmer, Küche komplett ausgestattet, Badezimmer mit Badewanne/Duschtrennwand, zwei Waschbecken, separate Toilette, Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment \"PENKEN 1\"",
+          "description": "Ferienwohnung im 1. OG, zwei getrennte Schlafzimmer (jeweils 4 Schlafmöglichkeiten), Küche komplett ausgestattet inkl. Geschirrspüler, großer Esstisch, Flat-Screen SAT-TV, helles Badezimmer mit zwei Waschbecken, Badewanne/Duschtrennwand, Föhn, Seife, Kosmetiktücher, Handtücher, separate Toilette. Balkon rund um die Wohnung.",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "63.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "71.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "87.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "103.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "119.00",
+          "maxPrice": "245.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "129.00",
+          "maxPrice": "260.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "139.00",
+          "maxPrice": "270.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Geräumiges Appartement/Ferienwohnung im 1. Obergeschoß, ruhig nach hinten Richtung Wald mit großem Balkon bzw. Terrasse.\n2 Doppelzimmer (1 x mit Dusche/WC), 1 Zimmer mit Etagenbett, großes Badezimmer mit Dusche und Whirlwanne, extra Toilette, Küche komplett ausgestattet, extra Wohnzimmer (Möglichkeit für 7. Bett)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment \"AHORN 1\"",
+          "description": "Großzügiges Appartement im 1. Obergeschoss (ca. 100 m²), großer Balkon bzw. Terrasse, ruhig nach hinten Richtung Wald; 3 Schlafzimmer (1 x mit Etagenbett), davon 1 x mit Du/WC im Zimmer; großes Badezimmer mit Whirlwanne und extra Dusche, separates WC, Küche mit Esstisch - komplett ausgestattet, extra Wohnzimmer mit Sitzecke, Sofa und Platz für Zustellbett.",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "71.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "87.00",
+          "maxPrice": "174.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "97.00",
+          "maxPrice": "194.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "107.00",
+          "maxPrice": "214.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "117.00",
+          "maxPrice": "230.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

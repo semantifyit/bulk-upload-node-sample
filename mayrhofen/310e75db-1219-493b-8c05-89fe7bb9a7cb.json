@@ -1,0 +1,501 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d310E75DB-1219-493B-8C05-89FE7BB9A7CB",
+    "http://www.brunnhof-zillertal.at/de/"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brunnhof",
+    "streetAddress": "Laimach 118",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2372",
+    "faxNumber": "0043 5282 2372",
+    "email": "brunnhof@aon.at",
+    "url": "http://www.brunnhof-zillertal.at/de/"
+  },
+  "name": "Brunnhof",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich willkommen im Brunnhof\nDer Brunnhof befindet sich in Laimach in der Ferienregion Mayrhofen / Hippach im hinteren Zillertal.\n3 schöne, ruhige und gepflegte Appartements warten darauf von Ihnen bezogen zu werden. Die Ferienwohnungen sind für 2 bis 4 bzw. 4 bis 6 Personen ausgelegt und verfügen über Schlafzimmer, Wohnschlafzimmer und Küche (teilweise Wohnküche), Dusche, WC und Balkon.\nBettwäsche, Handtücher, Geschirr, Wasserkocher, Ceran-Kochfeld, Kühlschrank, Geschirrspüler, Universalbackofen, Mikrowelle, W-Lan und TV sind vorhanden, ebenso ist Brötchenservice möglich.\nDie Region Mayrhofen / Hippach ist bekannt für unvergessliche Erlebnisse beim Skiurlaub im Zillertal oder im Sommer unbeschreibliche Ausblicke über die Berggipfel der Tiroler Alpen während eines Wanderurlaubs im Zillertal.\nDie Schibushaltestelle zu den Schigebieten Horberg/Penken und Zillertalarena befindet sich nur 50 Meter vom Haus entfernt.\nWir freuen uns auf Sie!\nIhre Familie Hundsbichler\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Brötchenservice, Kinderermäßigung auf Anfrage"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: 14.00 Uhr - Check out:10.00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Welcome at the Brunnhof\nThe Brunnhof is located in Laimach in the holiday region of Mayrhofen / Hippach in the Zillertal Valley.\n3 beautiful, quiet and well-kept apartments are waiting for you. The apartments are designed for 2 to 4 or 4 to 6 people and are separated into bedroom, living room and kitchen (partly kitchen), shower, toilet and balcony.\nSheets, towels, dishes, electric kettle, ceramic hob, fridge, dishwasher, stove, microwave, Wireless LAN and TV are available. Bread delivery service is possible.\nThe Mayrhofen / Hippach region is known for memorable experiences for skiing holidays in the Zillertal Valley and astonishing panoramic views across the mountain peaks of the Tyrolean Alps during hiking holiday in summer.\nThe ski bus stop to the ski areas Horberg / Penken and Zillertal Arena is located only 50 meters from the house.\nWe look forward to meeting you!\nYours family Hundsbichler\n"
+    },
+    {
+      "@language": "en",
+      "@value": "bread service, reduction for children on inquiry.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Check-in: 14:00\nCheck-out: 10:00am"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/725c1837-83c7-498b-b74c-2f6085184a86/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Brunnhof Hippach - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Brunnhof Hippach - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Brunnhof Hippach - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1492f79-d78e-4071-9da2-9747cb766523/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahorn White Lounge"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahorn White Lounge"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahorn White Lounge"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/01752ebc-d298-4c4a-8fb1-42ba244d06b4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kuh auf der Alm"
+        },
+        {
+          "@language": "en",
+          "@value": "Kuh auf der Alm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kuh auf der Alm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5631a2cb-2dff-4acd-a65e-578a92a02494/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "bike mayrhofen"
+        },
+        {
+          "@language": "en",
+          "@value": "bike mayrhofen"
+        },
+        {
+          "@language": "ru",
+          "@value": "bike mayrhofen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2a9ea8cb-93f5-43b7-9d2e-6bcc7b1a1674/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "skifahrer-in-action"
+        },
+        {
+          "@language": "en",
+          "@value": "skifahrer-in-action"
+        },
+        {
+          "@language": "ru",
+          "@value": "skifahrer-in-action"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/44bf60bf-c71a-45fa-8dca-dd51df1d99f9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer wandern"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer wandern"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer wandern"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db05680a-e710-4959-be37-d51d244915fb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bauer Landwirt"
+        },
+        {
+          "@language": "en",
+          "@value": "Bauer Landwirt"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bauer Landwirt"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cbf2e1f5-521b-4557-8d0f-9d35647b4695/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d04f03b8-14ea-43a6-a24c-c7419642622d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "en",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wanderung Olpererhütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02d6d67a-9716-4905-b31f-c9e8288ab547/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer Gipfel Panorama"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer Gipfel Panorama"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer Gipfel Panorama"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/72ebe13a-3091-48c2-94d6-e8295f178023/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter Landschaft"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter Landschaft"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter Landschaft"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2170467761764",
+    "longitude": "11.86632335186"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung mit Schlafzimmer, Wohnschlafzimmer, Küche, Dusche, WC und Balkon für 2-4 Personen\nBettwäsche, Handtücher, Elektroherd mit Backrohr, Geschirr, Wasserkocher, Kühlschrank, Geschirrspüler, W-Lan und TV sind vorhanden, ebenso ist Brötchenservice möglich.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment Blue\nApartment with bedroom, living room, kitchen, shower, toilet and balcony for 2-4 persons\nSheets, towels, electric stove with oven, dishes, electric kettle, refrigerator, dishwasher, Wi-Fi and TV are available, as bread delivery service is possible.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement Blau"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 1 bed room"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "68.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "88.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Appartement Rot\nFerienwohnung mit Schlafzimmer, Wohnküche, nebenan liegenden Schlafzimmer, Dusche und WC und Balkon für 2- 4 Personen.\nBettwäsche, Handtücher, Elektroherd mit Backrohr, Geschirr, Wasserkocher, Kühlschrank, Geschirrspüler, W-Lan und TV sind vorhanden, ebenso ist Brötchenservice möglich.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment Red\nApartment with bedroom, kitchen, next door bedroom, shower, toilet and balcony for 2 to 4 people.\nSheets, towels, electric stove with oven, dishes, electric kettle, refrigerator, dishwasher, Wi-Fi and TV are available, bread delivery service is possible.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement Rot"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "66.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "86.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Appartement Süd\nFerienwohnung mit 2 Schlafzimmern mit Dusche und WC, Wohnküche und Balkon für 4-6 Personen.\nBettwäsche, Handtücher, Geschirr, Wasserkocher, Ceran-Kochfeld, Kühlschrank, Geschirrspüler, Universalbackofen, Mikrowelle, W-Lan und TV sind vorhanden, ebenso ist Brötchenservice möglich\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment South\n2 room apartment with shower and toilet, kitchen and balcony for 4-6 persons.\nLinens, towels, dishes, electric kettle, ceramic hob, fridge, dishwasher, stove with oven, microwave, Wi-Fi and TV are available, bread delivery service is possible.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement Süd"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "52.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "92.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

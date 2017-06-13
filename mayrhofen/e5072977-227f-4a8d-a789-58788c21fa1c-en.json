@@ -1,0 +1,448 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.chalet-tirolerland.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dE5072977-227F-4A8D-A789-58788C21FA1C"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tirolerland, Chalets",
+    "streetAddress": "Tuxer Straße 798 E/F/G",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 4055026",
+    "email": "info@chalet-tirolerland.at",
+    "url": "http://www.chalet-tirolerland.at"
+  },
+  "name": "Chalets Tirolerland",
+  "description": [
+    "Our 3 vacation houses are fitted out comfortably and generously and they are located on Mayrhofen\u0027s most southern place. \nThe ski bus stop, which brings you to the Hintertuxer Gletscher and to the Mayrhofner Bergbahnen (Penkenbahn- and Ahornbahn) is in front of the front door in winter.\nWithin only few walking-minutes you are in the center of Mayrhofen in Zillertal\nA supermarket is located in an immediate proximity of the Chalets! \nThe Chalets are an optimal starting point for numerous walks in summer, explore the marvelous mountains of the Zillertal.\n",
+    "The prices are excl. tax and cleaning fee!\nIf you want to book our chalets in winter times, please contact www.sunweb.de or www.sunweb.nl \n",
+    "Travelling by Car\nVia the Inntalautobahn A12 motorway until the exit for Zillertal, from there take the B169 Zillertal Road for the next 30 km to Mayrhofen\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/628abafe-76d0-41b8-8e1b-2fce1f17b4c9/99/image.jpg",
+      "caption": "Chalets Tirolerland Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f78ffa7-9dfc-4df3-9bcf-110e36ea3658/99/image.jpg",
+      "caption": "Chalets Tirolerland Mayrhofen - Sommer 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d6e5aa06-911f-4ab7-9a9e-3b4d1f68e89a/99/image.jpg",
+      "caption": "Chalets Tirolerland - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b1c65b4-b706-461e-9f55-88c0a24b1b0d/99/image.jpg",
+      "caption": "Chalets Tirolerland - Winter 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3de6c54a-b037-4127-b060-c12cc3e3efba/99/image.jpg",
+      "caption": "Chalets Tirolerland - Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56dded56-8e4e-413c-a7ee-2511ca3e19f1/99/image.jpg",
+      "caption": "Chalet Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1afd51d2-6210-45f7-bb6a-b2c5113d34c3/99/image.jpg",
+      "caption": "Chalet Ahorn - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3375136-4aeb-4146-b07c-dd91e08dec4c/99/image.jpg",
+      "caption": "Chalet Ahorn - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e5b0925-8de7-4372-9074-5b5e1a01b1c8/99/image.jpg",
+      "caption": "Chalet Mayrhofen - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fccca2d0-7bbf-4b0d-bd35-94c051674a31/99/image.jpg",
+      "caption": "Chalet Mayrhofen - Wohnbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f431199-8a8d-430e-8b29-eef753f4c159/99/image.jpg",
+      "caption": "Chalet Mayrhofen - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ce9ab049-66a2-4c45-8c99-e3ab9d7cf007/99/image.jpg",
+      "caption": "Chalet Mayrhofen - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0891d038-e275-4c10-bf95-02849f18ff7c/99/image.jpg",
+      "caption": "Chalet Penken - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e5100f13-2a0c-42fc-9fc5-152f38f04331/99/image.jpg",
+      "caption": "Chalet Penken - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/66f5bfee-f01b-4ead-9461-8b239d0b334b/99/image.jpg",
+      "caption": "Chalet Penken - Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ff653ca-a08b-4fba-aed4-b5ca8e519f1d/99/image.jpg",
+      "caption": "Chalet Penken - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b31b3068-e8b5-4d81-9a0a-0aeec5612764/99/image.jpg",
+      "caption": "Chalet Penken - Bad2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6bb4bd1-6243-4c60-9759-5e92061d7d59/99/image.jpg",
+      "caption": "Wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ce67efc-d111-476c-bea4-0fc64d3386b1/99/image.jpg",
+      "caption": "Klettersteig"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7e94fb06-b426-4834-8256-efcb6bf270a8/99/image.jpg",
+      "caption": "Radfahren"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f86c10f-0fee-4994-b035-b72ec284da80/99/image.jpg",
+      "caption": "Rodeln"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/932208aa-3af0-48f7-8f1d-4777d4e363a4/99/image.jpg",
+      "caption": "Funpark"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1592746374383",
+    "longitude": "11.8505519628525"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Holiday home, shower and bath, toilet, 4 or more bed rooms",
+      "description": "A beautiful, spacious kitchen equipped with automatic dishwasher, electric cooker with baking pipe, microwave, toaster, coffee machine, big refrigerator with freezing compartment etc. It is located in the first floor as well as seat corner embellishes one with cable TV, a simple and a comfortable couch for relaxing! \n3 double bedrooms fitted out tastefully are located in the 1st floor of our Chalets  \nA double bedroom (also suitable for wheelchairs) is located as well in the first floor and a beautiful bathroom\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "hol. house/4 + more bedrooms/shower,bath",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Holiday home, shower and bath, toilet, 4 or more bed rooms",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "110.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "132.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "154.00",
+          "maxPrice": "224.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "174.00",
+          "maxPrice": "256.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "180.00",
+          "maxPrice": "288.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "200.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Holiday home, shower and bath, toilet, 4 or more bed rooms",
+      "description": "A beautiful, spacious kitchen equipped with automatic dishwasher, electric cooker with baking pipe, microwave, toaster, coffee machine, big refrigerator with freezing compartment etc. It is located in the first floor as well as seat corner embellishes one with cable TV, a simple and a comfortable couch for relaxing! \n3 double bedrooms fitted out tastefully are located in the 1st floor of our Chalets  \nA double bedroom (also suitable for wheelchairs) is located as well in the first floor and a beautiful bathroom\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "hol. house/4 + more bedrooms/shower,bath",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Holiday home, shower and bath, toilet, 4 or more bed rooms",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "140.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "160.00",
+          "maxPrice": "240.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "180.00",
+          "maxPrice": "270.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "200.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Holiday home, shower and bath, toilet, 4 or more bed rooms",
+      "description": "A beautiful, spacious kitchen equipped with automatic dishwasher, electric cooker with baking pipe, microwave, toaster, coffee machine, big refrigerator with freezing compartment etc. It is located in the first floor as well as seat corner embellishes one with cable TV, a simple and a comfortable couch for relaxing! \n3 double bedrooms fitted out tastefully are located in the 1st floor of our Chalets  \nA double bedroom (also suitable for wheelchairs) is located as well in the first floor and a beautiful bathroom\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "hol. house/4 + more bedrooms/shower,bath",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Holiday home, shower and bath, toilet, 4 or more bed rooms",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "140.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "160.00",
+          "maxPrice": "240.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "180.00",
+          "maxPrice": "270.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "200.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

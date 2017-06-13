@@ -1,0 +1,225 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Oberkumbichl 885",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2333 992",
+    "email": "sonjaglaser@gmx.at"
+  },
+  "name": "Das Zauberhaft",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a2024a28-61be-4cb0-b1a2-962a6282b11e/99/image.jpg",
+      "caption": "Das Zauberhaft im Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/66c3ff1a-5cb2-42fc-a4be-26a0ae89b193/99/image.jpg",
+      "caption": "Das Zauberhaft im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc14bb70-e663-44f0-96ee-5f172145c52a/99/image.jpg",
+      "caption": "Lage am Oberkumbichl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59c2c674-d002-4ec2-bc05-a7415c18db98/99/image.jpg",
+      "caption": "Aussicht auf Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8eebaa09-486e-409e-9504-343b447c3a8f/99/image.jpg",
+      "caption": "Zubau mit Appartements"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/710ce48f-90d4-4d26-840e-6021b276e095/99/image.jpg",
+      "caption": "Appartement mit Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e2616a0b-8e74-4671-aeed-8dcadb5a67f2/99/image.jpg",
+      "caption": "Im Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56f4fe4a-2bb9-4132-8291-c2b72503a192/99/image.jpg",
+      "caption": "Kochen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c107b8e3-cd0c-4eff-a523-eab46f62fe4e/99/image.jpg",
+      "caption": "Kochen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4df3bdaf-5ac7-4d42-ab66-af8f53b3ef98/99/image.jpg",
+      "caption": "Frühjahr/Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c790eb24-1e87-4a26-9178-f110a710fa3f/99/image.jpg",
+      "caption": "Essen \u0026 Trinken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab99f52a-b11f-4a11-afe6-2f50dd672f07/99/image.jpg",
+      "caption": "Entspannen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2815889e-acdb-443e-a474-29827e8c4fb0/99/image.jpg",
+      "caption": "Frühjahr/Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a5b8cd75-c69f-4506-83de-ed7c160a9ab5/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/15796a9d-770e-4aed-a94a-eabbb4de6024/99/image.jpg",
+      "caption": "Genießen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/07f37b52-f5d8-4cdd-8a7e-e2d7d69c942d/99/image.jpg",
+      "caption": "Genießen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/41764e30-3943-460b-b370-f632d02ad6af/99/image.jpg",
+      "caption": "Schlafen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/914e7390-8ecb-44e9-9aa7-48474bf8e635/99/image.jpg",
+      "caption": "Schlafen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/321532bf-045a-4ea4-8f80-4bf082d5f2db/99/image.jpg",
+      "caption": "Schlafen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b56e50a-b2bf-41fd-8d67-fef3c4352d11/99/image.jpg",
+      "caption": "Schlafen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8621256c-f425-42ba-b8e9-02d4af1fb7d3/99/image.jpg",
+      "caption": "Aussicht zur Ahornbahn u. Abfahrt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf70b725-1183-47ca-af20-3c5cf244c5fe/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1570769626554",
+    "longitude": "11.8662188447746"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "111.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "148.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "185.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "111.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

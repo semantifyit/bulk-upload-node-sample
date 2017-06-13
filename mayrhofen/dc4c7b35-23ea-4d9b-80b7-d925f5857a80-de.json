@@ -1,0 +1,127 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.zillertal-ferienhaeuser.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dDC4C7B35-23EA-4D9B-80B7-D925F5857A80"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Tuxerstr. 753b",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62680",
+    "email": "info@ferienhotel-aussicht.at",
+    "url": "http://www.zillertal-ferienhaeuser.at"
+  },
+  "name": "Appartement Rebenzaun",
+  "description": "Unser Appartement \"Rebenzaun\" befindet sich mitten im aktivsten Tal der Welt. Ein optimales Wander- und Erholungsgebiet erwartet Sie im Sommer - mit vielen Schutzhütten und Aktivitäten wie Klettern, Mountainbike-Touren, Paragleiten, Rafting, Kinderspielplätze usw.\n\nWeiters besteht im Sommer die Möglichkeit mit der Z-Card, die im Winter der Zillertaler Super-Skipass ist, verschiedene Lifte, Busse und Bäder mit einer einzigen Karte zu besuchen.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2e50af38-f72a-4511-9e29-baa4c818f464/99/image.jpg",
+      "caption": "App Rebenzaun Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9585513b-cc6e-4590-b654-734327fd1426/99/image.jpg",
+      "caption": "App Rebenzaun - Küche-Essbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e360f7f2-8c54-4626-9db2-40ba9fff8c6e/99/image.jpg",
+      "caption": "App Rebenzaun - Schlafzimmer II"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13bc9571-6957-416d-b2bc-f425b3714094/99/image.jpg",
+      "caption": "App Rebenzaun - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b3a8107c-b479-4ff3-a6da-ad3ae8d68e33/99/image.jpg",
+      "caption": "App Rebenzaun - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b7bf1d28-1ffb-4e66-9805-469abd74ae97/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/788159c4-f499-46ee-8f58-499c7979bd13/99/image.jpg",
+      "caption": "Schneeschuhwandern © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/598caca5-9ced-4474-9037-4574bace128c/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1bc6c58d-53fe-4758-b391-8239b79a8175/99/image.jpg",
+      "caption": "Wandern am Stausee © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/913b3f84-3faf-4764-afa3-25e16c14afc8/99/image.jpg",
+      "caption": "Skifahren © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9b8d26b-e612-4a73-8799-f2cddeff5bd5/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca89b1fb-7dcc-4ae5-bb21-03f42bc511a2/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98da0f0d-e74d-4eed-9969-3d42ae14a07e/99/image.jpg",
+      "caption": "Winter am Berg © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1aafc203-8062-4b00-a0b5-2837cf2c5f8b/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1594176",
+    "longitude": "11.8525063"
+  },
+  "paymentAccepted": [
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

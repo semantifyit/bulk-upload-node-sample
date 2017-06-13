@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "DanceEvent"
+  ],
+  "name": "Forest Festival with Mayrhofen Voluntary Fire Brigade",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Freiwillige Feuerwehr Mayrhofen",
+    "employee": {
+      "@type": "Person",
+      "familyName": " "
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Edenlehen 678",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 8234"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Tourismusverband Mayrhofen-Hippach",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstrasse 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6760",
+      "faxNumber": "+43 5285 6760-33",
+      "email": "info@mayrhofen.at",
+      "url": "http://www.mayrhofen.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0490e293-a2aa-48a3-b6d1-8489876b1d3a/99/image.jpg",
+      "caption": "Waldfest der Freiwilligen Feuerwehr Mayrhofen"
+    }
+  ],
+  "startDate": "2017-08-06T11:00:00",
+  "endDate": "2017-08-06"
+}

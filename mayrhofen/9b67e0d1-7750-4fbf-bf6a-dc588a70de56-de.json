@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Paintball - Das Spiel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.100905",
+    "longitude": "11.8114224999999"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Das Spiel ",
+    "streetAddress": "Steinbockhaus 38 ",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "+43 664 2144207",
+    "email": "info@dasspiel.com",
+    "url": "http://www.dasspiel.com"
+  },
+  "description": "Das Spiel  ist eine einzigartige, körperliche \u0026 geistige Erfahrung und du benötigst die Fähigkeiten von Sherlock Holmes ebenso wie die von Rambo. Lass deiner Fantasie freien lauf. Begib dich in die Welt von strategischen Gefechten und besiege deine Gegner durch ausgeklügelte Pläne.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8d14267d-cc70-4508-95f6-801e3737179c/99/image.jpg",
+      "caption": "The Game"
+    }
+  ],
+  "url": [
+    "http://www.dasspiel.com"
+  ]
+}

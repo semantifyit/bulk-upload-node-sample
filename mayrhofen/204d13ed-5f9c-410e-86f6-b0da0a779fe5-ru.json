@@ -1,0 +1,149 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.tiscover.at/ferienwohnung-summerer",
+    "http://maps.mayrhofen.at/?foreignResource\u003d204D13ED-5F9C-410E-86F6-B0DA0A779FE5"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Zillerlände 496",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64363",
+    "faxNumber": "0043 5285 64363",
+    "email": "p.summerer@aon.at"
+  },
+  "name": "Summerer Peter",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e086651c-1513-4136-a09d-29b9f85a6780/99/image.jpg",
+      "caption": "Peter Summerer Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b268b238-c966-493c-a08c-3f7d912710b8/99/image.jpg",
+      "caption": "Peter Summerer Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77a27369-2cb6-4552-a9d4-1c63c57278e7/99/image.jpg",
+      "caption": "Peter Summerer - Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e1605c21-85f2-40cc-91b7-ba4880e41977/99/image.jpg",
+      "caption": "Peter Summerer - Zimmer Grünbergblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/72d5c074-3362-48d9-996f-9e93e3423c7c/99/image.jpg",
+      "caption": "Peter Summerer - Zimmer Penkenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5947439-e7db-429f-b486-3ef37570b2d7/99/image.jpg",
+      "caption": "Peter Summerer - Küche mit Esstisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96ad4129-461a-4120-9bf8-143c29c5f0af/99/image.jpg",
+      "caption": "Peter Summerer - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84ac4a8d-b724-471f-8138-b312421aa012/99/image.jpg",
+      "caption": "Alpenrosen auf dem Weg zur Edelhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c88fef20-8b23-4eb9-b338-b3e4e34d8ae9/99/image.jpg",
+      "caption": "Ahornspitze"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/265e9945-1e7d-48de-9a96-6de4974c7c0c/99/image.jpg",
+      "caption": "Wasserfall auf dem Weg zum Kolmhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca413472-23cf-4bc4-a39f-1e6969ac1d81/99/image.jpg",
+      "caption": "Sommeridylle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ebb493c-a38a-4274-8a35-d990b2585e91/99/image.jpg",
+      "caption": "Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/acc542f2-c725-40bb-876a-f906ff4ad2e1/99/image.jpg",
+      "caption": "Grünbergblick Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9cd89a99-3683-4165-b7da-4fccf4f52d6c/99/image.jpg",
+      "caption": "Peter Summerer - Grundriss"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1604528004553",
+    "longitude": "11.8637377023697"
+  },
+  "paymentAccepted": [
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ и ванна, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ и ванна, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "120.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "120.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "120.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

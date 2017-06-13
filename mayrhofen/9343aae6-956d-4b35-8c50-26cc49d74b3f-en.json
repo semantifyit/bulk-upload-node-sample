@@ -1,0 +1,98 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://theresia-eberharter.urlauburlaub.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d9343AAE6-956D-4B35-8C50-26CC49D74B3F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Eberharter",
+    "streetAddress": "Bichl 653",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "email": "theresiaeberharter@hotmail.com",
+    "url": "http://www.ferienwohnungeberharter.at"
+  },
+  "name": "Eberharter Theresia",
+  "description": [
+    "This text please under welcomes:\n\nThe house is in the quiet sunniest location\nin Ramsau -- Bichl\nin the vacation region Hippach and surroundings.\n\nYou can go directly from the house to the sunbathing Alpine pasture, Koatahorn Alpine pasture, Brindlingalm Alpine pasture, inn Steinerkogel etc. in summer.\n\nThe experience swimming pool in Hippach is approx. 3 km from the house away.\n\nWeiters is a minigolf course, tennis courts, Ziller promenade, Skating train and much mountain-bike routes in the next proximity.\n\nMany guest restaurants with a knownly good kitchen are surroundings nearby.\nVacation dwelling\nThe vacation dwelling has a garden and is for 1 -3 persons\n 1 double room\nFrom pulling couch in the living room\nThe bedlinen as well as the complete kitchen facilities inclusive microwave. \n SAT TV plant and W local area network on enquiry.",
+    "Check in 15.00 Uhr - Check out 11.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dcc05d94-66ee-4642-9cf7-c6ef0bc0cb4f/99/image.jpg",
+      "caption": "Eberharter Theresia Haus aussen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/220438cb-69a6-406c-99d3-c95dd8e268ac/99/image.jpg",
+      "caption": "Eberharter Theresia Terrasse Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ba97cec5-7781-4881-ae03-ab51c6ea1a6a/99/image.jpg",
+      "caption": "Theresia_eberharter_Bichl_653_Ramsau_Haus_aussen_1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1967770000982",
+    "longitude": "11.8805712461472"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 1 bed room",
+      "description": "cosy appartement with 2 bedrooms, livingroom, kitchen, bathroom, WC, shower, big lounge, balcony, Sat-TV, seperate WC, parquet floor in each room, \nprice for more than 2 people on request",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 1 bed room",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Service"
+  ],
+  "name": "Autobedarf Wartelsteiner",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2076453620862",
+    "longitude": "11.8719291687012"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 295",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2955",
+    "faxNumber": "0043 5282 2880-20",
+    "email": "office@wartelsteiner.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14a0bf76-7488-498e-b4c6-87f70e3e5961/99/image.jpg",
+      "caption": "Wartelsteiner"
+    }
+  ]
+}

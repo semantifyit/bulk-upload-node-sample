@@ -1,0 +1,74 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d746B36D4-0A82-4F16-81F7-C009D969BD0D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Neuner, Haus",
+    "streetAddress": "Schweinberg 31",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63310",
+    "faxNumber": "0043 5285 63310",
+    "email": "neuner.sabine@aon.at"
+  },
+  "name": "Haus Neuner",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e854e1de-860e-4a5e-bab6-ba0378633d3e/99/image.jpg",
+      "caption": "Haus Neuner Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bdb62c8f-f2a4-433e-8639-8e53889c2d3e/99/image.jpg",
+      "caption": "Haus Neuner Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e87728a3-94d5-4a96-9656-61a5cfb85ad1/99/image.jpg",
+      "caption": "Haus Neuner Mayrhofen - Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd335b5e-bcae-4a4a-bdda-67bc62bb4749/99/image.jpg",
+      "caption": "Haus Neuner Mayrhofen - Frühstücksraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1885276592609",
+    "longitude": "11.8737423419952"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, горячая/холодная вода",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, горячая/холодная вода",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Skiverleih Startschuss Zillertal"
+    },
+    {
+      "@language": "de",
+      "@value": "Skiverleih Startschuss Zillertal"
+    },
+    {
+      "@language": "ru",
+      "@value": "Skiverleih Startschuss Zillertal"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1907927",
+    "longitude": "11.8588534"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kohlstatt 260",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63696",
+    "email": "info@startschuss-zillertal.at",
+    "url": "http://www.startschuss-zillertal.at/"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Für Ihren Ski Urlaub in Mayrhofen-Hippach erhalten Sie in unserem Skiverleih die passende Skiausrüstung für Erwachsene und Kinder damit Sie beim Ski fahren so richtig viel Spass haben.\nFalls Ihre eigenen Ski oder Ihr Snowboard ein Service brauchen oder Sie sich einfach über ein Skiservice beraten lassen wollen – kommen Sie einfach in unseren Skiverleih. \n\nneu bei uns im Shop an der Horbergbahn\n\n·\tLanglaufausrüstung\n·\tLVS Geräte\n·\tLawinenrucksäcke\n·\tTourenskiausrüstung (Ski, Schuh, Fell)\n\n\n\n\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9d643072-f070-4703-b284-40d4f5ac7347/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f7a393ea-ec3d-4e4a-85e5-35eda8bdaf39/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Startschuss"
+        },
+        {
+          "@language": "de",
+          "@value": "Startschuss"
+        },
+        {
+          "@language": "ru",
+          "@value": "Startschuss"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3cfd0ee0-34cf-4cf0-872c-01aaf9161f97/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Foto"
+        },
+        {
+          "@language": "de",
+          "@value": "Foto"
+        },
+        {
+          "@language": "ru",
+          "@value": "Foto"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

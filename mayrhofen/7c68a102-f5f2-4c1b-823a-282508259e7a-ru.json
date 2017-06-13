@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gasthof Leitenhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0905787286205",
+    "longitude": "11.7910659313202"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dornauberg 57",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 676 6447290",
+    "faxNumber": "0043 5286 5202",
+    "email": "leitenhof.57@gmail.com",
+    "url": "http://members.aon.at/jkroell2"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/820717f7-ea1d-40b7-9a53-552d3b16c7dd/99/image.jpg",
+      "caption": "Leitenhof"
+    }
+  ],
+  "url": [
+    "http://www.feriengut.at"
+  ]
+}

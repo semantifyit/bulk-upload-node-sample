@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Bergrestaurant Schlittenstadl 1350m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.208136557144",
+    "longitude": "11.8981411525924"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sonnalm",
+    "streetAddress": "Bichl 260",
+    "addressLocality": "Hainzenberg",
+    "postalCode": "6278",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3545",
+    "email": "info@rodelverleih-zillertal.at",
+    "url": "http://www.schlittenstadl.at"
+  },
+  "description": "\n\nSummer \nclosed \nno overnight stay possible ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/182ba1db-ea65-48b8-ac48-bded96089ce8/99/image.jpg",
+      "caption": "Schlittenstadl"
+    }
+  ],
+  "url": [
+    "http://www.schlittenstadl.at"
+  ]
+}

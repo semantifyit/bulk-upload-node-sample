@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Florist"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Gärtnerei Kröll"
+    },
+    {
+      "@language": "de",
+      "@value": "Gärtnerei Kröll"
+    },
+    {
+      "@language": "ru",
+      "@value": "Gärtnerei Kröll"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1674282",
+    "longitude": "11.8589675"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gärtnerei Kröll",
+    "streetAddress": "Dornau 600b",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64917",
+    "email": "office@gartengestaltung-kroell.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98cf9022-0ae2-4319-90a1-886e3f688459/99/image.png",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Gärtnerei Kröll"
+        },
+        {
+          "@language": "de",
+          "@value": "Gärtnerei Kröll"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gärtnerei Kröll"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": [
+    {
+      "@language": "de",
+      "@value": "Bergmesse Ahorn"
+    },
+    {
+      "@language": "en",
+      "@value": "Mountain Mass on Mount Ahorn "
+    },
+    {
+      "@language": "ru",
+      "@value": "Mountain Mass on Mount Ahorn "
+    }
+  ],
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Ahornbahn",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ahornstraße 853",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 62277",
+      "faxNumber": "+43 5285 62277-161",
+      "email": "info@mayrhofner-bergbahnen.com",
+      "url": "http://www.mayrhofner-bergbahnen.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Ahornbahn",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ahornstraße 853",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 62277",
+      "faxNumber": "+43 5285 62277-161",
+      "email": "info@mayrhofner-bergbahnen.com",
+      "url": "http://www.mayrhofner-bergbahnen.com"
+    }
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Traditionelle Bergmesse am Ahorn mit musikalischer Umrahmung durch den Männergesangverein Mayrhofen\n\nDie Schützenkompanie Mayrhofen veranstaltet gemeinsam mit dem Männergesangverein Mayrhofen und dem Alpenverein Sektion Zillertal die traditionelle Bergmesse am Ahorn. \n\nDie Bergmesse ist ein einzigartiges Erlebnis inmitten der herrlichen Gebirgslandschaft - musikalische Umrahmung des Gottesdienstes durch den Männergesangverein Mayrhofen.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Traditional mountain mass on the Ahorn with music by Mayrhofen Men\u0027s Choir\n\nMayrhofen Home Guard have organised traditional mountain mass on the Ahorn, in conjunction with Mayrhofen Men\u0027s Choir and the Alpine Association, Section Zillertal. \n\nMountain mass is an extraordinary experience in the midst of beautiful alpine landscapes - music accompaniment is provided by Mayrhofen Men\u0027s Choir.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7e98265-65dc-4939-89cd-2f8c0dec4b6e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bergmesse Ahorn"
+        },
+        {
+          "@language": "en",
+          "@value": "Bergmesse Ahorn"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bergmesse Ahorn"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.mayrhofner-bergbahnen.com/de/info-und-service/events"
+  ],
+  "startDate": "2017-08-27T11:30:00",
+  "endDate": "2017-08-27"
+}

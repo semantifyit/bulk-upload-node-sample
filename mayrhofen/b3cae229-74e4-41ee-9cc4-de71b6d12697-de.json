@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Hotel Gasthaus Garberwirt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2047225674479",
+    "longitude": "11.8649607896805"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Garberwirt, Hotel",
+    "streetAddress": "Hippach-Dorf 21",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3632",
+    "faxNumber": "0043 5282 3632 333",
+    "email": "info@garberwirt.com",
+    "url": "http://www.garberwirt.com"
+  },
+  "description": "Unser Haus ist ein alteingesessener Hotel in Hippach im wunderschönen Zillertal. Im Speisesaal sowie im Weinstüberl verwöhnen wir Sie mit Spezialitäten der heimischen und internationalen Küche sowie mit einem guten Tropfen aus dem Keller. Und am Abend noch ein lustiges Beisammensein an der Bar, am offnen Kamin oder Sie entspannen sich in der Sauna. Wir würden uns freuen Sie auch einmal bei uns begrüßen zu dürfen. Ihre Familie Prückl",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/883850a6-f4ee-4d22-8cf6-d93af04298a4/99/image.jpg",
+      "caption": "Garberwirt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f68112a0-34b8-49df-9e20-26a1f8033a1b/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/522d8a54-b13b-43d8-aa5c-82aeeb1871e9/99/image.jpg",
+      "caption": "Zimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/502eabbf-5185-44d3-aeb7-95749b11da91/99/image.jpg",
+      "caption": "Speiseraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/75f77c0a-2874-4480-8c91-fe79086e0b76/99/image.jpg",
+      "caption": "Garberwirt 2"
+    }
+  ],
+  "url": [
+    "http://www.garberwirt.com"
+  ]
+}

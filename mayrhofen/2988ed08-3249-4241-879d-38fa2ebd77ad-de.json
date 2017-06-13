@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TouristInformationCenter",
+    "LocalBusiness"
+  ],
+  "name": "alpine guiding Florian Wechselberger",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1681071",
+    "longitude": "11.8618122"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "alpine guiding Florian Wechselberger",
+    "streetAddress": "Stockach 239",
+    "addressLocality": "Schwendau ",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 350 86 60",
+    "email": "info@alpine-guiding.at",
+    "url": "http://www.alpine-guiding.at"
+  },
+  "description": "ski plus \nfreeride \nskitour \nice climbing \nalpine emergency training \navalanche workshop\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a58cf634-efef-49cc-8f32-49afac0470d1/99/image.jpg",
+      "caption": "Alpine Guiding "
+    }
+  ],
+  "url": [
+    "http://www.alpine-guiding.at"
+  ]
+}

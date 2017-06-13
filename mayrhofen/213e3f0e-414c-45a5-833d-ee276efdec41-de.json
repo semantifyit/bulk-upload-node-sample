@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness",
+    "PublicSwimmingPool"
+  ],
+  "name": "Sommerwelt Hippach",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.202383",
+    "longitude": "11.868149"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sommerwelt Hippach ",
+    "streetAddress": "Lindenstrasse 34a",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 4199",
+    "email": "lucia.eberharter@aon.at",
+    "url": "http://www.mayrhofen.at/de/101006/101020/101072/freibad.html"
+  },
+  "description": "Das Freibad in der Sommerwelt punktet nicht nur mit einem Sport- und Kinderbecken - das besondere Highlight ist das Erlebnisbecken mit seinen vielfältigen Attraktionen. Ob Doppelwellenrutschbahn oder Wasserrutschbahn , Bodenblubber oder Strömungskanal, Schwalldusche oder die Sitzecke mit Kletterseil - Wasserspass für die ganze Familie.\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f687b15f-bda6-49a8-8171-7f7de375afe0/99/image.jpg",
+      "caption": "Freischwimmbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f2b7adf-93f4-4a81-b52b-442f2bee3547/99/image.jpg",
+      "caption": "Sommerwelt Hippach"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8d076dfa-ef2a-4067-bdac-14a874ea9d78/99/image.jpg",
+      "caption": "Freischwimmbad1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f34941e2-76fa-40df-a4ed-e4b0f3a369e8/99/image.jpg",
+      "caption": "Freischwimmbad2"
+    }
+  ],
+  "url": [
+    "http://www.mayrhofen.at/de/101006/101020/101072/freibad.html"
+  ]
+}

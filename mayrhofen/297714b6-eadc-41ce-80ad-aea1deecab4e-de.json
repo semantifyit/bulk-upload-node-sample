@@ -1,0 +1,181 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-stefanie.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d297714B6-EADC-41CE-80AD-AEA1DEECAB4E"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Stefanie",
+    "streetAddress": "Burgstall 345",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63638",
+    "faxNumber": "0043 5285 63638",
+    "email": "fewo.wechselberger345@aon.at",
+    "url": "http://www.landhaus-stefanie.at"
+  },
+  "name": "Landhaus Stefanie",
+  "description": [
+    "Unser Haus befindet sich in ruhiger, erholsamer Lage am Ortsrand von Mayrhofen.",
+    "Die Preise verstehen sich exklusive Endreinigung.",
+    "Autobahnabfahrt Zillertal Richtung Mayrhofen, ca. 1 km vor Mayrhofen über die Zillerbrücke, Kreisverkehr links Richtung Burgstall."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "19"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/35962494-521d-4435-bb2c-50244cddb8a6/99/image.jpg",
+      "caption": "Landhaus Stefanie  - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b1cd2a43-1db6-4ad4-a17c-2f990d5d34a5/99/image.jpg",
+      "caption": "Landhaus Stefanie  - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c3d12c5-b4b0-41e9-af2a-6edb289780ff/99/image.jpg",
+      "caption": "Landhaus Stefanie  - Ausich vom Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76fb54ef-7c88-4c00-8d0b-a927f85637ba/99/image.jpg",
+      "caption": "Landhaus Stefanie - Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d4d86c8b-d758-4baa-a610-b39e71fe7ef7/99/image.jpg",
+      "caption": "Landhaus Stefanie - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e97ebd6c-c3ad-477e-bff5-38f07558e1ad/99/image.jpg",
+      "caption": "Landhaus Stefanie - Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9472029e-c335-4ada-86e6-0ad6bdc0fe70/99/image.jpg",
+      "caption": "Landhaus Stefanie - Wohnküche 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76e22899-483c-4e1d-b7cf-87c7c3cbdca0/99/image.jpg",
+      "caption": "Landhaus Stefanie - Wohnküche 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d2ce7ce-cee4-44d8-a409-2c04bda67e4a/99/image.jpg",
+      "caption": "Landhaus Stefanie - Vorraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4844c57-571f-4edd-a8fe-682a46a5b908/99/image.jpg",
+      "caption": "Landhaus Stefanie - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ead84ebe-13fe-4df0-8ee6-1918f1f3036c/99/image.jpg",
+      "caption": "Landhaus Stefanie - Zimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ace03f8-9ec4-42ba-8746-5c29d6f0acfc/99/image.jpg",
+      "caption": "Landhaus Stefanie - Zimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2d9d15c3-a07d-4897-bd16-f76cf88c2802/99/image.jpg",
+      "caption": "Landhaus Stefanie - Wohnküche 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8fa3b7ce-8388-44f0-93fe-86657df0e5d1/99/image.jpg",
+      "caption": "Landhaus Stefanie - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0179ec4e-07c1-4131-90d5-ad2881c46235/99/image.jpg",
+      "caption": "Landhaus Stefanie - Bad 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.183862210389",
+    "longitude": "11.86157500434"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Ca. 30 m² große Ferienwohnung für 2-4 Personen, kleine Küche mit Geschirrspüler, Wohnraum mit Doppelcouch, Sat-TV, 1 Doppelzimmer, Dusche/WC, Parterre, Terrasse Ost-Süd Seite.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap./Wohn-Schlafraum/1 Schlafraum/Du,WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Ca. 60 m² große Ferienwohnung für 2-6 Personen , 2 Doppelzimmer mit Dusche/WC, 1 Wohnruam mit ausziehbarer Doppelcouch, Sat-TV, Kochnische (Mikro), großer Balkon ca. 20 m².",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap./Wohn-Schlafraum/2 Schlafr./Dusche,WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Ca. 85m² große Ferienwohnung für 4-8 Personen. 1 Vorraum, 1 Dusche/WC, 1 Doppelzimmer mit Balkon, 1 Zimmer mit 2 Betten (ca. 10m²), 1 komfortable Küche mit Geschirrspüler, Micro. 1 Wohnraum mit Sat-TV. Nebenan ein 30m² großes Zimmer mit Doppelbetten, 2 Zusatzbetten, Dusche/WC, Balkon, Sat-TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Dusche, WC",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

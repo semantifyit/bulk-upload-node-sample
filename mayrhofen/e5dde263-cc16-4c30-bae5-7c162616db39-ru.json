@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Restaurant Kramerwirt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2049578",
+    "longitude": "11.8738559"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 265",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 512 46 69",
+    "email": "restaurant-kramerwirt@gmx.at",
+    "url": "http://kramerwirt-ramsau.beepworld.de"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c55e42a-f604-4695-ac5a-02de326a2722/99/image.jpg",
+      "caption": "Kramerwirt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d09c9df5-72f1-46f1-8454-4a78312d637c/99/image.jpg",
+      "caption": "Restaurant Kramerwirt"
+    }
+  ],
+  "url": [
+    "http://kramerwirt-ramsau.beepworld.de"
+  ]
+}

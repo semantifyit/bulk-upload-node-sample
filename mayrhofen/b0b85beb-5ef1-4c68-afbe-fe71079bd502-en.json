@@ -1,0 +1,150 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dB0B85BEB-5EF1-4C68-AFBE-FE71079BD502",
+    "http://www.gandler-schweinberg.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gandler, Haus",
+    "streetAddress": "Schweinberg 43",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63160",
+    "faxNumber": "0043 5285 63160",
+    "email": "famkreidl@gmx.at",
+    "url": "http://www.gandler-schweinberg.at"
+  },
+  "name": "Haus Gandler",
+  "description": [
+    "Our house is situated in the sub district of Schweinberg, approx. 3km before Mayrhofen. Quiet and sunny location. Car park available.",
+    "The price includes local taxes and breakfast.",
+    "Arrival and departure available any time. Just before Mayrhofen turn left (opposite the AL-KO Kober factory), carry on in the Mayrhofen direction, and left at the Gasthof Eckertauerhof until Hubertus and then turn right."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b01829b-675a-40a5-befc-36083bd7386c/99/image.jpg",
+      "caption": "Haus Gandler Mayrhofen - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/110c485d-003b-4482-86e2-bff3da762cbd/99/image.jpg",
+      "caption": "Haus Gandler Mayrhofen - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12cd35ec-5ae8-4c19-8809-4f35ca63afa2/99/image.jpg",
+      "caption": "Haus Gandler Mayrhofen - Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/47f3c944-f27a-4f55-89dc-b95c8e68c487/99/image.jpg",
+      "caption": "Haus Gandler Mayrhofen - Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5a92720d-e88b-475d-b2a7-22640339a57c/99/image.jpg",
+      "caption": "Haus Gandler Mayrhofen - Terasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d83bf4f-5784-4be6-8e1a-6816ae8db48b/99/image.jpg",
+      "caption": "Haus Gandler Mayrhofen - Schweinberg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/099204d1-3d2a-483a-8136-8d5fca2e880b/99/image.jpg",
+      "caption": "Zimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa7e77da-cae9-4329-975e-e8eba6dfda3d/99/image.jpg",
+      "caption": "Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d2af8f31-7d30-4ee1-892c-825ac7b23430/99/image.jpg",
+      "caption": "Zimmer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d28f788a-c1db-4b0c-bc39-1b97cfd011bc/99/image.jpg",
+      "caption": "Dusche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/79901e43-ae35-44be-8f10-f612086f4255/99/image.jpg",
+      "caption": "Haus Gandler Mayrhofen - Ausblick 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8fbd45db-4970-4407-8a5f-4bf356cbb7a3/99/image.jpg",
+      "caption": "Haus Gandler Mayrhofen - Ausblick 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1358afaf-3eef-4aeb-adbd-49dc6abc03af/99/image.jpg",
+      "caption": "Haus Gandler Mayrhofen - Ofen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1864459835696",
+    "longitude": "11.8767142295837"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, running hot/cold water",
+      "description": "Room with hand basin, balcony, shared shower and WC facilities.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with running hot/cold water",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

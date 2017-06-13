@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Intersport Bründl - Talstation Ahornbahn",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.160281366594",
+    "longitude": "11.8598860502243"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Intersport Bründl",
+    "streetAddress": "Ahornstrasse 853",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62400",
+    "faxNumber": "(0043) 5285 62400-15",
+    "email": "ahorntal@bruendl.at",
+    "url": "http://www.bruendl.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8c314189-c148-49cb-8945-137bebb056eb/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b69fbb95-65f9-48b6-85e9-c024b0f028e9/99/image.jpg",
+      "caption": "1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9ab17dd-4eca-4c19-9851-4c95eaf6a2ec/99/image.jpg",
+      "caption": "2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/82a2067e-33a3-42c0-9ed6-5c1f157ed7d4/99/image.jpg",
+      "caption": "3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f039385-7050-4db4-90f7-2781e481f6c6/99/image.jpg",
+      "caption": "4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b7738345-cad5-458b-a34f-3e951649a056/99/image.jpg",
+      "caption": "5"
+    }
+  ],
+  "url": [
+    "http://www.bruendl.at"
+  ]
+}

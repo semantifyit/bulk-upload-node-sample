@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Panorama 1952m - Ahorn",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1369941268484",
+    "longitude": "11.8692279221207"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Panorama Ahorn ",
+    "streetAddress": "Ahorn ",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 625 15"
+  },
+  "description": [
+    "Sommer \n10. Juni - 15. Oktober 2017 bei Schönwetter von 21. Oktober - 26. Oktober 2017 \nkein Ruhetag \nkeine Übernachtung möglich",
+    "Das Restaurant Panorama befindet sich im Skigebiet Ahorn."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/598d694a-3ba7-43e9-b48d-e2c2b6311574/99/image.jpg",
+      "caption": "Panorama Ahorn"
+    }
+  ]
+}

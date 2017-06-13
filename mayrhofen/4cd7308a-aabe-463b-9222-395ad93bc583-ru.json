@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "DanceEvent"
+  ],
+  "name": "Street Festival in the centre of Mayrhofen",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Europahaus",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstr. 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6750",
+      "faxNumber": "+43 5285 6760-33",
+      "email": "office@europahaus.at",
+      "url": "www.europahaus.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Europahaus",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstr. 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6750",
+      "faxNumber": "+43 5285 6760-33",
+      "email": "office@europahaus.at",
+      "url": "www.europahaus.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fe63e2e4-7f5c-4ac8-975e-2280bf6619bc/99/image.jpg",
+      "caption": "Straßenfest"
+    }
+  ],
+  "startDate": "2017-07-28T00:00:00",
+  "endDate": "2017-07-28"
+}

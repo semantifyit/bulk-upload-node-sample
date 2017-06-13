@@ -1,0 +1,713 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hotel-alpenblick.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA2E804DD-ACE9-4228-8419-BE7B0348AA92"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schrofenhütte",
+    "streetAddress": "Schwendberg 402",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3627",
+    "faxNumber": "0043 5282 3547",
+    "email": "info@hotel-alpenblick.at",
+    "url": "http://www.hotel-alpenblick.at"
+  },
+  "name": "Schrofenhütte",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Schrofenhütte: Im Sommer 1999 wurde die Hütte aufwendig und originalgetreu renoviert und hat daher eine besondere Gemütlichkeit und Urigkeit. Trotzdem wurde auf optimale Isolierung Wert gelegt. Auch die Sanitärräume (Dusche -Waschraum und WC getrennt) sind neu, natürlich auch mit problemloser Strom und Wasserversorgung. Beheizt wird die Hütt mittels eines großen Gaulofens in der Almstube wobei zur Temperierung der Schlafstuben im Obergeschoß ein Teil der Wärme abgeleitet wird. Die Sanitärräume (Dusche und WC sind separat) haben zusätzlich Elektroheizgeräte. Für die Beheizung ist genügend trockenes, gehacktes Holz vorhanden.\nHunde sind erlaubt -gegen Gebühr kleine Hunde Eur.5,-- große Eur. 10,- pro Tag.\n\nIns Schigebiet gelangt man vom Goldbründl über die Horbergstr. ca. 400 m zu Fuß oder mit dem Schibus-Schwendberg. Zurück kommt man mit den Schiern bis zur Hütte. Natürlich stehen wir auch gerne ev. telefonisch für weitere Auskünfte zur Verfügung.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Die Preise verstehen sich pro Woche, bzw. wie in der Preisliste angegeben. Im Preis inkludiert: Bettwäsche/Handtücher, Wasser, Holz, Endreinigung nach besenreiner Rückgabe.\nExklusive:  Strom € 0,25/kwh ."
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: Sonntags zwischen 16:00 - 17:00 Uhr / Check out: zwischen 09:30 - 10:00 Die Zufahrt erfolgt über die Schwendberger Höhenstrasse und nach ca. 7 km links abzweigend über die Horbergstrasse 3 km bis zum GOLDBRÜNNDL-Parkplatz."
+    },
+    {
+      "@language": "de",
+      "@value": "Chalet, Schihütte, Ferienwohnung, im Schigebiet,\nSommerhütte, im Wandergebiet, Selbstversorger"
+    },
+    {
+      "@language": "en",
+      "@value": "Schrofenhütte: In the summer of 1999 the hut was painstakingly renovated in original style, which gives it a very special atmosphere. Modern conveniences haven\u0027t been forgotten either, and the hut is well insulated, and has been equipped with a shower, washroom and separate WC, water and electricity. A large wood burner provides the heating in the lounge, and heat can also be directed to the sleeping quarters. The wash rooms are also equipped with electric heaters, and there is plenty of dry, chopped wood for the wood burner.\nDogs are allowed -rates: € 5,- - 10,- per day.\nOne can reach the ski slopes using the Horbergstrasse - approx. 400 by foot, or using the Schwendberg ski bus, and can return to the hut on skis.\nFor further information we can be contaced by telephone +4352823627 or mail info@hotel-Alpenblick.at\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Included in price: Bed linen/handtowels, final cleaning charge, water. Excluded:  drinks, electricity ( € 0,25 per kwh)\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: on sundays between 16.00 - 17.00hr / Check out: Between 09.30 - 10.00hr.\nDirections: Use the Schwendberger Höhenstrasse and after approx. 7km turn left in to the Horbergstrasse, 3km on until GOLDBRÜNDL where the car park for the hut can also be found. From here it is approx. 50 metres downhill using a footpath to the hut. (Snow is regularly cleared from the access road). Meeting point! Hotel Alpenblick, Hippach. Register, pay and"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/752581bf-b0bf-4bed-8b5e-bdb57bc799cf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schrofen Hütte Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Schrofen Hütte Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schrofen Hütte Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/990585b7-1b6d-446f-9e9f-fc82432e843f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schrofenhütte Schwendberg - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Schrofenhütte Schwendberg - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schrofenhütte Schwendberg - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e6aa7ac-4ed4-4547-b75d-51b3e981568b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schrofenhütte - Stube"
+        },
+        {
+          "@language": "en",
+          "@value": "Schrofenhütte - Stube"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schrofenhütte - Stube"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f1f6e23-aeee-409c-8b09-75e4066dc29d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schrofenhütte - Romantik"
+        },
+        {
+          "@language": "en",
+          "@value": "Schrofenhütte - Romantik"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schrofenhütte - Romantik"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/18289bb2-cc7d-4cf0-9e74-3ab032443040/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schrofenhütte - Ofen"
+        },
+        {
+          "@language": "en",
+          "@value": "Schrofenhütte - Ofen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schrofenhütte - Ofen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/179370da-9f7f-4ba1-9ddc-0ef14772cb82/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Neuschnee"
+        },
+        {
+          "@language": "en",
+          "@value": "Neuschnee"
+        },
+        {
+          "@language": "ru",
+          "@value": "Neuschnee"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02040e63-22b2-4247-b8d5-d7ebe2936725/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ausblick nach süden"
+        },
+        {
+          "@language": "en",
+          "@value": "Ausblick nach süden"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ausblick nach süden"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f281db7-3151-4804-9845-32ccc293d3dc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "blick i.küche hütte"
+        },
+        {
+          "@language": "en",
+          "@value": "blick i.küche hütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "blick i.küche hütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b7988a64-0e9d-4257-8607-01b4500ed932/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "det rote hoterbeeren"
+        },
+        {
+          "@language": "en",
+          "@value": "det rote hoterbeeren"
+        },
+        {
+          "@language": "ru",
+          "@value": "det rote hoterbeeren"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17e4a148-1816-4a91-a0c6-ba1c49785b33/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "det-hütteost"
+        },
+        {
+          "@language": "en",
+          "@value": "det-hütteost"
+        },
+        {
+          "@language": "ru",
+          "@value": "det-hütteost"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d927ac38-96a6-4245-abfa-477873942731/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "hütte-zimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "hütte-zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "hütte-zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e58a3114-cc3e-4788-969c-746e00937538/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "stubentür hütte"
+        },
+        {
+          "@language": "en",
+          "@value": "stubentür hütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "stubentür hütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/35bce6a6-51de-40ce-9a5c-58c4918aa35f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "mit Funschi zur Hütte"
+        },
+        {
+          "@language": "en",
+          "@value": "mit Funschi zur Hütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "mit Funschi zur Hütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac0618b0-d9c4-4b3d-9363-624d09a0f7fb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hüttenromantik"
+        },
+        {
+          "@language": "en",
+          "@value": "Hüttenromantik"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hüttenromantik"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/87b518c0-e627-4c07-a0f1-005adbca1047/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schrofenweg 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Schrofenweg 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schrofenweg 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ac6a2f8-c2a0-4876-9aba-4a7844d31af3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "zum Ausrasten"
+        },
+        {
+          "@language": "en",
+          "@value": "zum Ausrasten"
+        },
+        {
+          "@language": "ru",
+          "@value": "zum Ausrasten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a8613ac0-bac6-452b-90d6-b1f235a4806e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Vogelrasthaus"
+        },
+        {
+          "@language": "en",
+          "@value": "Vogelrasthaus"
+        },
+        {
+          "@language": "ru",
+          "@value": "Vogelrasthaus"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a2e8a2b-c84c-4eda-a3a1-a3bc845b94cc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hütte - Straßenkarte-mark."
+        },
+        {
+          "@language": "en",
+          "@value": "Hütte - Straßenkarte-mark."
+        },
+        {
+          "@language": "ru",
+          "@value": "Hütte - Straßenkarte-mark."
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96e78a27-b093-43df-b472-3ed309ed2e6b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schrofenweg1"
+        },
+        {
+          "@language": "en",
+          "@value": "Schrofenweg1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schrofenweg1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6380230-6754-4e2d-8670-03d4f1293622/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schrofenhütte"
+        },
+        {
+          "@language": "en",
+          "@value": "Schrofenhütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schrofenhütte"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1908352708716",
+    "longitude": "11.8234026432037"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus, Dusche, WC, 4 oder mehr Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Holiday home, shower, toilet, 4 or more bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Дом отдыха, душ, туалет, 4 или больше спалень"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Unsere ALMHÜTTE am Horberg (1.600m) - ein Traum wird wahr!\n\nAnschluss Schigebiet, im Sommer zum Wanderweg \"Hoch über dem Zillertal\". Auf ca. 1.600m Seehöhe - Zufahrt mit dem Auto über die Zillertaler Höhenstrasse und Privatstrasse bis 50 meter vor die Hütte. (Parkplatz) \n\n\n\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Our ALMHÜTTE (alpine hut) 1600m above sea level - a dream come true!\n\nNext to ski slopes in winter, walk ways in summer \"Up above the Zillertal Valley\". At approx. 1600m above sea level - accessible using the Zillertaler Höhenstrasse and then a private road to within 50 metres of the hut.\nFurnishings:\nGround floor: Large lounge with wood burner, seating, small kitchen with double sink, electric oven, microwave, larder with fridge/freezer, electrically heated wash room with shower, separate WC, bedroom with 2 separate beds.\nFirst floor: Wooden staircase leading to a bedroom with 2 separate beds, 2 double bedrooms. A ski store on the first floor is accessible from outside. On the south side there is a wooden terrace, and on the north a wood hut.\n* All the beds are freshly made, and there are plenty of hand/bath and tea towels available. Please don\u0027t use beds unneccessarily, as they will be charged for!\n* Drinks taken from the drink store should be written on the list, and paid for at the end of your stay.\n* The wood burner in the lounge provides enough heat for the entire hut. 3 or 4 pieces of coal placed in the fire when leaving the hut will keep the warmth going for a long time. (Don\u0027t put the ash in the rubbish!)\n* Any rubbish suitable for burning, please put in the fire.\nPlease empty the rubbish bins in to the large rubbish bag in the wood hut, and take empty bottles away with you."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienhaus/4 Schlafr./Dusche,WC"
+            },
+            {
+              "@language": "en",
+              "@value": "hol. house - 4 bedrooms/shower,WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Дом отдыха, душ, туалет, 4 или больше спалень"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/9b3367a6-7b44-4f1b-8d16-e0c14d4367da/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Hütte aus Südost"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Hütte aus Südost"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Hütte aus Südost"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/914bcc3d-55b1-4222-aa95-bcbcbce79528/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Hütte Winter"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Hütte Winter"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Hütte Winter"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/802a4cd6-de29-4985-a3a4-31434945429c/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Schrofenweg 2"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Schrofenweg 2"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Schrofenweg 2"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/e4c31552-c2e7-48d3-9361-5401c1d33856/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Schrofenweg -Zugang"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Schrofenweg -Zugang"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Schrofenweg -Zugang"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/34747639-93fb-4c21-ad36-edc26cf0e6bb/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Hütte mit Talblick"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Hütte mit Talblick"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Hütte mit Talblick"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a7e91e5b-1cfe-45b3-9371-3a4c539e4f75/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Hütte Nordseitig"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Hütte Nordseitig"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Hütte Nordseitig"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/5a00c99a-0ac0-484e-871e-232759730aee/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "zum Ausrasten"
+                },
+                {
+                  "@language": "en",
+                  "@value": "zum Ausrasten"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "zum Ausrasten"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/c885601f-30ec-4865-b232-30836aa2d7f2/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "genug Platz für 9"
+                },
+                {
+                  "@language": "en",
+                  "@value": "genug Platz für 9"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "genug Platz für 9"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/2db5f1ce-ee40-42ca-9dfe-278eb344dc4a/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Hüttenofen "
+                },
+                {
+                  "@language": "en",
+                  "@value": "Hüttenofen "
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Hüttenofen "
+                }
+              ]
+            }
+          ],
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "6"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Schnupperpauschale"
+            },
+            {
+              "@language": "en",
+              "@value": "Schnupperpauschale"
+            },
+            {
+              "@language": "ru",
+              "@value": "Schnupperpauschale"
+            }
+          ],
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "6"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "103.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "120.00",
+          "maxPrice": "168.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "137.00",
+          "maxPrice": "192.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

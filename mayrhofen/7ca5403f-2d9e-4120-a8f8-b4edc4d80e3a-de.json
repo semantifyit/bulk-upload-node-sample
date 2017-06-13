@@ -1,0 +1,358 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.klammsteinhof.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d7CA5403F-2D9E-4120-A8F8-B4EDC4D80E3A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Klammsteinhof",
+    "streetAddress": "Kleinschwendberg 272",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62915",
+    "faxNumber": "0043 5285 62915",
+    "email": "info@klammsteinhof.at",
+    "url": "http://www.klammsteinhof.at"
+  },
+  "name": "Klammsteinhof",
+  "description": [
+    "Auf unserem Bergbauernhof Klammsteinhof in sehr ruhiger Lage bieten wir Erholung und Entspannung von Ihrem Altagsstress. Genießen Sie die herrliche Ruhe in den Zillertaler Alpen bei einer wunderbaren Aussicht auf das hintere Zillertal und die Ahornspitze. Die Nähe der Mayrhofner Bergbahnen ( Horbergbahn) (1 km), die sie in eines der größten und schönsten Schigebiete des Zillertales bringt, macht den Winterurlaub auf unserem Hof sehr attraktiv. Bei genügend Schnee, ist es sogar möglich bis direkt vor dem Haus mit den Ski zu fahren. \nWir bieten preisgünstige Doppelzimmer mit Etagendusche und Komfortzimmer. Oder beziehen Sie eine unsere zwei Ferienwohnungen, die für zwei bis drei Personen eingerichtet sind.\nIn unserem großen, mit hellem Holz eingerichteten Frühstücksraum kann man abends in gemütlicher Runde den Tag ausklingen lassen, oder im Sommer auf unserer Terrasse zusammensitzen und unsere selbstgebrannten Edelbrände verkosten. Parkplatz ist vorhanden.",
+    "Check in: 14.00 - Check out: 10.00",
+    "Check in: 14:00 Uhr / Check out: 10:00 Uhr.\nSie fahren auf der Zillertalbundesstraße B169 bis 2 km nach Hippach, dann biegen Sie rechts ab und geradeaus zur Talstation der Horbergbahn. Von dort 1 km den Berg hinauf bis die Straße bei einem Wirtschaftsgebäude und einer kleinen Kapelle auseinander zweigt. Sie fahren links zu unserem Hof hoch."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0217c8bd-a071-46a0-abee-806c268fd532/99/image.jpg",
+      "caption": "Klammsteinhof Schwendau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/206550a4-fa63-464a-8ab5-bcbbd123641e/99/image.jpg",
+      "caption": "Klammsteinhof Schwendau - Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/850c5c8e-2363-4e20-a9d5-d6be6f523aa4/99/image.jpg",
+      "caption": "Klammsteinhof Schwendau - Familie Sporer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8d5cb66a-c735-441e-8b32-98d5449b0365/99/image.jpg",
+      "caption": "Klammsteinhof Schwendau - Eigene Schnapsbrennerei"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9816473e-78d3-4bf5-b113-741a3fc64193/99/image.jpg",
+      "caption": "Klammsteinhof Schwendau - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d6d54544-7142-4223-b242-dd09d2d4ae96/99/image.jpg",
+      "caption": "Klammsteinhof Schwendau - Landschaft 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1abea7a6-b771-4382-806d-92a616d4011e/99/image.jpg",
+      "caption": "Klammsteinhof Schwendau - Landschaft 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/862968d9-2d1c-4c9d-a586-21a725233df7/99/image.jpg",
+      "caption": "Klammsteinhof Schwendau - Landschaft 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa02a10e-cd88-4d57-9a14-0a808dbfb0c4/99/image.jpg",
+      "caption": "Klammsteinhof Schwendau - Frühstücksraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.192819901298",
+    "longitude": "11.852123534636"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer",
+      "description": "Unsere beiden Klassikzimmer nutzen gemeinsam die Etagendusche und das WC.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Klassikzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "18.00",
+          "maxPrice": "24.40",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer",
+      "description": "Unsere Komfort-Doppelzimmer bieten Ihnen einen erholsamen Urlaub. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfort-Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "39.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.50",
+          "maxPrice": "29.90",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer",
+      "description": "Unsere Komfort-Doppel-/Dreibettzimmer bieten Ihnen einen erholsamen Urlaub. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfort-Doppel-/Dreibettzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "29.90",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "20.67",
+          "maxPrice": "27.43",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Die Ferienwohnung für 2 bis 4 Personen ist ausgestattet mit einem Doppelzimmer, Bad mit Dusche, WC und Doppelwaschbecken.\nIn der Wohnküche befindet sich ein Ausziehsofa (für 1-2 Personen), Küchenblock mit zwei Kochplatten, Spülmaschine, Kühlschrank, Mini-Backofen, Kaffeemaschine und ein TV- Flachbildschirm.\nAuf dem Balkon Richtung Süden genießen Sie die Aussicht in die Zillertaler Bergwelt\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung 1",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "28.75",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "18.70",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "16.28",
+          "maxPrice": "21.05",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Diese Ferienwohnung für 2 Personen ist ausgestattet mit einem Vorraum mit Garderobe, Doppelzimmer, Bad und Küche mit zwei Kochplatten, Mini-Backofen, Kühlschrank, Kaffeemaschine und Fernseher.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung 2",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "28.75",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Die Ferienwohnung für 2-3 Personen ist ausgestattet mit einem Doppelzimmer mit Schlafcouch, Badezimmer, gemütlicher Küche mit Sitzecke, Küchenblock mit Herd und Backrohr, Kühlschrank, Kaffeemaschine, Wasserkocher und Fernseher.\nAuf dem Balkon Richtung Süden genießen Sie die Aussicht in die Zillertaler Bergwelt.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung 3",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "28.75",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "18.70",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "In der Ferienwohnung für 2 bis 4 Personen befindet sich ein Vorraum mit Garderobe, ein Doppelzimmer mit Schlafcouch, Badezimmer, Küche mit Schlafcouch, Sitzecke, Herd und Backrohr, Kühlschrank, Kaffeemaschine, Eierkocher und Fernseher.\nAuf dem Balkon Richtung Süden genießen Sie die Aussicht in die Zillertaler Bergwelt.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung 4",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "28.75",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "18.70",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "16.28",
+          "maxPrice": "21.05",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

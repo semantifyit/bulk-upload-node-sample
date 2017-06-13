@@ -1,0 +1,137 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d45DCD628-552E-4256-9D90-80AA8B61326D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Edith",
+    "streetAddress": "Hollenzen 53",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 6776 227 42 54 ",
+    "email": "edith.geisler@gmx.at"
+  },
+  "name": "Appartement Edith",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt sehr ruhig und zentral in sonniger Lage am Waldrand in Hollenzen.  Hollenzen ist ein Vorort von Mayrhofen und ca. 3 km entfernt. Die Ferienwohnung befindet sich im gesamten 1. Stock unseres Hauses und jedes Zimmer hat Zugang zum Balkon. Unser Garten bietet Ihnen Erholung und Entspannung. Von unserem Balkon aus haben Sie eine herrliche Aussicht auf die Zillertaler Bergwelt. Direkt von unserem Haus führen schöne Wanderwege in die nahe Bergwelt. Die Schi- u. Wandergebiete Ahorn, Penken und Horberg sind in nur wenigen Fahrminuten erreichbar. Die Haltestelle des Schi- bzw. Dörferbus ist nur ca. 150 m entfernt.\nWir freuen uns auf Ihren Besuch! Edith und Johann Geisler"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated quiet and central at the edge of the forest in Hollenzen. The apartment is on the whole 1st floor of our house and every room has access to the balcony. Our garden offers you rest and relaxation. From our balcony you have a beautiful view. The ski and travelling areas Ahorn, Penken and Horberg are accessible at only few driving minutes. The stop of the ski or villages coach is only  150 m away.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60b49fc4-f221-4900-ade7-198226ed1c04/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Appartement Edith Mayrhofen - Winterbild"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartement Edith Mayrhofen - Winterbild"
+        },
+        {
+          "@language": "ru",
+          "@value": "Appartement Edith Mayrhofen - Winterbild"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1860741169709",
+    "longitude": "11.8743324279785"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Neue, komplett ausgestattete Ferienwohnung (inkl. Bett-, Bad-u. Tischwäsche, Reinigungsmittel f. Küche vorhanden) mit grosser Wohnküche, Vorraum, Garderobe, Sat-TV, 3 Schlafzimmer m. Balkon (Zusatzbett für 2 Personen im WoZi möglich), Badewanne, Dusche, WC, Schischuhtrockner \nBrötchenservice auf Wunsch \nWir freuen uns, Sie in unserem Haus begrüßen zu dürfen!                        Edith und Hans Geisler"
+        },
+        {
+          "@language": "en",
+          "@value": "New, completly new equiped holiday flat with a big kitchen, wardrobe, TV, three bedrooms with balcony, a bath tub, a shower, a toilet, a ski boots dryer, bread roll service if necessary.\nWe are looking forward, to welcome you in our house!\nEdith and Hans Geisler\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/3 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/3 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,760 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.youtube.com/embed/Qsr2WBMKGN8?rel\u003d0",
+    "http://www.alpin-hotel.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d32F8488E-D693-4569-B64F-D8053E3F3518",
+    "http://www.youtube.com/embed/lMqfvHrq-W0?rel\u003d0",
+    "http://www.youtube.com/embed/aTwVmbL4SUk?rel\u003d0"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schrofenblick, Alpin-Hotel",
+    "streetAddress": "Burgstall 373",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62276",
+    "faxNumber": "0043 5285 63437",
+    "email": "info@alpin-hotel.at",
+    "url": "http://www.alpin-hotel.at"
+  },
+  "name": "Alpinhotel Schrofenblick",
+  "description": [
+    "Welcome to the Schrofenblick!\n\nVacation days spent amid the magnificent mountains of the Zillertal – just the way they are supposed to be – uncomplicated and filled with variety.  \n\nQuiet located, only 10 minutes walk from the center you will find here comfortable rooms and suites, fine cuisine and attentive service.\n\nThe most beautiful times begin at the Schrofenblick!\n... and from the first moment. However, not only for the holidays with family or friends, our house is the ideal place. \n\nWe are happy to help you organizing a group holiday with a social program or a seminar.\n\nWe are pleased to welcome you in our hotel!\n\nFamily Eberl\n",
+    "The prices are not binding, and include local taxes and halfboard. Children\u0027s reductions: 0-5 years 100%, 6-9 years 30% and 10-12 years 20%.",
+    "Directions: After the crossing at Hippach, take the next large right hand turn towards the Horbergbahn, then left in the direction of Burgstall.",
+    "Holiday; Fun; Ski; Snow; Relaxation; Mountains; Alps; Hiking; Action; Climbing; Sauna; "
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "242"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/48c2ed3b-7405-4dd4-ba72-c2e1ad885373/99/image.jpg",
+      "caption": "20160309_085451"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8644f125-c885-4545-8b0f-b1ff20af6fd1/99/image.jpg",
+      "caption": "Schrofenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7e3e0e56-e976-4496-ae98-c929b3ada9eb/99/image.jpg",
+      "caption": "Alpinhotel Schrofenblick Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c80dde6-fefc-475a-bac5-b703566e7518/99/image.jpg",
+      "caption": "Alpinhotel Schrofenblick II"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/41041eb6-9ee3-4993-86e8-e26ddc0372bb/99/image.jpg",
+      "caption": "Alpinhotel Schrofenblick III"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60debeae-f647-4e33-aee7-60992da6bb74/99/image.jpg",
+      "caption": "Appartements Schrofenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/906e1595-ebe8-4340-a2b1-2b0ad6b2c4e3/99/image.jpg",
+      "caption": "Schrofenblick - Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/73ce1caf-27a2-48af-85b1-e3220b23ee3a/99/image.jpg",
+      "caption": "Schrofenblick - Gemütliche Terasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d2eba638-9169-42e9-a0bc-d6bf07fd6457/99/image.jpg",
+      "caption": "Schrofenblick - Schlemmen im Schrofenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c295be28-9f0a-44d2-b48f-72ebcbea1429/99/image.jpg",
+      "caption": "Schrofenblick - Abendessen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bb91a63d-885d-4f18-b3a0-da783f59b085/99/image.jpg",
+      "caption": "Schrofenblick - Essen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/802a8e33-bcaa-435d-b4ca-3e5b62429934/99/image.jpg",
+      "caption": "Schrofenblick - Speise1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/372b62de-787e-4385-88e0-f481a982c33b/99/image.jpg",
+      "caption": "Schrofenblick - Speise2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3d92b256-ee1f-45a7-9c32-783f5aa5e47b/99/image.jpg",
+      "caption": "Schrofenblick - Kaffee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3d2cdb0b-c382-44d7-9411-a721cef3ad00/99/image.jpg",
+      "caption": "Schrofenblick - Kaffee2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/141d2915-be44-4527-a29d-07fe9fb64082/99/image.jpg",
+      "caption": "Schrofenblick - Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3bf5b3fd-ae1a-4047-abdc-62ea0739245d/99/image.jpg",
+      "caption": "Schrofenblick - Stube2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4878e12b-3950-4252-91ca-2a3c40e7a206/99/image.jpg",
+      "caption": "Schrofenblick - Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6129db7-c2b4-4dc2-9644-3041bfa47ea5/99/image.jpg",
+      "caption": "Schrofenblick - Sauna2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca686018-364c-4572-a35a-e779460bff24/99/image.jpg",
+      "caption": "Schrofenblick - Sauna3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/269d99d3-1988-4e83-abff-b9ab208179f7/99/image.jpg",
+      "caption": "Schrofenblick - Saunabereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e2680632-ba4d-4171-b3f6-0273ede42a0b/99/image.jpg",
+      "caption": "Wanderweg oberhalb vom Hotel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef5d1bef-7934-448a-ae5e-9b178d7a2f95/99/image.jpg",
+      "caption": "Kappelle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f46f830-eef5-4e70-80b8-0d9c8e6a4a92/99/image.jpg",
+      "caption": "Rodeln"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7857524-940a-46d0-95f6-e8005d3f6973/99/image.jpg",
+      "caption": "Funpark"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fe68fe0f-1887-4759-a1cc-b8828fd6db72/99/image.jpg",
+      "caption": "Paragliden"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bd6b8a24-30a9-4edd-b4a1-17e2e5c19ce3/99/image.jpg",
+      "caption": "Wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f24625f-7d59-4139-9fc2-d33b6b9a2cdf/99/image.jpg",
+      "caption": "Kuh"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d990f68-b3ec-4760-b02e-8275a2c285a7/99/image.jpg",
+      "caption": "Schlegeis"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b589ed2f-3cb2-401c-9eee-bc7184c69909/99/image.jpg",
+      "caption": "Rafting"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7719027-edf4-48c1-8c65-1dd50e9cb7bb/99/image.jpg",
+      "caption": "Skigebiet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d491505-668b-451e-8420-343ff8256a4e/99/image.jpg",
+      "caption": "Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94c30726-f31b-4ca0-8cc5-d7ea43e805d6/99/image.jpg",
+      "caption": "Gletscher4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c83b4bfe-733f-4aaa-9806-4fff01055021/99/image.jpg",
+      "caption": "Relax"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/804713dc-ca0f-415c-aa8d-481e517f9841/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9ab6bb12-932e-4946-9b0e-1226051f244f/99/image.jpg",
+      "caption": "Schneekar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c857e0a0-7c2e-4ae8-88a5-d47e88f978b6/99/image.jpg",
+      "caption": "Piste"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/059108ae-04b8-43bd-a882-fdb226d9c8d5/99/image.jpg",
+      "caption": "Zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e05719e-9d7f-481f-bc80-0bbe45bab50f/99/image.jpg",
+      "caption": "Gipfelsieg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/032d94f0-84ae-49c9-9ac6-59684341ce9f/99/image.jpg",
+      "caption": "Apfelstrudel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b036edc1-a5cb-409d-9990-e9ab065a3f74/99/image.jpg",
+      "caption": "Massage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c8e2033-5bfc-4bfc-9dad-4fade9e61108/99/image.jpg",
+      "caption": "Skifahren"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f13e09d1-6a98-4e39-8fb1-e5daff03bff3/99/image.jpg",
+      "caption": "Gebirgsbach"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/793d3c00-9c01-4771-9277-cbe4fe86b881/99/image.jpg",
+      "caption": "IMG-20160317-WA0041"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e54e99e2-3bc8-418a-95cd-0800fee356c6/99/image.jpg",
+      "caption": "IMG-20160317-WA0042"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8580c22c-d504-4565-8e8f-2df5acfa3234/99/image.jpg",
+      "caption": "IMG-20160316-WA0038"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad75d9ab-99c6-477a-9e0b-7a1801fada08/99/image.jpg",
+      "caption": "20160309_085431"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5b5ca9ca-4bc2-4b0a-9e63-6f1ecf074fc0/99/image.jpg",
+      "caption": "20160309_085457"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e820198c-0035-4978-8b4b-543d603e1610/99/image.jpg",
+      "caption": "20160309_111654"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f7a51bfd-9740-44e4-a898-118712b2c5b2/99/image.jpg",
+      "caption": "20160309_085436"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/720f0cb2-ed52-47b3-b414-39aa48c64fb4/99/image.jpg",
+      "caption": "DSC09505"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fc1c0ad2-1959-4995-a850-fe1d8fd1832c/99/image.jpg",
+      "caption": "DSC09511"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f53ac08-752b-468f-826c-911f5aa9c161/99/image.jpg",
+      "caption": "DSC09508"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd491c3e-b042-48e2-aa26-e047b7ab049e/99/image.jpg",
+      "caption": "20160112_115601"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f2e689a2-d879-4477-baed-de702b096d83/99/image.jpg",
+      "caption": "20160112_110234"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f608b556-4857-49ad-9a14-24afa2370892/99/image.jpg",
+      "caption": "20160118_085549"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e29fbdb7-3886-4da0-9d71-82ec21220b31/99/image.jpg",
+      "caption": "20160122_102909"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/85ccdf4e-1cd7-4547-841b-fccc21e32a2e/99/image.jpg",
+      "caption": "20160122_102556"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e67cfc7-f204-475e-b4fb-8950a195a7b2/99/image.jpg",
+      "caption": "20160122_103459"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a5629ff-c241-442b-98a5-d1090a24122d/99/image.jpg",
+      "caption": "20160122_104027"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5a013964-ee9a-446f-b1e0-b636ec2674b1/99/image.jpg",
+      "caption": "20160122_110202"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/21c5d75f-36f7-483a-be2c-7870a0e56de3/99/image.jpg",
+      "caption": "20160122_103442"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8917d471-01c9-47e0-beaa-b5df1f5dee77/99/image.jpg",
+      "caption": "20160126_094722"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab5cbf6a-69f9-429d-89c2-49d1954c1da3/99/image.jpg",
+      "caption": "20160126_094730"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b29a5a91-04ea-4217-9b5a-1a48c304e2f1/99/image.jpg",
+      "caption": "20160126_100359"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9280800b-c4ac-4a20-9de0-0c72406371ba/99/image.jpg",
+      "caption": "20160126_105831"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/79161a76-be01-40a5-805b-e2fab12e2340/99/image.jpg",
+      "caption": "20160126_115649"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c257b9df-31b6-4420-9432-319967a1d817/99/image.jpg",
+      "caption": "20160126_100350"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf5faf8a-1b22-4e59-9fbf-8dcb911482b6/99/image.jpg",
+      "caption": "DSC09608"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/deac46bd-fc97-48ec-be26-52890bd78ff6/99/image.jpg",
+      "caption": "DSC09609"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e51f302e-4999-4c09-a1fc-5c2573837649/99/image.jpg",
+      "caption": "DSC04303"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1f8c3603-e1e1-459b-9850-a834e66067a3/99/image.jpg",
+      "caption": "Nebel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b89efa77-958d-4b1b-99a6-d1d1b7d7e1cf/99/image.jpg",
+      "caption": "Nebel 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ebbd7dd-a65d-4a38-b26a-0adc5209aea0/99/image.jpg",
+      "caption": "Nebel 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/41a980fb-dac1-4f7a-b18b-f6e68a7205f1/99/image.jpg",
+      "caption": "Neuschnee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/25a22a7c-f239-4195-b78e-91fff90286c8/99/image.jpg",
+      "caption": "Ralph2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8b684bfd-b15a-4cc3-9c61-291a579f7504/99/image.jpg",
+      "caption": "DSC04307"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/595ae35c-2f1e-4f9c-b0fe-5707a7f0464e/99/image.jpg",
+      "caption": "Ralph3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc8ec7bb-bb7c-42ae-a4bf-84022493f025/99/image.jpg",
+      "caption": "28.5."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e2afb1f7-af04-4cf4-ae51-7228407cd1ff/99/image.jpg",
+      "caption": "2905"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0466309c-29f3-41e5-bf97-3faf78511171/99/image.jpg",
+      "caption": "11063"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f91c9aa-632e-41f5-9525-36f62ef290a2/99/image.jpg",
+      "caption": "11062"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b173d52a-544d-43f2-8086-3aacdcdfc6a1/99/image.jpg",
+      "caption": "15092015"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/34928d56-1db8-4507-ac9a-9ee26f510ae3/99/image.jpg",
+      "caption": "25042015"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2eec9f88-f180-40b0-9a96-622c16a5a94d/99/image.jpg",
+      "caption": "180720152"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e9935da0-6d0d-4560-a5e3-55b4ec30809b/99/image.jpg",
+      "caption": "201020152"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a725fd02-1afb-4393-a2a9-102e624a2e42/99/image.jpg",
+      "caption": "Burgschrofen2905"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f886030c-3d91-4f17-8341-455fcf3a6604/99/image.jpg",
+      "caption": "Keiler1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/400fda2d-c907-4821-bc6f-f7d0f286cf42/99/image.jpg",
+      "caption": "Keiler4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/82869756-946e-4977-a507-30731b8770b4/99/image.jpg",
+      "caption": "steinerkogel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c80dcce-f3d5-4a26-8cd4-65495303d65d/99/image.jpg",
+      "caption": "Terrasse2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14792620-10e2-4538-9b40-1c3b9a26c7f7/99/image.jpg",
+      "caption": "Terrasse 6.6."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0e47b4c4-90cb-462e-ac4c-0aa7a8cd7cfa/99/image.jpg",
+      "caption": "1107151"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.179033680357",
+    "longitude": "11.8618011474609"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, bath, toilet, 1 bed room",
+      "description": "* Double room\n* Balcony\n* Bathroom with shower/WC, hairdryer\n* Toiletries\n* Cable-TV, W-Lan\n* Telephone, partial minibar\n* Seating area",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, bath, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, bath, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, bath, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "62.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Hotel suite, shower, toilet, facing the mountains",
+      "description": "* Double Bed\n* Balcony\n* Kitchen\n* Bathroom with shower/WC, hairdryer\n* Toiletries\n* Cable-TV, W-Lan\n* Telephone\n* Living zone with seating area",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "87.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "84.67",
+          "maxPrice": "84.67",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet",
+      "description": "* Double Bed\n* Balcony\n* Kitchen\n* Bathroom with shower/WC, hairdryer\n* Toiletries\n* Cable-TV, W-Lan\n* Telephone\n* Living zone with seating area",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Kat. C hotel apartment with shower, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "64.50",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "62.33",
+          "maxPrice": "133.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room",
+      "description": "Day Bergexperience - with \"Schrofen - Verwöhn - Dreiviertel - Pension\"\n*seven stays over night in a double room.\n*the \"Schrofen-Saunaworld\" for free\n*Visit of the \"Zillertaler Schnapsbrennerei\" with tasting\n*Zillertaler-Activ-Card for 6 days or more\n*breakfast on the Ahorn \n*free rent of backpack, walking sticks and bicycle, hiking maps\n*farmer buffet once a week\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

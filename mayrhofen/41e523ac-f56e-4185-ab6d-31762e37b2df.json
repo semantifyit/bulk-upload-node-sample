@@ -1,0 +1,370 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d41E523AC-F56E-4185-AB6D-31762E37B2DF"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apart Panorama",
+    "streetAddress": "Neu-Burgstall 320",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 64431",
+    "faxNumber": "(0043) 5285 64431",
+    "email": "apartpanorama@aon.at",
+    "url": "http://www.apart-panorama.jimdo.com"
+  },
+  "name": "Apart Panorama",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Gästehaus ist in ruhiger, sonniger Lage ca. 2km von Mayrhofen entfernt. In unmittelbarer Nähe befinden sich die Horbergbahn, die Langlaufloipe, sowie Radwanderwege. Ca. 80m entfernt befindet sich die Dörfer- und Schibushaltestelle. Liegewiese mit Gartenmöbel und Sonnenterrasse, sowie Parkplätze sind vorhanden."
+    },
+    {
+      "@language": "de",
+      "@value": "Die Preise verstehen sich inklusive Kurtaxe, exklusive Endreinigung."
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise: Richtung Mayrhofen, vor Mayrhofen rechts abbiegen - Richtung Horbergbahn, beim Kreisverkehr die letzte Ausfahrt nehmen, danach die 3. Einfahrt rechts abbiegen."
+    },
+    {
+      "@language": "en",
+      "@value": "Our guest house is situated in a quiet, sunny position approx 2km from Mayrhofen. In the immediate vicintiy is the Horbergbahn lift station, cross country ski trail and cycle paths. Approx. 30m away is the ski and village bus stop. Sun terrace with garden furniture and car parking are available."
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes local taxes and continental breakfast."
+    },
+    {
+      "@language": "en",
+      "@value": "Arrival: Just before Mayrhofen, turn right in the direction of the Horbergbahn, take the last turning at the roundabout, and then the 3rd turning on the right."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7b5054fe-59f7-4f8d-be67-414fd62ec1e1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Panorama Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Panorama Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Panorama Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/69cf2e36-075f-4f5c-aa84-77e4642e1542/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Blick Ahornspitz"
+        },
+        {
+          "@language": "en",
+          "@value": "Blick Ahornspitz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Blick Ahornspitz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/92f35d5d-9f66-43b5-98d3-b6070a47c76f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kerzen"
+        },
+        {
+          "@language": "en",
+          "@value": "Kerzen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kerzen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/18c6a28f-c98d-4d19-8def-3fe2e4c176b5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Flur"
+        },
+        {
+          "@language": "en",
+          "@value": "Flur"
+        },
+        {
+          "@language": "ru",
+          "@value": "Flur"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1861634381073",
+    "longitude": "11.8596768379211"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Zweibettzimmer, Dusche, WC, Süd"
+        },
+        {
+          "@language": "en",
+          "@value": "Twin room, shower, toilet, south"
+        },
+        {
+          "@language": "ru",
+          "@value": "Твин, душ, туалет, на юг"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütlich eingerichtetes Zimmer mit Balkon, Dusche, WC, Föhn, Safe und Sat-TV."
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortably furnished room with balcony, shower, toilet, hairdryer, safe and satellite TV."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/Wohn-Schlafraum/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/combined living-bed-room/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Твин, душ, туалет, на юг"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die Ferienwohnung ist mit einer großen Küche, zwei separaten Zimmern mit Dusche/WC, Balkon, Sat-TV, Safe, Radio sowie Bettwäsche und Handtücher ausgestattet."
+        },
+        {
+          "@language": "en",
+          "@value": "The holdiay apartment is equipped with a large kitchen, 2 separate rooms with shower/WC, safe, balcony, Sat-TV, radio, bed linen and hand towels."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC, Ost"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet, east"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет, на восток"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer mit Dusche/WC und Balkon, teilweise als Dreibettzimmer möglich."
+        },
+        {
+          "@language": "en",
+          "@value": "Shower room with shower WC and balcony, some rooms available with 3 beds."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет, на восток"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

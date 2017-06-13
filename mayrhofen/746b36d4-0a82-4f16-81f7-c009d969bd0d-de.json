@@ -1,0 +1,80 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d746B36D4-0A82-4F16-81F7-C009D969BD0D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Neuner, Haus",
+    "streetAddress": "Schweinberg 31",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63310",
+    "faxNumber": "0043 5285 63310",
+    "email": "neuner.sabine@aon.at"
+  },
+  "name": "Haus Neuner",
+  "description": [
+    "Unser familiär geführte Privatpension liegt 2km außerhalb von Mayrhofen mitten im Grünen. Die zwei rustikal eingerichteten Doppelzimmer (Sonneneinstrahlung von 09.00 - 19.00 Uhr) mit wunderbarer Aussicht auf Mayrhofen und die Bergwelt des hinteren Zillertales sowie über eine gemeinsam zu benützende Etagendusche mit WC. Eine gemütliche Sonnenterrasse, ein gepflegter Garten mit Liegestuhlbenützung und ein seperater Frühstücksraum stehen unseren Gästen ebenfalls zur Verfügung.",
+    "Die Preise verstehen sich inklusive Kurtaxe und Frühstück.",
+    "Unser Haus liegt 2km vor Mayrhofen an der linken Talseite - von Norden kommend. Passieren Sie den Ort Ramsau (Ampel) - nach 1,5km fahren Sie in einen Kreisverkehr ein. Nehmen Sie die 2. Ausfahrt und biegen Sie rechts ab. Nach weiteren ca. 600m kommt links eine Seitenstraße mit braunen Häuserschildern. Biegen Sie links ein und dann wieder links den Hügel hinauf, das nächste Haus and dieser Straße ist unseres. Unsere Pension liegt direkt neben dem Gasthof \"Eckartauerhof\"."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e854e1de-860e-4a5e-bab6-ba0378633d3e/99/image.jpg",
+      "caption": "Haus Neuner Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bdb62c8f-f2a4-433e-8639-8e53889c2d3e/99/image.jpg",
+      "caption": "Haus Neuner Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e87728a3-94d5-4a96-9656-61a5cfb85ad1/99/image.jpg",
+      "caption": "Haus Neuner Mayrhofen - Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd335b5e-bcae-4a4a-bdda-67bc62bb4749/99/image.jpg",
+      "caption": "Haus Neuner Mayrhofen - Frühstücksraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1885276592609",
+    "longitude": "11.8737423419952"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, fl. k/w Wasser",
+      "description": "Gemütlich eingerichtete Doppelzimmer im rustikalen Stil. Mit traumhafter Aussicht auf die Bergwelt des hinteren Zillertales.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Kinderspielplatz Ramsau (nähe Bahnhof)"
+    },
+    {
+      "@language": "de",
+      "@value": "Kinderspielplatz Ramsau (nähe Bahnhof)"
+    },
+    {
+      "@language": "ru",
+      "@value": "Kinderspielplatz Ramsau (nähe Bahnhof)"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.205633864897",
+    "longitude": "11.8694229802483"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kinderspielplatz",
+    "streetAddress": "Talstraße ",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Der Kinderspielplatz Ramsau mit Rutschen, Klettermöglichkeiten, Wippe, Sandkasten, Balanciermöglichkeiten, ... liegt an der Zillerpromenade/Zillertalradweg und ist somit bestens zu Fuß, mit dem Rad oder aber auch mit Zug oder Auto erreichbar. Der Bahnhof Ramsau ist nur wenige Meter entfernt - Parkmöglichkeiten sind in unmittelbarer Nähe vorhanden. Zahlreiche Sitzmöglichkeiten im Schatten hoher Bäume laden auch zum längeren Verweilen ein!\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6931c416-634f-43ee-af82-8507f24aca36/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Spielplatz nähe Bahnhof 1"
+        },
+        {
+          "@language": "de",
+          "@value": "Spielplatz nähe Bahnhof 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Spielplatz nähe Bahnhof 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1754f1d1-d787-49f5-9646-e929a35ae393/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Spielplatz nähe Bahnhof 2"
+        },
+        {
+          "@language": "de",
+          "@value": "Spielplatz nähe Bahnhof 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Spielplatz nähe Bahnhof 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8ac2ac78-ffff-42f2-827c-864cc17bd119/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Spielplatz nähe Ramsau 3"
+        },
+        {
+          "@language": "de",
+          "@value": "Spielplatz nähe Ramsau 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Spielplatz nähe Ramsau 3"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.mayrhofen.at/de/101029/101030/101549/kinderspielplaetze.html?session\u003d00u1kav3m7u9po1kp4h2pv7oc7"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": "St. Patricks Day im Coup\u0026More",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Coup\u0026More",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Christoph ",
+      "familyName": "Huber"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Hauptstraße 455a",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 63665",
+      "email": "info@coup-more.at",
+      "url": "http://www.coup-more.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Coup\u0026More",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Hauptstraße 455a",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 63665",
+      "email": "info@coup-more.at",
+      "url": "http://www.coup-more.at"
+    }
+  },
+  "description": "mit Steve Summerfield (live guitar) ab 20.00 Uhr ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/43d6a45c-65c6-4c76-83bc-78c4194417b5/99/image.jpg",
+      "caption": "logo"
+    }
+  ],
+  "startDate": "2017-03-17T20:00:00",
+  "endDate": "2017-03-17"
+}

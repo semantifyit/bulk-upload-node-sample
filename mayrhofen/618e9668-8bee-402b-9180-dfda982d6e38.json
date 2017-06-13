@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Jausenstation Zamsgatterl 1800m"
+    },
+    {
+      "@language": "de",
+      "@value": "Jausenstation Zamsgatterl 1800m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Jausenstation Zamsgatterl 1800m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0288226374825",
+    "longitude": "11.6954280814523"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dornauberg 118",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 443 34 51",
+    "email": "sue50@gmx.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Am Beginn des Weges zum Pfitscherjoch befindet sich die Jausenstation Zamsgatterl. \n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\ngeschlossen\n\nkeine Übernachtung möglich "
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nclosed\n\nno overnight stay possible "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4913ca0-3abc-4b5a-aa28-52b51997fef0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Jausenstation"
+        },
+        {
+          "@language": "de",
+          "@value": "Jausenstation"
+        },
+        {
+          "@language": "ru",
+          "@value": "Jausenstation"
+        }
+      ]
+    }
+  ]
+}

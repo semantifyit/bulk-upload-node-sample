@@ -1,0 +1,62 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Kinderspielplatz Scheulingwald"
+    },
+    {
+      "@language": "de",
+      "@value": "Kinderspielplatz Scheulingwald"
+    },
+    {
+      "@language": "ru",
+      "@value": "Kinderspielplatz Scheulingwald"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.165076019535",
+    "longitude": "11.8712710222595"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kinderspielplatz",
+    "streetAddress": "Scheulingwald",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Der kleine Kinderspielplatz Scheulingwald lädt die Kinder mit Schaukel, Wippe, Rutsche und Sandkasten zum Spielen ein. Mehrere Bänke stehen für eine Rast und zum Jausnen bereit.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a4f64ae-a630-4aa5-9d0b-ce91ea53dc2f/99/image.png",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Scheulingwald"
+        },
+        {
+          "@language": "de",
+          "@value": "Scheulingwald"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scheulingwald"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.mayrhofen.at/de/101029/101030/101549/kinderspielplaetze.html?session\u003d00u1kav3m7u9po1kp4h2pv7oc7"
+  ]
+}

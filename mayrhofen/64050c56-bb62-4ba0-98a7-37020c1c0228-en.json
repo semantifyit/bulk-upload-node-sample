@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Melli\u0027s by Photographie Hruschka",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1655299099735",
+    "longitude": "11.863260269165"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Melli\u0027s by Photographie Hruschka",
+    "streetAddress": "Scheulingstraße 390b",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0043 5285 62242",
+    "faxNumber": "(0043) 0043 5285 64872",
+    "email": "info@zillertalfoto.com",
+    "url": "http://www.zillertalfoto.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53a12959-6dee-4302-ba88-64717801bb6b/99/image.png",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.zillertalfoto.com"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsEvent"
+  ],
+  "name": "Shred Unit Girls Sessions",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Mayrhofner Bergbahnen",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ahornstraße 853",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 62277 ",
+      "faxNumber": "+43 5285 62277-161",
+      "email": "info@mayrhofner-bergbahnen.com",
+      "url": "http://www.mayrhofner-bergbahnen.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Mayrhofner Bergbahnen",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ahornstraße 853",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 62277 ",
+      "faxNumber": "+43 5285 62277-161",
+      "email": "info@mayrhofner-bergbahnen.com",
+      "url": "http://www.mayrhofner-bergbahnen.com"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/506828dc-edf1-4cfe-b174-8dd07e4c090c/99/image.jpg",
+      "caption": "Shred Unit Girls Session"
+    }
+  ],
+  "startDate": "2017-03-18T00:00:00",
+  "endDate": "2017-03-18"
+}

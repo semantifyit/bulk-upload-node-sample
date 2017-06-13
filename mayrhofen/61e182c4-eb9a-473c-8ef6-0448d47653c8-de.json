@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Adlerbühne Ahorn",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1371984013812",
+    "longitude": "11.8693864345551"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ahornbahn",
+    "streetAddress": "Ahornstraße 853",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 62277",
+    "faxNumber": "+43 5285 62277-161",
+    "email": "info@mayrhofner-bergbahnen.com",
+    "url": "http://www.mayrhofner-bergbahnen.com"
+  },
+  "description": "Greifvogelschau am Ahorn auf 2.000 m von Mitte Juni bis Mitte Oktober jeweils um 14:00 Uhr (Freitag Ruhetag)\n\nAus nächster Nähe erleben die Besucher der Adlerbühne Ahorn in Mayrhofen wie Adler und andere Greifvögel nur wenige Zentimeter über Ihren Köpfen hinweg schweben. In der Naturbühne am Genießerberg Ahorn ist nicht nur die einstündige Greifvogelschau ein Erlebnis: \nSpektakuläre Luftakrobatik präsentiert mit Erklärungen zu den Vögeln \nIntegration von Gästen in die Vorführung (auf Deutsch und Englisch) \nFalknerschnuppern (Infos im Flyer) Öffnungszeiten 9.30 - 11.30 Uhr außer mittwochs  \nLeicht zu erreichen von der Bergstation Ahornbahn in den Zillertaler Alpen\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/884235ab-3d46-43a0-8a06-e30e25e1c10c/99/image.png",
+      "caption": "Adlerbühne 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4238056a-c486-49dc-a4e2-dc26669bcdae/99/image.jpg",
+      "caption": "Adlerbühne 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c5a3784a-f96b-445d-a846-da9650a37275/99/image.jpg",
+      "caption": "Adlerbühne 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/48951afd-b0b7-422e-bc78-ff85d3fcceef/99/image.jpg",
+      "caption": "Adlerbühne 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d95cd052-604a-4939-a0a3-88a4fe2a5b73/99/image.jpg",
+      "caption": "Adlerbühne 5"
+    }
+  ],
+  "url": [
+    "http://sommer.mayrhofner-bergbahnen.com/de/100357/100550/adlerbuehne-greifvogelschau-ahorn-mayrhofen.html"
+  ]
+}

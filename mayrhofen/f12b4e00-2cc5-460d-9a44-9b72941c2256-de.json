@@ -1,0 +1,159 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dF12B4E00-2CC5-460D-9A44-9B72941C2256"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Villa Daringer",
+    "streetAddress": "Dornaustraße 611",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62728",
+    "email": "villadaringer@googlemail.com"
+  },
+  "name": "Villa Daringer",
+  "description": [
+    "Unser Gästehaus Daringer befindet sich in ruhiger, sonniger Lage, im Zentrum von Mayrhofen. Unser Haus verfügt über einen gemütlichen Aufenthaltsraum. Die Penkenbahn erreichen Sie in nur 2 Gehminuten. Zufahrt zum Haus: Umfahrungsstrasse - Einfahrt Rotes Kreuz",
+    "Die Ortstaxe ist im Preis inkludiert.",
+    "Anreise: Sie erreichen Mayrhofen über die Zillertal Bundesstrasse B169. Sie fahren auf der Umfahrungsstrasse  beim Bahnhof vorbei und biegen kurz nach der Einfahrt Mitte beim Roten Kreuz ab."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97685d6d-b7e8-417f-a8df-2beadfa41631/99/image.jpg",
+      "caption": "Villa Daringer Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bac34ab8-d24e-44da-b4b3-b5bf2d816f12/99/image.jpg",
+      "caption": "Villa Daringer Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7322966-5b6a-4506-af44-b7b3ea250965/99/image.jpg",
+      "caption": "Villa Daringer Mayrhofen - Sitzecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/44f42684-fb52-4676-b8a9-2f8a840ee929/99/image.jpg",
+      "caption": "Villa Daringer Mayrhofen - Sitzecke2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9048d5f8-52ff-4d0c-991b-6738f4b96693/99/image.jpg",
+      "caption": "Villa Daringer Mayrhofen - Blume"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ab56521-94b9-442b-9a24-c3781c995d85/99/image.jpg",
+      "caption": "Villa Daringer Mayrhofen - Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4b97116b-a289-4ec7-8905-e4bbeb4678c5/99/image.jpg",
+      "caption": "Villa Daringer Mayrhofen - Garten2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6695e09c-e32f-4ce4-9eab-e755c2f5f226/99/image.jpg",
+      "caption": "Villa Daringer Mayrhofen - Deko"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1648880033821",
+    "longitude": "11.8592369556427"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "1 Fewo f. 2-4 Personen ca. 40m² \n1 Vorraum\n1 Wohnküche\n1 Wohnschlafraum mit Sat TV\n1 Doppelschlafzimmer\n1 DU/WC\nBalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung 1",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt",
+      "description": "1 Fewo f. 3-5 Personen ca. 45m²\n1 Vorraum\n1 Küche mit kompletter Ausstattung (Sat-TV)\n1 Dreibettzimmer\n1 Schlafraum mit Etagenbett für 2 Personen\n1 Dusche\n1 WC\nBalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung 2",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "1 Ferienwohnung für 4-5 Personen ca. 60m²\n1 Vorraum\n1 Wohnküche komplett ausgestattet mit Sat TV\n2 Schlafräume\n1 DU/WC\nBalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung 3",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "1 Ferienwohnung für 2-3 Personen ca. 45m²\n1 Vorraum\n1 Wohnküche komplett ausgestattet (Sat-TV)\n1 Dreibettzimmer\n1 DU/WC\nBalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung 4",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

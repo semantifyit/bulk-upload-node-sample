@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Festival"
+  ],
+  "name": "Almabtrieb Jogglerhof",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Jogglerhof",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Johannes",
+      "familyName": "Trojer"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ramsau 260",
+      "addressLocality": "Ramsau",
+      "postalCode": "6284",
+      "addressCountry": "AT",
+      "telephone": "+43 5282 3827",
+      "faxNumber": "+43 5282 3827",
+      "email": "jogglerhof@gmx.at",
+      "url": "http://www.jogglerhof.com/"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Jogglerhof",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ramsau 260",
+      "addressLocality": "Ramsau",
+      "postalCode": "6284",
+      "addressCountry": "AT",
+      "telephone": "+43 5282 3827",
+      "faxNumber": "+43 5282 3827",
+      "email": "jogglerhof@gmx.at",
+      "url": "http://www.jogglerhof.com/"
+    }
+  },
+  "description": "Das Almabtriebsfest beim Jogglerhof in Ramsau findet am 30. September 2017 ab ca. 11.00 Uhr statt.\n\nFür Speis \u0026 Trank sowie Musik \u0026 Unterhaltung ist bestens gesorgt!\n\nEintritt frei.\n\nÄnderungen vorbehalten!\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e508c9dc-2445-4cae-b256-c1852eea0586/99/image.png",
+      "caption": "Jogglerhof"
+    }
+  ],
+  "startDate": "2017-09-30T00:00:00",
+  "endDate": "2017-09-30"
+}

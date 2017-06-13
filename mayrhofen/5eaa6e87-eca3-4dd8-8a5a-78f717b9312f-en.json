@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Alpengasthof Mösl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2069820986265",
+    "longitude": "11.8163537979126"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Mösl",
+    "streetAddress": "Schwendberg 528",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3457",
+    "email": "hanser@moesl.at",
+    "url": "http://www.moesl.at"
+  },
+  "description": "Our homelike hotel is situated at an altitude of 1500 m, surrounded by a great mountain environment, at the Zillertaler Höhenstraße and can be reached within 20 minutes by car from Hippach.\nThere is a scheduled bus connection to us as well.\n\nWe offer you a quiet location, a familiar atmosphere and a home-style-cooking.\n\nSpend an unforgettable vacation with us and get away from every-day-life.\n\nWe are looking forward to get to know you.\n\nFamily Hanser",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/def2ac1f-f512-44ea-acac-95cc4b59ab16/99/image.jpg",
+      "caption": "Mösl neu"
+    }
+  ],
+  "url": [
+    "http://www.moesl.at"
+  ]
+}

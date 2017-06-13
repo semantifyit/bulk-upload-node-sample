@@ -1,0 +1,66 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Tandemflug Austria"
+    },
+    {
+      "@language": "de",
+      "@value": "Tandemflug Austria"
+    },
+    {
+      "@language": "ru",
+      "@value": "Tandemflug Austria"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1943614",
+    "longitude": "11.8787098"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tandemflug Austria",
+    "streetAddress": "Bichl 670",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 664 4955 716",
+    "faxNumber": "(0043) 5282-51086",
+    "email": "info@tandemflug.at",
+    "url": "http://www.tandemflug.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Wir fliegen mit einem sehr grossen, für den Doppelflug gebauten und geprüften Gleitschirm.\nBeim Start laufen Sie einige Meter mit dem Piloten den Hang hinunter. Sie heben ab in die dritte Dimension und die Welt liegt an Ihren Füssen.\nSie sitzen bequem im Gurtzeug und können den Flug geniessen.\nWenn Sie möchten, können Sie nun Fotos schiessen oder den Schirm auch selber einmal steuern und ein paar Kurven drehen.\nDie Landung ist weich und einfach\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a5ddaecc-249e-4d4c-9707-2423e09a648a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Tandemflug Austria"
+        },
+        {
+          "@language": "de",
+          "@value": "Tandemflug Austria"
+        },
+        {
+          "@language": "ru",
+          "@value": "Tandemflug Austria"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.tandemflug.at"
+  ]
+}

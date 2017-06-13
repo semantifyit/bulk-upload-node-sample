@@ -1,0 +1,698 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ahornlodge.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Filzenboden 920",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 1246833",
+    "email": "info@ahornhuette-mayrhofen.at",
+    "url": "http://www.ahornlodge.at"
+  },
+  "name": "Ahornhütte AhornLodge",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e0595ef-9198-4ddd-b5c0-ab7afd66d834/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Sommerfoto 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/624f8746-e93b-4572-9163-69f8953fc990/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Sommerfoto 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14adc2fe-19fb-416d-b9b8-586971525917/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Sommerfoto 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a0fee991-301a-434e-b625-2b8b7f056708/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Sommerfoto 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f9d3b533-8dae-42dd-83f6-1cde4174c7ce/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Sommerfoto 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd389d31-91f1-48dc-830e-23a2997e632f/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Winterfoto 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c70a257b-4d87-40a5-a469-2d5a03c13f38/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Winterfoto 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f42a0d73-3bf1-43b5-af37-aca5424cebc5/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Winterfoto 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9789dbb6-e8f1-480b-8782-d035cdf44873/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Winterfoto 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/037deb66-7a46-4344-a7f5-be933179c92b/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Winterfoto 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63b632a2-fd29-47e8-b605-136d4a71ddda/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Winterfoto 6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/beb3a3ff-c71b-4628-9a1e-96fedb7bdf10/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Winterfoto 7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ae4389b-5c83-4a4c-ab68-c1e6f46748d7/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Winterfoto 8"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/669dfa3d-61de-47f7-82d9-2cb13b0f7087/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Winterfoto 14"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/79055a2e-c500-43a1-ad8a-8afca33d5768/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Logo 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f43ad50-0519-4ec1-9bb1-8ddf9362a53a/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Logo 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d5b5eaba-eac8-44fa-80b7-7b6bac85c271/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Stimmung 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf6d1df4-1feb-4ed6-b2a9-9b1bf8e1f6e9/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Stimmung 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e9546d60-a9ca-4cfd-8866-7f431a89e2ff/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Stimmung 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cb69dd15-7d95-4477-ac33-7fd53ccb1aad/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Stimmung 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/afffbce0-9849-42b6-a56b-937c48bab4ab/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Stimmung 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6423124b-f8ba-4f13-98ec-ac376a8fe6ed/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Stimmung 6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/627d234a-5d30-4a02-acee-b177d77ba5cb/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Natur 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c492de86-cacf-4a24-8ed0-78c718b99470/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Natur 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b1c9f205-244d-4b05-bf73-302cfa3ab352/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Natur 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a2c9d790-4a37-4e5b-8188-e3f964d054e9/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Natur 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6eb481e-53fb-4059-a9c9-b6b91a70ad12/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Natur 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f8c9b8f-5f52-4381-95c3-d9d6859fd5e5/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Natur 6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14b4de5e-9c2f-42e4-92ad-f08851549ac1/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Natur 7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ccbbad6f-508a-463d-8ae1-21dcbcab265c/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Kinder 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5b0adca0-8462-4a39-86a9-9373aaecca24/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Kinder 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e25f1347-09b1-4e80-8823-3ae00cb399a3/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Kinder 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/421f5065-1780-4799-b08f-ed34c326b608/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Kinder 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b1298e6c-0f69-4960-8d33-9614f5dac0d2/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Kinder 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cfc71e0a-2922-414a-bf12-2c56bf0da5c0/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Kinder 6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9af3f456-2ff3-4bbd-be2b-fc5609be1515/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Kinder 7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09561411-7b8c-44ad-9c58-f2f4adf7f1f7/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Kinder 8"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/661a5690-4776-4596-8015-eea7a88f4a4c/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Kinder 9"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9dd9e0bf-7e4d-4b34-8d70-daba8d381b38/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Kinder 10"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7dee91e-d911-46de-b024-91e0427493ac/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Kinder 11"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/70ca259a-c166-4b37-a530-93306d1bcdb1/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Kinder 12"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f8735022-b13f-4fbe-be75-340cb02d25d4/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Abendstimmung 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a2762793-93c2-4ad6-b0ad-2d551662b178/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Piste 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/65dc7c94-bcdd-470b-96bd-2aa0af31f9e7/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Piste 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6124dd4-89df-4dc7-93ac-94b6ee874f45/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Piste 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2178825-4373-42ec-a914-2d46827ef98e/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Piste 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d077b58a-a658-4a6b-90b3-1726e5a38eb5/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Piste 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4cfac351-39a1-4cab-a456-22b6b2bda252/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Piste 6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6924d9c7-fa26-46b2-9e18-b7e0c6c9d98a/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Piste 7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7bc66a22-59d6-4be3-955e-5874f4ee6096/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Piste 8"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/817b321b-1d56-41dd-a71b-c5bb8ac82307/99/image.jpg",
+      "caption": "Ahorn Lodge Mayrhofen Piste 9"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.136475210206",
+    "longitude": "11.8684985569611"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, ванна, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "53.75",
+          "maxPrice": "57.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "50.00",
+          "maxPrice": "53.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "47.50",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "68.75",
+          "maxPrice": "72.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "65.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "62.50",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, ванна, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "58.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "52.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "73.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "67.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, ванна, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "61.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "51.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "48.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "76.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "66.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "63.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, ванна, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "61.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "51.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "48.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "135.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "61.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "51.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "48.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

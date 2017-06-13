@@ -1,0 +1,899 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.urlaubzillertal.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d43F968C8-6197-471D-82A1-7D51101BF50A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sonnenschein, Haus",
+    "streetAddress": "Laubichl 155",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64990",
+    "email": "info@urlaubzillertal.com",
+    "url": "http://www.urlaubzillertal.com"
+  },
+  "name": "Haus Sonnenschein",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt am Nordrand von Mayrhofen in ganzjähriger sonnigen Lage - 5 Gehminuten bis zum Ortszentrum.\nIm Sommer ein idealer Ausgangspunkt für zahlreiche Wanderungen und sportliche Aktivitäten .\nEin gratis Ski Bus (Haltestelle in unserer Nähe) bringt Sie zu Ihrem gewünschten Skigebiet .\nAusgestattet : mit  Skikeller,Skischuhtrockner, Solarium, Dampfbad, Infrarotkabiene, Biosauna,Finnischesauna , Liegewiese, Sonnenterrasse, Kinderspielplatz ,kostenloser Fahrradverleih, kostenlos W-Lan , kostenlos SKY ,Gäste Waschmaschine und Trockner ."
+    },
+    {
+      "@language": "de",
+      "@value": "Im Winter kostenlose Sauna von Sonntag bis Donnerstag .\nIm Sommer können Sie die Sauna am Montag am Mittwoch und bei schlechten Wetter kostenlos nutzen.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Check-In ab 14.00 Uhr, Check-Out bis 09.00 - 10.00 Uhr.\nAnreise: Richtung Mayrhofen bis zum Kreisverkehr, links bis zur BP-Tankstelle, nochmal links Richtung Laubichl bis zum Campingplatz, gegenüber befindet sich unsere Einfahrt, die letzten zwei Hä"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated in a sunny position, only a few minutes walk away from the town centre, ski bus stop close by, in summer an ideal starting point for hikes, ski cellar and ski boot dryer, solarium, sauna, sanarium, sunning area, terrace, children\u0027s play ground - animal pen, cycle hire."
+    },
+    {
+      "@language": "en",
+      "@value": "The price excludes a final cleaning charge. Bed linen and towels are supplied. \nIn winter saunas are free from sunday until thursday. \nIn summer: daily use of infrarot cabines for free, 50% reduction on fishing cards, use of the \"Sommer Aktiv Programm\" for free"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in from  14.00hr, check out 09.00 - 10.00hr.\nDirections: Drive to Mayrhofen until the roundabout, turn left towards the BP petrol station, left again in the direction of Laubichl until the camp site (Campingplatz), our drive can be found opposite, and the last two houses are \"Appartements Sonnenschein\"."
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "50"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8e042fd0-67dd-4f41-a967-85ef1eb7f45f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "App. Sonnenschein - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "App. Sonnenschein - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "App. Sonnenschein - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cce18350-3947-458d-9ddd-fa656a8d35da/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "App. Sonnenschein Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "App. Sonnenschein Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "App. Sonnenschein Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26a23f8a-50d8-48f3-954f-4451ca1f01c5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sauna - Tirol"
+        },
+        {
+          "@language": "en",
+          "@value": "Sauna - Tirol"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sauna - Tirol"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4fe6ad0c-e950-4484-a63c-63d6edc09cf8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ruheraum - Erholung"
+        },
+        {
+          "@language": "en",
+          "@value": "Ruheraum - Erholung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ruheraum - Erholung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b731ff95-d582-48af-8bf6-a1dee179a47c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sauna - Mayrhofen"
+        },
+        {
+          "@language": "en",
+          "@value": "Sauna - Mayrhofen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sauna - Mayrhofen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8fe9abba-6542-4118-8178-3a8c70ca0f11/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wellness"
+        },
+        {
+          "@language": "en",
+          "@value": "Wellness"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wellness"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fac6e8f5-fd07-4ebd-893c-ea10e29c0b8a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub in Mayrhofen"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub in Mayrhofen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub in Mayrhofen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0b4fd4fd-2565-4109-98bf-c443723b3374/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/617def9f-a1d5-4d75-9438-0e725dbc0cf2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerurlaub"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerurlaub"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerurlaub"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f45a280e-7517-428a-9545-f86c0110d657/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerfrische"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerfrische"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerfrische"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1758941686552",
+    "longitude": "11.8663394451141"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Vorraum, Wohnschlafzimmer +offenen Kamin, Doppelzimmer mit TV ,  Doppelzimmer mit Dusche und WC,  Dreibettzimmer mit TV ,Küche (voll einger.) mit Geschirrspüler, Badezimmer mit Dusche,Badewanne + WC, extr. WC, Balkon Richt. Süden\nSafe, Kabel-TV mit 8 Sky Programme ,kostenloses W-Lan ,Radio und Telefon\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Pleasantly furnished in a country style, this apartment consists of a large combined lounge/bedroom with an open fire place, 2 double bedrooms with washing facilities, a bedroom with 3 beds, fully equipped kitchen with dish washer, bath, shower and 2 x WC, south facing balcony, safe, radio and Sat-TV. We offer special low season deals."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "FW 8"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/3 bedrooms/shower,bath tube,WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, три спальни"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/abbdf18f-ba53-4159-ad55-2a0b7f6c113f/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Ferienwohnung  8"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Ferienwohnung  8"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Ferienwohnung  8"
+                }
+              ]
+            }
+          ],
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "107.00",
+          "maxPrice": "243.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "123.00",
+          "maxPrice": "243.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "139.00",
+          "maxPrice": "243.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "155.00",
+          "maxPrice": "264.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "173.00",
+          "maxPrice": "285.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Vorraum ,  Wohnschlafzimmer mit offenem Kamin,  Doppelzimmer,  Küche (voll einger.)mit Geschirrsp., Dusche und WC, Terrasse \n Safe,Kabel-TV mit 8 Sky Programme ,kostenloses W-Lan , Radio u. Telefon .\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Pleasantly furnished in a country style, this apartment with entrance hall has a combined bedroom/lounge with open fire place, a double bedroom, a terrace with garden, small fully equipped kitchen, shower, WC, safe, radio and Sat-TV. We offer special deals in low season."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "FW 2"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "71.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "82.00",
+          "maxPrice": "127.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Vorraum, Wohnzimmer mit offenen Kamin, Küche (voll einger.)mit Geschirrspüler,  Doppelzimmer,  kl.Schlafzimmer mit 2 getr. Betten, Dusche ,sep. WC, Balkon Richt. Süd/ Ost\nSafe, Kabel-TV mit 8 Sky Programme ,kostenloses W-Lan , Radio und Telefon ausgestattet.\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Pleasantly furnished in a country style, this apartment is equipped with an entrance hall, lounge with open fire place, double bedroom, small bedroom with 2 single beds or bunk beds, a small fully equipped kitchen, shower, separate WC, safe, radio, balcony and Sat-TV. We offer low season special deals."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "FW 6"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "62.00",
+          "maxPrice": "146.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "74.00",
+          "maxPrice": "146.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "86.00",
+          "maxPrice": "146.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Großes Wohnschlafzimmer mit Himmelbett,  Küche (voll eingerichtet), usche und sep. WC , Balkon - Nordseite \nSafe, Kabel-TV mit 8 Sky Programme ,kostenloses W-Lan , Telefon und Radio \n"
+        },
+        {
+          "@language": "en",
+          "@value": "Pleasantly furnished in a country style, apartment with a large combined lounge/bedroom with four poster bed, or a lounge with a small bedroom, balcony, small fully equipped kitchen, shower and separate WC, safe, radio and Sat-TV and telephone. We offer low season special deals."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "FW 7"
+            },
+            {
+              "@language": "en",
+              "@value": "ap./combined living-bed-room/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnschlafzimmer (\u003d Doppelbett und Sitzecke) Dusche und sep. WC , Küche (voll eingerichtet),Balkon Richt. Norden \nRadio,Safe ,Kabel-TV mit 8 Sky Programme ,kostenloses W-Lan ,Telefon \n"
+        },
+        {
+          "@language": "en",
+          "@value": "Pleasantly furnished apartment with a combined lounge/bedroom, (double bed and seating area), shower and separate WC, small fully equipped kitchen, coffee machine, balcony, radio, safe and Sat-TV. We offer low season special deals."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "FW 3"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/combined living-bed-room/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Vorraum . Wohnküche mit offenen Kamin, 2 Doppelzimmer, einer Dusche+WC, sep. WC, Balkon Richt. Süden\nSafe, Kabel-TV mit 8 Sky Programme ,kostenloses W-Lan , Radio und Telefon \n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Anteroom. Kitchen-living room with open chimney, 2 double rooms, a Dusche+WC, sep. WC, balcony Richt. The south\nSafe, cable TV with 8 Sky programmes, free W-Lan, radio and phone "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "FW 5"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "64.00",
+          "maxPrice": "156.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "76.00",
+          "maxPrice": "156.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "88.00",
+          "maxPrice": "156.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Vorraum, Wohnzimmer mit Kamin,1 Doppelzimmer + Dusche+WC, 1Dreibetzimmer, 1 Doppelzimmer,1 gr. Dusche + WC,1 separ. WC, Küche voll einger. mit Geschirrspüler, Balkon Richt. Süden\nSafe,Kabel-TV mit 8 Sky Programme ,kostenloses W-Lan ,Radio und Telefon \n"
+        },
+        {
+          "@language": "en",
+          "@value": "Anteroom, sitting room with chimney, 1 double room + Dusche+WC, 1Dreibetzimmer, 1 double room, 1 gr. Shower + WC, 1 separ. WC, kitchen completely einger. with dishwasher, balcony Richt. The south\nSafe, cable TV with 8 Sky programmes, free W-Lan, radio and phone "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "FW 9"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/3 bedrooms/shower,bath tube,WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "107.00",
+          "maxPrice": "243.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "123.00",
+          "maxPrice": "243.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "139.00",
+          "maxPrice": "243.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "155.00",
+          "maxPrice": "264.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "171.00",
+          "maxPrice": "285.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütliche Ferienwohnung mit großem Wohnschlafzimmer ( Schlafbereich durch Wand ein wenig abgegrenzt)Balkon Richtung Süden ,  abgeschlossene Küche (voll eingerichtet), Dusche und sep. WC , Safe, Kabel-Tv mit 8 Sky-Programme ,kostenloses W-Lan ,Telefon und Radio ausgestattet\n\nDer Preis versteht sich exklusive Kurtaxe ( pro Person pro Tag 1,50 Euro )  und einmalig 45 Euro Endreinigung"
+        },
+        {
+          "@language": "en",
+          "@value": "Pleasantly furnished in a country style, apartment with a large combined lounge/bedroom with four poster bed, or a lounge with a small bedroom, balcony, small fully equipped kitchen, shower and separate WC, safe, radio and Sat-TV and telephone. We offer low season special deals."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "FW 4"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "92.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "58.00",
+          "maxPrice": "102.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "67.00",
+          "maxPrice": "112.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

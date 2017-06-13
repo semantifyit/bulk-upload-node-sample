@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "Tennisplätze Hotel Strass",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1637863",
+    "longitude": "11.8610047"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport \u0026 Spa Hotel Strass Roscher KG",
+    "streetAddress": "Hauptstraße 470",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 6705",
+    "faxNumber": "0043 5285 63477",
+    "email": "info@hotelstrass.com",
+    "url": "http://www.hotelstrass.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f2e45bcc-930a-4f15-881d-a338c2c6f205/99/image.jpg",
+      "caption": "Hotel Strass"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd4c7134-7408-414e-b283-25e6c33537dc/99/image.jpg",
+      "caption": "Tennisplatz"
+    }
+  ],
+  "url": [
+    "http://",
+    "http://www.berghof.cc",
+    "http://www.hotelstrass.com",
+    "http://"
+  ]
+}

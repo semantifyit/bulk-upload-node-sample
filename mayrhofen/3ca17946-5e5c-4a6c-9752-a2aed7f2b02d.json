@@ -1,0 +1,77 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsEvent"
+  ],
+  "name": [
+    {
+      "@language": "de",
+      "@value": "TTV Regiomasters 2017"
+    },
+    {
+      "@language": "en",
+      "@value": "TTV Regiomasters 2017"
+    },
+    {
+      "@language": "ru",
+      "@value": "TTV Regiomasters 2017"
+    }
+  ],
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Tennisclub Hippach"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Lindenstrasse 42",
+      "addressLocality": "Hippach",
+      "postalCode": "6283",
+      "addressCountry": "AT",
+      "email": "info@tc-hippach.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Lindenstrasse 42",
+      "addressLocality": "Hippach",
+      "postalCode": "6283",
+      "addressCountry": "AT",
+      "email": "info@tc-hippach.at"
+    }
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Beim Regio Masters, das 2016 erstmalig (in Reutte) ausgetragen wurde, handelt es sich um das größte nationale Kinderturnier in Tirol. \nTeilnahmeberechtigt sind die besten Jugendspieler der Regionalen Turnierserien (Jugend Grand Slam im außerfern, Bouvier Cup im Oberland, Innsbruck Cup, Zillertaler Raiffeisen Jugendcup und Tiroler Meister und Vizemeister) in den Altersklassen U10 bis U16 weiblich und männlich.\n Dies ergibt eine fixe Gesamtteilnehmerzahl von 128 Spielerinnen und Spielern.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2fc09ea2-ef87-44e2-bad0-90e6f6e649c9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ],
+  "startDate": "2017-08-31T00:00:00",
+  "endDate": "2017-09-02"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gamshütte 1921m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1297755747771",
+    "longitude": "11.7955613136292"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gamshütte",
+    "streetAddress": "Brunnhaus 417",
+    "addressLocality": "Finkenberg",
+    "postalCode": "6292",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 343 7741",
+    "email": "info@gamshuette.at",
+    "url": "www.gamshuette.at"
+  },
+  "description": "Summer \n04. June 2017 \novernight stay possible 38 dormitories \ndiscount for AV members",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dda0f5c4-4f8c-41be-b28a-c1da10ad15b5/99/image.jpg",
+      "caption": "Gamshütte 1921m"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/155f3b46-69e9-4e6a-8f02-7c13b06ce316/99/image.jpg",
+      "caption": "Gamshütte"
+    }
+  ],
+  "url": [
+    "http://gamshuette.at"
+  ]
+}

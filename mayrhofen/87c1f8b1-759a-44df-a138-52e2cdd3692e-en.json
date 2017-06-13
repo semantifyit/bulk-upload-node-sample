@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Sport Manni",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1663504",
+    "longitude": "11.8628472"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport Manni",
+    "streetAddress": "Hauptstraße 439",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62711",
+    "faxNumber": "0043 5285 63301-0",
+    "email": "sporthotel@mannis.at",
+    "url": "http://www.sport-manni.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63fcf665-6f5c-48b8-934a-0a1176121f8f/99/image.jpg",
+      "caption": "1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0aa0274b-f588-4578-8644-5b28d1508664/99/image.jpg",
+      "caption": "2"
+    }
+  ],
+  "url": [
+    "http://www.sport-manni.at"
+  ]
+}

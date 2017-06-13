@@ -1,0 +1,783 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.mayrhofen.at/de/101031/101218/101250/steinberger-ferienwohnung.html",
+    "http://maps.mayrhofen.at/?foreignResource\u003dAE7F8F9B-0A30-4FB1-8361-DE4F28D30081"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Steinberger, Ferienwohnung",
+    "streetAddress": "Astbühel 294",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 4521290",
+    "email": "manz-steini@gmx.at"
+  },
+  "name": "Ferienwohnung Steinberger",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Kleines Appartement auf einer Anhöhe oberhalb von Hippach gelegen. Das Ortszentrum von Hippach ist in wenigen  Gehminuten erreichbar. Skibushaltestelle in 50m Entfernung. Große Terrasse! Gemütliche Küche eventuell mit Schlafgelegenheit. Im Schlafzimmer zusätzliches Doppelbett möglich (Länge 1,85m)!Wir sind ein Partner-\nbetrieb des ZILLERTALER NATURPARKS. Das bedeutet für unsere Gäste von Mai bis Oktober: Kostenlose Teilnahme an geführten Wanderungen,freier Eintritt ins Naturparkhaus,freier Eintritt zu Ausstellungen des Naturparks...........W-LAN Internetanschluß ist vorhanden! \n\nWeitere Fotos finden Sie unter:\nhttp://www.mayrhofen.at/de/steinberger-ferienwohnung "
+    },
+    {
+      "@language": "de",
+      "@value": "Bettwäsche, Handtücher, Geschirrtücher, Geschirrspültaps und Toilettenpapier sind inklusive! Ebenso ist W-LAN frei!"
+    },
+    {
+      "@language": "de",
+      "@value": "Checkout: bis 10:00\nCheckin: ab 14:00\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Small flat situated on a hill above Hippach. The local centre of Hippach is accessible at few walking minutes. Ski bus stop in 50 m of distance. Big terrace! Comfortable kitchen, with place to sleep. In the bedroom an additional double bed is possible\n"
+    },
+    {
+      "@language": "en",
+      "@value": "incl.: bedlinen, towels, dish towel, dish soap and toilet paper\n\nfree W-LAN"
+    },
+    {
+      "@language": "en",
+      "@value": "Checkin: from 14:00\nCheckout: till 10:00\n\n"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "27"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/934ceb1a-5f86-41cc-9b06-501544283f39/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC01418"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC01418"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC01418"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3af32e4-308c-4381-bac1-878e88ec6101/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC01413"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC01413"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC01413"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4c6bac11-9cb1-4030-b17a-6f5942d086d5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fewo Steinberger - Wohnküche"
+        },
+        {
+          "@language": "en",
+          "@value": "Fewo Steinberger - Wohnküche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fewo Steinberger - Wohnküche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4bbe2eff-f119-41a2-b991-8cd6e9348012/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC01356"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC01356"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC01356"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9565c7cf-ea34-42a6-8fcd-e9e48e386248/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC01917"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC01917"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC01917"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fc3b5c2e-cc2b-47b5-b6fa-70e4f6fe2c7d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC01363"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC01363"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC01363"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb831bda-4497-4cab-a2be-69c05d8b6820/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fewo Steinberger - Doppelbett"
+        },
+        {
+          "@language": "en",
+          "@value": "Fewo Steinberger - Doppelbett"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fewo Steinberger - Doppelbett"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6bfca613-aecc-4d46-b8e2-b720d58ed941/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fewo Steinberger - Zusatzbett für 2 Personen"
+        },
+        {
+          "@language": "en",
+          "@value": "Fewo Steinberger - Zusatzbett für 2 Personen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fewo Steinberger - Zusatzbett für 2 Personen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a0acd57-9371-4bfb-88cb-b3d0286b8440/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC01378"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC01378"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC01378"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e0b945f9-8119-46a1-8c9b-5c6bf051103e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fewo Steinberger - Badezimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Fewo Steinberger - Badezimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fewo Steinberger - Badezimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9218f004-4ad5-40a6-87f9-b2930e8bf230/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fewo Steinberger - Waschtisch"
+        },
+        {
+          "@language": "en",
+          "@value": "Fewo Steinberger - Waschtisch"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fewo Steinberger - Waschtisch"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dfb69da7-f0d2-4c7e-981b-713df965e4d0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC01399"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC01399"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC01399"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d5917098-d403-4bf0-8f1d-7c6a548034c4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fewo Steinberger - Vorraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Fewo Steinberger - Vorraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fewo Steinberger - Vorraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/946e57ef-0a7e-430c-a82b-eeab8ccc884c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC01388"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC01388"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC01388"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/90b59c6d-91d7-4a2e-8483-73420462b83f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fewo Steinberger - Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Fewo Steinberger - Balkon"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fewo Steinberger - Balkon"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6cf67e7d-3ccd-4f1b-8d5a-8dfcf09cd77a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fewo Steinberger - Balkon 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Fewo Steinberger - Balkon 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fewo Steinberger - Balkon 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2e801ce7-921c-46d9-8dba-49e93badb956/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fewo Steinberger Hippach - Eingang"
+        },
+        {
+          "@language": "en",
+          "@value": "Fewo Steinberger Hippach - Eingang"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fewo Steinberger Hippach - Eingang"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b20542a-1051-47bf-be2d-08fb4f028241/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fewo Steinberger - Ausblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Fewo Steinberger - Ausblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fewo Steinberger - Ausblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da43ead2-9766-4b03-b3f5-9aa9f2337641/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Fewo Steinberger - Aussicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Fewo Steinberger - Aussicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fewo Steinberger - Aussicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc8019f5-3a8f-4ac6-9e29-eca4c85cad2a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter - Sonne - Schnee"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter - Sonne - Schnee"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter - Sonne - Schnee"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5bc64ea3-1189-487d-ae09-5443e2cc08c5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterwald"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterwald"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterwald"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2068326809882",
+    "longitude": "11.8626111745834"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Behagliche Ferienwohnung im Zillertal,  auf einer Anhöhe gelegen!  Die Lage unserer Ferienwohnung ist im Sommer idealer Ausgangspunkt für zahlreiche Wanderungen! \n Da wir ein Mitgliedsbetrieb des \"Zillertaler Naturpark\" sind, können Sie kostenlos an geführten Wanderungen teilnehmen. \n Auch das Schwimmbad, Tennisplatz und Beachvolleyballplatz sind in wenigen Minuten erreichbar! \n Im Winter sind Sie in 6 Minuten mit dem Auto bei der Horbergbahn ! \n Der Schibus hält in 50m Entfernung !"
+        },
+        {
+          "@language": "en",
+          "@value": "Cosy holiday apartment in the Zillertal, on a hill conveniently! The situation of our holiday apartment is an ideal starting point for numerous wanderings in summer!\nBecause we are a member\u0027s company of the \"Zillertaler of nature reserve\", you can take part free of charge in controlled wanderings.\nAlso the swimming-pool, tennis court and place Beachvolleyball are accessible at few minutes!\nIn winter you are at 6 minutes by the car with the Horbergbahn!\nThe ski coach holds in 50 m of distance!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/1 Schlafraum/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": ""
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "In einem Schlafzimmer, einem Badezimmer und einer Küche können bei uns bis zu 4 Personen einen gemütlichen Urlaub verbringen! \n Die Ferienwohnung verfügt über 1 Schlafzimmer mit einem\n Doppelbett (1.40 x 2.00) sowie ein Zusatzbett (1.40 x 1.87). \n Das Badezimmer hat eine Größe von 6m².In der Wohnküche (15m² ) befindet sich eine Couch  (0.80 x 1.75) für eine weitere Schlafmöglichkeit!\n Im Vorraum (6m²) befindet sich ein Kleiderschrank sowie die Garderobe! Auch eine Terrasse (21m²) gehört dazu!"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/2f816e51-8e59-4a06-a5ee-8d6bb1c1ccc5/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Wohnküche"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Wohnküche"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Wohnküche"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/de9c499b-8f90-48c0-b63a-ef2f03ff3c21/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Doppelbett ( 200 x 140 )"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Doppelbett ( 200 x 140 )"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Doppelbett ( 200 x 140 )"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/dc4e1363-d485-4231-b098-675ffbbab914/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Vorraum"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Vorraum"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Vorraum"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/c6848812-136a-452e-a68d-32a7c62633ea/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Couch in der Wohnküche"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Couch in der Wohnküche"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Couch in der Wohnküche"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ac499f4b-8e41-48a2-a38e-5dc0d3a8f153/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Badezimmer"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Badezimmer"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Badezimmer"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/8bfc886d-27e4-4a39-91cc-c9521ea36b29/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Terrasse 21m²"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Terrasse 21m²"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Terrasse 21m²"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ce37801d-7d7c-4e8a-b80c-47554dcc9d24/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Terrasse"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Terrasse"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Terrasse"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/7c1be843-7216-4811-a256-cba6cabe78ca/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Ausblick von der Terrasse"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Ausblick von der Terrasse"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Ausblick von der Terrasse"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/3087ef23-9570-4881-b206-48844abe5b9a/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Zusatzbett ( 187 x 140 )"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Zusatzbett ( 187 x 140 )"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Zusatzbett ( 187 x 140 )"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/782dcfc4-33b2-4d31-9eae-f213f469e028/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Waschtisch"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Waschtisch"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Waschtisch"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/b96a250a-2973-4a7c-a89e-b0b1955174dd/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Winter - Berge - Sonne - Schnee"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Winter - Berge - Sonne - Schnee"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Winter - Berge - Sonne - Schnee"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/b00788bf-a909-47a4-b27e-b5bceda4d737/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Winterwald"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Winterwald"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Winterwald"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/1ccb0596-784a-4343-b269-f47df84f30aa/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Alpenrose 2009 001"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Alpenrose 2009 001"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Alpenrose 2009 001"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/172e05de-f6ea-472e-83c1-cc7772eba152/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Alpenrose 2009 013"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Alpenrose 2009 013"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Alpenrose 2009 013"
+                }
+              ]
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "44.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "64.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

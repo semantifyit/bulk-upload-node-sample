@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Kasseler Hütte 2178m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0594226579394",
+    "longitude": "11.9486403465271"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kasseler Hütte",
+    "streetAddress": "Stillupp",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 401 60 33",
+    "email": "kasseler-huette@alpenverein-kassel.de",
+    "url": "www.alpenverein-kassel.de"
+  },
+  "description": "Summer \n24. June till end of September 2017 \nno rest day o\nvernight stay possible",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/505ec4c1-2a75-46c1-86a4-8ffd14bc7478/99/image.jpg",
+      "caption": "Hütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52f30187-120c-4999-b459-1c23640c89d6/99/image.jpg",
+      "caption": "Hütte 1"
+    }
+  ],
+  "url": [
+    "http://www.alpenverein.at/huettenHome/DE/Home/index.php?huetteNr\u003d0579"
+  ]
+}

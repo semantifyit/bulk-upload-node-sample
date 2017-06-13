@@ -1,0 +1,175 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.zillertal-ferienhaeuser.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d586CF2B6-E2EC-457D-B69B-C1187A5F7C34"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Enterberg, Ferienhaus",
+    "streetAddress": "Enterberg 682",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 664 5223686",
+    "faxNumber": "0043 5285 641524",
+    "email": "info@zillertal-ferienhaeuser.at",
+    "url": "http://www.zillertal-ferienhaeuser.at"
+  },
+  "name": "Ferienhaus Enterberg",
+  "description": [
+    "Unser neu erbautes Niedrigenergiehaus liegt 1 km vom Ortszentrum Ramsau/Hippach in schöner sonniger Aussichtslage. Die größten Skigebiete des Zillertals sind in 5 bis 15 Autominuten erreichbar.\n\nDas Ferienhaus verfügt über eine Sauna, Ruheraum, Holzofen, große Sonnenterasse und Kinderspielwiese.",
+    "Inklusive: Sauna, Parkplätze\nExklusive: Betriebskosten, Endreinigung Eur 125,00, ",
+    "Anreise: A12 Inntalautobahn-Ausfahrt Zillertal - Richtung Ramsau (Ampel in der Ortschaft links abbiegen) - 100m weiter-rechts 1 km Richtung Ramsberg bis Weiler Enterberg - Hausnummer 682"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7a68f58-bf58-4dc3-aef3-43bab8addbec/99/image.jpg",
+      "caption": "Ferienhaus Enterberg Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d5e70df-2d08-4b74-b45d-86b6f6304f22/99/image.jpg",
+      "caption": "Ferienhaus Enterberg Ramsau - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e8c7c982-8dc7-40b1-9d41-e26c66f477a9/99/image.jpg",
+      "caption": "Ferienhaus Enterberg Ramsau - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fc18d1b5-673a-4151-b017-dd03d99b05f7/99/image.jpg",
+      "caption": "Ferienhaus Enterberg Ramsau - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d306d848-ea33-45a5-80e1-a1713b30c079/99/image.jpg",
+      "caption": "Ferienhaus Enterberg Ramsau - Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/21b38b91-c09b-4aa0-8578-41b830bc7504/99/image.jpg",
+      "caption": "Ferienhaus Enterberg Ramsau - Ruheraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.209416453539",
+    "longitude": "11.8783557415009"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Bad, WC, 4 oder mehr Schlafräume",
+      "description": "Das Ferienhaus ist ca. 200m² groß, 7 Doppelzimmer, 2 Dusche/WC, 1 Bad/Dusche/WC, großer Esstisch, Holzofen, Aufenthaltsraum, Sauna, Ruheraum, Sat-TV, Terrasse, Balkone, Liegewiese.\n\nUnsere Küche ist mit 2 Kühlschränke, Mikrowellenherd, Spülmaschine, Kaffeemaschine, Backrohr und Waschmaschine ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/4 od. mehr Schlafr./DU/WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "16",
+            "minValue": "6"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "294.00",
+          "maxPrice": "330.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "294.00",
+          "maxPrice": "330.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "294.00",
+          "maxPrice": "330.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "294.00",
+          "maxPrice": "330.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "294.00",
+          "maxPrice": "330.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "294.00",
+          "maxPrice": "363.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "294.00",
+          "maxPrice": "396.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 13",
+          "minPrice": "294.00",
+          "maxPrice": "429.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 14",
+          "minPrice": "294.00",
+          "maxPrice": "462.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 15",
+          "minPrice": "495.00",
+          "maxPrice": "495.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 16",
+          "minPrice": "528.00",
+          "maxPrice": "528.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

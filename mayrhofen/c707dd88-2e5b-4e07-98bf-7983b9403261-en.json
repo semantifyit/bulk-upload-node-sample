@@ -1,0 +1,317 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dC707DD88-2E5B-4E07-98BF-7983B9403261",
+    "http://www.zumgriena.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus zum Griena",
+    "streetAddress": "Waldfeldweg 636",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63137",
+    "faxNumber": "0043 5285 64855",
+    "email": "info@zumgriena.at",
+    "url": "http://www.zumgriena.at"
+  },
+  "name": "Landhaus Griena",
+  "description": [
+    "Tasteful, family friendly bed and breakfast situated approx. 200m from the center and the Penken lifts. Comfortable rooms with bath or shower/WC and balcony. Sauna, enough parking space, sunbathing area, garden furniture.",
+    "The price includes breakfast buffet and local taxes, excludes sauna (Euro 12.- per person). Short stay supplement for up to 4 nights from Euro 2.- to 6.- per person.",
+    "Check in: from 14.00hr, Check out until 10.00hr. Use the B169 to Mayrhofen, straight ahead at the roundabout, turn left into Einfahrt Mitte and at the next junction (Rieser Malzer shop) turn right, stay on the high street, after the bridge keep right",
+    "Mayrhofen Zillertal Tradition Family Griena skiing fun sun summer winter enjoy alps hiking"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "88"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d335512c-9dbe-44f7-88d0-7b9be32e0ca4/99/image.jpg",
+      "caption": "Landhaus Griena Mayrhofen - Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b3980d14-e0a7-4b5c-9a55-aeaa84736b55/99/image.jpg",
+      "caption": "Landhaus Griena Mayrhofen - Sommer 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f0aafc7-b241-4e73-887e-69f1baafd0ff/99/image.jpg",
+      "caption": "Landhaus Griena Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/58b2b34e-8d5b-4d42-9736-cf33fc8a8e18/99/image.jpg",
+      "caption": "Landhaus Griena Mayrhofen - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/23be8125-ce56-481a-bc48-5d092145ee88/99/image.jpg",
+      "caption": "Landhaus Griena Mayrhofen - Garten 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f88a8cfe-f2e3-43de-b8a6-8444cd47db4d/99/image.jpg",
+      "caption": "Landhaus Griena Mayrhofen - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/95ca7184-3a71-40e5-8386-11010bf502e3/99/image.jpg",
+      "caption": "Landhaus Griena Mayrhofen - Sauna "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c28b545-7171-4c5d-b92e-ee8a5767c5f1/99/image.jpg",
+      "caption": "Landhaus Griena Mayrhofen - Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9af12086-3291-4c6b-8eaf-43f0485e7c53/99/image.jpg",
+      "caption": "Landhaus Griena Mayrhofen - Wohnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/546c02c9-3669-49a2-8a1a-0e0a10c639e7/99/image.jpg",
+      "caption": "Landhaus Griena Mayrhofen - Badezimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/211828fa-940a-40d0-84be-7c30c87dcba3/99/image.jpg",
+      "caption": "Bike © Ronny Kiaulehn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94e553fc-cdee-4537-b2b9-cdc0599caad7/99/image.jpg",
+      "caption": "Gelebtes Brauchtum © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/25f84540-a30b-4c5e-977e-856b9a71b465/99/image.jpg",
+      "caption": "Hochgebirgs-Naturpark Zillertaler Alpen © Norbert "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4b114192-fd59-4fa5-bdd2-e4761de2fdc9/99/image.jpg",
+      "caption": "Kulinarische Veranstaltungen © Norbert Freudenthal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa19049c-f140-4e10-978f-9cef10245d20/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d0e57d66-8831-4140-ad76-749deb0ce475/99/image.jpg",
+      "caption": "Langlaufen © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a2ebd3b-c719-4338-bd6c-6e5ae3284d18/99/image.jpg",
+      "caption": "Panorama © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a32937da-4619-4246-ba0d-5ef86263ae83/99/image.jpg",
+      "caption": "Pistenspaß © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9ac4d18-0db2-4b28-a313-59a1740a65b6/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/085c38b5-129e-436f-bb6c-5da937400668/99/image.jpg",
+      "caption": "Wandern_Schlegeis"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ab6eebb-d518-4231-92bb-18a65036680e/99/image.jpg",
+      "caption": "Schlegeis Speicher"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2ee276c-0aeb-41bf-9f2a-4c7793382ecf/99/image.jpg",
+      "caption": "Wanderung_Rifflerkogel"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1642716198664",
+    "longitude": "11.8568176031113"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower or bath, toilet, balcony",
+      "description": "Double room with shower or bath and WC, balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower or bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerpauschale inkl. Z-Card - Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bikepasuchale 3 Tage - Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "39.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "279.00",
+          "maxPrice": "279.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "279.00",
+          "maxPrice": "279.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "115.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Triple room, bath, toilet, balcony",
+      "description": "Room with 3 beds, with bath, bidet, separate WC, balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "triple room with bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "35.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, terrace",
+      "description": "Holiday apartment with one bedroom, (open ended beds with more leg room), 1 lounge/bedroom with a double sofa bed, cooking facilities, dining area, cable TV, bathroom, WC and terrace.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.liv.-bedroom/1 bedroom/bath,wc",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "72.00",
+          "maxPrice": "112.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

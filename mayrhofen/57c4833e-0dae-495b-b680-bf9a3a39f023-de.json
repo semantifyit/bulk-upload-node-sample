@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Personaltraining Wechselberger",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1864714472326",
+    "longitude": "11.8732743730163"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hollenzen 87",
+    "addressLocality": "Hollenzen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 650 360 9296",
+    "email": "admin@fit-4-golf.at ",
+    "url": "http://www.fit-4-golf.at/mobile/"
+  },
+  "description": "Konditionstraining für Alt und Jung, vom Anfänger bis zum Profi",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64e187ee-ead2-4300-a36b-ec5bc1c4752f/99/image.jpg",
+      "caption": "Personaltraining "
+    }
+  ],
+  "url": [
+    "http://www.fit-4-golf.at/mobile/"
+  ]
+}

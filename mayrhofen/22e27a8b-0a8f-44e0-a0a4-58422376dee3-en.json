@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Linienbus Mayrhofen - Gerlos/Königsleiten 03.06. - 01.10.2017",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.16962",
+    "longitude": "11.8627685"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhof Mayrhofen",
+    "streetAddress": "Am Marktplatz 200",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5244 60 6290",
+    "email": "office@zillertalbahn.at",
+    "url": "http://www.zillertalbahn.at"
+  },
+  "description": "Public service from Mayrhofen to Gerlos and Königsleiten.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f4bb092-018a-4f8b-8817-1f175b2e1e25/99/image.jpg",
+      "caption": "Logo"
+    }
+  ]
+}

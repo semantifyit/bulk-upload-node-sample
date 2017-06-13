@@ -1,0 +1,157 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.edelweiss-ramsau.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d54C92C25-C54A-4478-966C-D7AFF613BB3B"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Huamatl, Haus",
+    "streetAddress": "Ramsberg 802",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 21201",
+    "email": "info@huamatl.at",
+    "url": "http://www.huamatl.at"
+  },
+  "name": "Haus Huamatl",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "ruhige, sonnige Lage, Liegewiese, Terrasse, Parkplatz, kostenlose Schwimmbadbenützung und Tennisplatz"
+    },
+    {
+      "@language": "de",
+      "@value": "Kinderermäßigung: 0-12 Jahre -50%,"
+    },
+    {
+      "@language": "de",
+      "@value": "Check-in 15 Uhr, Check-out 10 Uhr\nIn Ramsau bei Ampel links abbiegen, ungefähr 100m bei Landhaus Pendl rechts in Seitenstrasse einbiegen, danach fahren Sie direkt zum Haus Edelweiss. Hier bekommen sie den Schlüssel für die Ferienwohnung. Gute Fahrt!"
+    },
+    {
+      "@language": "en",
+      "@value": "quiet and sunny position, sunbathing lawn, terasse, parking lot, payless using of outdoor swimming pool and tenniscourt"
+    },
+    {
+      "@language": "en",
+      "@value": "children reduction on request: 0-12 years -50%"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in 15.00 pm , Check out 10.00 am\nleft at the traffic lights in Ramsau, turn right past 100m at Landhaus Pendl into a small street, then you drive directly to house \"Edelweiss\" - there you get the key for the appartement. HAVE A GOOD DRIVE!!"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/296fad47-65ed-4a54-9bbe-f052e1daf599/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Huamatl Ramsau - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Huamatl Ramsau - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Huamatl Ramsau - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c8c6ffcc-05ba-4541-95f0-20834e742192/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Huamatl Ramsau - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Huamatl Ramsau - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Huamatl Ramsau - Winter"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2067342837771",
+    "longitude": "11.8766927719116"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "2 Doppelbettzimmer, Dusche/WC, Wohnküche mit Sat-TV, Kaffeemaschine, Toaster, Geschirrspülmaschine, Mikrowelle, Balkon, inkl. Geschirr, Handtücher und Bettwäsche\n\n2 Zusatzbetten auf Anfrage!"
+        },
+        {
+          "@language": "en",
+          "@value": "2 double rooms, shower/WC, livingroom with kitchen, Sat-TV, coffeemachine, balcony, incl. dish, towels and bedlinen"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

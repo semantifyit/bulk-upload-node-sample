@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Hotel Stefanie - Life \u0026 Spa"
+    },
+    {
+      "@language": "de",
+      "@value": "Hotel Stefanie - Life \u0026 Spa"
+    },
+    {
+      "@language": "ru",
+      "@value": "Hotel Stefanie - Life \u0026 Spa"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2022989310593",
+    "longitude": "11.8646442890167"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenhotel Stefanie GmbH",
+    "streetAddress": "Johann-Sponring-Straße 90",
+    "addressLocality": "Hippach ",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "+43 5282 3634",
+    "faxNumber": "+43 5282 3803",
+    "email": "info@stefanie.at",
+    "url": "http://www.stefanie.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Life und Spa Hotel Stefanie im Zillertal\nEin besonderes Urlaubserlebnis im Zillertal . \nGenießen Sie Wellness , Erholung , feinste Kulinarik  und herzliche Gastfreundschaft im Life \u0026 Spa Hotel Stefanie . Die traumhaft, ruhige Lage inmitten der satt grünen Wiesen mit herrlichem Blick auf die Zillertaler Berge. Lifestyle und Bergerlebnisse wie geführte Almwanderungen, Klettersteig, Canyoning oder Rafting sind bei der Erlebnispauschale inklusive. Besondere Pauschalangebote für Ihren Traumurlaub im Zillertal finden Sie bei den Angeboten (Sommer - und Winterangebote ) - oder rufen Sie uns einfach an (+43 5282 3634).\n"
+    },
+    {
+      "@language": "en",
+      "@value": "A special holiday experience in the Zillertal.\n\nEnjoy wellness, recreation, fine cuisine and warm hospitality in the Life \u0026 Spa Hotel Stefanie. The dreamlike, quiet location located just shortly before Mayrhofen in the midst of the green meadows, is the ideal place for your vacation in the Zillertal valley."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/777aa422-29bf-407a-b287-886e05a6e7dd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Hotel Stefanie"
+        },
+        {
+          "@language": "de",
+          "@value": "Hotel Stefanie"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Stefanie"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0e0b5be-7511-49a3-a090-f66c86f3ea3d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Hotel Stefanie 2"
+        },
+        {
+          "@language": "de",
+          "@value": "Hotel Stefanie 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Stefanie 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/32ebf056-679b-4d46-acdc-3f236cd327dc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "de",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/05004263-7ff4-4264-bdf3-83ea9e73f9a3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Zimmer 2"
+        },
+        {
+          "@language": "de",
+          "@value": "Zimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/20c8714d-e361-4a29-a557-5dcdd5babec2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Hallenbad"
+        },
+        {
+          "@language": "de",
+          "@value": "Hallenbad"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hallenbad"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.stefanie.at"
+  ]
+}

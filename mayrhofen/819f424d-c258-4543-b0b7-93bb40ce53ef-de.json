@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment",
+    "GroceryStore",
+    "LocalBusiness"
+  ],
+  "name": "Gasthof Karlsteg 897m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1305054954952",
+    "longitude": "11.8169116973877"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Karlsteg, Gasthof",
+    "streetAddress": "Dornauberg 2",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5286 5250",
+    "faxNumber": "(0043) 5286 52505",
+    "email": "info@karlsteg.at",
+    "url": "http://www.karlsteg.at"
+  },
+  "description": [
+    "Das Gasthaus Karlsteg befindet sich zwischen der Ortschaft Ginzling und der Skimetropole Mayrhofen. Das Bergsteigerdorf Ginzling, auf 999m im Herzen der Zillertaler Alpen gelegen, ist Ausgangspunkt für Wanderungen zu zahlreichen Hütten und Almen, sowie zu unzähligen Berg- und Schitouren bis in die Gletscherregionen. Seit mehr als hundert Jahren steht der Name Karlsteg für gediegene Gastlichkeit. Bei erholungssuchenden Touristen, Berg- und Schiurlaubern, aber auch bei einheimischen Geniessern gilt unser Haus als Geheimtipp.",
+    "\n\nganzjährig geöffnet \nÜbernachtung möglich 27 Betten "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/90fe8045-cf2a-49f8-95bb-0411751b6b7f/99/image.jpg",
+      "caption": "Karlsteg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b7dd0add-26c1-4d34-9ca9-68be565d118f/99/image.jpg",
+      "caption": "Karlsteg Winter"
+    }
+  ],
+  "url": [
+    "http://www.karlsteg.at"
+  ]
+}

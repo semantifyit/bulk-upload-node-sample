@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Museum",
+    "EntertainmentBusiness"
+  ],
+  "name": "Steinbock.Welten Zillergrund",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1207821295921",
+    "longitude": "12.0563793182373"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Naturparkhaus Ginzling",
+    "streetAddress": "Ginzling 239",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "+43 5286 52181 ",
+    "faxNumber": "+43 5286 5218-4",
+    "email": "info@naturpark-zillertal.at",
+    "url": "http://www.naturpark-zillertal.at"
+  },
+  "description": "Find out fascinating facts about the Ibex (Steinbock) and get to see the animals from the Infopoint.\nThe nature park hike \"Alpine ibex \u0026 high alpine chapel\" also includes a tour through the \"Steinbock Worlds\".\nOpening times: from June - September from 08.00 am - 07.00 pm\nA guide tour is possible as part of the \u0027Könige der Berge\u0027 nature park walk.\nPricing: free of charge\nBest time to visit: summer\nGroups are welcome with advance booking\nIt is ideal for children.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/048022b0-8664-4e08-866d-665b217fbe3c/99/image.jpg",
+      "caption": "Steinbock"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e3d58e9b-df04-4d88-bb5a-af69415adb2e/99/image.jpg",
+      "caption": "Steinbock.Welten Zillergrund"
+    }
+  ],
+  "url": [
+    "http://www.naturpark-zillertal.at/naturpark-erleben/ausstellungen/steinbockwelten.html"
+  ]
+}

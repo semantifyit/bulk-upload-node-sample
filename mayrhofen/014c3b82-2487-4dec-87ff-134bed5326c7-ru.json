@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Shiatsu - Juliane Kröll",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1669194",
+    "longitude": "11.8690662"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sportplatzstraße 312 ",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63269 ",
+    "email": "kroell.juliane@aon.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68ce219a-be13-4be4-b0f6-8ff0aaac8d48/99/image.jpg",
+      "caption": "Shiatsu Massage"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Allgemeinmediziner Dr. Simon und Dr. Katharina Gredler"
+    },
+    {
+      "@language": "de",
+      "@value": "Allgemeinmediziner Dr. Simon und Dr. Katharina Gredler"
+    },
+    {
+      "@language": "ru",
+      "@value": "Allgemeinmediziner Dr. Simon und Dr. Katharina Gredler"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1646837587491",
+    "longitude": "11.8617260456085"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 456",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62550",
+    "faxNumber": "0043 5285 6255014",
+    "email": "k.weber-gredler@medway.at",
+    "url": "http://www.tiscover.com/at/guide/5,de/objectId,INF5926at/intern.html"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Mo- Fr: 8.00 - 12.00 Uhr\nMo, Di, Do: 15.30 - 18.00 Uhr \nund jederzeit nach Vereinbarung!"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e32300ae-e741-4513-902d-22966744c1a4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Dr. Simon und Dr. Katharina Gredler"
+        },
+        {
+          "@language": "de",
+          "@value": "Dr. Simon und Dr. Katharina Gredler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Dr. Simon und Dr. Katharina Gredler"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.tiscover.com/at/guide/5,de/objectId,INF5926at/intern.html"
+  ]
+}

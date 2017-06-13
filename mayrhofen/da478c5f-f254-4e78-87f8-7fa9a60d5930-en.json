@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Physiotherapie Andreas Kostner",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.166681",
+    "longitude": "11.8625751"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 438",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63394"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4d15824-9db9-4fd4-8c7c-c2c08d6c1030/99/image.jpg",
+      "caption": "Kostner"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

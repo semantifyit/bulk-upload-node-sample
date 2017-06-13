@@ -1,0 +1,152 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dA80EE989-26B4-4F56-A24A-A2B85A90089F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Amor, Gästehaus",
+    "streetAddress": "Ahornstraße 857",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 6196412 ",
+    "url": "http://www.mayrhofen.at/de/gaestehaus-amor"
+  },
+  "name": "Gästehaus Amor",
+  "description": [
+    "Description: Ski store room, sun bathing area, car park\nApartments description: Spacious apartments with separate bedroom, kitchen, shower, WC, balcony, cable TV; Apartment \"Hannes\" also has an additional double bedroom with hand basin and WC available when required.",
+    "Price includes: Electricity, heating, parking, water.\nExcludes: a final cleaning charge (40 - 50 Euro).",
+    "Check in: 14.00hr / Check out: 10.00hr\nOur house is situated in the Ahornstrasse, opposite the Hotel Andrea."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/906b162b-e0ee-42b1-9edf-fd013a38c435/99/image.jpg",
+      "caption": "Gästehaus Amor Mayrhofen - Sommefoto"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3677588b-d230-4d94-8c66-a1b6b283e8a7/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/304cd54c-5f38-4e11-9782-e55510097e2e/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a8efd211-9626-48ac-9139-f239611df125/99/image.jpg",
+      "caption": "Gipfel © Paul Sürth"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f366435-fac6-426c-8605-3c57a4250a3f/99/image.jpg",
+      "caption": "Spaß im Schnee © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/54990b2a-47d7-460e-b062-ab0c2fe4c063/99/image.jpg",
+      "caption": "Wandern am Stausee © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c849c5ba-0fc4-4074-94f0-ff7baec09817/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/de3bfddb-c621-4e57-b404-85ff52f15ff5/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f133137-fcdc-4cb4-ad10-9fd9b7e533d3/99/image.jpg",
+      "caption": "Skifahren © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/820465af-fa68-47bf-bcfa-7074c4769647/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf61bc79-c74b-4397-98e0-e233bbca6703/99/image.jpg",
+      "caption": "Winter am Berg © Laurin Moser"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1609889836422",
+    "longitude": "11.8615919351578"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Apartment \"Hannes\": Apartment situated on the 2nd floor, 1 lounge with cable TV, well equipped kitchen, shower/WC, 2 balconies, entrance hall, bed linen supplied. An additional bed is available on request.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment \"Hannes\"/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Apartment \"Emanuel\": Private entrance, 1 lounge with sleeping arrangements and cable TV,  equipped kitchen, 1 bedroom with 3 beds, 1 bedroom with 2 single beds, balcony, entrance hall, shower/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment \"Emanuel\"/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 1 bed room",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment \"Hansl\"/1 bedroom/shower, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

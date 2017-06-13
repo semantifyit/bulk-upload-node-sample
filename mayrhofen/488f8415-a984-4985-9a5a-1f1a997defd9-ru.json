@@ -1,0 +1,122 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d488F8415-A984-4985-9A5A-1F1A997DEFD9"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hippach-Dorf 40",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3744",
+    "faxNumber": "0043 5282 3744"
+  },
+  "name": "Reichegger Regina",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/33c1841e-8c54-4513-80ae-ddaf5d25f2e7/99/image.jpg",
+      "caption": "Reichegger Regina Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c1585bc-630e-42f2-89ac-94ed05f64a9f/99/image.jpg",
+      "caption": "Ahornbahn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e14fa705-1f62-4b0a-9139-7a77004e71ff/99/image.jpg",
+      "caption": "Wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3d600994-e75e-4fd8-b2d5-34b787f21ffd/99/image.jpg",
+      "caption": "Bike"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5b8dbd37-b7bb-48d5-8bb2-7d0171ce18c6/99/image.jpg",
+      "caption": "Almabtrieb"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db944052-f2f5-4009-aa31-7f21ab7e4da4/99/image.jpg",
+      "caption": "Klettern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a860b817-c94f-4136-a87d-298f1b368904/99/image.jpg",
+      "caption": "Gipfel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/841c8a48-d944-4c36-a11e-f361e4c6bd8c/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8fd52b7d-d242-4ed7-9a32-fab41fb72f1c/99/image.jpg",
+      "caption": "Ski"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/74d2bacb-620c-4825-a213-8f2f9dba4524/99/image.jpg",
+      "caption": "Winterwandern"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2080097890281",
+    "longitude": "11.8657493591309"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, три спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, три спальни",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, горячая/холодная вода",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, горячая/холодная вода",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laimach 173",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4152 359 ",
+    "email": "sabikessla@gmail.com"
+  },
+  "name": "Ferienhaus Valentina",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Das Ferienhaus Valentina befindet sich im wunderschönen Laimach (Hippach)  in zentraler und unverbauter Lage.  \nDas Appartement besteht aus drei liebevoll eingerichteten Schlafzimmern in Zirben-Massivholz-Ausstattung , einer gemütlichen Wohnküche, Du/WC, Balkon und einem schönen Garten. Skibus ist in ca. 3 Gehminuten gut zu erreichen. \nAuch im Sommer ist das Ferienhaus ein guter Ausgangspunkt zum Radfahren,Wandern oder  ganz einfach zum Seele baumeln lassen. \n"
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise ab 13 Uhr \nAbreise 9 Uhr "
+    },
+    {
+      "@language": "en",
+      "@value": "The Ferienhaus Valentina is located in the beautiful Laimach (Hippach) in a central and unspoiled location.\nThe apartment consists of three lovingly furnished bedrooms, a cozy living room, shower / WC, balcony and a beautiful garden. \nSkibus is about 3 minutes walk to reach.\nEven in the summer, the holiday home is a good starting point for cycling, hiking or simply simply relaxing."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8c493c8-a21f-400f-9d4e-6ed0b10c7b10/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ea8f064-f101-49d9-ac77-ca41acabda7b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_0897"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_0897"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_0897"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96cac235-26e8-48ab-a7c9-6e4b83ff1514/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_1524"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_1524"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_1524"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2897db7-20fb-4bf1-bbed-1017fad07be0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_1526"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_1526"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_1526"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/134447cc-e663-46e0-bc28-2e5071d2aee2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_1532"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_1532"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_1532"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/973bacec-10b9-4d48-a7f4-97370e5e8f49/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_1533"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_1533"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_1533"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2a4b3de5-0255-4a4d-998f-45da26b7cdac/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_1557"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_1557"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_1557"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14a7a913-509f-4530-9600-c577d0986ab8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG-20170104-WA0001"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG-20170104-WA0001"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG-20170104-WA0001"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c716306-71ab-419f-9155-8615de289651/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20170109_101028"
+        },
+        {
+          "@language": "en",
+          "@value": "20170109_101028"
+        },
+        {
+          "@language": "ru",
+          "@value": "20170109_101028"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2194021305679",
+    "longitude": "11.8674396301635"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die Zimmer sind alle mit Doppelbetten versehen in Zirben Massivholz-Ausstattung.Zwei davon im Obergeschoss mit Balkon dabei.\nEines im Erdgeschoss mit extra DU/WC."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienhaus Valentina"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "8.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "110.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "135.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "160.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

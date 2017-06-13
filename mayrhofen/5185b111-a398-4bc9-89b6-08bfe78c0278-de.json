@@ -1,0 +1,1197 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.apparthotel.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d5185B111-A398-4BC9-89B6-08BFE78C0278"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Veronika, Apparthotel",
+    "streetAddress": "Durster Straße 250b",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63347",
+    "faxNumber": "0043 5285 63819",
+    "email": "info@apparthotel.com",
+    "url": "http://www.apparthotel.com"
+  },
+  "name": "Apparthotel Veronika",
+  "description": [
+    "\nZwei Gehminuten vom Ortszentrum entfernt, jedoch von grünen Wiesen im Sommer und Langlaufloipen im Winter umgeben, liegt das Apparthotel Veronika****. In diesem 4-Sterne-Hotel wird Luxus mit ländlichem Stil auf höchstem Niveau vereint. Geschmackvoll, jedoch auch gemütlich eingerichtet, kann man sich hier hervorragend erholen und wohlfühlen. \n\nEin empfehlenswertes Frühstück wird im Haus angeboten. Und wenn Sie für Mittag- bzw. Abendessen die Küche in Ihrem Appartement mal nicht nutzen wollen, bietet Mayrhofen zahlreiche gute Restaurants, die zu Fuß erreichbar sind. \n\nDie Wellnessanlage ist für die geringe Anzahl von Ferienwohnungen sehr großzügig und ein Paradies an Schlechtwettertagen sowie nach einem anstrengenden Wander- oder Skitag. Alle Appartements sind individuell und mit Liebe zum Detail eingerichtet. Von 30m² bis 80m² für einen Urlaub zu zweit oder mit der ganzen Familie.\n",
+    "Verpflegung - Zuschlag Frühstück\n€ 12,- pro Person/Tag",
+    "Wie Sie uns finden: in Mayrhofen am ersten Kreisverkehr nach links Richtung Tankstelle abbiegen. Dann vor der Raiffeisenbank links hinauf fahren, gerade weiter, bei Hotel Pramstraller links halten und gleich die erste Strasse nach links.",
+    "klein und fein, Zillertal, Wellness , Hallenbad , Mayrhofen, Ski Zillertal 3000, \nSuiten, Delux app "
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "66"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/23ffded6-6d12-4414-848d-15a58d2f61cb/99/image.jpg",
+      "caption": "Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9d38e2dd-9461-4c80-bba0-601462cd9393/99/image.jpg",
+      "caption": "Haus Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fc8dbbd6-dfef-4e95-8ea5-789b4a91214e/99/image.jpg",
+      "caption": "Familie Huber"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da2c35cc-d66f-4353-80ab-0383fcae1423/99/image.jpg",
+      "caption": "Wellness - Pool Panorama"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bca86cf8-06a9-41b5-ba6e-9ad3e05d4751/99/image.jpg",
+      "caption": "Frühstücksbuffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1572ce7b-9672-476e-8cd5-ef0105434bfe/99/image.jpg",
+      "caption": "Dampfsauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4ebef49-ee4f-4d79-a216-e004c9de2821/99/image.jpg",
+      "caption": "Fitnessraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b829e832-2633-4e8f-bb57-e07e18d794a1/99/image.jpg",
+      "caption": "Zirbenholzsauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a80ad1d2-c488-4ed9-8d7f-6876d0cedd76/99/image.jpg",
+      "caption": "Suite Landhaus - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/971f5c23-c080-4d02-841d-eb1e35f3a487/99/image.jpg",
+      "caption": "Junior Suite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e2ddc12e-0880-416b-9a43-1ae2b22d3ee9/99/image.jpg",
+      "caption": "Suite Zillertal - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c86439eb-92da-4988-a8fb-46d6249812ed/99/image.jpg",
+      "caption": "Deluxe Appartment Nr. 8 - Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d80825c8-86c6-4b52-9bb9-545e91e51593/99/image.jpg",
+      "caption": "Suite Romantik - Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/397895e7-bc47-4ba5-9374-2a65018bdce2/99/image.jpg",
+      "caption": "Deluxe Appartment Nr. 9 - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09dec5f9-661d-4351-96bb-89056e3d75c5/99/image.jpg",
+      "caption": "Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/857cc88c-7693-4997-9d81-817fe463e473/99/image.jpg",
+      "caption": "Suite Ahorn - Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b1cc81b1-fb43-45f5-a384-06abfd452fe6/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b460b934-7f8b-4cec-99ab-4bfbc12d4f61/99/image.jpg",
+      "caption": "Deluxe Appartment Nr. 3 - Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f8c0485c-245d-41d3-851c-2b905fc42a95/99/image.jpg",
+      "caption": "Suite Zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8715cb3c-ce40-41db-91bb-24dd4d0bf5ea/99/image.jpg",
+      "caption": "Suite Romantik"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2d1c528-7b20-49af-9130-dfcaacf4b3ac/99/image.jpg",
+      "caption": "Suite Landhaus"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1690967268846",
+    "longitude": "11.8684530258179"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Bei Pärchen sehr beliebt, aber es können noch zwei weitere Personen im Wohnzimmer auf dem gemütlichen Schrankbett übernachten. Dieses Apartement ist mit viel Holz eingerichtet und hat 2 Bäder, Küche mit Minibar und Mikrowelle, Wohnzimmer mit Flachbildfernseher und zwei Balkons mit wunderschönem Blick ins Zillertal. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "SUITE ZILLERTAL 60m² 2-4 Personen",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "SUITE ZILLERTAL 60m² 2-4 Personen",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "74.00",
+          "maxPrice": "117.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "64.50",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "59.50",
+          "maxPrice": "91.25",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Bademantel",
+      "description": "Bei Familien sehr beliebt. Ein Schlafzimmer für 2 Pers. ein weiteres Schlafzimmer mit einem \" Grand Lit\" für Verliebte oder Kinder mit eigener Dusche und WC. Dieses Apartment ist mit viel Holz eingerichtet und hat ein weiteres Badezimmer, Küche mit Minibar und Mikrowelle, Wohnzimmer mit Flachbildfernseher und zwei Balkons und Kachelofen mit Blick auf Mayrhofen und den Ahornberg.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "SUITE AHORN 70m² 2-5 Personen",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "SUITE AHORN 70m² 2-5 Personen",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "74.00",
+          "maxPrice": "117.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "64.50",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "59.50",
+          "maxPrice": "91.25",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Ein Schlafzimmer für 3 Pers. + ein Einzelzimmer + ein großes Wohnzimmer mit Doppelcouch und Kachelofen. Selbstverständlich ist auch in dieser Ferienwohnung eine Küche, 1 Badezimmer mit sep. WC Flat-TV und 2 Balkone ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "SUITE LANDHAUS 75m² 2-6 Personen",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "SUITE LANDHAUS 75m² 2-6 Personen",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "74.00",
+          "maxPrice": "117.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "64.50",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "59.50",
+          "maxPrice": "91.25",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Economy",
+      "description": "Mit 2 sep. Schlafzimmern ausgestattet, eines davon mit Sitzecke; im Wohnzimmer befindet sich noch eine Schlafcouch für eine weitere Person mit Kachelofen. Selbstverständlich ist in dieser Ferienwohnung auch eine Küche, Badezimmer mit sep. WC, 2 Flachbildfernseher und Balkon Richtung Süden. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "SUITE ROMANTIK 80m² 2-5 Personen",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "SUITE ROMANTIK 80m² 2-5 Personen",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "74.00",
+          "maxPrice": "117.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "64.50",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "59.50",
+          "maxPrice": "91.25",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "All unsere Deluxe Appartements sind mit viel Liebe zum Detail und im Tiroler Stil eingerichtet. Sie bieten eine heimelige Atmosphäre, die das Wohnen bei uns unvergesslich macht. Alle Ferienwohnungen dieser Kategorie verfügen über ein Schlafzimmer, Wohnzimmer mit Doppelcouch \u0026 Kachelofen, Bad mit separatem WC, Flachbildfernseher, Telefon, Balkon, gut ausgestattete Küche und eine gemütliche Sitzecke.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "DELUX APPARTMENT 55m² 2-4 Personen",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "DELUX APPARTMENT 55m² 2-4 Personen",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 3N, DELUX APP. 55m²",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 5N, DELUX APP. 55m²",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offen Tales 7N, DELUX APP. 55m²",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "107.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "58.50",
+          "maxPrice": "88.40",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "78.75",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "234.00",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "234.00",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "234.00",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "390.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "390.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "390.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "546.00",
+          "maxPrice": "546.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "546.00",
+          "maxPrice": "546.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "546.00",
+          "maxPrice": "546.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Deluxe",
+      "description": "All unsere Deluxe Appartements sind mit viel Liebe zum Detail und im Tiroler Stil eingerichtet. Sie bieten eine heimelige Atmosphäre, die das Wohnen bei uns unvergesslich macht. Alle Ferienwohnungen dieser Kategorie verfügen über ein Schlafzimmer, Wohnzimmer mit Doppelcouch \u0026 Kachelofen, Bad mit separatem WC, Flachbildfernseher, Telefon, Balkon, gut ausgestattete Küche und eine gemütliche Sitzecke.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "DELUX APPARTEMENT 44m² 2-4 Personen",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "DELUX APPARTEMENT 44m² 2-4 Personen",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 3N, DELUX APP. 44m²",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 5N, DELUX APP. 44m²",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 7N, DELUX APP. 44m²",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "107.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "58.50",
+          "maxPrice": "88.40",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "78.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "234.00",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "234.00",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "234.00",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "390.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "390.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "390.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "546.00",
+          "maxPrice": "546.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "546.00",
+          "maxPrice": "546.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "546.00",
+          "maxPrice": "546.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "All unsere Deluxe Appartements sind mit viel Liebe zum Detail und im Tiroler Stil eingerichtet. Sie bieten eine heimelige Atmosphäre, die das Wohnen bei uns unvergesslich macht. Alle Ferienwohnungen dieser Kategorie verfügen über ein Schlafzimmer,  ein Wohnzimmer mit Doppelcouch \u0026 Kachelofen, Bad mit separatem WC, Flachbildfernseher, Telefon, Balkon, gut ausgestattete Küche und eine gemütliche Sitzecke im Erker Ausblick auf Mayrhofen- Finkenberg \u0026 Penken.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "DELUX APPARTEMENT 55m² 2-4 Personen",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "DELUX APPARTEMENT 55m² 2-4 Personen",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offene Tales 3 N, DELUX APP. 55m²",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 5N, DELUX APP. 55m²",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 7N, DELUX APP. 55m²",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "107.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "58.50",
+          "maxPrice": "88.40",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "78.75",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "234.00",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "234.00",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "234.00",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "390.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "390.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "390.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "546.00",
+          "maxPrice": "546.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "546.00",
+          "maxPrice": "546.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "546.00",
+          "maxPrice": "546.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Nord",
+      "description": "All unsere Deluxe Appartements sind mit viel Liebe zum Detail und im Tiroler Stil eingerichtet. Sie bieten eine heimelige Atmosphäre, die das Wohnen bei uns unvergesslich macht. Alle Ferienwohnungen dieser Kategorie verfügen über ein Schlafzimmer, Wohnzimmer mit Doppelcouch \u0026 Kachelofen, Bad mit separatem WC, Flachbildfernseher, Telefon, Balkon, gut ausgestattete Küche und eine gemütliche Sitzecke. Dieses App hat den größten Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "DELUX APPARTEMENT 44m² 2-4 Pers.",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "DELUX APPARTEMENT 44m² 2-4 Pers.",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 3N, DELUX APP. 44m²",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 5N, DELUX APP. 44m²",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 7N, DELUX APP. 44m²",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "107.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "58.50",
+          "maxPrice": "88.40",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "78.75",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "234.00",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "234.00",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "234.00",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "390.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "390.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "390.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "546.00",
+          "maxPrice": "546.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "546.00",
+          "maxPrice": "546.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "546.00",
+          "maxPrice": "546.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Unseren zwei \"Kleinen\" wurde gerade ein bezaubernder, neuer Look verpasst und sie stehen den Grossen in nichts nach. Genau das Richtige für ein Pärchen, denn Wohn- und Schlafraum sind in Einem; Küche und Badezimmer jedoch seperat. Balkon und Flachbildfernseher fehlen natürlich auch hier nicht.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "JUNIOR SUITE 38m² 2-2 Personen",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 3N, JUNIOR SUITE 38m²",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 5N, JUNIOR SUITE 38m²",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 7N, JUNIOR SUITE 38m²",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "59.00",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "216.00",
+          "maxPrice": "216.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "360.00",
+          "maxPrice": "360.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "504.00",
+          "maxPrice": "504.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Unseren zwei \"Kleinen\" wurde gerade ein bezaubernder, neuer Look verpasst und sie stehen den Grossen in nichts nach. Genau das Richtige für ein Pärchen, denn Wohn- und Schlafraum sind in Einem; Küche und Badezimmer jedoch seperat. Balkon und Flachbildfernseher fehlen natürlich auch hier nicht. \n30m² oder 38m² - 2 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "JUNIOR SUITE 30m² 2-2 Personen",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 3N, JUNIOR SUITE 30m²",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 5N, JUNIOR SUITE 30m²",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wochenende des offenen Tales 7N, JUNIOR SUITE 30m²",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "59.00",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "216.00",
+          "maxPrice": "216.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "360.00",
+          "maxPrice": "360.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "504.00",
+          "maxPrice": "504.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

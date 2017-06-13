@@ -1,0 +1,246 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness",
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dFDE5EF00-21ED-42D2-8CBE-293EE261C818",
+    "http://www.mayrhofen.at/de/anna-rauch"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Talstraße 108",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4673",
+    "faxNumber": "0043 5282 4673",
+    "email": "anna.rauch@a1.net",
+    "url": "http://www.mayrhofen.at/de/anna-rauch"
+  },
+  "name": "Rauch Anna",
+  "description": [
+    "Заезд: 12:00 / Отъезд - 10:00",
+    "Расположен в центре, комната-гостиная для завтраков со спутниковым ТВ, Wi-Fi, парковкой, комнатой для хранения лыж с сушкой для ботинок. Поблизости есть бассейн с саунами и теннисный корт (вход бесплатный), детская площадка, мини-гольф, велосипедные дорожки и променад"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c66b36f2-22bd-4be9-9f56-cee66f0a989d/99/image.jpg",
+      "caption": "Hausansicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c5c70a25-de31-4ed2-a140-23c42ce3ecb0/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fbda962b-dc7e-4e55-a89e-fd6f0b508523/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/99dbf908-eedd-4e8e-811c-12fb5e69f8e5/99/image.jpg",
+      "caption": "Dekoration 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/24fa9f50-e9f8-4006-a604-1fe7a46e454d/99/image.jpg",
+      "caption": "Dekoration 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0fd5eb74-4866-4a8e-bd28-9a7598b5ecc4/99/image.jpg",
+      "caption": "Dekoration 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/669fb2f7-afc0-4245-933a-dfca52299772/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7198ca7e-fe64-4412-9325-29a9ba437f24/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b51c5c53-2072-4db0-ad17-9d6bcbf45537/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7feff3aa-42e8-4404-80a6-2518d9ccd1e2/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7dc470c-78ad-4fb2-8f10-8dcd8197f6f2/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fb61338d-2eb8-4f6b-9ed3-9b5f94cca1f4/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3955c886-7741-49c4-8d75-10634fec16f0/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c0cbe2ec-f369-42a2-8ab6-c91f908cb501/99/image.jpg",
+      "caption": "Hausansicht  Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab6ca81f-05da-4319-9e18-e4c0ae58b1b6/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4c642152-0d08-428c-80f9-b0216226b95a/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2fddc830-06e4-4138-a6ae-fa6229a6bb1f/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94ce241f-4e4a-43fc-9be1-ff9b6cc94d41/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8838d812-064e-48de-8dde-24c4f00b54ad/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2cf55878-1ebf-465e-94db-205d2e63ed90/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c9168ce-1af3-4209-9f26-3903f1293078/99/image.jpg",
+      "caption": "Schikeller"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/419c1e9d-cc14-4abb-bc3f-b742fb48cc04/99/image.jpg",
+      "caption": "Gang"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2016210219675",
+    "longitude": "11.8708026409149"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, Душ, балкон",
+      "description": "Двухместный номер с душем и балконом",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, Душ, балкон",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "20.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, горячая/холодная вода",
+      "description": "Двухместный номер с балконом. Удобства на этаже",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, горячая/холодная вода",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "18.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, горячая/холодная вода",
+      "description": "Двухместный номер с балконом. Удобства на этаже",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, горячая/холодная вода",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "18.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

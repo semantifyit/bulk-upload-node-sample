@@ -1,0 +1,687 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.huber-domizile.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d95F793A7-7811-418C-A073-2E038BAD4E16"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Huber, Gästehaus",
+    "streetAddress": "Edergasse 518",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62569",
+    "faxNumber": "0043 5285 62569-50",
+    "email": "info@huber-domizile.com",
+    "url": "http://www.huber-domizile.com"
+  },
+  "name": "Hubers Gästehaus",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Absulut ruhig und doch zentral gelegen, in unmittelbarer Nähe der Penkenbahn (Skibushaltestelle), Erlebnisbad, Tennisplätze und im Winter Eislaufplatz, Wuppys-Kinderland hinter dem Haus."
+    },
+    {
+      "@language": "de",
+      "@value": "Die Preise verstehen sich inklusive Ortstaxe und Endreinigung, Bettwäsche  \nStrom und Zentralheizung, Zubringer vom Bahnhof, Benützung der Wellnessanlage in unserem 4* Huber\u0027s Boutiquehotel möglich. \nFrühstückbuffet buchbar in unserem Hotel. \nZusatzleistungen in Hubers Boutiquehotel: \nFrühstück Euro 15 p.P. (Buffet kalt und warm) \nAbendessen a la carte oder Pensionsmenü (4 Gang Wahlmenü und Salatbuffet) Euro 25 \n"
+    },
+    {
+      "@language": "de",
+      "@value": " Check-in ab 14.00 Uhr  in Hubers  Boutiquehotel 4*, Dornaustr. 612.Am Kreisverkehr in Mayhofen gerade aus bis über die Ziller Brücke und danach vor dem Roten Kreuz links in die Dornaustr. abbiegen.Am Ende ist das Hotel. Check out bis 10.00 Uhr. "
+    },
+    {
+      "@language": "en",
+      "@value": "Situated in an absolutely quiet, yet central location, in the immediate vicinity of the Penken lifts (ski bus stop), the adventure swimming pool, tennis courts and in winter the ice skating rink, Wuppy\u0027s Kinderland can be found at therear of the house."
+    },
+    {
+      "@language": "en",
+      "@value": "The prices include electricity and central heating, transfer from the railway station, use of the wellness facilities, indoor pool and heated outdoor pool in our four star hotel, The Zillertalerhof.\nAdditional services at the Hubers Boutiquehotel:\nbreakfast Euro 15 p.P. (Buffet cold and warm) \nHalf-board a la carte or  4 course menu with salatbuffet Euro 25 "
+    },
+    {
+      "@language": "en",
+      "@value": "Check in from 14.00hr and check out until 09.30hr.\nDrive along the Zillertal main throughfare, the B169, until Mayrhofen, turn left at the Einfahrt Mitte, right at the next junction, up the high street until the Penken lifts, left in to the Fischerstrasse then the first road on the left, the Edergasse."
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "reviewCount": "24"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f2375cd8-dbd0-40eb-b4bd-728a816dd20f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hubers Boutiquehotel - Sommer "
+        },
+        {
+          "@language": "en",
+          "@value": "Hubers Boutiquehotel - Sommer "
+        },
+        {
+          "@language": "ru",
+          "@value": "Hubers Boutiquehotel - Sommer "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/505cf86b-b544-46ec-8566-be5c1761300c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Logo Huber\u0027s klein"
+        },
+        {
+          "@language": "en",
+          "@value": "Logo Huber\u0027s klein"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo Huber\u0027s klein"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef49d648-8c14-49b5-b507-464e9b6f6a56/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Balkonaussicht "
+        },
+        {
+          "@language": "en",
+          "@value": "Balkonaussicht "
+        },
+        {
+          "@language": "ru",
+          "@value": "Balkonaussicht "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d680f32e-3db2-4920-bbde-693b4507f12e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Aussicht vom Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Aussicht vom Balkon"
+        },
+        {
+          "@language": "ru",
+          "@value": "Aussicht vom Balkon"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7b6cc60b-d939-438b-b490-4616aeea8e06/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wohnküche App Astegg"
+        },
+        {
+          "@language": "en",
+          "@value": "Wohnküche App Astegg"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wohnküche App Astegg"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ea851c0f-b59a-4a31-930b-2fc553b718d6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bad App Astgegg "
+        },
+        {
+          "@language": "en",
+          "@value": "Bad App Astgegg "
+        },
+        {
+          "@language": "ru",
+          "@value": "Bad App Astgegg "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/03ccfc01-9eca-488b-8ab3-7a20222153ab/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer App Astegg"
+        },
+        {
+          "@language": "en",
+          "@value": "Doppelzimmer App Astegg"
+        },
+        {
+          "@language": "ru",
+          "@value": "Doppelzimmer App Astegg"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7cddc95b-e89d-4316-83b9-929136658769/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schlafzimmer/AppPenken/Grünberg/Ahorn"
+        },
+        {
+          "@language": "en",
+          "@value": "Schlafzimmer/AppPenken/Grünberg/Ahorn"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schlafzimmer/AppPenken/Grünberg/Ahorn"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac6fe74f-1617-4ddc-b2f0-bcced427209e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schlafzimmer App Penken/Ahorn/Grünberg"
+        },
+        {
+          "@language": "en",
+          "@value": "Schlafzimmer App Penken/Ahorn/Grünberg"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schlafzimmer App Penken/Ahorn/Grünberg"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/edd053b2-899d-418e-a075-ba35fc28bf1a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer App Grünberg/Ahorn"
+        },
+        {
+          "@language": "en",
+          "@value": "Doppelzimmer App Grünberg/Ahorn"
+        },
+        {
+          "@language": "ru",
+          "@value": "Doppelzimmer App Grünberg/Ahorn"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/364c67ee-4145-43c3-8fb8-c1e491589683/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wohnraum Ahorn/Grünberg "
+        },
+        {
+          "@language": "en",
+          "@value": "Wohnraum Ahorn/Grünberg "
+        },
+        {
+          "@language": "ru",
+          "@value": "Wohnraum Ahorn/Grünberg "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a724e84c-99a1-4119-a292-0c98b8a6947a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wohnraum Penken "
+        },
+        {
+          "@language": "en",
+          "@value": "Wohnraum Penken "
+        },
+        {
+          "@language": "ru",
+          "@value": "Wohnraum Penken "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2ab21da-f9f1-429b-994e-9318a2bdef24/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DU/WC für Ahorn und Grünberg "
+        },
+        {
+          "@language": "en",
+          "@value": "DU/WC für Ahorn und Grünberg "
+        },
+        {
+          "@language": "ru",
+          "@value": "DU/WC für Ahorn und Grünberg "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f6a3c505-4b05-48cd-a452-69c41c87984b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wohnräume in den Appartements"
+        },
+        {
+          "@language": "en",
+          "@value": "Wohnräume in den Appartements"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wohnräume in den Appartements"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4c0d73d8-3e24-41ab-a446-8b261ffc4877/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bad Grünberg und Ahorn"
+        },
+        {
+          "@language": "en",
+          "@value": "Bad Grünberg und Ahorn"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bad Grünberg und Ahorn"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4caa5973-b7f9-44d5-a3c8-c638de19043c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bad / WC Penken "
+        },
+        {
+          "@language": "en",
+          "@value": "Bad / WC Penken "
+        },
+        {
+          "@language": "ru",
+          "@value": "Bad / WC Penken "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ce5532e-94c8-40a5-9615-2c8706a71f96/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Morgenstimmung Ahorn"
+        },
+        {
+          "@language": "en",
+          "@value": "Morgenstimmung Ahorn"
+        },
+        {
+          "@language": "ru",
+          "@value": "Morgenstimmung Ahorn"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d1e8336-3720-47de-aaee-99dfd3db2f30/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "hd11_0081"
+        },
+        {
+          "@language": "en",
+          "@value": "hd11_0081"
+        },
+        {
+          "@language": "ru",
+          "@value": "hd11_0081"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8bc7dcd7-d8ab-4190-9774-2515d0eec7d9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Biken im Zillertal in Mayrhofen"
+        },
+        {
+          "@language": "en",
+          "@value": "Biken im Zillertal in Mayrhofen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Biken im Zillertal in Mayrhofen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b7fcae03-e531-4b8a-8359-f1526c2d568e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "White Lounge am Ahorn"
+        },
+        {
+          "@language": "en",
+          "@value": "White Lounge am Ahorn"
+        },
+        {
+          "@language": "ru",
+          "@value": "White Lounge am Ahorn"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/837dc635-e84d-4774-acec-baa768e100eb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter Landschaft in Mayrhofen"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter Landschaft in Mayrhofen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter Landschaft in Mayrhofen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c5e4eb1-e92f-4ee1-b298-2f0743b70a65/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sonnenaufgang Ahorn "
+        },
+        {
+          "@language": "en",
+          "@value": "Sonnenaufgang Ahorn "
+        },
+        {
+          "@language": "ru",
+          "@value": "Sonnenaufgang Ahorn "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52dca7e1-da72-4eb7-bcde-35c62ee1e40b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Huber\u0027s a la carte Restaurant od. Halpension"
+        },
+        {
+          "@language": "en",
+          "@value": "Huber\u0027s a la carte Restaurant od. Halpension"
+        },
+        {
+          "@language": "ru",
+          "@value": "Huber\u0027s a la carte Restaurant od. Halpension"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae06545c-9272-459b-bd1f-a10ebe49a24d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Frühstück in Huber\u0027s Boutiquehotel"
+        },
+        {
+          "@language": "en",
+          "@value": "Frühstück in Huber\u0027s Boutiquehotel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Frühstück in Huber\u0027s Boutiquehotel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f96bf623-e783-4b37-b75b-705c151a94a8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "neue Penkenbahn"
+        },
+        {
+          "@language": "en",
+          "@value": "neue Penkenbahn"
+        },
+        {
+          "@language": "ru",
+          "@value": "neue Penkenbahn"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2e10cf1f-9976-4bcb-a2c7-51ea58067b7f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Almabtrieb 1. Wochenende im Okt."
+        },
+        {
+          "@language": "en",
+          "@value": "Almabtrieb 1. Wochenende im Okt."
+        },
+        {
+          "@language": "ru",
+          "@value": "Almabtrieb 1. Wochenende im Okt."
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1640309001018",
+    "longitude": "11.863431930542"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, gartenseitig"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, facing the garden"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, с видом на сад"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "App.Astegg für 1-3 Pers.: Doppel-od. Dreibettzimmer, Bad/DU/WC/Fön/Balkon,Wohnraum mit Küchenzeile, Essecke, Kabel-TV u. Telefon, Küchenausstattung: 2 Cerankochfelder, Microwelle- kein Backofen. 1 gratis Parkplatz, herrlicher Ausblick auf die Berge."
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment \"Astegg\", suitable for 2-3 persons, 1 lounge with integrated fully equipped kitchen, no oven but a microwave, cable TV, telephone."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement 1-3 Personen"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./1 bedr./shower+bath"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, с видом на сад"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "65.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, gartenseitig"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, facing the garden"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, с видом на сад"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "App. Penken mit 1 Doppel-u.1 Dreibettzimmer, 1xDU/WC/Fön,1xBad/WC/Fön,Balkon, Wohnraum mit Essecke, Liege,Balkon, Kabel-TV/Tel. separate kleine Küche- mit 2Cerankochfelder, Microwelle- kein Backofen, Vorraum mit Garderobe,tolle Sicht auf die Berge."
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment \"Penken\", suitable for 4-5 persons, with cable TV, telephone, separate fully equipped kitchen, no oven, but a microwave."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement 4-5 Personen"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower,bath tube,WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, с видом на сад"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "105.00",
+          "maxPrice": "235.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "125.00",
+          "maxPrice": "265.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

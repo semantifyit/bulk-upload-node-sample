@@ -1,0 +1,902 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel",
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.martha.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dE1F44CC6-FC56-418D-9616-A6792EA652DE"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Martha, Gästehaus",
+    "streetAddress": "Durst 267",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62324",
+    "faxNumber": "0043 5285 62324 24",
+    "email": "info@martha.at",
+    "url": "http://www.martha.at"
+  },
+  "name": "Gästehaus Martha",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Familie Felbermayr heißt Sie herzlich willkommen!\nGenießen Sie die schönsten Tage des Jahres in der gemütlichen und freundlichen Atmosphäre unseres Hauses.\nUnsere Pension liegt zentral in Mayrhofen, nur fünf Minuten von Ortszentrum und dem Europahaus Mayrhofen entfernt, und ist damit der ideale Ausgangspunkt für unzählige Urlaubsaktivitäten in der Region.\nDas atemberaubende Bergpanorama um die Zillertaler Alpen und die Zentrumsnähe aber dennoch ruhige Lage machen die Pension Martha zu einem idyllischen Ort, an dem es sich wunderbar entspannen lässt. \nViel Ruhe und Natur sorgen dafür, dass Sie wieder einmal so richtig durchatmen können. Erkunden Sie die herrliche Berglandschaft der Umgebung mit den zahlreich zur Verfügung stehenden Bahnen, mit dem Auto oder zu Fuß. Selbstverständlich ist das Gebiet auch bestens für Radfahrer geeignet.\n\nSommer wie Winter ein Genuß\nIn Mayrhofen und seiner Umgebung stehen Ihnen im Winter und im Sommer zahlreiche Möglichkeiten für Aktivitäten offen. Im Sommer bietet sich ein wahres Eldorado für Wanderer und Radfahrer. Abends locken Mayrhofner Musikgruppen die Gäste in die vielen Gastgärten und sorgen für ein angenehmes und stimmungsvolles Ambiente. Im Winter laden die Gletscher ausgiebig zum Skivergnügen ein. Die unzähligen Bergbahnen, das Hüttennetz sowie der gratis Skibus bieten Aktiven und Sportbegeisterten attraktive Möglichkeiten.\n\n \n"
+    },
+    {
+      "@language": "de",
+      "@value": "Am Anreisetag stehen Ihnen die Zimmer ab frühestens 11.00 Uhr zur Verfügung. Am Abreisetag ersuchen wir Sie, die Zimmer bis 10.00 Uhr freizugeben.\nDie Appartements bitten wir bis um 09.30 Uhr freizugeben."
+    },
+    {
+      "@language": "de",
+      "@value": "Sie erreichen uns über die Inntalautobahn, wenn Sie die Ausfahrt Zillertal nehmen. Von dort fahren Sie auf der Bundesstraße 169 ca. 32 Kilometer Tal einwärts bis Mayrhofen. In Mayrhofen nehmen Sie die zweite Ausfahrt des Kreisels. Danach gleich wieder die erste Straße rechts. Dann die nächste Kreuzung links abbiegen in Richtung Europahaus. Fahren Sie geradeaus weiter und biegen Sie an der nächsten Weggabelung links ab. Nach 150 Metern befindet sich unser Gästehaus.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Zimmer mit Frühstück, Appartement für 2 Personen, Schiurlaub Mayrhofen, Pension Mayrhofen/Zillertal"
+    },
+    {
+      "@language": "en",
+      "@value": "Felbermayr family welcomes you in the holiday region of Mayrhofen-Hippach!\nThe most beautiful days of the year - the holidays - to really enjoy. Look forward to it, because with us you will find cozy and friendly atmosphere to relax before.\n\nYour bed \u0026 breakfast for a relaxing holiday\nOur guest house is centrally located in Mayrhofen, just five minutes from the town center and the Europe House Mayrhofen, making it the ideal starting point for countless holiday activities such as hiking in the Zillertal Alps, skiing with the Mayrhofen Mountain Lifts (Penken and Ahorn cable car) and much more in the region .\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Your room will be ready from 11.00 pm on arrival day. We ask you to leave the room until 10.00 am on departure day.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "You can reach us via the Inntalautobahn, if you take the exit Zillertal. From there you drive on the highway 169 approximately 32 km into the valley to Mayrhofen. In Mayrhofen, take the second exit of the roundabout. Then again the first right. Then the next junction turn left towards Europe House. Continue straight and turn right at the next junction, turn left. After 150 meters you will find our guesthouse.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "bed and breakfast, apartements for 2 persons Mayrhofen/Zillertal"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "33"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/999ea244-4b83-4499-9da1-79b39519b075/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Martha in Mayrhofen im Zillertal"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Martha in Mayrhofen im Zillertal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Martha in Mayrhofen im Zillertal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/46807559-2e82-4810-9139-e2e561c74d80/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Martha Mayrhofen - Sommerbild"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Martha Mayrhofen - Sommerbild"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Martha Mayrhofen - Sommerbild"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/749813cb-47d0-43e7-ab4e-326b1cbfde20/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "en",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/daeb3eed-4243-4944-9ee7-4d819dc210cf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "en",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1578efc6-ea77-435b-86c8-7dfd627d74f1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "en",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5742def6-b8c3-43a5-80fa-93d63430fb15/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "en",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50f408ec-2f62-44af-a6a9-04610f8a1dfa/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "en",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94bde815-9ec3-4552-92ce-2027020d26df/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "en",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0696ba28-dadb-4618-b1e8-90e2fece6b70/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "en",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d42cb0b0-0834-4e45-8ba4-d429a44d3df6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "en",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a4c43056-8faf-47bd-8a93-21a13e600b14/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "en",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/49e04dd2-0e4d-4457-b09d-3ee023d73cd8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "en",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gaesthaus-Martha-Mayrhofen-Durst-267-Martha-Felber"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c8ee4ab-1cc0-458e-a002-083a80d0d0f8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mayrhofner Advent"
+        },
+        {
+          "@language": "en",
+          "@value": "Mayrhofner Advent"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mayrhofner Advent"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ceef7a19-64ed-4eca-adc4-81842ee0a056/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "White Lounge"
+        },
+        {
+          "@language": "en",
+          "@value": "White Lounge"
+        },
+        {
+          "@language": "ru",
+          "@value": "White Lounge"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b5e15c40-d39a-4cdc-83dc-044f9366da28/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Biken"
+        },
+        {
+          "@language": "en",
+          "@value": "Biken"
+        },
+        {
+          "@language": "ru",
+          "@value": "Biken"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60a06c6c-ccff-463f-b295-dd8133684d33/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skipiste"
+        },
+        {
+          "@language": "en",
+          "@value": "Skipiste"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skipiste"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df73e0b4-bbf8-4121-9566-04f33b56ab8b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skifahrer in Action"
+        },
+        {
+          "@language": "en",
+          "@value": "Skifahrer in Action"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skifahrer in Action"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/254d5029-2c6b-4ad5-9e7f-fcbe6314a6ab/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Chill out am Ahorn"
+        },
+        {
+          "@language": "en",
+          "@value": "Chill out am Ahorn"
+        },
+        {
+          "@language": "ru",
+          "@value": "Chill out am Ahorn"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1693447175189",
+    "longitude": "11.8701857328415"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer mit Flat-TV (Kabelanschluss), Pflegeprodukten im Bad und W-Lan.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room with flat screen TV (cable), bathroom toiletries and Wi-Fi.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "single room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер, душ, туалет"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "ca 10m², Teppichboden,Flat-TV, Kabel-TV, Balkon, Bad mit DU/WC, WLan-gegen Gebühr."
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "38.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Alle Zimmer verfügen über Flat-TV mit Kabelanschluss. W-Lan in allen Zimmern verfügbar. Badezimmer mit kostenfreien Pflegeprodukten ausgestattet.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "All rooms have flat screen TV with cable channels. Wireless Internet available in all rooms. Bathroom with free toiletries.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d4ca2c06-cc97-42b8-9b9d-a002f0b645cc/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Suite"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Suite"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Suite"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/aeb52509-49f0-4595-976e-01bafbe5229b/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "DSC_2804"
+                },
+                {
+                  "@language": "en",
+                  "@value": "DSC_2804"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "DSC_2804"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/5b9c92bc-9c21-4b33-b7a2-0682deb5aed0/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "DSC_2829"
+                },
+                {
+                  "@language": "en",
+                  "@value": "DSC_2829"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "DSC_2829"
+                }
+              ]
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer, Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Activ-Card-Pauschale gültig vom 07.06. - 11.10.2014\nInkludierte Leistungen:\nUnterkunft im gemüthlichen Doppelzimmer\n6 Tage Zillertal Activcard inkl. Bergbahnen, Zug, Bus, Schwimmbäder,...\neine geführte Wanderung mit dem Hausherren Charly\n\nBeim Aufenthalt von mehr als 7 Übernachtungen, melden Sie sich direkt bei uns.\n\nIhre Familie Felbermayr"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "37.50",
+          "maxPrice": "41.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Studio, Dusche oder Bad, WC, neuwertig"
+        },
+        {
+          "@language": "en",
+          "@value": "Studio, shower or bath, toilet, good as new"
+        },
+        {
+          "@language": "ru",
+          "@value": "Студио, Душевая кабина или ванна, туалет, практически как новый"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Frühstück auf Anfrage möglich.\nIn unserem geräumigen, 44m² großen Studio haben Sie einen herrlichen Urlaubsplatz gefunden. Diese Wohnung ist nagelneu und vollständig eingerichtet.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Breakfast available on request.\nIn our spacious 44m ² studio you have a wonderful holiday spot found. This apartment is brand new and fully furnished.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Studio, Dusche oder Bad, WC, neuwertig"
+            },
+            {
+              "@language": "en",
+              "@value": "Studio, shower or bath, toilet, good as new"
+            },
+            {
+              "@language": "ru",
+              "@value": "студия, shower or bath, toilet, заново"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "44m² großes neues Studio für 2 Personen, Terrasse, Flat TV mit Kabelempfang, \nKüche mit Kaffeemaschine, Toaster, Spülmaschine, Mikrowelle, Kühlschrank. Bettwäsche, Fön und Badpflegeprodukte vorhanden.\n"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Suite, Dusche, WC, Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Suite, shower, toilet, balcony"
+        },
+        {
+          "@language": "ru",
+          "@value": "Люкс, душ, туалет, балкон"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "In unserer hellen, geräumigen Suite haben Sie zu zweit den richtigen Platz für echte Erholung gefunden. Hier erwartet Sie helles Holz und Platz, Platz, Platz!\n"
+        },
+        {
+          "@language": "en",
+          "@value": "In our bright, spacious suite, you have a couple found the right place for true relaxation. Here you will find light wood and space, space, space!\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Suite, Dusche, WC, Balkon"
+            },
+            {
+              "@language": "en",
+              "@value": "Suite, shower, toilet, balcony"
+            },
+            {
+              "@language": "ru",
+              "@value": "Suite, shower, toilet, balcony"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "43.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "neues Appartement  30m², Balkon, DU/WC, Küche mit Mikrowelle, 4 Zonen Herd. (Kein Backrohr), Toaster, Filterkaffeemaschine, Wasserkocher und Kühlschrank. "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "2er Appartement"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 1 bed room"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, одна спальня"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/9a25a199-9df1-44b2-ab9f-9c490d177083/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Schlafraum"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Schlafraum"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Schlafraum"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/6e04a0d5-c9de-41cc-aa52-48a61755abae/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Sitzecke"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Sitzecke"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Sitzecke"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ef708428-772d-4ddb-9b59-ad49e36c9ff1/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Schrank, Gardarobe"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Schrank, Gardarobe"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Schrank, Gardarobe"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a08dcd83-407a-4412-9a8a-d8010a9d5ad2/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Waschtisch im Badezimmer"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Waschtisch im Badezimmer"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Waschtisch im Badezimmer"
+                }
+              ]
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "41.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apart-angela.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d86A5C6B2-210B-4C68-9B15-9C772A223343"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Angela, Apart",
+    "streetAddress": "Hollenzen 59",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63901",
+    "faxNumber": "0043 5285 63901",
+    "email": "info@apart-angela.at",
+    "url": "http://www.apart-angela.at"
+  },
+  "name": "Apart Angela",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Appartement \"Sonnenhang\" liegt an einem besonders ruhigen, sonnigen Platz am Waldrand. Zusätzlich bieten wir unseren Gästen: Brötchendienst,  Terrasse mit Liegestühlen, Fahrräder stehen zur Verfügung, Parkplatz vor dem Haus, Skiraum- und Skischutrockner, Wanderweg vorm Haus, Kinderbett und Kinderhochstuhl auf Anfrage, Appartement rollstuhlgeeignet - ebenerdig."
+    },
+    {
+      "@language": "de",
+      "@value": "Endreinigung Euro 35,00"
+    },
+    {
+      "@language": "de",
+      "@value": "Endreinigung Euro 35,00\n\nBettwäsche, Handtücher und Geschirrtücher sind im Preis inbegriffen.\nAm Anreisetag steht Ihnen Ihr Appartement ab 15.00 Uhr zur Verfügung.\nAm Abreisetag bitten wir Sie, das Appartement um 9.00 Uhr freizugeben.\nBei verspäteter Anreise oder verfrühter Abreise bitten wir um Verständnis , dass wir eine Leerbettgebühr in Rechnung stellen müssen!\n\nDie Skigebiete sind 1-2 Kilometer entfernt.\nSkibushaltestelle 50 Meter entfernt"
+    },
+    {
+      "@language": "en",
+      "@value": "Our flat \"Sonnenhang \" lies on an especially quiet, sunny place at the edge of the forest. In addition, we offer to our guests: Bread service, terrace with deck chairs, bicycles are available, parking bay before the house, ski space,..\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Final Cleaning: 35,00"
+    },
+    {
+      "@language": "en",
+      "@value": "Final cleaning 35. 00 euros \nBedclothes, towels and dish towels are included in the price. \nOn the journey day your flat is available to you from 15. 00 o\u0027clock. \nOn the departure day we ask you to release the flat at 9. 00 o\u0027clock. \n\nThe skiing areas are 1-2 kilometres away. \n"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "14"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c9e93e7-6140-49a8-9631-7ee047dec526/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Angela Mayrhofen - Winteransicht 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Angela Mayrhofen - Winteransicht 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Angela Mayrhofen - Winteransicht 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4d67701c-6443-48d3-af63-33fa629f9133/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Angela Mayrhofen - Winteransicht 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Angela Mayrhofen - Winteransicht 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Angela Mayrhofen - Winteransicht 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d965d6ee-389b-43b8-8a5e-8403e70c8372/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Angela Mayrhofen - Sommeransicht 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Angela Mayrhofen - Sommeransicht 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Angela Mayrhofen - Sommeransicht 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/825accee-b89d-40bb-b4c1-8cfd0a850183/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Angela Mayrhofen - Sommeransicht 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Angela Mayrhofen - Sommeransicht 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Angela Mayrhofen - Sommeransicht 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5defaa0-e241-46d4-a702-c943c7672282/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Angela Mayrhofen - Garten1"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Angela Mayrhofen - Garten1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Angela Mayrhofen - Garten1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d388efb8-e699-4478-82f4-c87d3a95aeb8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Angela Mayrhofen - Garten 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Angela Mayrhofen - Garten 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Angela Mayrhofen - Garten 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ce69554-804b-442a-8805-de912ccb61b8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Angela Mayrhofen - Garten 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Angela Mayrhofen - Garten 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Angela Mayrhofen - Garten 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1639993d-178f-41b2-981d-0ccc309db6af/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Angela Mayrhofen - Garten 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Angela Mayrhofen - Garten 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Angela Mayrhofen - Garten 4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a95eab33-418c-4001-bdb6-fe9c2b590aa7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Angela Mayrhofen - Garten 5"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Angela Mayrhofen - Garten 5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Angela Mayrhofen - Garten 5"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.185609223145",
+    "longitude": "11.8749381182361"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Große Wohnküche mit 2 ausziehbaren Couchen und  2 seperaten Schlafräumen mit Dusch und WC  für 2-6. Persoen,- gemütliche Essecke. \nAusstattung: Mikrowelle, Geschirrspüler, Granda-Wasser, Fernseher mit Sat-TV, 2 Kochnischen, Schiraum im Parterre,Skischuhtrockner, Kachelofen, Toaster. Raum kann zusammen oder seperat gebucht werden.\n\nBuchbar kombiniert oder einzeln für 2-7 Personen.2x Dusche und Wc.gemütliche Wohnküche mit Doppelausziehcouch.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Spacious combined lounge/kitchen with a sofa bed for 3 persons and a comfortable dining area. Equipped with a microwave, dish washer, Granda water, Sat-TV, 2 electric hobs, 1 double bedroom, shower/WC, ski store"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement Sonnenhang"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./1 bedroom/shower,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Wandern mit Musik Package II"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Unser Package beinhaltet:\n\n2 Übernachtungen in einer Unterkunft (Freitag bis Sonntag)\nMusikalische Wanderung in  den Zillergrund mit Andy Sporer sowie bräuchliche Einkehrschwünge während der Wanderung (leichte Ganztageswanderung)\nTage des offenen Tales\nEin ganzes Tal wird zum Erlebnis.\nAm 02. Und 03. Juni 2012 eröffnet das Zillertal mit einem spektakulären, talweiten Event den Bergsommer. \nZwei Tage lang erwartet Sie ein Veranstaltungsfeuerwerk mit zahlreichen Veranstaltungsmöglichkeiten für die ganze Familie.\n"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Wandern mit Musik Package III"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Unser Package beinhaltet:\n\n4 Übernachtungen im Appartment\nMusikalische Wanderung am Schwendberg mit Andy Sporer sowie bräuchliche Einkehrschwünge während der Wanderung (leichte Ganztageswanderung)\n"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Adventpackage III"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Die Pauschale beinhaltet:\n\n7 Übernachtungen in unserer gemütlichen Ferienwohnung\nBesuchen und genießen am Mayrhofner Advent am Waldfestplatz\nÜberraschungsgeschenk bei Ankunft\n(1 Glühweintasse Mayrhofner Advent inkl. Inhalt + kleines Geschenk der Unterkunft zb Kekse, Zelten usw.)\nSkifahren in der Adventzeit (6-Tages-Superskipass) der Unterkunft bzw. Gast freigestellt\nWeihnachtsshopping auf der Mayrhofner Flaniermaile der Hauptstraße\nErkunden des wildromantischen Adventweges\n1 freier Eintritt in das Erlebnisschwimmbad Mayrhofen\n"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Wandern mit Musik Package I"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Unser Package beinhaltet:\n\n7 Übernachtungen in einer Unterkunft\nMusikalische Wanderung ins Stilluptal mit Andy Sporer sowie bräuchliche Einkehrschwünge während der Wanderung (leichte Ganztageswanderung)\nEintritt zum großen Yahoi Mountain Festival für Freitag, Samstag und Sonntag \nMit den Blechblos’n, Zillertal Mander, Zillertaler Local Sound, Trio Alpin, Die Wettenberger, Rimo Quintett, Die jungen Aschenwald, Peter \u0026 Pedros, Zellberg Buam\n"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

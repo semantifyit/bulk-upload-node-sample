@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": "Zahnarzt Dr. Med. Manfred Reitmeir",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1666094626574",
+    "longitude": "11.8636786937714"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pfarrer-Krapf-Straße 398",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63886",
+    "faxNumber": "0043 5285 638864",
+    "email": "m.reitmeir@medway.at",
+    "url": "http://www.zahnarzt-reitmeir.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b264f2d3-4ddc-4e78-8546-855d988c9388/99/image.jpg",
+      "caption": "Dr. Med. Manfred Reitmeir"
+    }
+  ],
+  "url": [
+    "http://www.zahnarzt-reitmeir.at"
+  ]
+}

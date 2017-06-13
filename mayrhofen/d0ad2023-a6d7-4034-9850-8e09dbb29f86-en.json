@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.tiscover.com/haus.heimat",
+    "http://maps.mayrhofen.at/?foreignResource\u003dD0AD2023-A6D7-4034-9850-8E09DBB29F86"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Heimat",
+    "streetAddress": "Waldbadstraße 535",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 05285 62323",
+    "faxNumber": "(0043)0 5285 62323",
+    "email": "hausheimat@aon.at",
+    "url": "http://hausheimat.net"
+  },
+  "name": "Haus Heimat",
+  "description": [
+    "Comfortable holiday apartment for 2-4 persons, 1 or 2 bedrooms with radio, lounge with cable TV,  fully equipped kitchen,  shower/WC or bath/WC  and balcony.",
+    "Dogs allowed! Dogs 3,70.- Euro without feed. final cleaning charge € 10,- per person",
+    "Check in 15.00hr, check out 10.00hr; Einfahrt Mitte at Mayrhofen, cross the main road, first road on the right, Waldbadstrasse, look for signs for the adventure swimming pool (Erlebnisbad)."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9301cbfe-1ecd-4c80-9afc-462b70f40ca3/99/image.jpg",
+      "caption": "Haus Heimat Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ea660813-7407-48d3-a864-08dab8a0c218/99/image.jpeg",
+      "caption": "Haus Heimat Mayrhofen - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1650521279646",
+    "longitude": "11.8639361858368"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 1 bed room",
+      "description": "Comfortable holiday apartments, suitable for 2 or 4 persons, 1 or 2 bedrooms with radio, lounge with cable TV, fully equipped kitchen, shower/WC, or bath/WC and balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/1 bedroom/shower, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

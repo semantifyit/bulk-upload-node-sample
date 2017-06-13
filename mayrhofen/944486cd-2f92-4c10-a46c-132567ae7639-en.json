@@ -1,0 +1,143 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.cafe-martin.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d944486CD-2F92-4C10-A46C-132567AE7639"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Cafe Martin",
+    "streetAddress": "Afelden 163",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3182",
+    "email": "cafe-martin@aon.at",
+    "url": "http://www.cafe-martin.at"
+  },
+  "name": "Cafe Martin",
+  "description": [
+    "Welcome!\n\nand on good Zillertalerisch \"Griaß di\" in our house.\n\n\u003e Snowy mountain slopes .....\n\n        \u003e Sunny winter landscape .....\n\n                \u003e Groomed slopes .....\n\nWant to rest and vacation?\n\nA moment of peace of mind is better\nthan what you may aspire.\n\nWe make every effort that you can enjoy your precious time of rest.\n\nfamily Trojer",
+    "children reduction on request",
+    "motorway A12 - exit Zillertal - 25 km through the zillertal valley to Hippach - turn right at the traffic lights - pass the bridge - turn right to Laimach - about 1 km straight ahead - turn left 30m before the little church",
+    "\nActive holiday feel Skiing Relax rest and relaxation family house cosiness"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a834b85-4d3f-483e-8b4e-64308013914d/99/image.jpg",
+      "caption": "Cafe_Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68ccf7db-baed-4610-a20e-f52a61884a9c/99/image.jpg",
+      "caption": "Logo_2011"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/828a55ea-1b0e-4ea2-a330-668fae138e2a/99/image.jpg",
+      "caption": "Cafe Winter_TVB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ff7ef27-bcb5-48e0-995e-877f12e67008/99/image.jpg",
+      "caption": "2010_1213Haus_Winter0083"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ca6fd7c-739e-42b6-b25e-9327cd25caba/99/image.jpg",
+      "caption": "2012_0106CafeWinter0113"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b3334338-143b-488a-b46b-e8884f31ce1c/99/image.jpg",
+      "caption": "2007_0512Hochzeit0020"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9227c292-dafc-4631-b6f1-ecc11c0d5bb1/99/image.jpg",
+      "caption": "2007_0512Hochzeit0027"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/466dea97-63a7-4176-b6f3-0ec69b1c6e63/99/image.jpg",
+      "caption": "HPIM2053"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5b63472b-2672-40fb-acc6-4ce67e9450e6/99/image.jpg",
+      "caption": "HPIM2055"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3609afb0-4563-42e8-ad4a-0f88231c82c5/99/image.jpg",
+      "caption": "HPIM2074"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e676b559-de51-453f-af7c-d7bf393f5369/99/image.jpg",
+      "caption": "HPIM2068"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9358f86-f415-47f3-8647-d93d3dd7fb7b/99/image.jpg",
+      "caption": "HPIM2072"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc195828-f306-43fb-80b4-65df8d7ab708/99/image.jpg",
+      "caption": "Cafe_Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2215501189796",
+    "longitude": "11.8620264530182"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Comfortable rooms with shower / WC or bath / WC, flat screen TV, complimentary wireless Internet access and. Extended breakfast",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "37.00",
+          "maxPrice": "46.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "29.00",
+          "maxPrice": "38.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

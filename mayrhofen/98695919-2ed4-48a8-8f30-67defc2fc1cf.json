@@ -1,0 +1,293 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apart Alpin",
+    "streetAddress": "Göttstätt 359",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 387 6006",
+    "email": "info@apartments-zillertal.at",
+    "url": "http://www.apartments-zillertal.at"
+  },
+  "name": "Apart Alpin",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Griaßt enk und herzlich Willkommen im Apart Alpin!\n\nUnser ruhiges und sonnig gelegenes Haus mit 4 Apartments liegt am Schwendberg in ruhiger Lage.\nSie haben einen beeindruckenden Blick über das hintere Zillertal.\n Die Apartments sind Nichtraucherapartments, gemütlich und hochwertig eingerichtet und bieten höchsten Komfort für einen erholsamen Urlaub.\n\nWir freuen uns jetzt schon wie in unserem Haus bei einem Willkommensschnapserl begrüßen zu dürfen. "
+    },
+    {
+      "@language": "de",
+      "@value": "Haustiere nicht erlaubt\nINKLUSIVE:\tHeizung - Wasser - Bettwäsche\nEXLUSIVE:\tEndreinigung € 65,--\n"
+    },
+    {
+      "@language": "de",
+      "@value": "CheckIn 16 Uhr/CheckOut 9 Uhr\nAuf der B169 bis Ramsau,bei der Ampel rechts abbiegen Richtung Hippach,rechts abbiegen Richtung Laimach. \nBei der Kreuzung links nach Schwendberg abbiegen. \nNach dem Hotel Schwendbergerhof gerade weiter nach \"Göttstätt\"."
+    },
+    {
+      "@language": "en",
+      "@value": "Welcome to the Apart Alpin!\n\nOur quiet and sunny house with 4 apartments is located on Schwendberg.\nYou have an wonderful view over the back Zillertal.\nAll apartments are non-smoking, cozy and high-quality furnished and offer the utmost comfort for a relaxing holiday.\n\nWe are already looking forward to welcome you in our hotel with a welcome snap."
+    },
+    {
+      "@language": "en",
+      "@value": "Pets not allowed\nINCLUDED: Heating - Water - Sheets\nEXCLUSIVE: Final cleaning € 65,--"
+    },
+    {
+      "@language": "en",
+      "@value": "CheckIn 4 p.m. / CheckOut 9 a.m.\nOn the B169 to Ramsau, turn right at the traffic light direction Hippach, turn right to Laimach.\nTurn left at the crossroads to Schwendberg.\nAfter the hotel Schwendbergerhof straight on to \"Göttstätt\"."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/05d544d0-a7d7-4c3e-bc73-35391be5b9ea/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "teaser-08"
+        },
+        {
+          "@language": "en",
+          "@value": "teaser-08"
+        },
+        {
+          "@language": "ru",
+          "@value": "teaser-08"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b286e084-a113-421a-b62f-0ac9453c6a81/99/image.png",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Alpin - LOGO"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Alpin - LOGO"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Alpin - LOGO"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/00565e12-74ec-43f2-a21e-7cb589975c41/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "banner-ferienwohnung-apart-alpin-schwendberg-hover"
+        },
+        {
+          "@language": "en",
+          "@value": "banner-ferienwohnung-apart-alpin-schwendberg-hover"
+        },
+        {
+          "@language": "ru",
+          "@value": "banner-ferienwohnung-apart-alpin-schwendberg-hover"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2114397",
+    "longitude": "11.860781"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Unser Apartment verfügt über 2 Doppelzimmer und einer Wohnküche mit einer ausziehbaren Schlafcouch für 2 Personen.\nBad und WC sind getrennt. "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Typ A"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Unser Apartment verfügt über 1 Doppelzimmer und 1 Zimmer mit 2 Stockbetten für 4 Personen und einer Wohnküche mit einer ausziehbaren Schlafcouch für 1 Person.\nBad und WC sind getrennt. "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Typ B"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "0.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

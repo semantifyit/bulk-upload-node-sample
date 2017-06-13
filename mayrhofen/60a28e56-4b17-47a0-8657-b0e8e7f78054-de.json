@@ -1,0 +1,80 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://",
+    "http://maps.mayrhofen.at/?foreignResource\u003d60A28E56-4B17-47A0-8657-B0E8E7F78054"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ginzling 259",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 664 5304499",
+    "email": "fwgeisler@a1.net"
+  },
+  "name": "Ferienwohnung Geisler",
+  "description": [
+    "Neu renovierte Ferienwohnung ausserhalb von Ginzling.\nFür Wanderer- und Kletterbegeisterte optimal gelegen.\nAuto erforderlich",
+    "Ca. 2 km entfernt von Ginzling, folgen Sie weiter der Schlegeisstrasse bis Sie auf der rechten Seite die Beschilderung Ferienwohnung Geisler finden.\n\nCheck in nach Vereinbarung\nCheck out: 10.00 Uhr\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e22ab31-af96-4b09-95ba-602df0e4637f/99/image.jpg",
+      "caption": "Ferienwohnung Geisler Ginzling - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86ea6c31-d787-4b76-9bb6-c7706eebf0df/99/image.jpg",
+      "caption": "Ferienwohnung Geisler Ginzling - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0905568147115",
+    "longitude": "11.79354429245"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "35.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

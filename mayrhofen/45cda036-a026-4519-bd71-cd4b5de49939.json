@@ -1,0 +1,124 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsClub"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Fitnesscenter Shape"
+    },
+    {
+      "@language": "de",
+      "@value": "Fitnesscenter Shape"
+    },
+    {
+      "@language": "ru",
+      "@value": "Fitnesscenter Shape"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1616783540743",
+    "longitude": "11.8617367744446"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fitnesscenter \u003eShape\u003c",
+    "streetAddress": "Zillerlände 490",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 8925000",
+    "faxNumber": "0043 5285 63705",
+    "email": "b.boehmer@shape-mayrhofen.com",
+    "url": "http://www.shape-mayrhofen.com"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Regelmäßiger Sport und eine gesunde Ernährung sind zwei der wichtigsten Faktoren im Leben, um das körperliche und seelische Wohlbefinden zu steigern und sich leistungsfähig und ausdauernder für Job, Familie und Freizeit zu fühlen. \n\nOb Krafttraining, Aerobic, Pilates oder Yoga – im neuen SHAPE finden Bewegungsprofis, Hobby-Sportler oder Neueinsteiger ein breites und auf ihre individuellen Bedürfnisse abgestimmtes Trainings- und Wellness-Angebot. Erfahrene Trainer betreuen unsere Mitglieder von Anfang an und erstellen mit Ihnen gemeinsam einen perfekt ausgearbeiteten Trainingsplan der auf die spezifischen Bedürfnisse und Wünsche jedes Kunden abgestimmt wird.\nZu unseren bewährten Partnern zählt die Physiotherapeuten-Praxis „Michaela Kofler“, somit kommen auch Gesundheit und Wellness keinesfalls zu kurz.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Regular exercise and a healthy diet are two of the most important factors in life, in order to increase the physical and mental wellbeing and powerful and persistent feeling of job, family and leisure.\n\nWhether weight training, aerobics, Pilates or yoga - the new SHAPE find professionals movement , amateur athletes or beginners a broad and tailored to their individual needs training and wellness programs. "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/669dd88f-2f52-4cb7-9de3-990f3c9d0006/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Fitnesscenter Shape"
+        },
+        {
+          "@language": "de",
+          "@value": "Fitnesscenter Shape"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fitnesscenter Shape"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2de9aa68-4f95-4fcd-9449-4fd5f8b5b125/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Trainingsraum"
+        },
+        {
+          "@language": "de",
+          "@value": "Trainingsraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Trainingsraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04aef4c5-8f01-45c9-9fde-d31181707faf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Trainingsraum 2"
+        },
+        {
+          "@language": "de",
+          "@value": "Trainingsraum 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Trainingsraum 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ff10258b-ba73-45b1-ba9f-706e5527439c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Trainingsraum 3"
+        },
+        {
+          "@language": "de",
+          "@value": "Trainingsraum 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Trainingsraum 3"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.shape-mayrhofen.com"
+  ]
+}

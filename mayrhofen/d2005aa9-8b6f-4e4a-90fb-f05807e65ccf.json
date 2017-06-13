@@ -1,0 +1,294 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.gaestehausanfang.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dD2005AA9-8B6F-4E4A-90FB-F05807E65CCF"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sidanweg 246",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62568",
+    "faxNumber": "0043 5285 62568",
+    "email": "info@gaestehausanfang.at",
+    "url": "http://www.gaestehausanfang.at"
+  },
+  "name": "Gästehaus Anfang",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt in ruhiger und sonniger Lage ca. 2 km vor Mayrhofen. 4 Gästezimmer, alle mit DU/WC, Balkon, kleine Teeküche auf der Etage, ein gemütlicher Frühstücksraum, Sat-TV, Spiele und Lesestoff sowie eine große Sonnenterasse mit Liegewiese laden zum Entspannen und Sonnenbaden ein. 5 min vom Haus entfernt befindet sich ein großer Kinderspielplatz und ein ca. 20km langer Radwanderweg. Im  Winter Langlaufloipe direkt am Haus und zur Horberbahn sind es nur wenige Gehminuten"
+    },
+    {
+      "@language": "de",
+      "@value": "Haustiere erlaubt, Kurzaufenthalte willkommen! Endreinigung € 20,- - 40,-\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Check-In: 12.00, Check-Out 10.00 Uhr\nWeg: Bei der Ampel Ramsau geradeaus Richtung Mayrhofen. Nach der Firma AL-KO recht über die Brücke fahren gerade aus bei der Kreuzung rechts über die kl. Brücke dann gleich wieder rechts ca. nach 200 m. rechts abbiegen. Das 1. Haus auf der linken Seite."
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated in a sunny and calm position, about 2 km before Mayrhofen. 4 guestrooms, all equipped with Shower/WC, balcony, small teakitchen on the floor, 1 cosy lounge, Sat-TV, games and books and a big sunbathing lawn to relax. Play ground for children about 5 minutes away. 20km long biking road. Skiarea \"Horbergbahn\" nearby."
+    },
+    {
+      "@language": "en",
+      "@value": "Domestic animals permitted, short stays are welcome!"
+    },
+    {
+      "@language": "en",
+      "@value": "Route:\nAt the traffic Lights in Ramsau, straight ahead in direction \"Mayrhofen\". After the company \"AL-KO\" drive right - over a bridge - right - about 10 meters right. After 200meters turn right and then the first house on the left side."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e107a86b-d837-4430-a1d6-de76291acf90/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Anfang Schwendau - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Anfang Schwendau - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Anfang Schwendau - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/942034d3-35b1-4f1e-b5ab-74d076ec8c12/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Anfang Schwendau - Sommer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Anfang Schwendau - Sommer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Anfang Schwendau - Sommer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4c7a5c3-86c2-444e-8019-23a2fc04561e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Anfang Schwendau - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Anfang Schwendau - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Anfang Schwendau - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1765770e-8728-4345-8473-f2e740fd07f0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Anfang Schwendau - Grundriss"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Anfang Schwendau - Grundriss"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Anfang Schwendau - Grundriss"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7407c4d3-29f5-4b82-9df3-0f5b29d49171/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Einkehr © Blickfang Photographie"
+        },
+        {
+          "@language": "en",
+          "@value": "Einkehr © Blickfang Photographie"
+        },
+        {
+          "@language": "ru",
+          "@value": "Einkehr © Blickfang Photographie"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e565f10f-1c77-4237-8a2f-6d436a7a50e2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gipfel © Paul Sürth"
+        },
+        {
+          "@language": "en",
+          "@value": "Gipfel © Paul Sürth"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gipfel © Paul Sürth"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f54f8a5a-accf-4b91-bc66-e4e538b14da7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Panorama © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Panorama © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Panorama © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b64a3cac-8458-40ed-bc0e-4a041a533496/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Entspannung pur © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Entspannung pur © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Entspannung pur © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/29c71c45-68eb-413a-a32c-98aac928e4b2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schneeschuhwandern © Frank Bauer"
+        },
+        {
+          "@language": "en",
+          "@value": "Schneeschuhwandern © Frank Bauer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schneeschuhwandern © Frank Bauer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1e947118-4b62-4204-a4e3-0e7f852220ed/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "en",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "ru",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1908097528084",
+    "longitude": "11.8649768829346"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die Wohnung, eine abgeschlossene Etage, besteht aus einer Wohnküche mit Schlafgelegenheit, Sat-TV, 1 großes Schlafzimmer mit Doppelbett, 1 Einzelzimmer sowie DU/WC, ein Vorraum mit Garderobe, Balkon auf der Südseite."
+        },
+        {
+          "@language": "en",
+          "@value": "living-kitchen with sleep possibility, Sat-TV, 1 big bedroom with doublebed, 1 singleroom, shower/WC, balcony on southside"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

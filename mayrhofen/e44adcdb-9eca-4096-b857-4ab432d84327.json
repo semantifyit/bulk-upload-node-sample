@@ -1,0 +1,482 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ferienwohnungen-zillertal-mayrhofen.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dE44ADCDB-9ECA-4096-B857-4AB432D84327"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Panoramablick, Appartment",
+    "streetAddress": "Brandberg 12d",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63236",
+    "faxNumber": "0043 5285 63236",
+    "email": "schiestl.christian@aon.at",
+    "url": "http://www.ferienwohnungen-zillertal-mayrhofen.at"
+  },
+  "name": "Appartment Panoramablick",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt im Ortsteil Brandberg, ca.5kmvon Mayrhofen entfernt, in ruhiger und sonniger Lage. Umgeben von zahlreichen Wanderwegen sowie einer wunderschönen Bergkulisse.Internetanschluss"
+    },
+    {
+      "@language": "de",
+      "@value": "Die Preise verstehen sich inkl. Ortstaxe und Garage, exkl. Endreinigung."
+    },
+    {
+      "@language": "de",
+      "@value": "Entlang der Zillertaler Bundesstrasse B169, ca. 500m vor Mayrhofen nach links abbiegen. Durch den Brandberg-Tunnel Richtung Brandberg. Unser Haus liegt direkt im Zentrum von Brandberg."
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated in Brandberg, about 6km from Mayrhofen, in a quiet and sunny position. Surrounded by stunning mountain scenery and many beautiful walk ways."
+    },
+    {
+      "@language": "en",
+      "@value": "The price includes local taxes and garage parking. Excludes final cleaning charge."
+    },
+    {
+      "@language": "en",
+      "@value": "Along the Zillertaler main through fare, the B169, approx. 500 metres before Mayrhofen turn left. Through the Brandberg-Tunnel towards Brandberg. Our house is situated in the centre of Brandberg."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e5fbcee2-5066-4e23-bd12-a7a0be1f8610/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Panoramablick Brandberg - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Panoramablick Brandberg - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Panoramablick Brandberg - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8c732cb1-10e3-444c-90e5-fc6ed87deda5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Panoramablick Brandberg - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Panoramablick Brandberg - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Panoramablick Brandberg - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/355e1936-3c07-4465-a7ff-d495a14235d8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Panoramablick Brandberg - Sommer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Panoramablick Brandberg - Sommer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Panoramablick Brandberg - Sommer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/15749ba6-4a45-454d-963a-75d3abcae7e5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "FeWo Schiestl - 060"
+        },
+        {
+          "@language": "en",
+          "@value": "FeWo Schiestl - 060"
+        },
+        {
+          "@language": "ru",
+          "@value": "FeWo Schiestl - 060"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/672ba6f4-f094-4ed4-95fe-77e90fc6c94d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "FeWo Schiestl - 071"
+        },
+        {
+          "@language": "en",
+          "@value": "FeWo Schiestl - 071"
+        },
+        {
+          "@language": "ru",
+          "@value": "FeWo Schiestl - 071"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ffb35cd4-8233-4782-a05c-38c81eaab70d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "FeWo Schiestl - 029"
+        },
+        {
+          "@language": "en",
+          "@value": "FeWo Schiestl - 029"
+        },
+        {
+          "@language": "ru",
+          "@value": "FeWo Schiestl - 029"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6b0df231-546b-4134-88c0-0b1270a309e7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "FeWo Schiestl - 083"
+        },
+        {
+          "@language": "en",
+          "@value": "FeWo Schiestl - 083"
+        },
+        {
+          "@language": "ru",
+          "@value": "FeWo Schiestl - 083"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a341e735-539a-43ad-aa2a-94e04de31fb2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "FeWo Schiestl - 138"
+        },
+        {
+          "@language": "en",
+          "@value": "FeWo Schiestl - 138"
+        },
+        {
+          "@language": "ru",
+          "@value": "FeWo Schiestl - 138"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/71fa1257-6d4b-473d-a2be-df8aaea2a401/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_7453a"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_7453a"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_7453a"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4728a9b1-44e7-4a05-a439-23cd29361e2e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_7168"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_7168"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_7168"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7b25eef-675b-41e7-95cc-45d8c8a34914/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "FeWo Schiestl - 056"
+        },
+        {
+          "@language": "en",
+          "@value": "FeWo Schiestl - 056"
+        },
+        {
+          "@language": "ru",
+          "@value": "FeWo Schiestl - 056"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8e57fced-16ff-40ba-8b4d-99c7cc87edd4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "FeWo Schiestl - 131"
+        },
+        {
+          "@language": "en",
+          "@value": "FeWo Schiestl - 131"
+        },
+        {
+          "@language": "ru",
+          "@value": "FeWo Schiestl - 131"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/69943b09-603c-49f8-b6d2-98a68e42eb6c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "FeWo Schiestl - 052"
+        },
+        {
+          "@language": "en",
+          "@value": "FeWo Schiestl - 052"
+        },
+        {
+          "@language": "ru",
+          "@value": "FeWo Schiestl - 052"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1a695953-99ea-4b3e-a72f-9701f251f146/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "FeWo Schiestl - 095"
+        },
+        {
+          "@language": "en",
+          "@value": "FeWo Schiestl - 095"
+        },
+        {
+          "@language": "ru",
+          "@value": "FeWo Schiestl - 095"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c335aad2-b74b-4a7f-98db-055c296b3af1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Chris fewo direkt"
+        },
+        {
+          "@language": "en",
+          "@value": "Chris fewo direkt"
+        },
+        {
+          "@language": "ru",
+          "@value": "Chris fewo direkt"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1666386394524",
+    "longitude": "11.8999743461609"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung 2 Badezimmer (Badewanne Dusche \u0026 WC), Brötchenservice möglich, Kinderbett vorhanden, Garage für Hausgäste möglich!"
+        },
+        {
+          "@language": "en",
+          "@value": "Holiday apartment with shower and bath, WC, bread delivery service, cot available, garage parking for house guests possible!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./4 od. mehr Schlafräume/2 Badezimmer"
+            },
+            {
+              "@language": "en",
+              "@value": "ap./4 + more bedrooms/shower, bath, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "6"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "93.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "107.00",
+          "maxPrice": "107.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "121.00",
+          "maxPrice": "121.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "135.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "149.00",
+          "maxPrice": "149.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung mit eigenem Garten, Brötchenservice möglich, Gartenmöbel und Grill vorhanden."
+        },
+        {
+          "@language": "en",
+          "@value": "Holiday apartment with it\u0027s own garden, bread delivery service, garden furniture and barbecue available."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower,bath tube,WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Intersport Bründl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.167442",
+    "longitude": "11.8633738"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Intersport Bründl",
+    "streetAddress": "Hauptstraße 415",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62400 ",
+    "faxNumber": "(0043) 5285 62400 15",
+    "email": "office@bruendl.at",
+    "url": "http://www.bruendl.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da34420f-80fe-4d11-8b49-639cea79b77c/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e9613a82-0817-4715-a638-251f34e016af/99/image.jpg",
+      "caption": "1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7976c27-cf54-4b09-9370-e22cacc24b26/99/image.jpg",
+      "caption": "3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d3056f5e-772a-4d71-86b6-ef5d8a268235/99/image.jpg",
+      "caption": "2"
+    }
+  ],
+  "url": [
+    "http://www.bruendl.at"
+  ]
+}

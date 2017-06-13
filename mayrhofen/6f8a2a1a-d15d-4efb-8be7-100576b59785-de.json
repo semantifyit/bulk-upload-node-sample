@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gasthof Post",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2045111870275",
+    "longitude": "11.8653202056885"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Post",
+    "streetAddress": "Hippach-Dorf 18",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3652",
+    "faxNumber": "(0043) 5282 3652 7",
+    "email": "info@gasthofposthippach.at",
+    "url": "http://www.gasthofposthippach.at"
+  },
+  "description": "Hippach liegt am sonnigsten Teil des oberen Zillertales und ist ideal fuer einen erholsamen Urlaub waehrend des ganzen Jahres.\nUnser traditionsreiches, gastliches Haus liegt in zentraler, schoener Lage im Herzen von Hippach. \n\nDie Skibushaltestelle befindet sich direkt vor dem Haus. Unsere nahe gelegene Apres-Ski Bar \"Ramba Zamba\" laedt unermuedliche Wintersportler zu noch mehr Urlaubsspass bei abwechslungsreicher Live Musik ein!\n\nFür unsere Hausgäste im Sommer bietet die Minigolfanlage bei freiem Eintritt ein unterhaltsames Vergnügen.\n\n\nWir freuen uns auf Ihren Besuch!\n\nIhre Familie Hundsbichler-Riedl \n.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8dabe778-9dd7-4f97-8405-8d613309e1f6/99/image.jpg",
+      "caption": "Gasthof Post"
+    }
+  ],
+  "url": [
+    "http://www.gasthofposthippach.at"
+  ]
+}

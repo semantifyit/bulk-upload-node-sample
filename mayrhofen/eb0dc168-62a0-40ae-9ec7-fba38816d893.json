@@ -1,0 +1,270 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dEB0DC168-62A0-40AE-9EC7-FBA38816D893"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendberg 315",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 4152590",
+    "faxNumber": "0043 5282 2007",
+    "email": "klausundrosinahanser@aon.at"
+  },
+  "name": "Hanser Klaus und Rosina",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Haus Hanser\nUnser Haus liegt im Ortsteil Schwendberg in Hippach.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "House Hanser\nOur house lies on the Schwendberg in Hippach.\n\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a0ff9acd-6abe-45ad-8375-76d42c25906e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hanser Hippach - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Hanser Hippach - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hanser Hippach - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b2055ff-3a7a-4397-b565-cbc5f52000bf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahornbahn © Frank Bauer"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahornbahn © Frank Bauer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahornbahn © Frank Bauer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/253b763f-fe0e-4cf8-baf6-04ce3b46c130/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "en",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "ru",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7fa70774-6fb8-4645-9d9a-2c0fab6aa0f5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skifahren © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Skifahren © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skifahren © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5547d0e7-c230-4c35-8fd2-893c8548fd22/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da08a1d0-0757-4347-9a86-2a0867115479/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77d79e47-de39-47ab-9275-363c732a315a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Spaß im Schnee © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Spaß im Schnee © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Spaß im Schnee © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/417a6000-c940-4e84-b1bf-32b007f968bd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter am Berg © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter am Berg © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter am Berg © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/974f00ed-4f5c-4eb6-9620-62c7786fffa3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterwandern © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/44f85e19-8150-4948-9eb8-b83e9a60d910/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2084762518603",
+    "longitude": "11.8615597486496"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, одна спальня"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/1 Schlafraum/Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

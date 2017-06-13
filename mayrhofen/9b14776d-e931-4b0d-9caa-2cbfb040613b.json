@@ -1,0 +1,474 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.tiscover.com/landhaus.kroellin",
+    "http://maps.mayrhofen.at/?foreignResource\u003d9B14776D-E931-4B0D-9CAA-2CBFB040613B"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "zur Kröllin, Landhaus",
+    "streetAddress": "Kumbichl 877",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62907",
+    "email": "info@landhauskroellin.com",
+    "url": "http://www.landhauskroellin.com"
+  },
+  "name": "Landhaus zur Kröllin",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich Willkommen im \" Landhaus zur Kröllin\"!\nIdyllisch und ruhig gelegen, umgeben von saftig grünen Wiesen, befindet es sich am Ortsrand von Mayrhofen, nur 5 Gehminuten vom Ortszentrum entfernt.\nEin unverwechselbares Haus mit Charme und behaglicher Atmosphäre in einer einzigartigen Umgebung. Vom Balkon der gemütlichen Appartements erleben Sie herrliche Ausblicke auf die imposante Zillertaler Bergwelt.\nNichtraucherhaus\n\nSOMMER:\nSommer, Sonne und die schönen Seiten des Lebens- das ist Urlaub im \"Landhaus zur Kröllin\"\nIn unserer Gartenlandschaft erwartet Sie viel Grünfläche, ein Teich mit Gartenhütte und ein Laube mit Grillplatz.\nDas gesunde Höhenklima auf der Sonnenterasse, in einer der bequemen Liegen, sorgt für Urlaub mit Mehrwert.\nDie einzigartige Lage inmitten der Berge, macht unser Haus zum idealen Ausgangspunkt für Wanderungen aller Schwierigkeitsgrade.\nDie milde Luft einatmen, das klare Bergquellwasser trinken, sich bewegen und dabei magische Aussichten genießen, das ist Energie pur in der natürlichsten Art.  \n\n\nWINTER:\nSki- uns Snowboardfahren- auf 157 km präparierten Pisten, unterbrochen von Einkehrschwüngen in urigen Hütten, fernab von jeder Hektik.\nBeide Seilbahnen in Mayrhofen, die Ahornbahn und die Penkenbahn, können Sie zu Fuß innerhalb von 5 Minuten erreichen. Die Talabfahrt vom Ahorn führt Sie direkt vor unser Haus.\nSelbstverständlich haben wir für unsere Gäste einen eigenen Schikeller mit Schischuhtrockner. Gerne stellen wir Ihnen auch kostenlos Rodeln zur Verfügung.\nDie geräumten Wanderwege, die zu herrlichen Ausflugszielen führen, laden zu einem romantischen Spaziergang rund um Mayrhofen ein.\n\nKINDER:\nUnsere kleinen Gäste können sich auf dem Spielplatz nach Herzenslust austoben, und auf Entdeckungsreise durch den Garten gehen.\n+ Schaukeln, Rutsche, Wippe, Sandkasten, Slakline,  und Trampolin\nIm Indoorspielzimmer erwartet die Kinder ein Kasperltheater, viele tolle Spielsachen und ein Tischtennisraum.\nAuf Anfrage stellen wir Ihnen gerne Kinderbetten und einen Hochstuhl zur Verfügung.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Die Preise verstehen sich inklusive Heizung, Strom, Wasser,Wlan Parkplatz, Zwischenreinigungen, exklusive Endreinigung und Kurtaxe!"
+    },
+    {
+      "@language": "de",
+      "@value": "Check Out bis 10.00 Uhr.\nAnreise: Einfahrt Mayrhofen Mitte, bei der 1. Kreuzung rechts, immer gerade aus, nach der Brücke links, an der nächsten Weggabelung nach rechts, dann nach links und gerade aus, bis Sie direkt vor unserem Haus stehen."
+    },
+    {
+      "@language": "en",
+      "@value": "For those not wanting to miss out on home comforts on holiday, enjoy natural surroundings with natural bed linen, and can go without smoking in the living area.\nComfortable country house in a quiet location, surrounded by meadows. Large garden with summer house and pond, sun terrace with deck chairs, farmers lounge. A 2-3 minute walk to the lifts, sking to the front door, ski store room, toboganning, cross country ski and skating trail from house. Plenty of car parking."
+    },
+    {
+      "@language": "en",
+      "@value": "The price includes heating, electricity, water, car parking, mid week clean. \nExclusiv a final cleaning charge and local taxes."
+    },
+    {
+      "@language": "en",
+      "@value": "Check out: until 10.00hr.\nDirections: Access Mayrhofen at Einfahrt Mitte, right at the first junction, straight on up the high street and turn left immediately after the bridge, right where the road forks, and straight on until you reach our house."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f098b53-384a-40a6-933c-34f5d3fb0f73/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus zur Kröllin - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus zur Kröllin - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus zur Kröllin - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bda491c5-1a36-4b88-a456-71ad0f0f32d1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus zur Kröllin - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus zur Kröllin - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus zur Kröllin - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f3e965b-0b67-4cde-ad24-cda32a795c5f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus zur Kröllin - Seerosen"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus zur Kröllin - Seerosen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus zur Kröllin - Seerosen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/11fafc8d-6415-4348-90a0-ae96b808b4e0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus zur Kröllin - Kinderspielplatz"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus zur Kröllin - Kinderspielplatz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus zur Kröllin - Kinderspielplatz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/140b8121-6cc4-433d-8cc4-e2400aeb84cd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus zur Kröllin - Eingangsbereich"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus zur Kröllin - Eingangsbereich"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus zur Kröllin - Eingangsbereich"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3189f913-7d7c-4b3d-a67f-0a8d5ea952f3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus zur Kröllin - Rauchkuchl"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus zur Kröllin - Rauchkuchl"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus zur Kröllin - Rauchkuchl"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52b1e48d-5563-414f-955c-cd5337ab2ac4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus zur Kröllin - Kamin"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus zur Kröllin - Kamin"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus zur Kröllin - Kamin"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/95844ca2-c438-4b93-baa0-b47e020f229f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahorn White Lounge"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahorn White Lounge"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahorn White Lounge"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2dfd1b7d-13bd-44ea-b1e7-773b0aee072e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Funpark Mayrhofner Bergbahnen"
+        },
+        {
+          "@language": "en",
+          "@value": "Funpark Mayrhofner Bergbahnen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Funpark Mayrhofner Bergbahnen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1fcb2ff-ce99-4e42-a3c2-a31aac97b511/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+        },
+        {
+          "@language": "en",
+          "@value": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.158971671672",
+    "longitude": "11.8610141781789"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "42m², 1 großes Wohn-schlafzimmer mit Erker, Balkon und TV, Couch, 1 seperates Schlafzimmer ebenfalls mit Balkon und TV, Küche im Vorraum mit Kaffeemaschine, Mikrowelle und Geschirrspülmaschine, Bad/WC. \nBettwäsche, Handtücher und Geschirrtücher incl.\n\nAlle Appartements sind mit hellem, freundliche Vollholz eingerichtet, welches ein angenehmes Raumklima schafft. Mittels Wlan haben Sie in allen Appartements kostenlosen und unbegrenzten Internetzugang.\nAllergikerwäsche.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "42m², 1 lounge/bedroom, SAT-TV, couch, writing desk, 1 separate bedroom with bunk beds, balcony, entrance hall with cooking facilities, coffee machine, tea towels supplied, shower/WC."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment Hansl 2-4 Pers."
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.liv.-bedroom/1 bedroom/bath,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "42m², 1 großes Wohn-schlafzimmer mit Erker, Balkon und TV, Couch, 1 seperates Schlafzimmer ebenfalls mit Balkon und TV, Küche im Vorraum mit Kaffeemaschine, Mikrowelle und Geschirrspülmaschine, Bad/WC. \nBettwäsche, Handtücher und Geschirrtücher incl.\n\nAlle Appartements sind mit hellem, freundliche Vollholz eingerichtet, welches ein angenehmes Raumklima schafft. Mittels Wlan haben Sie in allen Appartements kostenlosen und unbegrenzten Internetzugang.\nAllergikerwäsche.\n"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "88.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "88.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "88.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower or bath, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, Душевая кабина или ванна, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "35m², 1 Schlafzimmer, 1 Wohnzimmer mit Essecke, TV, Couch, Balkon, Küche im Vorraum mit Kaffeemaschine und Mikrowelle, Bad oder Dusche/WC.\nBettwäsche, Handtücher und Geschirrtücher incl.\n\nAlle Appartements sind mit hellem, freundliche Vollholz eingerichtet, welches ein angenehmes Raumklima schafft. Mittels Wlan haben Sie in allen Appartements kostenlosen und unbegrenzten Internetzugang.\nAllergikerwäsche.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "35m², 1 double bedroom, some with four poster bed, lounge with dining area, SAT-TV, couch, south facing balcony, entrance hall with cooking facilities, coffee machine, tea towels supplied, bath or shower/WC."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment Friedl, Moidl, Hiasl 2 Pers."
+            },
+            {
+              "@language": "en",
+              "@value": "ap./1 bedroom/shower or bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, Душевая кабина или ванна, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "73.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "65m² - 88m², 2-3 Schlafzimmer jeweils mit TV, 2-3 Badezimmer (Dusche und Bad) 1 Aufenthaltsraum, Küche im Vorraum mit Kaffeemaschine, Mikrowelle und Geschirrspülmaschine, Balkon;\nBettwäsche, Handtücher und Geschirrtücher incl.\n\nAlle Appartements sind mit hellem, freundliche Vollholz eingerichtet, welches ein angenehmes Raumklima schafft. Mittels Wlan haben Sie in allen Appartements kostenlosen und unbegrenzten Internetzugang.\nAllergikerwäsche.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "73m², writing desk, couch, 2 bedrooms with TV, both bedrooms with bathroom (bath or shower) with WC, 1 lounge with sleeping arrangements, entrance hall with cooking facilities, coffee machine, microwave, dish washer, tea towels, balcony."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment Anderl 4-7 Personen"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower,bath tube,WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "125.00",
+          "maxPrice": "177.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "161.00",
+          "maxPrice": "229.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "161.00",
+          "maxPrice": "229.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "161.00",
+          "maxPrice": "229.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

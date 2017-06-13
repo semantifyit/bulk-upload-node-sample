@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub",
+    "SkiResort"
+  ],
+  "name": "Pub Pink Panther",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2052692370429",
+    "longitude": "11.8705129623413"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tipotsch, Gasthof",
+    "streetAddress": "Talstraße 66",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3614",
+    "faxNumber": "0043 5282 36144",
+    "email": "gasthof-tipotsch@aon.at",
+    "url": "http://gasthof-tipotsch.at/"
+  },
+  "description": "The Pink Panther Team is looking forward to welcoming you at their Bar/Pub. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1d8c0fbf-0608-451d-a2e9-81f1e681bc68/99/image.jpg",
+      "caption": "Pink Pather Pub"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96879fec-d5e6-4e74-9048-6ad8ad28e152/99/image.jpg",
+      "caption": "Logo"
+    }
+  ]
+}

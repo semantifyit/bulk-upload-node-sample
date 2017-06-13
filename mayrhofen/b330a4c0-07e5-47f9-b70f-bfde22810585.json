@@ -1,0 +1,93 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Schiestl\u0027s Sunnalm 1800m - Penken/Horberg"
+    },
+    {
+      "@language": "de",
+      "@value": "Schiestl\u0027s Sunnalm 1800m - Penken/Horberg"
+    },
+    {
+      "@language": "ru",
+      "@value": "Schiestl\u0027s Sunnalm 1800m - Penken/Horberg"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1885167224741",
+    "longitude": "11.8102490901947"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schiestl\u0027s Sunnalm",
+    "streetAddress": "Hochschwendberg 371",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 4182",
+    "email": "info@schiestls-sunnalm.at",
+    "url": "www.schiestls-sunnalm.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Urige Hütte mit herrliche mit herrlichem Ausblick auf die Zillertaler Bergwelt, ideales Familienausflugsziel mit dem PKW leicht erreichbar, über Hippach-Zillertaler Höhenstrasst  - Horbergtal (Mautfrei!)\nSchiestl\u0027s Sunnalm\n\nMitten in der wunderschönen Bergwelt der Zillertaler Alpen freut es uns dich auf der Sunnalm am Hochschwendberg begrüssen zu dürfen.\nUnsere urige Hütte liegt in sehr sonniger und ruhiger Lage und ist für jedermann im Sommer wie auch im Winter leicht erreichbar.\nWir wünschen dir, dass du dich bei uns richtig wohlfühlst und verwöhnen dich gerne mit Zillertaler Spezialitäten und einem echten Zillertaler Schnapsl.\nAuf deinen Besuch freut sich Familie Schiestl mit dem Sunnalm Team.\n\nAuf Anfrage organisieren wir gerne für dich:\ntraditionelle Hüttenabende \nGeburtstagsfeiern \nund vieles mehr \n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\nab 26. November 2016\n\nkeine Übernachtung möglich \n\nSommer\nmitte Juni - mitte Oktober 2017\nkein Ruhetag"
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nfrom 26. November 2016\n\nno overnight stay possible \n\nSummer \nmiddle June till middle of October 2017\nno rest day "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c0b11d40-4c4d-4517-a098-5702d027f9ec/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Sommer"
+        },
+        {
+          "@language": "de",
+          "@value": "Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/18a98908-fc45-4a72-9dc0-2bf5fe0a92b6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Winter"
+        },
+        {
+          "@language": "de",
+          "@value": "Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.schiestls-sunnalm.at",
+    "http://www.schiestls-sunnalm.at"
+  ]
+}

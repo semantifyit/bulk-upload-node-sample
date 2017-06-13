@@ -1,0 +1,86 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Orthopäde Dr. Schimanek Christian"
+    },
+    {
+      "@language": "de",
+      "@value": "Orthopäde Dr. Schimanek Christian"
+    },
+    {
+      "@language": "ru",
+      "@value": "Orthopäde Dr. Schimanek Christian"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2091577175298",
+    "longitude": "11.8732380867004"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 160",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4939",
+    "faxNumber": "0043 5282 4939-14",
+    "url": "http://www.aerztehaus-ramsau.at/index.php/schimanek"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Dr. Christian Schimanek\nOrthopädie Zillertal, Notarzt\nDr. Christian Schimanek ist Orthopäde, Notarzt, Manualtherapeut, Sprengelarzt, Arzt für Allgemeinmedizin und gerichtlich beeidigter Sachverständiger.\nIn der Ordination Ramsau werden Schmerzen an Wirbelsäule, Gelenken, Muskeln und Sehnen, sowie Verletzungen am Bewegungsapparat behandelt. Des Weiteren erfolgen Mutter-Kind-Pass Untersuchungen (Babyultraschall), Gelenks- und Weichteilultraschall, Beinlängen- und Wirbelsäulenmessung, Fußfehlformbehandlungen (Einlagen, etc.), Infiltrationen (Spritzen) an der Wirbelsäule und an den Gelenken als zielgerichtete Schmerzbehandlung, Mieder, Gips, Naturheilverfahren, Neuraltherapie, Orthopädische/unfallchirurgische Gutachten.\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Mo - Fr. 9.00-12.00 Uhr\nDi: 15.00-18.00 Uhr\nDo: 16.00-19.00 Uhr\nsowie nach Vereinbarung\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2d573609-12c3-4b40-954f-90c504264686/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Dr. Schimanek Christian"
+        },
+        {
+          "@language": "de",
+          "@value": "Dr. Schimanek Christian"
+        },
+        {
+          "@language": "ru",
+          "@value": "Dr. Schimanek Christian"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/75f677ac-2c5f-44ba-ab2c-f66c1dedb3c6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Behandlung"
+        },
+        {
+          "@language": "de",
+          "@value": "Behandlung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Behandlung"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.aerztehaus-ramsau.at/index.php/schimanek"
+  ]
+}

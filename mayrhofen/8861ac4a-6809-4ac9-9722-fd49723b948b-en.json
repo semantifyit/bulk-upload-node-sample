@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BodyOfWater"
+  ],
+  "name": "Gasthaus Alt Ginzling",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1005153934582",
+    "longitude": "11.8092531865082"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Alt Ginzling",
+    "streetAddress": "Nr. 240",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) (0)5286 5201",
+    "url": "http://www.ferienwohnungen-ginzling.at/de/"
+  },
+  "description": "Only 8 kilometers from Mayrhofen, surrounded by the monumental mountainside of the Zillertal Alps, in the heart of the quiet Zillertaler Hauptkamm area, you can discover a little oasis of peace – that is where you find our inn: Gasthaus Alt Ginzling.\n\nThe house with the comfortable guest rooms and holiday flats has been family-owned ever since 1790, when it was the first guesthouse to be opened in Ginzling.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/790ee6dd-d910-4ef9-a087-471c4be1a072/99/image.jpg",
+      "caption": "Fliegenfischen"
+    }
+  ],
+  "url": [
+    "http://www.ferienwohnungen-ginzling.at/de/fliegenfischen/"
+  ]
+}

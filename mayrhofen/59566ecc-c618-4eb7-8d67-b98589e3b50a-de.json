@@ -1,0 +1,133 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.moiklerhof.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d59566ECC-C618-4EB7-8D67-B98589E3B50A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Steiner, Barbara",
+    "streetAddress": "Bichl 498",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 5730",
+    "email": "landhausbarbara@aon.at",
+    "url": "http://www.moiklerhof.at"
+  },
+  "name": "Landhaus Barbara",
+  "description": [
+    "Die Ferienwohnung verfügt über zwei Zimmer mit Balkon, ein Zimmer mit Dusche/WC, Balkon,Sat-TV. Ein geräumiges Badezimmer mit Bad/Dusche/WC und Fußbodenheizung sowie eine komplett ausgestattete Wohnküche - Cerankochfeld, Backrohr, Kühlschrank mit Gefrierfach, Spülmaschine, Toaster, Sat-TV, usw. Brötchenservice, Tisch- und Bettwäsche inklusive. WIFI.  \nBei Buchung bis 4 Personen steht 1 Doppelzimmer mit DU, WC, Sat-TV nicht zur Verfügung!",
+    "Hunde Euro 3,00/Tag, Garage Euro 6,00; W-LAN vorhanden € 10,- pro Woche\nkostenlose Fahrräder, freier Eintritt in das Erlebnisfreibad in Hippach und Mayrhofen sowie zur Sportanlage incl. Tennisplätze in Hippach.\n",
+    "Spezialangebote laufend im Internet abrufbar",
+    "Familienfreundlich. Garage für Fahrräder. E-Bike. Partnerbetrieb. Parkplatz. Zwei Badezimmer. Balkon"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c4c447e-cf36-45bb-9337-fddfd91f0c27/99/image.jpg",
+      "caption": "Landhaus Barbara - Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4c96148f-94e9-43e1-addd-804a5ad06e41/99/image.jpg",
+      "caption": "Landhaus Barbara - Haus Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7829e54-ff97-486d-a5cb-71e556e24d45/99/image.jpg",
+      "caption": "barbara-gartenerneuerung sommer 2004 014"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/453fd8d8-9d01-4920-9807-38b8c3629dc9/99/image.jpg",
+      "caption": "Landhaus Barbara Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/27da8a53-ec37-41a4-85a4-ec2507176aa6/99/image.jpg",
+      "caption": "Landhaus Barbara - Ausblick "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/004a8a1e-b097-4c67-9e2b-d4ed0a7ed2d9/99/image.jpg",
+      "caption": "Balkon süd"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1953700004103",
+    "longitude": "11.8730556964874"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Die Ferienwohnung verfügt über zwei Doppelzimmer mit Balkon, ein Doppelzimmer mit Dusche, WC, Balkon und Sat-TV. Ein geräumiges Badezimmer mit Bad/Dusche/WC und Fußbodenheizung sowie eine komplett ausgestattete Wohnküche mit Sat-TV. Brötchenservice, Tisch- und Bettwäsche inklusive. Internetanschluss möglich. \nBei Buchung bis 4 Personen steht 1 Doppelzimmer mit DU, WC, Sat-TV nicht zur Verfügung!\n\nVerpflegung: Brötchenservice \n\nkostenlose Fahrräder, freier Eintritt in das Erlebnisschwimmbad in Hippach und Mayrhofen und zu den Tennisplätzen in Hippach;\n\nLaufend Spezialangebote im Internet abrufbar!\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Bad, WC",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "0.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

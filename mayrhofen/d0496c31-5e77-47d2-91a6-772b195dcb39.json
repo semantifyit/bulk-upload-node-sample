@@ -1,0 +1,420 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://members.aon.at/gruber.sabina",
+    "http://maps.mayrhofen.at/?foreignResource\u003dD0496C31-5E77-47D2-91A6-772B195DCB39"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 254",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2752",
+    "email": "gruber.sabina@aon.at",
+    "url": "http://grubers-dahuam.jimdo.com"
+  },
+  "name": "Gruber Elise",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus \"GRUBERS dahuam\" liegt in ruhiger und sonniger Lage am Fuße des Ramsberges. Die Ferienwohnung wurde neu angebaut bzw. umgebaut. Sie liegt in der 1. Etage. Mit viel Liebe zum Detail wurde jeder Raum eingerichtet. Besonderheiten sind die Wohnraumlüftung und Lehmputz/herrliches Wohnklima. Ein Schlafzimmer wurde mit renovierten Zirbenmöbeln ausgestattet. Das Zweite - dezent in weiß und natur - gehalt.  Die Küche ist seperat. Vom Wohn/Esszimmer kommen Sie auf die südliche Terrasse."
+    },
+    {
+      "@language": "de",
+      "@value": "Ausstattung: 4Platten Ceran-Kochfeld, Kühlschrank mitr Gefrierfach, Geschirrspühler, Kaffeemaschine, Geschirrtücher, Bettwäsche, Handtücher, Toaster, Radio, SAT-TV, Micro\nKostenlose Leistung: W-Lan, Strom, Wasser"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in 12.00 Uhr - Check out 10.00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house \"Grubers dahuam\" is located in a quiet and sunny location at the foot of Ramsberges. The apartment was in replanted or converted. It is located on the 1st floor. With meticulous attention to detail, every room has been set up. Special features are the indoor ventilation and loam / wonderful living environment. One bedroom is equipped with renovated Zirbenmöbeln. The second - discreetly in white and natural - content. The kitchen is separately. From the living/dining room you come to the south terrace."
+    },
+    {
+      "@language": "en",
+      "@value": "Amenities: 4Platten ceramic hob, fridge freezer, dishwasher, coffee maker, dish towels, bed linen, towels"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in 12.00 - Check out 10.00 "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/366d7290-d912-46dd-8c7b-1a89e790950c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus vorne"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus vorne"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus vorne"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/184d181a-7858-456c-a54c-7b0a93ee68f7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Eingangsbereich"
+        },
+        {
+          "@language": "en",
+          "@value": "Eingangsbereich"
+        },
+        {
+          "@language": "ru",
+          "@value": "Eingangsbereich"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a32bbd7-b696-4fc6-be5d-1dd4627ca7c2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Südansicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Südansicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Südansicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/108972e9-ab8f-4188-b70a-6b4c0755ca0c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Aussicht Appartement"
+        },
+        {
+          "@language": "en",
+          "@value": "Aussicht Appartement"
+        },
+        {
+          "@language": "ru",
+          "@value": "Aussicht Appartement"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/440a0cbe-73d0-4c71-a793-179cbc55e81f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Design"
+        },
+        {
+          "@language": "en",
+          "@value": "Design"
+        },
+        {
+          "@language": "ru",
+          "@value": "Design"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1680e678-6fa7-4b88-b91c-e7c65cb797d2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Design "
+        },
+        {
+          "@language": "en",
+          "@value": "Design "
+        },
+        {
+          "@language": "ru",
+          "@value": "Design "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0523473f-f194-43f7-ac98-67bced868567/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Design"
+        },
+        {
+          "@language": "en",
+          "@value": "Design"
+        },
+        {
+          "@language": "ru",
+          "@value": "Design"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf9926f0-9a95-4714-a95c-ce7a10c6c974/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5356275d-02c8-4f97-a223-07dde6b058e3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter_Design"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter_Design"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter_Design"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/71d82de4-12b4-4ef5-ba9f-fae7925199cd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter_GartenDesign"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter_GartenDesign"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter_GartenDesign"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/659a75bc-6916-4e37-a06c-fba0ef6e2ab3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter_GartenDesign1"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter_GartenDesign1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter_GartenDesign1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e03a3374-b672-40be-b212-2df84da91687/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC2264"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC2264"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC2264"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/58e44b9d-b23b-4103-89ac-9151fbd25507/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Design"
+        },
+        {
+          "@language": "en",
+          "@value": "Design"
+        },
+        {
+          "@language": "ru",
+          "@value": "Design"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ccb62f7-a9fd-47c1-ae59-97f4c035b77d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC2272"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC2272"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC2272"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1401eea-3186-441d-936e-4703206328f9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC2273"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC2273"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC2273"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2058887891068",
+    "longitude": "11.8737584352493"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Unser Haus \"GRUBERS dahuam\" liegt in ruhiger und sonniger Lage am Fuße des Ramsberges. Die Ferienwohnung wurde neu angebaut bzw. umgebaut. Sie liegt in der 1. Etage. Mit viel Liebe zum Detail wurde jeder Raum eingerichtet. Besonderheiten sind die Wohnraumlüftung und Lehmputz/herrliches Wohnklima. Ein Schlafzimmer wurde mit renovierten Zirbenmöbeln ausgestattet. Das Zweite - dezent in weiß und natur - gehalt.  Die Küche ist seperat. Vom Wohn/Esszimmer kommen Sie auf die südliche Terrasse."
+        },
+        {
+          "@language": "en",
+          "@value": "Our house \"Grubers dahuam\" is located in a quiet and sunny location at the foot of Ramsberges. The apartment was in replanted or converted. It is located on the 1st floor. With meticulous attention to detail, every room has been set up. Special features are the indoor ventilation and loam/wonderful living environment. One bedroom is equipped with renovated Zirbenmöbeln. The second - discreetly in white and natural - content. The kitchen is separately. From the living room you come to the terrace"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet, 2 спальни"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "83.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

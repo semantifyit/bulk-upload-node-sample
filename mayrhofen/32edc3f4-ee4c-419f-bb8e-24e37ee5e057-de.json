@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "DanceEvent"
+  ],
+  "name": "Snowbombing",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Snowbombing",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "GB",
+      "telephone": "+44 (0) 333 240 5815",
+      "email": "customerservice@snowbombing.com",
+      "url": "http://www.snowbombing.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Snowbombing",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "GB",
+      "telephone": "+44 (0) 333 240 5815",
+      "email": "customerservice@snowbombing.com",
+      "url": "http://www.snowbombing.com"
+    }
+  },
+  "description": "Die Wintersaison in Mayrhofen endet so spektakulär wie sie begonnen hat. Vom 03. bis 08. April 2017 steht Snowbombing auf dem Programm!\n\nDie Mayrhofner Kultveranstaltung gehört zu den größten Musik- und Snowfestivals in ganz Europa. Auf die Snowbombing-Fans warten bekannte Live Acts, DJs und ein einzigartiges Unterhaltungsprogramm. \n\nMehr Informationen folgen!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a0d2aa37-706a-455a-a3e3-a35c00b647d7/99/image.jpg",
+      "caption": "Snowbombing"
+    }
+  ],
+  "url": [
+    "http://www.snowbombing.com"
+  ],
+  "startDate": "2017-04-03T00:00:00",
+  "endDate": "2017-04-08"
+}

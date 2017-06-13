@@ -1,0 +1,61 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Coiffeurteam Waltraud"
+    },
+    {
+      "@language": "de",
+      "@value": "Coiffeurteam Waltraud"
+    },
+    {
+      "@language": "ru",
+      "@value": "Coiffeurteam Waltraud"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2038515289207",
+    "longitude": "11.8704378604889"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Coiffeurteam Waltraud",
+    "streetAddress": "Talstraße 76",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4414",
+    "email": "haarsalon.waltraud@aon.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Der Friseursalon Waltraud liegt direkt an der Hauptstraße. \n\nAuf Ihren Besuch freut sich das Team von Friseursalon Waltraud!!!\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4219e20d-b73c-48eb-ab9a-9e5e1056edbe/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Coiffeurteam Waltraud"
+        },
+        {
+          "@language": "de",
+          "@value": "Coiffeurteam Waltraud"
+        },
+        {
+          "@language": "ru",
+          "@value": "Coiffeurteam Waltraud"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment",
+    "Landform"
+  ],
+  "name": "Jausenstation Grünalm 1800m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1687231",
+    "longitude": "11.8663143"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Grünalm",
+    "streetAddress": "Laimach 119",
+    "addressLocality": "Hippach ",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3258",
+    "email": "hundsbichlergp@aon.at",
+    "url": "http://www.brunnerhof-zillertal.at/gruenalm/index.html"
+  },
+  "description": [
+    "Unsere Alm liegt auf 1800m Seehöhe direkt an der Zillertaler Höhenstraße www.zillertaler-hoehenstrasse.com und ist nur im Sommer erreichbar.\n\nIn unserer \"Jausenstation Grünalm\" versorgt Gerti den ganzen Sommer die Gäste von nah und fern. \nAuch Übernachtung mit Frühstück möglich!",
+    "Sommer \ngeöffnet\nÜbernachtung möglich"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c642f8ac-e21a-426e-b0a7-dc33f9b6ba5a/99/image.jpg",
+      "caption": "Grünalm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0391b70c-3354-40a2-8662-d88a9de67d4a/99/image.jpg",
+      "caption": "Grünalm 1"
+    }
+  ],
+  "url": [
+    "http://www.brunnerhof-zillertal.at/gruenalm/index.html"
+  ]
+}

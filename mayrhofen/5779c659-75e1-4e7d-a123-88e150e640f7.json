@@ -1,0 +1,84 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BeautySalon",
+    "HealthAndBeautyBusiness"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Kinesiologie Praxis Brigitte Eder"
+    },
+    {
+      "@language": "de",
+      "@value": "Kinesiologie Praxis Brigitte Eder"
+    },
+    {
+      "@language": "ru",
+      "@value": "Kinesiologie Praxis Brigitte Eder"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1034938400908",
+    "longitude": "11.8079370392868"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dornauberg 39/1",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 136 32 01",
+    "email": "info@brigitte-eder.at",
+    "url": "http://urlaub-fuer-koerper-geist-und-seele.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Urlaub für Körper Geist und Seele\n\nEs ist nie zu spät um \"STOPP\" zu sagen, und damit sein Leben zu verändern!\n\nDu möchtest deine eigene Kraft entwickeln und dein LEBEN in die Hand nehmen.\nIch begleite dich gerne ein STÜCK deines Weges, gemeinsam schauen wir, zu den auslösenden, vergessenen und verdrängten Ursachen für deine jetzige Lebenssituation.\n\nMit folgenden Werkzeugen kann ich dich unterstützen:\nNeues Familienstellen\nSystemische Kinesiologie\nSystemische Beratung in Ausbildung\nLebens- u. Sozialberatung in Ausbildung und unter Supervision"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f945b76-da2e-4587-915e-b87e05e592ef/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "1"
+        },
+        {
+          "@language": "de",
+          "@value": "1"
+        },
+        {
+          "@language": "ru",
+          "@value": "1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1c3c64b-07ed-41cf-be4b-5f2e9ac1ae8a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "2"
+        },
+        {
+          "@language": "de",
+          "@value": "2"
+        },
+        {
+          "@language": "ru",
+          "@value": "2"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://",
+    "http://urlaub-fuer-koerper-geist-und-seele.at/"
+  ]
+}

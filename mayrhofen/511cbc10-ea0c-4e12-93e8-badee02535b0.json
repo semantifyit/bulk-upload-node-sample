@@ -1,0 +1,137 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.sepplhütte.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d511CBC10-EA0C-4E12-93E8-BADEE02535B0"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendberg 640",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "00436644590706",
+    "email": "sepplhuette@gmx.net",
+    "url": "http://www.sepplhütte.at"
+  },
+  "name": "Sepplhütte",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Auf 1100 Meter Seehöhe liegt die urige \"Sepplhütte\".\nBergromantik - wie zu Urgroßvaters Zeit - vereint mit modernstem Komfort von heute\nbieten Ihnen einer Urlaub der besonderen Art. \n \nDie Terrasse mit Südlage und die umliegenden Wiesen und Wälder \nsowie das eindrucksvolle Bergpanorama garantieren höchsten Feriengenuss für groß und klein. \n"
+    },
+    {
+      "@language": "en",
+      "@value": "At 1100-metre sea height is situated the \"Sepplhütte\". \nThe terrace with south situation and the surrounding meadows and woods  as well as the impressive mountain panorama guarantees the highest holiday\u0027s pleasure for young and old.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3b1b92f5-a02a-420a-a129-c68bcdcb71b5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sepplhütte Schwendberg - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Sepplhütte Schwendberg - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sepplhütte Schwendberg - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/932ec709-d5b9-4272-856d-96b0cbe977b6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sepplhütte Schwendberg - Winter2"
+        },
+        {
+          "@language": "en",
+          "@value": "Sepplhütte Schwendberg - Winter2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sepplhütte Schwendberg - Winter2"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2096132378276",
+    "longitude": "11.8506968021393"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus, Dusche, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Holiday home, shower, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Дом отдыха, душ, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Voll ausgestattete Küche mit modernem Herd und Backofen,\nMikrowellenherd, Kühlschrank, Mixer, \nKaffemaschine, Brotmaschine, Geschirr usw. \nFlachbild-TV mit Satellitenprogramm, CD-Radio und DVD-Player. \nDie Hütte wird mit Holzofen und dazu noch mit Elektro Speckstein-Heizkörper mit neuester Technologie beheizt.\nGehacktes Holz ist genügend vorhanden\n   \nGroße Sitzecke mit ausreichen Platz für alle.\nDie Sanitärräume sind neu: mit Dusche, Waschtisch und WC extra.\nDas Warmwasser wird in einem 300 Liter Boiler mit Strom aufgeheizt. \n  \nEs sind 2 Schlafräume mit je einem Dreifachbett (Lager) \nund in einem Zimmer ist noch eine Nische mit Einzelbett \nund eine Schlafmöglichkeit ist noch auf dem TV-Sofa. \n"
+        },
+        {
+          "@language": "en",
+          "@value": "Fully equipped kitchen with modern cooker and oven,\nMicrowave oven, fridge, barman,\nKaffemaschine, bread slicer, dishes etc.\nFlat screen TV with satellite programme, CD radio and DVD player.\nThe hut is heated with wooden stove and in addition still with Elektro bacon stone heater with the newest technology.\nHacked wood enough exists\n\nBig living-room furniture with are sufficient for place for everybody.\nThe sanitary rooms are new: with shower, washstand and WC specially.\nThe hot water is heated in a 300 litres of boiler with stream.\n\nThese are 2 cubicles with a triple bed (camp)\nand in a room is one more niche with single bed\nand a sleeping possibility is still on the TV sofa."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienhaus/3 Schlafräume/ Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "holiday house/3 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Дом отдыха, душ, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

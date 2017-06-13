@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Friesenberghaus 2498m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0676701213139",
+    "longitude": "11.7020970582962"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Friesenberghaus",
+    "streetAddress": "Ginzling",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 749 7550",
+    "email": "friesenberghaus@gmx.at",
+    "url": "www.friesenberghaus.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e461709f-e1c2-4495-be3a-657f1c1329c0/99/image.jpg",
+      "caption": "Friesenberghaus 2498m"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f2934e7-dc16-4331-8d64-ba986dca1d37/99/image.jpg",
+      "caption": "Friesenberghaus"
+    }
+  ],
+  "url": [
+    "http://www.friesenberghaus.at"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Adlerbühne Ahorn",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1371984013812",
+    "longitude": "11.8693864345551"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ahornbahn",
+    "streetAddress": "Ahornstraße 853",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 62277",
+    "faxNumber": "+43 5285 62277-161",
+    "email": "info@mayrhofner-bergbahnen.com",
+    "url": "http://www.mayrhofner-bergbahnen.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/884235ab-3d46-43a0-8a06-e30e25e1c10c/99/image.png",
+      "caption": "Adlerbühne 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4238056a-c486-49dc-a4e2-dc26669bcdae/99/image.jpg",
+      "caption": "Adlerbühne 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c5a3784a-f96b-445d-a846-da9650a37275/99/image.jpg",
+      "caption": "Adlerbühne 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/48951afd-b0b7-422e-bc78-ff85d3fcceef/99/image.jpg",
+      "caption": "Adlerbühne 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d95cd052-604a-4939-a0a3-88a4fe2a5b73/99/image.jpg",
+      "caption": "Adlerbühne 5"
+    }
+  ],
+  "url": [
+    "http://sommer.mayrhofner-bergbahnen.com/de/100357/100550/adlerbuehne-greifvogelschau-ahorn-mayrhofen.html"
+  ]
+}

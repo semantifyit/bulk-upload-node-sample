@@ -1,0 +1,239 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d4591DE9C-71D9-4F0B-A6F6-ADEC84BCD927",
+    "http://www.hoefer-skireisen.de/de/skireisen/schwendau-zillertal/view/37467/article/88000003902/silvester_zillertal_mayrhofen_schoberhof.html"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schoberhof",
+    "streetAddress": "Mühlen 186",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63711",
+    "faxNumber": "0043 5285 63711",
+    "email": "schoberhof@gruppenhaus.at",
+    "url": "http://www.hoefer-skireisen.de/de/skireisen/schwendau-zillertal/view/37467/artic"
+  },
+  "name": "Schoberhof",
+  "description": [
+    "Urlaub am Bauernhof in ruhiger Lage in Schwendau.",
+    "Kinderermäßigung 0-5 Jahre -50%\nPreise inklusive Endreinigung",
+    "Check in 10.00 Uhr - Check out 12.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6839a571-fe61-46cc-965b-01f7cc07c0ba/99/image.jpg",
+      "caption": "Schoberhof Schwendau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2dd458dd-76f2-4b9c-8aa5-6f624df974ab/99/image.jpg",
+      "caption": "Schoberhof Schwendau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5f144237-9914-4af7-a937-3b39fd1bf1ce/99/image.jpg",
+      "caption": "Kuh auf der Alm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/584850d1-4a2b-44ab-aef2-e8097b9a6f0a/99/image.jpg",
+      "caption": "bike mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2a834974-0ab1-406f-8881-c09ab8b19e1d/99/image.jpg",
+      "caption": "naturpark_sommer_schwarzensteinmoor-foto_naturpark"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26d1df14-2cec-495a-b793-61fc5f3f53c1/99/image.jpg",
+      "caption": "schwarzsee_foto_hermann_muigg_01"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/579a7f0b-53a4-4646-8e4a-54aec5725024/99/image.jpg",
+      "caption": "skifahrer-in-action"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f6a8c2bc-ee28-4a98-a593-1e08ffd70931/99/image.jpg",
+      "caption": "Sommer_Gipfel_Panorama ("
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a50d2c3f-5ee9-41b4-9b96-bea188683dcc/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a8b45a67-f405-4ce8-a4e5-e0d64ef565ad/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1acae32-774b-456f-bd84-44df7480ed74/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7cb48163-3b13-4046-ae07-d9a917c35cd6/99/image.jpg",
+      "caption": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.194692002785",
+    "longitude": "11.8549400568008"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Auch für „Ferienwohnung-Suchende“ ist der Schoberhof geeignet, für Gruppengrößen von 3-15 Personen:\n- 1. OG: 4-5er-App. Nr. 2 (2er-Zi. Nr. 2+3er-Zi. Nr. 3 und Wohnküche mit Küchenzeile und Sat-TV)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Bad, WC - Winter",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "88.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "104.00",
+          "maxPrice": "104.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "130.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 3 Schlafräume",
+      "description": "Auch für „Ferienwohnung-Suchende“ ist der Schoberhof geeignet, für Gruppengrößen von 3-15 Personen:\n- 2. OG: 5-8er-App. Nr. 3 (2er-Zi. Nr. 4+2x 3er Nr. 5+6 und Wohnküche mit Küchenzeile und Sat-TV)\nDie große Wohnküche von FeWo Nr. 2 bietet ca. 12 Personen Platz, die von FeWo Nr. 3 ca 6-8 Personen.\nAlle Wohnküchen mit Sitzecke, 4-Plattenherd mit Backofen und Sat-TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Bad, WC - Winter",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Auch für „Ferienwohnung-Suchende“ ist der Schoberhof geeignet, für Gruppengrößen von 3-15 Personen:\n- 1. OG: 2-3er-App. Nr. 1 (2-3er-Zi. Nr. 1 und kleine Wohnküche mit Küchenzeile und Sat-TV)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC - So",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Der Schoberhof ist sehr traditionell:\n- mit 6 Zimmern (2x 2, 4x 2-3 Pers.) und 6 Bädern\n- mit der Möglickeit zur alternativen Nutzung als Ferienwohnung (siehe unten)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit DU/WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, fl. k/w Wasser",
+      "description": "Zimmer mit Doppelbett und Waschbecken Badezimmer Dusche/WC auf dem Flur",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Etagendusche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

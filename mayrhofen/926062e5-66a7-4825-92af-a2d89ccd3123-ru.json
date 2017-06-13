@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Tristenbachalm 1200m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0952680977252",
+    "longitude": "11.8305373191833"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tristenbachalm",
+    "streetAddress": "Ginzling 290",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 9346678",
+    "email": "daniel@tristenbachalm.at",
+    "url": "www.tristenbachalm.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/21abf231-ddc8-491a-872f-c7bd37d6886a/99/image.jpg",
+      "caption": "Tristenbachalm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/06113054-33a4-4aa8-9c8b-27f9c0bb1cf0/99/image.jpg",
+      "caption": "Tristenbachalm 1200 m"
+    }
+  ],
+  "url": [
+    "http://www.tristenbachalm.at"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.mayrhofen.at/de/haus-christina",
+    "http://maps.mayrhofen.at/?foreignResource\u003d4B28B843-2ADE-4338-96C1-06DB923A5257"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Christina, Haus",
+    "streetAddress": "Laimach 72",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4126",
+    "email": "haus.christina@hotmail.com"
+  },
+  "name": "Haus Christina",
+  "description": [
+    "Unser Haus liegt außerhalb von Hippach im Ortsteil Laimach. In wenigen Minuten erreichen Sie Einkaufshäuser, Restaurants, Disco, Pubs, uvm.! Die Dörferbus- sowie Skibushaltestelle ist in nur wenigen Metern erreichbar.\nInternet im Haus Christina möglich.",
+    "Handtücher, Bettwäsche, Toilettenpapier...uvm. ist ohne Aufpreis vorhanden. \nInternet kann gegen Gebühr zur Verfügung gestellt werden.\nGegen Gebühr bieten wir Brotservice vom Bäcker unseres Vertrauens. (Brotliste auf Anfrage vorab erhältlich)",
+    "Check In ab 14:00 Uhr\nCheck Out bis 10:00 Uhr\n\nVor Ankunft bitte telefonisch kontaktieren. (+43664/5059830) Somit können wir garantieren, dass jemand bei Ihrem Eintreffen vor Ort ist. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c2646e6-e933-4f74-aefb-479bfa68c86f/99/image.jpg",
+      "caption": "Haus Christina Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/42da538d-9e81-409f-bd95-bd795ab41a4d/99/image.jpg",
+      "caption": "Haus Christina Hippach - Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0729969c-d23e-479c-9d07-4133e9d0a7d2/99/image.jpg",
+      "caption": "Haus Christina Hippach - Sommerbild 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.210711",
+    "longitude": "11.866527"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 4 oder mehr Schlafräume",
+      "description": "Unsere Ferienwohnung liegt in Laimach, das Ortszentrum ist in 5 Minuten Fußweg erreichbar. Zur Talstation Horbergbahn sind es 2 km. Der Skibus und Dörferbus hält direkt vor unserem Haus. Die Wohnung verfügt über 3 Doppelzimmer und 1 Einzelzimmer mit Etagenbett. Weiters haben wir einen Balkon und eine Terrasse von 25m² bei der Wohnung dabei. 2 Duschen und 2 WC. Die Wohnküche ist 17m² gross. Auch der Flachbildschirm ist in der Küche. Selbstverständlich sind eine Geschirrspülmaschine, Mikrowelle, Wasserkocher, Toaster, Kaffeemaschine und ein Backrohr vorhanden. Handtücher, Bettwäsche, Geschirrtücher sowie Toilettenpapier sind inklusive. \nBrötchenservcice möglich.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 5-8 Personen",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "5"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "20.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "20.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "20.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "20.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

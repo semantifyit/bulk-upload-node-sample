@@ -1,0 +1,72 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dBC4F7428-ACFC-4111-A009-1F6BAD65B2FE",
+    "http://www.haus-oblasser.jimdo.com"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Oblasser, Haus",
+    "streetAddress": "Schrofen 37a",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64048",
+    "email": "oblasser-m@aon.at",
+    "url": "http://www.haus-oblasser.jimdo.com"
+  },
+  "name": "Haus Oblasser",
+  "description": [
+    "Unser Haus liegt im idyllischen Ort Brandberg, ca. 6 km von Mayrhofen entfernt!",
+    "Die Preise verstehen sich inklusive Strom und Ortstaxe, exklusive Endreinigung 65€. Die Endreinigung beträgt 30€.",
+    "Entlang der B196 Richtung Mayrhofen, kurz vor Mayrhofen links abbiegen Richtung Brandberg. Bis ins Dorf Brandberg und beim Gasthof Thanner vorbei nur noch wenige Meter weiter!Rechts nach einer alten Getreidemühle."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f43c2b8d-4c4b-45ac-a423-0d8ad0cc6a8d/99/image.jpg",
+      "caption": "Haus Oblasser Brandberg - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c89486b-34a6-440c-9356-05e7cb6893ee/99/image.jpg",
+      "caption": "Haus Oblasser Brandberg - Sommer2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1688122656135",
+    "longitude": "11.9041585922241"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "1 Ferienwohnung für 2 bis max. 4 Personen, 65m² groß, separater Eingang, 2 Schlafzimmer, rustikale Möblierung, Kamin, Dusche/WC, Wohnküche, Brötchenservice. Schibus vorhanden. Haustiere erlaubt!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

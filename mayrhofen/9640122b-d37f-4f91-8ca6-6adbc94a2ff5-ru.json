@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Alpenrose 1389m - Ahorn",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1467016831164",
+    "longitude": "11.8845811486244"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenrose Ahorn",
+    "streetAddress": "Fellenberg 1",
+    "addressLocality": "Mayrhofen ",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0664/ 5077207",
+    "email": "platzi65@gmx.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/54b7ad7d-d0db-4dee-b867-389fc7c01caf/99/image.jpg",
+      "caption": "Hütte"
+    }
+  ],
+  "url": [
+    "http://www.alpenrose-fellenberg.at"
+  ]
+}

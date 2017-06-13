@@ -1,0 +1,382 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.brandberg.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dDBEA7C40-E4FE-4FB4-9400-3F4788EF3740"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sonnenheim, Ferienwohnungen",
+    "streetAddress": "Brandberg 125",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63169",
+    "faxNumber": "0043 5285 63169",
+    "email": "ferienwohnung.feichter@aon.at",
+    "url": "http://www.brandberg.at"
+  },
+  "name": "Ferienwohnungen Sonnenheim",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ruhig sonnig gelegen von herrlicher Berglandschaft umgeben. Unser Haus liegt direkt im Erholungsdorf Brandberg am Sonnenplatz des Zillertales (1092m) Höhe, 5 km von Mayrhofen entfernt. Gemütliche Wohnküche mit allem Komfort, vier Doppelzimmer je mit Balkon mit herrlichem Ausblick, Dusche, WC, seperater Eingang, Autoabstellplatz, Skibushaltestelle in unmittelbarer Nähe, Brötchenservice."
+    },
+    {
+      "@language": "de",
+      "@value": "Zwischenreinigung auf Wunsch! "
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: ab 14.00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Our apartment is situated quiet and sunny in Brandberg (1092 meter sea height- 5 kilometer from Mayrhofen ), Comfortable kitchen-living room with all comfort, four double rooms with balcony where you have a marvellous view, shower, toilet, seperater entrance, autoparking bay, ski bus stop in close vicinity, bread service\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Intercleaning if requested! \n"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 2 p.m."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bbd11526-1263-4683-bc79-42f54de22559/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sonnenheim Brandberg - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Sonnenheim Brandberg - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sonnenheim Brandberg - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aecbdf62-4ff6-4af6-9a14-91f876024d9e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sonnenheim Brandberg - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Sonnenheim Brandberg - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sonnenheim Brandberg - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/24aa84a1-4925-4837-b9e4-ddc40bf128e0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sonnenheim - Aussicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Sonnenheim - Aussicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sonnenheim - Aussicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fef0b853-7ab8-43d1-87d1-5d1782b656a2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sonnenheim - Aussicht vom Balkon / Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Sonnenheim - Aussicht vom Balkon / Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sonnenheim - Aussicht vom Balkon / Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/351c491a-04b1-424f-977f-ea5bcf7f19f5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sonnenheim - Aussicht vom Balkon / Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Sonnenheim - Aussicht vom Balkon / Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sonnenheim - Aussicht vom Balkon / Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9d189a6e-32b0-4391-ba0e-28b65bdb7027/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sonnenheim - Wohnküche"
+        },
+        {
+          "@language": "en",
+          "@value": "Sonnenheim - Wohnküche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sonnenheim - Wohnküche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3af320d9-f459-4698-887c-20fbfe2a1b27/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sonnenheim - Schlafzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Sonnenheim - Schlafzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sonnenheim - Schlafzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b04c0e82-934c-4f9d-801e-d515231b88a5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sonnenheim - Badezimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Sonnenheim - Badezimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sonnenheim - Badezimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/88adb1f0-64ff-4813-8c98-8c2f8a537671/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Zillertal"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Zillertal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Zillertal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a39e454b-5c3e-49e9-858a-9b80d3b63b91/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Radfahren im ZIllertal"
+        },
+        {
+          "@language": "en",
+          "@value": "Radfahren im ZIllertal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Radfahren im ZIllertal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb45e329-818d-481d-9652-9bf32cb25d9a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kuh"
+        },
+        {
+          "@language": "en",
+          "@value": "Kuh"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kuh"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1670069951118",
+    "longitude": "11.8960154056549"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 4 oder mehr Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 4 or more bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, 4 или больше спалень"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütliche Wohnküche mit allem Komfort, vier Doppelzimmer/Zustellbett möglich, je mit Balkon mit herrlichem Ausblick, 2x Dusche und WC, 1x WC extra, seperater Eingang, Autoabstellplatz, Skibushaltestelle in unmittelbarer Nähe, Brötchenservice."
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortable kitchen-living room with all comfort, four double rooms / extra beds possibly, with balcony with marvellous view, 2x shower and WC, 1x WC specially, seperater entrance, autoparking bay, ski bus stop in close vicinity, bread roll service."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/4 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 4 or more bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet, 4 или большее количество спале"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "22.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "22.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "22.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "22.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "22.00",
+          "maxPrice": "127.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "22.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "22.00",
+          "maxPrice": "161.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "22.00",
+          "maxPrice": "178.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

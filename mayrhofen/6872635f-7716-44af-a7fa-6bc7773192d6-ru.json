@@ -1,0 +1,309 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-laendenhof.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d6872635F-7716-44AF-A7FA-6BC7773192D6"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ländenhof, Hotel",
+    "streetAddress": "Jakob-Moser-Straße 599",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63451",
+    "faxNumber": "0043 5285 6345122",
+    "email": "info@hotel-laendenhof.at",
+    "url": "http://www.hotel-laendenhof.at"
+  },
+  "name": "Hotel Ländenhof",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "207"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/241f9ebd-7ee6-40a2-b9f1-40eacf77c7a1/99/image.jpg",
+      "caption": "Hotel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c03f31b6-94ee-4f5b-a9e7-a591c061ab36/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Winter 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bb7ef936-1ad0-446d-8143-6166d69729a3/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c8b72952-0f88-4a41-9dd2-164db180a1da/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Winter 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/109b28dd-f158-4a71-ba1e-075bf14bafbd/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Winter 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa3424fb-baab-4602-8894-9bccf9ecd183/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Winter 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b42ae4fa-b97b-4dfa-94da-5856468f7a01/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Winter 6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26a59451-5267-4498-8a17-3e3fe48a47aa/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Winter 7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2dc4bffe-3570-4267-af75-84cab99bd4b7/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Aussenansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7e05830c-4e8a-42f2-823d-2ebc532adb78/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/07826593-c6cd-4ef5-9d2b-71b235893382/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Restaurant 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/597d8d2f-56ba-441e-aa30-47bda8da19c9/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Tisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f284122-8c6e-41f2-98a1-e746a3d9f01f/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Gästezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3e85e892-bc95-45a8-ac9c-113c5f3ece2d/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Gästezimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf97cbd8-dfe1-4d62-912c-9ccb1eb9a032/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Skizze"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c0347789-7b28-4498-bbb6-49fec07b84e1/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Wellness 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/47bbeafa-7cea-4fdd-83e9-4403931db308/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Wellness 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14ea1ac2-1e3c-44c4-b69e-9bd4e8f92491/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Wellness 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7cc48f3d-6161-4442-915d-bd57505ba043/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Wellness 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28627726-944e-45bb-80c8-5cde0c2709bb/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Wellness 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8d32c2db-2fa9-4216-a0f2-3b925ec108fa/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Terrasse 1/1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/840ebd4f-90ac-41f7-b028-adf6595edb75/99/image.jpg",
+      "caption": "Ländenhof Mayrhofen - Terrasse 1/2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/de6a4adc-df14-4c6a-9cc7-62acf4737caf/99/image.jpg",
+      "caption": "Prospektfoto 037"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f28501d6-b96c-4f23-bcb2-0aa68fe791e3/99/image.jpg",
+      "caption": "Hotel-Laendenhof-Mayrhofen-Jakob-Moser-Strasse-599"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a6b259cb-d058-433e-91f7-6c3bab64ebf0/99/image.jpg",
+      "caption": "Hotel-Laendenhof-Mayrhofen-Jakob-Moser-Strasse-599"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1592089805265",
+    "longitude": "11.8646174669266"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "3-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "116.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "174.00",
+          "maxPrice": "291.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "комната на двоих, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "116.00",
+          "maxPrice": "194.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "3-местный номер, ванна, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3-местный номер, ванна, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "116.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "174.00",
+          "maxPrice": "291.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

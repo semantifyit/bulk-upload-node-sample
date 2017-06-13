@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Festival"
+  ],
+  "name": "Cattle Drive at Hub\u0027n Bauer",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Georg",
+      "familyName": "Heim"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Laimach 117",
+      "addressLocality": "Hippach",
+      "postalCode": "6283",
+      "addressCountry": "AT",
+      "telephone": "+43 5282 20752",
+      "faxNumber": "+43 5282 2413",
+      "email": "GuesthouseHeim@gmx.at",
+      "url": "http://www.ferien-hof.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Laimach 117",
+      "addressLocality": "Hippach",
+      "postalCode": "6283",
+      "addressCountry": "AT",
+      "telephone": "+43 5282 20752",
+      "faxNumber": "+43 5282 2413",
+      "email": "GuesthouseHeim@gmx.at",
+      "url": "http://www.ferien-hof.at"
+    }
+  },
+  "description": "The traditional \"Almabtrieb\" cattle drive at Hub\u0027n Bauer in Laimach will be taking place on the 7th October 2017. \nBegin ca 11.00 a.m. with Live Music.\n\nFree admission!\n\nsubject to change  ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77da93b7-d245-44b8-911f-c5a0c28dfd66/99/image.jpg",
+      "caption": "Bild"
+    }
+  ],
+  "startDate": "2017-10-07T11:00:00",
+  "endDate": "2017-10-07"
+}

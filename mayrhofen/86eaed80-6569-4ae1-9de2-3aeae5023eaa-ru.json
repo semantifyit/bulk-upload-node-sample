@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": "End of season festival at the Grawandhütte",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Grawandhütte ",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Martin",
+      "familyName": "Frontull"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Im Zemmgrund 279",
+      "addressLocality": "Ginzling",
+      "postalCode": "6295",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5286 5213",
+      "email": "info@grawandhuette.at",
+      "url": "http://www.grawandhuette.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Grawandhütte ",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Im Zemmgrund 279",
+      "addressLocality": "Ginzling",
+      "postalCode": "6295",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5286 5213",
+      "email": "info@grawandhuette.at",
+      "url": "http://www.grawandhuette.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/760b681f-0471-4300-90d3-0f8841be1be5/99/image.jpg",
+      "caption": "Schwendberger Geigenmusig"
+    }
+  ],
+  "url": [
+    "http://www.grawandhuette.at/events/veranstaltungen/season-end-festival/"
+  ],
+  "startDate": "2017-09-24T11:00:00",
+  "endDate": "2017-09-24"
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon"
+  ],
+  "name": "Hair Line",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1663833419522",
+    "longitude": "11.8657171726227"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hair Line",
+    "streetAddress": "Sportplatzstraße 339",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63895"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e9d2c048-bf40-45ea-83c7-071e26d3504a/99/image.jpg",
+      "caption": "Hairline"
+    }
+  ],
+  "url": [
+    "http://www.hohenauer.com"
+  ]
+}

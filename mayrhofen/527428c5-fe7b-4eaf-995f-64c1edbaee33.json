@@ -1,0 +1,786 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel",
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.haus-breuss.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d527428C5-FE7B-4EAF-995F-64C1EDBAEE33"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hippach-Dorf 50",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2454",
+    "faxNumber": "0043 5282 2454",
+    "email": "haus.breuss@aon.at",
+    "url": "http://www.haus-breuss.at"
+  },
+  "name": "Breuss Peter und Elisabeth",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser familiär geführtes Haus hat vor kurzem vom Verband der Tiroler Privatvermieter die höchste Auszeichnung von 4 Edelweiß erhalten. Es liegt am Ortsrand von Hippach, jedoch nur 5 Gehminuten vom Zentrum entfernt, wo sich verschiedene gute Restaurants ein Kaffeehaus, Poststelle, Bank, Bahnhof und das Freizeit und Erlebnisbad befinden. \nW-LAN möglich\nHaustiere sind NICHT ERLAUBT!"
+    },
+    {
+      "@language": "de",
+      "@value": "Unser familiär geführtes Haus, als empfohlenes Privatquartier ausgezeichnet, mit herrlichem Ausblick auf die umliegenden Berge, liegt am Ortsrand, jedoch nur 5 Gehminuten vom Zentrum entfernt, wo sich verschiedene gute Restaurants, ein  Geschäft und die Bank  befinden. Die Skibushaltestelle und die Langlaufloipe befinden sich ganz in das Nähe. Haustiere sind NICHT ERLAUBT!\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in 14.00 Uhr - Check out 09.00 Uhr oder nach Absprache"
+    },
+    {
+      "@language": "de",
+      "@value": "B 169 Zillertal Bundesstraße bis Ramsau (ca. 24 km), an der Ampel rechts, über den Bahnübergang und Brücke, erste Straße rechts abbiegen, fünftes Haus an der linken Straßenseite."
+    },
+    {
+      "@language": "en",
+      "@value": "Our familiarily lead house is situated in the sourroundings of Hippach, 5 minutes from the center away. We have a ski-shoe-dryer and car-park. Furthermore you receive a sufficient breakfast. The ski-bus-stop as well as the cross-country-trail are in the near.\nPets are not allowed!"
+    },
+    {
+      "@language": "en",
+      "@value": "Child reduction in the own room on request.\nCheck in 14.00 - Check out 9.00 "
+    },
+    {
+      "@language": "en",
+      "@value": "B 169 Zillertal road to Ramsau (approx. 24 miles), turn right at the traffic lights, cross the railroad crossing and bridge, turn first right, fourth house on the left side of the road.\n"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "18"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e8147643-5a18-4b96-ac7b-6b7074d370e6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hausansicht Breuss in Hippach im Zillertal"
+        },
+        {
+          "@language": "en",
+          "@value": "Hausansicht Breuss in Hippach im Zillertal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hausansicht Breuss in Hippach im Zillertal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13f566e2-c2a5-4065-8a84-eaa73b04e4a2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Breuss Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Breuss Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Breuss Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/674bf8ec-2650-4920-b467-fae1f182ff15/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hausansicht-Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Hausansicht-Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hausansicht-Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6cc24cf0-656a-4982-ac0f-1748d498238b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Breuss Hippach - Eingang"
+        },
+        {
+          "@language": "en",
+          "@value": "Breuss Hippach - Eingang"
+        },
+        {
+          "@language": "ru",
+          "@value": "Breuss Hippach - Eingang"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c68903d-f9ec-4c19-b0c9-0c2e8ebbff8b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Breuss Hippach - Skischuhtrockner"
+        },
+        {
+          "@language": "en",
+          "@value": "Breuss Hippach - Skischuhtrockner"
+        },
+        {
+          "@language": "ru",
+          "@value": "Breuss Hippach - Skischuhtrockner"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b3042be8-aa8b-411c-be1c-c74545a75bcc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Breuss Hippach - Frühstücksbuffet"
+        },
+        {
+          "@language": "en",
+          "@value": "Breuss Hippach - Frühstücksbuffet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Breuss Hippach - Frühstücksbuffet"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e9971ab7-a353-472d-ba7d-c9d6c3cac97a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Breuss Hippach - Frühstückstisch"
+        },
+        {
+          "@language": "en",
+          "@value": "Breuss Hippach - Frühstückstisch"
+        },
+        {
+          "@language": "ru",
+          "@value": "Breuss Hippach - Frühstückstisch"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/114118d9-e455-4761-8c6c-91487591c8c7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Breuss Hippach - Eingangsbereich"
+        },
+        {
+          "@language": "en",
+          "@value": "Breuss Hippach - Eingangsbereich"
+        },
+        {
+          "@language": "ru",
+          "@value": "Breuss Hippach - Eingangsbereich"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2103ad70-2d03-4f06-b236-675d26996f8f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1bcc0288-c15a-453f-9c6b-f275c5168b34/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7cea2c96-f919-4812-9eff-c9a69ab7ce25/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Berge"
+        },
+        {
+          "@language": "en",
+          "@value": "Berge"
+        },
+        {
+          "@language": "ru",
+          "@value": "Berge"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59a39658-ed21-4dce-834a-21091a9cc5dc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gipfelkreuz"
+        },
+        {
+          "@language": "en",
+          "@value": "Gipfelkreuz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gipfelkreuz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4c2f2a04-3d8d-425e-9353-6c687558fc46/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Berge Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Berge Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Berge Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b6c7980-d9be-492b-b35a-acfa5ccaa543/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Klettern"
+        },
+        {
+          "@language": "en",
+          "@value": "Klettern"
+        },
+        {
+          "@language": "ru",
+          "@value": "Klettern"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/54507db4-9b74-491b-9f4b-2ac97d339f93/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apartment 1 "
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment 1 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Apartment 1 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1b80e92-6721-40aa-97f7-019d834e8552/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apartment 13"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment 13"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apartment 13"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f29fb93b-d7f3-4a6a-9fab-1ae5f07024c7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Appartment 1 Küche u Essecke"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartment 1 Küche u Essecke"
+        },
+        {
+          "@language": "ru",
+          "@value": "Appartment 1 Küche u Essecke"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/30937abf-e2ad-4c40-9a07-ee80ca2e90ea/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ausblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Ausblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ausblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2d30305c-af34-40f0-9346-2d74644b706e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Küchenzeile"
+        },
+        {
+          "@language": "en",
+          "@value": "Küchenzeile"
+        },
+        {
+          "@language": "ru",
+          "@value": "Küchenzeile"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/10db96c5-b518-47a5-b41a-4cbce08b07f9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Zimmer 1 "
+        },
+        {
+          "@language": "en",
+          "@value": "Zimmer 1 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer 1 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8652fced-bb63-40dc-9802-13f4f19fc55a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apartment 11"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment 11"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apartment 11"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b721b033-66df-41b1-8cfe-6076e922e06b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Zimmer 2 "
+        },
+        {
+          "@language": "en",
+          "@value": "Zimmer 2 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer 2 "
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2088661824862",
+    "longitude": "11.8661624193192"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, Nichtraucher"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, no smoker"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, некурящий"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnschlafzimmer mit Kochnische (Kühlschrank, E-Herd, Mikrowelle, Geschirr, Senseo-Pads-Kaffeemaschine, Toaster Eierkocher und Wasserkocher)\nDU/WC, Balkon, SAT-TV, Zimmersave, Radio, W-LAN möglich\ndas Apartment wurde im Herbst 2013 ganz neu renoviert\nBrötchenservice möglich!\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Residential bedroom with kitchenette (fridge, E cooker, microwave, dishes, Senseo Pads coffeemaker, toaster egg boiler and water cooker)\nYOU / WC, balcony, SAT TV, room ave, radio, W-LAN possibly\nthe flatlet was renovated in autumn, 2013 quite anew\nBread roll service possibly!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment 1"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "42.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "wir haben im Herbst 2013 eine moderne, gemütliche Ferienwohnung mit 2-6 Betten  errichtet\nes gibt dort 2 Doppelzimmer (eines mit Zusatzbett), jedes davon mit DU/WC, SAT-TV Weckradio und Zimmersave \naußerdem eine gemütliche volleingerichtete Wohnküche mit Balkon (Kühlschrank, Backofen mit Mikrowelle, Herd, Spülmaschine, Senseo Pads-Kaffeemaschine, Wasserkocher, Toaster, Eierkocher u. Geschirr)\nin der Wohnküche gibt es eine Schlafgelegenheit für 1-2 Personen \nBrötchenservice und W-LAN  möglich"
+        },
+        {
+          "@language": "en",
+          "@value": "we have established in autumn, 2013 a modern, comfortable holiday apartment with 2-6 beds\nthere are there 2 double rooms (one with additional bed), each of it with YOU / WC, SAT TV wake-up radio and room ave \nmoreover, a comfortable full-furnished kitchen-living room with balcony (fridge, oven with microwave, cooker, washer, Senseo Pads coffeemaker, water cooker, toaster, egg boiler and dishes)\nin the kitchen-living room there is a place to sleep for 1-2 people"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment 2"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "66.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "78.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "92.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "106.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "158.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC, Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet, balcony"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет, балкон"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "schönes, gemütliches, neu renoviertes Zimmer mit DU/WC, SAT-TV, Radiowecker, Safe und Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "nice, comfortable, room renovated anew with YOU / WC, SAT TV, clock radio, safe and balcony"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Dreibettzimmer mit Balkon"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC, Nichtraucher"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet, no smoker"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет, некурящий"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "schönes, gemütliches, neu renoviertes Zimmer mit DU/WC, SAT-TV, Radiowecker und Safe (auf Anfrage Küchenbenützung mit Balkon)"
+        },
+        {
+          "@language": "en",
+          "@value": "nice, comfortable, room renovated anew with YOU / WC, SAT TV, clock radio and safe (on inquiry culinary use with balcony)"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer ohne Balkon"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "35.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

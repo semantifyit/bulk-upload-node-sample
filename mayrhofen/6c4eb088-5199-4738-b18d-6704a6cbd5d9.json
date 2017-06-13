@@ -1,0 +1,65 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Parfümerie/Drogerie Rieser Malzer"
+    },
+    {
+      "@language": "de",
+      "@value": "Parfümerie/Drogerie Rieser Malzer"
+    },
+    {
+      "@language": "ru",
+      "@value": "Parfümerie/Drogerie Rieser Malzer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1668501707374",
+    "longitude": "11.8626487255096"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schönheitsinstitut Rieser Malzer",
+    "streetAddress": "Hauptstraße 436",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 600 123",
+    "email": "office@rmt.at",
+    "url": "http://www.rmt.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ihre Oase in Sachen Beauty, Wellness und Wohlbefinden \n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b08c457c-1ac8-43aa-931b-aa7f9e17c2df/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Rieser Malzer"
+        },
+        {
+          "@language": "de",
+          "@value": "Rieser Malzer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Rieser Malzer"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.rmt.at"
+  ]
+}

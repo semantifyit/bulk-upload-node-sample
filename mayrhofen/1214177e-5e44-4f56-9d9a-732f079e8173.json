@@ -1,0 +1,320 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apart-miriam.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d1214177E-5E44-4F56-9D9A-732F079E8173"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lindenstraße 57c",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 680 444 95 34 ",
+    "email": "apart-miriam@a1.net",
+    "url": "http://www.apart-miriam.at"
+  },
+  "name": "Apart Miriam",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich Willkommen in unserem Apart Miriam\n\nAnkommen und Wohlfühlen...\nIn unserem Einfamilienhaus vermieten wir ab Winter 2013 ein modernes, komfortables und liebevoll eingerichtetes Appartement für 2 bis 5 Personen. Die traditionell moderne Einrichtung und die Top-Ausstattung lässt keine Wünsche offen.\nUnser Einfamilienhaus liegt in unmittelbarer Nähe der Sommerwelt Hippach mit ihren zahlreichen Freizeitangeboten für die ganze Familie. Die Horbergbahn, die Sie im Winter ins Skigebiet der Mayrhofner Bergbahnen bringt, ist ca. 1 km entfernt. Außerdem gelangen Sie mittels weniger Schritte zur Skibus- bzw. im Sommer zur Dörferbus-Haltestelle. Auch ein kleiner Lebensmittel-Laden befindet sich gleich nebenan.\nSie werden sich wie zu Hause fühlen und einen unvergesslichen Urlaub bei uns erleben. \n\nWir freuen uns auf Sie!\nIhre Gastgeber-Familie\nMagdalena und Franz Eberharter\nmit Miriam und Raphael\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "A comfortable and affectionately furnished flat for 2 to 5 people.\nOur single-family house lies in close vicinity to the swimming pool in Hippach with her numerous leisure offers for the whole family. The Horbergbahn which bring you in winter to the skiing area of the Mayrhofner mountain railways are 1 km away. At few walking minutes you reach the ski coach or in summer the village bus stop. Also a small food store is immediately next door.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2fc0df31-7ae6-4c4d-b736-6275d1187661/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Miriam Schwendau - Wohnküche"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Miriam Schwendau - Wohnküche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Miriam Schwendau - Wohnküche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4470537e-1abb-4030-8c7f-d4c6677d1f60/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Miriam Schwendau - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Miriam Schwendau - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Miriam Schwendau - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5fcc4712-9997-4c27-add7-d5eb6eaf6678/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Miriam Schwendau - Zimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Miriam Schwendau - Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Miriam Schwendau - Zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a8ace578-54dd-4933-9f32-28841154a8eb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahornbahn © Frank Bauer"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahornbahn © Frank Bauer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahornbahn © Frank Bauer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96bf36df-4a61-49d8-b381-2c3937626bc0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "en",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "ru",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/449c2e0c-0d1f-4e6e-820a-f77cc5f565e2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Spaß im Schnee © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Spaß im Schnee © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Spaß im Schnee © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/334cd4c9-bd4a-46d6-a10e-e1c9800ee990/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Vans Penken Park © Dominic Berchtold"
+        },
+        {
+          "@language": "en",
+          "@value": "Vans Penken Park © Dominic Berchtold"
+        },
+        {
+          "@language": "ru",
+          "@value": "Vans Penken Park © Dominic Berchtold"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af7905e9-471f-4e13-be25-d6ecef0fb4e6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17275a8b-f592-48e1-a087-c2190de2493e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a54f6bff-1f27-482d-a74e-a3bf1df8ae99/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0cc8c4a9-7d88-4dd2-b88c-9c92c36689f1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterwandern © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ffc3e0a-7e59-49c3-accc-a937afd5ceca/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skifahren © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Skifahren © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skifahren © Laurin Moser"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1998376311067",
+    "longitude": "11.8669034055572"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Das bietet Ihnen unser Apart Miriam ...\n55 m² \nallergikerfreundlich (Wohnkork- und Fliesenböden) \n2 getrennte Schlafzimmer \nein Schlafzimmer mit Doppelbett und ausziehbarem Schlafsofa mit Sat-TV\nein Schlafzimmer mit Doppelbett \nsehr gut ausgestattete, moderne Wohnküche mit \ngemütlicher Sitzecke \nFlat-TV (Sat-TV) \nGeschirrspüler, Kühlschrank mit Gefrierfach \nKaffeemaschine (Filter), Wasserkocher, Toaster \n4 Cerankochfelder, Backofen und Dunstabzug \ndiv. Küchenutensilien und Geschirr \nBad mit Dusche, WC, Waschbecken und Handtuchtrockner \nVorraum mit Garderobe und Skischuhtrockner \nseparaten Eingang\nBettwäsche, Handtücher und Geschirrtücher \nbei Bedarf Baby-Reisebett mit Matratze und Bettwäsche \nBalkon auf der Südseite \nParkgelegenheit direkt vor dem Haus \nW-LAN Internet - gegen Gebühr! \nNichtraucherwohnung \nHaustiere sind nicht erlaubt\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Miriam offers you :\n55 m² \ntwo seperate bedrooms\na bedroom with a double-bed and a sleep couch with TV\na bedroom with a double-bed\nwell equiped, modern kitchen with a comfortable sitting corner\nTV\ndish washer, fridge \n4 cooking space\ncoffee machine, kettle, toaster\na bathroom with a shower, a toilet and a towel dryer\nanteroom with a wardrobe\nseperate entry\nbedlinen, towels  \nseparaten Eingang\nif necessary baby bed\nbalcony on the sud side\ncar park direct in front of the house.\nW-LAN \nnon-smoker flat\npets are not allowed\n\n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement/Fewo"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент"
+            }
+          ],
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Skiservice Center Hubert Kröll",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1760326",
+    "longitude": "11.8281585"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Skiservice Center Hubert Kröll",
+    "streetAddress": "Penkenberg 657",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62662",
+    "faxNumber": "0043 5282 50955",
+    "email": "info@skiverleih-zillertal.at",
+    "url": "http://www.skiverleih-zillertal.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ba99bb89-8dcb-4dcd-97d9-0494a9efc573/99/image.jpg",
+      "caption": "1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3e51cb59-0c7a-41aa-9612-90bfd92983ed/99/image.jpg",
+      "caption": "2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7784ca80-3f02-4eb3-917c-1962a93b86bc/99/image.jpg",
+      "caption": "3"
+    }
+  ],
+  "url": [
+    "http://www.skiverleih-zillertal.at"
+  ]
+}

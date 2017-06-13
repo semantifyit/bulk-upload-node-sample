@@ -1,0 +1,229 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.mountainspirit.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dB04066EE-9766-4567-90D6-FA1D962337EA"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mountainspirit",
+    "streetAddress": "Oberbichl 717",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 104 5477",
+    "email": "info@mountainspirit.at",
+    "url": "http://www.mountainspirit.at"
+  },
+  "name": "Mountainspirit",
+  "description": "One chalet - two Appartments \n\nIn the entrance to the town Mayrhofen and 2.5 km to the local core, only 600 metres away from the Horbergbahn - skiing area Penken - ski Zillertal 3000 \nSki coach 100 metres away\nShopping possibilities 500 metres of railway station 5 walking minutes \nFree WLAN!\n",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "153"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4d0ce753-7196-4a10-8eed-800e12c548b1/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/27000b7f-654d-42de-b3ae-7a589fab3b1e/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e5a2ceff-c5bd-44c2-9fca-596a403bb762/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3083731c-86e2-4e4b-bbca-e713f6d55f99/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50b7193e-e982-49bb-a2a6-e953373a9121/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/979b8a17-59dc-4d38-a2e7-5e42b7ae1ec4/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Rezeption1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/515e3ffc-804c-4563-b2d9-7ad00acba132/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Terrasse2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c9c2fc48-77c9-4520-9ba2-51438923bda2/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e39b1316-9314-4158-ad95-605577280163/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Ausblick Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3f777c2a-43dc-47a1-a001-f85c88c494f9/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Ausblick Terrasse2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bb549be1-d7d0-4863-bba8-0e0208b8b093/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Terrasse0"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16b4731e-3d2d-4726-8b32-af0be1db9fa7/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Terrasse1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/749a797e-fc8e-457d-8d3d-8148976e0fe4/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Terrasse 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f167a080-94a5-4545-835d-b20196b7c327/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Hausgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b522e19e-36bb-4019-8fc8-4f42a122e0ea/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Hausgang2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/417f86f7-3225-49a7-9e0d-181a838829fe/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Deko Uhr"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a318bca-8a23-4edc-859c-116694e006af/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Deko Bilder"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f4cfae8-1772-4ed2-a1ea-2777859a88d1/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Deko Besteck"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/886af37d-6c6c-4e9e-9daf-daebab8a41c3/99/image.jpg",
+      "caption": "Mountainspirit - Ihr Vermieter - Herr Luxner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64cd07d2-303c-4183-881a-380a0545e426/99/image.jpg",
+      "caption": "Mountainspirit"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ca4a5d3-b2e6-4f48-bce4-776df5fd4481/99/image.jpg",
+      "caption": "Mountainspirit Mayrhofen - Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/391ef72a-b858-4250-a6e7-f8eadf0606d0/99/image.jpg",
+      "caption": "Sonnenuntergang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/41732ea2-5d11-4125-83db-86476e843188/99/image.jpg",
+      "caption": "Skifahren"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dcf8debc-c72d-4bea-b8e8-fd24e8b18a7a/99/image.jpg",
+      "caption": "Winterwandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e940e68c-9a1c-4ab3-8545-5aabdc27d06c/99/image.jpg",
+      "caption": "Sommer "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.194733",
+    "longitude": "11.8788535"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "Apartment:\n- 58 m ² living space\n- Space climate biowood\n- 2-4 people\n- Residential dining room\n- 2 bedrooms\n- 2 bathrooms with DU / WC en suite\n- Most fashionably equipped kitchen (microwelle, washer, water cooker, coffeemaker, toaster)\n- SAT Flat TV, radio, safe\n- Dreamlike solar terrace (with garden piece of furniture)\n- 1 bed on inquiry possibly\n- Free parking bay directly with your lodging\n- Free WLAN\n- Ski: shoe space\n- Non smoking appartment\nBesides, the whole Appartment is equipped with under-floor heating.\nWith terrace and garden access as well as marvellous look. \n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "The Appartment in the modern alpine style:\n- 23 m ² living space\n- 1 person (2 people possibly)\n- Kitchen-living room\n- Bed or French bed\n- DU / WC \n- Most fashionably equipped kitchen (microwave, washer, water cooker, coffeemaker, toaster)\n- SAT-Flat-TV, radio, safe\n- Small terrace\n- Free parking bay directly with your lodging\n- Free WLAN\n- Ski: shoe space\n- Non smoking apartment\n- Separate entrance\n- The whole Appartment lies in the ground floor and, besides, is equipped with under-floor heating \n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

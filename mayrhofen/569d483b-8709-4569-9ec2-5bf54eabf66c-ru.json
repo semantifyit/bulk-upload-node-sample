@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Erlebnisbad Mayrhofen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1642392",
+    "longitude": "11.8648114"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Erlebnisbad Mayrhofen",
+    "streetAddress": "Waldbadstraße 539",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 62559",
+    "email": "info@erlebnisbad-mayrhofen.at",
+    "url": "http://www.erlebnisbad-mayrhofen.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/215553bb-5c83-49bd-b803-85e1c97c23e8/99/image.gif",
+      "caption": "Erlebnisbad"
+    }
+  ],
+  "url": [
+    "http://www.erlebnisbad-mayrhofen.at"
+  ]
+}

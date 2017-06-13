@@ -1,0 +1,66 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Fotografie \"Augenfreuden\""
+    },
+    {
+      "@language": "de",
+      "@value": "Fotografie \"Augenfreuden\""
+    },
+    {
+      "@language": "ru",
+      "@value": "Fotografie \"Augenfreuden\""
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1775715150748",
+    "longitude": "11.8702554702759"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fotografie \"Augenfreuden\"",
+    "streetAddress": "Bichl 484",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0049 177 8110177",
+    "email": "info@tanjaisrael.de",
+    "url": "http://www.tanjaisrael.de"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Meine Passion\nFotografieren ist ein sinnliches Vergnügen, \neiner Reise gleich. \n\nEs geht um Zeit, Geschichten, Emotionen, um innere und äußere Welten.\nNur kurz geht der Vorhang auf - ganz friedlich in aller Stille. \nBruchteile von Sekunden, sie streifen Dich wie ein Windhauch,\ndann sind sie vorrüber.\n\nEine Momentaufnahme, die eine ganze Welt in sich birgt.\nDiese Welt möchte ich mit Ihnen teilen.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f1672506-04f5-47ff-8393-61f94f46c78a/99/image.bmp",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Fotografie \"Augenfreuden\""
+        },
+        {
+          "@language": "de",
+          "@value": "Fotografie \"Augenfreuden\""
+        },
+        {
+          "@language": "ru",
+          "@value": "Fotografie \"Augenfreuden\""
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.tanjaisrael.de"
+  ]
+}

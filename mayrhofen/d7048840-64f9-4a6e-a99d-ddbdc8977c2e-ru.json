@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "https://www.mayrhofen.at/unterkuenfte/angebote/detail/unterkunft/gaestehaus-bergheim-brandberg/",
+    "http://maps.mayrhofen.at/?foreignResource\u003dD7048840-64F9-4A6E-A99D-DDBDC8977C2E"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergheim, Gästehaus",
+    "streetAddress": "Pignellen 136",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63087",
+    "faxNumber": "0043 5285 623974",
+    "email": "bergheim@knauer.at",
+    "url": "https://www.mayrhofen.at/unterkuenfte/angebote/detail/unterkunft/gaestehaus-berg"
+  },
+  "name": "Gästehaus Bergheim",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c35c3b30-f88f-4d51-a25a-370f594b79a3/99/image.jpg",
+      "caption": "Haus Bergheim Brandberg - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec7d76e9-8702-49d9-b0fe-0cd42b9205f6/99/image.jpg",
+      "caption": "Haus Bergheim Brandberg - Winter1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/446eaf7b-ba2b-4b2e-86a8-ffd443b76439/99/image.jpg",
+      "caption": "Einkehr © Blickfang Photographie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/35361342-be94-4baf-af94-dc4d4e84c274/99/image.jpg",
+      "caption": "Genießerberg Ahorn © Florian Schüppel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d4f50a82-8e4d-4ba9-bd0a-4a2c0e05666b/99/image.jpg",
+      "caption": "Klettersteig © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b50a5ca-e21f-4e3c-b6aa-c95bde36e6d0/99/image.jpg",
+      "caption": "Skifahren © Dominic Ebenbichler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c0cbff0-513a-49e8-b8bb-ee45f1de9501/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/39868a50-29c4-47d3-8fbf-b5dff481523e/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3e88d894-2a29-4a26-83c7-c3db7a204b10/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/65f72a5c-ead1-4e64-9153-bd197e165bb4/99/image.jpg",
+      "caption": "Entspannung pur © Laurin Moser"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1576769628829",
+    "longitude": "11.8731200695038"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ и ванна, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ и ванна, туалет, две спальни",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "88.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "65.00",
+          "maxPrice": "104.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "69.00",
+          "maxPrice": "114.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

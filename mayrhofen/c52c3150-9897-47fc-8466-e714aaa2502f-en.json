@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Service"
+  ],
+  "name": "Kfz Haas",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2047267",
+    "longitude": "11.8703978999999"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kfz Haas",
+    "streetAddress": "Talstraße 72",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/75a2748a-6a0f-4e75-9909-dbed11f402cc/99/image.jpg",
+      "caption": "Kfz Haas"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

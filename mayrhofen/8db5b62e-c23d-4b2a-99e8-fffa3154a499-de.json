@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsEvent"
+  ],
+  "name": "Zillertal Open",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Golden Eagles Zillertal",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Hollenzen 80",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 664 5162114",
+      "email": "info@golden-eagles.at",
+      "url": "http://www.golden-eagles.at/"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Golden Eagles Zillertal",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Hollenzen 80",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 664 5162114",
+      "email": "info@golden-eagles.at",
+      "url": "http://www.golden-eagles.at/"
+    }
+  },
+  "description": "Vom 19. bis 20. August 2017 macht die Österreichischen LIGA im Paragleiten wieder Stop in Mayrhofen im Zillertal. Beim 2-tägigen Paragleitbewerb werden rund 80 Piloten aus verschiedenen Nationen über den Zillertaler Gipfeln um den Sieg kämpfen.\nLandeplatz ist bei der Bruggerstube in Hollenzen wo der Veranstalter, die Golden Eagles Zillertal, eine Fliegerbar betreiben werden wo gefachsimpelt werden kann.\nVoraussichtlicher Start der Paragleiter jeweils 12.00 Uhr",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ebbf294c-7650-4c7c-a3eb-b57f47a0c8b8/99/image.jpg",
+      "caption": "Banner"
+    }
+  ],
+  "url": [
+    "http://www.golden-eagles.at"
+  ],
+  "startDate": "2017-08-19T12:00:00",
+  "endDate": "2017-08-20"
+}

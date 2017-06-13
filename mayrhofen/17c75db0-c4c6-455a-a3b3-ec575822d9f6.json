@@ -1,0 +1,66 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GroceryStore"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Josef Rieser GmbH \u0026 Co.KG"
+    },
+    {
+      "@language": "de",
+      "@value": "Josef Rieser GmbH \u0026 Co.KG"
+    },
+    {
+      "@language": "ru",
+      "@value": "Josef Rieser GmbH \u0026 Co.KG"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1616615",
+    "longitude": "11.8617733999999"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Großhandel Rieser",
+    "streetAddress": "Zillerlände 490",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62422",
+    "faxNumber": "(0043) 5285 63381",
+    "email": "info@rieser.co.at",
+    "url": "http://www.rieser.co.at/"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Großhandelsunternehmen in Mayrhofen im Zillertal führt unzählige Artikel aus den Bereichen Lebensmittel, Nonfood und Futtermittel. Euer verlässlicher Partner seit mehr als 100 Jahren in deiner unmittelbaren Nähe!\nIm Abholmarkt in der Zillerlände in Mayrhofen findest du auf einer Verkaufsfläche von ca. 1.000 m² über 4.000 Artikel wie frisches Obst und Gemüse, Tiefkühlware, Fisch \u0026 Fleisch, ein umfangreiches Trockensortiment, Putz- \u0026 Reinigungsmittel, Wein, Sekt, Spirituosen, alkoholfreie Getränke, Servietten, Kerzen, Geschirr, Besteck, Gläser, diverse Küchenartikel und vieles mehr.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7bf3998-910b-424b-8eb2-49d81805fda0/99/image.png",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Josef Rieser "
+        },
+        {
+          "@language": "de",
+          "@value": "Josef Rieser "
+        },
+        {
+          "@language": "ru",
+          "@value": "Josef Rieser "
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.rieser.co.at/"
+  ]
+}

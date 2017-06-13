@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Penkenalm 1800m - Penken/Horberg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1749816334857",
+    "longitude": "11.8148893117905"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Penkenalm",
+    "streetAddress": "Penken",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62882",
+    "email": "mary1989@gmx.at"
+  },
+  "description": "Summer \n10. June 2017 till 08. October 2017 \nno rest day \nno overnight stay possible",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13695fb0-df2c-4656-be29-b11289018ff1/99/image.jpg",
+      "caption": "Penkenalm Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1a952c6f-f951-4d56-a285-b6cc769f3fab/99/image.jpg",
+      "caption": "Penkenalm 1800m"
+    }
+  ]
+}

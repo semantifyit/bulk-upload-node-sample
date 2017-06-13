@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Getränkemarkt Fristo",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1976369486552",
+    "longitude": "11.8718883730164"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Getränkemarkt Fristo",
+    "streetAddress": "Bichl 458",
+    "addressLocality": "Ramsau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 20487",
+    "url": "http://www.fristo.de"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac005dc9-c459-4c27-80ea-5692b4088972/99/image.jpg",
+      "caption": "Getränkemarkt Fristo"
+    }
+  ],
+  "url": [
+    "http://www.fristo.de"
+  ]
+}

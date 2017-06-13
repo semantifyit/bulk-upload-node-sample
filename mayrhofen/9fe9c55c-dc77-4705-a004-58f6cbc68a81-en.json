@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Hotel Bergkristall",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2063115381265",
+    "longitude": "11.817684173584"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergkristall, Hotel",
+    "streetAddress": "Hochschwendberg 526",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3761",
+    "faxNumber": "0043 5282 376145",
+    "email": "info@bergkristall-hippach.at",
+    "url": "http://www.bergkristall-hippach.at"
+  },
+  "description": "Hotel Bergkristall in Hippach in Zillertal on the doorstep to Ski Zillertal 3000\n \nDuring your stay in our family run 3* Hotel in Hippach in Zillertal, you will be exceptionally well looked after by your hosts, Andrea and Sigi. Head chef, Andrea, will delight your taste buds every day with her national and international culinary creations. \nNestled in the beautiful mountains of the Zillertal Alps, our hotel is close to Mayrhofen and directly next to the Zillertal Höhenstrasse and is the perfect starting point for countless activities and excursions in both summer and winter.\nOur Hotel Bergkristall Highlights:\nOur Bergkristall luxury board with a generous breakfast buffet and 4 course choice of evening meals \nOur Bergkristall Spa facilities with Kristall Room, Zillertal herbal sauna and Physiotherm infrared cabins \nOnly 16 family or double rooms - at Bergkristall you will enjoy wonderful holidays with a friendly ambience \nOur unique Bergkristall Alpine Hut with barbeque evenings in summer and après-ski in winter \nFree ski bus direct to the top station of the Zillertal 3000 ski resort lifts (10 min. journey) \nFree Wi-Fi throughout the entire hotel.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8fd27a01-e9a0-47eb-aa3c-7f4fe8068cea/99/image.jpg",
+      "caption": "Bergkristall"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a7eb1d78-218f-497c-ab08-766e06b86142/99/image.jpg",
+      "caption": "Bergkristall - Hotel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/80a4e291-c9bd-40ca-9437-7d6e427fca0d/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/414ab7c6-fb91-4cc0-818d-79fa98d14fff/99/image.jpg",
+      "caption": "Rezeption"
+    }
+  ],
+  "url": [
+    "http://www.bergkristall-hippach.at"
+  ]
+}

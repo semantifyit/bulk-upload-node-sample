@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": "Festival der Stimmen",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Zillertal Sound",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Rita \u0026 Andreas"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Archengasse 23",
+      "addressLocality": "Schwaz",
+      "postalCode": "6130",
+      "addressCountry": "AT",
+      "telephone": "+43 676  431 80 23",
+      "email": "info@rita-und-andreas.at",
+      "url": "http://www.rita-und-andreas.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Hotel Berghof",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Durster Straße 220",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "0043 5285 62254",
+      "faxNumber": "0043 5285 62254 90",
+      "email": "info@berghof.cc",
+      "url": "http://www.berghof.cc"
+    }
+  },
+  "description": "Programm:\n\nFreitag, 29. September 2017\nBegrüßungsabend im Musikstadl Hotel Rose mit den Brugger Buam aus Bayern\nBeginn: 19.00 Uhr\n\nSamstag, 30. September 2017\nHauptabend in der Berghofhalle hinter dem Europahaus mit Rita \u0026 Andreas, Vincent \u0026 Fernando und den Zellberg Buam\nEinlass: 18.00 Uhr | Beginn: 19.00 Uhr\n\nSonntag, 01. Oktober 2017\nFrühschoppen in der Berghofhalle mit Rita \u0026 Andreas, den jungen orig. Oberkrainern und dem Auner Alpenspektakel\nEinlass: 10.00 Uhr | Beginn: 11.00 Uhr\n\nKombiticket für alle Tage:\nVorverkauf: € 45,- | Abendkassa: € 52,-\nEinzeltickets für die jeweiligen Tage nur auf Anfrage bzw. am Veranstaltungstag an der Kassa erhältlich.\nErmäßigungen für Busreiseunternehmen auf Anfrage unter +43 664 9290910\n\nTickets erhältlich unter:\nRita \u0026 Andreas +43 664 9290910 oder info@rita-und-andreas.at\nTourismusverband Mayrhofen +43 5285 6760 oder info@mayrhofen.at\nwww.oeticket.com\n\nWir freuen uns auf ein tolles Wochenende mit euch!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1a2c1917-eb21-46f1-afdb-9880837da372/99/image.jpg",
+      "caption": "Rita und Andreas"
+    }
+  ],
+  "startDate": "2017-09-29T19:00:00",
+  "endDate": "2017-10-01"
+}

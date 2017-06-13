@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsEvent"
+  ],
+  "name": "Monkey Challenge",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Stonemonkeys Chillertal",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Gerhard",
+      "familyName": "Hauser"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "  ",
+      "email": "gerhard.hauser@hotmail.com",
+      "url": "http://stonemonkeys.com/"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Stonemonkeys Chillertal",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "  ",
+      "email": "gerhard.hauser@hotmail.com",
+      "url": "http://stonemonkeys.com/"
+    }
+  },
+  "description": "DER Triathlon der besonderen Art findet am 1. Juni Wochenende (2./3. Juni 2017) in Ginzling statt. Dieser Triathlon - die MONKEY CHALLENGE - besteht aus den Sportarten Klettern, Berglaufen und Paragleiten.\n\nDie MONKEY CHALLENGE wird im Rahmen des alljährlich stattfindenden AUSTRIA CLIMBING FESTIVAL  veranstaltet. Dieses Festival wird von dem Sportkletterverein Stonemonkeys Chillertal in Zusammenarbeit mit der Bergrettung Ginzling organisiert. Los geht es am 02. Juni um ca. 14.00 Uhr. Es werden Preisgelder in der Höhe von 3600 Euro ausgeschüttet. Das Nenngeld beträgt pro Team 90 Euro.\n\nFür 2017 werden spannende Wettkämpfe, interessante Bewerbe, coole Side-Events sowie ausgelassene Partys erwartet. Freitags startet die Band KLAUBAUF (Hard Rock mit Dialekt !!! Dialekt mit Rock`n Roll !!! Bissige Gitarrenriffs, stampfender Bass und wuchtige Drums- so definiert Klaubauf ihr eigen kreiertes Musikgenre ” Ruch`n Roll “) gefolgt von der Band COTTON UNDERWEAR (die Band, die so speziell ist, wie ihr Name - musikalischer Feinripp aus natürlichen Rohstoffen, ohne künstliche Zusätze… Seamless Entertainment!)\nDen musikalischen Ausklang findet das FESTIVAL dann am Samstag mit den Bands CHERRY BOMB (Die Band rund um die 2 “Kirsch-Bomben” RED SONYA \u0026 IRENE begeistert mit verstärkter, ungehemmt kraftvoller AKUSTIK-LIVE-MUSIK) und der Kultband CIELA (Die Band begeistert seit fast 30 Jahren nicht nur Zillertaler. Ihre Musik ist weit über die Grenzen des Tales hinaus bekannt und hat ganz einfach Kultstatus erreicht).\n\nUnd das alles bei FREIEM EINTRITT und GRATIS SHUTTLESERVICE.\nAuf zahlreiche Zuschauer und Teilnehmer freuen sich die Stonemonkeys Chillertal und die Bergrettung Ginzling.\nAnmeldung zur MONKEY CHALLENGE unter  \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb7df092-bce5-4127-84d6-3507c2ca2c14/99/image.jpg",
+      "caption": "Monkey Challenge"
+    }
+  ],
+  "url": [
+    "http://stonemonkeys.com/"
+  ],
+  "startDate": "2017-06-02T14:00:00",
+  "endDate": "2017-06-03"
+}

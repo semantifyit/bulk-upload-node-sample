@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "DanceEvent"
+  ],
+  "name": "Firedepartment - Festival Ramsau",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Freiwillige Feuerwehr Ramsau",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ramsau 238",
+      "addressLocality": "Ramsau",
+      "postalCode": "6284",
+      "addressCountry": "AT"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Freiwillige Feuerwehr Ramsau",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ramsau 238",
+      "addressLocality": "Ramsau",
+      "postalCode": "6284",
+      "addressCountry": "AT"
+    }
+  },
+  "description": "More information coming soon!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16565da5-cd8a-44c7-871c-74bd8fba5553/99/image.jpg",
+      "caption": "FFW Ramsau"
+    }
+  ],
+  "url": [
+    "http://fframsau.at/"
+  ],
+  "startDate": "2017-08-19T18:00:00",
+  "endDate": "2017-08-19"
+}

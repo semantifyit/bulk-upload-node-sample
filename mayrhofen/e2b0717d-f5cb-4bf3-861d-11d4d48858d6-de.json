@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Gemischtwaren Eberl Julie",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1881740353464",
+    "longitude": "11.8730127811432"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemischtwaren Eberl Julie",
+    "streetAddress": "Eckartau 19",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62340",
+    "email": "julia.heim2@gmx.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1fc7d4c8-aabd-42f0-8f76-cf6dda5e1b1c/99/image.jpg",
+      "caption": "Gemischtwaren"
+    }
+  ]
+}

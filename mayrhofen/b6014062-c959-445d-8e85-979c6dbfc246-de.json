@@ -1,0 +1,71 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dB6014062-C959-445D-8E85-979C6DBFC246"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Rosenheim",
+    "streetAddress": "Oberbichl 723",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4565",
+    "email": "hausrosenheim@gmx.at"
+  },
+  "name": "Rosenheim",
+  "description": [
+    " \nWir bieten eine große, offene Ferienwohnung zur Selbstverpflegung (Brötchenservice möglich) mit großem Balkon, nette Vermieter, großer Garten - ideal für Familien. Unser Haus liegt ca. 3km vor Mayrhofen. Die Horbergbahn ins Skigebiet Horberg/Penken ist in ca. 1km Entfernung. Skibushaltestellen befinden sich direkt vor der Haustür. Die Skibusse bringen Sie sowohl nach Mayrhofen (Penkenbahn, Ahornbahn) als auch zur Horbergbahn nach Schwendau.\nUnsere Wohnung erstreckt sich über 3 Etagen und beinhaltet einen großen Aufenthaltsraum mit komplett ausgestatteter Küche mit Geschirrspüler, Sat-TV, gemütliche Sitzecke, Couch. Auf dieser Etage befindet sich auch ein kleines Badezimmer mit Dusche und WC sowie 1 Doppelzimmer mit kl. Balkon in Richtung Garten. Auf der 3. Etage befinden sich 2 Doppelzimmer, 1 Dreibettzimmer, 1 Einbettzimmer sowie ein separates WC. Ein weiteres großes Badezimmer mit Dusche und Badewanne steht Ihnen in der 1. Etage zur  Verfügung. Alle Mehrbettzimmer auf der 3. Etage sind durch einen durchgehenden Balkon miteinander verbunden . Gartenmöbel sowie Liegestühle stehen zu freien Verfügung. In jedem Zimmer befindet sich ein Waschbecken, Bettwäsche sowie Hand- und Badetücher sind im Angebot einmalig inklusive. Gitterbettchen und Kinderhochstühle können kostenlos zur Verfügung gestellt werden.\n\n \n",
+    "Wir bieten eine große Ferienwohnung für bis zu 11 Personen auf der Basis der Selbstverpflegung. Brötchenservice wird angeboten. WLan inklusive, Hand- und Badetücher inkl., Bettwäsche inkl.,",
+    "Am Anreisetag: check in ab 15:00 Uhr möglich,\nAm Abreisetag: check out bis 9:00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/de7cc8d0-bf8f-4a94-946c-77d5344f47d8/99/image.jpg",
+      "caption": "Rosenheim Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0dfea184-52d4-4bb4-8ed0-8678019dcc63/99/image.jpg",
+      "caption": "Rosenheim Ramsau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/efdacacc-0b49-4814-9f02-b24e8d41a701/99/image.jpg",
+      "caption": "Rosenheim Ramsau - Garten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1911341958411",
+    "longitude": "11.8718647956848"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 4 oder mehr Schlafräume",
+      "description": "Offene Ferienwohnung über 3 Etagen für bis zu 11 Pers., komplett ausgestattete Küche (Kühlschrank (mit Gefrierfach), Herd, Backofen, Toaster, Wasserkocher, Filterkaffeemaschine, (Mikrowelle auf Anfrage), gemütlicher Sitzecke, Couch, Sat-TV!  5 Schlafzimmer aufgeteilt in 3 Doppelzimmer, 1 Einzelzimmer (Zustellbett möglich), 1 Dreibettzimmer, 2 Badezimmer mit  Dusche/WC/Badewanne, 2 Seperate WC\u0027s, Balkon, Skikeller, Heizraum, Skibushaltestelle direkt vor der Haustür    ... \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 4 oder mehr Schlafrä",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

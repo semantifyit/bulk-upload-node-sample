@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SkiResort",
+    "BarOrPub"
+  ],
+  "name": "Ramba Zamba Bar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2034797842743",
+    "longitude": "11.8667578697205"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ramba Zamba Bar",
+    "streetAddress": "Augasse 9",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "+43 664 184 0885 ",
+    "email": "info@rambazambabar.at",
+    "url": "http://www.rambazambabar.at"
+  },
+  "description": "Herzlich Willkommen \t\n\n Die Ramba Zamba Bar - seit Jahren gleichermassen beliebt bei Gästen und Einheimischen ist der gemütliche Treffpunkt für Leute jeden Alters.  Ob zum morgentlichen \"Boxenstop\" bei einer Tasse Kaffee oder zur Party mit Livemusik bei einem gut gekühlten Bier - im Ramba Zamba findet sicher immer wer.  \t\t\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2efb5ab-7b60-49c0-8f74-8817ad27a9c0/99/image.jpg",
+      "caption": "Ramba Zamba Bar"
+    }
+  ],
+  "url": [
+    "http://www.rambazambabar.at"
+  ]
+}

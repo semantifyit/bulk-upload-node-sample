@@ -1,0 +1,365 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.alpendomizil.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d1689ACB3-2C23-462C-A19E-20F4EA38D12A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpendomizil Neuhaus",
+    "streetAddress": "Am Marktplatz 202",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 6703",
+    "faxNumber": "+43 5285 63808",
+    "email": "info@alpendomizil.at",
+    "url": "http://www.alpendomizil.at"
+  },
+  "name": "Alpendomizil Neuhaus",
+  "description": [
+    "Allow yourself to be enchanted by our house and the unique landscape of the Zillertaler mountain world. With us you will be immersed in an entirely new world, and experience how a holiday can prove to be a real elixir.",
+    "Included in price: Use of indoor pool, whirlpool, heated open air pool and Finnish sauna, accompanied walks, children\u0027s animation programme in July and August.\nCharges made for: Garage parking (4.50 per day), pets (7.50 per day), bowling (7.00 per lane and hour), massage (20.- to 50.-), solarium (7.-), wellness baths (35.- to 45.-), camomile sauna (10.- per day), trout fishing (22.- per day).\nChild reductions:0-4 years: 100%, 5-9 years: 50%, 10-14 years: 30%, from 15 years: 20%",
+    "Check in: from 14.00hr, check out: until 10.00hr;\nAt the roundabout in Mayrhofen take the Einfahrt Nord exit, after approx. 100m turn right at the BP petrol station, after approx 100m turn right again. After approx. 50m the hotel can be found on the left side of the road."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "558"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13b2428c-f2b6-42f5-8abf-0eb4d629f1dd/99/image.jpg",
+      "caption": "Alpendomizil Neuhaus Mayrhofen - Winter. "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2b946ae8-92a7-44f9-a8b0-c8acbdcec23b/99/image.jpg",
+      "caption": "Front_04"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/094c4971-937d-4b9c-9fcd-f7ec247ba183/99/image.jpg",
+      "caption": "Front_01"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ba091312-24f7-4c66-ac1a-9ffa7f335653/99/image.jpg",
+      "caption": "Garten_23"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d932bc82-3dca-45d6-9eb2-3ef0b1ec4a7f/99/image.jpg",
+      "caption": "Garten_17"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28c34fa6-1739-4fee-af60-100baa040075/99/image.jpg",
+      "caption": "Alpendomizil Neuhaus - Gartenmöbel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/92126256-d486-404b-b4ce-b88417db11e8/99/image.jpg",
+      "caption": "Alpendomizil Neuhaus - Genuss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/176d9625-389b-428a-a71e-1090cb8c0631/99/image.jpg",
+      "caption": "Alpendomizil Neuhaus - Genuss 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4275585-9d46-4d61-8e30-0127d40bc5ec/99/image.jpg",
+      "caption": "Alpendomizil Neuhaus - Kulinarium"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e44929ee-2bc1-4351-82e5-0cffd2e0ff4d/99/image.jpg",
+      "caption": "Alpendomizil Neuhaus - Kulinarium 2 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9028458f-e54e-4ade-8ea1-f0e2b50aea88/99/image.jpg",
+      "caption": "Alpendomizil Neuhaus - Kulinarium1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/89afafb2-637b-4695-ae8a-373d5df0c863/99/image.jpg",
+      "caption": "Alpendomizil Neuhaus - Fitness 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ce768d78-d629-4cec-afe8-41f2e5538d1a/99/image.jpg",
+      "caption": "Alpendomizil Neuhaus - Fitness 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c5a6b022-eca2-4bb9-8c85-bd1ca5e7c1bb/99/image.jpg",
+      "caption": "Alpendomizil Neuhaus - Fitness 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2fc3b13-358d-45d2-8a40-a917e845b57c/99/image.jpg",
+      "caption": "Alpendomizil Neuhaus - Neuhaus Halle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b645e097-00d4-4f3b-b445-67f4d8a5bcfb/99/image.jpg",
+      "caption": "Alpendomizil Neuhaus - Neuhaus Halle 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b58a3103-f18e-4feb-998e-5a58935a6ad2/99/image.jpg",
+      "caption": "Alpendomizil Neuhaus - Saal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ccc350ff-22e7-4553-b9e2-4b26b2214682/99/image.jpg",
+      "caption": "Zirmstuebl_01"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/201f8e3f-cdf8-445a-aa3e-9049a49a3d39/99/image.jpg",
+      "caption": "Zi_220_g"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e91deb5e-8e8d-4b7c-9971-81aa49d9a491/99/image.jpg",
+      "caption": "Zi_239_f"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5c23990-7e93-476f-8094-2d39a321beec/99/image.jpg",
+      "caption": "Fitness_02"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d0af513b-bd5c-4a5b-9d5b-5397398a2539/99/image.jpg",
+      "caption": "Kleine_Stube_01"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/417899cb-1669-4cb3-9d89-b5d999263593/99/image.jpg",
+      "caption": "Sitzbereich_Eingang_01"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d6f787f-8f70-41a5-b9c5-f95d6435abfa/99/image.jpg",
+      "caption": "Stube_01"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b88ceb07-6e17-4666-8ae4-ad151bfe0fd6/99/image.jpg",
+      "caption": "Wellness_01"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/146640f5-0dc2-44d6-9850-17d8926f8e4f/99/image.jpg",
+      "caption": "Wellness_02"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/18f8c52f-ea29-4aea-a835-a2f832904de1/99/image.jpg",
+      "caption": "Wellness_03"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/124c0781-7e8d-400c-9cb8-c12c284e0c2d/99/image.jpg",
+      "caption": "Wellness_13"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e1ee8f43-a393-41d0-8649-f09bcb64e03a/99/image.jpg",
+      "caption": "Wellness_19"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6f9e3d6-c871-450b-9af0-8fc1d36c353e/99/image.jpg",
+      "caption": "Wellness_20"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7d4030c-2e17-46cc-bb43-b84414c7f6f1/99/image.jpg",
+      "caption": "Wellness_21"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1692644853815",
+    "longitude": "11.8637645244598"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower or bath, toilet",
+      "description": "Komfortroom 23m²\nwith bad or shower and WC, partly with balcony, radio, telephone, safe, hair-dryer and cable tv.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower or bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "123.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "95.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "88.67",
+          "maxPrice": "88.67",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Triple room, shower or bathtub",
+      "description": "Superior Room 35m²\nwith shower or bath and WC, balcony, comfortable sitting area, radio, telephone, safe, hair-dryer and cable-TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "106.00",
+          "maxPrice": "106.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "98.93",
+          "maxPrice": "98.93",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, shower or bathtub",
+      "description": "Suite 38m²\nwith bath or shower and WC, balcony and comfortable sitting area, separate living- and sleeping room, radio, telephone, safe, hair-dryer and cable-TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "suite with shower or bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "116.00",
+          "maxPrice": "116.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "108.27",
+          "maxPrice": "108.27",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "104.40",
+          "maxPrice": "104.40",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior suite, shower or bathtub",
+      "description": "Juniorsuite 47m²\nwith shower/bath and WC, balcony overlooking the garden and comfortable sitting area, ceramic oven, radio, telephone, safe, hair-dryer and cable-TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "juniorsuite with bath tube or shower",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "116.00",
+          "maxPrice": "116.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

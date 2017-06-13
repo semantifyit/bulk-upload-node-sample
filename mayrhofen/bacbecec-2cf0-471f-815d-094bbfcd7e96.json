@@ -1,0 +1,92 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Edelhütte 2238m"
+    },
+    {
+      "@language": "de",
+      "@value": "Edelhütte 2238m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Edelhütte 2238m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1304617005346",
+    "longitude": "11.8974637985229"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Edelhütte",
+    "streetAddress": "Ahornstrasse 873e",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62168",
+    "email": "info@apart-schneeberger.at",
+    "url": "www.edelhuette.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Die Edelhütte auf 2238m \nUnsere Familie bewirtschaftet seit 1998 die bei unseren Wandergästeen sehr beliebte Edelhütte am Ahorn.\nGehzeit ca. 1-1,5 Stunden von der Bergstation Ahornbahn! \nVon Mayrhofen mit der Ahornbahn hinauf zur Bergstation Restaurant Panorama, dann auf Weg Nr. 514 zur Edelhütte. \n\nWanderer lieben es. Biker lieben es. Aktive Bergsportler sind begeistert und Genießer ganz besonders. Das hintere Zillertal rund um Mayrhofen ist ein überraschend vielseitiges Ferienparadies mit herrlichen Wanderwegen, malerischen Hütten und Gasthöfen, eindrucksvollen Bikerouten und unterschiedlichsten Möglichkeiten der aktiven Freizeitgestaltung wie Paragliding und Klettern. Und wenn der Urlaub nur zum Entspannen und Genießen da sein soll, dann bieten elegante Wellnesshotels und gemütliche Wirtshäuser mit typischen Zillertaler Spezialitäten viele Möglichkeiten zum gepflegten Nichtstun.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\ngeschlossen\n\nÜbernachtung möglich\n30 Betten und 50 Lager  \n\nSommer\nanfang Juni - mitte Oktober 2017\nkein Ruhetag "
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nclosed\n\novernight stay possible\n30 beds and 50 dormitories  \n\nSummer \nbeginning June till middle of October 2017\nno rest day"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97e15ae7-66a8-4ed5-8bd1-0f05e4aafdff/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Edelhütte 2238m"
+        },
+        {
+          "@language": "de",
+          "@value": "Edelhütte 2238m"
+        },
+        {
+          "@language": "ru",
+          "@value": "Edelhütte 2238m"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/651316d7-ec05-4d68-b38e-c5d2e3d4afa9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Edelhütte"
+        },
+        {
+          "@language": "de",
+          "@value": "Edelhütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Edelhütte"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.edelhuette.at"
+  ]
+}

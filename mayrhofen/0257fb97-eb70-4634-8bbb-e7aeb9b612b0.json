@@ -1,0 +1,486 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast",
+    "Hotel"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Scheulingstraße 384",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62220",
+    "email": "g.raitmayr@aon.at"
+  },
+  "name": "Landhaus Raitmayr",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus befindet sich im Zentrum von Mayrhofen im Zillertal, trotzdem sehr ruhig gelegen.\nKinderspielsplatz, Garten mit Liegebetten, schöne Terrasse laden zum relaxen ein. \nFrühstücksraum kann auch als Aufenthaltsraum genützt werden.\nNicht weit davon befinden sich die Mayrhofner Bergbahnen mit der Penkenbahn und Ahornbahn. "
+    },
+    {
+      "@language": "de",
+      "@value": "erweitertes Frühstück inkludiert"
+    },
+    {
+      "@language": "de",
+      "@value": "Check-in: 13:00 Uhr\nCheck-out: 10:00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is in the centrum of Mayrhofen, but anyhow in a really calm location.\nChildren playground, garden with lounger, beautiful terrace are really good places to relax.\nThe \"Ahorn- and Penkenbahn\" are not so far away."
+    },
+    {
+      "@language": "en",
+      "@value": "breakfast incl.\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Check-in: 1pm\nCheck-out: 10am"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ff68dc1-b378-4aff-82c3-079de725c786/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Raitmayr - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Raitmayr - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Raitmayr - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da7aa9e9-a726-47ed-a6e6-47d80832b73c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20161110101016403_0001 (2)"
+        },
+        {
+          "@language": "en",
+          "@value": "20161110101016403_0001 (2)"
+        },
+        {
+          "@language": "ru",
+          "@value": "20161110101016403_0001 (2)"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/44f4a8d0-678a-4a99-ba5d-7f0040d0ada4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20161110101032075_0001 (2)"
+        },
+        {
+          "@language": "en",
+          "@value": "20161110101032075_0001 (2)"
+        },
+        {
+          "@language": "ru",
+          "@value": "20161110101032075_0001 (2)"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cb8d717c-4fbd-48dc-a614-e26d5f6f4ed7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20161110100852924_0001 (2)"
+        },
+        {
+          "@language": "en",
+          "@value": "20161110100852924_0001 (2)"
+        },
+        {
+          "@language": "ru",
+          "@value": "20161110100852924_0001 (2)"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dfff8d3f-8f9e-4c69-907f-1a1ee6f3e2ed/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20161110100952183_0001 (2)"
+        },
+        {
+          "@language": "en",
+          "@value": "20161110100952183_0001 (2)"
+        },
+        {
+          "@language": "ru",
+          "@value": "20161110100952183_0001 (2)"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c4d884a-f197-4348-af48-fe5ac38e9e91/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Raitmayr - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Raitmayr - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Raitmayr - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/25f0a656-2e92-4983-9b58-c35a77fc87ad/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Raitmayr - Garten"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Raitmayr - Garten"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Raitmayr - Garten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/05efe38c-de01-469f-a766-ae36f2df31b1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Raitmayr - Garten 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Raitmayr - Garten 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Raitmayr - Garten 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b702f20-020c-454b-8baa-caa2f6507a35/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Raitmayr - Stube"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Raitmayr - Stube"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Raitmayr - Stube"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4e6ea54-aa0f-451f-82c2-87ca063c24e1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Raitmayr - Zimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Raitmayr - Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Raitmayr - Zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ecca9ae9-97d6-44b8-a985-404baea7305e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Raitmayr - Badezimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Raitmayr - Badezimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Raitmayr - Badezimmer"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1661969",
+    "longitude": "11.8640368"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, fl. k/w Wasser"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, running hot/cold water"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, горячая/холодная вода"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer mit Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room with balcony\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer, fl. k/w Wasser Nr.3"
+            },
+            {
+              "@language": "en",
+              "@value": "Single room, running hot/cold water"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер, горячая/холодная вода"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "18.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC, Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet, balcony"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет, балкон"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer mit Dusche, WC und Balkon, TV, Sitzecke"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room with shower, WC and balcony, TV, living-room furniture \n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer Nr. 1"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet, balcony"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет, балкон"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Familienzimmer, Bad, WC, Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Family room, bath, toilet, balcony"
+        },
+        {
+          "@language": "ru",
+          "@value": "Семейный номер, ванна, туалет, балкон"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Familienzimmer mit 2 Schlafzimmern, großes Bad, Vorraum mit Garderrobe, Balkon, Fernseher, WLAN"
+        },
+        {
+          "@language": "en",
+          "@value": "Family room with 2 bedrooms, big bath, anteroom with Garderrobe, balcony, television, WLAN \n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Familienzimmer/2 Schlafzimmer/Bad Nr. 4 und Nr.5"
+            },
+            {
+              "@language": "en",
+              "@value": "Family room, bath, toilet, balcony"
+            },
+            {
+              "@language": "ru",
+              "@value": "Семейный номер, ванна, туалет, балкон"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "25.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "25.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

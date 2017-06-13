@@ -1,0 +1,122 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.urlaubzillertal.com"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laubichl 155a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 64990",
+    "faxNumber": "(0043) 5285 649904",
+    "email": "info@urlaubzillertal.com",
+    "url": "http://www.urlaubzillertal.com"
+  },
+  "name": "Appartment Viktoria",
+  "description": [
+    "Welcome \nto the appartment Viktoria \nin Mayrhofen.\nMake yourself at home, a paradise for vacation in summer and winter.\n\nOur house is situated at the northern edge from Mayrhofen in a sunny place all over the year and is only a few minutes walk form Mayrhofen.\nYou are in the middle of the hiking - and ski paradise from Mayrhofen.\nThe ideal starting point for you summer and winter activities.",
+    "Our own possibilities for fishing / hunting \nlawn \nparking slots in fornt of the house\nshower \nski bus stop \nski cellar with ski boot heating \nsauna \nroom with washing mashine and dryer \nfree Wi-Fi \nbreakfast \nbread roll service \n\nRight next to our house is our restaurant - Forellenstüberl, which is known for its great fish!",
+    "From Kufstein drive on the A 12 until Wiesing (exit Zillertal). So you are on the B 169 on the Zillertal road, which directly goes to Mayrhofen.\n\nfirst round about\nexit on the left side - IQ filling station\nturn left direction Laubichl - camping area\non the opposite is our entry\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/facb0980-167e-4eec-815c-5f94453f64a5/99/image.jpg",
+      "caption": "2015.01.14_sonnenschein.005.booking"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ebda3c0-4d13-4926-b6c3-5c531cbec642/99/image.jpg",
+      "caption": "2015.01.14_sonnenschein.003.booking"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8a68c3d3-a59f-4924-93b0-d9e6e5679ff6/99/image.jpg",
+      "caption": "Apparthotel Viktoria Mayrhofen - Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/54bc9f06-dfb0-4ee3-905a-6bbd153addaa/99/image.jpg",
+      "caption": "2015.01.14_sonnenschein.004.booking"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9536f3b9-8f6c-4c68-959e-28318e538319/99/image.jpg",
+      "caption": "2015.01.14_sonnenschein.013.booking"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53520597-a445-4eca-a180-e4b6d6fd73e4/99/image.jpg",
+      "caption": "2015.01.14_sonnenschein.014.booking"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13f5ab9f-6fa1-46de-800f-630a0324ca18/99/image.jpg",
+      "caption": "2015.01.14_sonnenschein.010.booking"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec0350f9-04c2-438d-8187-cd5306ec86fc/99/image.jpg",
+      "caption": "2015.01.14_sonnenschein.008.booking"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9cd4a1e-fbde-4868-a664-c5a563ebc0f0/99/image.jpg",
+      "caption": "Appartment Viktoria Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1f4059e-ffa0-4cb6-9b42-2f834521456e/99/image.jpg",
+      "caption": "2015.01.14_sonnenschein.009.booking"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.175899366874",
+    "longitude": "11.8662871330657"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 1 bed room",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 1 bed room",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

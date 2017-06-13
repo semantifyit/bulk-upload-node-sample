@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GroceryStore"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Lebensmittel Braunegger"
+    },
+    {
+      "@language": "de",
+      "@value": "Lebensmittel Braunegger"
+    },
+    {
+      "@language": "ru",
+      "@value": "Lebensmittel Braunegger"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2038697516305",
+    "longitude": "11.8669939041138"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lebensmittel Braunegger",
+    "streetAddress": "Augasse 6",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4296",
+    "faxNumber": "(0043) 5283 223170",
+    "email": "office@braunegger-kg.at",
+    "url": "http://www.braunegger-kg.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Der Geschäftsbereich umfasst den Lebensmittelgroßhandel mit angeschlossenem Gastronomie-Abholmarkt, 18 eigenen Einzelhandelsfilialen und einer eigenen Kaffeerösterei, die von unserem Kaffeesommelier betreut wird.\nAngeboten werden Braunegger Kaffee, Lebensmittel, Getränke und Spirituosen, Milchprodukte, Obst und Gemüse, Frischfleisch und Wurstwaren, Wasch- und Putzartikel und Geschirr- und Haushaltswaren, insgesamt etwa 24.000 verschiedene Markenartikel.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "The division includes the wholesale grocery business with gastronomy cash- and - carry store  attached, 18 own retail outlets and its own coffee roasting company, which is supervised by our coffee sommelier"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1d3f46a0-67f1-4f52-a6a4-8aab7a1ba3fa/99/image.png",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Braunegger"
+        },
+        {
+          "@language": "de",
+          "@value": "Braunegger"
+        },
+        {
+          "@language": "ru",
+          "@value": "Braunegger"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.braunegger-kg.at"
+  ]
+}

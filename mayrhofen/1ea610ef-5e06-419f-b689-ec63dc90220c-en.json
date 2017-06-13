@@ -1,0 +1,267 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel",
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.hausgisela.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d1EA610EF-5E06-419F-B689-EC63DC90220C"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gisela, Haus",
+    "streetAddress": "Tuxer Straße 740",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62750",
+    "email": "hausgisela@aon.at",
+    "url": "http://www.hausgisela.at"
+  },
+  "name": "Haus Gisela",
+  "description": [
+    "We run a new appartment for 2 or 4 persons and are situated only a few minutes walk away from the town centre and the lifts. Bus stops are nearby. \nWe are sure you will have a beautiful and comfortable stay. \n\nFor twins we offer special prices (2 \u003d 1)!\n\nWe attach value to offer a relaxing holiday.\n\nWe are looking forward getting a phone call or an email from you!\nFam. Gmachl-Mariacher\n\n",
+    "We offer special prices for twins! (2 for 1)",
+    "Directions: At Mayrhofen, after the railway station take the first turning on the left - Einfahrt Mitte - past the post office, right at the next junction, up the high street and over the bridge, turn right\n\nCheck-in: from 2 p.m, Check-out: til 9 a.m"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1fab3d91-a07c-46be-8646-fc817f610143/99/image.jpg",
+      "caption": "Haus Gisela Mayrhofen Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb0771aa-0d71-441d-aa4b-58d1d2c31b69/99/image.jpg",
+      "caption": "logo fruehling-haus-gisela-mayrhofen-zillertal-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9cece107-e992-4cab-b253-fc766b12a473/99/image.jpg",
+      "caption": "Haus Gisela Mayrhofen Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c000594-54b1-41fe-a88b-9bb5c8b287c3/99/image.jpg",
+      "caption": "Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e48efab0-0a36-4262-9cea-810b97f217c1/99/image.jpg",
+      "caption": "Eingang_k"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/51e88bf9-fbac-4382-920f-d68a4ffc835e/99/image.jpg",
+      "caption": "Küche1_k"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63762a8e-c267-4ef8-a8f6-3b456bcd9827/99/image.jpg",
+      "caption": "Blick aus der Küche_k"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e6587832-c6e8-4d8b-a47b-c1a33391e2ad/99/image.jpg",
+      "caption": "Küche2_k"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd2fc1fa-8c0d-46c4-8022-0d2325febb8d/99/image.jpg",
+      "caption": "Blick aus der Küche2_k"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af0b456e-7fef-4621-893b-d7114a2a72fa/99/image.jpg",
+      "caption": "Zimmer fw_k"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b02503a9-4eb6-4391-b0d8-cb8c271c9223/99/image.jpg",
+      "caption": "Blick aus dem Zimmer_k"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/48f9c7c6-93c6-4e34-9e35-0563c54dd15b/99/image.jpg",
+      "caption": "Zimmer 2 fw_k"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/05ec9771-7a69-4d7c-8018-a6f2c05c508e/99/image.jpg",
+      "caption": "durchgang zu zimmer und bad_k"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/558e951b-b3af-4343-86a6-d5c856eeb130/99/image.jpg",
+      "caption": "ahorn haus gisela mayrhofen bildergalerie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b5c7b93d-994d-4cab-a718-f6410a6a8e1a/99/image.jpg",
+      "caption": "fruehling-haus-gisela-mayrhofen-zillertal-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c533237e-96e5-4293-82bc-98a4b107be99/99/image.jpg",
+      "caption": "fruehling-schneegloeckchen-haus-gisela-mayrhofen-z"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/faa1d854-b169-4d42-87d2-6ad4aee79e66/99/image.jpg",
+      "caption": "sommer-bergsee-haus-gisela-mayrhofen-zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/091c9d38-4d11-4ae4-9f02-d654d0670b75/99/image.jpg",
+      "caption": "sommer-filzenkoepfl-haus-gisela-mayrhofen-zillerta"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4fd3186d-79ca-40ed-9d48-70efc1eedce9/99/image.jpg",
+      "caption": "sommer-plaunerhuette-haus-gisela-mayrhofen-zillert"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/62f88be0-2754-4b7d-90ce-d617e1cb60ee/99/image.jpg",
+      "caption": "sommer-vorderansicht-haus-gisela-mayrhofen-zillert"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7ab6ad4-6e3f-4bd9-b904-f60321b4e9f2/99/image.jpg",
+      "caption": "sommer-zaun-haus-gisela-mayrhofen-zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1cb51bde-354f-4085-82a9-2a393b5bb937/99/image.jpg",
+      "caption": "winter-ahorn-haus-gisela-mayrhofen-zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/20095d40-e609-44c2-ba6a-78ba203e7361/99/image.jpg",
+      "caption": "winter-huette-haus-gisela-mayrhofen-zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16f60aa6-1b5f-47e7-adea-c5cbe5f5b640/99/image.jpg",
+      "caption": "winter-penken-haus-gisela-mayrhofen-zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c09b257-e5c2-42f4-8edb-f0a784cc2690/99/image.jpg",
+      "caption": "winter-schneemann-haus-gisela-mayrhofen-zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f6e88461-770d-4890-aef1-407e02e4cd23/99/image.jpg",
+      "caption": "winter-stadel-haus-gisela-mayrhofen-zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7993c32-e482-453d-84f5-a726a980e6f0/99/image.jpg",
+      "caption": "aufgang1_k"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a5e9dc08-4f75-4604-ae19-1f99855ed1c5/99/image.jpg",
+      "caption": "eingangsbereich_k"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3110194d-f1e3-45e2-8f20-36e344f3972b/99/image.jpg",
+      "caption": "winter-vorderansicht-haus-gisela-mayrhofen-zillert"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f7065d7-4394-43c9-85f3-30684572b2fa/99/image.jpg",
+      "caption": "alpenrosen-haus-gisela-mayrhofen-zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97828146-23b3-47e5-bd92-26600513fbc3/99/image.jpg",
+      "caption": "garten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.160204768307",
+    "longitude": "11.8557554483414"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Our newly furnished holiday apartment is approx. 75 m², and has two bedrooms in light, natural wood (with bed linen and room safe), two spacious bathrooms with shower and toilet and a large lounge/kitchen with modern kitchen facilities including a cooker and fridge, as well as a microwave and crockery and a pleasant lounge area with Sat-TV, large balcony, WiFi.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 2 bed rooms",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, balcony",
+      "description": "Our newly furnished holiday apartment is approx. 50 m², and has abedroom in light, natural wood (with bed linen and room safe), a spacious bathroom with shower and toilet and a large lounge/kitchen with modern kitchen facilities including a cooker and fridge, as well as a microwave and crockery and a pleasant lounge area with Sat-TV, large balcony, WiFi.\nThe appartement is for 2 persons. For one child we can offer a sofa bed in the large kitchen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, balcony, 2 pers",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

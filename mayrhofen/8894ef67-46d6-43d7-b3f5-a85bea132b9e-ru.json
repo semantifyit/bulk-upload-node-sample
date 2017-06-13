@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": "Live music with Daniel Kemish",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Scotland Yard Pub",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Scheulingstr. 372",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 664 44 18 265",
+      "email": "pub@scotlandyard.at",
+      "url": "http://www.scotlandyard.at/"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Scotland Yard Pub",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Scheulingstr. 372",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 664 44 18 265",
+      "email": "pub@scotlandyard.at",
+      "url": "http://www.scotlandyard.at/"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b927261b-5405-4b26-9784-08a88432f403/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/49aa2d70-3014-49dd-891d-08faf08cae03/99/image.jpg",
+      "caption": "Scotland Yard Pub"
+    }
+  ],
+  "startDate": "2017-03-23T20:00:00",
+  "endDate": "2017-03-23"
+}

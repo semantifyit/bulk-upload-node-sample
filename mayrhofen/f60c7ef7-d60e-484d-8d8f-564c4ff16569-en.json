@@ -1,0 +1,67 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dF60C7EF7-D60E-484D-8D8F-564C4FF16569"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Durster Straße 240",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63519",
+    "email": "wilmosch.eva@aon.at"
+  },
+  "name": "Wilmosch Eva",
+  "description": [
+    "Our house is situated in a quiet, yet central postion (in a residential area).",
+    "The price excludes a final cleaning charge.",
+    "Directions: Take the Einfahrt Ost at the roundabout - turn right at the BP petrol station - turn left at the Berghof Hotel - 3rd house on the right after the Europahaus (yellow block of flats) - ground floor."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9abd0ecf-b3fb-4202-9227-3d425fc83090/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1678968734917",
+    "longitude": "11.8672782182693"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet",
+      "description": "Small, comfortable holiday apartment, centrally situated, Sat-TV, shower, separate WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap./combined living-bed-room/shower, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

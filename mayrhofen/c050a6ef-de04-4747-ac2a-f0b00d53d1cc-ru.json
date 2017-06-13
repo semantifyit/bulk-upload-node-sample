@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Alpenhotel Kramerwirt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1684548633954",
+    "longitude": "11.8652451038361"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenhotel Kramerwirt",
+    "streetAddress": "Am Marienbrunnen 346",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 6700",
+    "faxNumber": "0043 5285 6700 502",
+    "email": "hotel@kramerwirt.at",
+    "url": "http://www.kramerwirt.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16389588-e891-4ed6-9298-ee6b8e22fdb0/99/image.jpg",
+      "caption": "Kramerwirt"
+    }
+  ],
+  "url": [
+    "http://www.kramerwirt.at"
+  ]
+}

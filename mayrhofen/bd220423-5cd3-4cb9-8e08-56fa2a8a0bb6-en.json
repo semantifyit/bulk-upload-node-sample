@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Drechslerei, Holzwarengeschäft Buchberger Walter",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1666473",
+    "longitude": "11.8643102"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pfarrer-Krapf-Straße 394",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62698 ",
+    "email": "firma@mikesch.co.at",
+    "url": "http://www.drechslerei-buchberger.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e50f34c-cbe3-4605-92b5-a411b8e0c367/99/image.jpg",
+      "caption": "Drechslerei Buchberger"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e10c6fd2-8688-437a-a368-015ca892d264/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.mikesch.co.at"
+  ]
+}

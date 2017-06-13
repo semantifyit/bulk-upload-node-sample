@@ -1,0 +1,192 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d57D9A803-56C4-4C1B-B04C-FAA90DF01CBC"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lindenhöhe 600",
+    "addressLocality": "Hainzenberg",
+    "postalCode": "6278",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3792",
+    "faxNumber": "0043 5282 3792"
+  },
+  "name": "Haus Elisabeth",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt am Ortsanfang von Ramsau etwas am Hang. 3 Gehminuten zum nächsten Supermarkt und zur Gratisskibushaltestelle. Unsere Wohnungen sind familienfreundlich und gemütlich eingerichtet!"
+    },
+    {
+      "@language": "de",
+      "@value": "3 Minuten zur Skibushaltestelle"
+    },
+    {
+      "@language": "de",
+      "@value": "Check-in: 15.00 Uhr   Check-out: 10.00 Uhr\nWeg: Nach der Ortstafel Ramsau erste Einfahrt links, vorbei am Supermarkt Adeg, etwas den Hang hoch zweites Haus hinter dem Hotel \"Schwarzer Adler\" rechts."
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated on hillside in Ramsau, to the next supermarket and to the skibusstop  it takes only 3 minutes by feed. cosy furnished appartement"
+    },
+    {
+      "@language": "en",
+      "@value": "only 3 minutes to the skibusstop"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in 15.00pm - Check out 10.00am\nway-description:  first way in past the sign Ramsau on the left side, pass the supermarket edeka, straight ahead uphill, second house past hotel Schwarzer Adler on the right side."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/448f86b9-4579-456f-92f2-6103312cdacc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Elisabeth Hainzenberg - Sommerbild"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Elisabeth Hainzenberg - Sommerbild"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Elisabeth Hainzenberg - Sommerbild"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2090957664671",
+    "longitude": "11.8744343519211"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 4 oder mehr Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 4 or more bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, 4 или больше спалень"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Große Ferienwohnung für bis zu 14 Personen, 4-6 Schlafräume mit Dusche/WC, Sat-TV, Balkon, Küche,... "
+        },
+        {
+          "@language": "en",
+          "@value": "Big holiday apartment for up to 14 people, 4-6 bedrooms with shower / WC, Sat TV, balcony, kitchen. . ."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./4 od mehr Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/4 + more bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, 4 или больше спалень"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "14",
+            "minValue": "6"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "1 Ferienwohnung für 2-5 Personen, 2 Zimmer mit Dusche/WC, Sat-TV, Balkon, voll ausgestattete Küche.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "1 holiday apartment for 2-5 people, 2 rooms with shower / WC, Sat TV, balcony, fully equipped kitchen. \n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement/Fewo 2-5 Pers."
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

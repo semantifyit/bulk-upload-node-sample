@@ -1,0 +1,231 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.tiscover.at/apart-lechner",
+    "http://maps.mayrhofen.at/?foreignResource\u003dFAB249A8-E6F7-460C-A4C2-BA2FF6E6F152"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lechner, Apart",
+    "streetAddress": "Johann-Sponring-Straße 95",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3405",
+    "email": "charmian.lechner@aon.at",
+    "url": "http://www.tiscover.at/apart-lechner"
+  },
+  "name": "Apart Lechner",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt in sonniger und zentraler Lage, komplett ausgestattete Ferienwohnung"
+    },
+    {
+      "@language": "de",
+      "@value": "Preise Endreinigung: € 25,--"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in 14.00 Uhr - Check out 10.00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house lies in a sunny and central position,  fully-equipped apartment."
+    },
+    {
+      "@language": "en",
+      "@value": "Apartment price is exclusive final cleaning € 25,--"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in from 2 p.m. onwards on day of arrival - Check out by 10 a.m. on day of departure"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8990a4df-03b8-47b3-9120-0f74ce1938da/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Lechner Schwendau - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Lechner Schwendau - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Lechner Schwendau - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f88b0600-96a4-4447-90e6-45f5f956c17e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Lechner Schwendau - Winteraussicht "
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Lechner Schwendau - Winteraussicht "
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Lechner Schwendau - Winteraussicht "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/107cfe33-8890-4c23-9fbe-c8e200cce6f4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Lechner Schwendau - Terrasse"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Lechner Schwendau - Terrasse"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Lechner Schwendau - Terrasse"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8c39b02a-fc06-4d60-9a74-72ed7667f1cd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Lechner Schwendau - Terrasse"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Lechner Schwendau - Terrasse"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Lechner Schwendau - Terrasse"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9fd49166-3681-4354-9833-7431dae2d730/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landsch"
+        },
+        {
+          "@language": "en",
+          "@value": "Landsch"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landsch"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4bdf3f18-4e0b-4fb2-99eb-3d38655d4055/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahornspitze"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahornspitze"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahornspitze"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2022442612923",
+    "longitude": "11.8626111745834"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, Terrasse"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, terrace"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, Терраса "
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "\nEine Parterre/Ferienwohnung für zwei Personen in sehr sonniger, ruhiger Lage mit wunderschönen Ausblick bestehend aus einem Wohn/Schlafzimmer (Doppelbett, Nachtkästchen, Kleiderschrank, Couch, Tisch und Stühlen,  Sat-Farbfernseher), voll ausgestatteter Küche (mit Kühlschrank, Herd, Kaffeemaschine und Toaster), Badezimmer mit Dusche und WC, Vorraum und Terrasse. Bettwäsche, Hand-und Duschtücher, Geschirrtücher vorhanden. Die Wohnung befindet sich in Hippach/Schwendau ca. 4 km von Mayrhofen."
+        },
+        {
+          "@language": "en",
+          "@value": "We offer a sunny, ground floor flat consisting of a living area-cum-bedroom, fully equipped kitchen (including cooker, fridge, coffee machine and toaster, cooking pots/pans, crockery and cutlery), hallway, bathroom with shower/wc, south-faced terrace, satellite colour TV, quiet but central location with a beautiful view over the valley up to Mayrhofen about 4 km away. Bed linen, towels and dishcloths are provided. "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/Wohn-Schlafraum/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap./combined living-bed-room/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, Терраса "
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

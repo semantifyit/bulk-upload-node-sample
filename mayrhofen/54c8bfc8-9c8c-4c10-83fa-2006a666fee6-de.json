@@ -1,0 +1,199 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-waldruh.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d54C8BFC8-9C8C-4C10-83FA-2006A666FEE6"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Waldruh, Haus",
+    "streetAddress": "Astach 141",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 22659",
+    "faxNumber": "0043 5282 22659",
+    "email": "eggerjosef@gmx.at",
+    "url": "http://www.haus-waldruh.com"
+  },
+  "name": "Haus Waldruh",
+  "description": [
+    "Unser Haus Waldruh liegt ausserhalb des Zentrums in einer sehr ruhiger Lage",
+    "Kindermässigung auf Anfrage",
+    "Check in 15.00 Uhr - Check out 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3115365f-5b31-44e4-8d8b-1d22e1a7df0e/99/image.jpg",
+      "caption": "Waldruh Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09c5bcf8-4121-47c3-84fa-a61e1473430c/99/image.jpg",
+      "caption": "Waldruh Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f836fe6f-4f43-4c83-9de0-fca54a6db704/99/image.jpg",
+      "caption": "Waldruh Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7e883a68-8690-4159-8d8e-604bf58e2881/99/image.jpg",
+      "caption": "Waldruh Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d94b5b26-dce2-4494-bffe-21b1bab2ab1a/99/image.jpg",
+      "caption": "Waldruh Winter 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c23a846d-3387-46c4-a339-7f4c621534f9/99/image.jpg",
+      "caption": "Kuh auf der Alm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4b879925-2fc9-48cc-9688-34e23b26a7f8/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/426a93b5-087c-4d1b-8fb3-aa819788983a/99/image.jpg",
+      "caption": "Bike Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/32e3d1b5-9135-47f9-a039-c2ecc9142ef6/99/image.jpg",
+      "caption": "Funpark Mayrhofner Bergbahnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3f6ac50f-b19e-4bb8-9acc-07ac50185841/99/image.jpg",
+      "caption": "skifahrer-in-action"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/802a875b-ada2-47ea-bd57-730161a6f65d/99/image.jpg",
+      "caption": "Sommer wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/378f6aaa-db1d-4a31-9755-427b4dc10d67/99/image.jpg",
+      "caption": "Sommer_Gipfel_Panorama ("
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6ff8753-e239-40a1-8e40-de9c3d08dfc0/99/image.jpg",
+      "caption": "Bauer__Landwirt_Kulinarik_Brettljause_Wiese (Archi"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3f6c0305-7fc4-4bbd-83ba-3b2621930d09/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/053e4d5f-102d-4d8c-9d76-8da01fe00f15/99/image.jpg",
+      "caption": "Sommer1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2147730985902",
+    "longitude": "11.862176656723"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütliche Ferienwohnung, Wohnschlafraum mit Doppelbett (ausziehbar), Eßecke und TV, Schlafzimmer, Kochnische, DU/WC, geräumiger Balkon mit schönen Ausblick, ruhige Lage",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Tage des offenen Tales",
+          "description": "Alle Leistungen können mit Zillertaler Gästekarte* kostenlos am 14. und 15.06.2014 genutzt werden!\n\nFreie Fahrt mit den Zügen der Zillertalbahn inkl. Dampfzug (nicht gültig für Gruppen) \nFreie Berg \u0026 Talfahrt mit der Spieljochbahn und musikalische Unterhaltung bei der Bergstation \nFreie Berg \u0026 Talfahrt mit der Finkenberger Almbahn und Bergfest am Penkenjoch: Zillertaler Musik und echte Zillertaler Spezialitäten bei der Penkentenne (15.06.2014) und bei Christas Skialm sowie informative Kräuterrundwanderung bei der Mittelstation\nFreie Berg \u0026 Talfahrt mit der Rosenalmbahn, Gerlossteinbahn, Ramsberglift, Isskogelbahn, Ahornbahn, Penkenbahn \nFreier Eintritt in alle Freibäder des Zillertals\nFreier Eintritt ins Heimatmuseum Fügen, Regionalmuseum Zell \nFreier Eintritt im Strasser Häusl in Laimach (nur am 15.06.2014) \nKostenlose Besichtigung der Ausstellung \"Seelische Berührung\" in der Galerie im FeuerWerk in Fügen (14.06.2014)\nKostenlose Besichtigung der ErlebnisSennerei Mayrhofen \nKostenlose Besichtigung der Erlebnisbrennerei Feldishütte \nKostenlose Auffahrt zum Schlegeisspeicher\nKostenlose Auffahrt zum Stillupspeicher\nKostenlose Besichtigung der Ausstellung \"Gletscher.Welten\" im Naturparkhaus Ginzling, der \"Kultur.Landschafts.Welten Mitterstall\" in Brandberg und der \"Steinbock.Welten\" Zillergrund \nKostenlose Besichtigung der Spannagelhöhle (nur am 15.06.2014) und des Natur Eis Palastes am Hintertuxer Gletscher (nur am 15.06.2014, Berg- und Talfahrt mit der Hintertuxer Gletscherbahn exklusive)\n*Die Vorlage einer für den Zeitraum (14.+15.06.2014) gültigen Gästekarte der Zillertaler Tourismusverbände berechtigt alle Gäste zum kostenlosen Eintritt bei den angeführten Betrieben.\n",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "42.00",
+          "maxPrice": "47.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "52.00",
+          "maxPrice": "57.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "62.00",
+          "maxPrice": "67.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "294.00",
+          "maxPrice": "294.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "364.00",
+          "maxPrice": "364.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "455.00",
+          "maxPrice": "455.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

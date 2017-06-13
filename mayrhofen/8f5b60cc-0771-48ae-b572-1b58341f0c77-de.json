@@ -1,0 +1,174 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d8F5B60CC-0771-48AE-B572-1B58341F0C77"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mauerhaus, Ferienhof",
+    "streetAddress": "Burgstall 353",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62378",
+    "faxNumber": "0043 5285 62378"
+  },
+  "name": "Ferienhof Mauerhaus",
+  "description": [
+    "Bauernhof im Ortsteil Burgstall mit 3 Stuben, Fernsehraum, alles im Bauerstil gehalten. Liegewiese, 100m von Langlaufloipe entfernt, 500m zur Horbergbahn; Tischtennis, viele schöne Wald- und Wanderwege.",
+    "im Preis inkludiert: Frühstück und Kurtaxe.",
+    "Check in / Check out nach Vereinbarung.\nÜber die B169 bis zur Ausfahrt Horbergbahn/Burgstall. Vor der Horbergbahn biegen Sie links ab und fahren durch den Ortstal Mühlbach bis Sie in Burgstall ankommen. Unser Haus befindet sich gleich auf der rechten Seite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b1ec6bfb-ee87-4cf4-a878-3aab142431d2/99/image.jpg",
+      "caption": "Mauerhaus Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ef14fcd-61b0-43a0-a6ec-f47209692e54/99/image.jpg",
+      "caption": "Mauerhaus Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f2c21258-7114-47a9-a104-44b5c70d4769/99/image.jpg",
+      "caption": "Mauerhaus Mayrhofen - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fd9cdde7-a44b-4699-b353-2bdf92a5bc88/99/image.jpg",
+      "caption": "Mauerhaus Mayrhofen - Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a69f6f4-68cb-4631-8bd1-673f860a884b/99/image.jpg",
+      "caption": "Mauerhaus Mayrhofen - Alm"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1830735686141",
+    "longitude": "11.860020160675"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC",
+      "description": "Dreibettzimmer mit Balkon, Tisch und Stühle am Balkon. Schöne Aussicht auf die Berge. Fernseher im Zimmer. Dusche/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer mit Balkon, Fernseher im Zimmer. Dusche/WC. Sitzmöglichkeit mit Tisch und Stühle am Balkon. Schöne Aussicht auf die Berge.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, fl. k/w Wasser",
+      "description": "Einzelzimmer mit Balkon und Fließwasser. (Etagedusche/WC).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Appartement für 3 Pers. (4 auf Anfrage möglich) Balkon, Aussicht auf die Berge. Sitzgelegenheit, Tisch u. Stühle auf dem Balko. TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 3 Pers./Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Appartement mit 3 Betten in einem Raum 1 Bett in der Wohnküche mit Balkon. Aussicht auf die Berge. Tisch und Stühle auf dem Balkon. Fernseher im Raum.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 4 Pers./Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Gasthof Zemmtal"
+    },
+    {
+      "@language": "de",
+      "@value": "Gasthof Zemmtal"
+    },
+    {
+      "@language": "ru",
+      "@value": "Gasthof Zemmtal"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0984744535288",
+    "longitude": "11.8037045001984"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zemmtal, Gasthof",
+    "streetAddress": "Dornauberg 43",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 5286 5254",
+    "faxNumber": "0043 5286 5254",
+    "email": "info@zemmtal.at",
+    "url": "http://www.zemmtal.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "\nHerzlich willkommen im Gasthof Zemmtal  Erholung vom Alltagsstress! Inmitten der schönen Zillertaler Berge liegt unser Gasthof. Wenn Sie Erholung und Ruhe suchen, kommen Sie zu uns.  Lassen Sie sich in familiärer und kinderfreundlicher Atmosphäre von uns verwöhnen. Genießen Sie ein reichhaltiges Frühstück und zu Mittag oder zum Abendessen probieren Sie kulinarische Köstlichkeiten aus unserer Küche. Im SOMMER erholen Sie sich bei herrlichen Wanderungen auf eine der zahlreichen Hütten oder auf unserer Liegewiese; Sonnenterrasse und in der gemütlichen Gaststube mit SAT-TV. Für die Kleinen gibt es Schaukeln und Sandkasten im Garten. Im WINTER geht es auf die Langlaufloipe in unserem tiefverschneiten Ort. Ski-Alpin im nahegelegenen Finkenberg oder Mayrhofen (Skibus). \t\t\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Welcome to the Gasthof Zemmtal!\n\nRecovery from everyday stress! Set in the beautiful Zillertal mountains is our inn. If you are looking for peace and relaxation come to us. Let yourself be pampered by us in a family and child-friendly atmosphere. Enjoy a full breakfast and lunch or dinner try culinary delicacies from our kitchen."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/51ecabb4-d80f-4564-9691-17b0ed9b2406/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Zemmtal"
+        },
+        {
+          "@language": "de",
+          "@value": "Zemmtal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zemmtal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3da32596-b1d8-4d22-ad9f-46e835c2c68d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "de",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1da3a5ac-48a6-4d34-aade-d7911f56810f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Stube"
+        },
+        {
+          "@language": "de",
+          "@value": "Stube"
+        },
+        {
+          "@language": "ru",
+          "@value": "Stube"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.zemmtal.at"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Brandbergstraße 360",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 64819",
+    "email": "irmgard74@gmx.at"
+  },
+  "name": "Haus Gredler",
+  "description": [
+    "\"Haus Gredler steht in freier und sonniger Lage auf einen bewirtschafteten Bauernhof am Rande von Mayrhofen. Die Ortsmitte von Mayrhofen ist 300 Meter von unseren Anwesen entfernt. Zur Penkenbahn ist es ca 400  Meter. Zur Einkaufsstraße in Mayrhofen sind es ca. 200 Meter zu Fuß. Die Ferienwohnung ist ca. 48 m² groß und verfügt über 1 Schlafzimmer mit Balkon, eine Küche mit Kaffeemaschine und einen 2-Platten Herd und 1 Wohn- Schlafraum mit einem ausziehbaren Doppelschlafsofa mit Balkon. Ebenfalls enthalten ist ein Flachbildfernseher. WC und Bad sind getrennt voneinander. Gegen eine Gebühr von 10 € pro Woche ist Wlan erhältlich. Am Haus sind genügend Parkplätze vorhanden. Die Balkone sind mit Sonnenschirm, Tisch, Stühlen ausgestattet. Es ist möglich verschiedene Brotsorten zu bestellen. Bettwäsche und Handtücher sind vorhanden und werden auf Wunsch ausgetauscht.\"",
+    "Check In: Ist Nachmittag ab 15:00 Uhr. Bei Anreise nach 21:00 Uhr bitte Vermieter kontaktieren. Anreise ist jeden Tag möglich. \nCheck Out: Am Abreisetag ist um 10:00 Uhr die Wohnung zu verlassen."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f185b1c9-93e9-4237-83ad-bf7cf32c2757/99/image.jpg",
+      "caption": "20160628_175427"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84bfe534-5515-4895-8448-1c2a8532c634/99/image.jpg",
+      "caption": "IMG-20170108-WA0001"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/66096d5a-1a00-46d1-9c68-d4ffca741f3b/99/image.jpg",
+      "caption": "Rodel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fe73e5ec-83f5-49d8-9804-4cdd074bd125/99/image.jpg",
+      "caption": "PICT0180-2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8a727ef3-3ced-43ff-b936-6eea1bb961d1/99/image.jpg",
+      "caption": "BIRNERHOF"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a98d33f-f474-4860-8474-1bbfd63240cc/99/image.jpg",
+      "caption": "BIRNERHOF 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/016a83c9-b442-4430-a376-cc60a16d5399/99/image.jpg",
+      "caption": "Mama UND PAPA"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f09df51-25fe-4dea-991b-e098a43490a7/99/image.jpg",
+      "caption": "c682225a281"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/82bb090c-b2ea-46ca-9350-366bbd1ce420/99/image.jpg",
+      "caption": "c682226a281"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ccc15f9-3563-4ac3-b7aa-7b8c40c4b4e6/99/image.jpg",
+      "caption": "c962100a281"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/982dccc5-3f08-4760-843d-d6d222df7ff3/99/image.jpg",
+      "caption": "CIMG4677"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c514c65-c158-458e-ad2b-667b97a4c5da/99/image.jpg",
+      "caption": "NICI"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.165054",
+    "longitude": "11.8672856000001"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung Steinerkogel",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

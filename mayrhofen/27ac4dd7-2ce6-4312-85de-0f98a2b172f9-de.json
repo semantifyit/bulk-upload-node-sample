@@ -1,0 +1,298 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.schwarzenstein-ginzling.at",
+    "http://www.klausenalm.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d27AC4DD7-2CE6-4312-85DE-0F98A2B172F9"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schwarzenstein, Hotel-Gasthaus ",
+    "streetAddress": "Ginzling 216",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "+43 5286 5226",
+    "faxNumber": "+43 5286 52264",
+    "email": "info@schwarzenstein-ginzling.at",
+    "url": "http://www.schwarzenstein-ginzling.at"
+  },
+  "name": "Hotel Schwarzenstein",
+  "description": [
+    "HERZLICH WILLKOMMEN in unserem kleinen gemütlichen familienfreundlichen Hotel im idyllischen Bergsteigerdorf Ginzling, inmitten der Zillertaler Bergwelt(nur 7 km von Mayrhofen entfernt). Behagliche Zimmer im Tiroler und Landhaus Stil mit Dusche WC, Kabel-TV, kostenloses Wlan , gemütliche Gasträume, gesellige Abende mit Hausmusik, Sauna . Gutbürgerliche Küche mit heimischen und internationalen Spezialitäten, Wildgerichte , Vegetarische Speisen auf Wunsch. Hüttenabende mit Grillparty auf unserer Klausenalm.  www.klausenalm.at\nGanz in der Nähe von den Schi und Gletscherwelt Zillertal 3000.Gratisschibus vor dem Haus. Beleuchtete Rodelbahn.",
+    "inkl. Halbpension, Ortstaxe\nexcl. Sauna (€ 6,-), Solarium (€ 5,-), Tiere (€ 4,- ohne Futter)",
+    "Von Mayrhofen 8km Richtung Ginzling - Tunnel oder neu ausgebaute Schluchtstrecke, ca. 50m nach der Ortstafel Ginzling rechts befindet sich das Hotel Gasthof Schwarzenstein*** (erstes Hotel im Ort)."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "106"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bc6c59ef-56c4-4f0e-b634-8487a6d9c466/99/image.jpg",
+      "caption": "Hotel Schwarzenstein Ginzling - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f46704b-3fc5-4ddf-ac1b-8c5a5e9a7690/99/image.jpg",
+      "caption": "Hotel Schwarzenstein Ginzling - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9496c7eb-f285-4171-b64b-7ffd81ca7d0a/99/image.jpg",
+      "caption": "Hotel Schwarzenstein - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53378d62-5981-488d-bdf8-3bd3fffedae2/99/image.jpg",
+      "caption": "Hausmusik Klausenalm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/872b6250-b40f-4521-96d7-6ce45c1c061d/99/image.jpg",
+      "caption": "Gemütliche Stube - Klausenalm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3283c42b-2db6-4b96-82b8-5e3c2db0497b/99/image.jpg",
+      "caption": "Hotel Schwarzenstein - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca3a65ca-3b8d-4dca-827b-8dcce4b2c79d/99/image.jpg",
+      "caption": "Hotel Schwarzenstein - Zimmer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bfe900ca-e3dd-4f1d-834e-00742dbbb5f0/99/image.jpg",
+      "caption": "Hotel Schwarzenstein - Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/734e2271-a18c-4d67-87a3-3f1352610b46/99/image.jpg",
+      "caption": "Hotel Schwarzenstein - Wohnraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/749fc81d-be8e-46f7-bf78-d5154fcc7c8e/99/image.jpg",
+      "caption": "Hotel Schwarzenstein - Wohnraum2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/121ac9c8-291b-417b-9a5a-7b8ecef06d5f/99/image.jpg",
+      "caption": "Unsere Klausenalm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e2e8029-ceff-4213-a6d9-747eacf9c8a7/99/image.jpg",
+      "caption": "Hotel Schwarzenstein - Essen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28b5a4bf-36f8-4277-910e-617b78c8f68b/99/image.jpg",
+      "caption": "Hotel Schwarzenstein - Essen2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/461243ba-57b8-418f-b5ab-a960cbb4e836/99/image.jpg",
+      "caption": "Hotel Schwarzenstein - Essen 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f3b7b4e-dbaf-44e1-8278-4e295254a756/99/image.jpg",
+      "caption": "Hotel Schwarzenstein - Essen4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e85c9c73-9854-4f19-8d93-7ba7c504680a/99/image.jpg",
+      "caption": "Hotel Schwarzenstein - Essen5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b151989-614f-4b09-81e5-e9b810af8188/99/image.jpg",
+      "caption": "Hotel Schwarzenstein - Deko"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/39c4ed72-e170-4349-ac78-b72ac2fc2709/99/image.jpg",
+      "caption": "Herzlich Willkommen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cfc27255-0ad0-4fee-8ad8-cb2b8ede4235/99/image.jpg",
+      "caption": "Schwarzenstein"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/531cfb03-60f2-467e-b98f-0e833f4a7829/99/image.jpg",
+      "caption": "Guten Appetit"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ea43d2d3-3600-474b-b4ba-9198a212fff1/99/image.jpg",
+      "caption": "Leckeres Dessert"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/27b6c03d-5187-4158-977f-a564343d0fda/99/image.jpg",
+      "caption": "Awands 2015"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2a51352a-02e0-4f42-b6f5-71295328724f/99/image.jpg",
+      "caption": "Preisübergabe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/74ef2a02-09af-4749-8b63-4e68aba39173/99/image.jpg",
+      "caption": "Beliebteste Almhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7039459-4d10-4616-bcb1-048436e6a5cb/99/image.jpg",
+      "caption": "Unsere gemütlichen Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bcdae7ca-ab81-4f4b-915e-a15bc9576cc2/99/image.jpg",
+      "caption": "Neu renovierte Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e4161ada-9a38-451b-8de3-ff7cc4feeaf7/99/image.jpg",
+      "caption": "Doppelzimmer Tirolerstil"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf298798-a34e-4d13-be32-23a3706d8676/99/image.jpg",
+      "caption": "Doppelzimmer Tirolerstil"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/33678bd4-cc93-4ac9-ab4c-447c14d8a09f/99/image.jpg",
+      "caption": "Einzelzimmer Tirolerstil"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd2afc69-8d09-4d58-805e-7dba273ffbae/99/image.jpg",
+      "caption": "Himmelbett"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1028783131694",
+    "longitude": "11.8097341060638"
+  },
+  "paymentAccepted": [
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Unsere Zimmer sind im gemütlichen Tiroler-Stil \neingerichtet und haben einen Ausblick, den Sie nicht so schnell vergessen werden. \n\n\nAusgestattet sind alle Zimmer mit Internet, Wlan, Telefon, DU, WC, teilweise mit Balkon, Kabel-TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "46.50",
+          "maxPrice": "46.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Unsere Zimmer sind im gemütlichen Tiroler-Stil \neingerichtet und haben einen Ausblick, den Sie nicht so schnell vergessen werden. \n\n\nAusgestattet sind alle Zimmer mit Internet, Wlan ,Telefon, DU, WC, teilweise mit Balkon, Kabel-TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "47.50",
+          "maxPrice": "47.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC",
+      "description": "Unsere Zimmer sind im gemütlichen Tiroler-Stil \neingerichtet und haben einen Ausblick, den Sie nicht so schnell vergessen werden. \n\n\nAusgestattet sind alle Zimmer mit Internet, Wlan, Telefon, DU, WC, teilweise mit Balkon, Kabel-TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "47.50",
+          "maxPrice": "47.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

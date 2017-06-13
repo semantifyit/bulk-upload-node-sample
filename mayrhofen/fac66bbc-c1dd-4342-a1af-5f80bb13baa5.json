@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dFAC66BBC-C1DD-4342-A1AF-5F80BB13BAA5"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 409",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 2424",
+    "email": "annemarie.kreidl@gmx.at"
+  },
+  "name": "Kreidl Annemarie",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Neues Haus am Ortsrand von Ramsau"
+    },
+    {
+      "@language": "de",
+      "@value": "Haustiere nicht Erlaubt"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: 13.00 Uhr\nCheck out: 10.00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "New house in Ramsau.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Pets are not allowed"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 13.00 Uhr\nCheck out: 10.00 Uhr"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b0b2d4e4-2a4a-4242-9d19-b7b156659df0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2041941148177",
+    "longitude": "11.8773150444031"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Küche komplett ausgestattet mit Spülmaschine, 4-Plattenherd mit Backrohr, Kühlschrank und Gefrierfach, Wasserkocher, Kaffeemaschine, Geschirr;\nSitzecke, Sat-TV, Terrasse, Garderobe, Dusche und WC getrennt;\n1 Doppelzimmer und 1 Zimmer für 1 Person mit Ausziehcouch;"
+        },
+        {
+          "@language": "en",
+          "@value": "Fully equipped kitchen with dishwasher, 4-burner stove with oven, fridge and freezer, kettle, coffee maker, dishes;\nSeating areas, satellite TV, terrace, cloakroom, shower and separate WC;\n1 double room and 1 room with sofa bed for 1 person;"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet, 2 спальни"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

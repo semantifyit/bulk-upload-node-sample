@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "IceCreamShop",
+    "CafeOrCoffeeShop"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Bistro - Coffee New York"
+    },
+    {
+      "@language": "de",
+      "@value": "Bistro - Coffee New York"
+    },
+    {
+      "@language": "ru",
+      "@value": "Bistro - Coffee New York"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1678877",
+    "longitude": "11.8632566"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 412",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 7338833"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Gegenüber des Gemeindeamtes in Mayrhofen."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd95de52-62c1-4eac-b2af-46cb4281ce9b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo MHF-HIPPACH"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo MHF-HIPPACH"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo MHF-HIPPACH"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

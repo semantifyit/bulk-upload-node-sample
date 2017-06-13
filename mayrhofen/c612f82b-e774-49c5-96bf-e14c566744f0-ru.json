@@ -1,0 +1,153 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dC612F82B-E774-49C5-96BF-E14C566744F0"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 378",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4056",
+    "email": "appart@a1.net",
+    "url": "http://www.zillertal.at/en/book/unterkunft/detail/430015395.html"
+  },
+  "name": "Gruber Barbara",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9adf1fc2-d463-47df-b47b-9965b36eb005/99/image.jpg",
+      "caption": "Sommefoto 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/42558fe2-b36c-4da3-bc3f-b5d2287e5813/99/image.jpg",
+      "caption": "Winterfoto 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a9584a1-1922-4c4a-951a-9f19ae100711/99/image.jpg",
+      "caption": "Hauseingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12120978-0c49-461d-bd5d-0699d963b93a/99/image.jpg",
+      "caption": "Essbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/82782007-d058-4d06-ac61-923fa03acaca/99/image.jpg",
+      "caption": "Wohnzimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2970c579-c746-4a05-a367-f7d65db09aa4/99/image.jpg",
+      "caption": "Wohnzimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a4bab945-5908-4c9a-bbf5-b8a8a4746ccb/99/image.jpg",
+      "caption": "Ramsau bei Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a4e3d28b-1fe0-4d3f-b08d-3b8f7a57100e/99/image.jpg",
+      "caption": "Ramsau im Morgenlicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf89c90b-5a43-4752-8aa7-294a779331d2/99/image.jpg",
+      "caption": "Ramsauer Kirchl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d80a225c-6fa7-4bb7-b8d2-fce23c0cb53e/99/image.jpg",
+      "caption": "Oberer Gerlossee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5f651e19-437c-4660-90da-f7b82b008471/99/image.jpg",
+      "caption": "Torseen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/88a9b7cd-245a-4dbb-91e6-a1f7996e60ff/99/image.jpg",
+      "caption": "Schwarzsee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/33e7b4be-4dd9-4871-952a-e16f173f6ea4/99/image.jpg",
+      "caption": "Vallruck im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8ff86a83-5174-4e5c-ae16-a2e84835958d/99/image.jpg",
+      "caption": "Granatkapelle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2342c2a7-c3f6-4a78-b6dd-368644915d89/99/image.jpg",
+      "caption": "Winter im Zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/010fdc90-2de7-4b3e-a9aa-f0b02f9fe302/99/image.jpg",
+      "caption": "Sommerurlaub macht Spaß"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2020838963177",
+    "longitude": "11.8764835596085"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

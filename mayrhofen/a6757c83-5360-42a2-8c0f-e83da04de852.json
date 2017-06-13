@@ -1,0 +1,95 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ToyStore"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Glaserei, Spielwaren Mikesch"
+    },
+    {
+      "@language": "de",
+      "@value": "Glaserei, Spielwaren Mikesch"
+    },
+    {
+      "@language": "ru",
+      "@value": "Glaserei, Spielwaren Mikesch"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1626631534606",
+    "longitude": "11.8609696626663"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Haupstraße 482",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62705",
+    "faxNumber": "(0043) 05285 627054",
+    "email": "firma@mikesch.co.at",
+    "url": "http://www.mikesch.co.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/559971db-0171-455a-8611-8100eb254631/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Mikesch Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Mikesch Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mikesch Logo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6148f3b6-45c2-4fdd-8fc1-2fb2bb12693c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Wappen"
+        },
+        {
+          "@language": "de",
+          "@value": "Wappen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wappen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dbb8381a-b6a5-4039-970c-659da67c7001/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Geschäft"
+        },
+        {
+          "@language": "de",
+          "@value": "Geschäft"
+        },
+        {
+          "@language": "ru",
+          "@value": "Geschäft"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.mikesch.co.at"
+  ]
+}

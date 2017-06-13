@@ -1,0 +1,170 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Eggeweg 662",
+    "addressLocality": "Hainzenberg",
+    "postalCode": "6278",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3458",
+    "email": "j.luxner@gmx.at"
+  },
+  "name": "Gästehaus Luxner",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Gästehaus Luxner, liegt am Ortsrand von Ramsau im Ortsteil Hainzenberg."
+    },
+    {
+      "@language": "en",
+      "@value": "Our house Luxner In Haizenberg, a part of Ramsau.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fecd14b5-2321-4331-8af0-f81dc92230e4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Luxner Hainzenberg - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Luxner Hainzenberg - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Luxner Hainzenberg - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/39f3bc68-b8ad-4116-87a4-ee07ce408c42/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Luxner Hainzenberg - Aussicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Luxner Hainzenberg - Aussicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Luxner Hainzenberg - Aussicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/845b748e-2a87-42b7-a3b1-61d8fe24506b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Luxner Hainzenberg"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Luxner Hainzenberg"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Luxner Hainzenberg"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b83fdb23-6a98-4c99-8929-8430d45ae732/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Luxner Hainzenberg - Obst"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Luxner Hainzenberg - Obst"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Luxner Hainzenberg - Obst"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2109791643218",
+    "longitude": "11.8764868116394"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wir verfügen über mehrere Doppelzimmer mit Balkon und bieten Frühstück an. \n\nUnsere Gäste haben die Möglichkeit die komplett ausgestattete Wohnküche im Haus mit zu benützen. \n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "We dispose of several double rooms with balcony and offer breakfast.\nOur guests have to use the possibility the completely equipped kitchen-living room in the house with. \n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Küchenbenützung"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

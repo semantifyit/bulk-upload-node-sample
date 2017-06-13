@@ -1,0 +1,120 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d7B5723E9-9897-4A19-826D-7A565F22557A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Perlhäusl",
+    "streetAddress": "Schwendberg 471",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 51284",
+    "faxNumber": "0043 5282 51284",
+    "email": "ClaudiaG@gmx.at"
+  },
+  "name": "Perlhäusl",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ferienhaus an der Zillertaler Höhenstraße, der Skibus führt direkt ins Skigebiet Ski Zillertal 3000 (Schafkopf Umkehrplatz)\nFerienhaus für max. 8 Personen, Küche, Abstellraum, 2 Badezimmer, 3 Doppelzimmer - eines mit Stockbett, Balkon, Terrasse und großer Garten, einfache Einrichtung; sehr sonnig und ruhig gelegen; Haustiere erlaubt; "
+    },
+    {
+      "@language": "en",
+      "@value": "holiday house situated on the Zillertaler highway, the skibus drives directly into the skiing are Ski Zillertal 3000"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "18"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b0b05910-7d09-4ce3-89e8-e7d88a2b98af/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Perlhäusl Schwendberg"
+        },
+        {
+          "@language": "en",
+          "@value": "Perlhäusl Schwendberg"
+        },
+        {
+          "@language": "ru",
+          "@value": "Perlhäusl Schwendberg"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2016538242197",
+    "longitude": "11.8481540679932"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus, Bad, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Holiday home, bath, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Дом отдыха, ванна, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus für max. 8 Personen, Küche, Abstellraum, 2 Badezimmer, 3 Doppelzimmer - eines mit Stockbett, Balkon, Terrasse und großer Garten, einfache Einrichtung; sehr sonnig und ruhig gelegen; Haustiere erlaubt; "
+        },
+        {
+          "@language": "en",
+          "@value": "kitchen, storage, 2 bathrooms, 3 doublerooms, balcony, simple furniture"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienhaus/3 Schlafräume/Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "holiday house/3 bedrooms/bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Дом отдыха, ванна, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

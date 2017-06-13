@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment"
+  ],
+  "name": "Arena Night Club",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1637863",
+    "longitude": "11.8610047"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Arena Night Club",
+    "streetAddress": "Hauptstrasse 470",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 67 05 ",
+    "faxNumber": "(0043) 5285 63477"
+  },
+  "description": "FUN \u0026 SPA HOTEL STRASS with its locations – “Arena Club Mayrhofen”, “Sports Lounge” and après ski “Ice Bar” are proud to announce once again to be Events partner with OUTGOING and SNOWBOMBING. Erich Roscher together with Gareth Cooper head of SNOWBOMBING are looking forward in presenting top events for winter 2012/13. The daily Action Program under www.outgoing.co.uk with international DJ’S and LIVE ACTS at the reputed “Arena Night Club”, at the NO.1 après ski “Ice Bar”, and the totally new renovated “Sports Lounge”.\n\nReported by International Press as “Events of special class”, “The greatest show on Snow”, “Not to be missed Alpine Events”.\nMayrhofen, FUN \u0026 SPA HOTEL STRASS with SNOWBOMBING promise another winter of GET HIGH \u0026 FREE FALL just like our Felix Baumgartner – so have some great weeks and let the party begin.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/739328b7-a755-402b-801d-a64f601916a1/99/image.png",
+      "caption": "LOGO"
+    }
+  ]
+}

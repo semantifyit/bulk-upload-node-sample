@@ -1,0 +1,697 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel",
+    "Hostel"
+  ],
+  "url": [
+    "www.grawandhuette.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Grawandhütte ",
+    "streetAddress": "Im Zemmgrund 279",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5286 5213",
+    "email": "info@grawandhuette.at",
+    "url": "http://www.grawandhuette.at"
+  },
+  "name": "Grawandhütte",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "\nLass dich verzaubern am Kraftplatz mit Herz! Entdecke die Vielfalt der Natur,, hol dir die Kraft der Berge und genieße die schönsten Tage im Jahr in idyllischem Ambiente. Nicht zu Hause und doch daheim....in der GrawandHütte im Zemmgrund!\nACHTUNG! Die GrawandHütte ist nur zu Fuß erreichbar!"
+    },
+    {
+      "@language": "de",
+      "@value": "\nAnzahlung bei Buchung 20% vom Zimmerpreis. Bei Nichterscheinen 100% Stornogebühr fällig. Kostenlose Parkmöglichkeiten beim Naturparkhaus in Ginzling, von dort aus mit dem Bus bis Breitlahner, von dort aus ca. 90min. Fussmarsch zur GrawandHütte."
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: 15.00 Uhr\nCheck out: 10.00 Uhr"
+    },
+    {
+      "@language": "de",
+      "@value": "Hüttenurlaub Mayrhofen, Hüttenurlaub Zillertal, Familienurlaub Zillertal, Familienurlaub Mayrhofen"
+    },
+    {
+      "@language": "en",
+      "@value": "\nBe enchanted and rejuvenated at this unique location! Discover the diversity of nature, draw strength from the mountains and enjoy the best days of the year in idyllic surroundings. The GrawandHütte in the Zemm Valley is a true home from home.\nATTENTION! To the GrawandHut there is a walking distance of 90 Minutes!"
+    },
+    {
+      "@language": "en",
+      "@value": "Acconto is 20%. For no show we charge 100%."
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 15.00 \nCheck out: 10.00 "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97380c2a-340f-44fb-8d76-dc3007482cf1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Grawandhuette Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Grawandhuette Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Grawandhuette Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4844a3c2-9bf2-4981-8418-18223d658b49/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Logo_grawand"
+        },
+        {
+          "@language": "en",
+          "@value": "Logo_grawand"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo_grawand"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/020a752c-2524-4524-805a-33b9de5550c7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ausblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Ausblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ausblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a540181b-8fc7-4edb-847e-11c0f6820ea0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Herzen"
+        },
+        {
+          "@language": "en",
+          "@value": "Herzen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Herzen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/282c39aa-e822-4273-82a2-ce53b6756f68/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Impressionen"
+        },
+        {
+          "@language": "en",
+          "@value": "Impressionen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Impressionen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/44b28b4a-6b82-4c93-add5-714c133cfceb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Impressionen2"
+        },
+        {
+          "@language": "en",
+          "@value": "Impressionen2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Impressionen2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a45c97cc-53f6-453d-8325-79e9b4507960/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Jagastube"
+        },
+        {
+          "@language": "en",
+          "@value": "Jagastube"
+        },
+        {
+          "@language": "ru",
+          "@value": "Jagastube"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/646e3b0e-c710-4841-a982-fd92b99c7d10/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Jause"
+        },
+        {
+          "@language": "en",
+          "@value": "Jause"
+        },
+        {
+          "@language": "ru",
+          "@value": "Jause"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/25049fe7-638b-4aeb-b75a-c1e6311c92a4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Stube"
+        },
+        {
+          "@language": "en",
+          "@value": "Stube"
+        },
+        {
+          "@language": "ru",
+          "@value": "Stube"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/163c78e3-f094-4afe-91d0-15775da871f7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Frühling"
+        },
+        {
+          "@language": "en",
+          "@value": "Frühling"
+        },
+        {
+          "@language": "ru",
+          "@value": "Frühling"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca480723-f35c-4f5e-a1ad-f82e0d045adc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Frühling2"
+        },
+        {
+          "@language": "en",
+          "@value": "Frühling2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Frühling2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b80902c0-866b-4ff1-bf87-cadacd8d3d25/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Panorama"
+        },
+        {
+          "@language": "en",
+          "@value": "Panorama"
+        },
+        {
+          "@language": "ru",
+          "@value": "Panorama"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd2feae5-085c-4fe4-84f6-528cd2e91c25/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Zemmgrund"
+        },
+        {
+          "@language": "en",
+          "@value": "Zemmgrund"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zemmgrund"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dedc56dc-6aa8-4778-b5cf-7a2e9422a224/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommeransicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommeransicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommeransicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ce70f58b-b74b-4876-8520-39decb7bf4c2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "GrawandHütte"
+        },
+        {
+          "@language": "en",
+          "@value": "GrawandHütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "GrawandHütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c82f883c-9644-4519-9e7c-429f68ee211d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Herbstlicher Almboden"
+        },
+        {
+          "@language": "en",
+          "@value": "Herbstlicher Almboden"
+        },
+        {
+          "@language": "ru",
+          "@value": "Herbstlicher Almboden"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af543ca2-89cc-4151-801c-d3332335b91e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Lass dich verzaubern!"
+        },
+        {
+          "@language": "en",
+          "@value": "Lass dich verzaubern!"
+        },
+        {
+          "@language": "ru",
+          "@value": "Lass dich verzaubern!"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d8b101d-2443-4c22-b278-cc59b9e7b38e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hütte mit Herz"
+        },
+        {
+          "@language": "en",
+          "@value": "Hütte mit Herz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hütte mit Herz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9d8a9b5d-7f4c-453e-9231-765be0d0fbe9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wasserfälle"
+        },
+        {
+          "@language": "en",
+          "@value": "Wasserfälle"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wasserfälle"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0354544466155",
+    "longitude": "11.7754684124756"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohlfühlen inmitten der herrlichen Natur.\nOb für Familien oder Freundinnenausflug oder Männerurlaub - die Dreibettzimmer sind geräumig und bieten genügend Platz, um sich im Urlaub so richtig wohlzufühlen.\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Whether you need more space for your family, a group of friends or a men\u0027s holiday (with single beds!), our triple or quad rooms are spacious and offer enough room for everyone to be comfortable."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Dreibettzimmer"
+            },
+            {
+              "@language": "en",
+              "@value": "Triple room"
+            },
+            {
+              "@language": "ru",
+              "@value": "3-местный номер"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ein Ort zum Träumen aus Zirbenholz.\nEin kuscheliges Ambiente erwartet dich in unseren liebevollen Doppelzimmern. Das Herzerlzimmer für Verliebte und frisch Vermählte lässt die Herzen höher schlagen, das Wildererzimmer zeigt geheimnisvolle Bilder aus längst vergangenen Tagen. Das Interieur ist im ländlichen Stil gehalten.\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Cosy atmosphere of a trditionally-decorated country bedroom - like the \"Herzerlzimmer\" for couples in love or the \"Wildererzimmer\". Try it!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, Etagentoilette, Bergseite"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, shared toilet, facing the mountains"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, общий туалет, с видом на горы"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Unser Peter-Habeler Zimmer ist liebevoll mit Bildern des Extrembergsteigers und Mount-Everest Bezwingers dekoriert. Das Zirbenholz lässt einen wohlig angenehmen Schlaf voraussetzen.\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "A place to dream. Guests in our Peter-Habeler-Room enjoy the cosy atmosphere of a traditionally-decorated country bedroom."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer"
+            },
+            {
+              "@language": "en",
+              "@value": "Single room"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohlfühlen inmitten der herrlichen Natur.\nOb für Familien oder Freundinnenausflug oder Männerurlaub - die Dreibettzimmer sind geräumig und bieten genügend Platz, um sich im Urlaub so richtig wohlzufühlen.\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Whether you need more space for your family, a group of friends or a men\u0027s holiday (with single beds!), our triple or quad rooms are spacious and offer enough room for everyone to be comfortable."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Dreibettzimmer online Buchbar"
+            },
+            {
+              "@language": "en",
+              "@value": "Triple room"
+            },
+            {
+              "@language": "ru",
+              "@value": "3-местный номер"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

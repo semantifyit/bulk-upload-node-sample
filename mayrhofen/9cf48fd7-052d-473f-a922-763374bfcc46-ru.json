@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Schuh- und Sportmode Kaplenig",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1629476476624",
+    "longitude": "11.8610072135925"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport2000 Kaplenig",
+    "streetAddress": "Hauptstraße 479",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62286",
+    "faxNumber": "0043 5285 62286",
+    "email": "kaplenig@sport2000.at",
+    "url": "http://www.shoeandsportkaplenig.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ed21caa0-1ea8-44d9-9346-cf87811d9ede/99/image.bmp",
+      "caption": "Schuh- und Sportmode Kaplenig"
+    }
+  ],
+  "url": [
+    "http://www.shoeandsportkaplenig.com"
+  ]
+}

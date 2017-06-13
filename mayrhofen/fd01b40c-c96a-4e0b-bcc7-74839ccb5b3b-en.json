@@ -1,0 +1,56 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": "Berghof-Gastgarten",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Hotel Berghof",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Hans Jörg",
+      "familyName": "Moigg"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Durster Straße 220",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "0043 5285 62254",
+      "faxNumber": "0043 5285 62254 90",
+      "email": "info@berghof.cc",
+      "url": "http://www.berghof.cc"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Hotel Berghof",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Durster Straße 220",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "0043 5285 62254",
+      "faxNumber": "0043 5285 62254 90",
+      "email": "info@berghof.cc",
+      "url": "http://www.berghof.cc"
+    }
+  },
+  "description": "Our traditional Berghof-Gastgarten is open daily from 8th June till 10th September 2017.\n\nOur Berghof-guests on half board can choose to dine á la carte in the garden at no extra charge.\n\nStart: 5.00 p.m. till 11.00 p.m.\n\nWeekly program:\n\nMonday: Die Finkenberger\nTuesday: Zillertaler Nachtschwärmer\nWednesday: Mario K.\nThursday: Rita \u0026 Andreas\nFriday: Original Zillertaler\nSaturday: Collies\nSunday: Da Zillertaler und die Geigerin\n\nSubject to change!\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ea7fb89d-b5ae-4eda-a650-cb697bd07bde/99/image.jpg",
+      "caption": "Berghof"
+    }
+  ],
+  "url": [
+    "http://www.berghof.cc"
+  ],
+  "startDate": "2017-06-08T17:00:00",
+  "endDate": "2017-09-10"
+}

@@ -1,0 +1,357 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel",
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.gasthofthanner.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d92A501A9-6D42-4040-BD25-92B3DAF5E3FF"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Thanner",
+    "streetAddress": "Brandberg 8",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62376",
+    "faxNumber": "0043 5285 63869",
+    "email": "info@gasthofthanner.at",
+    "url": "http://www.gasthofthanner.at"
+  },
+  "name": "Gasthof Thanner",
+  "description": [
+    "Sonnige, ruhige Lage im idyllischen Ferienort Brandberg (1.092 m), 6 km von Mayrhofen entfernt, Finnische Sauna, Dampfbad, Infrarotkabine, Solarium, Fitnessraum, Kinderspielraum, Tischtennisraum, gemütliche Stuben, großer Speisesaal, Hausbar, Lift, Sonnenterrasse, Kinderspielplatz, kostenloser Parkplatz am Haus, Postbus u. Skibushaltestelle beim Haus;\nSpezialangebote: Fischen in den hauseigenen Fischgewässern im Zillergrund (nur für\nHausgäste), Pauschalwochen, Unterhaltung: Musikveranstaltungen, Diavorträge",
+    "Im Zimmerpreis enthalten ist das Frühstücksbuffet, bei Halbpension ein 3-Gang Wahlmenü mit Salatbuffet, Fitnessraum und die Benützung der hauseigenen Mountainbikeverleihs. Im Winter freie Benützung von Sauna und Dampfbad. Ebenfalls kostenlos für Hausgäste sind Fischerkarten für den Zillergrund ab einer Aufenthaltsdauer von einer Woche.\nExklusive: Solarium 4,- Euro, Internet-Terminal mit Münzeinwurf;\nKinderermäßigung auf Anfrage!\nZuschlag für Kurzaufenthalt bis zu 3 Tagen.",
+    "Check-In: 14:00 Uhr/Check-Out: 10:00 Uhr\nVom Europahaus Mayrhofen (Tourismusverband) fahren Sie mit dem PKW wieder zum Kreisverkehr, Richtung talauswärts ca. 400 m, biegen rechts ab, durch den Brandberg-Tunnel (2,3 km lang), nach dem Tunnel biegen Sie rechts ab und folgen der Bergstrasse bis zu uns nach Brandberg."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "130"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ce5ea105-c6cb-4420-b361-755cc6c58dcc/99/image.jpg",
+      "caption": "Gasthof Thanner - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7c8eee5-b6a5-4590-a97a-4ad4a6474f2f/99/image.jpg",
+      "caption": "Gasthof Thanner - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a844066c-63fa-4dbc-a25c-7fc7de0e1c38/99/image.jpg",
+      "caption": "Gasthof Thanner - beide Häuser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f53ec440-3e55-4374-aa77-84c298b2c677/99/image.jpg",
+      "caption": "Gasthof Thanner - Zweites Haus "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f60e41c7-1713-4654-a371-3421d27c14ea/99/image.jpg",
+      "caption": "Gasthof Thanner - von der Seite "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4b9e6261-b7f4-4366-98c7-2f3f871dc5a2/99/image.jpg",
+      "caption": "Gasthof Thanner - Spielplatz "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ffb9245-5f33-42c4-9174-2678cc5eeeb7/99/image.jpg",
+      "caption": "Gasthof Thanner - Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f68e128-2809-4dd6-bfe2-8eabdd91984a/99/image.jpg",
+      "caption": "Gasthof Thanner - Terrasse 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/edadefc8-d6c1-4540-950b-7512105ac860/99/image.jpg",
+      "caption": "Gasthof Thanner - Carport"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94bf87ae-0c8a-4432-84d7-73d5dbadd69c/99/image.jpg",
+      "caption": "Gasthof Thanner - Carport 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/39ca2a55-33f2-4720-a687-6cf132c3ad6e/99/image.jpg",
+      "caption": "Kopie von Hotel Sommer rgb"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1e30a374-72c2-4576-a9b7-b2d293b51cf5/99/image.jpg",
+      "caption": "Gasthof Thanner Brandberg - Tisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/11797dd0-4ba9-4a33-8548-a04e76522b78/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/05ca4c66-c9eb-49e3-8567-49f985a99daa/99/image.jpg",
+      "caption": "Gasthof Thanner Brandberg - Fischer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/19ebdf2d-d90f-42dd-8075-d3bf9b396a28/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e4d41e47-d4d2-49e4-9477-a675a2360206/99/image.jpg",
+      "caption": "Gasthof Thanner Brandberg - Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1f609e08-19b9-44e2-a303-bd223ed870ff/99/image.jpg",
+      "caption": "Gasthof Thanner Brandberg - Zimmer I"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/03834e3d-69d9-4599-86aa-ecf149bbf8d7/99/image.jpg",
+      "caption": "Gasthof Thanner Brandberg - Zimmer II"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1e7e3a43-0759-48ca-97b3-df02808c63f0/99/image.jpg",
+      "caption": "Gasthof Thanner Brandberg - Haflinger"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7b433f76-f0d7-4fbf-8297-f91dc30b0a2c/99/image.jpg",
+      "caption": "naturpark_sommer_schwarzensteinmoor-foto_naturpark"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c39773f0-2b9e-4ba5-a896-e6ba23522b92/99/image.jpg",
+      "caption": "Sommer_Gipfel_Panorama ("
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1fb81d42-91a1-4798-9a74-2fe94d6eec75/99/image.jpg",
+      "caption": "Gasthof Thanner Brandberg - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2d4bb14f-7fa6-4599-9034-58d934bf0fa7/99/image.jpg",
+      "caption": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d080ac9-a041-4ccc-8ae9-50439a6ed0a3/99/image.jpg",
+      "caption": "Gasthof Thanner Brandberg - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8dfdbc50-3f80-4c81-985c-eaa93f421c7c/99/image.jpg",
+      "caption": "naturpark_sommer_sulzbodenalm-foto_naturpark_zille"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/312c210c-e07b-4715-8c86-ada7f5b8b6be/99/image.jpg",
+      "caption": "Kopie von Kopie von Hotel Sommer rgb"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.16761747616",
+    "longitude": "11.900255965651"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Gemütliches, geräumiges Doppelzimmer mit DU/WC, Balkon, Telefon, Safe, Internet-Anschluss und SAT-TV, mit herrlichem Ausblick auf die Zillertaler Bergwelt",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer zur Einzelbenützung Haupthaus",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "67.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Schönes, komplett neues Doppelzimmer im Gästehaus (Rainerhaus) gleich nebenan, mit\nDusche/WC, Haar-Fön, Balkon, Safe, Sat.-TV und W-Lan ausgestattet und mit herrlichem Ausblick auf die Zillertaler Bergwelt.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortdoppelzimmer DU/WC - Nebenhaus",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche oder Bad, WC",
+      "description": "Gemütliches, geräumiges Dreibettzimmer mit DU/WC, Balkon, Telefon, Safe, Internet-Anschluss und SAT-TV, mit herrlichem Ausblick auf die Zillertaler Bergwelt",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortdreibettzimmer Bad oder DU/WC - Haupthaus",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Gemütliches, geräumiges Doppelzimmer mit DU/WC, Balkon, Telefon, Safe, Internet-Anschluss und SAT-TV, mit herrlichem Ausblick auf die Zillertaler Bergwelt",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortdoppelzimmer Bad oder DU/WC - Haupthaus",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche, WC",
+      "description": "Schönes, neu eingerichtetes Familienzimmer mit 2 getrennten Schlafräumen, mit Dusche, WC, Balkon, Safe und Sat.-TV ausgestattet und mit herrlichem Ausblick auf die Zillertaler Bergwelt.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer - Haupthaus",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

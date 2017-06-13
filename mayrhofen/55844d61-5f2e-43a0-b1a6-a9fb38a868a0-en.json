@@ -1,0 +1,172 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Steglach 132",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4381082",
+    "email": "josefdornauer@aon.at"
+  },
+  "name": "Ferienwohnung Sepp",
+  "description": [
+    "Our house is in \"Steglach\" on the Brandberg. Mayrhofen is ca. 2 km away.\n\n",
+    "Prices are incl. all taxes",
+    "Check in: 14.00 hrs\nCheck out:  10.00 hrs\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "24"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/759efc94-2260-4102-8534-a6c02ab777cd/99/image.jpg",
+      "caption": "Fewo Sepp Brandberg - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0732391-aa97-40b9-b410-7fff25db05f7/99/image.jpg",
+      "caption": "Fewo Sepp - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f97ea0d1-ebe1-45ae-b2ac-35e7a8823d50/99/image.jpg",
+      "caption": "Fewo Sepp - Küche2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cdb1bb85-6899-417d-862c-6249abcef23d/99/image.jpg",
+      "caption": "Fewo Sepp - Esstisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/33f4854f-7ea6-442c-b947-ebaa74ed7ff8/99/image.jpg",
+      "caption": "Fewo Sepp - Flur"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa916f02-80e6-4e55-b80b-1f856c48cfa2/99/image.jpg",
+      "caption": "Fewo Sepp - Flur1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df7c8872-e998-4f38-83f3-b472d30b4674/99/image.jpg",
+      "caption": "Fewo Sepp - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c37fb60-a67b-44a4-bdc6-fc4cf575263e/99/image.jpg",
+      "caption": "Fewo Sepp - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf1a7674-0a3c-4533-9f99-2c65b5bff6ef/99/image.jpg",
+      "caption": "Fewo Sepp - zweites Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7cef3bd7-3890-49cf-82c5-900d757cedc7/99/image.jpg",
+      "caption": "Bergsteigen © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/513d1924-4b3e-49f4-861e-36d8928c0c93/99/image.jpg",
+      "caption": "Gipfel © Paul Sürth"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a00ed77e-3034-4738-9764-3e756c437065/99/image.jpg",
+      "caption": "Spaß im Schnee © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/948aa2ef-c3bb-49dd-a81b-23087740a801/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ac9b466-8774-4c18-9379-10c5a05ede2c/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/083f57fa-3b15-4556-8165-4d681e77ba06/99/image.jpg",
+      "caption": "Klettern © Tom Malecha"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1586443",
+    "longitude": "11.8784814000001"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+      "description": "Our holiday apartment was completely anew redeveloped in spring, 2015 and was furnished. A spacious, completely equipped kitchen-living room, two double bedrooms (of it one as a 3-bed room are available to you possibly) as well as a bath / WC. In the kitchen you find every comfort like microwave, dishwasher, water cooker, cooker, fridge etc. Also there is a big Sat TV and it a W-Lan net is available to you. The bedrooms are friendly and equipped without carpeted floors. Also there is in the cellar a ski and bicycle storeroom as well as a ski shoe dryer. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "84.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

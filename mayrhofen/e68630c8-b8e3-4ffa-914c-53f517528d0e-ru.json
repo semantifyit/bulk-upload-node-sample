@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Penken - Der Actionberg - Sommer",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1633023",
+    "longitude": "11.860612"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Penkenbahn",
+    "streetAddress": "Hauptstraße 472",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 62277",
+    "faxNumber": "+43 5285 62277-161",
+    "email": "info@mayrhofner-bergbahnen.com",
+    "url": "http://www.mayrhofner-bergbahnen.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c17d4bef-9ff1-44b0-800e-ad553a77118f/99/image.jpg",
+      "caption": "Penken"
+    }
+  ],
+  "url": [
+    "http://www.mayrhofner-bergbahnen.com"
+  ]
+}

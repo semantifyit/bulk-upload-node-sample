@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Café Alpenland",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.100095817356",
+    "longitude": "11.8087095022202"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenland, Cafe",
+    "streetAddress": "Ginzling 246",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 5286 5209",
+    "faxNumber": "0043 5286 5209",
+    "email": "cafe.alpenland@aon.at",
+    "url": "http://www.ginzling-dornauberg.at/neu/html/gastronomie/alpenland/alpenland.htm"
+  },
+  "description": "In Ortsmitte gelegen, ruhige Lage, bieten wir Einkehr in unseren gemütlichen Gastlokalen und Aufenthaltsräumen im Tiroler Stil. Sonnenterrasse mit Blick in die herrliche Zillertaler Bergwelt. Eigene Hauskonditorei und reiche Auswahl an Imbissen und Getränken zu günstigen Preisen. Unser Haus liegt zentral für viele Hütten- und Bergwanderungen, auch nahe der Busverbindungen nach Mayrhofen und Schlegeisstausee.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/90a525b2-eb6a-4356-8816-d89d72d9596c/99/image.jpg",
+      "caption": "Alpenland - Cafe"
+    }
+  ],
+  "url": [
+    "http://www.ginzling-dornauberg.at/neu/html/gastronomie/alpenland/alpenland.htm"
+  ]
+}

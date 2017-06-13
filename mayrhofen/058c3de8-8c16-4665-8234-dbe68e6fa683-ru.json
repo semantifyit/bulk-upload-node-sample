@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ClothingStore",
+    "Store"
+  ],
+  "name": "Anna Kröll Tracht \u0026 Mode",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.164977",
+    "longitude": "11.8623815999999"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tracht \u0026 Mode",
+    "streetAddress": "Hauptstraße 453",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62383"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dde82908-9ad8-4315-a245-eba716e9165f/99/image.png",
+      "caption": "Tracht \u0026 Mode"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

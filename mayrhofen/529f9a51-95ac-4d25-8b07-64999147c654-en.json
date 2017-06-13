@@ -1,0 +1,56 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "GroceryStore"
+  ],
+  "name": "Hotel Zillergrund",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1590667236057",
+    "longitude": "11.8809843063354"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienhotel Zillergrund GmbH",
+    "streetAddress": "Zillergrund 903",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62377",
+    "faxNumber": "0043 5285 623776",
+    "email": "info@zillergrund.at",
+    "url": "http://www.zillergrund.at"
+  },
+  "description": "For five generations the hotel has been lovingly run by the Pfister family with an eye to innovation and quality. \n\nAt the forefront is the vast holiday offering, whether relaxing amidst the unique landscape of the Zillergrund or in the spa area, or enjoying our culinary delights and the many sporting activities.  ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4150427d-d726-4db7-8444-9f0e0b444f7a/99/image.jpg",
+      "caption": "Zillergrund"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/565abb2b-62cf-4d2c-92ee-6f46fd3b1daf/99/image.jpg",
+      "caption": "Hallenbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9bc88fe0-27ba-49d6-a733-0e01ee35dc71/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a7b60c14-4c5d-4c1e-a4cb-b7e053277e58/99/image.jpg",
+      "caption": "Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1d903147-dd7b-4df2-bcda-582fa8c81cd6/99/image.jpg",
+      "caption": "Hotel Zillergrund"
+    }
+  ],
+  "url": [
+    "http://www.zillergrund.at"
+  ]
+}
