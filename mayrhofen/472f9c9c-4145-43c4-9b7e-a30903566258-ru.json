@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub"
+  ],
+  "name": "Passage",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1694103619047",
+    "longitude": "11.8655347824097"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Passage",
+    "streetAddress": "Durster Strasse 220 ",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285620 83"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f3d1b7e7-3147-4515-8b29-c1f6243b3459/99/image.jpg",
+      "caption": "Passage"
+    }
+  ]
+}

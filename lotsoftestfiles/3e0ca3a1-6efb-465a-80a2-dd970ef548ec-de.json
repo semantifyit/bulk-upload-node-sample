@@ -1,0 +1,188 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.kostner.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d3E0CA3A1-6EFB-465A-80A2-DD970EF548EC"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kostner GmbH",
+    "streetAddress": "Hauptstraße 414",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62215",
+    "faxNumber": "0043 5285 622154",
+    "email": "fw@kostner.at",
+    "url": "http://www.kostner.at"
+  },
+  "name": "Kostner GmbH",
+  "description": [
+    "Erholsame Urlaubstage zu jeder Jahreszeit. Unser Haus liegt direkt im Ortszentrum von Mayrhofen. Sonnig und zentral gelegen ist dies der ideale Ausgangspunkt für das Skivergnügen im Winter oder dem Wanderurlaub im Sommer. In unseren drei Apartments bieten wir Ihnen eine familienfreundliche und gemütliche Atmosphäre. \nLassen Sie sich vom Duft unserer ofenfrischen Bäckereiwaren wecken und genießen Sie unsere unzähligen Frühstücks-, Mittags- oder Snackspezialitäten à la KOSTNER in unserem Café im Parterre. \nAls unsere HAUSGÄSTE erhalten Sie 10 % ERMÄSSIGUNG auf alle Konsumationen in unserem Café oder Geschäft.",
+    "*Großer Kinderspielplatz mit kleinen Gokarts, Kinderspielraum im Cafe, \n*ein Parkplatz  pro Apartment kostenlos, Gratis WLan Zugang\n*Bahnhof- und Skibushaltestelle in unmittelbarer Nähe\n* Talstation \"Penkenbahn\" und \"Ahornbahn zu Fuß erreichbar!",
+    "Check-In: ab 15:00 Uhr, Check-Out: bis 10:00 Uhr. Nehmen Sie die Einfahrt Mitte und fahren sie bis zum Postamt vor. \nVis a Vis befindet sich die Einfahrt zum Parkplatz. Pro Apartment ist ein kostenloser Parkplatz für Sie reserviert."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "25"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e0bc0188-d98f-4f68-a000-4e7a604a80bc/99/image.jpg",
+      "caption": "Kostner Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d3f679a2-993b-46e7-86d4-b01465cf29e0/99/image.jpg",
+      "caption": "Kostner Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d73fc0d1-76f3-4202-b382-7e39815c30ca/99/image.jpg",
+      "caption": "Kostner Mayrhofen - Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6caa0822-500e-43a4-b7a1-eceafacadd58/99/image.jpg",
+      "caption": "Brotkorb"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1676196998572",
+    "longitude": "11.8630295991898"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Die Ferienwohnung \"Brezel\" http://kostner.at/brezel.htm mit 3 Schlafzimmern a 3 Betten, einmal Bad/WC einmal Dusche/WC, Wohnraum mit Kochplatz und Eckbankgruppe;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment \"Brezel\"",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "4"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "HSV Familien Package",
+          "description": "Unser Package beinhaltet:\n\n*7 Übernachtungen\n* inkl. Z-Card\n* HSV Snack beim Fanabend in Hippach\n* Eintritt zum Testspiel in Hippach\n* 3 Stundenkarte für das Hallenbad Mayrhofen",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "172.00",
+          "maxPrice": "172.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "172.00",
+          "maxPrice": "172.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "172.00",
+          "maxPrice": "172.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "201.00",
+          "maxPrice": "201.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "220.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "880.00",
+          "maxPrice": "880.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Ferienwohnung \"Gugelhupf\" u. \"Kipferl\" mit zwei Schlafzimmern, insgesamt 5 Betten ein Bad/WC eine Dusche/WC, großer Wohnraum mit Eckbankgruppe, Kochplatz und eigenem Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment \"Guglhupf\"",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Die Ferienwohnung \"Kipferl\" mit 2 Schlafzimmern (3 Betten bzw. 4 Betten) 2 x Bad/WC, großer Wohnraum, Kochplatz mit Eckbank, eigenem Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment \"Kipferl\"",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Ski-Sport Hanzmann",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1596246733617",
+    "longitude": "11.8632830268753"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ski Sport Hanzmann",
+    "streetAddress": "Ahornstraße 865",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63116",
+    "email": "info@sport-hanzmann.at",
+    "url": "http://www.sport-hanzmann.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f0958f6-e09f-4562-8d1c-1c13a4b6a560/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.sport-hanzmann.at"
+  ]
+}

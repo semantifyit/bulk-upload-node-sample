@@ -1,0 +1,77 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ferienhaus-hasleite.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d77F239AF-3FD8-42B1-9E05-0D7BEC17987D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hasleite, Ferienhaus",
+    "streetAddress": "Astegg 398a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62142",
+    "faxNumber": "0043 5285 62142",
+    "email": "info@ferienhaus-hasleite.at",
+    "url": "http://www.ferienhaus-hasleite.at"
+  },
+  "name": "Ferienhaus Hasleite",
+  "description": [
+    "Neu erbautes Blockhaus, direkt am Bauernhof, abseits vom Zentrum, mit schönem Blick ins Zillertal.\n\nAusstattung: 4 Doppelzimmer mit Waschgelegenheit, Sat-Anschluss, 2 WC, grosses Badezimmer mit Dusche und WC, Bettwäsche vorhanden.\nKüche mit Mikrowelle, Geschirrspüler, E-Herd mit Ceranfeld und Dunstabzug, Einbaukühlschrank. Gemütliche grosse Essecke.\nWohnraum mit modernem Kachelofen, TV, Wlan  5.- €/Tag. Schuhtrockner vorhanden. Skibus bis zum Haus. Schneeketten im Winter unbedingt erforderlich.\n\nKeine Haustiere, Rauchverbot im Haus\n\nFür evt. Schäden wird bei Anreise eine Kaution von Euro 200 berechnet. Wird bei Abreise rückerstattet.",
+    "Anreise ab 16.00 Uhr\nAbreise bis 10.00 Uhr\n\nStornogebühr: 25%"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0b213206-274e-4634-99b1-99fdf2abc0a6/99/image.jpg",
+      "caption": "Ferienhaus Hasleite Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/93e96e16-6c12-471f-8132-e52ee4a6af84/99/image.jpg",
+      "caption": "Ferienhaus Hasleite Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2b5d3574-ade5-4cee-9b99-9360778f9c92/99/image.jpg",
+      "caption": "Ferienhaus Hasleite Mayrhofen - Zillertalblick 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6bcd5108-14ce-4e02-adbe-f992bcea800e/99/image.jpg",
+      "caption": "Ferienhaus Hasleite Mayrhofen - Zillertalblick2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1778085271442",
+    "longitude": "11.8525850772858"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Bad, WC, 4 oder mehr Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/4 od. mehr Schlafr./Bad, WC",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

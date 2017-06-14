@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": "St. Patricks Day Party",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Scotland Yard Pub",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Scheulingstr. 372",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 664 44 18 265",
+      "email": "pub@scotlandyard.at",
+      "url": "http://www.scotlandyard.at/"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Scotland Yard Pub",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Scheulingstr. 372",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 664 44 18 265",
+      "email": "pub@scotlandyard.at",
+      "url": "http://www.scotlandyard.at/"
+    }
+  },
+  "description": "St. Patricks Day Party with Live Band at the Scotland Yard Pub",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9019774a-95c3-4c8b-a1e2-c92dadbe6148/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/348cdf18-5262-40c7-9634-29fca25a4f15/99/image.jpg",
+      "caption": "Scotland Yard Pub"
+    }
+  ],
+  "startDate": "2017-03-17T20:00:00",
+  "endDate": "2017-03-17"
+}

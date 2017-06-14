@@ -1,0 +1,106 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Steinbockhütte 1380m"
+    },
+    {
+      "@language": "de",
+      "@value": "Steinbockhütte 1380m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Steinbockhütte 1380m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0773844676325",
+    "longitude": "11.8504775315523"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Steinbockhaus",
+    "streetAddress": "Floitental ",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 763 64 53",
+    "url": "www.steinbockhuette.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "So sieht der Sommer in Mayrhofen-Ginzling aus!\nWanderung auf Werksstraßen bis zum Wasserschloß der Tauernkraftwerke bis zur Jausenstation Tristenbachalm. Von der Tristenbachalm vorbei an der Stauanlage und der Sulzenalm. Blick auf den vergletscherten Talgrund, auf Mörchner und Feldkopf. Über den Bach und fast eben talein zum Steinbockhaus. \n\nGehzeit: ca. 2 Stunden \nSchwierigkeitsgrad: leicht \n\nSOMMERWANDERWEG!\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\ngeschlossen \n\nSommer\nende Mai - anfrang Oktober 2017\nkein Ruhetag\n\nkeine Übernachtung möglich "
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nclosed \n\nSummer\nend May till beginning of October 2017\nno rest day\n\nno overnight stay possible \n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b3069d36-657d-4230-ad77-8674ad31e1e5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Steinbockhütte 1"
+        },
+        {
+          "@language": "de",
+          "@value": "Steinbockhütte 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Steinbockhütte 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/48e079e9-044e-4cca-953e-d5096c753b18/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Steinbockhütte 2"
+        },
+        {
+          "@language": "de",
+          "@value": "Steinbockhütte 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Steinbockhütte 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/555e747c-abf2-43f9-a4e1-601632ff11f0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Steinbockhütte 3"
+        },
+        {
+          "@language": "de",
+          "@value": "Steinbockhütte 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Steinbockhütte 3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d7E344401-D202-4394-817C-812DA5DD258E"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendberg 267",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3929",
+    "email": "rmsporer@aon.at"
+  },
+  "name": "Sporer Margret",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3d8f80e-97ac-488f-a228-aa9782c04698/99/image.jpg",
+      "caption": "Sporer Margret Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/27c130c1-e85c-4884-ab5e-b6cd4b583e00/99/image.jpg",
+      "caption": "Sporer Margret Hippach - Balkonaussicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2092542881597",
+    "longitude": "11.8640032410622"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, ванна, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

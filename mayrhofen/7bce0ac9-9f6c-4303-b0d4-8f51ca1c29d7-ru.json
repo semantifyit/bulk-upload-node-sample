@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness",
+    "SportingGoodsStore"
+  ],
+  "name": "Skischule SMT Mayrhofen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1646764642834",
+    "longitude": "11.8617635965347"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Skischule SMT Mayrhofen",
+    "streetAddress": "Hauptstraße 456",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63939",
+    "faxNumber": "(0043) 5285 63090",
+    "email": "info@mayrhofen-total.com",
+    "url": "http://www.mayrhofen-total.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/78822c42-78b4-40d7-923a-54c765ca1ddb/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/89fd662a-1621-495d-ba2f-4a91d7ced9ff/99/image.jpg",
+      "caption": "Ski 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0faabede-9596-4eba-b114-61678481a45e/99/image.jpg",
+      "caption": "Ski 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0be7ee29-819b-4a08-af39-fd141338b212/99/image.jpg",
+      "caption": "team"
+    }
+  ],
+  "url": [
+    "http://www.mayrhofen-total.com"
+  ]
+}

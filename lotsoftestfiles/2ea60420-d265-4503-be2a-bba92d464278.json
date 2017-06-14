@@ -1,0 +1,71 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TouristAttraction",
+    "BikeStore"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "TyrolBike-Bikecenter "
+    },
+    {
+      "@language": "de",
+      "@value": "TirolBike –Bikecenter"
+    },
+    {
+      "@language": "ru",
+      "@value": "TyrolBike-Bikecenter "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1585315",
+    "longitude": "11.8462099999999"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Stillupklamm 826",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 8124",
+    "faxNumber": "0043 5285 8328",
+    "email": "info@gutshof.cc",
+    "url": "www.gutshof.cc"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Der Gutshof Zillertal verfügt über ein eigenes Bike-Center, welches eine zertifizierte Fahrradwerkstatt ist. Das Bike Center hat täglich ab dem 25. März 2017 von 08:00 bis 18:00 Uhr geöffnet. Es verfügt über Citybikes, Mountainbikes, E-Bikes und Kinderfahrräder. Nähere Informationen erhalten Sie unter folgender Homepage: www.tirolbike.at "
+    },
+    {
+      "@language": "en",
+      "@value": "The Gutshof Zillertal has its own bike center, which is a certified bicycle workshop. The Bike Center is open daily from the 25th of March 2017 from 8.00 a.m. to 6.00 p.m. It has city bikes, mountain bikes, e-bikes and children\u0027s bicycles. For further information, please visit: www.tirolbike.at \n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3152b39b-2f3c-4926-acec-43cfe2658dba/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Bikecenter "
+        },
+        {
+          "@language": "de",
+          "@value": "Bikecenter "
+        },
+        {
+          "@language": "ru",
+          "@value": "Bikecenter "
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.tirolbike.at"
+  ]
+}

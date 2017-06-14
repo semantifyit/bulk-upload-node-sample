@@ -1,0 +1,175 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ferienwohnung-huber.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d9F900ED6-8820-44C5-9400-34B69833D170"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Huber",
+    "streetAddress": "Mühlbach 299",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 5000259",
+    "email": "info.huber@tirol.com",
+    "url": "http://www.ferienwohnung-huber.com"
+  },
+  "name": "Huber Rosmarie",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/92221f0c-493e-46f3-89b4-19e48d7c08d4/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aff428df-c8dd-4b47-b4ab-96367d157878/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c786ed54-7dc4-4d45-8090-c1b25b86adeb/99/image.jpg",
+      "caption": "Winter - es schneit"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/890839fd-90bc-4950-aad3-9fbe3a72c967/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5005f541-4245-4f70-a959-91b27de56d35/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6122843f-ce0e-4288-b084-7cf15783a00d/99/image.jpg",
+      "caption": "Herbst"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad5deebc-21b4-4c7c-8d37-b07d94954876/99/image.jpg",
+      "caption": "Spielplatz-Mühlbach-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04cfc7c3-549e-48b6-b3c4-340f60e1e003/99/image.jpg",
+      "caption": "Spielplatz-Mühlbach-2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa6bf7a4-c22a-4a27-bb42-e872266e4104/99/image.jpg",
+      "caption": "Winter_Loipe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2e910127-e916-45bd-b7e0-37efd088cf3d/99/image.jpg",
+      "caption": "Kinderland Horbergbahn Talstation"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1871204408513",
+    "longitude": "11.8607711791992"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "23.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "23.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "23.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "23.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ и ванна, туалет, одна спальня",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ и ванна, туалет, одна спальня",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "23.00",
+          "maxPrice": "33.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "23.00",
+          "maxPrice": "33.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "23.00",
+          "maxPrice": "33.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

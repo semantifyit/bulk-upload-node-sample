@@ -1,0 +1,357 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.ummerland.at.tf",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA6D46025-3132-4223-BEC9-89BFF47664BC"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Innerummerland, Ferienwohnungen",
+    "streetAddress": "Schwendberg 272",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 50949",
+    "email": "h.ummerland@aon.at",
+    "url": "http://www.ummerland.at"
+  },
+  "name": "Ferienwohnungen Innerummerland",
+  "description": [
+    "Описание отеля:\nНаш отель расположен на очень солнечной возвышенности, примерно в 5 минутах ходьбы от центра поселка Хиппах (магазины, рестораны и пр.), прямо на Циллертальском Высокогорном шоссе, что является идеальной отправной точкой для прогулок и пешеходных экскурсий. Благодаря нашему центральному расположению легко за несколько минут добраться до различных спортивных площадок, подьемников, бассейна Хиппаха. \nАпартаменты полностью обновлены и оборудованы летом 2010!\nИдеальное место для детей - большой сад для игр и игровая комната со стенкой для скалолазания!\n",
+    "Прибытие:\nПроезд по автобану долины Инн A12 E60 до съезда 39 на Циллерталь/Ахензее-Визинг (Zillertal/Achensee-Wiesing). Далее едете по шоссе долины Циллерталь B 169 в направлении Майрхофена до центра поселка Хиппах (Hippach). В Рамзау (Ramsau) на светофоре (A) поверните направо через железнодорожные пути до следующего перекрестка (B), далее снова направо мимо церкви (C) в направлении указателя - \"Höhenstraße\". Далее налево (D) по дороге Zillertaler Höhenstraße наверх, после правого и левого поворота (примерно через. 0,6 км) и находится дом Иннеруммерланд, слева увидете нашу табличку!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/acc93630-d347-409f-9dc1-9dd85c56c56f/99/image.jpg",
+      "caption": "Bauernhof Ummerland-Sommer-Teaser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e4fa286-e2d3-4bec-b4e4-41c8e9574a2a/99/image.jpg",
+      "caption": "Innerummerland Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ec15666-1c01-4a96-8d26-5619a84171d9/99/image.jpg",
+      "caption": "Innerummerland Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac33903d-5b65-4886-93e4-7141bf62194a/99/image.jpg",
+      "caption": "Innerummerland Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ba302a7-b98b-4649-bd6c-e7d299882e52/99/image.jpg",
+      "caption": "Bauernhof Ummerland-Sommer-Teaser2-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/47afc4a2-bed7-4a0b-8fbd-26ac1c2e4877/99/image.jpg",
+      "caption": "Innerummerland Hippach - Fewo2-Schlafzimmer1-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c3ddc23e-2828-4416-8377-2d0150c36334/99/image.jpg",
+      "caption": "Innerummerland Hippach - Stiegenhaus 1a[1]"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a560e53f-a360-4f8e-82f8-622c475be028/99/image.jpg",
+      "caption": "Innerummerland Hippach - Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/62051ccf-bd60-43c4-b3aa-472c0a472f6c/99/image.jpg",
+      "caption": "Innerummerland Hippach - Balkon im  Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/341e1c98-39e0-44a0-b213-8008526e519d/99/image.jpg",
+      "caption": "Innerummerland Hippach - Aussicht vom Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/44c20dce-5634-4d10-9211-0ea3352bff03/99/image.jpg",
+      "caption": "Innerummerland Hippach - Ummerland-Kletterwand-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/34c34572-fa31-45d1-9f59-f498e7bead83/99/image.jpg",
+      "caption": "Innerummerland Hippach - Sauna mit Ruheraum "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a8750384-90d0-4842-b785-3b04895eaee0/99/image.png",
+      "caption": "Innerummerland Hippach - Garten und Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b47b6a1f-fd7e-4b51-81b8-bd997d054047/99/image.jpg",
+      "caption": "Innerummerland Hippach - Schiraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/34b9e7f1-dda3-4e8a-b110-534dc5ee8ba9/99/image.jpg",
+      "caption": "Innerummerland Hippach - Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6559c875-ca6e-455e-ba9b-c596deebcfdf/99/image.jpg",
+      "caption": "Innerummerland Hippach - Schnapsbrennerei"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0bd7950e-9354-487c-a158-de0692088dc3/99/image.jpg",
+      "caption": "Innerummerland Hippach - Winter1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f4aab1c-daff-4ba0-9fa1-d753ec581619/99/image.jpg",
+      "caption": "Innerummerland Hippach - Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50a93423-0485-47c5-88ba-438c180af67d/99/image.jpg",
+      "caption": "Innerummerland Hippach - Winter3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3592c6db-5d8d-49ea-bdb7-a1da93947bbe/99/image.jpg",
+      "caption": "Innerummerland Hippach - Winter4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a71da943-c3eb-4ed7-9bd3-ca7a5b348f75/99/image.jpg",
+      "caption": "Innerummerland Hippach - unsere Schnapsbrennerei]"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fccc56b6-276d-4494-9349-c7fbed8ec282/99/image.jpg",
+      "caption": "Innerummerland Hippach - beim Schnapsbrennen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d061dee0-6505-4cb9-8225-912f569beab3/99/image.jpg",
+      "caption": "wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/183b4a32-3e93-49ef-a46f-08326d989f1c/99/image.jpg",
+      "caption": "Tobias"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa602ad2-bcbb-4b72-85b8-1ed80a76eaaa/99/image.jpg",
+      "caption": "unsere Tiere"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98a23ba1-898d-4a45-9e59-4e62665adfa4/99/image.jpg",
+      "caption": "Kinder"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c77ed7db-5b79-4db9-bff3-0cf6062b5ea7/99/image.jpg",
+      "caption": "sebastian und Tobias mit jessy"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09877b52-363d-47c7-a268-ba9c88d39bf7/99/image.jpg",
+      "caption": "Winter Sebastian Schifahren"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f6a6f32-dce0-4745-9052-d2f90937ff34/99/image.jpg",
+      "caption": "schafskopf_hannes_tobias_sebastian_louis[1]"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/218d10ca-a24d-4ed2-a0fc-b7b79d662d4a/99/image.jpg",
+      "caption": "Ummerland-Familie-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7943ad05-52ad-4129-af56-23e4a11a4575/99/image.jpg",
+      "caption": "Sommer - Radfahren"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.209070257185",
+    "longitude": "11.8637377023697"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Дом отдыха, ванна, туалет",
+      "description": "Апартамент 1:\nАпартамент 1 (43 м²) подходит для 2-4 человек и находится на верхнем этаже\nКомфортабельно оборудованный апартамент состоит из просторной гостиной с кухней, двух раздельных спален, душа, туалета и прихожей. Имеется большой балкон. Вы сможете наслаждаться прекрасным видом от восхода до заката",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Дом отдыха, ванна, туалет",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/cb6423dd-61d5-454d-913f-5201b6785143/99/image.jpg",
+              "caption": "Wohnküche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/be8154ca-96d1-42a0-af47-fda391f20e6f/99/image.jpg",
+              "caption": "Schlafzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/922a1aa9-47d1-49a5-827a-4e0ece64e6f1/99/image.jpg",
+              "caption": "Kinderzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/e09f5aaa-1e45-41c6-952c-5d3ab6619315/99/image.jpg",
+              "caption": "Fewo1-Badezimmer2[1]"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/bf33b869-1446-406e-8269-734e846cb9d7/99/image.jpg",
+              "caption": "Ummerland-Fewo1-Sommer-Balkon[1]"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/caa19c1a-9eff-4180-9835-4ebf00286718/99/image.jpg",
+              "caption": "Grundriss-Fewo1[1]"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Дом отдыха, ванна, туалет",
+      "description": "Апартамент 2:\nАпартамент 2 (65 m²) подходит для 4-6 человек и находится на мансардном этаже. Вместе с дополнительной спальной комнатой (и с дополнительным душем и туалетом) могут разместиться до 8 человек.(вместе около 83 м2).\nКомфортабельно оборудованный апартамент состоит из просторной гостиной с кухней, двух раздельных спален, двух ванных комнат с душем и  туалетом и прихожей. Имеется большой балкон. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Дом отдыха, ванна, туалет",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a059533d-5516-4f81-93f6-f84f578debea/99/image.jpg",
+              "caption": "Wohnung 2 Küche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/2c40abd9-2b84-47e3-b012-dec81247c27a/99/image.jpg",
+              "caption": "Fewo2-Schlafzimmer1-1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/f60ba254-d47f-4805-8ab5-22807289f5f9/99/image.jpg",
+              "caption": "Fewo3-Schlafzimmer2-1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/dea93585-ec5d-4efd-bf9c-c600b9b97795/99/image.jpg",
+              "caption": "2 mal Badezimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a138e9f2-6b86-45a6-8989-52b0755f3e06/99/image.jpg",
+              "caption": "Balkon"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/7363a6f5-08e9-4d99-94d8-07439e0ff827/99/image.png",
+              "caption": "Garten mit Spielplatzt"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/986828b8-f18c-4b83-91d3-ab54640b4703/99/image.jpg",
+              "caption": "Spieleraum mit Kletterwand"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/25b7de14-4eea-4203-81bb-d86bf6705f39/99/image.jpg",
+              "caption": "unsere Tiere"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/e27e6b1d-695c-45c8-9080-83faa04f69d6/99/image.jpg",
+              "caption": "Stiegenhaus 1a[1]"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/dc3f2416-691b-41ef-8811-1f8a4a745305/99/image.jpg",
+              "caption": "Ummerland-Sommer-Pano4[1]"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/c0a2d21d-074e-429b-943d-b80fb21a1636/99/image.jpg",
+              "caption": "Ummerland-Winter1[1]"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/27ca45a6-306b-49eb-b44b-b052bff48852/99/image.jpg",
+              "caption": "schafskopf_hannes_tobias_sebastian_louis[1]"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/fe94eee1-a579-486f-a121-6032d76711f7/99/image.jpg",
+              "caption": "Sommer mit Terrasse"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Дом отдыха, ванна, туалет",
+      "description": "Апартамент 3:\nАпартамент 3 (61 m²) подходит для 4-7 человек и находится на мансардном этаже. Вместе с дополнительной спальной комнатой (и с дополнительным душем и туалетом) могут разместиться до 9.\nКомфортабельно оборудованный апартамент состоит из просторной гостиной с кухней, двух раздельных спален, душа, туалета и прихожей. Имеется большой балкон.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Дом отдыха, ванна, туалет",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

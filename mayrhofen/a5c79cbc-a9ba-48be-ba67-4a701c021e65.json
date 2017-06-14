@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "IceCreamShop",
+    "BarOrPub"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Pane e Vino da Michele"
+    },
+    {
+      "@language": "de",
+      "@value": "Pane e Vino da Michele"
+    },
+    {
+      "@language": "ru",
+      "@value": "Pane e Vino da Michele"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.164652",
+    "longitude": "11.8618187"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 456 ",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63418",
+    "url": "http://www.pane-e-vino.net"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Bar - Ristorante - Vinoteca"
+    },
+    {
+      "@language": "en",
+      "@value": "I would be glad to welcome you in my Ristorante!\n\n                                                  Michele"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ebac8cd-60b1-4069-bb7d-8422a60ef205/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Pane e Vino da Michele "
+        },
+        {
+          "@language": "de",
+          "@value": "Pane e Vino da Michele "
+        },
+        {
+          "@language": "ru",
+          "@value": "Pane e Vino da Michele "
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.pane-e-vino.net"
+  ]
+}

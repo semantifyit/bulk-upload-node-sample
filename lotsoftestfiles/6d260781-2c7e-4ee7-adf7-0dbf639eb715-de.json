@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Schaftenheu Alm 1800m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2198283981348",
+    "longitude": "11.8014391874694"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schaftenheu Alm",
+    "streetAddress": "Schwendberg",
+    "addressLocality": "Hippach ",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 20 14 676 ",
+    "email": "info@freihaushof.at"
+  },
+  "description": [
+    "Die Schaftenheu Alm befindet sich am Schwendberg auf dem Weg zur Rastkogelhütte.",
+    "Winter\ngeschlossen \n\nkeine Übernachtung möglich "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/132517a2-07ca-4e11-a6ea-d5b19964df99/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Landshuter Europahütte 2693m"
+    },
+    {
+      "@language": "de",
+      "@value": "Landshuter Europahütte 2693m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Landshuter Europahütte 2693m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "46.9971527364734",
+    "longitude": "11.580665409565"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landshuterhütte/Europahütte",
+    "streetAddress": "Frazione Caminata",
+    "addressLocality": "Pfitsch",
+    "postalCode": "39049 ",
+    "addressCountry": "IT",
+    "telephone": "(0039) 0472 646076 ",
+    "email": "info@europahuette.it",
+    "url": "www.europahuette.it"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Die Europahütte, ehemals Landshuter Hütte (in italienisch sowohl Rifugio Venna alla Gerla als auch Rifugio Europa)\nist ein Schutzhaus auf 2.693 Meter in den Zillertaler Alpen, das seit 1989 gemeinsam von der Sektion Landshut\ndes Deutschen Alpenvereins und der Sektion Sterzing des Club Alpino Italiano bewirtschaftet wird.\nBesonders an diesem Schutzhaus ist wohl der Umstand, das die Landesgrenzen zwischen Österreich und Italien\ngenau durch den Gastraum verlaufen.\nErbaut wurde das Schutzhaus Ende des 19. Jahrhunderts von der Sektion Landshut des Deutschen und\nösterreichischen Alpenvereins, im Laufe der Jahre mehrmals erweitert und renoviert. Nach dem 2. Weltkrieg\nwar das Schutzhaus allerdings in einem sehr schlechten Zustand und bedurfte einer Sanierung, die aufgrund\nmangelnder finanzieller Mittel des DAV nicht erfolgen konnte. Als dann die neue Landesgrenze zwischen Italien\nund Österreich festgelegt wurde, führte diese direkt durch das Gebäude.\nWiedereröffnet wurde die Hütte erst wesentlich später, nämlich im Jahre 1972, allerdings vorerst nur auf der\nösterreichischen Seite, da der italienische Teil des Schutzhauses nach dem Krieg enteignet worden war.\nNachdem durch Fachzeitschriften vermehrt kritisch über die Umstände auf der Landshuter Hütte berichtet wurde,\nentschloss sich schließlich der CAI im Jahre 1989, die italienische Seite renovieren zu lassen.\nSeitdem wehen auf der Landshuter Europahütte vier Flaggen: die Tiroler, die Bayrische, die Italienische und die Europäische.\nDem Alpinisten und Wanderer bieten sich viele Tourenmöglichkeiten bis auf über 3500 Meter, sowie Übergänge\nzu benachbarten Hütten. Die Europahütte ist auch das Etappenziel der 1. Route der Tiroler Höhenweg Wanderung, welche von\nMayrhofen (658 m) über den Schlegeisspeicher (1800 m) zur Landshuter Europahütte führt.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\ngeschlossen \n\nÜbernachtung möglich "
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nclosed\n\novernight stay possible "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/67f63e21-06a3-48fa-9422-2e79e329d8a5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Landshuter Hütte"
+        },
+        {
+          "@language": "de",
+          "@value": "Landshuter Hütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landshuter Hütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/437be2b8-5595-4ad0-9261-b525f7ce31b2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Europahütte"
+        },
+        {
+          "@language": "de",
+          "@value": "Europahütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Europahütte"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.europahuette.it"
+  ]
+}

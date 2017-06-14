@@ -1,0 +1,244 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dA7E7F793-152F-4934-B197-24B5463AA1BA"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Florian, Haus",
+    "streetAddress": "Tuxer Straße 746",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 650 5577836",
+    "faxNumber": "0043 5285 62785",
+    "email": "haus.florian@aon.at"
+  },
+  "name": "Haus Florian",
+  "description": [
+    "Unser Haus liegt am Ortsrand, 1 Minute von der Skibushaltestelle entfernt, Parkplätze vorhanden. Penkenbahn und Ahornbahn in etwa 8 Minuten zu Fuß erreichbar.",
+    "Hunde auf Anfrage, Kinderermäßigung auf Anfrage.",
+    "In Mayrhofen in die Einfahrt Süd links einbiegen, das Haus befindet sich in der Tuxerstraße auf der linken Seite.\nCheck-In ab 15:00 Uhr, Check-Out bis 09:00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02ea762d-ec69-4b21-8b71-d06c28a11c1e/99/image.jpg",
+      "caption": "Haus Florian Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0dc1cdbd-2e3d-42b4-af7e-8a65d5c8b821/99/image.jpg",
+      "caption": "Haus Florian Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4fbf0fd-be0b-4bbd-bef0-6b06c721f884/99/image.jpg",
+      "caption": "Haus Florian"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e91101b7-2044-44cd-bb15-7c5ad59860d8/99/image.jpg",
+      "caption": "foto 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a8b52f9-f1d6-4e70-b73b-21dfbcb88642/99/image.jpg",
+      "caption": "Küche Appartement Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/843a3a6f-6158-47dd-8002-80741be47a94/99/image.jpg",
+      "caption": "Zimmer Appartement Penken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7d31af9-c9a8-4823-a928-0558c3e1c3ce/99/image.jpg",
+      "caption": "Zimmer Appartement Penken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cb78e129-57aa-4023-8386-a466e1f5263c/99/image.jpg",
+      "caption": "Zimmer Appartement Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12c9fc26-d65f-4c0a-9ec9-ce832e198f4d/99/image.jpg",
+      "caption": "Zimmer Appartement Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1285b7fd-adab-499b-ac36-94a3ab41227c/99/image.jpg",
+      "caption": "Küche Appartement Penken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e2c7ebe6-26d4-44c5-bd0a-5b2af1375771/99/image.jpg",
+      "caption": "Essecke Appartement Penken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dc3c14f5-32ef-40a4-ab18-433584b3cd12/99/image.jpg",
+      "caption": "Badewanne Appartement Penken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4097987c-d32b-4649-8c88-3f7285b6caab/99/image.jpg",
+      "caption": "Küche Appartement Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7989cdb-bfdb-4bc6-8f15-83ca93a9e16a/99/image.jpg",
+      "caption": "Ausblick Appartement Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9e6a365-93c7-449c-a366-31d69b9c3d07/99/image.jpg",
+      "caption": "Ausblick Appartement Penken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e6e9e99-00a4-4631-8ba6-e5948fde0d16/99/image.jpg",
+      "caption": "Blick auf Mayrhofen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1600005056684",
+    "longitude": "11.8548381328583"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schlafen sie in unserem neu renovierten Buchenholz 1Schlafzimmer-Appartement mit Balkon, Badezimmer mit Dusche \u0026 WC, voll ausgestattete Küche mit Essecke, Kabel-TV, gratis WLan.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Ahorn",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "84.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "2-Schlafzimmer Appartement, Balkon, beide Schlafzimmer mit Doppelbett und Schlafsofa, Badezimmer mit Badewanne, Dusche \u0026 WC, seperates WC, voll ausgestattete Küche mit Wohnecke,  Kabel-TV, gratis WLan.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Penken",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "112.00",
+          "maxPrice": "240.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "140.00",
+          "maxPrice": "240.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "168.00",
+          "maxPrice": "240.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Badewanne, 1 Schlafraum",
+      "description": "Das Schlafzimmer befindet sich im Keller. Es ist ausgestattet mit einem Doppelbett und Fernseher, im Badezimmer ist eine Dusche, Badewanne und ein WC.\n\nZimmer kann zu einer der Wohnungen gebucht werden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Dusche und Badewanne, 1 Schlafraum",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

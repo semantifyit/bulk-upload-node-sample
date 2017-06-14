@@ -1,0 +1,576 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.kramerwirt.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dCCE1F2FB-FCB3-42A9-9843-E878F52040A1"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus der Mitte",
+    "streetAddress": "Einfahrt Mitte 433",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 6700",
+    "faxNumber": "0043 5285 6700 502",
+    "email": "hotel@kramerwirt.at",
+    "url": "http://www.haus-der-mitte.at"
+  },
+  "name": "Haus der Mitte",
+  "description": [
+    "Top Lage und mehr Raum für Ihre Urlaubstage finden Sie in den Ferienwohnungen im Haus der Mitte.\nZehn helle Wohnungen für zwei bis sechs Personen sind ideal für den unkomplizierten Urlaub in Mayrhofen im Zillertal. Die zentrale Lage, kostenlose Parkgarage und der Großraumlift sorgen für ein stressfreies Ankommen.\nSelbstverständlich sind Bettwäsche, Geschirr- und Handtücher inklusive. Weitere Vorteile: Waschraum mit Münzautomat, Trockner, Bügelbrett und Bügeleisen. Kostenlose Nutzung der Sauna im Alpenhotel Kramerwirt (Winter SO-FR, Sommer DO und FR), gratis Eintauchen in den Freibäder Mayrhofen und Hippach im Sommer, ermäßigter Skiverleih bei \"Sports Hervis\" im Erdgeschoß. Skibushaltestelle direkt vor dem Haus.\nBitte beachten Sie: Check-in mit Schlüsselausgabe im Alpenhotel Kramerwirt, neben der Kirche (Am Marienbrunnen 346), In allen Wohnungen herrscht Rauchverbot! Rauchen ist ausschließlich auf den Balkonen gestattet, bitte Hausordnung beachten.\n",
+    "\"Check In\" im Alpenhotel Kramerwirt ab 14.00 Uhr \n-Bezahlung bei Anreise, \n-Kaution pro Keybutton € 10,- \n-\"Check Out\" am Abreisetag bis 10.00 Uhr \n-Gitterbett € 3,- pro Tag, \n-Hunde auf Anfrage € 5,- pro Tag ohne Futter \n-freie Benützung der Freibäder Mayrhofen und Hippach\n-vergünstigter Eintritt in der Saunalandschaft Kramerwirt € 5,50 \n-Sportgeschäfte Hervis mit vergünstigtem Skiverleih im Erdgeschoss \n-Dörferbus- und Skibushaltestelle vor dem Haus \n-Bäcker, Lebensmittelgeschäft, Restaurants in unmittelbarer Nähe\n",
+    "Der direkte Weg zum Haus der Mitte und Kramerwirt: \nVon Kufstein aus kommend fahren Sie die A12 bis Wiesing (Ausfahrt Zillertal). Sie gelangen auf die B169 Zillertal Bundesstraße, die direkt nach Mayrhofen führt. Vorbei am Bahnhof Mayrhofen fahren Sie bei der Einfahrt Mitte in den Ort. Das zweite Haus an der rechten Seite ist das Haus der Mitte.\nZur Anmeldung bitte fahren Sie jedoch weiter über die erste Kreuzung geradeaus. Am bunten Karghaus, nach ca. 400m, nehmen Sie die linke Straße, bis Sie direkt vor dem Alpenhotel Kramerwirt neben der Kirche ankommen.\nAuf österreichischen Autobahnen ist Vignettenpflicht. Eine mautfreie Anreise ist über Tegernsee / Achenpass möglich. Gute Anreise!\n\nParkgarage kostenlos\nDas Haus der Mitte verfügt über zwei Parkgaragen und genügend Parkflächen hinter dem Gebäude. Für Gäste unserer Ferienwohnungen sind Autostellplätze in der versperrten Tiefgarage vorgesehen, welche mit dem elektronischen Zimmerbutton geöffnet wird - Einfahrt auf der Seite zum Elisabethhotel. \nSollten Sie mit mehreren Autos pro Wohnung anreisen, weichen Sie einfach auf die unversperrte große Parkgarage U2 aus. Die Parkberechtigung erhalten Sie beim Check-in im Alpenhotel Kramerwirt.\n\nBahnreisende\nwerden selbstverständlich kostenlos vom Bahnhof Mayrhofen abgeholt. Bitte lassen Sie uns Ihre Ankunft rechtzeitig wissen. Allgemeine Informationen sowie Ticket Reservierung finden Sie auf der Internet-Seite der Österreichischen Bundesbahn. \n\nFlughafentransfer\nDie nächstgelegenen Flughäfen sind Innsbruck, Salzburg und München. Wir organisieren Ihnen gerne ein Flughafen-Transfer-Taxi wenn Sie uns früh genug Bescheid geben \n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d8b46e51-49b1-4ab7-a389-9980bb3eb511/99/image.jpg",
+      "caption": "Haus der Mitte Winteransicht 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3f9359aa-9cdd-4734-8f49-9c6e76d5e558/99/image.jpg",
+      "caption": "Haus der Mitte Winteransicht 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13acd2c2-17f8-4514-a678-bab294a890da/99/image.jpg",
+      "caption": "apartments_mayrhofen_winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9ec88d8f-b000-4438-bb2a-4a0af520cfec/99/image.jpg",
+      "caption": "Haus der Mitte Mayrhofen - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/92b2270a-6e25-45bb-910c-5086daad9137/99/image.jpg",
+      "caption": "Haus der Mitte Mayrhofen - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7320f350-19f6-4838-a1f2-2d7beacd5d1c/99/image.jpg",
+      "caption": "apartments_mayrhofen_smaragd_livingroom2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1fdb575-9ea0-4d15-990f-9182a8c6e9d5/99/image.jpg",
+      "caption": "Haus der Mitte Mayrhofen - Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f155c25b-4d1b-4b6b-8731-50e0484f7df4/99/image.jpg",
+      "caption": "apartments_mayrhofen_saphir_livingroom"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9309f151-7910-4457-90a0-636a337e471c/99/image.jpg",
+      "caption": "apartments_mayrhofen_smaragd_bedroom"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3efb5d51-c1db-472b-bab4-2954fd5e56fe/99/image.jpg",
+      "caption": "Haus der Mitte Mayrhofen - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0341b219-d0ed-40d3-a968-7405c1a02cfd/99/image.jpg",
+      "caption": "apartments_mayrhofen_opal_bedroom"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1095fc6-6c05-4780-8117-151c9329efa6/99/image.jpg",
+      "caption": "apartments_mayrhofen_barriere-free_livingroom"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3671c54f-2285-432d-adbc-99a734b166d1/99/image.jpg",
+      "caption": "apartments_mayrhofen_barriere-free_bath"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d593013d-0cdd-4f90-814b-97f7d6619918/99/image.jpg",
+      "caption": "apartments_mayrhofen_amethyst_bedroom"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f8c52ec8-2514-4605-8afb-a5fd8ba619de/99/image.jpg",
+      "caption": "apartments_mayrhofen_amethyst_bath"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c8e3a50-dbd4-4df6-a4ac-05b8a4265802/99/image.jpg",
+      "caption": "Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6e6368aa-a8bf-4c4d-ad78-f85b69dc29a3/99/image.jpg",
+      "caption": "Grundriss1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c2f5634-3e0b-470e-8d7b-c2dbba2e7d86/99/image.jpg",
+      "caption": "Grundriss2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6e5a4e98-77cb-4023-818d-891dd9d14f9f/99/image.jpg",
+      "caption": "Grundriss3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e3f02106-d054-42dd-b1c5-bb2c7766de7e/99/image.jpg",
+      "caption": "Grundriss4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81e43041-fb67-4611-9c57-8ecb88a3addf/99/image.jpg",
+      "caption": "Grundriss5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/563359c3-a3f5-42c2-945f-2660b7cb72ca/99/image.jpg",
+      "caption": "Grundriss6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/548def81-18d5-4c2e-9c0b-1a64cbc74c2f/99/image.jpg",
+      "caption": "Grundriss7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cbafa121-3186-4adf-8d20-b130c8fbc01a/99/image.jpg",
+      "caption": "Funpark"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1671127601261",
+    "longitude": "11.8613290786743"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, Balkon",
+      "description": "Amethyst, 801\nKleine Wohnung für 2 Personen. Wohn-Schlafraum mit  komplett eingerichtetem Küchenblock, Kabel-TV, Radio-CD, Safe, Telefon, WC und Dusche, Vorraum und kleinem Balkon. Schmales Doppelbett mit Anti-Allergikerbetten. Kostenloser Tiefgaragenplatz, Skiraum mit Schuhtrockner, Waschraum mit Waschmaschine und Trockner, Lift. Kostenloses W-Lan Internet.\n\nOpal, 810\nKleine Wohnung für 2 Personen. Wohn-Schlafraum mit  komplett eingerichtetem Küchenblock, Kabel-TV, Radio-CD, Safe, Telefon, WC und Bad, Vorraum und kleinem Balkon. Schmales Doppelbett mit Anti-Allergikerbetten. Kostenloser Tiefgaragenplatz, Skiraum mit Schuhtrockner, Waschraum mit Waschmaschine und Trockner, Lift. Kostenloses W-Lan Internet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Amethyst und Opal S",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Amethyst und Opal W",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "62.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "31.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "90.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Smaragd,\nFerienwohnung für 6 Personen. Großzügige, helle Räume mit offener Dachschräge und tollem Panoramablick vom Wohnzimmer aus. 2 Schlafzimmer, 2 Badezimmer (1x Dusche/WC, 1x Bad, getrenntes WC), großer Wohnbereich mit Sitzecke und gemütlicher Wohnlandschaft, Kabel-TV, Radio-CD, Safe, Telefon, Abstellraum, riesiger Balkon mit Sonnenliegen und Sitzgelegenheit. Kostenloses W-Lan, Skiraum/Schuhtrockner, Waschraum/trockner, Lift, Tiefgaragenplatz. Günstiger Skiverleih, Skubushaltestelle am Haus.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Smaragd S",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Smaragd W",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "53.50",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "35.67",
+          "maxPrice": "46.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "26.75",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "21.40",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "17.83",
+          "maxPrice": "23.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "95.50",
+          "maxPrice": "95.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "63.67",
+          "maxPrice": "63.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "47.75",
+          "maxPrice": "47.75",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "38.20",
+          "maxPrice": "38.20",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "31.83",
+          "maxPrice": "31.83",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Granat, 805\nFerienwohnung für 4 Personen, rollstuhlgeeignet. 2 Schlafzimmer, Badezimmer mit Doppelwaschbecken und Dusche, getrenntes WC, große Wohnküche (komplett eingerichtet) mit zusätzlicher Sitzcouch, Kabel-TV, Radio-CD, Safe, Telefon, Vorraum und Balkon. Antiallergie-Betten, kostenloser Tiefgaragenplatz, Skiraum mit Schuhtrockner, Waschraum mit Waschmaschine, Trockner und Bügeleisen, Lift. Kostenloses W-Lan Internet.\nFür Rollstuhlfahrer auf Anfrage: elektr. Lattenrost, Duschstuhl, Stützgriff und Sitzerhöhung im WC. \n\nBernstein, 806  \nFerienwohnung für 5 Personen. 2 Schlafzimmer, 2 Badezimmer (1x Dusche/ WC, 1x Bad/WC), komplett eingerichtete Wohnküche mit Essecke und zusätzlicher Sitzcouch, Kabel-TV, Safe, Telefon, Vorraum und Balkon. Antiallergie-Betten, kostenloser Tiefgaragenplatz, Skiraum mit Schuhtrockner, Waschraum mit Waschmaschine, Trockner und Bügeleisen, Lift. Kostenloses W-Lan Internet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Granat S",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Granat W",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "42.50",
+          "maxPrice": "54.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "28.33",
+          "maxPrice": "36.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "21.25",
+          "maxPrice": "27.25",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "71.50",
+          "maxPrice": "71.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "47.67",
+          "maxPrice": "47.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "35.75",
+          "maxPrice": "35.75",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Bergkristall, 804\nGeräumige Ferienwohnung für 4 Personen. 2 Schlafzimmer, 2 Badezimmer (1x Dusche/WC und 1x Bad, getrenntes WC), komplett eingerichtete Wohnküche mit zusätzlicher Sitzcouch, Kabel-TV, Radio-CD, Safe, Telefon, Vorraum und Balkon. Großer Balkon mit Liegen und Sitzgelegenheit - toller Ausblick auf die umliegenden Wiesen und die Zillertaler Bergwelt. Antiallergie-Betten, kostenloser Tiefgaragenplatz, Skiraum mit Schuhtrockner, Waschraum mit Waschmaschine, Trockner und Bügeleisen, Lift. Kostenloses W-Lan Internet.\n5. Person im Wohnbereich bis eine Woche vor Anreise buchbar: EUR 10,- pro Tag.\n\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Bergkristall und Bernstein S",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Bergkristall und Bernstein W",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "57.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "38.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "22.50",
+          "maxPrice": "28.75",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "77.00",
+          "maxPrice": "77.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "51.33",
+          "maxPrice": "51.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "38.50",
+          "maxPrice": "38.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Saphir, 803\nFerienwohnung für 5 Personen . 2 Schlafzimmer, 2 Badezimmer (1x Dusche/WC, 1x Bad, getrenntes WC), große Wohnküche (komplett eingerichtet) mit zusätzlicher Sitzcouch, Kabel-TV, Radio-CD, Safe, Telefon, Vorraum und Balkon. Großer Balkon mit Sonnenliegen und Sitzgelegenheit. Antiallergie-Betten, kostenloser Tiefgaragenplatz, Skiraum mit Schuhtrockner, Waschraum mit Waschmaschine, Trockner und Bügeleisen, Lift. 6. Person im Wohnbereich bis eine Woche vor Anreise buchbar: EUR 10,- pro Tag.\nKostenloses W-Lan Internet.\n\nFerienwohnung für 5 Personen. 2 Schlafzimmer, 2 Badezimmer (1x Dusche/WC, 1x Bad, getrenntes WC), große Wohnküche (komplett eingerichtet), Essecke, gemütliche Wohnlandschaft, Kabel-TV, Telefon, Radio-CD, Safe. Großer Balkon mit Sonnenliegen und Sitzgelegenheit. \nAntiallergie-Betten, kostenloser Tiefgaragenplatz, Skiraum mit Schuhtrockner, Waschraum mit Waschmaschine, Trockner und Bügeleisen, Lift. Kostenloses W-Lan Internet.\n6. Person im Wohnbereich bis eine Woche vor Anreise buchbar: EUR 10,- pro Tag.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Saphir und Rubin S",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Saphir und Rubin W",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.50",
+          "maxPrice": "63.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "35.00",
+          "maxPrice": "42.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "26.25",
+          "maxPrice": "31.75",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "21.00",
+          "maxPrice": "25.40",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "83.00",
+          "maxPrice": "83.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.33",
+          "maxPrice": "55.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "41.50",
+          "maxPrice": "41.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "33.20",
+          "maxPrice": "33.20",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

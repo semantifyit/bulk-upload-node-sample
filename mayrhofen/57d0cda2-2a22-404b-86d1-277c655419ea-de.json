@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": "Zillertaler Weisenbläsertreffen",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bundesmusikkapelle Brandberg",
+    "employee": {
+      "@type": "Person",
+      "familyName": " "
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Brandberg",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "email": "info@bmk-brandberg.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Bundesmusikkapelle Brandberg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Brandberg",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "email": "info@bmk-brandberg.at"
+    }
+  },
+  "description": "\nTeilnehmer: Bläsergruppen aus den Zillertaler Musikkapellen, Südtiroler Tanzlmusig, Stualausmusig, Zillertaler Weisenbläser, Thierseer Alphornbläser, Afelder Dreigesang und Sänger und Musikanten aus nah und fern.\nBeginn: 09.30 Uhr\nab 9.30 bis 12.00 Uhr klingende Wanderung vom Gasthof Thanner zum Festgelände am Steinerkogl \n12.00 Uhr Bergmesse umrahmt von den Weisenbläsern\nAnschließend offenes Singen und Musizieren während des ganzen Tages.\nMalerischer Festplatz inmitten einer\nherrlichen Natur- und Bergkulisse, Zillertaler Krapfen, Melchermuas……\nab 8.30 Uhr regelmäßiger Gratiszubringer (nur bei Schönwetter) ab Bahnhof Hippach über Horbergbahn, Bahnhof und Gemeindeamt Mayrhofen.\n \nBei Schlechtwetter findet am überdachten Festplatz beim Musikpavillon ein volksmusikalisches Schlechtwetterfest statt. \nEintritt frei!\nWeitere Informationen unter 0664/2448030 oder 0664/2613311 und www.bmk-brandberg.at oder beim Tourismusverband Mayrhofen-Hippach Tel. 05285/6760",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/caa6d17b-5452-4bfe-87d7-fea802ac7873/99/image.jpg",
+      "caption": "BMK Brandberg"
+    }
+  ],
+  "startDate": "2017-08-27T00:00:00",
+  "endDate": "2017-08-27"
+}

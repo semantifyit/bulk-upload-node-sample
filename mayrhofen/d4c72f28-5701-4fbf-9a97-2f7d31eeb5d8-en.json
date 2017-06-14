@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dD4C72F28-5701-4FBF-9A97-2F7D31EEB5D8"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laimach 101",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2458"
+  },
+  "name": "Hundsbichler Regina",
+  "description": [
+    "Comfortable private pension in sunny and central situation\n",
+    "Check in 12.00 - Check out 10.00 "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c668339-a246-420b-b687-ab62abdefa18/99/image.jpg",
+      "caption": "Hundsbichler Regina Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/74ea4ac0-bb94-49d0-b810-cc0c4905d111/99/image.jpg",
+      "caption": "Hundsbichler Regina Hippach - Sommer1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2145544706077",
+    "longitude": "11.8657279014587"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, running hot/cold water",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with running hot/cold water",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

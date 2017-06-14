@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Geraerhütte 2326m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.043392593413",
+    "longitude": "11.6281226353004"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Geraerhütte ",
+    "streetAddress": "Vals 24b/1",
+    "addressLocality": "St. Jodok am Brenner",
+    "postalCode": "6154",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 9610 303",
+    "email": "info@geraerhuette.at",
+    "url": "www.geraerhuette.at"
+  },
+  "description": "Summer\n22. June 2017\nno rest day \novernight stay possible 28 beds and 75 dormitories",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28b9a35f-fd02-4d4c-bae8-277fe2cadc6e/99/image.jpg",
+      "caption": "Tisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb068cc5-4011-49c4-8b07-4a047d66ee9c/99/image.jpg",
+      "caption": "Panoramablick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/15728da6-5c4d-4ea9-bb6b-af26f9bc2ea3/99/image.jpg",
+      "caption": "Geraerhüttte"
+    }
+  ],
+  "url": [
+    "http://www.geraerhuette.at"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "Jagen - Ferienhof Mauerhaus",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1830407548757",
+    "longitude": "11.8599665164948"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burgstall 353",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62378",
+    "faxNumber": "05285 62378"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab142e0a-bfa3-4d6a-9b8c-05e2b0e1d452/99/image.jpg",
+      "caption": "Wandern"
+    }
+  ]
+}

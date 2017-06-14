@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Gasthof Leitenhof"
+    },
+    {
+      "@language": "de",
+      "@value": "Gasthof Leitenhof"
+    },
+    {
+      "@language": "ru",
+      "@value": "Gasthof Leitenhof"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0905787286205",
+    "longitude": "11.7910659313202"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dornauberg 57",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 676 6447290",
+    "faxNumber": "0043 5286 5202",
+    "email": "leitenhof.57@gmail.com",
+    "url": "http://members.aon.at/jkroell2"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser 400 Jahre altes Gut Leitenhof liegt in wunderschöner Gebirgslage inmitten unberührter Natur.\nErleben uns spüren auch Sie die Gemütlichkeit und Ambiente eine typischen Tiroler Bauernhauses. \nUnser Haus liegt mitten im Naturpark Zillertaler Alpen und wir sind ein Naturpark-Partnerbetrieb. Somit erhalten unsere Gäste freien Eintritt ins Naturparkhaus und Ermäßigungen bei den geführten Wanderungen.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Our Feriengut Leitenhof offers ideal conditions for relaxing holidays in a personal atmosphere.\n\nWe offer cozy rooms with balcony TV, shower / toilet, with breakfast. Own farm and pasture and hunting grounds.\n\nOne can not reflect the beauty of our mountains with words, you just have to experience it for yourself."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/820717f7-ea1d-40b7-9a53-552d3b16c7dd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Leitenhof"
+        },
+        {
+          "@language": "de",
+          "@value": "Leitenhof"
+        },
+        {
+          "@language": "ru",
+          "@value": "Leitenhof"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.feriengut.at"
+  ]
+}

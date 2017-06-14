@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Gustimo",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2091795825935",
+    "longitude": "11.8741285800934"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gustimo",
+    "streetAddress": "Ramsau 164",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 650 999 2621",
+    "email": "info@gustimo.at",
+    "url": "http://www.gustimo.at"
+  },
+  "description": "Gustimo - Gesundes Genießen ist DAS Fachgeschäft für IHR Geschmackserlebnis in Ramsau im Zillertal.\nWir verstehen uns als IHR Dienslteistungs - Unternehmen in Sachen Gesundes Genießen. \nIndividuell auf Ihre Wünsche ausgerichtete Produktkombinationen mit gesunden und schmackhaften Produkten in bester Qualität zu fairen Preisen.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16300c76-971f-4b52-9bd2-0b21c477b23c/99/image.bmp",
+      "caption": "Gustimo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9cef85e1-bf29-4ba4-a15d-d620d9e11eb4/99/image.jpg",
+      "caption": "Verschiedene Kräuter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/107faf21-0764-4942-963c-b49bf72120f1/99/image.jpg",
+      "caption": "Gustimo Geschäft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2660e6f4-c9e5-42ce-a34d-2ea954c5abc4/99/image.jpg",
+      "caption": "Sitzecke"
+    }
+  ],
+  "url": [
+    "http://www.gustimo.at"
+  ]
+}

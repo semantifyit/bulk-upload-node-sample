@@ -1,0 +1,150 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.laimach.eu",
+    "http://maps.mayrhofen.at/?foreignResource\u003d0F13EDAA-54FB-4A24-9D1C-846ED2A31360"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Geurts Verstraaten, Ferienwohnung",
+    "streetAddress": "Laimach 203 (top 3)",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0031 735492324",
+    "email": "verstraaten@laimach.eu",
+    "url": "http://www.laimach.eu"
+  },
+  "name": "Ferienwohnung Geurts Verstraaten",
+  "description": [
+    "Our apartment is situated in Wohhaus Mühlau in Laimach-Hippach at the ground and 1st floor of the building. It is an apartment for 4 persons, 2 separate bedrooms with a double bed. The ground floor contains an entrance with a wardrobe and sink and a separate bed room. At the 1st floor you will find the living room with an open kitchen. The living room consists of a sitting and dining area. TV, DVD player with movies available. Free wifi. Connected but separated you find a bathroom, toilet and 2nd bedroom at the 1st floor.",
+    "Check in after 3.00 PM Check out before 10.00 AM. Free Wifi.  Information: Family Geurts-Verstraaten 0031-735492324 www.laimach.eu",
+    "About the Inntalautobahn exit Zillertal and from there 24 km on the B169. Exit Zell am Ziller north / Zillertal arena. Middle cross, about the Ziller bridge turn left before the car dealer Huber. After about 1000 metres in Laimach on the right side, stands the house Mühlau. Entrance and parking bay are in the front beside the play ground"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/80d7c3a3-a036-4ca7-b865-f683bc62faa8/99/image.jpg",
+      "caption": "Ferienwohnung Geurts Verstraaten - Sommerfoto"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cb9c9cdd-ab2f-4ef1-a166-1ae15a7feab4/99/image.jpg",
+      "caption": "Ferienwohnung Geurts Verstraaten - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12ecfa85-3d69-41dd-b984-2b4a2e8d132c/99/image.jpg",
+      "caption": "Ferienwohnung Geurts Verstraaten - Essecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86812122-c64e-4edc-ab67-5bdc76fd568c/99/image.jpg",
+      "caption": "Ferienwohnung Geurts Verstraaten - Sitzecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a5b1f0f5-4a4e-43f6-92de-3ad046e00525/99/image.jpg",
+      "caption": "Ferienwohnung Geurts Verstraaten - Schlafzimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94b0781a-2ab4-4e14-a360-25cf2fbad3cc/99/image.jpg",
+      "caption": "Rad-Wanderweg dem Ziller entlang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/366fdb87-b1f0-45b1-985d-0cf0010a85c3/99/image.jpg",
+      "caption": "Waschbecken Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a6d9cae5-57ad-468e-9b84-96fd2bb08b7e/99/image.jpg",
+      "caption": "Ferienwohnung Geurts Verstraaten - Badezimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2229418514357",
+    "longitude": "11.8695473670959"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 2 bed rooms",
+      "description": "Our apartment is situated in Wohhaus Mühlau in Laimach-Hippach at the ground and 1st floor of the building. It is an apartment for 4 persons, 2 separate bedrooms with a double bed. The ground floor contains an entrance with a wardrobe and sink and a separate bed room. At the 1st floor you will find the living room with an open kitchen. The living room consists of a sitting and dining area. TV, DVD player with movies available. Connected but separated you find a bathroom, toilet and 2nd bedroom.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/bath tube, WC",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/c33bbe85-fd35-4962-af9b-e33a32d6e86f/99/image.jpg",
+              "caption": "IMG_2903"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/0f4a0fe9-a987-461e-b793-af307fce0454/99/image.jpg",
+              "caption": "Bild 1120"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/c3200acf-5305-48da-a210-489ec7d4d6cd/99/image.jpg",
+              "caption": "Bild 1118"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/835506cc-e08b-42d3-a14d-9967d6afea8b/99/image.jpg",
+              "caption": "Bild 1115"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

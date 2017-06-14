@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Wenzelstadl 1775m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1760183159851",
+    "longitude": "11.8282697976605"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Penkenalm",
+    "streetAddress": "Penken",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62882",
+    "email": "mary1989@gmx.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/75191053-cf9f-43f3-a737-c09bf2397828/99/image.jpg",
+      "caption": "Mayrhofen-Hippach "
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

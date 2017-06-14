@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment",
+    "Landform"
+  ],
+  "name": "Waxeggalm 1880m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0237304052066",
+    "longitude": "11.800313873272"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Waxeggalm",
+    "streetAddress": "Ginzling 217",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 37 12 865 ",
+    "email": "sv.muehlbauer@aon.at"
+  },
+  "description": [
+    "Ab dem Parkplatz Breitlahner erreichen Sie die Waxegg-Alm nach einer Gehzeit von ca. 2 Std.\nDort erwartet Sie ein reichhaltiges Jausenangebot vom Zillertaler Jausenbrett´l bis hin zu Kaffee und Kuchen (selbst gemacht )\nDie Famille Mühlbauer freut sich auf Ihren Besuch.\n",
+    "\n\nSommer \nAnfang Juli 2017 \neine Übernachtung möglich "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/07dc45c6-8da0-4b19-9f39-74a15e01c42e/99/image.jpg",
+      "caption": "Waxeggalm 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ac56eb2-ffa6-46e1-94f8-dadc1bbcf8c8/99/image.jpg",
+      "caption": "Waxeggalm 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/31a2e248-08a2-401e-a4b3-0d8871123eda/99/image.jpg",
+      "caption": "Waxeggalm 3"
+    }
+  ]
+}

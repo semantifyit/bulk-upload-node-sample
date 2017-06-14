@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Jagen - Hotel Zillertalerhof"
+    },
+    {
+      "@language": "de",
+      "@value": "Jagen - Hotel Zillertalerhof"
+    },
+    {
+      "@language": "ru",
+      "@value": "Jagen - Hotel Zillertalerhof"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.167664",
+    "longitude": "11.8660437999999"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zillertalerhof, Hotel",
+    "streetAddress": "Am Marienbrunnen 341",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62265",
+    "faxNumber": "(0043) 5285 6226544",
+    "email": "info@zillertalerhof.at",
+    "url": "http://www.zillertalerhof.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Krönen Sie Ihren wohlverdienten Urlaub mit einem besonderen Jagderlebnis. Unser 2500ha großes Jagdrevier befindet sich in einem Seitental, dem Hundskehlgrund. Hier haben Sie die Möglichkeit im wildromantischen Zillergrund auf die Pirsch zu gehen.\n\nHeimisches Wild in freier Natur\nNatur, die frische Luft und bei herrlicher Ruhe aufs Wild warten ...\n*Gams\n*Reh\n*Murmeltier\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Our 2500 hectare big hunting area is located in a side-valley, called the \"Hundskehlgrund\". Here you have the posibility to go hunting in the wild an romantic \"Zillergrund\"."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f869bcab-0dc2-4c44-950d-752f5f111f39/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Jagen "
+        },
+        {
+          "@language": "de",
+          "@value": "Jagen "
+        },
+        {
+          "@language": "ru",
+          "@value": "Jagen "
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.zillertalerhof.at"
+  ]
+}

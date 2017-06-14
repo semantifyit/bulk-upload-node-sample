@@ -1,0 +1,229 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausspitaler.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d69B14701-29A7-43F9-9132-CE9D9D6DE724"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienhaus Spitaler",
+    "streetAddress": "Schwendberg 269",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4178",
+    "faxNumber": "0043 5282 4178",
+    "email": "info@hausspitaler.at",
+    "url": "http://www.hausspitaler.at"
+  },
+  "name": "Haus Spitaler",
+  "description": [
+    "Our holiday house is situated in sunny position, only 5 minutes from the centre, nice sun terrace, ski bus stop nearby",
+    "Prices including final cleaning\nReduction for children on inquiry \nFree entry into the swimming pool in Hippach and Mayrhofen as well as free use of the tennis courts in Hippach\n",
+    "Check in 12.00 - Check out 10.00"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/87262e06-1928-4714-b9a7-af245084058c/99/image.jpg",
+      "caption": "Haus Spitaler Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/00957db3-6c09-4217-8006-3a348fc6e6f2/99/image.jpg",
+      "caption": "Haus Spitaler Hippach - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2098428185749",
+    "longitude": "11.8636786937714"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 2 bed rooms",
+      "description": "The holiday apartment exists of a big kitchen with a couch, 1 double room, a room with separate beds, a big bath with a corner bath and WC.\nThe kitchen is equipped with a dishwasher, microwave as well as with a Sat/TV arrangement. The flat has own garden with nice view. Kostenoser Internet connection for your Lap top. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/bath tube, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "64.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet",
+      "description": "appartement with little kitchen, bath/WC, livingroom with sleeping possibility, bedroom with 3 additional beds, balcony, price incl. local tax",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.liv.-bedroom/1 bedroom/bath,wc",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet",
+      "description": "1 livingroom with sleeping possibility, balcony, kitchen, shower/WC, price incl. local tax",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap./combined living-bed-room/shower,",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet",
+      "description": "appartement with little kitchen, bath/WC, livingroom with sleeping possibility, bedroom with 3 additional beds, balcony, price incl. local tax",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.liv.-bedroom/1 bedroom/bath,wc",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "64.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower or bath, toilet, 3 bed rooms",
+      "description": "\n2 double rooms and a three-bed room, 1 big kitchen-living room, bath, WC specially, pantry, balcony and patio\nPrices incl. local rate! ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap./3 bedrooms/shower or bath tube, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

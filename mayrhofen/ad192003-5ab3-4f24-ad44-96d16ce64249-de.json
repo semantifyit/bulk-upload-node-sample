@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Herr STEINDL GmbH",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1702029",
+    "longitude": "11.8597714"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "herr Steindl GmbH",
+    "streetAddress": "Kreuzlau 390b",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 650 650",
+    "faxNumber": "(0043) 5285 650 65 25",
+    "email": "info@herr-steindl.at",
+    "url": "http://www.herr-steindl.at/"
+  },
+  "description": "Leidenschaft und Gespür für gute Werbung\nHerr STEINDL steht für hoch geschraubte Ansprüche, sowohl bei seinen Kunden als auch bei seinen Mitarbeitern. Qualität und Perfektion bis ins kleinste Detail zeichnen die Arbeit des eingespielten herr STEINDL Teams aus. Die Verwendung hochwertiger Materialien und topmoderner Technik steht ebenso im Vordergrund wie die persönliche Kundenbetreuung vom Entwurf bis zur Montage und Wartung der Produkte. \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/05ec6f8b-d05f-4cd7-bde7-ac7b762889f2/99/image.png",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.herr-steindl.at"
+  ]
+}

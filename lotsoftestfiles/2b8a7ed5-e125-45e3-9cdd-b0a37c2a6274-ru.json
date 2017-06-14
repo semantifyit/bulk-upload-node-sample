@@ -1,0 +1,165 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://",
+    "http://maps.mayrhofen.at/?foreignResource\u003d2B8A7ED5-E125-45E3-9CDD-B0A37C2A6274"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 412",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 650 3006135 ",
+    "faxNumber": "(0043) 52823968 ",
+    "email": "landhaus.schiestl@aon.at",
+    "url": "http://www.landhaus-schiestl.at"
+  },
+  "name": "Chalet Schiestl",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/361de05c-250a-45f4-ae28-8741eb744325/99/image.jpg",
+      "caption": "Chalet Schiestl Ramsau - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/140faee8-d693-4628-9c50-1f6a92df01fc/99/image.jpg",
+      "caption": "Chalet Schiestl Ramsau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/090e8fd4-268b-48d8-94b6-c9944558d665/99/image.jpg",
+      "caption": "Chalet Schiestl - Wohnbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e0ef9fa0-27c5-4cee-b764-e34d9932be8c/99/image.jpg",
+      "caption": "Chalet Schiestl - Küche1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ecb64cdd-26a5-42c5-a320-e9b93eb6ec41/99/image.jpg",
+      "caption": "Chalet Schiestl - Küche2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c57b3f7f-411c-4030-8537-211a483fd901/99/image.jpg",
+      "caption": "Chalet Schiestl - Küche3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3f89e0d3-fa6f-41ac-9335-a42cc722b983/99/image.jpg",
+      "caption": "Chalet Schiestl - Zimmer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/44a05e0d-cb6a-42c1-bf0a-14d84fedad32/99/image.jpg",
+      "caption": "Chalet Schiestl - Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c5e20fe-3a36-4854-b02f-366ecab9fea5/99/image.jpg",
+      "caption": "Chalet Schiestl - Zimmer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ed682898-5191-4c53-8256-d487c13e3275/99/image.jpg",
+      "caption": "Chalet Schiestl - Zimmer4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e94165d0-8b82-45e4-8b7e-e9fc48f3dc71/99/image.jpg",
+      "caption": "Chalet Schiestl - Bad1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97d9e489-2a9f-422e-87ef-54ee4912edd9/99/image.jpg",
+      "caption": "Chalet Schiestl - Hausgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ebf46d1c-1212-43e0-9b2c-c1ab70322356/99/image.jpg",
+      "caption": "Chalet Schiestl - Infrarotkabine "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f881ccf1-4dac-4659-9415-7946b6bef5f3/99/image.jpg",
+      "caption": "Chalet Schiestl - Winter Ort"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2037715",
+    "longitude": "11.8778656"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Дом отдыха, ванна, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "летний дом, bath, toilet",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "12",
+            "minValue": "8"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "120.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "120.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "120.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Дом отдыха, ванна, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "летний дом, bath, toilet",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

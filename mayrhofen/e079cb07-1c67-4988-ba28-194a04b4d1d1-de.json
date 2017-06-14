@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dE079CB07-1C67-4988-BA28-194A04B4D1D1",
+    "http://booking.mayrhofen.at/mayrhofen/de/accommodation/detail/ZIL/e079cb07-1c67-4988-ba28-194a04b4d1d1/ahornblick?customHeader\u003dtrue"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ahornblick",
+    "streetAddress": "Hochschwendberg 516",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3316",
+    "faxNumber": "0043 5282 3316",
+    "email": "dornauer@zillertalnet.at",
+    "url": "http://booking.mayrhofen.at/mayrhofen/de/accommodation/detail/ZIL/e079cb07-1c67-"
+  },
+  "name": "Ahornblick",
+  "description": [
+    "Liegt auf einer Höhe von 1.300 Metern direkt an der Zillertaler Höhenstraße mit wunderschöner Aussicht auf die Zillertaler Bergwelt. Idealer Ausgangspunkt für Wanderungen oder Mountainbiketouren. Ein  Kinderspielplatz sowie der Startplatz für Paragleiter und Drachenflieger befindet sich etwa 500 Meter vom Haus entfernt. Im Winter bieten wir beste Skibusverbindungen, d.h. der Skibus setzt Sie direkt im Skigebiet Ski Zillertal 3000 ab (Schafskopf- Umkehrplatz, Fahrzeit ca. 15 Minuten)!!",
+    "Brötchenservice, Grillbenützung im Sommer möglich! Endreinigung € 30,--",
+    "Check in 14.00 Uhr - Check out 10.00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "12"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef55910b-ecc4-4685-a850-1a4d6b009149/99/image.jpg",
+      "caption": "Ahornblick Hippach Winterfoto 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d120ad33-3601-487a-985a-e11217e21add/99/image.jpg",
+      "caption": "Ahornblick Hippach Sommerfoto 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4fdc7f48-415f-409e-875a-80a0fced88d0/99/image.jpg",
+      "caption": "Ahornblick Hippach Sommerfoto 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f8c4a88d-a77f-43cd-bf23-d0d3f1ca4058/99/image.jpg",
+      "caption": "Ahornblick Hippach Sommerfoto 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c68b4a6-a649-43d6-8ccd-abc4753cdffa/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8614a9f9-b81d-4e78-aa44-9af9718a337a/99/image.jpg",
+      "caption": "Bike Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/29c09e2d-829d-40db-bcd4-12bea5da7010/99/image.jpg",
+      "caption": "Funpark Mayrhofner Bergbahnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5224b67a-ef5c-44cc-9c30-ca4303163dd3/99/image.jpg",
+      "caption": "Rafting"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fe447c0f-ad97-4ce4-b4b4-30afbb811069/99/image.jpg",
+      "caption": "Sommer Gipfel Panorama"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1654d96f-fe51-4479-831e-61f85c0f9bdc/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8ee18b4-5004-4d63-b02b-f657429a8c5f/99/image.jpg",
+      "caption": "Ahornblick Hippach Winterlandschaft "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.201037867431",
+    "longitude": "11.8310683965683"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Große Wohnung mit einem Doppel/Dreibettzimmer, einem Zweibettzimmer, Küche, Dusche, seperates WC und Balkon mit Gartenmöbeln. Die Wohnung ist komplett ausgestattet mit SAT-TV, Geschirr, Toaster, Geschirrspüler, Stereoanlage,...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

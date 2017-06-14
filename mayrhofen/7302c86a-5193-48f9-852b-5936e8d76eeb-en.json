@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Naturparkhaus Ginzling",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1003441299786",
+    "longitude": "11.810131072998"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Naturparkhaus Ginzling",
+    "streetAddress": "Ginzling 239",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "+43 5286 52181 ",
+    "faxNumber": "+43 5286 5218-4",
+    "email": "info@naturpark-zillertal.at",
+    "url": "http://www.naturpark-zillertal.at"
+  },
+  "description": "The Zillertal Alps Nature Park House is an administrative building, library and exhibition centre all at the same time.\nThe nature park exhibition encourages visitors to understand and experience. At a range of multimedia and interactive stages, the visitor learns more about the fascinating mountain world of the Zillertal and the elements of nature.\nOpening times: summer from June - September from Monday to Sunday from 08.30 am - 12.00 am and from 01.00 pm - 05.00 pm\nGuided tours available for bigger groups with registration. Guided tours available in German and English.\nPrices:\nadults €4,-\nchildren €2,-\nfamily ticket €9,- (2 adults and up to 3 children)\nfree to guests from partner companies od the nature park\n€1,- concession with the Zillertal Activcard\nBest time to visit  is all year around.\nThe exhibition is especially suitable for families and schools.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d5334059-5193-4b41-a2ff-a78fabc9b475/99/image.jpg",
+      "caption": "Naturpark "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6149a54f-5a12-4a87-b202-0c6884649384/99/image.jpg",
+      "caption": "Naturparkhaus Ginzling"
+    }
+  ],
+  "url": [
+    "http://www.naturpark-zillertal.at"
+  ]
+}

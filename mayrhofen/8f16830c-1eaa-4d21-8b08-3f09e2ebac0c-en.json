@@ -1,0 +1,131 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.zillertalnet.at/egger/index.htm",
+    "http://maps.mayrhofen.at/?foreignResource\u003d8F16830C-1EAA-4D21-8B08-3F09E2EBAC0C"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsberg 821",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 51090",
+    "faxNumber": "0043 5282 51090",
+    "email": "fw.egger@aon.at",
+    "url": "http://www.ferien-im-zillertal.at"
+  },
+  "name": "Egger Wilfried",
+  "description": [
+    "cosy guesthouse in sunny and quiet position",
+    "children reduction on request",
+    "Check-in: 14:00 - Check-out: 10:00"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5acef717-2af5-4b16-ad5e-b6f9b36584d5/99/image.jpg",
+      "caption": "Egger Wilfried Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4411a22a-98b0-4bf7-896a-51ed07f20721/99/image.jpg",
+      "caption": "Egger Wilfried Ramsau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7fbe2c8-76a7-4c45-a5b3-949d25f77d4e/99/image.jpg",
+      "caption": "125850"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1b02000-4d58-4d88-b1cc-0a2705e90972/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/085dede6-5d4e-48fb-b2c4-2a290fa3f9b5/99/image.jpg",
+      "caption": "skifahrer-in-action"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fbdd6950-2243-494b-9616-c0fd11e1f7d1/99/image.jpg",
+      "caption": "Sommer_Gipfel_Panorama ("
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0196a9d-083e-4963-9a96-a2f01de93732/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd87e4e4-ead7-48a6-9380-ff2c92e01fc3/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a31d67b2-8a5a-4fba-b681-123d09e72d3a/99/image.jpg",
+      "caption": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d84e039-5aea-4552-9b2e-afeb89ece4c1/99/image.jpg",
+      "caption": "bike mayrhofen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2079514808857",
+    "longitude": "11.8804907798767"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet, 1 bed room",
+      "description": "Our Appartement with shower, bath, WC, 1 sleepingroom",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/1 bedroom/shower, bath tube,WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

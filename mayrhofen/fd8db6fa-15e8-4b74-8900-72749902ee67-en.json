@@ -1,0 +1,405 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.gaestehaus-kroell-johann.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dFD8DB6FA-15E8-4B74-8900-72749902EE67"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laubichl 138",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62708",
+    "faxNumber": "0043 5285 62708",
+    "email": "schoesser.andreas@aon.at",
+    "url": "http://www.alpevita.com"
+  },
+  "name": "Apart Garni Alpevita",
+  "description": [
+    "Our cosy pension is in the middle in the meadows with wonderful view on the mountains, all-season sunny situation and only 5 going minutes of the local centre Mayrhofen far away,  ski bus stop is directly before the house.",
+    "Price includes local taxes. Sauna-/Wellness-area is to use without costs in our nearby house Apart-garni innerwiesn.",
+    "Check-in: as per arrangement,check out: 09.30 o\u0027clock; direction Mayrhofen up to the first roundabout-left to the IQ gas station-on the left of direction Laubichl - after approx.200 m on the right side is our pension \"Guesthouse KRÖLL Johann\",HNR 138"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "144"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8bfc1a7a-3b21-4109-b87e-8e2d643a62fe/99/image.jpg",
+      "caption": "Alpevita Mayrhofen - Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5bfc2b4-2b12-43f0-a225-d688fb0af3cc/99/image.jpg",
+      "caption": "Alpevita Mayrhofen - Hausansicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/71a33993-8558-4403-8639-c6e05b0c04bb/99/image.jpg",
+      "caption": "Alpevita Mayrhofen - Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/78d00780-6477-4c27-979c-5fedf0d7e21f/99/image.jpg",
+      "caption": "Alpevita Mayrhofen - Apartment - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/470996f4-8e71-4174-b35f-a3e4eaaef2ac/99/image.jpg",
+      "caption": "Alpevita Mayrhofen - Zimmer mit Frühstück"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/160a228c-c793-4118-b262-84a15c98b4ac/99/image.jpg",
+      "caption": "Alpevita Mayrhofen - Zimmer mit Frühstück1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1734436890794",
+    "longitude": "11.8676590919495"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, bath, toilet",
+      "description": "Affordable Basement double room with shower / WC, hairdryer, cable TV, safe, without a balcony.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Basement double room with shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "28.00",
+          "maxPrice": "51.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "20.00",
+          "maxPrice": "37.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Comfortable funished double room with shower /WC, hair dryer, TV, and safe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room Nr. 402 with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Comfortable furnished double room with shower or bath/WC, hair dryer, TV, Safe and balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "33.60",
+          "maxPrice": "61.60",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "20.00",
+          "maxPrice": "44.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Single room, shower, toilet",
+      "description": "Comfortable furnished single room with shower/WC, hair dryer, TV, Safe and balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "single room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "22.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 2 bed rooms",
+      "description": "2 double or three-bedrooms each with shower/WC, hairdryer, TV, Safe, fully equipped kitchen with eating area, hall/vestibule, balcony, roll service.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 52m²/ 2 bedrooms / 2x shower/WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "146.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "161.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "176.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "70.00",
+          "maxPrice": "203.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet",
+      "description": "1 double bedroom with TV, Safe, shower/WC, hairdryer, kitchenette and 1 double bedroom with TV, Safe, shower, hairdryer,kitchenette, seats, balcony with seats, roll service",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 46m²/ 2 bedrooms/ shower,WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "114.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "129.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "52.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 2 bed rooms",
+      "description": "1 double with a double bed, cable TV, hairdryer and safe, 1 double with a double bed, single bed and balcony, cable TV, hairdryer and safe. Fully equipped kitchen, hallway / entrance hall and 1 x shower and WC.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 50m²/ 2 bedrooms/shower,WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "66.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "164.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "65.00",
+          "maxPrice": "191.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet",
+      "description": "1 bedroom with a double bed, single bed and balcony, cable TV, hairdryer and safe. Fully equipped kitchen and 1 x shower and toilet.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "34.00",
+          "maxPrice": "999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "999999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

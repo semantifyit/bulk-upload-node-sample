@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church"
+  ],
+  "name": "Granatkapelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1708422777404",
+    "longitude": "11.8035331625244"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Granatalm.at GmbH",
+    "streetAddress": "Penken 422",
+    "addressLocality": "Mayrhofen ",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63033",
+    "faxNumber": "(0043) 5285 63033-33",
+    "email": "info@granatalm.at",
+    "url": "www.granatalm.at"
+  },
+  "description": "Die vom schweizer Stararchitekten Mario Botta aus dem Tessin geplante „Capella Granata\" entsteht auf 2087 m Seehöhe östlich des Speicherteiches am Penkenjoch. Sie wird dem Seligen Engelbert Kolland geweiht, dessen Heimatgemeinde, Ramsau im Zillertal, man von der Kapelle aus sieht.\n\nDas Bauwerk hat die Form eines geschliffenen Granaten (12 rhombenförmige Flächen). Auf einer Holzrahmenkonstruktion sind an der Aussenseite Platten aus vorgerostetem Stahl (Corten) angebracht. Im Innenbereich dominiert heimisches Lärchenholz.\n\nDas Innere der Kapelle prägen, neben der schlichten, geradlinigen Holzverkleidung, besonders die Lichteffekte aus der Glaskuppel an der Decke sowie den beiden in die Fassade eingebundenen Glaskreuze. Den Altar in Nussholz mit Granateinlage sowie ein Porträt des Seligen Engelbert Kolland (Holzmosaik aus 7 verschiedenen, heimischen Hölzern) gestaltete der Künstler Markus Thurner aus Maurach am Achensee.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1cb38c0-6969-4c8f-bdcc-d501160299a7/99/image.jpg",
+      "caption": "Kapelle "
+    }
+  ],
+  "url": [
+    "http://www.christas-skialm.at/sommer/aktuelles/granatkapelle"
+  ]
+}

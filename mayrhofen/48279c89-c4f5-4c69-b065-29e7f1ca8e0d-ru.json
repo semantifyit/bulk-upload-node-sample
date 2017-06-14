@@ -1,0 +1,152 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apart-pecar.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d48279C89-C4F5-4C69-B065-29E7F1CA8E0D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apart Pecar",
+    "streetAddress": "Wiese 244",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 680 4043404",
+    "email": "kontakt@apart-pecar.at",
+    "url": "http://www.apart-pecar.at"
+  },
+  "name": "Apart Pecar",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd158bbf-e0e5-4464-8b78-aaed35c963a9/99/image.jpg",
+      "caption": "Apart Pecar Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/19efc017-3d84-448c-95de-2dd396afa994/99/image.jpg",
+      "caption": "Apart Pecar Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dfe659ca-0095-4b06-8171-6b2a7c5b01cd/99/image.jpg",
+      "caption": "Apart Pecar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/82e3bc6e-cdf2-4a3b-9ecc-df60b54476f4/99/image.jpg",
+      "caption": "Apart Pecar - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/80603224-d9db-4108-a34a-c8d484c5c223/99/image.jpg",
+      "caption": "Apart Pecar - Sitzecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4c1cb231-2daf-4861-863a-dd221aafe84a/99/image.jpg",
+      "caption": "Apart Pecar - Zimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/edcd310e-3fe8-47fd-98fa-0e1f2f1917fa/99/image.jpg",
+      "caption": "Apart Pecar - Zimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/988c5573-825d-4f18-8726-4031d4193354/99/image.jpg",
+      "caption": "Apart Pecar - Wohlfühloase"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/34c7c333-3c1b-4f93-9c75-5d627b80a065/99/image.jpg",
+      "caption": "Apart Pecar - Sitzecke im Garten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2089062686497",
+    "longitude": "11.8709099292755"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент, shower, toilet, 2 спальни",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/8a471eda-73ec-4875-ab84-fda317eb086a/99/image.jpg",
+              "caption": "Apart Pecar"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/dd847879-00fc-44cc-a4b8-1152369662b3/99/image.jpg",
+              "caption": "Wohlfühloase"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/c836cd59-1507-469d-97d1-2620f60958ad/99/image.jpg",
+              "caption": "Zimmer1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/aa297a7b-b3c3-4763-a646-2a0b8e1699a4/99/image.jpg",
+              "caption": "Küche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/7db4ada1-a145-4e8f-995b-d3c54b3bdce6/99/image.jpg",
+              "caption": "Sitzecke"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/40606ed3-a6c9-4e4a-8a09-ad0d38bf92cf/99/image.jpg",
+              "caption": "Zimmer 2"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

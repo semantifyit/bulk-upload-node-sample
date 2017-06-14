@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Hochgebirgsnaturpark Zillertaler Alpen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1002156",
+    "longitude": "11.8085985"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Naturparkhaus Ginzling",
+    "streetAddress": "Ginzling 239",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "+43 5286 52181 ",
+    "faxNumber": "+43 5286 5218-4",
+    "email": "info@naturpark-zillertal.at",
+    "url": "http://www.naturpark-zillertal.at"
+  },
+  "description": "No indivudual streets, no lifts, no helicopter flights - just pure natural as well as cul­tural landscape to explore. 1991 the 379 km2 virgin alpine landscape were declaired a nature reserve. Glaciers, minerals and a variety of diverse species characterize the high alpine nature reserve which expands from the mountaineering village Ginzling (1.000m asl) to the Hochfeiler (3.509m asl). For more than 20 years the high alpine nature park reflects a synonym for a lasting nature conservation, environment and research in the \"Zillertal\".",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/42f5e31b-4a4e-4cee-bdeb-4ab6e68fe90b/99/image.png",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b712d85e-8a9e-46c8-ac0a-50c9e273dc00/99/image.jpg",
+      "caption": "Wanderer"
+    }
+  ],
+  "url": [
+    "http://www.naturpark-zillertal.at"
+  ]
+}

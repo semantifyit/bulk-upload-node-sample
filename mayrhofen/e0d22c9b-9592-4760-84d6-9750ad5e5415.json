@@ -1,0 +1,82 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": [
+    {
+      "@language": "de",
+      "@value": "Festland Music Festival"
+    },
+    {
+      "@language": "en",
+      "@value": "Festland Music Festival"
+    },
+    {
+      "@language": "ru",
+      "@value": "Festland Music Festival"
+    }
+  ],
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Die Querdenker",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bichl 642",
+      "addressLocality": "Ramsau",
+      "postalCode": "6284",
+      "addressCountry": "AT",
+      "email": "office@diequerdenker.at",
+      "url": "http://www.festlandmusic.at/"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Die Querdenker",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bichl 642",
+      "addressLocality": "Ramsau",
+      "postalCode": "6284",
+      "addressCountry": "AT",
+      "email": "office@diequerdenker.at",
+      "url": "http://www.festlandmusic.at/"
+    }
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ein Festival im kleinen Rahmen, fernab von den Massen der Großevents, bei dem handgemachte Musik großgeschrieben wird: Das ist FESTLAND. Auf keinem verlassenen Flughafenareal oder irgendwo im Nirgendwo, nein, mitten in den Bergen, umgeben von einer einzigartigen Naturkulisse und versehen mit dem Flair des Waldes geht es zurück zum Ursprung.\n\nAls Gegenbewegung zu den großen Festivals, die immer noch mehr wachsen, schafft das Festland Music Festival eine intime Atmosphäre zwischen Künstlern und Besuchern. Der Fokus liegt auf dem Wesentlichen, auf der Musik, dem damit verbundenen Lebensgefühl und den Emotionen, die sie hervorruft. Eintauchen in eine andere Welt, ins FESTLAND, wo Gastfreundschaft und Qualität statt Quantität zählen.\n\nSpür das Leben, spür die Musik, werde ein Teil von FESTLAND.\n\nLine Up:\n- Kelvin Jones\n- Lemo\n- KYTES\n- NIHILS\n- Lions Head\n- Shakka\n- Alex Diehl\n- Nessi\n- Kids of Adelaide\n- Tim Kamrad\n- PASSEPARTOUT\n- Ciela\n- Sempre Caoz\n- lilla\n\nDie limitierten Early-Bird Festivalpässe (3 Tage) sind noch bis 5. März um € 49,00 (zzgl. Gebühren) auf www.festlandmusic.at/tickets.html  erhältlich.\n\n\nHomepage: www.festlandmusic.at \nFacebook: www.facebook.at/festlandmusic\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "at the Forest Festival Area in Mayrhofen\n\nLine Up:\n- Kelvin Jones\n- Lemo\n- KYTES\n- NIHILS\n- Lions Head\n- Shakka\n- Alex Diehl\n- Nessi\n- Kids of Adelaide\n- Tim Kamrad\n- PASSEPARTOUT\n- Ciela\n- Sempre Caoz\n- lilla\n\nLimited Early-Bird Festivalpass (3 Days) are available for € 49,00 till the 5th of March at www.festlandmusic.at/tickets.html  erhältlich.\n\n\nHomepage: www.festlandmusic.at \nFacebook: www.facebook.at/festlandmusic\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/29228738-a0be-4d28-9f2e-c7fc38f4fff6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Festland Music Festival"
+        },
+        {
+          "@language": "en",
+          "@value": "Festland Music Festival"
+        },
+        {
+          "@language": "ru",
+          "@value": "Festland Music Festival"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "https://www.youtube.com/watch?v\u003dlUWCQn9FyuU"
+  ],
+  "startDate": "2017-06-22T00:00:00",
+  "endDate": "2017-06-24"
+}

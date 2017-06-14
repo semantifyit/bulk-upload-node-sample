@@ -1,0 +1,1278 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "Hotel",
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dB76C5740-EFB3-4B13-B505-2DF717F8F9A7"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Häusling-Alm, Gasthof",
+    "streetAddress": "Zillergrund 53",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5289 212",
+    "email": "info@haeusling-alm.at",
+    "url": "http://www.haeusling-alm.at"
+  },
+  "name": "Gasthof Häusling-Alm",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich willkommen bei der Fam. Rahm im längsten Seitental von Mayrhofen. Auf 1.050 m Seehöhe, inmitten des naturbelassenen und 25 km langen Zillergrundes bei Mayrhofen, läd Sie unsere „Häusling Alm“ auf einen Ausflug zum Genießen ein (typisch Zillertaler Gerichte oder auf einen ruhigen und erholsamen Urlaub zum Entspannen ein).\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise bis 22 Uhr\nAbreise bis 10 Uhr\nHalbpension auf Anfrage\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise mit dem Auto nach Mayrhofen\nÜber die Inntalautobahn A12 bis zur Ausfahrt Zillertal und von dort noch 30 km auf der Zillertal Bundesstraße Nr. B169 bis nach Mayrhofen und dann Richtung Zillergrund.\n\nAnreise mit der Bahn\nUm die Anreise so einfach wie möglich zu halten, sollten Sie mit der Bahn bis Bahnhof Jenbach fahren. Dort lösen Sie eine Zugkarte für die Zillertal Bahn nach Mayrhofen. Am Bahnhof stehen Ihnen mehrer Taxis zur Verfügung.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Welcome to the family cream in the longest valley of Mayrhofen. On 1,050 m sea height in the midst of the unspoilt and 25 km long Zillergrundes at Mayrhofen, läd, you ours „Häusling Alpine pasture“on an excursion for enjoying one (typical Zillertaler courts or restful vacation on one for easing one).\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Arrival til 22:00\nDeparture til 10:00\n\nHalfboard on request"
+    },
+    {
+      "@language": "en",
+      "@value": "Arrivals to Mayrhofen by car\nVia the Inntalautobahn A12 motorway until the exit for Zillertal, from there take the B169 Zillertal Road for the next 30 km to Mayrhofen and then direction \n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0909324-63fe-4b4b-a30e-35b8d671c0f8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - Sommer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - Sommer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - Sommer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77648c06-433b-40e6-affc-fc7ed8c834c5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - Sommer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - Sommer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - Sommer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a7dc1590-7cbe-4de6-af8d-c243450adb83/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - Sommer 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - Sommer 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - Sommer 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26db08d2-0f87-4ed9-868e-19d163f6e421/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - Sommer 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - Sommer 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - Sommer 4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/060a6c66-c93a-4cec-8c30-90742c583551/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - Sommer 5"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - Sommer 5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - Sommer 5"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f3962f5-54ae-4b53-b552-50d43f8fed45/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b672c940-1d69-4a59-b112-2c9055eef39e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - Winter 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - Winter 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - Winter 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd471852-5aa2-46bc-9503-8b2c5f4ba2f2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/355f70d2-9bd4-43b2-9ffd-9701d7207fb6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - Garten"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - Garten"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - Garten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec78fefc-8c57-423a-a787-ecd17a42a09e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - Speisesaal"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - Speisesaal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - Speisesaal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04d785aa-1d64-4b1a-a035-0c658d99f6f5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - FEWO 1-2"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - FEWO 1-2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - FEWO 1-2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6321f39b-0c99-4424-a840-b671a3bc7e50/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - Dreibettzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - Dreibettzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - Dreibettzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86df29bf-5858-49f9-a4cb-b12e13ac0438/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - Doppelzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - Doppelzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - Doppelzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8dea3a6c-898f-431d-8d7f-37c0f3456de4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - Doppelzimmer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - Doppelzimmer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - Doppelzimmer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e313d1d-9b93-4317-8732-8e32e290e34f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - Gemeinschaftsküche"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - Gemeinschaftsküche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - Gemeinschaftsküche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1411e72-2d0e-42b5-8f5e-caaf0fc72650/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - Wohnküche"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - Wohnküche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - Wohnküche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d00cfc2-ccfe-4f3d-8cc9-58d213806ad0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Häusling Alm Brandberg - Wohnküche2"
+        },
+        {
+          "@language": "en",
+          "@value": "Häusling Alm Brandberg - Wohnküche2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling Alm Brandberg - Wohnküche2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5473df75-9295-4c63-824a-494d16ac9aa5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Alpenland"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Alpenland"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Alpenland"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5b0b7cb0-4f3c-4dc7-a97f-d638bc46e59b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Biken"
+        },
+        {
+          "@language": "en",
+          "@value": "Biken"
+        },
+        {
+          "@language": "ru",
+          "@value": "Biken"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c39da01-e679-4828-bd81-c2cfee2a15bf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Biker"
+        },
+        {
+          "@language": "en",
+          "@value": "Biker"
+        },
+        {
+          "@language": "ru",
+          "@value": "Biker"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/778c3ce5-63d1-4d76-ba32-4b732374464b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Radfahren"
+        },
+        {
+          "@language": "en",
+          "@value": "Radfahren"
+        },
+        {
+          "@language": "ru",
+          "@value": "Radfahren"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b218c74d-fdce-4d32-b762-1479df74c6cf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bergbahn"
+        },
+        {
+          "@language": "en",
+          "@value": "Bergbahn"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bergbahn"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e4cd8c95-fb9c-424c-b3f9-e1c9eaf5c500/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Paragliden"
+        },
+        {
+          "@language": "en",
+          "@value": "Paragliden"
+        },
+        {
+          "@language": "ru",
+          "@value": "Paragliden"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/31ffb1d3-b22e-4715-9576-b156f175e5fb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1469755",
+    "longitude": "11.9658152"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "„Bergsteigerunterkünfte im Gasthaus Häusling Alm“\nBesonders geeignet für alle Radsportfans bzw. Transalptourteilnehmer und Bergenthusiasten ...\n"
+        },
+        {
+          "@language": "en",
+          "@value": "„Mountaineer accommodations in the inn Häusling Alpine pasture“ ..\nParticularly suitable for all cycling fans or trans nightmare tour participants and mountain enthusiasts . .\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer"
+            },
+            {
+              "@language": "en",
+              "@value": "double room"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "6"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Frühstück"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "6"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "23.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "23.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "23.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "23.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "23.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Etagendusche/Etagen-WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shared shower/shared toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, общий душ/общий туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Acht einfach ausgestattete Doppelzimmer, auf einer Etage mit vier Etagenduschen sowie drei Etagen-WC\u0027s stellen eine passende und vor allem kostengünstige Unterkunft für eine Gruppe von 8-16 Personen dar.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Eight double rooms simply equipped, on a floor with four shared showers put fitting and primarily economical accommodation for floor toilet for a group of 8-16 persons.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Gruppenunterkunft"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shared shower/shared toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, общий душ/общий туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "16",
+            "minValue": "8"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 13",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 14",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 15",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 16",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche oder Bad, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower or bath, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, Душевая кабина или ванна, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die 40 m² große Wohnküche mit einer Essstube (2 Ausziehbetten) bietet Platz, für gemütliche Kochstunden. Neben zwei Doppelzimmern (à 20 m² ) verfügt diese Wohnung auch über ein Einbettzimmer (9 m²) und natürlich über eine Dusche sowie WC. Ein geräumiger Abstellraum ermöglicht, zusätzliche Utensilien problemlos zu verstauen.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "A big kitchen-cum-living-room with an eating room (2 pulling out beds) offers 40 m ² place this one for comfortable cook hours. This apartment also has a one bed room (9 m ²) and of course a shower as well as toilet next to two double rooms (at 20 m ² each). A spacious storeroom makes it possible to pack without problems additional utensils.\n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung \"Edelweiß\""
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower or bath, toilet, 3 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, Душевая кабина или ванна, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung \"Edelweiß\" mit Frühstück"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower or bath, toilet, 3 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, Душевая кабина или ванна, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "34.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "34.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "34.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "34.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche oder Bad, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower or bath, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, Душевая кабина или ванна, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Unsere Wohnung ist mit einem Dreibettzimmer (20 m²) und einem Schlafzimmer mit Stockbetten (7 m²) ausgestattet. Der bequeme Divan, eine traditionelle „Zillertaler Liege“ in der 25 m² großen Wohnküche (25 m²) ermöglicht zuzätzlich einen Schlafplatz, welcher ruhige Stunden garantiert. Abgesehen von Dusche und WC bietet der Abstellraum ausreichend Platz, um sein Gepäck unterzubringen.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Our apartment is equipped with a three bed room (20 m ²) and a bedroom with stick beds (7 m ²). The comfortable Divan, one traditional „Zillertaler couch“zuzätzlich makes a sleep place possible in the 25 m ² big kitchen-cum-living-room (25 m ²) which guarantees peaceful hours. Except for shower and toilet the storeroom offers sufficient place to put his baggage\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung \"Enzian\""
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower or bath, toilet, 3 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower or bath, toilet, 3 спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung \"Enzian\" mit Frühstück"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower or bath, toilet, 3 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, Душевая кабина или ванна, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "34.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "34.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "34.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "34.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche oder Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower or bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, Душевая кабина или ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Tradition wird auch in dieser Wohnung großgeschrieben! Die Wohnküche (25 m²), ausgestattet mit einem „Divan“, bietet Raum zum selbst Kochen. Ein Dreibettzimmer (20 m²) und ein Doppelzimmer (12 m²) sowie ein Badezimmer/WC stehen für unsere Feriengäste bereit. Der Balkon eröffnet eine atemberaubende Naturkulisse und läd zum Staunen ein.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Tradition is written with a capital letter also in this apartment! The kitchen-cum-living-room (25 m ²) equipped with one „Divan“room offers, for boiling itself. A three bed room (20 m ²) and a double room (12 m ²) as well as a bathroom/toilet are ready for our vacationists. The balcony opens a breathtaking nature scenery and läd to the astonishment.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung \"Alpenrose\""
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower or bath, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, Душевая кабина или ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung \"Alpenrose\" mit Frühstück"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower or bath, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, Душевая кабина или ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "34.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "34.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "34.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "34.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die geräumige Ferienwohnung (120 m²) erstreckt sich über 2 Etagen und bietet Raum für 4 bis 8 Personen. Außerdem finden Sie 3 Doppelzimmer mit Dusche und WC (à 25 m²) sowie 1 Zweibettzimmer, ausgestattet mit Dusche/ WC und einem großem Hygienebereich. Die zweckgemäße Küche (20 m²) mit Backofen, Microwelle, Kühlschrank, Kaffeemaschine, Wasserkocher und Spülmaschine ermöglicht, sich voll und ganz der Kochleidenschaft zu widmen. Natürlich ist unsere Ferienwohnung zusätzlich mit W-Lan und Sat/TV versehen.\n\nUnser „Grillgarten“ verkörptert das absolute Hightlight für einen romantischen Abend. Umrahmt vom traumhaften Alpenpanorama im Hintergrund, können Sie den Tag ruhig ausklingen lassen.\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "The spacious vacation dwelling (120 m ²) extends over 2 floors and offers room for 4 to 8 persons. In addition, you find 3 double rooms with shower and toilet (at 25 m ² each) as well as 1 twin room equipped with shower/toilet and a big hygiene area. The kitchen according to the purpose (20 m ²) with oven, Microwelle, devoting itself to the cook passion fully and completely, made possible for refrigerator, coffee machine, water cooker and automatic dishwasher. Of course our vacation dwelling is provided with W-Lan and Sat/TV in addition. „Die javelin grill garden“verkörptert the absolute Hightlight for a romantic evening. You can let the day finish safely, framed by the wonderful Alps panorama in the background.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung - Haus Alpenland"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d68FE7857-EF87-4217-AAB5-6DBCDFCA4FFF",
+    "http://booking.mayrhofen.at/mayrhofen/de/accommodation/detail/ZIL/68FE7857-EF87-4217-AAB5-6DBCDFCA4FFF/weissenbacher-hochwart"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Weißenbacher - Hochwart",
+    "streetAddress": "Windhag 15",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 631 75",
+    "faxNumber": "0043 5285 631 75",
+    "email": "hochwart@gmx.at",
+    "url": "http://booking.mayrhofen.at/mayrhofen/de/accommodation/detail/ZIL/68FE7857-EF87-"
+  },
+  "name": "Weißenbacher - Hochwart",
+  "description": [
+    "Gemütliche Ferienwohnung in sonniger und ruhiger Lage!",
+    "Die Preise sind inkl. Strom, jedoch exkl. Endreinigung",
+    "Check in: 15.00\nCheck out: 09.00"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4804206-b09b-460d-8395-61ef9c3e2177/99/image.jpg",
+      "caption": "Hochwart Brandberg - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8691a96d-07ea-491c-9cf3-047119b958e1/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28c5665d-8444-4bd0-8a03-075529a8b1b6/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/73ac0db4-60c3-403e-a1b9-b17d952c2ab7/99/image.jpg",
+      "caption": "Bauer__Landwirt_Kulinarik_Brettljause_Wiese (Archi"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b855d0b4-8510-4b94-b32a-a9dde1c63c55/99/image.jpg",
+      "caption": "bike mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ecf597e-ff0f-499d-b008-440d4b8ecc30/99/image.jpg",
+      "caption": "skifahrer-in-action"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb91d8e7-263e-45cd-a24b-abf59dc06d0d/99/image.jpg",
+      "caption": "Sommer wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a5604b18-25e2-4cfc-a0f9-9ffec3d4fe3d/99/image.jpg",
+      "caption": "Sommer_Gipfel_Panorama ("
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1a18a58-f1ef-4617-aeed-0fc9f765c5b4/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e25e64e2-f0d9-4fda-baf6-214f8eab77a9/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ebf29401-1139-464f-bfcd-4f91d36bb45d/99/image.jpg",
+      "caption": "Kuf auf der Alm "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1691550777262",
+    "longitude": "11.8981504440308"
+  },
+  "paymentAccepted": [
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Wohnung mit 3 Schlafräume, Bad, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap./Wohn-Schlafraum/3 Schlafraum/Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

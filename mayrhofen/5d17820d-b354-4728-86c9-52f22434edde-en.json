@@ -1,0 +1,102 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d5D17820D-B354-4728-86C9-52F22434EDDE"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergfriede, Haus",
+    "streetAddress": "Bichl 557",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3023",
+    "faxNumber": "0043 5282 3023",
+    "email": "acwidauer@aon.at"
+  },
+  "name": "Haus Bergfriede",
+  "description": [
+    "A cultivated house with one comfortable appartement  for 2-5 person.\nIs only 10 minutes walk from the centre.\nFree ski bus and guestbus stop outside the house  80 meter afar.\n\n",
+    "inkl. WLan ,Nichtraucherwohnung, Haustiere sind nicht erlaubt, Skiraum mit Skischuhtrockner\nicluding Wi-Fi, non-smoker appartment, pets aren\u0027t allowed, ski room with ski boot dryer ",
+    "Check in 14.00 - Check out 9.30 "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/142de173-b625-4535-bccd-d6c04d54ea7a/99/image.jpg",
+      "caption": "Haus Bergfriede Ramsau - Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/854c4169-8af2-4b14-9733-c727544ce821/99/image.jpg",
+      "caption": "Haus Bergfriede Ramsau - Hausansicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/24b7ec1b-4a6b-478e-9233-acc2b798e80a/99/image.jpg",
+      "caption": "Haus Bergfriede Ramsau - Aussicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1977975982872",
+    "longitude": "11.8750083446503"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet",
+      "description": "Appartement with a large furnished balcony on the south-side.\n2 bedrooms with shower and WC, wardrobe, comfortable kitchen, satellite TV, coffeemachine, toaster, microwave, cooker with a oven and fume cupboard, fridge with a icebox. W-Lan\n\nSkicellar with skishoedryer.\nBreadservice and parking place.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "70.00",
+          "maxPrice": "92.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

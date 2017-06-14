@@ -1,0 +1,92 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Tristenbachalm 1200m"
+    },
+    {
+      "@language": "de",
+      "@value": "Tristenbachalm 1200m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Tristenbachalm 1200m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0952680977252",
+    "longitude": "11.8305373191833"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tristenbachalm",
+    "streetAddress": "Ginzling 290",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5286 20032",
+    "email": "info@tristenbachalm.at",
+    "url": "www.tristenbachalm.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "10.8.1857 - Erste Vermarkung der Alpe Tristenbachalm und des K.u.K - Aerars unter dem Besitzer Johann Eberl zu Troppmaier in Finkenberg.\nNoch vor der Jahrhundertwende wurde die Alpe Tristenbachalm an die Bauersleute zu Schelcher in Eckartau verkauft.\n1913 - Almhütte und Stallgebäude in der Nacht nach Käsereiarbeiten bis auf die Grundmauern abgebrannt.\n1914 - Almhütte und Stallgebäude in der bestehenden Form wieder aufgebaut und bewirtschaftet.\n15.12.1916 - Maria Pfister, Besitzerin der Bauernschaft zu Schelcher in Eckertau in der Gemeinde Mayrhofen, verkauft die gesamte Alpe Tristenbach an unseren Vorfahren Klausner Josef, Bauer zur Draxlaste in Dornauberg, Gemeinde Finkenberg um 6.000,- Kronen.\n1935 - Tochter Hedwig Fankhauser erbt die gesamte Liegenschaft von ihrem Vater, und übergibt sie 1963 ihrem Sohn Klausner Wilhelm.\n1963 - Klausner Wilhelm mit Gattin Gretl beginnen mit dem Ausschank der eigenen Produkte wie Vollmilch, Buttermilch, Butterbrote, Graukäse usw.. Damit war auch der Aufstieg der Tristenbachalm zum gern besuchten Ausflugsziel für Einheimische und Gäste eingeleitet.\n14.09.1966 - Beginn der Bauarbeiten an der Floitenbachfassung im Zuge der Zemmkraftwerke / Tauernkraftwerke AG.\n1968 - Erstmalige Konzession der Jausenstation Tristenbachalm für Gast- und Schankgewerbe während der Sommermonate von 08.00 bis 20.00 Uhr.\n1972 - Anbau des neuen Küchengebäudes mit erforderlichem Innenumbau.\n1973 - Errichtung der neuen WC-Anlagen.\n16.07.1973 - Erweiterung der Konzession auf: -keine jahreszeitliche Befristung mehr / -tägliche Betriebszeit erweitert auf 08.00 bis 22.00\n1978 - Neugestaltung der Terasse\n01.05.1992 - Enkel Klausner Christian übernimmt in der 5.Generation die gesamte Alpe Tristenbach und führt die Jausenstation Tristenbachalm nach alter Familientradition weiter.\n2000 - Neugestaltung des Servicebereiches.\n01.01.2001 - Winterbetrieb mit beleuchteter Rodelbahn\n2001 / 2002 - Erweiterung des Gastbereiches durch Ausbau des Stallgebäudes für unsere Gäste\nApril 2002 - Bau und Inbetriebnahme einer vollbiologischen Kläranlage K50\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter \ngeschlossen\n\nkeine Übernachtung möglich "
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nclosed\n\n\nno overnight stay possible "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/21abf231-ddc8-491a-872f-c7bd37d6886a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Tristenbachalm"
+        },
+        {
+          "@language": "de",
+          "@value": "Tristenbachalm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Tristenbachalm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/06113054-33a4-4aa8-9c8b-27f9c0bb1cf0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Tristenbachalm 1200 m"
+        },
+        {
+          "@language": "de",
+          "@value": "Tristenbachalm 1200 m"
+        },
+        {
+          "@language": "ru",
+          "@value": "Tristenbachalm 1200 m"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.tristenbachalm.at"
+  ]
+}

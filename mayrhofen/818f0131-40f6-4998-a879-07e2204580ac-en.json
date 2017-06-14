@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Tonis Massagen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1777185",
+    "longitude": "11.8622542"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tonis Massagen",
+    "streetAddress": "Burgschrofen 523",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 1364349",
+    "email": "tonis-massagen@aon.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/01c1aa28-db8b-450c-bf79-f3f3cf754919/99/image.jpg",
+      "caption": "Tonis Massagen"
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-siegelerhof.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d3CF1664F-67B0-43BD-9935-969CC8FA84EA"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Der Siegelerhof",
+    "streetAddress": "Durster Straße 226",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62493",
+    "faxNumber": "0043 5285 624937",
+    "email": "info@hotel-siegelerhof.at",
+    "url": "http://www.hotel-siegelerhof.at"
+  },
+  "name": "Der Siegelerhof",
+  "description": [
+    "The cosy, family atmosphere of the Siegelerhofs has granted us guests not at home and anyway at home - from all the world already for many years. \nThe Siegelerhof is one of the first mentioned houses in the chronicle of Mayrhofen. The more than 100 years old farmhouse parlor could tell many stories. One met in this room to the comfortable get-together and playing instruments. With the initial folk music these have been confessed out of \"Siegelers\" far about the limits. \nYou can comfortably call your mails or surf in the Internet with Wireless Lan in the room or in the room. \nIn the middle of Mayrhofen the marvelous garden invites big and Klein to staying! \nWhile your children are amusing themselves with swing, slide, merry-go-round, table tennis or trampoline, you enjoy a drink on our terrace or watch the children from the deck chair. \nWho importance attaches to quiet and relaxation, is exactly right with us on vacation! \nUa family breakfast pension is nsere located in Mayrhofen and quietly in the center directly next to the main street next to the event center euro pooh end.",
+    "Check in: 14:00 - Check out: 11:00\nOn late departure please let us know!\n",
+    "Travelling by Car\nVia the Inntalautobahn A12 motorway until the exit for Zillertal, from there take the B169 Zillertal Road for the next 30 km to Mayrhofen\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "reviewCount": "288"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ecfdaafe-3d4b-41ab-be2f-7a0cd68f85c2/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/23221f8a-b090-4743-a869-dc5703e69d7d/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/08e8354f-dbd3-473d-a664-fb12aefcd3c1/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3af81b66-ae2b-4422-a502-bcdf99d052c7/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8b8aa3e0-bbdb-4aec-8bad-0dabad0984cf/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Terrasse Neu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94ea63c7-6968-4059-b0c9-35e10e48efe8/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Terrasse Neu1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c3e6745c-eeda-4521-afce-b9e96d802a5f/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Terrasse1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2abf5967-a7ca-4129-93b6-1827c3d3de9c/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fb7df568-1f5e-48af-8361-7634bb17d6fa/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c0ff2aea-08c9-483a-9696-4c0a5bace308/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Halle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/375d4f12-9d1c-462a-8f11-1f1580c2bb24/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Halle2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7431966e-37c9-4ff7-be76-79f982f2451d/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7df98fcb-324d-4ba5-acc0-93ac5e0e0497/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Frühstücksraum2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1eaa839-cfc9-4b12-ac57-a42d89c779dc/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Frühstücksraum3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cdb93bc5-ae84-4ac9-8db0-38510459b4cc/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Frühstücksraum4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/316e2979-e75b-4fe1-91f9-21703e62cb74/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Hausgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a821662a-eba7-4fb2-935a-147533ffde0a/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Barparty"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/31f55028-c937-4beb-a16b-47e0f9103ba0/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Zimmer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e9e94932-995f-45fd-a16c-82f5ea3d2941/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1a86790c-8872-41ab-a5be-39eab3dfa2e8/99/image.jpg",
+      "caption": "Der Siegelerhof Mayrhofen - 3Bettzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/013c0219-8883-45fa-bbaf-535dac4adb88/99/image.jpg",
+      "caption": "Gipfelkreuz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dffeca12-f684-47fa-a04a-0c9a04e0f016/99/image.jpg",
+      "caption": "Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/adc59a24-4944-4697-9edc-0d7218423185/99/image.jpg",
+      "caption": "Skipiste"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c9ed17cd-cc1d-49d5-b8bf-f60623508973/99/image.jpg",
+      "caption": "Schneekar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/37438c35-edd6-4467-a0f9-9bed4490bca8/99/image.jpg",
+      "caption": "Piste"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/554213e4-20a5-4bff-ae0f-1ca063381666/99/image.jpg",
+      "caption": "Freibad Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16c601bc-31a8-4280-81f2-6364a6042d4e/99/image.jpg",
+      "caption": "Paragliden"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1686663874476",
+    "longitude": "11.865953207016"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Comfortable room with balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "single room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Single room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Single room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Triple room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "36.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Triple room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "36.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, running hot/cold water",
+      "description": "Comfortable rustical room with a magnificent view of the mountains.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with running hot/cold water",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Triple room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Triple room, shower, toilet",
+      "description": "Spacious room with balcony and mountain view.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "triple room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Triple room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Triple room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Triple room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.00",
+          "maxPrice": "127.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "36.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

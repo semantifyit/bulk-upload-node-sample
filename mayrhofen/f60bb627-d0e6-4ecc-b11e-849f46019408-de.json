@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Ski-Sport Hanzmann",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1619919",
+    "longitude": "11.8601662999999"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ski Sport Hanzmann",
+    "streetAddress": "Tuxerstraße 700",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63116",
+    "email": "info@sport-hanzmann.at",
+    "url": "http://www.sport-hanzmann.at"
+  },
+  "description": "Skiverleih und Skiservice in Mayrhofen\nEinfach praktisch: Komplette Ski- oder Snowboardausrüstungen im Urlaubsort mieten. Somit fahren Sie immer die neuesten Modelle, die auf Ihre persönlichen Bedürfnisse abgestimmt sind!\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2e4c5a0-b9fe-479c-a0d5-9a99ea0da501/99/image.jpg",
+      "caption": "Ski Sport Hanzmann"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc2c6067-12e0-4dc7-b7aa-8e3b2f912979/99/image.jpg",
+      "caption": "Shop"
+    }
+  ],
+  "url": [
+    "http://www.sport-hanzmann.at"
+  ]
+}

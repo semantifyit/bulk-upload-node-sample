@@ -1,0 +1,62 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Zimmerhäuslmühle"
+    },
+    {
+      "@language": "de",
+      "@value": "Zimmerhäuslmühle"
+    },
+    {
+      "@language": "ru",
+      "@value": "Zimmerhäuslmühle"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1944012",
+    "longitude": "11.8496674"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zimmerhäuslmühle",
+    "streetAddress": "Mühlen 198",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Bis August 1946 waren am Wasserlauf des Sidan- und Horbergbaches acht Mühlen und eine Schmiede in Betrieb. In diesem Jahr vernichtete ein Jahrhunderthochwasser fast alle von Wasserkraft genutzten Einrichtungen. Als einzige überstand die „Zimmererhäuslmühle“ diese Naturkatastrophe."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a5ca1cce-7a45-4822-84f4-14fb57e03ea4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Mühle"
+        },
+        {
+          "@language": "de",
+          "@value": "Mühle"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mühle"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.schwendau.at/index.php?option\u003dcom_content\u0026view\u003darticle\u0026id\u003d62\u0026Itemid\u003d109"
+  ]
+}

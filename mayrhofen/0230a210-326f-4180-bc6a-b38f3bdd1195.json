@@ -1,0 +1,368 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d0230A210-326F-4180-BC6A-B38F3BDD1195"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenland, Pension",
+    "streetAddress": "Tuxer Straße 735",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62751",
+    "faxNumber": "0043 5285 63863",
+    "email": "fewo.kroell@gmx.net",
+    "url": "http://www.mayrhofen.at/de/pension-alpenland"
+  },
+  "name": "Pension Alpenland",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ferienwohnungen in ruhiger, sonniger Lage, wenige Gehminuten ins Zentrum, zum Erlebnisbad und zur Seilbahn; Aufenthaltsraum, Liegewiese, Parkplatz."
+    },
+    {
+      "@language": "de",
+      "@value": "Die Preise verstehen sich exklusive Endreinigung. Frühstück auf Wunsch."
+    },
+    {
+      "@language": "de",
+      "@value": "Zillertal Bundesstrasse - Bahnhof - Einfahrt Süd - Tuxerstrasse 735"
+    },
+    {
+      "@language": "en",
+      "@value": "Bed and breakfast in a quiet, sunny position, only a few minutes walk away from the town centre, the adventure swimming pool and the lifts. Sunning area, car park."
+    },
+    {
+      "@language": "en",
+      "@value": "The price excludes a final cleaning charge. Breakfast available."
+    },
+    {
+      "@language": "en",
+      "@value": "B169 - Zillertal main road - Railway station - Einfahrt Süd - Tuxerstrasse 735."
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "36"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50bb5529-06ae-4309-b1ef-30436f50b7ba/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 1 "
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 1 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 1 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bbc9847f-77e5-4daa-a44d-93828a575b3e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 2 "
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 2 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 2 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eed3d906-bec5-440b-820a-d47dccb030f9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 3 "
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 3 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 3 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dfbd0c8c-2cb2-49a6-b9b6-723555e881a0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 4 "
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 4 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 4 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e5909d5e-25b2-40e4-a0a0-deb3129bac04/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 5"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 5"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/89b43a28-c20a-46bc-a90a-3b6b1f382055/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 6"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 6"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Alpenland Mayrhofen - Sommer 6"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eab4a405-5053-4b54-839e-862beb06fad3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Alpenland Mayrhofen - Bad_Internet"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Alpenland Mayrhofen - Bad_Internet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Alpenland Mayrhofen - Bad_Internet"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/378a4dd3-86ba-4727-b59b-0f219e45b7e4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Alpenland Mayrhofen - Kueche_Internet"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Alpenland Mayrhofen - Kueche_Internet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Alpenland Mayrhofen - Kueche_Internet"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9f45e6e-3c1a-4034-909a-81076cc146ca/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Alpenland Mayrhofen - Schlafzimmer_Internet"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Alpenland Mayrhofen - Schlafzimmer_Internet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Alpenland Mayrhofen - Schlafzimmer_Internet"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1cd1f741-7045-4c65-afca-a89e65c0e644/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Alpenland Mayrhofen - Wohnzimmer_Internet"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Alpenland Mayrhofen - Wohnzimmer_Internet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Alpenland Mayrhofen - Wohnzimmer_Internet"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1607373064937",
+    "longitude": "11.8568176031113"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/1 Schlafraum/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Appartement für 2-4 Personen bestehend aus Schlafzimmer, Wohnzimmer mti Küchenblock, Schlafcouch, Dusche/WC, TV und Balkon."
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment suitable for 2-4 persons, consisting of a bedroom, lounge with cooking facilities, sofa bed, shower/WC, TV and balcony."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./Wohn-Schlafraum/1 Schlafraum/Du,WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./1 bedroom/shower,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

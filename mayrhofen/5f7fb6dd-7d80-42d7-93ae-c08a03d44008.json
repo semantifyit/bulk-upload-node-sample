@@ -1,0 +1,57 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Picco Bello - Textilreinigung"
+    },
+    {
+      "@language": "de",
+      "@value": "Picco Bello - Textilreinigung"
+    },
+    {
+      "@language": "ru",
+      "@value": "Picco Bello - Textilreinigung"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1609187",
+    "longitude": "11.861725"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Picco Bello ",
+    "streetAddress": "Ahornstraße 857",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 619 6412"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ce39be63-e23a-4f4a-a1fa-e7d8d32e2fc9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Pico bello "
+        },
+        {
+          "@language": "de",
+          "@value": "Pico bello "
+        },
+        {
+          "@language": "ru",
+          "@value": "Pico bello "
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

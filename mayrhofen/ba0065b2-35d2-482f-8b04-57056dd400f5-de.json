@@ -1,0 +1,191 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhausbarbara.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003dBA0065B2-35D2-482F-8B04-57056DD400F5"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Barbara, Landhaus",
+    "streetAddress": "Laimach 125",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3357",
+    "faxNumber": "0043 5282 3357",
+    "email": "info@landhausbarbara.com",
+    "url": "http://www.landhausbarbara.com"
+  },
+  "name": "Landhaus Barbara",
+  "description": [
+    "Ruhige, zentrale und unverbaute Sonnenlage mit wunderschönem Blick auf Wiesen und das Bergpanorama des hinteren Zillertals, Skibushaltestelle 50 m entfernt.\n\nUnsere Preise sind je nach Belegung verschieden!\nWir bitten Sie für eine konkrete Preisinformation direkt mit uns Kontakt aufzunehmen.",
+    "Brötchenservice, Freier Eintritt in die Freizeitanlage Hippach",
+    "Check in 12.00 Uhr - Check out 10.00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "11"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/58941d09-3986-4e18-b221-1ca00edffddc/99/image.jpg",
+      "caption": "Landhaus Barbara Hippach - Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c24c968-8c63-40ec-b3ac-299cacb338d1/99/image.jpg",
+      "caption": "Landhaus Barbara Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/238b7478-62f3-4fa9-b444-f0b9e1c2265f/99/image.jpg",
+      "caption": "Landhaus Barbara Hippach - Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab15a3d8-7033-4efd-be0f-a731985d62bb/99/image.jpg",
+      "caption": "Landhaus Barbara Hippach - Hausansicht  Süd"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a96ebf4-847f-4743-9a77-c3759ec0cf1c/99/image.jpg",
+      "caption": "Landhaus Barbara Hippach - Ost-Süd Ansicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2176807650439",
+    "longitude": "11.8679702281952"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 3 Schlafräume",
+      "description": "Gut ausgestattete Ferienwohnung - ca. 98 m2 - komplettes Stockwerk, 3 Schlafzimmer, Küche mit gemütlicher Eßecke, Fernsehraum, Badezimmer mit Bad u. DU, WC seperat, Balkon , Radio, Sat-TV, Sauna im Haus, Handtücher, Geschirrtücher sowie Bettwäsche werden bereitgestellt",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung DANIELA",
+          "numberOfRooms": "8.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "100.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "110.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "115.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Wohnküche mit gemütl. Essecke und ausziehbare Couch, ca. 60 m2, 2 Schlafzimmer, Dusche/WC, Garten mit Liegewiese, eigener Eingang, Sat-TV, Radio, Handtücher, Geschirrtücher und Bettwäsche vorhanden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung STEFANIE",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

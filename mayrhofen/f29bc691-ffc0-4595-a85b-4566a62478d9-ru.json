@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gasthof Brücke",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1616199950192",
+    "longitude": "11.8603849411011"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brücke, Gasthof",
+    "streetAddress": "Ahornstraße 850",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 62232",
+    "faxNumber": "+43 5285 63745",
+    "email": "hotel.brueckenwirt@aon.at",
+    "url": "http://www.gasthof-bruecke.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f629ed39-9a02-4c50-aa59-4bcee8eabdab/99/image.jpg",
+      "caption": "Gasthof Brücke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/43f81c4d-0700-441b-a911-a6aa544260da/99/image.jpg",
+      "caption": "Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6371dd7b-66b4-407e-8fbe-f234dee735bd/99/image.jpg",
+      "caption": "Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96da1a6a-6813-4c48-9f36-78deddec8538/99/image.jpg",
+      "caption": "Eingangshalle"
+    }
+  ],
+  "url": [
+    "http://www.gasthof-bruecke.com"
+  ]
+}

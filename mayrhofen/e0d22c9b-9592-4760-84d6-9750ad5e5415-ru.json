@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": "Festland Music Festival",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Die Querdenker",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bichl 642",
+      "addressLocality": "Ramsau",
+      "postalCode": "6284",
+      "addressCountry": "AT",
+      "email": "office@diequerdenker.at",
+      "url": "http://www.festlandmusic.at/"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Die Querdenker",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bichl 642",
+      "addressLocality": "Ramsau",
+      "postalCode": "6284",
+      "addressCountry": "AT",
+      "email": "office@diequerdenker.at",
+      "url": "http://www.festlandmusic.at/"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/29228738-a0be-4d28-9f2e-c7fc38f4fff6/99/image.jpg",
+      "caption": "Festland Music Festival"
+    }
+  ],
+  "url": [
+    "https://www.youtube.com/watch?v\u003dA57cNbPEK-w"
+  ],
+  "startDate": "2017-06-22T00:00:00",
+  "endDate": "2017-06-24"
+}

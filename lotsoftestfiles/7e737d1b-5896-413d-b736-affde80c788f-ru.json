@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BankOrCreditUnion"
+  ],
+  "name": "Volksbank Tirol - Geschäftsstelle Mayrhofen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1671638190232",
+    "longitude": "11.8632817268372"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Volksbank Tirol - Geschäftsstelle Mayrhofen",
+    "streetAddress": "Hauptstraße 416",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62934",
+    "faxNumber": "0043 5285 63888",
+    "email": "office@volksbank-tis.at",
+    "url": "http://www.volksbank-tis.at/m101/volksbank/m009_42390/de/filiale/mayrhofen.jsp"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f9a1218f-4c14-42d7-825e-d914a9a83fe4/99/image.jpg",
+      "caption": "Volksbank Tirol - Geschäftsstelle Mayrhofen"
+    }
+  ],
+  "url": [
+    "http://www.volksbank-tis.at/m101/volksbank/m009_42390/de/filiale/mayrhofen.jsp"
+  ]
+}

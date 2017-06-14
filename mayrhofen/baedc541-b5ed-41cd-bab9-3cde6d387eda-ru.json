@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BodyOfWater"
+  ],
+  "name": "Angelmöglichkeiten - Bruggerstube, Hollenzen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.181926",
+    "longitude": "11.8711952"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hollenzen 111",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63793"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2088291b-441c-409d-a092-5fcb8990a888/99/image.jpg",
+      "caption": "Schlegeis Stausee"
+    }
+  ]
+}

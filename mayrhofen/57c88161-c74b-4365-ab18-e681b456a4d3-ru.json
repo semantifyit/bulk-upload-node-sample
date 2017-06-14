@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Snow igloo in the Zillergrund",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Häusling-Alm, Gasthof",
+    "streetAddress": "Zillergrund 53",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5289 212",
+    "email": "info@haeusling-alm.at",
+    "url": "http://www.haeusling-alm.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b7763587-772b-450d-a3a9-3d60215b37d9/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/894aefdd-bf26-4bf8-8ce7-abe7b36cc378/99/image.jpg",
+      "caption": "Schneeiglu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3659f098-4b86-4b28-b381-1594defc74b1/99/image.jpg",
+      "caption": "Schneeiglu2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ed59da9c-c66f-47ae-ac31-f0b0b91d916b/99/image.jpg",
+      "caption": "Eisskulptur"
+    }
+  ],
+  "url": [
+    "http://www.haeusling-alm.at"
+  ]
+}

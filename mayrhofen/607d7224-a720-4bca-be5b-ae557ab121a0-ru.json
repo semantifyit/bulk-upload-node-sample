@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SkiResort",
+    "BarOrPub"
+  ],
+  "name": "Brück\u0027n Stadl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1615762256858",
+    "longitude": "11.8604385852814"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brücke, Gasthof",
+    "streetAddress": "Ahornstraße 850",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 62232",
+    "faxNumber": "+43 5285 63745",
+    "email": "hotel.brueckenwirt@aon.at",
+    "url": "http://www.gasthof-bruecke.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d24ba58-02d3-48ce-b280-4c238ba5d309/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.gasthof-bruecke.com"
+  ]
+}

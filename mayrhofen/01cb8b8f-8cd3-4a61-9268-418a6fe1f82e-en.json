@@ -1,0 +1,123 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://",
+    "http://maps.mayrhofen.at/?foreignResource\u003d01CB8B8F-8CD3-4A61-9268-418A6FE1F82E"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ginzling 250",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 3755117",
+    "email": "sonja-goldmann@gmx.at",
+    "url": "http://www.ferienwohnung-goldmann.at"
+  },
+  "name": "Goldmann Sonja",
+  "description": "Welcome in the holiday flat Goldmann\nFinally out of work but still feeling like home. Enjoy a few days in our new holiday flat in Ginzling.\n\nWe would are looking forward to make your holidays an unforgetable experience! \nFamily Goldmann!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1637b78c-178e-4047-9b46-0d376d6492ec/99/image.jpg",
+      "caption": "Goldmann Sonja Ginzling - Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59a15899-3d94-4c86-9990-600fbb3da29a/99/image.jpg",
+      "caption": "Goldmann Sonja Ginzling - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4c6b46a1-cc64-4c2c-b3c2-a82cd7f3e2e2/99/image.jpg",
+      "caption": "Goldmann Sonja Ginzling - Eingangsbereich2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8bf8618e-e375-4dcf-a61a-6c1ab457b5cb/99/image.jpg",
+      "caption": "Goldmann Sonja Ginzling - Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5dc1e5da-9f27-4df4-9ed4-b64acc4883c6/99/image.jpg",
+      "caption": "Goldmann Sonja Ginzling - Terrasse2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df4a9080-d129-4740-9836-cfece219f0fd/99/image.jpg",
+      "caption": "Goldmann Sonja Ginzling - Essbereich in der Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9eb42fee-09ac-4bba-8447-2d6b903d7264/99/image.jpg",
+      "caption": "Goldmann Sonja Ginzling - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d556bfc-227c-472c-aaa6-341a4aac39ba/99/image.jpg",
+      "caption": "Goldmann Sonja Ginzling - Zimmer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ac3e7db-5ae7-4782-a467-e12e48b52a1c/99/image.jpg",
+      "caption": "Goldmann Sonja Ginzling - Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef0633f5-82cb-468a-b7a7-1a3b66777638/99/image.jpg",
+      "caption": "Goldmann Sonja Ginzling - Zimmer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7af6b7c2-58d9-41e2-b40b-a2eef6ea9bda/99/image.jpg",
+      "caption": "Goldmann Sonja Ginzling - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f637c298-0bcb-44d7-870b-c838cc36a1f7/99/image.jpg",
+      "caption": "Goldmann Sonja Ginzling - Hausgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/15023803-301a-49ec-b08a-b7139cf91317/99/image.jpg",
+      "caption": "Goldmann Sonja Ginzling - Skikeller"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b76663fa-c8e8-4fbc-8d04-c8434c693744/99/image.jpg",
+      "caption": "Ginzling im Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0994982",
+    "longitude": "11.8085395000001"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 3 bed rooms",
+      "description": "Our house is 8 km behind Mayrhofen in the mountain village Ginzling.Bus stop and a small shop are 100 m away. The apartment with a total of 94m2 divided 3 large bedrooms, 1 kitchen which is equipped with all comforts and a bathroom auf.Im summer you can relax on our beautiful terrace soul. Course is provided with high chair and cot for the smallest well.\nCheck out: 10.00\nCheck in: 14:30",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 3 bed rooms",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

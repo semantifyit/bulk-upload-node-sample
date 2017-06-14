@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Brewery"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Schnapsbrennerei Klammsteinhof"
+    },
+    {
+      "@language": "de",
+      "@value": "Schnapsbrennerei Klammsteinhof"
+    },
+    {
+      "@language": "ru",
+      "@value": "Schnapsbrennerei Klammsteinhof"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1926799",
+    "longitude": "11.8523958000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Klammsteinhof",
+    "streetAddress": "Kleinschwendberg 272",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62915",
+    "faxNumber": "0043 5285 62915",
+    "email": "info@klammsteinhof.at",
+    "url": "http://www.klammsteinhof.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Alle Edelbrände und Liköre können auf dem Klammsteinhof verkostet werden.\nDer Verkauf erfolgt ab Hof sowie über den Zillertaler Bauernmarkt in Hippach.\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "\nAll brandies and liqueurs can be tasted ar the Klammsteinhof.\nThe sale takes place on the farm and at the Zillertal farmers market in Hippach."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a17400b-9d70-4142-966a-1352ab7c5b4d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Klammsteinhof"
+        },
+        {
+          "@language": "de",
+          "@value": "Klammsteinhof"
+        },
+        {
+          "@language": "ru",
+          "@value": "Klammsteinhof"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.klammsteinhof.at"
+  ]
+}

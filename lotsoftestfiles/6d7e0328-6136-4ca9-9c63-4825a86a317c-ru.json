@@ -1,0 +1,403 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.villa-angela.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d6D7E0328-6136-4CA9-9C63-4825A86A317C"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Villa-Angela, Hotel Garni",
+    "streetAddress": "Pfarrer-Krapf-Straße 396",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64343",
+    "faxNumber": "0043 5285 6434347",
+    "email": "info@villa-angela.at",
+    "url": "http://www.villa-angela.at"
+  },
+  "name": "Hotel Garni Villa Angela",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "86"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d13213b6-b97c-4631-b384-5cb5696ef2ec/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7334f341-8268-4fef-9f2c-d3cbfd1abc37/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ff2ce8bb-74f4-4b96-a97b-a2e54d9cf4ad/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/677a2ac2-a288-4035-95a9-bedd276e9d95/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77e6125c-3319-415f-8920-91f95469204b/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Bergkulisse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f448654-d152-421d-b9e4-27092ce873be/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Doppelzimmer Kategorie I"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/27600e33-ee04-48ed-a5da-676717dd0cfe/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Doppelzimmer Kategorie II"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/07d01322-f210-48d3-9d2d-ba93dbfbd8b3/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen -Doppelzimmer Kategorie III"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f7218b12-a3e5-470a-bd8d-a86700b0b77e/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Doppelzimmer Kat I"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab1b5c60-edbd-4740-b1a9-30b1283f978b/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Schlafzimmer Appartement"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d89bac58-29e9-4e37-9427-95e836e13320/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Wohnzimmer Appartement"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02a8dfb2-9c12-4d69-8ad7-fb0a91727305/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Einzelzimmer Kategorie I"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/391f01af-d1dd-4272-9a23-9c6ef4149b85/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Einzelzimmer Kategorie II"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8994b969-be4a-4ee6-88b7-42cc7ac99d58/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Bett"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f281c5b-9fa6-44ed-b911-bc504a526fbb/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Appartement Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/175455b6-66ca-4a24-b97b-1e67d1645c5b/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Appartement Kochnische"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2fe16749-4f66-48b4-9084-d89ef6d85afc/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Badezimmer Appartement"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da859c56-6e4f-470d-a180-2348fd6b3495/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Bad EZ Kat II"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/41c095ed-7772-4625-9a5a-42f17b438c0a/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Badezimmer DZ Kat II"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/32a865fb-09a2-42d6-ac94-c5c3f60330ac/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Badezimmer DZ Kat III"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d6505245-1c37-41d0-b9bf-f56648c01bef/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Bademantel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/89568cf0-86b5-4ad5-a2a7-899a95d447ce/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Terasse mit Gartenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2d94bef-603f-436e-9974-364e46276f98/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/def2dee2-b1f8-43bf-bb61-78a7c5573e3f/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen -Balkon DZ Kat II"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac4a46b4-eb34-4e07-a4ad-2e89a00ba5f8/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Stiegenhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a5f68ce-0a56-49fc-8732-4ddc5367396f/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5bfe0a2e-c5b7-4064-893d-0db90550201c/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/61ef607a-15c8-4ae1-b888-7fe3b780b001/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63592070-aa36-490d-bf84-f3e45fd0a682/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Frühstückstisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/003319c7-bea8-45e4-a711-471c64f8e580/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Tiefgarage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e59f00f-a9b0-40ac-8ac2-5284f2122651/99/image.jpg",
+      "caption": "Villa Angela Mayrhofen - Dekoration"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1664617548864",
+    "longitude": "11.8640676140785"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "3-местный номер, душ и ванна, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3-местный номер, душ и ванна, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "41.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Одноместный номер, ванна, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, Душ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Одноместный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "42.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, ванна, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Classic",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Люкс отель, душ и ванна, туалет, одна спальня",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Люкс отель, душ и ванна, туалет, одна спальня",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "135.00",
+          "maxPrice": "240.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "159.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

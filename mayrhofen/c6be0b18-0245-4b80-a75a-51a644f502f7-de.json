@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Alpengasthaus Breitlahner 1257m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0607565167487",
+    "longitude": "11.7498350143433"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Breitlahner",
+    "streetAddress": "Dornauberg 70",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5286 5212",
+    "faxNumber": "(0043) 5286 5343",
+    "email": "info@breitlahner-zillertal.at",
+    "url": "www.breitlahner-zillertal.at"
+  },
+  "description": [
+    "Sommer \n29. Mai bis Ende September 2017 \nkein Ruhetag \nÜbernachtung möglich 40 Betten und 12 Lager",
+    "Unser gemütliches Haus (1257m) im Zemmgrund gelegen ist Ausgangspunkt für zahlreiche Hüttenwanderungen und großartige Bergtouren, sowie Busfahrten. Mit 80 Schlafstätten, 45 Betten und 35 Matratzenlager ist für jeden müden Wanderer ein warmes Plätzchen (Elektroheizung) zum Übernachten gewährleistet. Etagenduschen sowie ein Trockenraum stehen ebenfalls zu Ihrer Verfügung!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/08992d12-797d-41f2-b23f-00c18e83cb30/99/image.jpg",
+      "caption": "Breitlahner - Alpengasthaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5df88ff2-df76-4301-9268-5abc4e660df5/99/image.jpg",
+      "caption": "Breitlahner Sommer"
+    }
+  ],
+  "url": [
+    "http://www.breitlahner-zillertal.at"
+  ]
+}

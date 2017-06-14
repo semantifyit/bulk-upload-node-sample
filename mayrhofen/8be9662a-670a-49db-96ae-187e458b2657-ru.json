@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Wirtshaus zum Griena",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1587749133456",
+    "longitude": "11.8562704324722"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wirtshaus zum Griena",
+    "streetAddress": "Dorf Haus 768",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 4871292",
+    "email": "zumgriena@gmx.at ",
+    "url": "https://zillertal-restaurant.jimdo.com/"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1b8684a-7c4f-4c22-8fb5-bfcdbc36908f/99/image.jpg",
+      "caption": "Griena - Wirtshaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ccf5903a-ad05-484a-98f6-f23e70f46420/99/image.jpg",
+      "caption": "Wirtshaus zum Griena"
+    }
+  ],
+  "url": [
+    "http://www.elisabethhotel.com"
+  ]
+}

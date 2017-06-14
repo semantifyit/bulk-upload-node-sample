@@ -1,0 +1,449 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.tasser.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d3E6CC7C1-464A-4F2B-97BF-B84E5A195684"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Tasser",
+    "streetAddress": "Jakob-Moser-Straße 591",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63076",
+    "faxNumber": "0043 5285 63076",
+    "email": "haus@tasser.at",
+    "url": "http://www.tasser.at"
+  },
+  "name": "Haus Tasser",
+  "description": [
+    "Urlaub in Tirol?\nWarum dann nicht gleich in einem typischen Tirolerhaus? \n\nAlle Zimmer mit Du/WC und Balkon mit schöner Aussicht!!!\nUnser Ferienhaus befindet sich in ruhiger, sonniger Lage, direkt am Waldrand von Mayrhofen. Es wurde im typischen Tiroler Stil erbaut. Zur Ahorn- und Penkenbahn, zu den Tennisplätzen, zum Erlebnisschwimmbad und zum Zentrum sind es nur wenige Gehminuten. Parkplätze, Liegewiese sowie ein \"cooler\" Kinderspielplatz mit Sandkiste, Rutsche, Schaukel und Tischtennis sind vorhanden.\n\nFür Ihre Fitness ein professionelles ERGO-Bike (DAUM-Premium 8i) und für gesunde Entspannung eine Infrarotkabine k o s t e n l o s für Sie bereit.\nSchnelles, unlimitiertes W-Lan in beiden Wohnungen.\nAls Mitglied des Naturparks Zillertaler Alpen können unsere Gäste an geführten Wanderungen im Naturpark kostenlos teilnehmen.\n\n\nAuf Ihren Besuch freut sich \nFamilie Tasser\n\n",
+    "Inkl.: Strom, Heizung, Bettwäsche, Handtücher, Fön, Kaffeemaschine, Toaster, Radio, Geschirrspüler, Wasserkocher, Safe, Mikrowelle, Schuhtrockner, Infrarotkabine und W-Lan kostenlos, Haustiere auf Anfrage, Waschmaschiene und Trockner auf Anfrage",
+    "Check-In: 16.00 Uhr, Check-Out: 9.30 Uhr;\nA12 bis Ausfahrt Zillertal - B169 nach Mayrhofen \"Einfahrt Mitte\" nach dem Postamt rechts in die Hauptstraße und nach 400m (bei Metzgerei Gasser)nach links abbiegen. Dann bis Jakob-Moser-Straße rechts halten."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "22"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81f71f01-55e5-4d92-be95-fe56644e1a8c/99/image.jpg",
+      "caption": "Haus Tasser im Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac50761f-8885-454c-ab3b-4c5e36d70095/99/image.jpg",
+      "caption": "Haus Tasser im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e5c2e8bb-e3a2-4059-bf75-b2d2595e0dba/99/image.jpg",
+      "caption": "Familie Tasser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1918a919-a515-4c93-8c73-f572a3133428/99/image.jpg",
+      "caption": "Herzlich Willkommen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f8abc1d4-1c02-45a6-8d67-611475bcd623/99/image.jpg",
+      "caption": "Küche Wohnung Penkenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fba15fd4-d309-4b83-8e6a-5aaed2417e9d/99/image.jpg",
+      "caption": "Küche Wohnung Penkenblick 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4fa7203-29ab-47a3-91cc-8b0b224e609b/99/image.jpg",
+      "caption": "Schlafzimmer Wohnung Penkenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/309c5ac1-9c43-4552-be29-21c479c60407/99/image.jpg",
+      "caption": "Schlafzimmer Wohnung Penkenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f7c1dca0-5459-43e5-9a1f-d2e8a400155e/99/image.jpg",
+      "caption": "Schlafzimmer Wohnung Penkenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0b64e905-17ba-4f6b-a904-cb475709f41e/99/image.jpg",
+      "caption": "Nasszelle der Wohnung Ahornblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6ebdd285-ad47-4310-8580-2c7cdd68149d/99/image.jpg",
+      "caption": "Badezimmer Wohnung Penkenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/499dfc5f-8f65-4913-a42c-99e883399284/99/image.jpg",
+      "caption": "Ausblick aus der Wohnung Penkenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb3804f1-79f2-4d2a-b561-847f8892535c/99/image.jpg",
+      "caption": "Küche Wohnung Ahornblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/03a485b2-f236-44e0-8140-1912c807dbba/99/image.jpg",
+      "caption": "Zirbenholz-Zimmer der Wohnung Ahornblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f3911eb0-fc46-406c-a45b-4e17b39c6a0a/99/image.jpg",
+      "caption": "Schlafzimmer der Wohnung Ahornblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4a94b22-d5c6-4cd4-9311-544485313c50/99/image.jpg",
+      "caption": "Badezimmer der Wohnung Ahornblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e2b8084e-7122-4d8d-9e68-f0fdef5ba901/99/image.jpg",
+      "caption": "Infrarotkabine für beide Ferienwohnungen mit Du/WC"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68cb8add-832e-48ca-bc55-68a47fa613cc/99/image.jpg",
+      "caption": "Kinderspielplatz mit Tischtennis"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ced3963b-7d76-4c7f-89a7-64c65a3de89c/99/image.jpg",
+      "caption": "Technisch am neuesten Stand - alles gratis"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7890bcf2-c575-48ae-b280-2c7043c1f834/99/image.jpg",
+      "caption": "Ausblick auf der Rückseite der Wohnung Penkenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/39360649-7a8a-4898-95ab-35cbdc53df1f/99/image.jpg",
+      "caption": "Blumenschmuck"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ea30a05d-dd2d-4442-99cf-c9f6fa2d684b/99/image.jpg",
+      "caption": "Schifahrende Kinder am Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a7123eef-e0b3-409c-b392-972e81385351/99/image.jpg",
+      "caption": "Ahorn-Sessellift - kindersicher"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/007fd217-e658-4ded-b137-6b00366efb00/99/image.jpg",
+      "caption": "Bizarre Winterlandschaft am Ahorn 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fca05e18-d42f-4d1a-a680-a061968253e9/99/image.jpg",
+      "caption": "Mayrhofens Hausberg - der Grünberg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b5b286e7-b2d1-44f9-a94a-ae89f5e22624/99/image.jpg",
+      "caption": "Und hier ist sie: Die neue Penkenbahn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1bdbdab0-dafd-45e0-9666-dff975d95871/99/image.jpg",
+      "caption": "Bauernhof am Brandberg - im Hintergrund der Kolm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b9f334b6-7fb5-419f-bbc1-029d1b4b6506/99/image.jpg",
+      "caption": "Unser \"Tiger\""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cab17be3-2c83-40f5-86e7-4e20a3975144/99/image.jpg",
+      "caption": "Freudensprung im Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1878f57f-47e1-494a-8f12-8df55d5c510c/99/image.jpg",
+      "caption": "Neuerrichtete Golfanlage (18-Loch) im Zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/67169cc1-aaaa-4063-a994-340ae9ed7e1c/99/image.jpg",
+      "caption": "Natur genießen am Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f062629-7b44-4e49-bb0b-f3c39b4b1a22/99/image.jpg",
+      "caption": "Penkensee mit Penkenhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bb0232bb-5bc4-4289-aebe-3bc600c0460e/99/image.jpg",
+      "caption": "Holzhütte bei Schneefall"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0486e7e7-b038-4138-9554-bfbc1fbfd617/99/image.jpg",
+      "caption": "Blumen am Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ce2531b2-7f67-43d0-bfba-d972c2de6b6d/99/image.jpg",
+      "caption": "Interessante Wolkenstimmung am Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/82162c13-4a29-44f3-bf68-b24a939588b0/99/image.jpg",
+      "caption": "Bizarre Winterlandschaft am Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e10edf1-8c78-4e77-8bfa-b40f76a524c2/99/image.jpg",
+      "caption": "Ohne Worte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b9c499cb-d232-4e35-bb95-b3f3dbe3a459/99/image.jpg",
+      "caption": "Österreichs schönster Fun-Park am Horberg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3f93b1ff-387f-4c08-89f9-558b299b1860/99/image.jpg",
+      "caption": "Natur pur"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f6a4791-eea7-4114-9797-dc00d988fd57/99/image.jpg",
+      "caption": "Rasten und die Natur genießen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/01645835-638d-4fa6-a0e5-d7fc890865e9/99/image.jpg",
+      "caption": "Berliner Höhenweg mit Schlegeisspeicher"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9de2899f-4802-4696-b4f9-af5235f39ca2/99/image.jpg",
+      "caption": "Arbeitsplatz Hochgebirge (Brandberg)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd5aedcd-d55c-4b14-bf59-f164ab147840/99/image.jpg",
+      "caption": "Speicher Zillergründl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/249a00ef-1e42-4df1-bf91-8e695c5c5f9c/99/image.jpg",
+      "caption": "Blumenschmuck ums Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e277d6e0-4304-4f8b-b40f-613cbf5b8c54/99/image.jpg",
+      "caption": "Schon mal in Trinkwasser gebadet? Bei uns möglich!"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d713eb9e-031d-483f-b3dd-43ef5263b76c/99/image.jpg",
+      "caption": "Unsere Kaninchenfamilie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3debfd3-be58-4dac-b87c-9945640b2c50/99/image.jpg",
+      "caption": "Freuen Sie sich auch schon auf den Osterhasen?"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ad92cff-3401-4e1a-86b3-93d9ae825775/99/image.jpg",
+      "caption": "Kälbchen am Wegrand"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0499e5a4-03ee-400f-91eb-3a491e9eb8b9/99/image.jpg",
+      "caption": "Schlegeisspeicher mit Gletscher"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/06a41a37-6a32-40c7-a97b-89a0e1866940/99/image.jpg",
+      "caption": "Zum Klettern und Poldern gibt\u0027s genügend Felsen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/07d555ad-7816-4792-b704-d6b797d07833/99/image.jpg",
+      "caption": "Und? Sehen Sie sich Schnee genug?"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60013752-8061-41d2-a8fb-89d25d1391ce/99/image.jpg",
+      "caption": "Blumenschmuck rund ums Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1592ee2e-7ce7-43f2-919e-a1fa8d9bfe61/99/image.jpg",
+      "caption": "Flur mit Garderobein der Wohnung Penkenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5127fe2f-cc23-44bd-9cb3-bf2080cb855f/99/image.jpg",
+      "caption": "Flur mit Garderobe der Wohnung Ahornblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f13d589f-6c60-40fd-b639-239163aeccae/99/image.jpg",
+      "caption": "Ausblick Wohnung Penkenblick im Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/426d7683-c02b-4be5-8254-d4e36ddf228f/99/image.jpg",
+      "caption": "Paragleiter beim Start im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/41e7ce32-2862-4199-8466-62cdb55878de/99/image.jpg",
+      "caption": "Romantische Winterlandschaft am Homberg-Schigebiet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/39cc1dfd-fd50-4281-a4ef-e96fb7f8be55/99/image.jpg",
+      "caption": "Winterlandschaft am Brandberg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/889ae5c8-10ba-4f02-9e6a-471dc9c6315a/99/image.jpg",
+      "caption": "Österreichs schönster Funkpark"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/148433b8-a52c-46d8-935a-97b8875b1e6a/99/image.jpg",
+      "caption": "Fröhliche Kinder beim Schifahren am Ahorn"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.160204768307",
+    "longitude": "11.8643653392792"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Nichtraucherwohnung. Ca. 55m², 2 Doppelzimmer jeweils mit Dusche/WC, gemütl. Wohnküche mit Sitzecke+Sofa, alle Zimmer mit Balkon mit schöner Aussicht. Mikrowelle, Safe, Geschirrspüler. Infrarotkabine, 3 HD-TV, Play-Station 3 u. Internet kostenlos. Fön, Kaffeemaschine, Toaster,Radio, Wasserkocher, Schischuhheizung, Kinderbett, Hochstuhl. Waschmaschine u. Trockner auf Anfrage",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Ahornblick 2 Schlafräume+2 Dusche/WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Nichtraucherwohnung, Ca. 70m², 3 getr. Doppelschlafzimmer alle mit DU/WC, gemütliche Wohnküche mit Sitzecke + Sofa, alle Zimmer mit Balkon u. schöner Aussicht. Mikrowelle, Geschirrspüler, Schischuhheizung. Play-Station 3, Infrarotkabine u.Internet kostenlos, 3 HD TV mit Panoramaprogramm. Kaffeemaschine, Toaster, Fön, Radio, Wasserkocher, Safe, Kinderbett, Hochstuhl. Waschmaschine und Trockner auf Anfrage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Penkenblick, 3 Schlafzimmer,3 Dusche/WC",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "90.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "90.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "95.00",
+          "maxPrice": "230.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "100.00",
+          "maxPrice": "240.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BodyOfWater"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Angelmöglichkeiten - Bruggerstube, Hollenzen"
+    },
+    {
+      "@language": "de",
+      "@value": "Angelmöglichkeiten - Bruggerstube, Hollenzen"
+    },
+    {
+      "@language": "ru",
+      "@value": "Angelmöglichkeiten - Bruggerstube, Hollenzen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.181926",
+    "longitude": "11.8711952"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hollenzen 111",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63793"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Angelkarten sind erhältlich für den Schlegeisstausee und Zemmbach.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Fishing permits are available for the Schlegeis Reservoir, Zemmbach."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2088291b-441c-409d-a092-5fcb8990a888/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Fischen"
+        },
+        {
+          "@language": "de",
+          "@value": "Fischen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fischen"
+        }
+      ]
+    }
+  ]
+}

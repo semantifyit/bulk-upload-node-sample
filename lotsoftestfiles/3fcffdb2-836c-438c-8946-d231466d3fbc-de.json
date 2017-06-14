@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "IceCreamShop"
+  ],
+  "name": "Eissalon Eiszeit",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.164964594917",
+    "longitude": "11.8623429536819"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Salon Eiszeit",
+    "streetAddress": "Hauptstraße 453",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63411",
+    "faxNumber": "(0043) 5285 64713",
+    "email": "stefankroell@aon.at",
+    "url": "http://www.stefankroell.at/eiszeit"
+  },
+  "description": "17 Jahre lang haben wir mit zwei Softeismaschinen, wenigen Tischen und nur einem Sonnenschirm über unseren Köpfen, vielen Gästen den Sommer versüßt. Nun haben wir ein Dach über dem Kopf! \nIm Mai 2008 eröffneten wir die “Eiszeit.”\nUnser italienisches Speiseeis mit seinen vielen köstlichen Sorten wird aus besten Rohstoffen im eigenen \n \nHaus produziert. Damit erfüllen wir unser ultimatives Ziel: höchste Qualität und gelungene Eisbecher!\nDer im italienischen Stil eingerichtete Eissalon lädt zum Genuss jeder Menge Eiskreationen, italienischer Kaffeespezialitäten und Getränken ein! \nAuf Ihren Besuch freut sich das Eiszeit Team\nAnni, Stefan, Andreas, Simona, Katy und Carina\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e676009d-5c1e-4734-818e-5794be36b711/99/image.jpg",
+      "caption": "Eiszeit"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/512da9d5-66d6-475b-860e-6174173884b7/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.stefankroell.at/eiszeit"
+  ]
+}

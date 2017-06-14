@@ -1,0 +1,124 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d037159B7-091A-40F3-9855-FB6BCC27BF8C"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kohlstatthof",
+    "streetAddress": "Kohlstatt 264",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63455",
+    "faxNumber": "0043 5285 63455 4",
+    "email": "kohlstatthof@aon.at"
+  },
+  "name": "Kohlstatthof",
+  "description": [
+    "Unser Haus befindet sich direkt an der Liftstation der Horbergbahnt!!",
+    "Die Preise verstehen sich exklusive Endreinigung!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76683018-d956-4204-90c6-49f12fd2b4f4/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.191199813292",
+    "longitude": "11.8567961454391"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Appartement - 2 getrennte Schlafräume, sep. Küche, Telefon, TV, direkt an der Liftstation, Balkon!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment I /2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Appartement - 2 getrennte Schlafräume (Doppelzimmer und Einzelzimmer), sep. Küche, Telefon, TV, direkt an der Liftstation, mit Balkon!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment II /2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "3"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Appartement - 2 getrennte Schlafräume, sep. Küche, Telefon, TV, direkt an der Liftstation, mit Balkon!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment III /2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Appartement - sep. Küche und Schlafzimmer, Balkon, Telefon, TV, direkt an der Liftstation!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment IV /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

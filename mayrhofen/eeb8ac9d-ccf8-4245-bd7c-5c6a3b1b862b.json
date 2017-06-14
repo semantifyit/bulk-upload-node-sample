@@ -1,0 +1,84 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore",
+    "SportsActivityLocation"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Sport Fankhauser - Horberg Bergstation"
+    },
+    {
+      "@language": "de",
+      "@value": "Sport Fankhauser - Horberg Bergstation"
+    },
+    {
+      "@language": "ru",
+      "@value": "Sport Fankhauser - Horberg Bergstation"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1827620219466",
+    "longitude": "11.8102507671707"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport Fankhauser",
+    "streetAddress": "im Skigebiet Hippach - Mayrhofen",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62277 680",
+    "email": "info@skischule-fankhauser.at",
+    "url": "http://www.skischule-fankhauser.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Skiverleih und Sportgeschäft\n\nSie wollen Ihre eigene, optimale Skiausrüstung? In unseren 3 Sport Fankhauser Filialen im und um das Skigebiet Hippach - Mayrhofen im Zillertal werden Sie von unserem Team bestens beraten. In unserem Sportgeschäft und Skiverleih können Sie die neuesten Ski, Snowboards, etc. ausleihen - testen - kaufen. Nutzen Sie unsere für Skiverleih und Skischule und sichern Sie sich Ihre Skiausrüstung zum Frühbucherpreis, für einen idealen Start in Ihren Skiurlaub! \n\nWir freuen uns über Ihren Besuch in unserer Skischule und Skiverleih im und um das Skigebiet Hippach - Mayrhofen im Zillertal.\n\nBis bald und Ski Heil \nIhr Sepp Fankhauser"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fb9c1a18-7c6d-4950-8fd6-f45eba08cffb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "logo"
+        },
+        {
+          "@language": "de",
+          "@value": "logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "logo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/578725ce-c40c-49e7-ad4f-f5fe47933342/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "bergstation"
+        },
+        {
+          "@language": "de",
+          "@value": "bergstation"
+        },
+        {
+          "@language": "ru",
+          "@value": "bergstation"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.skischule-fankhauser.at"
+  ]
+}

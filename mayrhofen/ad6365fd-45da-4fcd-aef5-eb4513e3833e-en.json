@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Exhibition: Rima Wurzenrainer",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Europahaus",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstr. 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6750",
+      "faxNumber": "+43 5285 6760-33",
+      "email": "office@europahaus.at",
+      "url": "www.europahaus.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Europahaus",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstr. 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6750",
+      "faxNumber": "+43 5285 6760-33",
+      "email": "office@europahaus.at",
+      "url": "www.europahaus.at"
+    }
+  },
+  "description": "RIMA WURZENRAINER - THE RE-INTERPRETATION OF NATURE\n\nOrchids, roses, poppies, lilies ... the whole variety of the world of flowers. Abstract art with gold or silver, mountains and landscapes form the motifs of Rima Wurzenrainer. The joy of colors and forms is the incentive and inspiration to express their love for nature.\n\nThe Tyrolean artist, born in England, has been devoting herself to painting, in addition to a varied professional life for many years. She is an autodidact, and has inspired her viewers in many exhibitions in Austria, Italy, Switzerland and the USA.\n\nThe exhibition is open daily: \nMonday-Saturday 9.00 a.m. - 6.00 p.m. and Sunday 9.00 am - 1.00 p.m. in the entrance area of the Europahaus Mayrhofen.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1c95d02-b7f4-4727-b2f0-36cede9c7204/99/image.jpg",
+      "caption": "Wurzenrainer"
+    }
+  ],
+  "startDate": "2017-02-03T09:00:00",
+  "endDate": "2017-03-21"
+}

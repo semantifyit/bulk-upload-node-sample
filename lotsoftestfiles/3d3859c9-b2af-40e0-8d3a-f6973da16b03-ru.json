@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Sennereiküche Zillertal",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1790148",
+    "longitude": "11.8714356"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sennereiküche Zillertal",
+    "streetAddress": "Hollenzen 116",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62713",
+    "faxNumber": "0043 5285 63712",
+    "email": "marketing@sennerei-zillertal.at",
+    "url": "http://www.sennerei-zillertal.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2a122a6-c0f9-4006-a01d-2c9157849788/99/image.bmp",
+      "caption": "Sennereiküche Zillertal"
+    }
+  ],
+  "url": [
+    "http://www.sennerei-zillertal.at"
+  ]
+}

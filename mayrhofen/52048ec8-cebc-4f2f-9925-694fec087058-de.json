@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Brewery"
+  ],
+  "name": "Schaubrennerei Ausserummerland",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2098136655192",
+    "longitude": "11.8636947870255"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schnapsbrennerei Spitaler",
+    "streetAddress": "Schwendberg 269",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 4753 244",
+    "email": "info@hausspitaler.at",
+    "url": "http://www.hausspitaler.at"
+  },
+  "description": "Schnapsbrennerei Spitaler - Zillertaler Edelbrände\n\nHauseigene Schnapsbrennerei mit neu errichtetes \"Brennhitt´l\", einem urigen alten Holzofen der für gemütliche Atmosphäre bei der Schnapsverkostung im Winter und natürlich auch im Sommer sorgt. Denn ein Gläschen in Ehren, und ein Fläschchen zum Verzehren, kann keiner verwehren. \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81db8ce2-112c-47d1-bc09-85547ba5ba70/99/image.bmp",
+      "caption": "Spitaler"
+    }
+  ],
+  "url": [
+    "http://www.hausspitaler.at"
+  ]
+}

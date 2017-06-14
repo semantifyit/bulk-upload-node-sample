@@ -1,0 +1,803 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.landhaus-carla.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d2FF5036B-B563-417D-86F6-E4EDB4B0A52A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Carla, Apparthotel Landhaus",
+    "streetAddress": "Schwendaustraße 197a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62791",
+    "faxNumber": "(0043) 5285 63070",
+    "email": "info@landhaus-carla.at",
+    "url": "http://www.landhaus-carla.at"
+  },
+  "name": "Apparthotel Landhaus Carla",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich Willkommen im Hotel Landhaus Carla und im Restaurant Tiroler Stuben! Unser Haus legt besonderen Wert auf die persönliche Betreuung der Gäste. \nWir bieten Ihnen komfortable Gästezimmer sowie Appartements und Juniorsuiten für 2 bis 4 Personen, ausgest. mit Sat-TV (Panoramabild), Telefon, Safe, Bad/WC, WLAN und Balkon oder Terrasse. \nIm Haus befindet sich auch unser Restaurant \"Tiroler Stuben\" (ausgezeichnet mit dem Prädikat \"Tiroler Wirtshaus\" und dem AMA Gütesiegel), wo wir unsere Gäste mit lokalen und internationalen Spezialitäten versorgen:"
+    },
+    {
+      "@language": "de",
+      "@value": "Kinderermäßigungen sowie Bus- und Gruppenreisen herzlich willkommen!"
+    },
+    {
+      "@language": "de",
+      "@value": "Wenn Sie Mayrhofen erreichen, beim Kreisverkehr nehmen Sie die erste Ausfahrt und nach 50m befindet sich das Landhaus Carla an der Rechten Seite"
+    },
+    {
+      "@language": "en",
+      "@value": "A warm welcome to Landhaus Carla and the Tiroler Stuben! Our house lays great importance on personal service.\nWe offer comfortable guest rooms, as well as apartments and junior suites for 2-4 persons, equipped with satelite TV, (panorama picture), telephone, safe, bathroom/WC, wifi and balcony or terrace.\nOur \"Tiroler Stuben\" restaurant can be found in house (awarded with the title, \"Tiroler Wirtshaus\"), where we pamper our guests with local and international specialities, and entertain with music and dance evenings.\nCentrally situated in a sunny position, approx 3 minutes by foot from the heart of Mayrhofen. Bus stops for the lift stations and glacier are just outside the front door.\nFor relaxation after an action packed day we are equipped with a Finnish sauna, steam bath, whirlpool, infrared cabin and solarium. Familie E. and C. Eberharter look forward to your visit."
+    },
+    {
+      "@language": "en",
+      "@value": "Child reductions, bus and group trips are very welcome!"
+    },
+    {
+      "@language": "en",
+      "@value": "Approaching Mayrhofen, at the roundabout the first exit on the right, and after approx 50m Landhaus Carla can be found on the right."
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "109"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fd5e9ae5-29b4-4c43-b384-af0d0faa07c8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac8ab888-6d74-4606-a5ff-4739e3d9be41/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d4176361-0c16-454e-bec6-f70884b63c20/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1043e99b-a30a-4592-91b1-90d03f6d7b00/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen - Rezeption"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen - Rezeption"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen - Rezeption"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a831c7ee-4b45-46e5-8c79-b102e907c25d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen - Doppelzimmer 21"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen - Doppelzimmer 21"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen - Doppelzimmer 21"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd7d1b04-50a0-496f-b4da-4da9ff8d8b2f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen - Sauna - Liegen"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen - Sauna - Liegen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen - Sauna - Liegen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86d12f5d-5d1b-4496-98b4-ad557fd75148/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen - Aussicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen - Aussicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen - Aussicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6120ecf7-3fea-4ee5-a3dd-177794b3bed0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen - Tiroler Stuben - Essen"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen - Tiroler Stuben - Essen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen - Tiroler Stuben - Essen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a87fede6-d125-4913-9880-938d1434b5be/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla - Wienerschnitzel- Restaurant"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla - Wienerschnitzel- Restaurant"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla - Wienerschnitzel- Restaurant"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/74589a67-c597-4812-aad3-b5ee9de7e1b9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen - Schlafzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen - Schlafzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen - Schlafzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/050d3c3e-b6d8-4637-9f1e-e17bd1e2c036/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen - Apartment "
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen - Apartment "
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen - Apartment "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c25e8e6c-126b-4a56-af72-4e58615b2335/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen - Apartment_livingroom"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen - Apartment_livingroom"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen - Apartment_livingroom"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c80d2202-c9ef-4140-b40e-0835e2f334ba/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen - Doppelzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen - Doppelzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen - Doppelzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c37868e-38e2-49c4-a0b6-86319c3bf34a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen - Badezimmer DZ"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen - Badezimmer DZ"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen - Badezimmer DZ"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c03cdee-4b27-4e5e-a142-85767f88155e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen -Apartment 4_Schlafzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen -Apartment 4_Schlafzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen -Apartment 4_Schlafzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c4dda32-55b5-496e-9e18-ce9453b087e6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen - Junior Suite"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen - Junior Suite"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen - Junior Suite"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2306ab84-ae72-42dc-afa0-889aecd8842e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Carla Mayrhofen - Hausgang"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Carla Mayrhofen - Hausgang"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Carla Mayrhofen - Hausgang"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1702527909884",
+    "longitude": "11.8628633022308"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Das Zimmer ist mit viel Liebe zum Detail im Landhausstil, heimelig und gemütlich eingerichtet, eben ganz nach Tiroler Art. Mit Balkon, Kabel TV, Zimmersafe, Telefon usw."
+        },
+        {
+          "@language": "en",
+          "@value": "Rustically furnished room with 3 beds and balcony."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Dreibettzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "triple room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "3-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "170.00",
+          "maxPrice": "178.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die Zimmer sind mit viel Liebe zum Detail im Landhausstil, heimelig und gemütlich eingerichtet, eben ganz nach Tiroler Art. Doppelzimmer mit Balkon, Kabel TV, Telefon, Zimmersafe usw."
+        },
+        {
+          "@language": "en",
+          "@value": "Rustically furnished double room."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "120.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Zweibettzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Twin room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Твин, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die Zimmer sind mit viel Liebe zum Detail im Landhausstil, heimelig und gemütlich eingerichtet, eben ganz nach Tiroler Art. Zweibettzimmer mit DU-WC, Balkon, Kabel TV, Telefon, Zimmersafe usw."
+        },
+        {
+          "@language": "en",
+          "@value": "Rustically furnished room with 2 beds."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Zweibettzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "twin with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Твин, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "120.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Junior Suite, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Junior suite, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Полулюкс, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die Suiten sind mit viel Liebe zum Detail im Landhausstil, heimelig und gemütlich eingerichtet, eben ganz nach Tiroler Art. Mit Balkon, Kabel TV, Zimmersafe, Telefon usw."
+        },
+        {
+          "@language": "en",
+          "@value": "Rustically furnished junior suite."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Juniorsuite mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "juniorsuite with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Полулюкс, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "130.00",
+          "maxPrice": "136.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "130.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die Zimmer sind mit viel Liebe zum Detail im Landhausstil, heimelig und gemütlich eingerichtet, eben ganz nach Tiroler Art. Ruhige Lage an der Ostseite mit Balkon, Kabel TV, Zimmersafe, Telefon usw."
+        },
+        {
+          "@language": "en",
+          "@value": "Rustically furnished single room, quiet position, facing east."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "single room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "70.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die Appartements sind mit viel Liebe zum Detail im Landhausstil, heimelig und gemütlich eingerichtet, eben ganz nach Tiroler Art. Mit separatem Schlafzimmer, Wohnzimmer und Küchenabteil, Balkon, Safe, Telefon usw."
+        },
+        {
+          "@language": "en",
+          "@value": "Rustically furnished holiday apartment with a separate bedroom, lounge and kitchen area, balcony or terrace, children\u0027s price discounts available on request."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./Wohn-Schlafraum/1 Schlafraum/Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.liv.-bedroom/1 bedroom/bath,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "150.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "180.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "220.00",
+          "maxPrice": "229.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

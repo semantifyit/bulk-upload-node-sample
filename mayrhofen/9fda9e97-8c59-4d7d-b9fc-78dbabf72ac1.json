@@ -1,0 +1,407 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d9FDA9E97-8C59-4D7D-B9FC-78DBABF72AC1"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Stillupklamm 817",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 8155",
+    "faxNumber": "0043 5285 8155",
+    "email": "lorena.fankhauser@powerlan.at"
+  },
+  "name": "Fankhauser Hans",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "ruhiges, familiär geführtes Haus in netter Lage mit schönem Ausblick."
+    },
+    {
+      "@language": "de",
+      "@value": "Preise exkl. Endreinigung; inkl. Ortstaxe"
+    },
+    {
+      "@language": "de",
+      "@value": "Umfahrungsstraße (B169); nach Einfahrt Süd 2. Haus auf der linken Strassenseite. Gegenüber Hotel Gutshof."
+    },
+    {
+      "@language": "en",
+      "@value": "Quiet, informal house in a nice location with beautiful views."
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes local taxes, excludes end cleaning charge."
+    },
+    {
+      "@language": "en",
+      "@value": "Ring road (B169) after Einfahrt Süd in Mayrhofen, 2nd house on the left, opposite the Hotel Gutshof Stillupper."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd8b51f0-ade3-43fb-a2ca-a1acf9b66d18/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0cd6a4e-3082-4f58-9514-4002b0a96bc6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Klettern © Tom Malecha"
+        },
+        {
+          "@language": "en",
+          "@value": "Klettern © Tom Malecha"
+        },
+        {
+          "@language": "ru",
+          "@value": "Klettern © Tom Malecha"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/484a7f4a-89e5-49b0-99b9-f3ee2cfc59b7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Klettersteig © Bernd Ritschel"
+        },
+        {
+          "@language": "en",
+          "@value": "Klettersteig © Bernd Ritschel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Klettersteig © Bernd Ritschel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4d23ebce-df9d-4c99-9e04-3b3b5e849f44/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "en",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "ru",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e01d8ae5-bf01-41b7-b515-91f950c6cf65/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/65aabe57-aa24-4102-87a9-e622c7198c36/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ecb5f250-ce5d-4bc8-ae59-f7ed2c83e40a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f5a8270-af65-4524-9ca6-6f7b5e2a48b2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterwandern © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7b958b6-86f1-4e6b-baff-da5513230965/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Vans Penken Park © Dominic Berchtold"
+        },
+        {
+          "@language": "en",
+          "@value": "Vans Penken Park © Dominic Berchtold"
+        },
+        {
+          "@language": "ru",
+          "@value": "Vans Penken Park © Dominic Berchtold"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a86806d0-8cf3-4852-a390-7570df3463b6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Langlaufen © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Langlaufen © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Langlaufen © Laurin Moser"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1579432453116",
+    "longitude": "11.8470060825348"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 4 oder mehr Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 4 or more bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, 4 или больше спалень"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Normale rustikale Einrichtung, Küche: PVC-Boden, Zimmer: Teppichboden, 4 Zweibettzimmer (auf Wunsch 2x Dreibettzimmer oder 1 Vierbettzimmer)"
+        },
+        {
+          "@language": "en",
+          "@value": "Rusctically furnished. Kitchen: PVC flooring. Bedrooms: Carpets, 4 double bedrooms, (2 bedrooms with 3 beds and one bedroom for 4 are also available on request!)."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./4 od. mehr Schlafräume/Dusche,Bad,WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap./4 + more bedrooms/shower, bath, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, 4 или больше спалень"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Neu eingerichtete Wohnung, rustikal mit Teppichböden."
+        },
+        {
+          "@language": "en",
+          "@value": "New, rustically furnished apartment with carpets."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./Wohn-Schlafraum/1 Schlafraum/Du,WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./1 bedroom/shower,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Normale, rustikale Einrichtung mit Teppichböden"
+        },
+        {
+          "@language": "en",
+          "@value": "Rustically furnished, carpets."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

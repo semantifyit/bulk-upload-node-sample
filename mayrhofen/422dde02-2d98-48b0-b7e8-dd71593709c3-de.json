@@ -1,0 +1,155 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d422DDE02-2D98-48B0-B7E8-DD71593709C3"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Dornauer, Haus",
+    "streetAddress": "Hippach-Dorf 38",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 2412274",
+    "email": "werner.dornauer@aon.at"
+  },
+  "name": "Haus Dornauer",
+  "description": [
+    "3 Doppelzimmer mit Waschbecken, DU und WC getrennt, Wohnküche, Wohnzimmer, 2 Balkone",
+    "Preise verstehen sich inkl. Taxe",
+    "Check-in: 15.00\nCheck-out: 09.00\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "53"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e7155b1-1c86-4d63-8c8e-b27943f3f8df/99/image.jpg",
+      "caption": "Haus Dornauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1f9651a6-326f-4f53-8ccc-fcf77aee5310/99/image.jpg",
+      "caption": "Zimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aee8ad4a-00d1-482c-9ee6-68804de8baeb/99/image.jpg",
+      "caption": "Zimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c92b696-e69d-4d15-9ca7-3f24ebe44239/99/image.jpg",
+      "caption": "Bad Werner 020"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d3cdbab-f32e-41e3-8c88-9bc0056cb8f6/99/image.jpg",
+      "caption": "Mayrhofen__26-01-2012__lifestyle__mixed__Roland_Ha"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f5443cb-3845-4394-85f4-6c8a42ba27b2/99/image.jpg",
+      "caption": "MayrhofnerBergbahnen_Talabfahrt_am_Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/247fb756-96ab-4bf3-b7ea-cbbb32d59b55/99/image.jpg",
+      "caption": "Zimmer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4417dea-d2ff-451c-8103-3a22e22dcffe/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c1a7fdf-0ad5-43fc-ae9b-2c567864c6d1/99/image.jpg",
+      "caption": "Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c4d3e7b-cf5a-4f5e-8b46-8ffdcc153933/99/image.jpg",
+      "caption": "Bad Werner 010"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2076526506496",
+    "longitude": "11.8658673763275"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "3 Doppelzimmer mit Waschbecken, DU und WC getrennt, Wohnküche, Wohnzimmer, 2 Balkone",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "125.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "150.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "175.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "175.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

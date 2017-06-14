@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FastFoodRestaurant",
+    "CafeOrCoffeeShop",
+    "BarOrPub"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Des-Iss"
+    },
+    {
+      "@language": "de",
+      "@value": "Des-Iss"
+    },
+    {
+      "@language": "ru",
+      "@value": "Des-Iss"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2066613968363",
+    "longitude": "11.8715965747833"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Des - Iss",
+    "streetAddress": "Talstraße 53",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 21380",
+    "email": "info@des-iss.at",
+    "url": "http://www.des-iss.com"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Des-iss • Schneller, besser, erfrischender\nHerzlich willkommen im Des-iss in Ramsau im Zillertal.\nUnser gemütliches Lokal liegt direkt an der Zillertal Bundesstraße in Ramsau (taleinwärts ca. 100m vor der Ampel auf der linken Seite) und kann somit kaum übersehen werden. Neben Kaffeespezialitäten \u0026 Kuchen sowie (anti)alkoholischen Getränken ist das Des-iss bekannt durch seine köstlichen Snacks und Speisen.\nTagtäglich bereitet unser Team jeglich erdenkliche Leckerei für Sie zu. Von Fingerfood über klassisch traditionelle Speisen, vom Arbeiteressen zum Hamburger bis hin zur Bratwurst und Pizza. Und das Beste: man kann alle Speisen mitnehmen und zu Hause in Ruhe verzehren.\nDamit nicht genug... Immer wieder finden tolle Feste und Parties mit Live Musik statt. Egal ob urige Volksmusik, zünftiger Rock oder moderne Pop-Musik. Bei uns gibt es immer etwas zu feiern!\nDas Team vom Des-iss - Cafe \u0026 Bar - Imbiss in Ramsau im Zillertal freut sich auf Sie!\nReservierungen möglich • Laufkundschaft willkommen • Gut für Gruppen • Essen zum Mitnehmen • Bedienung • Außenplätze • Spezialitäten • Frühstück • Mittagessen • Abendessen • Kaffee • Getränke\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Our cozy restaurant is located right on the Zillertal federal highway in Ramsau (valley about 100m before the traffic lights on the left side) and thus can hardly be overlooked. In addition to specialty coffees and cakes as well as (anti) alcoholic beverages Des-iss is known for its delicious snacks and meals."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f52c5a5c-930a-46a0-ae35-f149e36903e5/99/image.bmp",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Des - Iss "
+        },
+        {
+          "@language": "de",
+          "@value": "Des - Iss "
+        },
+        {
+          "@language": "ru",
+          "@value": "Des - Iss "
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dBC4F7428-ACFC-4111-A009-1F6BAD65B2FE",
+    "http://www.haus-oblasser.jimdo.com"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Oblasser, Haus",
+    "streetAddress": "Schrofen 37a",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64048",
+    "email": "oblasser-m@aon.at",
+    "url": "http://www.haus-oblasser.jimdo.com"
+  },
+  "name": "Haus Oblasser",
+  "description": [
+    "Our house is situated in the idyllic village of Brandberg, approx 6km away from Mayrhofen.",
+    "The price includes electricity and local taxes, excludes final cleaning charge.",
+    "Use the B169 in the direction of Mayrhofen, just before Mayrhofen turn left towards Brandberg. In Brandberg we can be found just after the Gasthof Thanner."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f43c2b8d-4c4b-45ac-a423-0d8ad0cc6a8d/99/image.jpg",
+      "caption": "Haus Oblasser Brandberg - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c89486b-34a6-440c-9356-05e7cb6893ee/99/image.jpg",
+      "caption": "Haus Oblasser Brandberg - Sommer2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1688122656135",
+    "longitude": "11.9041585922241"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "1 holiday apartment for 2 or max. 3 persons, 65m² large, separate entrance, bedroom, shower/WC, lounge/kitchen, roll-service",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

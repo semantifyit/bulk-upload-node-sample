@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": "Facharzt für Unfallchirurgie Prof. Dr. W. Hackl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1952533562745",
+    "longitude": "11.8712425231934"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bichl 486",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 51010",
+    "faxNumber": "(0043) 5282 51020 ",
+    "email": "office@sportmed-tirol.com",
+    "url": "http://www.sportmed-tirol.com/index.php/unfallchirurgie"
+  },
+  "description": [
+    "Unfallchirurgie\nAO. Univ.-Prof. Dr. Wolfgang Hackl, Facharzt für Unfallchirurgie \u0026 Sporttraumatologie\nGerichtlich beeideter und zertifizierter Sachverständiger, Wahlarzt für alle Kassen\n\nSpezialgebiete - Knie- und Schulterchirurgie - Arthroskopische Chirurgie - Behandlungen von Sportverletzungen - Prothethik (künstliche Gelenke) aller Art  Ambulante Behandlungen in der SportMed - Diagnostik, Beratung und Therapie: bei Schmerzsyndromen und Funktionseinschränkung und am gesamten Bewegungsapparat sowie bei Sport- und Freizeitverletzungen - Ambulante Gelenkseinspritzung, Gelenksabpunktion sowie Infusionen - Untersuchungen und Kontrollen vor und nach der Operation  Stationäre Behandlung - Operationen in der Klinik Innsbruck (mit oder ohne Zusatzversicherung) - Patienten mit Zusatzversicherung im Kursana Sanatorium in Wörgl\t\n\n",
+    "Mo- Do: 17.00 - 19.30 Uhr nach telefonischer Vereinbarung"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1235ff00-9174-4cd3-9324-d0b1f8f05fb1/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.sportmed-tirol.com/html/sportmed-unfallchirurgie.htm"
+  ]
+}

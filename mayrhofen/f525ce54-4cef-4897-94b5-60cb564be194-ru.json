@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dF525CE54-4CEF-4897-94B5-60CB564BE194"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Astbühel 282",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4195",
+    "faxNumber": "0043 5282 4195",
+    "email": "michaelkirchler@gmx.at"
+  },
+  "name": "Kirchler Mathilde",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/915fa68c-a85e-44ce-8520-72b7bab6cea1/99/image.jpg",
+      "caption": "Kirchler Mathilde Hippach - Winterbild"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.206395636616",
+    "longitude": "11.8635885813089"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Дом отдыха, душ и ванна, туалет, 4 или больше спалень",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Дом отдыха, душ и ванна, туалет, 4 или больше спалень",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

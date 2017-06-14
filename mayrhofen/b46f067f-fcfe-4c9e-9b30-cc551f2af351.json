@@ -1,0 +1,550 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dB46F067F-FCFE-4C9E-9B30-CC551F2AF351",
+    "http://booking.mayrhofen.at/mayrhofen/de/accommodation/detail/ZIL/B46F067F-FCFE-4C9E-9B30-CC551F2AF351/haus-waidmannsheil"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Waidmannsheil",
+    "streetAddress": "Sportplatzstraße 333",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 64353",
+    "email": "haus.waidmannsheil@aon.at",
+    "url": "https://www.mayrhofen.at/unterkuenfte/angebote/detail/unterkunft/haus-waidmannsh"
+  },
+  "name": "Haus Waidmannsheil",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Gemütliche Privatpension in sehr zentraler, ruhiger u. sonniger Lage, in 3 Gehminuten sind alle Institutionen erreichbar, 80 m zur nächsten Skibushaltestelle, wir bieten Aufenthaltsraum mit TV, Liegewiese u. Parkplatz. Für einen guten Start in einen neuen Tag servieren wir Ihnen ein gutes erweitertes Frühstück. Kinderermäßigung auf Anfrage."
+    },
+    {
+      "@language": "de",
+      "@value": "Preise verstehen sich inklusive Kurtaxe, derzeit in Höhe von Euro 1,50 pro Erwachsenen und Nacht"
+    },
+    {
+      "@language": "de",
+      "@value": "Unser Haus erreichen Sie über die Einfahrt Mitte, gerade aus bis Karg-Haus (buntes Haus), weiter geradeaus in die Sportplatzstrasse Nr. 333"
+    },
+    {
+      "@language": "en",
+      "@value": "A pleasant private bed and breakfast, situated in a very central, quiet and sunny position. All facilities are within a 3 minute walk away, and the next ski bus stop is 80m away.  We offer a guest lounge with TV, sunning area and car park. To get your day off to a good start we offer a good continental breakfast."
+    },
+    {
+      "@language": "en",
+      "@value": "Prices are inclusive city-taxe, at the moent Euro 1,50 per person and per night"
+    },
+    {
+      "@language": "en",
+      "@value": "You will reach our house by driving in to Mayrhofen at Einfahrt Mitte, straight ahead to the Karg-Haus (colourful building), stright on in the Sportplatzstrasse Nr. 333."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d2fd69f2-affc-4e7c-83ec-a154831f6d77/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Waidmannsheil Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Waidmannsheil Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Waidmannsheil Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a1bb69f-438b-4d17-98cf-c392f56d6bb2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Waidmannsheil Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Waidmannsheil Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Waidmannsheil Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e20c672-779d-4994-ad04-f0af657a043a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Waidmannsheil - Aussicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Waidmannsheil - Aussicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Waidmannsheil - Aussicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d28f0fc-6f55-49a6-9b7e-6cc029b30394/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Waidmannsheil - Aussicht I"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Waidmannsheil - Aussicht I"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Waidmannsheil - Aussicht I"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8d1747bc-10a4-4d50-b5f0-e71f3ff5d957/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Waidmannsheil - Frühstücksraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Waidmannsheil - Frühstücksraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Waidmannsheil - Frühstücksraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81eb555f-1e2b-4f30-ae80-91128fcb6b45/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Waidmannsheil - Frühstücksraum I"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Waidmannsheil - Frühstücksraum I"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Waidmannsheil - Frühstücksraum I"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c39f7897-4c57-4459-abd6-9aa2b31d1014/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Waidmannsheil - Schlafzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Waidmannsheil - Schlafzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Waidmannsheil - Schlafzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da797d46-1648-4aea-b108-d3372c14a256/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Waidmannsheil - Schlafzimmer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Waidmannsheil - Schlafzimmer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Waidmannsheil - Schlafzimmer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fc859b42-5382-474e-a5eb-fa9231480dd7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mayrhofen__26-01-2012__lifestyle__mixed__Roland_Ha"
+        },
+        {
+          "@language": "en",
+          "@value": "Mayrhofen__26-01-2012__lifestyle__mixed__Roland_Ha"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mayrhofen__26-01-2012__lifestyle__mixed__Roland_Ha"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0b493146-0604-480f-a73b-42fb414f9118/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mayrhofen_Advent_3"
+        },
+        {
+          "@language": "en",
+          "@value": "Mayrhofen_Advent_3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mayrhofen_Advent_3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13fabf1c-6784-43b2-8afb-45dfd12cc665/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "MayrhofnerBergbahnen_ActionbergPenken"
+        },
+        {
+          "@language": "en",
+          "@value": "MayrhofnerBergbahnen_ActionbergPenken"
+        },
+        {
+          "@language": "ru",
+          "@value": "MayrhofnerBergbahnen_ActionbergPenken"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b19131a9-7507-4a1c-be92-22bc62857792/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "MayrhofnerBergbahnen_Skifahren_am_GeniesserbergAho"
+        },
+        {
+          "@language": "en",
+          "@value": "MayrhofnerBergbahnen_Skifahren_am_GeniesserbergAho"
+        },
+        {
+          "@language": "ru",
+          "@value": "MayrhofnerBergbahnen_Skifahren_am_GeniesserbergAho"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28302e17-4ac5-452c-8f8f-43af4b018f8e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "MayrhofnerBergbahnen_Talabfahrt_am_Ahorn"
+        },
+        {
+          "@language": "en",
+          "@value": "MayrhofnerBergbahnen_Talabfahrt_am_Ahorn"
+        },
+        {
+          "@language": "ru",
+          "@value": "MayrhofnerBergbahnen_Talabfahrt_am_Ahorn"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/face9a7c-d1d0-408e-b9f7-cc249a4a817b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "bike mayrhofen"
+        },
+        {
+          "@language": "en",
+          "@value": "bike mayrhofen"
+        },
+        {
+          "@language": "ru",
+          "@value": "bike mayrhofen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b822cff2-ec4a-4db4-8210-33af70866372/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer wandern"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer wandern"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer wandern"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0e438121-4f85-4f9d-89ad-32ce96955b92/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer_Gipfel_Panorama ("
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer_Gipfel_Panorama ("
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer_Gipfel_Panorama ("
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f52c9bc7-0f83-457a-9085-b7fe67106317/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac6e7d2f-ed28-4f70-97d7-4d07d99fc889/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "en",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wanderung Olpererhütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ee5f2f47-92bc-4879-8e4c-2aa9bb319dc0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bauer__Landwirt_Kulinarik_Brettljause_Wiese (Archi"
+        },
+        {
+          "@language": "en",
+          "@value": "Bauer__Landwirt_Kulinarik_Brettljause_Wiese (Archi"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bauer__Landwirt_Kulinarik_Brettljause_Wiese (Archi"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1663523414579",
+    "longitude": "11.8667256832123"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Das Doppelzimmer verfügt über Dusche sowie eigenes WC am Gang und Balkon, Kabel-TV"
+        },
+        {
+          "@language": "en",
+          "@value": "This double room is equipped with a shower and balcony, own WC can be found in the corridor, radio availible."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "52.00",
+          "maxPrice": "52.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "31.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Familienzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Family room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Семейный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Familienzimmer (1 DZ + Verbindungstür ins EZ) mit DU/WC, Balkon, Kabel-TV"
+        },
+        {
+          "@language": "en",
+          "@value": "Family room (one double room with a connecting door to a single room) with shower/WC, balcony, radio available."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Familienzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "family room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Семейный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "29.50",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "29.50",
+          "maxPrice": "38.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

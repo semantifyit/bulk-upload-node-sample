@@ -1,0 +1,201 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dE024FA1E-A616-4ABE-972C-3CDEA9560053"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hell, Haus",
+    "streetAddress": "Wiesl 464",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62510",
+    "faxNumber": "0043 5285 62510",
+    "email": "haus.hell@gmail.com"
+  },
+  "name": "Haus Hell",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt im Zentrum von Mayrhofen, etwas von der Hauptstraße entfernt in ruhiger, sonniger Lage mit Terrasse und Liegewiese."
+    },
+    {
+      "@language": "de",
+      "@value": "Preise inklusive Frühstück und Ortstaxe."
+    },
+    {
+      "@language": "de",
+      "@value": "Mayrhofen, Einfahrt Mitte, bis zur Rieser-Malzer Kreuzung (erste Kreuzung), dann rechts abbiegen und die Hauptstraße entlang, vor dem Hotel Strass rechts einbiegen."
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated in the centre of Mayrhofen, just off the high street in a quieter, sunny position with terrace and sunning area."
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes breakfast and local taxes."
+    },
+    {
+      "@language": "en",
+      "@value": "Mayrhofen, Einfahrt Mitte until the first junction, then turn right up the high street, turn right again just before the Hotel Strass."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f087336f-9ef5-4dc4-a691-abcbf673a75d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Hell Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Hell Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Hell Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3113d035-574b-42ff-a016-ae8ce5205e24/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Hell Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Hell Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Hell Mayrhofen - Winter"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1653147262418",
+    "longitude": "11.8605834245682"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, fl. k/w Wasser"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, running hot/cold water"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, горячая/холодная вода"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer mit fl. Wasser"
+            },
+            {
+              "@language": "en",
+              "@value": "single room with running hot/cold water"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер, горячая/холодная вода"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, fl. k/w Wasser"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, running hot/cold water"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, горячая/холодная вода"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Alle Zimmer mit Balkon und Etagendusche."
+        },
+        {
+          "@language": "en",
+          "@value": "All rooms have a balcony and shared shower facilities."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit fl. Wasser"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with running hot/cold water"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, горячая/холодная вода"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

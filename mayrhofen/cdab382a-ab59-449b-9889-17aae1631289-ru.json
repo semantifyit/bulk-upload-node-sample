@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "dm-Drogerie Markt GmbH",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1693629520786",
+    "longitude": "11.8655401468277"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "dm-Drogerie Markt GmbH",
+    "streetAddress": "Durster Straße 220",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 6502015",
+    "email": "info@dm-drogeriemarkt.at",
+    "url": "http://www.dm-drogeriemarkt.at/cms/servlet/segment/at_homepage"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a8bbafcb-9400-49d4-95e8-3bc9bad77241/99/image.gif",
+      "caption": "dm Drogerie Markt"
+    }
+  ],
+  "url": [
+    "http://www.dm-drogeriemarkt.at/cms/servlet/segment/at_homepage"
+  ]
+}

@@ -1,0 +1,940 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.metzgerwirt-laimach.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d65CD28AE-8184-40F9-959F-65563D29702C"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laimach 190",
+    "addressLocality": "Laimach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3059",
+    "faxNumber": "0043 5282 30597",
+    "email": "info@metzgerwirt-laimach.at",
+    "url": "http://www.metzgerwirt-zillertal.at/"
+  },
+  "name": "Gasthof Metzgerwirt",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt in ruhiger Lage in Laimach. Sie wohnen in einem familär geführten Haus im Tiroler Stil. Selbstverständlich sind alle Zimmer mit Balkon, Sat-TV, Radion und Kühlschrank, Minisafe, WC, Telefon, Whirlpool oder Dusche ausgestattet. Nach einem reichhaltigen Frühstück macht der Ferientag doppelt so viel Spaß. Ab Abend laden unsere gemütlichen Tiroler Stuben nach einem guten Abendessen mit frischen Fleisch und Wurstwaren aus unserer hauseigenen Metzgerei zum geselligen Beisammensein ein. Wir freuen uns darauf, IHren Aufenthalt bei uns so angenehm wie möglich zu gestalten."
+    },
+    {
+      "@language": "de",
+      "@value": "Das Erlebnisschwimmbad in Hippach-Schwendau und auch das Erlebnisfreibad in Mayrhofen können Sie kostenlos benutzen. Für Hunde im Zimmer müssen wir einen Aufpreis von 5,-- Euro verlangen.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Sie erreichen uns von Zell am Ziller kommend auf der Alten Landesstrasse. Ortseingang Laimach (Gemeinde Hippach) 50 m hinter der Talbachbrücke auf der linken Seite.\nCheck in 14 Uhr   Check out 10 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated in a calm position in Laimach. You live in a familiary led house in the tipical tyrolean stil. All rooms are equipped with balcony, sat-tv, radio, refrigerato, safe, wc, telephone, whirlpool and shower. big breakfast buffet. Dinner in our tyrolean rooms with fresh meat and sausages from our own butchery."
+    },
+    {
+      "@language": "en",
+      "@value": "Free of charge use of the swimming pool in Hippach and also in Mayrhofen. Addition for dogs:  € 3,00. Prices inclusive all taxes. short stay addition: € 5,00 / day. child redution until 15 years in the parents room."
+    },
+    {
+      "@language": "en",
+      "@value": "You can reach us from Zell am Ziller Coming on the old national road. Entrance Laimach (municipality Hippach) 50 m behind the Talbachbrücke on the left side.\nCheck at 14 clock check out 10 clock"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "101"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b106f70f-0747-4bab-802e-54e8544a9c07/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Metzgerwirt in Laimach in Hippach - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Metzgerwirt in Laimach in Hippach - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Metzgerwirt in Laimach in Hippach - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2bacac6-d285-4bac-a5db-c9289a1f33d1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/288a7c92-2a74-4797-b1b4-7882f8ab8fd7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Stube2"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Stube2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Stube2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04f4843c-f0e6-421c-a242-906cdaf72121/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Frühstücksraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Frühstücksraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Frühstücksraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1e4408e1-53e5-4bbb-96aa-4a8ef68507f9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Frühstück1"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Frühstück1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Frühstück1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eaf4443f-f457-4b71-863a-426d980fda96/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Stube3"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Stube3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Stube3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fe15c040-21ce-403d-9eb6-1dcfd1ca1d4d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Frühstück2"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Frühstück2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Frühstück2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f2d5eb5-c2dc-4dee-b89a-b24f1a2677da/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Frühstück3"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Frühstück3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Frühstück3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/755c71d5-fd47-4240-8bfb-0a09ea700d92/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Eingang"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Eingang"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Eingang"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c78f630c-b41f-4c9b-9d64-ed422bf6ae2f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Tischgedeck"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Tischgedeck"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Tischgedeck"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bc7aa481-605b-490a-a36c-907c5db6d7a5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Frühstück4"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Frühstück4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Frühstück4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4d119b40-8788-4354-83d2-9034cc333bbc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Frühstück Obst"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Frühstück Obst"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Frühstück Obst"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/750ab52e-060e-480b-b9e3-12042b95599f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Frühstücksbuffet2"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Frühstücksbuffet2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Frühstücksbuffet2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fbec16c9-c2b8-4f5f-8efb-c60649e05247/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Frühstücksbuffet"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Frühstücksbuffet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Frühstücksbuffet"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16e77dc7-6cd4-4751-8e5c-2e783a4d8ab6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Essen3"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Essen3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Essen3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26160052-15c8-4a8f-9d38-33d9b5ab420e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Dessert1"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Dessert1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Dessert1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8692c7ae-639e-4642-9be7-faddfd29764d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Dessert2"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Dessert2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Dessert2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3bae39f9-e194-44d7-ba1c-6f83f654b5ca/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Stube"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Stube"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Stube"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68a731a7-f709-46f3-83db-5bc745fff073/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Terrasse"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Terrasse"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Terrasse"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77edd496-e45d-43f7-af92-35122ae9c352/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Stube4"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Stube4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Stube4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3aa436bd-0038-4a1c-8a68-de973e66a85e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Stube5"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Stube5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Stube5"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/524b8a6c-8222-4549-8d4c-910304e597c1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Stube6"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Stube6"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Stube6"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/938d7bd2-786b-48f8-bf07-5f3626eecb21/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Stube7"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Stube7"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Stube7"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86dda90a-6075-4c9d-bd6d-fa515c54b12a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Stube8"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Stube8"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Stube8"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c34c8985-b6f2-46f3-82ba-e386645af496/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17a9892b-bfd9-4d40-a8da-26a6e148ef7a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Stube9"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Stube9"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Stube9"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1586f3c9-de72-4f27-a7f3-1d20a72e66e3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Metzgerwirt in Hippach in Laimach - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Metzgerwirt in Hippach in Laimach - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Metzgerwirt in Hippach in Laimach - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/374e5a8d-2f38-42da-9b02-2750f6c2a640/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Stube10"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Stube10"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Stube10"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/526b722c-9fb1-466d-9221-8e80d62e0eda/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Stube11"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Stube11"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Stube11"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9df9e28-6fc3-441a-8df1-f615bc5d4049/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Metzgerwirt Laimach - Stube12"
+        },
+        {
+          "@language": "en",
+          "@value": "Metzgerwirt Laimach - Stube12"
+        },
+        {
+          "@language": "ru",
+          "@value": "Metzgerwirt Laimach - Stube12"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2218925905646",
+    "longitude": "11.8699443340302"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "In unseren Doppelzimmern haben 2 Erwachsene gemütlich Platz. In allen Zimmern befinden sich Flat-TV mit Sat-Empfang. W-Lan ist in jedem Zimmer verfügbar.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "2 adults have comfortably place in our double rooms. Be Flat TV with Sat reception in all rooms. W-Lan is available in every room.\n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Sommer Aktivpauschale inkl. Z-Card"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "49.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "428.00",
+          "maxPrice": "428.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "428.00",
+          "maxPrice": "428.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "In diesen Zimmern haben sowohl 2 Erwachsene als auch Familien mit bis zu 2 Kindern Platz.\nAuch diese Zimmer verfügen über Flat-TV mit Sat sowie W-Lan.\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Both 2 adults and families have place with up to 2 children in these rooms. These rooms also have Flat TV with Sat as well as W-Lan.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer + Zustellbetten"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "49.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.67",
+          "maxPrice": "46.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "44.00",
+          "maxPrice": "44.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "In dieser Ferienwohnung haben bis zu 4 Personen (2 Erwachsene plus 2 Kinder per Zustellbett) Platz.\nDie Küche ist voll ausgestattet und mit 40m² bieten die Wohnungen genügend Platz für eine entspannte Heimkehr nach einem ereignisreichen Tag.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Up to 4 persons (2 adults plus 2 children by Zustellbett) have place in these two vacation dwellings.  The kitchen is equipped fully and with 40 m ² the apartments offer sufficient place for an eased homecoming after an eventful day.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung 1+2"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, bath, toilet, 1 bed room"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "In unserer großen (85m²) Ferienwohnung haben 4 Personen mehr als genug Platz für einen angenehmen Aufenthalt.\nDie Wohnung verfügt über 2 getrennte Schlafzimmer mit jeweils einem Doppelbett. Zusätzlich steht Ihnen ein geräumiges Wohnzimmer zur Verfügung.\n1x Bad mit Dusche/Badewanne und das WC sind in separaten Räumen untergebracht.\nIn der großen, voll ausgestatteten Küche fehlt es Ihnen als Selbstversorger sicher an nichts.\n\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "4 persons more than enough have place for a pleasant stay in our big (85 m ²) vacation dwelling.  The apartment has 2 separate bedrooms with a one double bed each. A spacious living room is at your disposal in addition. \n1 x bath with shower/bathtub and the toilet are put in separate rooms. \nYou lack it for certain as a self provider to nothing in the kitchen which is big and equipped fully.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung 3"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, bath, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "30.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

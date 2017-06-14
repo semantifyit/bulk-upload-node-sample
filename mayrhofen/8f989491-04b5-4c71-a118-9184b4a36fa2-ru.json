@@ -1,0 +1,103 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.einhaeupl.de/Vilseck/Urlaub/urlaub.html",
+    "http://maps.mayrhofen.at/?foreignResource\u003d8F989491-04B5-4C71-A118-9184B4A36FA2"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "BergHaus",
+    "streetAddress": "Hochschwendberg 530",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0049 911 644668",
+    "faxNumber": "0049 96629847",
+    "email": "Urlaub@einhaeupl.de",
+    "url": "http://www.einhaeupl.de/Vilseck/Urlaub/urlaub.html"
+  },
+  "name": "Berg Haus",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97aaadcc-2ddf-44e8-b25a-262dca7c2f31/99/image.jpg",
+      "caption": "Berghaus Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/87cb67fb-6a8d-4b35-a065-b76627f8eb9f/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b586b904-8fbf-4100-8e43-c3ad63072093/99/image.jpg",
+      "caption": "Bike © Ronny Kiaulehn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ff8390b-9728-4eda-ad28-cca70dee5070/99/image.jpg",
+      "caption": "Bergsteigen © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d678d20a-d903-4c13-be46-db2408e17278/99/image.jpg",
+      "caption": "Hochgebirgs-Naturpark Zillertaler Alpen © Norbert "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5a416dc3-d984-4709-860f-e811254a0e1d/99/image.jpg",
+      "caption": "Klettersteig © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec8e4794-d381-4a98-9ee9-5d25cb38f87e/99/image.jpg",
+      "caption": "Wandern am Stausee © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a65d5812-ce61-4139-89a6-084cb712f73e/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae481f11-e33a-45cd-936d-648d53c4ac93/99/image.jpg",
+      "caption": "Klettern © Tom Malecha"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8ccda5e-fd9a-4dc3-805b-1f6fc8e3fd1a/99/image.jpg",
+      "caption": "White Lounge am Genießerberg Ahorn © Frank Bauer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2080680971065",
+    "longitude": "11.8139505386353"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dB9727DCD-7D35-456C-92DB-FFB3C6C9FAE1"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Draxlaste",
+    "streetAddress": "Dornauberg 33",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 5286 5255",
+    "email": "draxlaste@gmail.com "
+  },
+  "name": "Draxlaste",
+  "description": "The is in the wild romantic Ginzling, in the middle of nature.\n\nDie Draxlaste liegt im wildromantischen Ginzling, in mitten der Natur.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a663d5f2-3eae-40be-b0b0-53ae5a413109/99/image.jpg",
+      "caption": "Draxlaste Ginzling - Winteransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/351b447f-b893-4dbd-8886-e752ff6840c5/99/image.jpg",
+      "caption": "Draxlaste Ginzling - Sommeransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c2c2230-1ebf-4869-950a-4890ba0a7582/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/23e4879c-cfd2-4f5a-a1ca-4fb4b3c1a2ac/99/image.jpg",
+      "caption": "Klettersteig © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1d84d685-0647-4211-beb7-b633c611de52/99/image.jpg",
+      "caption": "Panorama © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/79b59820-f9eb-4dcf-9aa6-bc40e1423444/99/image.jpg",
+      "caption": "Pistenspaß © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1f90092-c6c2-409b-8038-c34b3d54d8c7/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/638e8264-e426-4c85-8dad-e96216193fec/99/image.jpg",
+      "caption": "Spaß im Schnee © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1781d214-cd5a-414d-88bf-9faae907db3b/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/22567f78-3222-47ad-a6a5-b0b7de0c7162/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/de6e69ae-ec5a-467d-a711-0c451365859b/99/image.jpg",
+      "caption": "Winter am Berg © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d34e5e7-2487-46db-8901-e1ec9eb194da/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1014030972802",
+    "longitude": "11.8052923679352"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Single room, running hot/cold water",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "single room with running hot/cold water",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

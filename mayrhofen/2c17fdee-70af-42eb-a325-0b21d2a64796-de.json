@@ -1,0 +1,60 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d2C17FDEE-70AF-42EB-A325-0B21D2A64796"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 280",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3421",
+    "email": "berta.hochstaffl@aon.at"
+  },
+  "name": "Hochstaffl Berta",
+  "description": "zentrale Lage in Ramsau. Nähe Bahnhof und Ramsberglift, abseits der Hauptstraße",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ba59f4dc-21ae-48b3-88de-d9270278a627/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2047663012228",
+    "longitude": "11.8731415271759"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "1 Wohnküche, 1 Schlafzimmer, Dusche und WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

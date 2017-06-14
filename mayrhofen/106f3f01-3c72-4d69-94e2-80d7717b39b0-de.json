@@ -1,0 +1,768 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-magdalena.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d106F3F01-3C72-4D69-94E2-80D7717B39B0"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Magdalena, Hotel",
+    "streetAddress": "Hauptstraße 406",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63725",
+    "faxNumber": "0043 5285 63725 50",
+    "email": "info@hotel-magdalena.at",
+    "url": "http://www.hotel-magdalena.at"
+  },
+  "name": "Hotel Magdalena Mayrhofen",
+  "description": [
+    "Ausstattung: Im Herzen von Mayrhofen gelegen, vermittelt Ihnen unser gemütliches, mit viel Liebe geführtes Hotel eine ganz besondere Wohlfühlatmosphäre.. Gemütliche Stube, Lift, Garage, Schiraum, W-Lan im ganzen Haus gratis. Unseren Gästen stehen auch die Einrichtungen im Hotel Neuhaus gegen Gebühr zur Verfügung: Hallenbad, Sauna, Solarium, Massage, Poolbillard, Kegelbahn, Kino, Sonnenterrasse, Kinderspielplatz\nVerpflegung: Beginnen Sie den Tag mit unserem reichhaltigen Frühstücksbuffet mit Bioecke und Saftbar. Halbpension in unserem Partnerhotel 4-Gang Abend-Wahlmenü mit Salatbuffet.\nAusstattung Zimmer: Fühlen Sie sich wohl in unseren gediegen eingerichteten Zimmern mit Bad, Badewanne, getrenntem WC, teilweise Dusche und Regenbrause, Fön, Bademantel, Balkon oder Terasse bequemer Sitzecke, teilweise Kachelofen, Radio, Telefon, Safe, Minibar und Flat-TV, kostenloses W-Lan \nAppartment: Wohnzimmer mit Flat-TV großes Schlafsofa, Balkon, Schlafzimmer Flat-TV, Bad, Badewanne, WC, Fön, Kochnische, Minibar, W-Lan, Preis incl. Frühstück, tägliche Reinigung\n\nGarage 10,- Euro/Tag; Preise exkl. Ortstaxe; \nSpezialangebote: Winterpauschalen incl. Schipass, Last -Minute Angebote,\nKINDERERMÄSSIGUNG AUF ANFRAGE!\n",
+    "Garage 10,- Euro/Tag; Sonderangebote auf Anfrage!\nKINDERERMÄSSIGUNG AUF ANFRAGE!",
+    "Fahren Sie nach dem Kreisverkehr am Ortseingang geradeaus weiter und benützen Sie dann die Einfahrt Mitte. Bei der Kreuzung biegen Sie nach links ab (Einbahn). 100 Meter weiter auf der linken Strassenseite befindet sich unser Haus.",
+    "Mayrhofen\nHotel\nZillertal\nTirol\nUrlaub\nBerge\nWinterurlaub\nSchiurlaub\nMountainbike\nMotorrad"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "117"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/768096de-ee9b-4abd-b1d7-71680ad74121/99/image.jpg",
+      "caption": "Hotel Magdalena Mayrhofen - Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dbdb07f0-2813-45a7-847c-c536d8e252aa/99/image.jpg",
+      "caption": "Hotel Magdalena Mayrhofen - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa13117a-d708-4f99-842a-1d4d77316872/99/image.jpg",
+      "caption": "Hotel_Magdalena_Zimmer_107_01 FIN"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/427062b1-f4ed-45ee-829e-fcb86e459b5a/99/image.jpg",
+      "caption": "Hotel_Magdalena_Zimmer_107_03 FIN"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e7f6464-158c-4983-87ec-00f658197f34/99/image.jpg",
+      "caption": "Hotel_Magdalena_Zimmer_107_02 FIN"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1825011f-6537-42f8-90c0-eee35d9add4a/99/image.jpg",
+      "caption": "Hotel_Magdalena_Zimmer_108_01 FIN"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b34fae77-0eb8-46fd-bf21-5b16b5d8e997/99/image.jpg",
+      "caption": "Hotel_Magdalena_Zimmer_108_02 FIN"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae8ecf34-e22f-4f39-a9c8-0ba97f16431a/99/image.jpg",
+      "caption": "Hotel_Magdalena_Zimmer_108_03 FIN"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b476e5eb-c043-430d-9ce3-0c16345f987f/99/image.jpg",
+      "caption": "Hotel_Magdalena_Bad_108_01 FIN"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a6c5fde3-aae2-4188-b0e5-af4881bb81ab/99/image.jpg",
+      "caption": "Hotel_Magdalena_Bad_108_02 FIN"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/32dd41f3-b0f1-4ca2-9353-4bd117a98337/99/image.jpg",
+      "caption": "Hotel_Magdalena_Bad_107_01 FIN"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f9fa70c2-59f2-4a8b-8117-32f8d990896e/99/image.jpg",
+      "caption": "Ansicht Zimmer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d0d5a9f0-c316-4bdf-89f8-2657265f0e6f/99/image.jpg",
+      "caption": "Ansicht Zimmer 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/260d7c9b-7e8b-4042-97ac-459b9c849433/99/image.jpg",
+      "caption": "Ansicht Zimmer 2 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/35dc679b-4263-40e3-8d79-b5d718dbf6aa/99/image.jpg",
+      "caption": "Ansicht Zimmer 4 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/338ae9bb-e657-41cd-9904-ea2a0a26fc8e/99/image.jpg",
+      "caption": "Ansicht Zimmer 5 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b1a006f9-c6bb-44d5-abf8-167dea6cc962/99/image.jpg",
+      "caption": "Ansicht Zimmer 6 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5f9bb3a0-3821-46ee-9085-0bd7ad4259f6/99/image.jpg",
+      "caption": "Ansicht Zimmer 7 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5bc020de-7acd-44e0-bf7e-a5cabdc6513d/99/image.jpg",
+      "caption": "Hotel_Magdalena_Zimmer_104_01 FIN Kopie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ee2f92ab-464a-4346-851c-aa734846034d/99/image.jpg",
+      "caption": "Ansicht Zimmer 8 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02b90c9c-4ff3-4e5c-b449-21fc11ec245e/99/image.jpg",
+      "caption": "Ansicht Zimmer 9 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f54d6a71-c839-464a-932d-306432980f8a/99/image.jpg",
+      "caption": "Ansicht Zimmer 10 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e428b4d6-f10e-4c10-8b52-b0c45e0f5b26/99/image.jpg",
+      "caption": "Ansicht Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b9647388-7ad4-4b51-ae0f-52bd03965d92/99/image.jpg",
+      "caption": "Hotel_Magdalena_Bad_104_02 Kopie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0266b872-1e3e-4917-a1e7-3b11833a6edb/99/image.jpg",
+      "caption": "Hotel_Magdalena_Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d4cceedf-3c9b-47fb-a5bb-f0346840107a/99/image.jpg",
+      "caption": "Hotel_Magdalena_Garten Magdalena"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8536880a-f842-4ab1-9e0b-858f5f614804/99/image.jpg",
+      "caption": "Hotel_Magdalena_Garten2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f4053a9-5058-4bfc-91a9-db4105db11f1/99/image.jpg",
+      "caption": "Hotel_Magdalena_Frühstücksraum1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0fc5e48b-2cd1-482a-b397-b448c736d0f9/99/image.jpg",
+      "caption": "Hotel_Magdalena_Frühstücksraum2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1f271b62-83f6-4a17-b47d-8f3dd173bfa9/99/image.jpg",
+      "caption": "Hotel_Magdalena_Hotelappartement"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6897400-51ba-4796-be40-e375a6baee25/99/image.jpg",
+      "caption": "Hotel_Magdalena_Hotelappartement Wohnbereich"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1685606255268",
+    "longitude": "11.8640863895416"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Schlafzimmer ca. 25 m², komfortabel und gemütlich eingerichtet; kleine Sitzecke, Minibar, Flat-TV, Radio, Telefon, Safe, Badezimmer mit Badewanne, Fön, Kosmetikspiegel, Hotelkosmetik, Handtuchwärmer, separates WC, Balkon oder Terrasse, W-Lan gratis\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Informator",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999999.00",
+          "maxPrice": "9999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "36.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Schlafzimmer ca. 25 m², komfortabel und gemütlich eingerichtet; kleine Sitzecke, Minibar, Flat-TV, Radio, Telefon, Safe, Badezimmer mit Badewanne, Fön, Kosmetikspiegel, Hotelkosmetik, Handtuchwärmer, separates WC, Balkon oder Terrasse, W-Lan gratis\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Informator",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Wohn-Schlafzimmer ca. 30m² bis 35 m², komfortabel und gemütlich eingerichtet, behagliche Sitzecke mit Kachelofen, Couch, Minibar, Flat-TV  Radio, Telefon, Safe, Badezimmer, Badewanne,  Fön, Kosmetikspiegel, Hotelkosmetik, Handtuchwärmer, separates WC, Balkon, W-Lan gratis\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Superior Informator",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterpauschale",
+          "description": "Winter-Pauschal-Woche\n11.01. bis 25.01.2014 und 05.04. bis 12.04.2014\nPreis pro Person/Woche: 610,- \n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "90.00",
+          "maxPrice": "9999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "44.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "41.83",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "40.75",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Wohn-Schlafzimmer ca. 30m² bis 35 m², komfortabel und gemütlich eingerichtet, behagliche Sitzecke mit Kachelofen, Couch, Minibar, Flat-TV  Radio, Telefon, Safe, Badezimmer, Badewanne,  Fön, Kosmetikspiegel, Hotelkosmetik, Handtuchwärmer, separates WC, Balkon, W-Lan gratis\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Superior Informator",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "68.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "68.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "68.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Wohn-Schlafzimmer mit Himmelbett: ca. 35m²; komfortabel und gemütlich eingerichtet. behagliche Erkersitzecke mit Kachelofen, Couch, Minibar, Flat-TV, Radio, Telefon, Safe, Badezimmer mit Badewanne, Fön, Kosmetikspiegel, Hotelkosmetik, Handtuchwärmer; separates WC. Balkon oder Terrasse, W-Lan gratis\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite Informator",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.00",
+          "maxPrice": "999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "99999.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Wohn-Schlafzimmer mit Himmelbett: ca. 35m²; komfortabel und gemütlich eingerichtet. behagliche Erkersitzecke mit Kachelofen, Couch, Minibar, Flat-TV, Radio, Telefon, Safe, Badezimmer mit Badewanne, Fön, Kosmetikspiegel, Hotelkosmetik, Handtuchwärmer; separates WC. Balkon oder Terrasse, W-Lan gratis\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite Informator",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "99999.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer",
+      "description": "Wohn-Schlafzimmer ca. 35m² - 40m² mit King-Size Bocksprungbett:  komfortabel und gemütlich eingerichtete Zimmer im  modernen Stil,mit Panoramafenster und Sichtdachstuhl, Couch, Sitzecke, Minibar, Flat-TV, Radio, Telefon, Safe, Badezimmer mit begehbarer Dusche und Regenbrause, Fön, Kosmetikspiegel, Hotelkosmetik, Handtuchwärmer, Fußbodenheizung, Balkon oder Terrasse, W-Lan gratis\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite De Luxe Informator",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite De Luxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "69.00",
+          "maxPrice": "999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.67",
+          "maxPrice": "106.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer",
+      "description": "Wohn-Schlafzimmer ca. 35m² - 40m² mit King-Size Bocksprungbett:  komfortabel und gemütlich eingerichtete Zimmer im  modernen Stil,mit Panoramafenster und Sichtdachstuhl, Couch, Sitzecke, Minibar, Flat-TV, Radio, Telefon, Safe, Badezimmer mit begehbarer Dusche und Regenbrause, Fön, Kosmetikspiegel, Hotelkosmetik, Handtuchwärmer, Fußbodenheizung, Balkon oder Terrasse, W-Lan gratis\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite De Luxe Informator",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "999999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Wohnzimmer mit Flat-TV, großes Schlafsofa, Esstisch, Balkon,\nseparates Schlafzimmer mit Flat-TV, Safe, Bad, Badewanne, Fön, Kosmetikspiegle, Hotelkosmetik, Handtuchwärmer, WC, Kochnische, Minibar, W-Lan gratis, Frühstück tägliche Reinigung im Preis inbegriffen,\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hotelappartement Informator",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hotelappartement",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "95.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "91.83",
+          "maxPrice": "91.83",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.25",
+          "maxPrice": "90.25",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "69.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "59.33",
+          "maxPrice": "99.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "54.50",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Wohnzimmer mit Flat-TV, großes Schlafsofa, Esstisch, Balkon,\nseparates Schlafzimmer mit Flat-TV, Safe, Bad, Badewanne, Fön, Kosmetikspiegle, Hotelkosmetik, Handtuchwärmer, WC, Kochnische, Minibar, W-Lan gratis, Frühstück tägliche Reinigung im Preis inbegriffen,\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hotelappartement Informator",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "95.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "91.83",
+          "maxPrice": "91.83",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.25",
+          "maxPrice": "90.25",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

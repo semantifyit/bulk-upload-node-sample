@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Festival"
+  ],
+  "name": "Almabtrieb in Mayrhofen",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Tourismusverband Mayrhofen-Hippach",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstrasse 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6760",
+      "faxNumber": "+43 5285 6760-33",
+      "email": "info@mayrhofen.at",
+      "url": "http://www.mayrhofen.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Tourismusverband Mayrhofen-Hippach",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstrasse 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6760",
+      "faxNumber": "+43 5285 6760-33",
+      "email": "info@mayrhofen.at",
+      "url": "http://www.mayrhofen.at"
+    }
+  },
+  "description": "Das Almabtriebsfest im Zentrum von Mayrhofen findet am 7. Oktober 2017 ab ca. 11.00 Uhr statt.\n\nFür Speis \u0026 Trank sowie Musik \u0026 Unterhaltung ist bestens gesorgt!\n\nEintritt frei.\n\nÄnderungen vorbehalten!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d608355-a1ab-431a-b002-b1065fc7b4f6/99/image.jpg",
+      "caption": "Almabtrieb"
+    }
+  ],
+  "startDate": "2017-10-07T10:00:00",
+  "endDate": "2017-10-07"
+}

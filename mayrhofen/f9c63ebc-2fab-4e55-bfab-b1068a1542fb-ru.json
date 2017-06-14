@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsEvent"
+  ],
+  "name": "Open Valley Weekend",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Zillertal Tourismus GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bundesstraße 27d",
+      "addressLocality": "Schlitters",
+      "postalCode": "6262",
+      "addressCountry": "AT",
+      "telephone": "+43 5288 87187 ",
+      "email": "info@zillertal.at",
+      "url": "http://www.zillertal.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Zillertal Tourismus GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bundesstraße 27d",
+      "addressLocality": "Schlitters",
+      "postalCode": "6262",
+      "addressCountry": "AT",
+      "telephone": "+43 5288 87187 ",
+      "email": "info@zillertal.at",
+      "url": "http://www.zillertal.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/91ee0238-e6dc-4f3c-8583-7f6cf8f231aa/99/image.jpg",
+      "caption": "Wochenende des offenen Tales"
+    }
+  ],
+  "startDate": "2017-06-10T00:00:00",
+  "endDate": "2017-06-11"
+}

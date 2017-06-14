@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Camping Kröll"
+    },
+    {
+      "@language": "de",
+      "@value": "Camping Kröll"
+    },
+    {
+      "@language": "ru",
+      "@value": "Camping Kröll"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1759014615804",
+    "longitude": "11.8693006038666"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Denggerhof, Landhotel",
+    "streetAddress": "Laubichl 127",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62580 52",
+    "faxNumber": "0043 5285 62580 56",
+    "email": "denggerhof@alpenparadies.com",
+    "url": "http://www.denggerhof.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "\nEinfach nur die Seele baumeln lassen... \nAm späten Nachmittag, nach einem herrlichen Ski- oder Wandertag können Sie sich in unserer Sauna, Dampfbad oder in der Infrarotkabine so richtig entspannen und wieder neue Kraft tanken. Ein Solarium steht Ihnen natürlich auch zur Verfügung!\nAbwechslungsreiche Sport- und Freizeitmöglichkeiten am Campingplatz (Tischtennis, Schwimmbad...) lassen bestimmt keine Langeweile aufkommen. \nWo gibt´s das noch ... unser Splisch-Splasch - ein großes beheiztes Freischwimmbad (mit Winterbetrieb 32 Grad) mit Kinderbecken, welches Sie jederzeit kostenlos benützen können. \n"
+    },
+    {
+      "@language": "en",
+      "@value": "Life is beautiful... and what could be more beautiful than experiencing the great freedom of camping?!\n\n \n\nSmell the admirable woods; listen to the wind and the birds twittering early in the morning; have a breakfast out-of-doors… simply pure nature!\n\n \n\nEnjoy your holidays in a breath taking landscape, impressive flora and fauna. Visit the interesting storage lakes; design each of your holiday individually and exciting.\n\n \n\n\nOur campsite in Mayrhofen is an ideal starting point for the most splendid skiing adventures and walking tours!\n\n \n\nHintertuxer Glacier – the snow-reliable skiing region at close quarters!\n\n \n\nThe centre of Mayrhofen – the shopping mile with many restaurants and shops invites to loaf."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2745075f-5788-4c41-9443-ea1f8295ddc0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Camping Kröll"
+        },
+        {
+          "@language": "de",
+          "@value": "Camping Kröll"
+        },
+        {
+          "@language": "ru",
+          "@value": "Camping Kröll"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.alpenparadies.com"
+  ]
+}

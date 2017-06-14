@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Stillupperhaus 1200m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0952096657598",
+    "longitude": "11.900714635849"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Stilluperhaus",
+    "streetAddress": "Stillupptal 955",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62496",
+    "email": "info@stillupperhaus.at",
+    "url": "www.stillupperhaus.at"
+  },
+  "description": [
+    "Herzlich Willkommen im Stillupperhaus, einem familiär \ngeführten Haus auf 1.200m mit wildromantischer Atmosphäre. \n\nAm Stillupperhaus erwartet Sie eine große Sonnenterasse, Kinderspielplatz, ganztägig warme Küche und ein herrlicher Blick auf den Stillupper Gletscher und die umliegende Zillertaler Bergwelt. \nWir haben von cr. Mitte Mai bis Ende Okober geöffnet.",
+    "Sommer \nca. 13.Mai 2017 \nkein Ruhetag \nÜbernachtung möglich"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5906f59f-5757-4173-bc28-385c053cb44f/99/image.jpg",
+      "caption": "Stilluperhaus 1200m"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c64bebd-ded4-4a16-9ee7-57737953d362/99/image.jpg",
+      "caption": "Stillupperhaus"
+    }
+  ],
+  "url": [
+    "http://www.stillupperhaus.at"
+  ]
+}

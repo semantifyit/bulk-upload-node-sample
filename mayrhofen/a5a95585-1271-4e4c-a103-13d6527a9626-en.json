@@ -1,0 +1,242 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "https://www.mayrhofen.at/unterkuenfte/angebote/detail/unterkunft/haus-tristnerblick-ramsau/",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA5A95585-1271-4E4C-A103-13D6527A9626"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tristnerblick, Haus",
+    "streetAddress": "Ramsau 288",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2983",
+    "faxNumber": "0043 5285 623974",
+    "email": "tristnerblick@knauer.at",
+    "url": "https://www.mayrhofen.at/unterkuenfte/angebote/detail/unterkunft/haus-tristnerbl"
+  },
+  "name": "Haus Tristnerblick",
+  "description": [
+    "Our house Tristnerblick is situated in Ramsau. There you have wonderful view to the Zillertaler mountains. Regional busses, bank, shops, restaurants and swimmingpool are only a few minutes by feet away. Cosy lounge with Sat-TV, parking lot, sunbathing law, ski room and heating for ski shoes",
+    "bedlinen, towels, power, heating  inclusive!\nbread roll service, exclusive tax",
+    "Turn left at the traffic lights in Ramsau. Our house is on the left side."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae448d64-8197-446b-8326-eb0719d8c823/99/image.jpg",
+      "caption": "Haus Tristnerblick Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/78e9036f-8cd7-45aa-8898-f712b2af12aa/99/image.jpg",
+      "caption": "Haus Tristnerblick Ramsau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d0b02ef9-6d01-49d3-a439-9b4f9be7451b/99/image.jpg",
+      "caption": "125850"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c826f849-3408-4460-9794-69e373320954/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/319ebfc6-9349-45ee-bf94-53f423f359df/99/image.jpg",
+      "caption": "Bauer__Landwirt_Kulinarik_Brettljause_Wiese (Archi"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/178b2608-c090-4928-837b-912fef9845f9/99/image.jpg",
+      "caption": "bike mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c80f0306-3681-4dfc-83b6-7d6fc19f3f38/99/image.jpg",
+      "caption": "Sommer wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f1b9a1a5-3cbd-4ebc-ac24-c802b1229a75/99/image.jpg",
+      "caption": "Sommer_Gipfel_Panorama ("
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4247782b-6280-4d79-a3e2-ed9e44fcd0ff/99/image.jpg",
+      "caption": "skifahrer-in-action"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bef64fc9-6931-4c29-8d9d-ae63f0fb32d5/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/62f54da2-585d-41d9-acbd-8e5d019947da/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2045257650146",
+    "longitude": "11.8720364570618"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 1 bed room",
+      "description": "Cosy 30m² big appartement with doubleroom and couch, seperat kitchen, shower/WC, balcony, Sat-TV, additional doubleroom possible!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/1 bedroom/shower, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "62.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 1 bed room",
+      "description": "cosy 40m² big appartement with livingroom (oven, couch and Sat-TV), balbony, bathroom, 1 bedroom for 3 persons, additional doubleroom possible",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 1 bed room",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "59.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "72.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "102.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "112.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "5-bed room, shower",
+      "description": "Family room - consisting of 2 comfortable double rooms (of a bed 3rd with) with\nAssembly-line water balcony, 1 times Sat TV, shower / WC from both rooms seperat accessibly and good breakfast, WLAN possibly!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "room with 5 beds with shower",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Comfortable double room with YOU / WC, Sat TV and safe, good breakfast including!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "26.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

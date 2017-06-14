@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Kaseler Alm"
+    },
+    {
+      "@language": "de",
+      "@value": "Klettergebiet Kaseler Alm"
+    },
+    {
+      "@language": "ru",
+      "@value": "Kaseler Alm"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Info:\n\nZielgruppe: Anfänger bis Profis\n\nBoulderanzahl: 90\n\nAusgangspunkt: Parkplatz des Klettergebiets\n\nZustieg: Von Ginzling die Straße Richtung Schlegeis folgen. Nach der Brücke an einem kleinen Stausee vorbei, tauchen auf der rechten Straßenseite die markanten Blöcke auf einer Wiese auf. Nach ca. 500 Meter kommt auf der rechten Seite der neu eingerichtete Parkplatz bei dem Klettergebiet.\n\nZeitraum: April - November (wetterabhängig)"
+    },
+    {
+      "@language": "en",
+      "@value": "Info:\n\naudience: beginners to professionals\n\nnumber of boulders: 90\n\nstarting point: parking lot of the climbing area\n\naccess: Follow the road from Ginzling in the direction of Schlegeis. After the bridge, past a small water reservoir, you\u0027ll see the boulders on the righthand side in a field. 500 meters furtheron there is the new parking lot of the climbing area.\n\nperiod: April - November (dependent on the weather)"
+    }
+  ]
+}

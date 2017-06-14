@@ -1,0 +1,139 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bichl 614",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5337366",
+    "email": "d.hintner@gmx.at"
+  },
+  "name": "Apart Horbergblick",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "15"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/670e8fc3-167c-4816-901e-4fd6bdc2de9d/99/image.jpg",
+      "caption": "Horbergblick im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2401789-da1e-4124-92b6-060052d41bdf/99/image.jpg",
+      "caption": "Hausansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0708e865-1f89-41a0-b5bb-3321c442baa5/99/image.jpg",
+      "caption": "Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9acdbe52-0f3e-4c1a-b0fb-5e2fe864ab45/99/image.jpg",
+      "caption": "Haus2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02401d05-5d0b-4e8d-b3bb-9e39403ee09e/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/478dcf53-9a03-4528-8867-3dc94fd738a8/99/image.jpg",
+      "caption": "Wohnbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab0305ad-0ab8-42b6-97a9-b34000f2e0b8/99/image.jpg",
+      "caption": "Wohnbereich2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/10cb346b-3221-49ed-80a4-bd995b6cd79a/99/image.jpg",
+      "caption": "Wohnbereich3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/de994948-24cd-478a-ad80-10f05903acde/99/image.jpg",
+      "caption": "Wohnbereich4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/edf33307-3b8e-40ec-9d02-d15ee5581147/99/image.jpg",
+      "caption": "Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0e39b057-873f-4553-9320-fd25d6fa2def/99/image.jpg",
+      "caption": "Bad"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1945285",
+    "longitude": "11.8807594"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "115.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "130.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

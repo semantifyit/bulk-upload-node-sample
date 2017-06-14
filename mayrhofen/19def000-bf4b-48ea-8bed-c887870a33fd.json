@@ -1,0 +1,152 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d19DEF000-BF4B-48EA-8BED-C887870A33FD"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Innerböden, Gasthof",
+    "streetAddress": "Dornauberg 80",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 5286 5245",
+    "faxNumber": "0043 5286 5347",
+    "email": "Gasthaus-innerboeden@gmx.at"
+  },
+  "name": "Gasthof Innerböden",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Familiäre, günstige Pension mit eigener Landwirtschaft. Mit dem Pkw oder zu Fuß auf schattigem Waldweg in 45 Minuten von Ginzling aus erreichbar. Prachtvolles Bergpanorama. Sonnenterrasse, Liegewiese, erweitertes Frühstück, Halbpension. Im Sommer der Tipp für zukünfte Hüttenabende."
+    },
+    {
+      "@language": "de",
+      "@value": "Die Preise verstehen sich inklusive HP"
+    },
+    {
+      "@language": "de",
+      "@value": "Richtung Mayrhofen, ca. 8 - 10km nach Mayrhofen bis zum Ort Ginzling. An der Kirche vorbei, nach 1,5 km rechts abbiegen und 2,5 km zum Berggasthaus Innerböden. Ganzjährig geöffnet!"
+    },
+    {
+      "@language": "en",
+      "@value": "Reasonable, family run house with it\u0027s own farm.  Accessible by car or on foot along a shady forest path taking about 45 minutes from Ginzling.  Amazing panoramic views."
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes breakfast"
+    },
+    {
+      "@language": "en",
+      "@value": "From Mayrhofen approx 8 - 10 km until the village of Ginzling."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/411abf61-d83a-45a0-88aa-5702570ce6b1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Innerböden Ginzling - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Innerböden Ginzling - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Innerböden Ginzling - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/686bb854-e49c-4d98-9c55-1fbd56f945f0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Innerböden Ginzling - neue Stube"
+        },
+        {
+          "@language": "en",
+          "@value": "Innerböden Ginzling - neue Stube"
+        },
+        {
+          "@language": "ru",
+          "@value": "Innerböden Ginzling - neue Stube"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.097588196874",
+    "longitude": "11.7945998073"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, fl. k/w Wasser"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, running hot/cold water"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, горячая/холодная вода"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer mit Etagendusche/WC."
+        },
+        {
+          "@language": "en",
+          "@value": "Double rooms with shared shower/WC"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit fl. Wasser"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with running hot/cold water"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, горячая/холодная вода"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

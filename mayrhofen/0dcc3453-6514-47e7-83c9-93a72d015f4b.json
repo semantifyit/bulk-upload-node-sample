@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Alpenhotel Schwendbergerhof"
+    },
+    {
+      "@language": "de",
+      "@value": "Alpenhotel Schwendbergerhof"
+    },
+    {
+      "@language": "ru",
+      "@value": "Alpenhotel Schwendbergerhof"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2074995906083",
+    "longitude": "11.8606317043304"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenhotel Schwendbergerhof",
+    "streetAddress": "Schwendberg 333",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3664 0",
+    "faxNumber": "(0043) 5282 3664 4 ",
+    "email": "info@schwendbergerhof.at",
+    "url": "http://www.schwendbergerhof.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Hotel in gepflegter, persönlicher Atmosphäre, Familienbetrieb, freundliche Mitarbeiter, großzügige Komfortzimmer mit Balkon und herrlich, freier Aussicht. Panoramarestaurant, Kaminecke, Bauernstüberl., Frühstück und Abendessen in Buffetform\nZillertaler Schmankerln, sowie traditionelle Speisen, Beratung für Ausflüge und Wanderempfehlungen."
+    },
+    {
+      "@language": "en",
+      "@value": "\nLet yourself be enchanted and  connected in the tradition with today - in a 4-star hotel.\n\nEnjoy your holidays in a beautiful panoramic location, with attentive care of\nFamily Kröll and their employees."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8a8c4219-1d1d-44cd-a40b-e349c687b182/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Schwendbergerhof"
+        },
+        {
+          "@language": "de",
+          "@value": "Schwendbergerhof"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schwendbergerhof"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.schwendbergerhof.at"
+  ]
+}

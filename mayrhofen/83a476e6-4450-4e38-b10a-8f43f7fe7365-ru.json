@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Alpengasthaus Wiesenhof 1056m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1510340611438",
+    "longitude": "11.8581104278564"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Wiesenhof",
+    "streetAddress": "Hauserberg 930",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 64814",
+    "faxNumber": "(0043) 5285 64814",
+    "email": "alpengasthaus.wiesenhof@a1.net"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0cd7b9bd-729b-44fa-a2f4-48e2bc1e95bd/99/image.jpg",
+      "caption": "Logo"
+    }
+  ]
+}

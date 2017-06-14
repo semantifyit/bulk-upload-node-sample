@@ -1,0 +1,963 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.nieslerhof.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dF3563D61-BD96-4EB2-9B90-4517532137E1"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Nieslerhof",
+    "streetAddress": "Dorf Haus 777",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62596",
+    "faxNumber": "(0043) 5285 62596",
+    "email": "nieslerhof@aon.at",
+    "url": "http://www.nieslerhof.at"
+  },
+  "name": "Nieslerhof",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Frühstückspension in ruhiger Lage. Nähe Skibushaltestelle, gemütlicher Aufenthaltsraum mit Kabel-TV und Kachelofen, Schiraum mit Schischuhtrockner, eigene Jagd u. Landwirtschaft."
+    },
+    {
+      "@language": "de",
+      "@value": "Tiere erlaubt! Preise exkl. Endreinigung"
+    },
+    {
+      "@language": "de",
+      "@value": "Check-In: 12:00 Uhr, Check-Out: 09:30 Uhr; Einfahrt Mayrhofen Süd, weiter bis Restaurant Corso dann rechts abbiegen und nach einigen Häusern kommt auf der rechten Seite der \"Nieslerhof\" mit der Hausnummer 777 im Ortsteil Dorf-Haus."
+    },
+    {
+      "@language": "en",
+      "@value": "Bed and breakfast in a quiet position. Close to ski bus stop, comfortable guest lounge with cable TV and tiled stove, ski room with ski boot dryer, own hunting grounds and farm."
+    },
+    {
+      "@language": "en",
+      "@value": "Pets allowed! prices exclusive cleaning charge "
+    },
+    {
+      "@language": "en",
+      "@value": "Check in 12.00hr, check out 09.30hr.\nDirections:  Drive in to Mayrhofen at Mayrhofen Süd, on until the Restaurant Corso, then turn right and past a few houses until you arrive at the \"Nieslerhof\", house number 777 on the right, in the sub district of Dorf Haus."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/85a236bf-d6f7-4ba4-be0a-9a6e71dbf61b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Nieslerhof Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Nieslerhof Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Nieslerhof Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ced27b0-8497-4c10-9ff8-be4c6a587eb2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Nieslerhof Mayrhofen - Kornspeicher"
+        },
+        {
+          "@language": "en",
+          "@value": "Nieslerhof Mayrhofen - Kornspeicher"
+        },
+        {
+          "@language": "ru",
+          "@value": "Nieslerhof Mayrhofen - Kornspeicher"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/298e13af-ad34-487f-a8bb-10cd6d1c9738/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Nieslerhof Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Nieslerhof Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Nieslerhof Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf3244ee-c4b1-4632-9876-30ea02203ec6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Nieslerhof Mayrhofen - ERBHOF"
+        },
+        {
+          "@language": "en",
+          "@value": "Nieslerhof Mayrhofen - ERBHOF"
+        },
+        {
+          "@language": "ru",
+          "@value": "Nieslerhof Mayrhofen - ERBHOF"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/42a8b613-070a-4596-b8e1-fae942646dd0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Nieslerhof Mayrhofen - Frühstücksraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Nieslerhof Mayrhofen - Frühstücksraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Nieslerhof Mayrhofen - Frühstücksraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0503d5ab-5aeb-43a3-ae42-5762609fcfff/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Nieslerhof Mayrhofen - Doppelzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Nieslerhof Mayrhofen - Doppelzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Nieslerhof Mayrhofen - Doppelzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b310493f-0716-4c75-9597-3045681ad0c1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Nieslerhof Mayrhofen - Wohnzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Nieslerhof Mayrhofen - Wohnzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Nieslerhof Mayrhofen - Wohnzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef99f227-591e-4dc0-9c9b-223269f84c77/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Nieslerhof Mayrhofen - Schlafzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Nieslerhof Mayrhofen - Schlafzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Nieslerhof Mayrhofen - Schlafzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1baa30c8-d310-4ee4-ae83-c7ca685586e8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Nieslerhof Mayrhofen - Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Nieslerhof Mayrhofen - Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Nieslerhof Mayrhofen - Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3bb156f3-2177-4caa-bb14-f8496ba3bf49/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Nieslerhof Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Nieslerhof Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Nieslerhof Mayrhofen - Winter"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1588259802568",
+    "longitude": "11.8545806407928"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "schönes, komfortabel eingerichtetes Appartment für 2 Personen mit einem Doppelschlafzimmer, Dusche/WC, einer geräumigen Wohnküche mit Kühlschrank inklusive Gefrierfach, Kaffeemaschine, Elektroherd mit Backrohr, Dunstabzug und einer gemütlichen Sitzecke mit Kabel-TV und sonnigen Balkon; Endreinigung Euro 22,--"
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortable, pleasantly furnished apartment suitable for 2 persons, with a double bedroom, shower/WC, a spacious kitchen with fridge, coffee machine, electric oven with hobs, air filter and a pleasant lounge area with cable TV and a sunny balcony. Finaly cleaning charge 22.- Euro."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "App. 2 P. - 1 Schlafraum/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Winterpackage inkl. 6 Tages Skipass , App. 2 Pers"
+            },
+            {
+              "@language": "en",
+              "@value": "Winterpackage inkl. 6 Tages Skipass , App. 2 Pers"
+            },
+            {
+              "@language": "ru",
+              "@value": "Winterpackage inkl. 6 Tages Skipass , App. 2 Pers"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "42.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "904.00",
+          "maxPrice": "904.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "schöne, komfortabel eingerichtete Ferienwohnung für 2-3 Personen mit einem großen Dreibettzimmer Dusche/WC separat, einer geräumigen Wohnküche mit Kühlschrank, Kaffeemaschine, Elektroherd und einer gemütlichen Sitzecke mit Kabel-TV plus großem Balkon und sonniger Terrasse; 4. Person wäre auf Anfrage möglich! Enreinigung Euro 25,--"
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortable, pleasantly furnished apartment suitable for 2-3 persons with a large bedroom for 3 persons, separate shower/WC, a spacious lounge/kitchen equipped with a fridge, electric oven and a pleasant lounge area with cable TV, a large balcony and sun terrace. Room for a fourth person is also available. Final cleaning charge 25.- Euro."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "App. 2-3 P. - 1 Schlafraum/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Winterpackage inkl. 6 TagesSkipass , App. 2-3 Pers"
+            },
+            {
+              "@language": "en",
+              "@value": "Winterpackage inkl. 6 TagesSkipass , App. 2-3 Pers"
+            },
+            {
+              "@language": "ru",
+              "@value": "Winterpackage inkl. 6 TagesSkipass , App. 2-3 Pers"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "904.00",
+          "maxPrice": "904.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "schöne, komfortabel eingerichtete Ferienwohnung für 4-5 Personen mit 2 getrennten Doppelschlafzimmern, einer Schlafcouch, Dusch/WC separat, einer geräumigen Wohnküche (komplett neu eingerichtet) mit gemütlicher Sitzecke und Kabel-TV sowie Kühlschrank mit Gerfrierfach, Dunstabzug, Kaffemaschine, Elektroherd mit Backrohr usw. und einem großen Balkon mit sonniger Terrasse und einem seperaten Aufgang;  Preise exkl. Endreinigung Euro 25,-- und Kurtaxe"
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortable, pleasantly furnished apartment suitable for 4-5 persons with 2 separate double bedrooms, a sofa bed, separate shower/WC, a spacious lounge/kitchen (new) with a comfortable lounge area and cable TV, equipped with a fridge, electric oven etc., a sun terrace and balcony. Final cleaning charge 25.- Euro."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "App. 4-5 P. - 2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Winterpackage inkl. 6 Tages Skipass, App. 4-5 Pers"
+            },
+            {
+              "@language": "en",
+              "@value": "Winterpackage inkl. 6 Tages Skipass, App. 4-5 Pers"
+            },
+            {
+              "@language": "ru",
+              "@value": "Winterpackage inkl. 6 Tages Skipass, App. 4-5 Pers"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "1808.00",
+          "maxPrice": "1808.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "schönes, komfortabel eingerichtetes Ferienhaus für 6-9 Personen mit 3 getrennten Doppelschlafzimmern, einem Bad mit Dusche und Badewanne, 2 WC, einem gemütlichen Wohnzimmer mit großer Wohnlandschaft und Schlafgelegenheit für 2 Personen, Kabel-TV sowie einer geräumigen Küche mit Abstellkammer, Kühlschrank mit Gefrierfach, Kaffeemaschine, Elektroherd mit Backrohr und Dunstabzug usw. und einer großen, ebenerdigen Terrasse sowie einem Balkon im 1.Stock des Hauses. 9.Person auf Anfrage! Endreinigung Euro 45,--"
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortable, pleasantly furnished apartment suitable for 6-8 persons, with 3 double bedrooms, a bathroom with shower and bath, 2 X WC, a spacious lounge with cable TV, a large kitchen with store room, fridge, coffee machine, electric oven etc., a large ground floor terrace and a balcony on the first floor. Also available for 9 persons on request! Final cleaning charge 40.- Euro."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "App. 6-9 P. - 3 Schlafräume/Dusche, Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/3 bedrooms/shower,bath tube,WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "6"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Winterpackage inkl. 6 Tages Skipass, App. 6-9 Pers"
+            },
+            {
+              "@language": "en",
+              "@value": "Winterpackage inkl. 6 Tages Skipass, App. 6-9 Pers"
+            },
+            {
+              "@language": "ru",
+              "@value": "Winterpackage inkl. 6 Tages Skipass, App. 6-9 Pers"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "6"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "192.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "130.00",
+          "maxPrice": "224.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "140.00",
+          "maxPrice": "226.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "150.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "2712.00",
+          "maxPrice": "2712.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "3164.00",
+          "maxPrice": "3164.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "3616.00",
+          "maxPrice": "3616.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "4068.00",
+          "maxPrice": "4068.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Schönes, komfortabel eingerichtetes Appartement für 2-4 Personen komplett neu eingerichtet mit 2 getrennten Doppelschlafzimmern, Dusche/WC und Balkon in beiden Zimmern, einer geräumigen Wohn-Küche mit Kühlschrank inklusive Gefrierfach, Elektroherd mit Backrohr, Kaffeemaschine, Dunstabzug usw. und einer gemütlichen Sitzecke mit Kabel-TV!"
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortable, pleasantly furnished apartment suitable for 2 - 4 persons, with 2 double bedrooms!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "App. 2-4 P. - 2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Winterpackage inkl. 6 Tages Skipass, App. 2-4 Pers"
+            },
+            {
+              "@language": "en",
+              "@value": "Winterpackage inkl. 6 Tages Skipass, App. 2-4 Pers"
+            },
+            {
+              "@language": "ru",
+              "@value": "Winterpackage inkl. 6 Tages Skipass, App. 2-4 Pers"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "904.00",
+          "maxPrice": "904.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "1808.00",
+          "maxPrice": "1808.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "2 schöne, gemütliche Doppelzimmer mit Dusche/WC, Balkon, Kabel-TV und reichhaltigem, erweitertem Frühstück;"
+        },
+        {
+          "@language": "en",
+          "@value": "2 pretty, comfortable rooms equipped with shower/WC, balcony, TV and a generous continental breakfast."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "25.00",
+          "maxPrice": "31.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "31.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "2 schöne, gemütliche Doppelzimmer mit Dusche/WC, Balkon, Kabel-TV und reichhaltigem, erweitertem Frühstück;"
+        },
+        {
+          "@language": "en",
+          "@value": "2 pretty, comfortable rooms equipped with shower/WC, balcony, TV and a generous continental breakfast."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC BUCHBAR"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "36.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

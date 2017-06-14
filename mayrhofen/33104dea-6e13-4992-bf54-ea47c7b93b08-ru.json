@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d33104DEA-6E13-4992-BF54-EA47C7B93B08"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Geisler",
+    "streetAddress": "Ahornach 26",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62381",
+    "email": "geisler-markus@aon.at"
+  },
+  "name": "Geisler Veronika",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c086e02a-7588-462c-8f5e-904ca79760e3/99/image.jpg",
+      "caption": "Geisler Veronika Brandberg - Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af8f88fa-f1f7-41e5-9361-9f1924b06b7b/99/image.jpg",
+      "caption": "Geisler Veronika Brandberg - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/91561051-2df0-48e5-8d2c-9344751820a7/99/image.jpg",
+      "caption": "Geisler Veronika Brandberg - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dcc9e48a-70d9-4fe3-ab90-fbdf96a89767/99/image.jpg",
+      "caption": "Geisler Veronika Brandberg - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4711fb05-f5d3-405f-b4b0-8111d9f210f2/99/image.jpg",
+      "caption": "Geisler Veronika Brandberg - Esstisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fe0600dd-b471-439b-bc06-22be1125c650/99/image.jpg",
+      "caption": "Mayrhofen_Advent_3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fb89ee95-7978-428b-9e04-bfe92503601f/99/image.jpg",
+      "caption": "MayrhofnerBergbahnen_ActionbergPenken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8ca5799d-36d1-472a-b4c6-39f4e801b4bb/99/image.jpg",
+      "caption": "MayrhofnerBergbahnen_Skifahren_am_GeniesserbergAho"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64ec27b0-aa9e-4edc-a702-9d25012bef69/99/image.jpg",
+      "caption": "MayrhofnerBergbahnen_Talabfahrt_am_Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86bfed68-34e7-49a1-abf3-befbb6ab6507/99/image.jpg",
+      "caption": "bike mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/efd61ab2-5a63-438a-8191-306d09c81540/99/image.jpg",
+      "caption": "Mayrhofen__26-01-2012__lifestyle__mixed__Roland_Ha"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ff5ad812-f12c-41af-afc3-8e8353c80000/99/image.jpg",
+      "caption": "Sommer wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c1c7fb6-2d8f-4f4e-bd63-b36f000c994e/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c716d9ca-6458-4bf0-9628-d524ef51d88b/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e0c2fb84-8d79-4dbc-9f49-75d3fd389dbe/99/image.jpg",
+      "caption": "Sommer_Gipfel_Panorama ("
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1715364667554",
+    "longitude": "11.9050276279449"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ и ванна, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ и ванна, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

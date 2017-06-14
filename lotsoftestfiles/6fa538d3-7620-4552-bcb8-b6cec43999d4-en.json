@@ -1,0 +1,865 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.gutshof.cc",
+    "http://maps.mayrhofen.at/?foreignResource\u003d6FA538D3-7620-4552-BCB8-B6CEC43999D4"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gutshof Hotelbetrieb GmbH",
+    "streetAddress": "Stillupklamm 826",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 8124",
+    "faxNumber": "0043 5285 8328",
+    "email": "info@gutshof.cc",
+    "url": "http://www.gutshofzillertal.at"
+  },
+  "name": "Gutshof Zillertal",
+  "description": [
+    "The 4-star Hotel Gutshof Zillertal is located close to the center of Mayrhofen and comprises 50 tastefully decorated rooms , beauty center , wellness area , swimming pool, steam room.\n\nBeauty Center - The Gutshof Day Spa you will feel at home guaranteed. FIGURA Anti- Aging Center for Body, Mind and Soul - A dream figure with revolutionary anti-aging methods LPG, Power Plate , body contouring - smooth, firm and healthy skin feeling good from outside and inside - massages ,  wellness, fitness , beauty and cosmetics.\n\nWellness - just after strenuous skiing or hiking days, relax in one of our saunas. Finnish bio sauna , steam bath, or relocated outside Almsauna ... In the spacious relaxation room where you can enjoy fresh Tyrolean spring water and let your soul\n\nPool - In the indoor and outdoor pool area with whirlpool jets , swim a few leisurely lengths. Water temperature: 30 °\n\nManor Park was created by Feng Shui specialists. So that you can relax away from the hustle and bustle is . Beautiful cookies and loungers invite on warm summer evenings with a glass of wine or just to dream .\n\nRestaurant Mei Tirol - Enjoy the manor half-board in the morning with a generous Vital buffet, afternoon 15-16 clock afternoon snack consisting of a wide variety of soups, snacks, and pastries and cakes and in the evening a 4-course menu\n\nWine cellar - \" Life is too short to drink bad wine ! \"",
+    "Ø ample breakfast buffet\nØ excl. hotel taxes € 3,40 per person/night\nØ Discount for children staying in room with parents - 0-3 y. for free; 4-7 y. € 10/night; 8-12 y. € 20/night; 13-16 y. € 40/night (including breakfast)",
+    "Check in: from 2 pm\nCheck out: till 10 am\nReception daily from 8 am to 8 pm"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "462"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/056e88cc-fb32-427c-adfa-e48bbf6ffa11/99/image.jpg",
+      "caption": "Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2e2a2459-f1a8-4c8f-8882-311cc21430ee/99/image.jpg",
+      "caption": "Außenansicht - Einfahrt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76b72b74-6347-4aab-9168-4f4188159ae2/99/image.jpg",
+      "caption": "Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ea450b39-d9dc-4b60-9162-feb2ece0bf7a/99/image.jpg",
+      "caption": "Hotelgelände"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/18127e71-8b20-49aa-bbdd-515628e46b75/99/image.jpg",
+      "caption": "Hotelansicht - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1906c69c-be90-4cef-a77f-23efce2c00d3/99/image.jpg",
+      "caption": "Winteransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/83b29721-76f6-4382-844f-0656973454f9/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7feac7d0-3ed1-4e17-bc59-a694eaf55be6/99/image.jpg",
+      "caption": "Gartentisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a3b1593-9cbf-4861-b5cc-b9eedc0a02e1/99/image.jpg",
+      "caption": "Spabereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/793e9ae1-0a48-481b-9ee8-24ed03ab4257/99/image.jpg",
+      "caption": "Wellness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dfc3fe43-8398-4798-97a8-d68b7b7d65f3/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b614d21b-bef3-4dfb-8375-26cd391e1457/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/268c1f1e-ed9e-4812-aa08-204c8487cb57/99/image.jpg",
+      "caption": "Romantikzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f772abe9-e561-4d86-8eb5-fa32083e7642/99/image.jpg",
+      "caption": "Weinkeller"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/edf7c950-c0d8-40ef-9b13-35e43985dca2/99/image.jpg",
+      "caption": "Kulinarisches"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8ba883df-7391-4668-9752-160a0b0f652d/99/image.jpg",
+      "caption": "Kulinarisches"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3712dbe-911e-48d4-a664-d8f8e6778f5d/99/image.jpg",
+      "caption": "Frühstück"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/20f6ccd1-df1e-4763-baac-d2001048ed50/99/image.jpg",
+      "caption": "Bikecenter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/edd548f9-a85f-48c0-98a2-56b21093f943/99/image.jpg",
+      "caption": "Doppelzimmer Standard"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/307814c1-57c9-456f-852e-1b28a2bada91/99/image.jpg",
+      "caption": "Doppelzimmer Standard"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c93b9bf-25db-477a-b440-129c78a136e6/99/image.jpg",
+      "caption": "Pool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f5caec6-ceec-427e-ba5e-3a302469f950/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0773f3c1-f1df-459f-a901-9a2fd413c0fe/99/image.jpg",
+      "caption": "Studio Royal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef0f22ac-c80d-4a86-a328-b0d271c0eb61/99/image.jpg",
+      "caption": "Studio Royal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6ecf2ed2-f8be-4938-be04-054e426eda66/99/image.jpg",
+      "caption": "Studio Royal - 2. Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8b8e5e7c-15e5-4cc0-b7b3-48c0087c2cd3/99/image.jpg",
+      "caption": "Garten - Umgebung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c33abebc-6369-4278-8bf6-9665f5450abf/99/image.jpg",
+      "caption": "Pool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c634d507-f3b4-42d3-a953-0de6dacd1479/99/image.jpg",
+      "caption": "Romantikzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d30613d2-e563-4de5-89a0-2dbdbb8b7a4e/99/image.jpg",
+      "caption": "Romantikzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e09a88d8-1843-49a9-91f1-add3a1678667/99/image.jpg",
+      "caption": "Romantikzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/529a0896-08dd-467d-bef5-00175f6b2658/99/image.jpg",
+      "caption": "Bad - Familienzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2274a3fd-b920-474b-bf75-837a0504b9a2/99/image.jpg",
+      "caption": "Bad - Doppelzimmer Standard"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17f1f82e-7efb-4ea6-9b3a-0b0d83e15dff/99/image.jpg",
+      "caption": "Spabereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ad1f3a0-39f8-4ae1-8d2c-80516d70f905/99/image.jpg",
+      "caption": "Frühstück"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/46cb3aeb-6e79-4cf3-ae1e-6244c31cd902/99/image.jpg",
+      "caption": "Bad Double Luxury Room"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d355336-ec42-42d5-ad8e-f0440782a89f/99/image.jpg",
+      "caption": "Doppelzimmer Standard"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8ebbf88c-5f80-4473-b00a-fa5d3e3d38c6/99/image.jpg",
+      "caption": "Romantikzimmer Classic"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/78bf427c-a88b-41f8-a280-ee85f3d00b52/99/image.jpg",
+      "caption": "Romantikzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e80663f-6902-421c-8800-f1662856c333/99/image.jpg",
+      "caption": "Bad - Romantikzimmer Classic"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b4f88fc2-d75f-46d4-9cab-79d69bb478f9/99/image.jpg",
+      "caption": "Sternensuite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf2aef67-8131-4e4f-84fd-376590106168/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2a307d0-e098-435f-8005-6eb9246cfb6c/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b37ab6ca-8b78-4b30-beca-0a5ea8744f32/99/image.jpg",
+      "caption": "Saunahütte im Freien"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/451519bd-c815-4273-ba6e-79310d9148bc/99/image.jpg",
+      "caption": "Pool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14b358d8-d300-4b86-9565-71c0c1c24a81/99/image.jpg",
+      "caption": "Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2374ce7c-d5be-4b41-b5e6-c857e9c9e19f/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae69f737-b99c-491e-9a07-79a41bee4db9/99/image.jpg",
+      "caption": "Double Luxury Room"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d68fae7-eebd-4f80-86f0-3a38232820fe/99/image.jpg",
+      "caption": "Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12fdd6a7-ba84-4553-acc3-9bdb9ce571e5/99/image.jpg",
+      "caption": "Bikecenter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a5cc103-e92c-4808-88d8-c5f6b1fc3999/99/image.jpg",
+      "caption": "Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a704300-8a7e-42b6-b89d-b7ea57289112/99/image.jpg",
+      "caption": "Weinkeller"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ca63bd4-4dff-46f8-872f-d978ef8d4654/99/image.jpg",
+      "caption": "Gutshofsuite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b640f878-03ec-4225-bafc-e8576b6e59d7/99/image.jpg",
+      "caption": "Gutshofsuite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56efdd01-0537-4315-ac71-329fe2bc1774/99/image.jpg",
+      "caption": "Sternensuite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad69b445-9e12-41fc-b570-d8b6236a6fb7/99/image.jpg",
+      "caption": "Sternensuite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/671b527e-0fb1-4876-8ac3-c984a9894894/99/image.jpg",
+      "caption": "Sternensuite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1038754a-59ed-4724-bb1c-d7c2ebfb76d8/99/image.jpg",
+      "caption": "Sternensuite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2126823a-e1b5-48c7-a7c9-8937df5a46ab/99/image.jpg",
+      "caption": "Bad - Gutshofsuite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf89b5f2-04bf-4a12-8b33-3e6fce3cca03/99/image.jpg",
+      "caption": "Familienzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/270e9aab-ff4d-44d7-8c3f-cc13ecf0bfa7/99/image.jpg",
+      "caption": "Familienzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d4ae51e-2a48-46bc-9311-c57962688dbf/99/image.jpg",
+      "caption": "Familienzimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1584101482667",
+    "longitude": "11.8465501070023"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "The Double Luxury Suite offers you high quality design, which is characterized by modern luxury and a tasteful blend of classic elements. It is a spacious \"Chambre\" on the top floor of the hotel. The bright and warm interior and selected by master furniture meet the highest aesthetic demands. The suite offers a spacious bedroom and a luxurious bathroom with shower and bath. \n· Double Bed \n· Desk \n· Minibar \n· coffee \n· Safe \n· Balcony \n· Bathroom with bathtub \n· Hairdryer \n· Wireless internet connection \n· High-definition television",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppel Luxury Suite – (40m²)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "9999999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room",
+      "description": "The Classic Romantic Room of the Gutshof Zillertal are decorated in a traditional Austrian style with machined locally and by hand wooden furniture made ​​from local materials. The interior is dominated by wood a natural expression of the alpine lifestyle, its picturesque villages, its inhabitants, its forests and the majestic Alps. \n· Double Bed \n· Sofa \n· Desk \n· Minibar \n· coffee \n· Safe \n· Balcony \n· Bathroom with bathtub or Shower \n· Hairdryer \n· Wireless internet connection \n· High-definition television",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winter-Opening 2Tage im Romantik Zimmer Classic",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Jänner Special im Gutshof",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "E-Bike Pauschale 6 Nächte, Romantik Zimmer Classic",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Frühling im Gutshof",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Frühling, Romantik Zimmer Classic – (16m² - 20m²)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bikenpauschale Romantik Zimmer Classic",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Biken 2017, Romantik Zimmer Classic – (16m² - 20m²",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bike 2017, Romantik Zimmer Classic – (16m² - 20m²)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "172.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "184.00",
+          "maxPrice": "184.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "184.00",
+          "maxPrice": "184.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "184.00",
+          "maxPrice": "184.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "207.00",
+          "maxPrice": "207.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "207.00",
+          "maxPrice": "207.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "207.00",
+          "maxPrice": "207.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "564.50",
+          "maxPrice": "564.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "294.00",
+          "maxPrice": "294.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "294.00",
+          "maxPrice": "294.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "88.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "88.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "294.00",
+          "maxPrice": "294.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "294.00",
+          "maxPrice": "294.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Family room, shower and bath, toilet",
+      "description": "Inspired by our popular Classic Romantic rooms and the family room in the traditional Austrian style rooms. Again, you can find furniture made locally processed wood from the region. With one bedroom for adults and a separate children\u0027s room with a bunk bed family rooms with enough space for two adults and two children. \n· Double Bed \n· Sofa \n· Desk \n· Minibar \n· coffee \n· Safe \n· Balcony \n· Bathroom with bathtub \n· Hairdryer \n· Wireless internet connection \n· High-definition television",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "family room with shower, bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "178.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, bath, toilet",
+      "description": "With its exclusive location on the top floor of the hotel\u0027s balcony of the suite offers the best view of the garden of the manor and the picturesque valley that extends behind it. The Royal Suite offers two bedrooms with double beds, a luxurious bathroom with stylish black tile stones and a spacious walk-in closet. \n· Double Bed \n· Additional double room \n· Sofa \n· Desk \n· Minibar \n· coffee \n· Safe \n· Balcony \n· Bathroom with bathtub \n· Hairdryer \n· Wireless internet connection \n· High-definition television",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Studio Royal – (68m²)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior suite, shower and bath, toilet",
+      "description": "The Manor Suite is a spacious masterpiece of traditional Tyrolean style. Your wooden furniture is made of local materials and by hand. The traditional interior is a natural extension of the alpine lifestyle, the picturesque villages, the inhabitants of the forests and the majestic Alps themselves The suite offers a luxurious bathroom with bathtub. \n· Double Bed \n· Sofa \n· Desk \n· Minibar \n· coffee \n· Safe \n· Balcony \n· Bathroom with bathtub \n· Hairdryer \n· Wireless internet connection \n· High-definition television",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "juniorsuite with shower, bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "178.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, shower and bath, toilet",
+      "description": "The Star Suite of the estate is a masterpiece of traditional Austrian style with furniture from locally processed wood from the region. The suite offers a spacious living room and an intimate bedroom as well as a luxurious bathroom with bathtub. \n· Double Bed \n· Sofa \n· Desk \n· Minibar \n· coffee \n· Safe \n· Bathroom with bathtub \n· Hairdryer \n· Wireless internet connection \n· High-definition television",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "suite with shower, bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "184.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Single room, shower and bath, toilet",
+      "description": "Singleroom with shower, bath and WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Single room, shower and bath, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "999999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

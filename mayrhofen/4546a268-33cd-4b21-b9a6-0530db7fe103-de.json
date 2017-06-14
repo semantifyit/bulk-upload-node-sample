@@ -1,0 +1,305 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.skylounge-mayrhofen.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d4546A268-33CD-4B21-B9A6-0530DB7FE103"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mayrhofen, Skylounge",
+    "streetAddress": "Zillerlände 490",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 501 8716",
+    "faxNumber": "0043 5285 63381",
+    "email": "info@skylounge-mayrhofen.com",
+    "url": "http://www.skylounge-mayrhofen.com"
+  },
+  "name": "Skylounge Mayrhofen",
+  "description": [
+    "Willkommen in der SKYLounge Mayrhofen!\n\nSchon mit dem ersten Ausblick über Mayrhofen werden Sie durchatmen.\n\n2004 neu erbaut und 2008 erweitert zeichnen sich unsere vier Panorama-Appartements aber nicht nur durch Ihre einzigartige Lage aus.\nDie liebevolle Einrichtung, die architektonische Raffinesse, Holz und warmen Farben machen Ihr SKYLOUNGE-Appartement HIMMELSGEFLÜSTER, ZAUBERBERG, STERNENNACHT oder TRAUMNOVELLE, die alle vier über einen modernen Lift erreichbar sind, zur Wohlfühloase.\nSie residieren in zentraler und trotzdem „privater“ Lage. In nur ein bzw. zwei Gehminuten erreichen Sie die Ahorn- und Penkenbahn.\nEbenfalls in unmittelbarer Nähe erwartet Sie das Erlebnisschwimmbad, der Eislaufplatz, diverse Ski- und Bergschulbüros sowie Sportgeschäfte und Skiverleih.\n\nNach einem erholsamen Ski- oder Wandertag laden wir Sie ein, den Wellness- Saunabereich im Haus zu besuchen. Als unser Gast haben Sie kostenlosen Zugang zur Sauna und können um –20 % Ermäßigung auch den Fitnessbereich nützen.\nIhren Durst stillen Sie bei uns mit frischem, mit der Grandermethode veredeltem Quellwasser.\nEin überdachter, abgeschlossener Parkplatz, sowie ein Trockenraum für Ihre Schischuhe sind inkludiert. Gegen Gebühr stellen wir Ihnen auch einen Wireless-Internet-Zugang zur Verfügung.\n\nEs gilt österreichisches Hotelvertragsrecht.",
+    "Die Preise verstehen sich inklusive Strom, exklusive Endreinigung! \nCheck-In ab 16.00 Uhr, Check-Out bis 09.00 Uhr!\n\n",
+    "Auf der Bundesstraße B169 nach Mayrhofen, Mayrhofen am Bahnhof vorbei bis Einfahrt Mitte, nach dem Postamt an der Kreuzung rechts in die Hauptstraße abbiegen, ca. 600 m an der Penkenbahn vorbei, vor der Zillerbrücke links abbiegen, noch ca. 50m."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "23"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3b5239da-a691-49b1-8120-77abc578f70f/99/image.jpg",
+      "caption": "Traumnovelle Skylounge Mayrhofen (1)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e98a8ab3-ad1f-475c-97db-2c5300f89def/99/image.jpg",
+      "caption": "Sky Lounge Mayrhofen - Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f648f34-29b0-425d-9ff8-236d6d04fda5/99/image.jpg",
+      "caption": "Sky Lounge Mayrhofen - Panorama - Zimmerausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3f2556a6-56a4-42e3-9e97-ed3ddeb7b534/99/image.jpg",
+      "caption": "Zauberberg Skylounge Mayrhofen (1)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c948becd-06d4-4dd0-8c21-ef2d9d412bdf/99/image.jpg",
+      "caption": "Zauberberg Skylounge Mayrhofen (3)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa032914-8aa2-46ff-a7f5-6e6c504857b4/99/image.jpg",
+      "caption": "Zauberberg Skylounge Mayrhofen (4)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0cb6c091-0df9-4341-b336-5e0a004ba786/99/image.jpg",
+      "caption": "Zauberberg Skylounge Mayrhofen (5)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e5168e88-96c2-41d2-b29a-023411684928/99/image.jpg",
+      "caption": "Zauberberg Skylounge Mayrhofen (2)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5dee313a-2c2d-48da-b457-bbaf5ef4b819/99/image.jpg",
+      "caption": "Traumnovelle Skylounge Mayrhofen (3)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c9dbb6d-50df-426d-94d0-20f5b5d1b6fc/99/image.jpg",
+      "caption": "Traumnovelle Skylounge Mayrhofen (4)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c9565b98-a093-41d9-be6c-c1e5b4231103/99/image.jpg",
+      "caption": "Traumnovelle Skylounge Mayrhofen (2)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1754ad41-724a-43ce-834d-1c00e6fc7f28/99/image.jpg",
+      "caption": "Sternennacht Skylounge Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f50a796-e17c-4779-99a0-14c1460e31cc/99/image.jpg",
+      "caption": "Himmelsgeflüster Skylounge Mayrhofen (1)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c56a1072-6ca7-45d0-9d1c-d74f573289c3/99/image.jpg",
+      "caption": "Himmelsgeflüster Skylounge Mayrhofen (3)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eef39092-e2f9-4ac8-9bcc-377f2ad128b6/99/image.jpg",
+      "caption": "Himmelsgeflüster Skylounge Mayrhofen (2)"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1617294181949",
+    "longitude": "11.8617045879364"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Himmelsgeflüster\nDas Appartement ist im Landhausstil eingerichtet. Es besteht aus einem gemütlichen Wohnraum mit Flat-TV und Safe, Schlafzimmer mit Doppelbett ebenfalls mit Flat-TV , Badezimmer mit Dusche/WC, einem Vorraum mit Garderobe und einer abgeschlossenen Küche. Diese ist komplett mit Koch- und Eßgeschirr, Elektroherd, Backrohr, Spülmaschine, Kühlschrank, Kaffeemaschine, Toaster, Wasserkocher, Spülmittel und Tabs für die Spülmaschine usw. ausgestattet. Hand- bzw. Duschtücher und Bettwäsche sind für Sie vorbereitet, Schiraum ist vorhanden. Zudem verfügt jedes Appartement über einen eigenen abgeschlossenen, großzügigen Balkon, von dem Sie einen herrlichen Blick auf Mayrhofen und die Berge haben. Auch ein abgeschlossener, überdachter Parkplatz ist im Preis inbegriffen.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Himmelsgeflüster",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "88.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "88.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "121.00",
+          "maxPrice": "161.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "154.00",
+          "maxPrice": "194.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Das Appartement ist im Landhausstil eingerichtet. Es besteht aus einem gemütlichen Wohnraum mit Flat-TV und Safe, Schlafzimmer mit Doppelbett ebenfalls mit Flat-TV, Badezimmer mit Dusche/WC, einem Vorraum mit Garderobe und einer abgeschlossenen Küche. Diese ist komplett mit Koch- und Eßgeschirr, Elektroherd, Backrohr, Spülmaschine, Kühlschrank, Kaffeemaschine, Toaster, Wasserkocher, Spülmittel und Tabs für die Spülmaschine usw. ausgestattet. Hand- bzw. Duschtücher und Bettwäsche sind für Sie vorbereitet, Schiraum ist vorhanden. Zudem verfügt jedes Appartement über einen eigenen abgeschlossenen, großzügigen Balkon, von dem Sie einen herrlichen Blick auf Mayrhofen und die Berge haben. Auch ein abgeschlossener, überdachter Parkplatz ist im Preis inbegriffen.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Zauberberg",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "88.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "88.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "121.00",
+          "maxPrice": "161.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "154.00",
+          "maxPrice": "194.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Das Appartement ist im Landhausstil eingerichtet. Es besteht aus einem gemütlichen Wohn-/Schlafraum mit Kabel-TV, Safe, Badezimmer mit Dusche/WC, einem Vorraum mit Garderobe und einer abgeschlossenen Küche. Diese ist komplett mit Koch- und Eßgeschirr, Elektroherd, Backrohr, Spülmaschine, Kühlschrank, Kaffeemaschine, Toaster, Wasserkocher, Spülmittel und Tabs für die Spülmaschine usw. ausgestattet. Hand- bzw. Duschtücher und Bettwäsche sind für Sie vorbereitet, Schiraum ist vorhanden. Zudem verfügt jedes Appartement über einen eigenen abgeschlossenen, großzügigen Balkon, von dem Sie einen herrlichen Blick auf Mayrhofen und die Berge haben. Auch ein abgeschlossener, überdachter Parkplatz ist im Preis inbegriffen.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Traumnovelle",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "83.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "83.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "116.00",
+          "maxPrice": "153.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Das Appartement ist im Landhausstil eingerichtet. Es besteht aus einem gemütlichen Wohn-/Schlafraum mit Kabel-TV, Safe, Badezimmer mit Dusche/WC, einem Vorraum mit Garderobe und einer abgeschlossenen Küche. Diese ist komplett mit Koch- und Eßgeschirr, Elektroherd, Backrohr, Spülmaschine, Kühlschrank, Kaffeemaschine, Toaster, Wasserkocher, Spülmittel und Tabs für die Spülmaschine usw. ausgestattet. Hand- bzw. Duschtücher und Bettwäsche sind für Sie vorbereitet, Schiraum ist vorhanden. Zudem verfügt jedes Appartement über einen eigenen abgeschlossenen, großzügigen Balkon, von dem Sie einen herrlichen Blick auf Mayrhofen und die Berge haben. Auch ein abgeschlossener, überdachter Parkplatz ist im Preis inbegriffen.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Sternennacht",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "83.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "83.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

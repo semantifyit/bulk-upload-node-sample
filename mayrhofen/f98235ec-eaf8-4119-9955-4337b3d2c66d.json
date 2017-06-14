@@ -1,0 +1,84 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Florist"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Gärtnerei Kerschdorfer"
+    },
+    {
+      "@language": "de",
+      "@value": "Gärtnerei Kerschdorfer"
+    },
+    {
+      "@language": "ru",
+      "@value": "Gärtnerei Kerschdorfer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2076708720536",
+    "longitude": "11.8714249134064"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gärtnerei Kerschdorfer",
+    "streetAddress": "Talstraße 46",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5283 27260",
+    "faxNumber": "(0043) 5283 27 2616",
+    "email": "info@gartenbau-kerschdorfer.at",
+    "url": "http://www.gartenbau-kerschdorfer.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich Willkommen bei Gartenbau Kerschdorfer\n\nGartenbau Kerschdorfer besteht als Familienbetrieb und bietet Ihnen jahrelange Erfahrung in der Gartengestaltung und Gartenberatung. Speziell auch im Bereich Teichbau, Gartengestaltung, Gartenplanung und Dachbegrünungen sind wir Ihr kompetenter Partner im Raum Tirol. \nUnter der Führung von Herrn Kommerzialrat Hannes Kerschdorfer wurde die vormals kleine Gärtnerei mit hauptsächlich Beet- und Balkonblumenverkauf zum Zillertaler Gartenzentrum Kerschdorfer erweitert und die Firma in den Bereichen Gartengestaltung, Gartenplanung, Dachbegrünungen sowie Teichbau aufgebaut und etabliert.\nWir freuen uns schon auf Ihre Anfrage oder Ihren Besuch in unserem Zillertaler Gartenzentrum in Stumm. Gerne erwartet Sie auch Martin Kerschdorfer im Ramsauer Gartenzentrum.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4d2f26bf-9df7-4404-ae37-11d1a81f8eba/99/image.png",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Gärtnerei Kerschdorfer"
+        },
+        {
+          "@language": "de",
+          "@value": "Gärtnerei Kerschdorfer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gärtnerei Kerschdorfer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/437deab0-7413-48cc-a6e8-cd835fcc434c/99/image.png",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Kerschdorfer Tirol Cup"
+        },
+        {
+          "@language": "de",
+          "@value": "Kerschdorfer Tirol Cup"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kerschdorfer Tirol Cup"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.gartenbau-kerschdorfer.at"
+  ]
+}

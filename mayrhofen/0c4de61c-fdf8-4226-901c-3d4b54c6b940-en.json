@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Organization",
+    "Place"
+  ],
+  "name": "Billard - Hotel Strass",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1637863",
+    "longitude": "11.8610047"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport \u0026 Spa Hotel Strass Roscher KG",
+    "streetAddress": "Hauptstraße 470",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 6705",
+    "faxNumber": "0043 5285 63477",
+    "email": "info@hotelstrass.com",
+    "url": "http://www.hotelstrass.com"
+  },
+  "description": "A variety of room categories. Bright and spacious double rooms, Penthouse Suites with panoramic Alpine views. Dining, enjoy Zillertal delights in one of hotel restaurants.\n\nThe highly reputed Wellness\u0026 Spa offers, Finish, Organic and Roman steam saunas. Salt water pools and Thalasso baths. A wide range of health and beauty treatments, in the hands of our very experienced Masseurs.\nTyrol is a land dedicated to sport and fitness at all levels. So what ever your sport, the Zillertal is more than equipped for it.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/559f5877-e24e-40aa-8c9d-3163493fdbc2/99/image.jpg",
+      "caption": "Hotel Strass"
+    }
+  ],
+  "url": [
+    "http://www.alpendomizil.at",
+    "http://www.berghof.cc",
+    "http://www.hotelstrass.com"
+  ]
+}

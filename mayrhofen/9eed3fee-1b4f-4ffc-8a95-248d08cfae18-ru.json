@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsEvent"
+  ],
+  "name": "40. Internationales ÖTV Herrenturnier",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Tennisclub Hippach"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Lindenstrasse 42",
+      "addressLocality": "Hippach",
+      "postalCode": "6283",
+      "addressCountry": "AT",
+      "email": "info@tc-hippach.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Lindenstrasse 42",
+      "addressLocality": "Hippach",
+      "postalCode": "6283",
+      "addressCountry": "AT",
+      "email": "info@tc-hippach.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e13d89f9-fcf3-49bb-acff-fd0ac696a92d/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "startDate": "2017-08-03T00:00:00",
+  "endDate": "2017-08-06"
+}

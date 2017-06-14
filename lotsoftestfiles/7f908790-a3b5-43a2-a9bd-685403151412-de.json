@@ -1,0 +1,438 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness",
+    "Hostel",
+    "Resort"
+  ],
+  "url": [
+    "http://www.almhof-roswitha.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Chalets Lichteben",
+    "streetAddress": "Hochschwendberg 532",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3762",
+    "email": "info@almhof-roswitha.at",
+    "url": "http://www.lichteben.at"
+  },
+  "name": "Chalets Lichteben",
+  "description": [
+    "Frische Kräuter von der Wiese nebenan, kuhwarme Milch von unserem Vieh, Grundversorgung über unsere Bio Landwirte.\nBei uns auf Lichteben finden Sie neben wunderbar wohltuenden Genuss, Ruhe, Kraft, Mystik und Zeit.\nDie Ausstattung unserer Finest-Chalets lassen nur wenige Wünsche unerfüllt. Egal ob offenes Feuer, Privatsauna, bis hin\nzum Aussen-Whirlpool und einer gut ausgestatteten Küche. Auf Lichteben entdeckt man die Sinne. Ob selbstkochend, oder sich\nvon Roswithas Feinkostladen kulinarisch am Tisch oder im Chalet verwöhnen lassend.  ",
+    "- Buchbar ab 3 Nächte\n- bei Lücken im Buchungsplan auch 2 Nächte mit einem Zuschlag von 10,- Euro p. P. \u0026 Nacht möglich\n- In den Ferienzeiten sind nur Wochenbuchungen möglich.\n",
+    "Anreise ab 15:00 Uhr, Abreise bis 11:00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6edf38fc-7961-45a1-acef-cbfcdc4d07e5/99/image.jpg",
+      "caption": "Haus Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0dcea316-e76e-405a-a0ba-83966abcdb3d/99/image.jpg",
+      "caption": "Haus Winter1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d555937-1c2e-47e5-9fae-fe0984ae3a58/99/image.jpg",
+      "caption": "Haus Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/45d32691-d9ab-4c63-a2ce-959a12e2907d/99/image.jpg",
+      "caption": "Haus Winter3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/23bcc4e3-e013-4df2-b98e-275325b0a67c/99/image.jpg",
+      "caption": "Haus Winter4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1d30a0c-d910-4760-923f-434d94a5ed55/99/image.jpg",
+      "caption": "Haus Winter5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/053b6efa-e72b-49f6-8b98-f5d89de61074/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e0c5bac2-4993-400b-9cd5-0e42e52d2f99/99/image.jpg",
+      "caption": "Winter1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ad4ca11-d0e8-4305-b823-d6e3e173b105/99/image.jpg",
+      "caption": "Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14207c03-059f-4b37-9e9c-d3c8cf11aeb3/99/image.jpg",
+      "caption": "Winter3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d34faab7-f80e-4172-b9ac-99b47b8d66ff/99/image.jpg",
+      "caption": "Winter4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5b6327d0-c668-4547-bef1-e4a7d58803dc/99/image.jpg",
+      "caption": "Winter5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7b5a73f9-aa4d-43b9-b7f2-c08f83025f79/99/image.jpg",
+      "caption": "Winter6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c753a49-808d-4366-b4ef-c66b59f15815/99/image.jpg",
+      "caption": "Wohnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6e1cf622-9738-4806-81d6-9aa05e036887/99/image.jpg",
+      "caption": "Wohnen1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/580da8a2-b495-4439-a38e-b943dcb6b6e3/99/image.jpg",
+      "caption": "Stimmung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/24309fe6-47ab-422f-b72c-85acf8dd2265/99/image.jpg",
+      "caption": "Stimmung1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/78da7d74-4c86-48d5-adc6-5a72340abbfa/99/image.jpg",
+      "caption": "Stimmung2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3d120fb7-e7df-4036-809e-59853b61536e/99/image.jpg",
+      "caption": "Stimmung3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a6e07154-1fb5-4e46-be15-a78705bb95a7/99/image.jpg",
+      "caption": "Stimmung4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/410ee972-8bf1-451e-af1b-e0de8fbc40f7/99/image.jpg",
+      "caption": "Stimmung5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d6c7cd07-94a5-4ebb-920a-2e549bff1956/99/image.jpg",
+      "caption": "Stimmung6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ecea622c-fef9-44ed-b1b3-33c4663e8612/99/image.jpg",
+      "caption": "Stimmung7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56e40bc1-a03d-4401-b367-64d964c24c38/99/image.jpg",
+      "caption": "Stimmung8"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e657fa2-6330-42e7-a51a-65dfb9522f47/99/image.jpg",
+      "caption": "Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b43d0ba4-6037-4cb2-8735-662bdcea9af9/99/image.jpg",
+      "caption": "Badezimmer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ea622da-7972-4f71-a59f-e16ba0865b80/99/image.jpg",
+      "caption": "Badezimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c87ca4de-d25b-4840-9b09-9afda08a81f0/99/image.jpg",
+      "caption": "Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a89a673a-1f50-4760-a588-6fc25149840d/99/image.jpg",
+      "caption": "Ausblick1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50d54af3-350b-4632-b4a6-25dcba2a587c/99/image.jpg",
+      "caption": "Ausblick2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ecfc690-b8e8-43ac-8ad2-365334ebfeac/99/image.jpg",
+      "caption": "Ausblick3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f1d34b4-cf11-47bc-a26d-b0b9005a33aa/99/image.jpg",
+      "caption": "Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b4585cf2-5743-4756-a019-c56b3028ca57/99/image.jpg",
+      "caption": "Kind"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d0e77f5-98e5-45fe-b78b-b44a87d033db/99/image.jpg",
+      "caption": "Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1e6e861f-1663-4285-8b21-f2ec6c98be46/99/image.jpg",
+      "caption": "Haus Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f3a83c8-435b-4f6a-bc85-30008168fd33/99/image.jpg",
+      "caption": "Haus Sommer2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2070891",
+    "longitude": "11.8174248"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus",
+      "description": "Chalet \"Silberdistel\"\nWohn-/Nutzfläche 78,94 m²\nein Bad mit WC plus separates WC im Erdgeschoss \n2 Schlafzimmer \nSauna im Erdgeschoss \noffene Küchenecke \nexklusiver Wohnbereich und Tür zum Entspannungsbereich \noffener Kamin \nWeindepot\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Chalet Silberdistel",
+          "numberOfRooms": "8.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus",
+      "description": "Chalet \"Arnika\"\nWohn-/Nutzfläche 84,50 m²\nzwei Bäder mit WC plus separates WC im Obergeschoss \n2 Schlafzimmer \nSauna im Erdgeschoss \noffene Küchenecke \nexklusiver Wohnbereich und Tür zum Entspannungsbereich \noffener Kamin \nWeindepot\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Chalet Arnika",
+          "numberOfRooms": "10.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus",
+      "description": "Chalet \"Erika\" \nWohn-/Nutzfläche 74,97 m²\nein Bad mit WC plus separates WC im Erdgeschoss \nSauna im Untergeschoss \noffene Küchenecke \nexklusiver Wohnbereich und Tür zum Entspannungsbereich \noffener Kamin \nWeindepot\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Chalet Erika",
+          "numberOfRooms": "7.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus",
+      "description": "Wohn-/Nutzfläche 69,30 m²\nein Bad mit WC plus separates WC im Untergeschoss \nSauna im Untergeschoss \noffene Küchenecke \nexklusiver Wohnbereich und Tür zum Entspannungsbereich \noffener Kamin \nWeindepot\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Chalet Alpenrose",
+          "numberOfRooms": "8.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus",
+      "description": "Chalet \"Steinquendel\" \nWohn-/Nutzfläche 61,04 m²\nein Bad plus separates WC \nSauna \noffene Küchenecke \nexklusiver Wohnbereich und Tür zum Entspannungsbereich \noffener Kamin \nWeindepot\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Chalet Steinquendel",
+          "numberOfRooms": "7.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

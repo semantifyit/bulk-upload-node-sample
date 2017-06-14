@@ -1,0 +1,64 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dEF6960A3-AB0D-48D6-A1C4-7F3DC5622B58"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Laura, Appartments",
+    "streetAddress": "Breitlahneweg 296",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62565",
+    "email": "appartementlaura@aon.at "
+  },
+  "name": "Appartments Laura",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2edda7ec-687f-4d9a-9101-4555b0c76d6e/99/image.jpg",
+      "caption": "Appartments Laura Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/95c65a9b-6758-473f-ac91-3ddd98b69135/99/image.jpg",
+      "caption": "Appartments Laura Mayrhofen - Schlafzimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1660186291092",
+    "longitude": "11.871178150177"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, ванна, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

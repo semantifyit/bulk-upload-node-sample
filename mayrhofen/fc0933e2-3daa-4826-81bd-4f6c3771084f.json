@@ -1,0 +1,329 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.zillertalnet.at/mader",
+    "http://maps.mayrhofen.at/?foreignResource\u003dFC0933E2-3DAA-4826-81BD-4F6C3771084F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendberg 330",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4151",
+    "email": "mader@zillertalnet.at",
+    "url": "http://www.zillertalnet.at/mader"
+  },
+  "name": "Mader Andreas",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Sonnige und ruhige Lage direkt an der Zillertaler Höhenstrasse ca. 1 km oberhalb von Hippach.\nMit dem PKW einfach zu erreichen."
+    },
+    {
+      "@language": "de",
+      "@value": "W-Lan"
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise 14.00 bis 22.00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "sunny and quiet position directy on the Zillertaler Höhenstraße about 1 km above Hippach. Can be reached easy by car!"
+    },
+    {
+      "@language": "en",
+      "@value": "W-Lan"
+    },
+    {
+      "@language": "en",
+      "@value": "14.00 - 22.00"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f842670-8ab3-455a-b140-7605945b13e7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterfoto 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterfoto 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterfoto 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec6bf1cf-1393-408a-ad9c-422f772470ef/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Mader"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Mader"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Mader"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/865427a7-6350-4369-b9e3-0c5a62a8aa9a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Essbereich"
+        },
+        {
+          "@language": "en",
+          "@value": "Essbereich"
+        },
+        {
+          "@language": "ru",
+          "@value": "Essbereich"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/44a0b360-0173-41ae-b8c6-039b7a8fa218/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Mader Terrasse 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Mader Terrasse 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Mader Terrasse 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1952bcc4-8ef0-4340-985e-a5bdaaad73cb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Mader Terrasse"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Mader Terrasse"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Mader Terrasse"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ecc4085-fc1a-4d9e-ac2c-5203682b4590/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Stimmung 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Stimmung 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Stimmung 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db677887-26a9-44c4-aecb-1606478351b0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Stimmung 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Stimmung 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Stimmung 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf5a47d8-3796-4266-8d5e-906bd1eb4958/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Stimmung 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Stimmung 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Stimmung 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/daae91cc-8977-49c1-8331-ccce9e99d9c9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Stimmung 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Stimmung 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Stimmung 4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cdf22b71-ebd9-463b-84d0-7da60a95b4c5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Stimmung 5"
+        },
+        {
+          "@language": "en",
+          "@value": "Stimmung 5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Stimmung 5"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/49b55946-8e12-44da-94f3-304b65ad49e5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Stimmung 6"
+        },
+        {
+          "@language": "en",
+          "@value": "Stimmung 6"
+        },
+        {
+          "@language": "ru",
+          "@value": "Stimmung 6"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c43376c9-7986-489d-99aa-e12bb5c7ee3d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "en",
+          "@value": "Wanderung Olpererhütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wanderung Olpererhütte"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2061730517498",
+    "longitude": "11.8603956699371"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütliche Ferienwohnung mit Wohn-Schlafraum, 1 Schlafraum und Küche. Weiters ist unsere Wohnung mit Dusche, WC, Fernseher und Radio ausgestattet."
+        },
+        {
+          "@language": "en",
+          "@value": "Cosy appartement, livingroom with sleeping possibility, 1 bedroom, kitchen, bathroom with shower/WC, Sat-TV and Radio"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./Wohn-Schlafraum/1 Schlafraum/Dusche,"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./1 bedroom/shower,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

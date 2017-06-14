@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d7B5723E9-9897-4A19-826D-7A565F22557A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Perlhäusl",
+    "streetAddress": "Schwendberg 471",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 51284",
+    "faxNumber": "0043 5282 51284",
+    "email": "ClaudiaG@gmx.at"
+  },
+  "name": "Perlhäusl",
+  "description": "holiday house situated on the Zillertaler highway, the skibus drives directly into the skiing are Ski Zillertal 3000",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "18"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b0b05910-7d09-4ce3-89e8-e7d88a2b98af/99/image.jpg",
+      "caption": "Perlhäusl Schwendberg"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2016538242197",
+    "longitude": "11.8481540679932"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Holiday home, bath, toilet, 3 bed rooms",
+      "description": "kitchen, storage, 2 bathrooms, 3 doublerooms, balcony, simple furniture",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "holiday house/3 bedrooms/bath tube, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

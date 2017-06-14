@@ -1,0 +1,434 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d671B8360-8434-4E02-BCC5-83C1300A0BEE"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schönblick, Ferienwohnungen",
+    "streetAddress": "Dorf Haus 757",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4673",
+    "faxNumber": "0043 5285 64425",
+    "email": "anna.rauch@a1.net"
+  },
+  "name": "Ferienwohnungen Schönblick",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Älteres Privathaus mit 2 einfach ausgestatteten Ferienwohnungen in zentraler Lage von Mayrhofen. Hauseigene Parkplätze\nFEWO Top 1 für 6-8 Personen\nFEWO Top 2 für 4-6 Personen\nZusätzlich kann 1 Doppelzimmer für 2 Personen hinzugebucht werden!\n\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Inklusive: Bettwäsche, Strom, Wasser,Heizung und Endreinigung\nExklusive: Handtücher bitte selber mitbringen \nKaution für Schlüssel: € 70,00\nSprachen: Deutsch, Englisch"
+    },
+    {
+      "@language": "de",
+      "@value": "Autobahn Ausfahrt Zillertal weiter bis Mayrhofen Einfahrt Mitte nach dem Postamt bei der Kreuzung rechts (Einbahn-Hauptstraße) an der Penkenbahn vorbei, über die Brücke rechts weiter ca. 50 m nach Hotel Jägerhof bei der ersten Bodenwelle links, dann das 1. Haus Nr. 757.\nCheck-In: 13 Uhr - 18 Uhr; Check-Out: bis 10 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "An older private house with 2 simply equipped apartments in central situation of Mayrhofen. In-door parking bays \nApartment Top 1: for 6-8 people \nApartment Top 2: for 4-6 people \nIn addition you can book double room for two people.\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Including: bedclothes, stream, water, heating and final cleaning\nExclusive: towels you have to bring with yourself\nSecurity for key: 70. 00€ \nLanguages: German, English\n"
+    },
+    {
+      "@language": "en",
+      "@value": "exit Zillertal further to Mayrhofen entrance middle after the postal office turn right at the crossroad. (one-way mainstreet) past the Penkenbahn, over the bridge then turn right 50 m after hotel Jägerhof  then turn left, the 1st house: number 757. \n\nCheck in: 13 o\u0027clock - 18 o\u0027clock; check-out: till 10 o\u0027clock \n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4d38d8a-3ec5-4b3b-a52b-d716b41a878e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hausansicht Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Hausansicht Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hausansicht Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50bb8b48-e6be-4521-bbb8-ff2e9c22f58a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnungen Schönblick Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienwohnungen Schönblick Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienwohnungen Schönblick Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ede42943-7e5e-4e24-9ab6-7ae00b348322/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hausansicht Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Hausansicht Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hausansicht Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/efad34a5-2639-4ba6-8253-3c6fbf3c803f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hausansicht Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Hausansicht Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hausansicht Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0bdd78de-d1bc-4b32-8677-50d6f3479359/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hausansicht Herbst"
+        },
+        {
+          "@language": "en",
+          "@value": "Hausansicht Herbst"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hausansicht Herbst"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a2c49374-62d9-40b9-a006-163bd3907956/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hausansicht Herbst"
+        },
+        {
+          "@language": "en",
+          "@value": "Hausansicht Herbst"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hausansicht Herbst"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59a14aaa-6287-4f61-a7b0-acfe9b0606b8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hausansicht Herbst"
+        },
+        {
+          "@language": "en",
+          "@value": "Hausansicht Herbst"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hausansicht Herbst"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d26be22-6189-4838-b3cc-c319e4c3ce4e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Aussicht Richtung Penken"
+        },
+        {
+          "@language": "en",
+          "@value": "Aussicht Richtung Penken"
+        },
+        {
+          "@language": "ru",
+          "@value": "Aussicht Richtung Penken"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f893e9a-cd2d-4eda-961b-d202ec017a80/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Aussicht Richtung Ahorn"
+        },
+        {
+          "@language": "en",
+          "@value": "Aussicht Richtung Ahorn"
+        },
+        {
+          "@language": "ru",
+          "@value": "Aussicht Richtung Ahorn"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3172579b-e6b3-438d-96a7-349a5753cfb0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Aussicht Richtung Grünberg"
+        },
+        {
+          "@language": "en",
+          "@value": "Aussicht Richtung Grünberg"
+        },
+        {
+          "@language": "ru",
+          "@value": "Aussicht Richtung Grünberg"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/acd89958-ad91-4488-8537-aa4195f73532/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Aussicht Richtung Steinerkogel"
+        },
+        {
+          "@language": "en",
+          "@value": "Aussicht Richtung Steinerkogel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Aussicht Richtung Steinerkogel"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1600625140524",
+    "longitude": "11.8572038412094"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnung 1. Stock ca. 70 m²:\nVorraum mit Garderobe, Bad (Wanne und Waschbecken), sep. WC, Küche (E-Herd, Kühlschrank, Kaffeemaschine, Toaster und Wasserkocher), Wohnraum mit Esstisch und Doppelausziehcouch mit TV, von Wohnraum Verbindungstüre zum Schlafraum mit Doppelbett und Einzelbett, Schlafraum mit Doppelbett, kleines Einbettzimmer\n\nHinweis: Ein zusätzliches einfaches Doppelzimmer mit FLW außerhalb der Wohnung kann dazugebucht werden."
+        },
+        {
+          "@language": "en",
+          "@value": "\nApartment 1st floor 70 m²:\nEntrance hall with wardrobe, bathroom (bath and washbasin), sep. WC, kitchen (stove, refrigerator, coffee maker, toaster and kettle), living room with dining table and double sofa bed with TV, from the living room connecting door to the bedroom with double bed and single bed, living room with double bed, small single\nNote: An additional basic double room with FLW outside the apartment can be booked."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "TOP 2/Wohn-Schlafraum/3 Schlafraum/Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.liv.-bedroom/3 bedroom/bath,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "65.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "75.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "85.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnung Erdgeschoß ca. 60 m²:\nVorraum mit Garderobe, Bad (Badewanne und Waschbecken) sep. WC, Küche (E-Herd, Kühlschrank, Kaffeemaschine und Wasserkocher), Essecke mit TV\nund Sitzbank und Tisch sowie eingebauter Liege.  ein Schlfraum mit Doppelbett und Einzelbett, ein Schlafraum mit Doppelbett\n\nHinweis: Ein zusätzliches einfaches Doppelzimmer mit FLW außerhalb der Wohnung kann dazugebucht werden."
+        },
+        {
+          "@language": "en",
+          "@value": "Flat Ground Floor 60 sqm:\nEntrance hall with wardrobe, bathroom (bath and washbasin) sep. Toilet, kitchen (stove, refrigerator, coffee maker and kettle), dinette with TV\nand bench and table and built-in sun. one bedroom with double bed and single bed, one bedroom with double bed.\n\nNote: An additional basic double room with FLW outside the apartment can be booked.\n\n\n\n\n\n\n\n\n\n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "TOP 1/Wohn-Schlafraum/2 Schlafraum/Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.liv.-bedroom/2 bedroom/bath,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "70.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

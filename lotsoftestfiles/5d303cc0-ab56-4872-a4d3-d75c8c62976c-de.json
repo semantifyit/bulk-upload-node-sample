@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Ferienanlage Hotel Eder",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1971305666932",
+    "longitude": "11.8727231025696"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Eder GmbH",
+    "streetAddress": "Bichl 465",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3286",
+    "faxNumber": "0043 5282 32864",
+    "email": "info@hotel-eder.com",
+    "url": "http://www.hotel-eder.com"
+  },
+  "description": "Was unsere Ferienanlage auszeichnet, lässt sich in einigen Worten zusammenfassen: familiäres Ambiente in einem geschmackvoll eingerichteten Haus, in sonniger und ruhiger Lage im Herzen des hinteren Zillertales gelegen, umgeben von herrlicher Landschaft – das sind die Zutaten für Ihre schönsten Tage im Jahr.\nDass Sie sich wohl fühlen und Ihren Urlaub richtig genießen können, liegt uns am Herzen. \nUrlauben auf besondere Art – willkommen im Hotel Eder!\n\nLage:\nUnser Hotel liegt zentral im hinteren Zillertal und ist ein idealer Ausgangspunkt für sämtliche Urlaubsaktivitäten – ob Sommer oder Winter. In unmittelbarer Nähe befindet sich die Ski- und Dörferbushaltestelle (50m) - in kürzester Zeit gelangen Sie so in umliegenden Ski- und Wandergebiete (Horberg/Penken/Tux, Zillertal Arena).\n\nWir bieten:\n- Hotelrestaurant mit Sitzplatzreservierung für unsere Hausgäste, „à la carte“-Restaurant\n- gemütliche Zirbenstube - Hausbar\n- Sonnenterrasse\n- Erlebnishallenbad - Sauna - Dampfbad - Infrarotsauna - Solarium - Ruheoase\n- Komfortzimmer - Einzelzimmer – Familienzimmer - Juniorsuiten - Appartements – Sternensuiten (mit 2 Schlafzimmern) - Penthouse\n- Cocktailbar mit offenem Kamin und gemütlichen Sitzecken\n- Spielraum mit Tischtennistisch, Tischfußball, Billard\n- Fahrradverleih im Sommer\n- kleiner Fußballplatz\n- freier Eintritt in das Tenniscenter Hippach\n- freier Eintritt in das Erlebnisfreibad Hippach (nur 10 Minuten entfernt) und in das Erlebnisbad Mayrhofen\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1927fb0d-bbdf-4226-8949-fb9921210c88/99/image.jpg",
+      "caption": "Eder - Ferienanlage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e8067606-0d19-4c9f-90ee-69ea3496d344/99/image.jpg",
+      "caption": "Infrarotkabine"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4085fb11-ba99-4188-b7a9-6205efa3c419/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f48491fa-e1a4-4246-addd-43db81c6e69d/99/image.jpg",
+      "caption": "Swimming pool"
+    }
+  ],
+  "url": [
+    "http://www.hotel-eder.com"
+  ]
+}

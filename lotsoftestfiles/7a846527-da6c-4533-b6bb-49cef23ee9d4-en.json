@@ -1,0 +1,534 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Försterhaus",
+    "streetAddress": "Am Marienbrunnen 340",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(+43)5285 6700",
+    "faxNumber": "(+43)5285 6700 502",
+    "email": "hotel@kramerwirt.at",
+    "url": "http://www.kramerwirt.at"
+  },
+  "name": "Försterhaus",
+  "description": [
+    "Försterhaus*** is centrally situated and belongs to the Alpenhotel Kramerwirt, where you check in. You can choose between double- and familyrooms on the first floor (basic accomodation, old building) or comfortable suites on the second floor.  Just to be advised there is no elevator in this building. On the ground floor, you will find a supermarket where you can purchase all of your holiday needs. Delivery is partially early in the morning and may cause noise.  Breakfast and evening meals are served at Hotel Kramerwirt, just opposite. The rezeption desk at the Kramerwirt will be happy to provide you with informations and recommendations for your stay. In summer you have free entrance to the outdoor swimming-pools in Mayrhofen and Hippach. Free participation at the guided walking program of the Natur Park Zillertaler Alpen. In winter time the free ski bus stops right in front of the hotel.",
+    "Children\u0027s discounts sleeping in parents room (two fullpaying persons)\n- Children 5 years and under stay free (€ 3,- per night for a cot)\n- Children 11 years and under: 50% discount on the adult rate \n- Children 14 years and under: 25% discount",
+    "Check in at Alpenhotel Kramerwirt, Marienbrunnen 346\nYour direct route to the Kramerwirt:\nLeave the  A12 highway at Wiesing Zillertal exit. You will now get on the B169 \"Zillertal Bundesstraße\" which will take you to Mayrhofen. You\u0027ll pass Mayrhofen railway station and follow signs for the town center (\"Mitte\"). At the first intersection, continue straight and then, at the colorful building, take the left-hand street. You\u0027ll find Hotel Kramerwirt for Check in right next to the church.\nToll stickers are required on Austrian highways. However, toll-free travel is possible via Tegernsee / Achenpass. Enjoy your trip!\n\nParking facilities\nFree parking spaces around the Kramerwirt, garage parkind € 5,- per day. \n\nRail Travelers\nWe will, of course, be happy to pick you up from the railway station in Mayrhofen at no charge to you. Please let us know your arrival time well in advance. You can find general information and ticket reservations on the Austrian Railways website. \u003e\n\nAirport Transfers\nThe closest airports are Innsbruck, Salzburg and Munich. We would be happy to make arrangements for your taxi transfer from the airport - just give us notice.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca227cb9-4a9f-4de0-a3cb-93e48dde9fd0/99/image.jpg",
+      "caption": "Försterhaus Winteransicht 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8ab2f97d-56e6-4a57-9118-1abd93ded3fc/99/image.jpg",
+      "caption": "Försterhaus Winteransicht 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf9fe768-7adc-4303-b67a-2b907baa1343/99/image.jpg",
+      "caption": "Försterhaus Winteransicht 3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1674976006718",
+    "longitude": "11.8656230332047"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower or bath, toilet",
+      "description": "Standard room in the Forester\u0027s House (3-star category) across the hotel with bath or shower, WC, telephone, cable TV, seating and some with balcony or terrace access. Affordable options for families with two bedrooms sharing one bathroom. The meals are served at the Hotel Kramerwirt. Free-of-charge LAN Internet connection.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower or bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower or bath, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower or bath, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower or bath, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "81.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "62.00",
+          "maxPrice": "64.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "51.30",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Family room, shower, 2 bed rooms",
+      "description": "Cozily furnished in typical Tyrolean style, with bath or shower, WC, phone, cable TV (flatscreen), safe, seating, some with balcony.\nfor 2 - 4 people\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Family room, shower, 2 bed rooms",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Family room, shower, 2 bed rooms",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Family room, shower, 2 bed rooms",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Family room, shower, 2 bed rooms",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "59.85",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "50.35",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "47.98",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite",
+      "description": "Luxury duplex suite in the annexe with panoramic views from all main rooms. Two double-rooms (one is an open mezzanine), bathroom with shower, hair dryer, two separate toilets, two cable TV\u0027s, safe, telephone, a large living room with contemporary furnishings, couch, seating area and balcony. Free-of-charge LAN Internet connection. The meals are served at the hotel Kramerwirt (opposite). ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite",
+      "description": "a private, quiet apartment on the second floor in the annex. Two separate sleeping rooms, cozy living room with couch and seating area, cable-TV,CD-player, safe and telephone, kitchen with dining area, south-facing terrasse with seating and sun lounger plus extra balcony with morning sun, entrance hall with cloakroom, marble-bathroom with bath and extra shower, hair dryer, separate WC. Free-of-charge LAN Internet connection. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "91.20",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "86.61",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "84.31",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "106.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "100.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "97.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

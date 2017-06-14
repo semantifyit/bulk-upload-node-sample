@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Forellenstüberl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1760181482475",
+    "longitude": "11.8667578697205"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Forellenstüberl",
+    "streetAddress": "Laubichl 154",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62581",
+    "email": "mittenfeld@aon.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a6d50c5-11d4-41b1-8d1d-8ae8be2e849d/99/image.jpg",
+      "caption": "Forellenstüberl"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub"
+  ],
+  "name": "Mike\u0027s Sportsbar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1686702530412",
+    "longitude": "11.8659747576721"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Der Siegelerhof",
+    "streetAddress": "Durster Straße 226",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62493",
+    "faxNumber": "0043 5285 624937",
+    "email": "info@hotel-siegelerhof.at",
+    "url": "http://www.hotel-siegelerhof.at"
+  },
+  "description": "The bar opened last year to a very successful winter season start. We bring you a wide range of sports coverage from around the world every day starting at 17:00. We have become a hotspot for nightlife in the Zillertal for our diverse range of customers and we look forward to doing it again this coming winter season.\n\nWe will feature all of the matches in the German Bundeslige and Premier League. Our English guests enjoy a football experience just like in an English pub. With draft beer and matches broadcast in English and German you never have to miss your favorite team while you’re here in Mayrhofen. We bring the action to you with the razor-sharp image of Sky TV.\n\nFor our hardcore guests we offer our daily poker tournaments starting every day at 21:00. For more information contact Mike at +43 664 3410423.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ee2aa24e-50d4-4a7d-938b-63c21caad6e0/99/image.jpg",
+      "caption": "Sportsbar "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68ff8506-0300-4dcb-9ce2-ad7fefb1ef45/99/image.jpg",
+      "caption": "Sportsbar."
+    }
+  ],
+  "url": [
+    "http://www.hotel-siegelerhof.at"
+  ]
+}

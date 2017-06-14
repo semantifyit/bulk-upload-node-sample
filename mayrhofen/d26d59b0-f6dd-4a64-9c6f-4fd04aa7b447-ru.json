@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Sporttherapie Massage Andreas Eder",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2090341",
+    "longitude": "11.8716936000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Talstraße 34",
+    "addressLocality": "Ramsau im Zillertal",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4152270",
+    "url": "http://www.sporttherapie-eder.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e22af770-aaf2-4b0b-8adb-8e8f649792f4/99/image.jpg",
+      "caption": "Andreas Eder"
+    }
+  ]
+}

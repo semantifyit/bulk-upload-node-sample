@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness",
+    "SportsActivityLocation"
+  ],
+  "name": "Zillertaler Flugschule",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.182868",
+    "longitude": "11.8711237"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zillertaler Flugschule",
+    "streetAddress": "Hollenzen 110",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64906",
+    "email": "zfs@tirol.com",
+    "url": "http://www.zillertaler-flugschule.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a227dce5-6539-44e1-a412-38d725dbff92/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86a659b0-ec24-43be-b29d-0408a165628e/99/image.jpg",
+      "caption": "Tandem"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/caac2c7c-3e42-4e24-99e0-e738bbbec30c/99/image.jpg",
+      "caption": "Drachenflug"
+    }
+  ],
+  "url": [
+    "http://www.zillertaler-flugschule.com"
+  ]
+}

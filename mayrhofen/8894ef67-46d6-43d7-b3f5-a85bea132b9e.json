@@ -1,0 +1,99 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": [
+    {
+      "@language": "de",
+      "@value": "Live Musik mit Daniel Kemish"
+    },
+    {
+      "@language": "en",
+      "@value": "Live music with Daniel Kemish"
+    },
+    {
+      "@language": "ru",
+      "@value": "Live music with Daniel Kemish"
+    }
+  ],
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Scotland Yard Pub",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Scheulingstr. 372",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 664 44 18 265",
+      "email": "pub@scotlandyard.at",
+      "url": "http://www.scotlandyard.at/"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Scotland Yard Pub",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Scheulingstr. 372",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 664 44 18 265",
+      "email": "pub@scotlandyard.at",
+      "url": "http://www.scotlandyard.at/"
+    }
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Live Musik mit Daniel Kemish ab 20.00 Uhr im Scotland Yard Pub"
+    },
+    {
+      "@language": "en",
+      "@value": "Live Music with Daniel Kemish at the Scotland Yard Pub "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b927261b-5405-4b26-9784-08a88432f403/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/49aa2d70-3014-49dd-891d-08faf08cae03/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Scotland Yard Pub"
+        },
+        {
+          "@language": "en",
+          "@value": "Scotland Yard Pub"
+        },
+        {
+          "@language": "ru",
+          "@value": "Scotland Yard Pub"
+        }
+      ]
+    }
+  ],
+  "startDate": "2017-03-23T20:00:00",
+  "endDate": "2017-03-23"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": "Concert of the Polizeimusik Basel-Landschaft",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Tourismusverband Mayrhofen Hippach ",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstraße 225 ",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "(0043)5285 6760",
+      "email": "info@mayrhofen.at",
+      "url": "http://www.mayrhofen.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Tourismusverband Mayrhofen Hippach ",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstraße 225 ",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "(0043)5285 6760",
+      "email": "info@mayrhofen.at",
+      "url": "http://www.mayrhofen.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a71c6a1-ce85-481f-abc7-e026dd3a0060/99/image.jpg",
+      "caption": "Polizeimusik Basel-Landschaft"
+    }
+  ],
+  "url": [
+    "http://www.mayrhofen.at/fileadmin/userdaten/mayrhofen_at/konzert-polizeimusik2017.jpg"
+  ],
+  "startDate": "2017-06-02T20:00:00",
+  "endDate": "2017-06-02"
+}

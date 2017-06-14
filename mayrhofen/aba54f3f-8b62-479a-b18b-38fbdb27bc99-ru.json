@@ -1,0 +1,701 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel",
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d08E1F993-78A5-444D-8BBB-1C6696E31DE5"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rauchenwald 671",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 73277254",
+    "email": "alpenferienhof@gmx.at"
+  },
+  "name": "Alpenhotel Ferienhof",
+  "description": [
+    "Семья Хунсбихлер и персонал отеля Garni Ferienhof приветствуют Вас в Майрхофене в долине Циллерталь!\t\nМы находимся в тихом центральном месте, около 5 минут ходьбы от главной улицы  Майрхофена и таких подъемников, как Пенкен и Ахорн в центре Майрхофена в Циллертале. Наслаждение красивыми горами Циллерталь вокруг города Майрхофен и позволит вам начать свой ​​отпуск. С пеших прогулок, езды на велосипеде и активного отдыха в Альпах. Все номера оформлены в тирольском стиле, оснащены всеми удобствами, особенно для семей и инвалидов. Мы с нетерпением ждем Вас в любое время года,  с местным гостеприимством и дружеской атмосферой. \"Ferienhof\" - это место где царит комфорт и семейная атмосфера Циллерталя\t\n",
+    "Заезд после 14:00 Стойка регистрации работает до вечера. Если Вы прибываете после 18:00 часов, пожалуйста, свяжитесь с администрацией. В день отъезда, просим освободить номера до 10:00",
+    "Как добраться на машине\t\nПо шоссе В169 следуйте до Майрхофена, на круговом перекрестке проезжайте прямо, мимо ж\\д станции, АЗС BP и  супермаркета SPAR. После супермаркета, поверните налево. Через несколько метров вы уже сможете увидеть наш дом слева. Если у вас возникли проблемы, вы, конечно, можете позвонить нам по телефону: +43(0)5285-62603\t\n\t\nКак добраться на поезде\t\nДля того, чтобы добраться до Майрхофена, Вам сначала надо добраться до станции Енбах (Enbach), а затем пересесть на поезд Циллертальских железных дорог (Zillertaler Bahn) до Майрхофена\t\nНа станции,всегда ожидает несколько такси. Приблизительная цена за одну поездку двух человек: € 5, - Прибытие на самолете Ближайшие аэропорты Инсбрук (INN) или Мюнхен (MUC). Мы можем, конечно, организовать такси в аэропорт Пожалуйста, напишите по электронной почте, количество человек, номер рейса и время прибытия, чтобы мы смогли организовать трансфер\t\nНаши партнеры трансфера в Мюнхене: \t\nG + P Service Group \t\nнапример, стоимость трансфера в одну сторону из Мюнхена в Майрхофен для 3 человек: приветствие в аэропорту, трансфер на Audi A6 или BMW 5serie - € 250,  Мы рекомендуем раннее бронирование по адресу: \t\nwww.gp-limousines.de\t\nВнимание! \t\nДля езды по австрийким автобанам требуются виньетки. 10-дневная виньетка для автомобиля стоит € 7,60 ,  2-месячная виньетка - € 21.80, виньетка на год - € 72.60 (доступно на  всех автозаправочных станциях)\t\nЕсли вы решили не покупать виньетку, то Вы можете проехать через  Achenpass, но в выходные там очень много машин, что может послужить многочасовыми пробками.\t\nкарта города: \t\nМы находимся всего в 5 минутах ходьбы от центра Майрхофена и подъемника Пенкен.\t\n\t\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/928c640d-2dcb-4089-99f6-d808ad2b7ae5/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Sommerfoto1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56c35515-7c61-428c-9f0a-738f05a0f764/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Sommerfoto 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fedb92b7-908d-4b47-b304-c3d98e54a4c9/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Sommerfoto 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/724a6e58-7df5-4623-b7ef-ce353093552b/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Sommerfoto 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/90f6e4c9-6e88-491e-b986-acd881e2c307/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Sommerfoto 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e0b48232-6aff-4e6d-a51b-6b73a8176e6f/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Sommerfoto 6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60467c59-3432-4078-a091-3c0ec8af7c4a/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Sommerfoto 7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a8a92787-3341-4d10-b16b-f107c272dffe/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab6a9add-9378-4735-8b75-ae6c28e592e7/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Kaminstube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0671df05-cf43-44e8-ace3-dfcc2dee2f7d/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Stube "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/65fe4aab-892e-4858-bf11-9245d7f9daff/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d27d20a-8180-49eb-994b-9f7c4773187a/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Garten 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8d827704-f362-4692-8d05-42732522151e/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d5746502-f9e0-4f08-a5c1-a1fff6752c22/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Schlafzimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5472ed1e-25eb-485c-b8b3-6135eec265a0/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Schlafzimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81f960a9-4045-4df7-be0c-e0896ff13ab1/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Schlafzimmer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/350c349b-3931-4410-ac7c-157520ac127f/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Schlafzimme 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/35788ba6-a446-4651-ae74-6b9aeb1d02de/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Schlafzimmer 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d789d081-ddb4-46e2-974c-000485973fc5/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Schlafzimmer 6 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a025564-72fa-4b46-a6b1-9a01e1f28f62/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Schlafzimmer 7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef5d2244-8d38-4d58-9d8b-8ce8c82f014a/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d2435f49-1ace-4676-a542-761eb8227651/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Badezimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8900d481-d252-409b-9b6e-7c6b396407cd/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f3c0b9f6-7ee6-49c2-bd42-24ee285460fe/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Essbereich 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e2379b2-5cd9-4259-9c2b-dd757f18c16b/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Essbereich 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53467735-b04a-4410-8add-4f097cd69bfe/99/image.jpg",
+      "caption": "Hotel Garni Ferienhof Mayrhofen Gang"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1636817",
+    "longitude": "11.8557954"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "description": "Наши номера оборудованы душем / туалетом и балконом или террасой. Кабельное ТВ, телефон, сейф, радио-часы, фен, халаты. Живая камера панорама гор Майрхофена и Хинтертукс.  Все, что душе угодно.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "младшая сюита, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Полулюкс, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Полулюкс, душ, туалет",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/4a4bc8dc-720a-4fbc-b3b3-e50edd1e806b/99/image.jpg",
+              "caption": "Tdot"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Полулюкс, душ, туалет",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/aac22783-a7d8-4b79-86a9-3fe7a243e9fe/99/image.jpg",
+              "caption": "tdot"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "139.00",
+          "maxPrice": "139.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "139.00",
+          "maxPrice": "139.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "139.00",
+          "maxPrice": "139.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "324.00",
+          "maxPrice": "324.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "324.00",
+          "maxPrice": "324.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "324.00",
+          "maxPrice": "324.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Одноместный номер, душ, туалет",
+      "description": "Услуги номера: Терраса, Телефон, Радио, Кабельные каналы, Телевизор с плоским экраном, Сейф, Душ, Халат, Туалетные принадлежности, Туалет, Ванная комната, Услуга / Будильник ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Одноместный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "отдельный номер, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Одноместный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "description": "Наши номера оборудованы душем / туалетом и балконом или террасой. Кабельное ТВ, телефон, сейф, радио-часы, фен, халаты. Живая камера панорама гор Майрхофена и Хинтертукс.  Все, что душе угодно.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "комната на двоих, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/968813e8-a94f-4b5a-ae0c-82d8420036f3/99/image.jpg",
+              "caption": "tdot"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/20a0e625-56da-41f3-bd77-31d97ed3113e/99/image.jpg",
+              "caption": "tdot"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "109.00",
+          "maxPrice": "109.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "109.00",
+          "maxPrice": "109.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "109.00",
+          "maxPrice": "109.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "254.00",
+          "maxPrice": "254.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "254.00",
+          "maxPrice": "254.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "254.00",
+          "maxPrice": "254.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "description": "Наши номера оборудованы душем / туалетом и балконом или террасой. Кабельное ТВ, телефон, сейф, радио-часы, фен, халаты. Живая камера панорама гор Майрхофена и Хинтертукс.  Все, что душе угодно.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "комната на двоих, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/bc0275e9-d088-4c11-982b-cc047a6c88e3/99/image.jpg",
+              "caption": "tdot"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/40f46990-9f2e-4762-9bf3-7daea8011f4e/99/image.jpg",
+              "caption": "tdot"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "99.00",
+          "maxPrice": "99.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "99.00",
+          "maxPrice": "99.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "231.00",
+          "maxPrice": "231.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "231.00",
+          "maxPrice": "231.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Люкс, ванна, туалет",
+      "description": "Услуги номера: балкон, терраса, Телефон, Радио, Кабельные каналы, Телевизор с плоским экраном, Сейф, Гостиный уголок, Душ, Ванна, Фен, Халат, Туалетные принадлежности, Туалет, Ванная комната, Тапочки, Холодильник, Услуга / Будильник ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Люкс, ванна, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite, bath, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Люкс, ванна, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

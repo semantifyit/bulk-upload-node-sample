@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d4F6D7B33-E196-4D0D-B0F1-5FEF4B93F3CD"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Oblasser, Haus",
+    "streetAddress": "Stillupklamm 821",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 8342",
+    "email": "haus.oblasser@hotmail.com"
+  },
+  "name": "Haus Oblasser",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0716a91f-8875-4458-a2e1-dc80e261d775/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1574033836554",
+    "longitude": "11.8460404872894"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        }
+      ]
+    }
+  ]
+}

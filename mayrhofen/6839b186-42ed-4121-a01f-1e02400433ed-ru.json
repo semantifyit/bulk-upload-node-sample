@@ -1,0 +1,168 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://members.aon.at/fewo.m.gruber",
+    "http://maps.mayrhofen.at/?foreignResource\u003d6839B186-42ED-4121-A01F-1E02400433ED"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bichl 491",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3373",
+    "email": "fewo.m.gruber@gmx.at",
+    "url": "http://members.aon.at/fewo.m.gruber"
+  },
+  "name": "Gruber Anton und Martina",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c71d649-8dbb-4ccf-98c9-68a72cb6520c/99/image.jpg",
+      "caption": "Gruber Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6174e35a-f8aa-4ad7-84b0-3bc674f624f5/99/image.jpg",
+      "caption": "Gruber Ramsau - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cb066b59-1425-4aba-b5b3-1ee672115a79/99/image.jpg",
+      "caption": "Gruber Ramsau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8cfc412b-a993-4adc-84c2-53c782f89e04/99/image.jpg",
+      "caption": "Gruber Ramsau - Eingang "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f071d44b-fd66-4018-bf88-a6c60b06d4c8/99/image.jpg",
+      "caption": "Gruber Ramsau - Balkon Ostseitig"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/103bfb76-35cc-48e4-bd18-fc46c6cab85a/99/image.jpg",
+      "caption": "Gruber Ramsau - Couch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c84beea9-c0af-47ef-a6fb-9fdff88acf49/99/image.jpg",
+      "caption": "Gruber Ramsau - Wohnbereich 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/66fe7b90-303c-4abd-bef0-7839d53ea8f2/99/image.jpg",
+      "caption": "Gruber Anton \u0026 Martina - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2b752e28-be80-472b-89bc-cab9f5fdece1/99/image.jpg",
+      "caption": "Gruber Anton \u0026 Martina - Wohnbereich A.1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d099724a-d087-42d0-b9d9-09d833223c0a/99/image.jpg",
+      "caption": "Gruber Anton \u0026 Martina - Wohnbereich A.2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/36f233ec-00c8-45e3-8488-e98678ce5caf/99/image.jpg",
+      "caption": "Gruber Ramsau - Badezimmer A.1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c013e278-0353-4de4-912c-3cd58777afb3/99/image.jpg",
+      "caption": "Gruber Anton \u0026 Martina Badezimmer A.2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c991caa-38a5-409e-81cf-b5b801cf82c6/99/image.jpg",
+      "caption": "Gruber Ramsau - Zimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/464eff35-6703-4149-a026-b68dd7093c15/99/image.jpg",
+      "caption": "Gruber Ramsau - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e241ceaf-57eb-4c94-8086-fa81e1935758/99/image.jpg",
+      "caption": "Gruber Ramsau - Zimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d3161cd8-e399-4f47-9941-2093c799e91b/99/image.jpg",
+      "caption": "Gruber Ramsau - Zimmer 3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1956725449425",
+    "longitude": "11.8726909160614"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "95.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "110.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

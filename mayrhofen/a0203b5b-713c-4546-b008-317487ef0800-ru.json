@@ -1,0 +1,85 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ginzling.net",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA0203B5B-713C-4546-B008-317487EF0800"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dornauberg 25",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 664 5730203",
+    "email": "rudolf.klausner@ginzling.net",
+    "url": "http://www.ginzling.net"
+  },
+  "name": "Klausner Inge",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6be9512f-1330-472e-9f09-5b2b4e2672ce/99/image.jpg",
+      "caption": "Klausner Inge Ginzling - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26e94909-8c6b-414a-8869-a1d9f5878cec/99/image.jpg",
+      "caption": "Klausner Inge Ginzling - Mitglied Partnerbetrieb"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1001725022601",
+    "longitude": "11.8079316616058"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

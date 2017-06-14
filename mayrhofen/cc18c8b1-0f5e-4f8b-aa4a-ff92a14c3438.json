@@ -1,0 +1,136 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dCC18C8B1-0F5E-4F8B-AA4A-FF92A14C3438"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hochstegen 843",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64823",
+    "email": "gahleitner@z-line.at"
+  },
+  "name": "Gahleitner Carola",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich Willkommen in unserer neuen Ferienwohnung! Unsere 65m² große Wohnung wurde rollstuhlgerecht eingerichtet. Wir sind ca. 3 km vom Ortszentrum entfernt, in ruhiger, verkehrsarmer Lage."
+    },
+    {
+      "@language": "de",
+      "@value": "Preise inkl. Wäsche, Strom, Heizung; exkl. Endreinigung"
+    },
+    {
+      "@language": "de",
+      "@value": "Vom Kreisverkehr ausgehend richtung taleinwärts bis zur Kreuzung Tux-Ginzling, dort gerade aus Richtung Ginzling ca. 300 m erste Straße rechts geradeaus weiter ca. 100 m bis zur Querstraße, dann links abbiegen. Das erste Haus auf der linken Straßenseite."
+    },
+    {
+      "@language": "en",
+      "@value": "Welcome to our new holiday apartment! Our apartment is 65m² and is suitable for wheelchair users. We are situated approx. 3km from the centre of town in a quiet, traffic free area."
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes bed linen, electricity, heating. Excludes a final cleaning charge."
+    },
+    {
+      "@language": "en",
+      "@value": "Drive straight ahead at the rounabout at Mayrhofen until the junction for Tux-Ginzling. Keep going straight on in the direction of Ginzling for approx. 300 metres, take the first right and carry on approx. 100 metres until the next junction. Turn left, and we are the first house on the left."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca50f1e8-3465-4f54-ac12-f1dfe876d483/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1566373543246",
+    "longitude": "11.8390667438507"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung für 4 bis 7 Personen. 2 Schlafzimmer (1 Doppelzimmer, 1 Dreibettzimmer mit Etagenbett), 1 komplett eingerichtete Wohnküche: 25 m² mit ausziehbarer Doppelcouch, Kaffemaschine, Geschirrspüler, Mikrowelle, SAT-TV, Radio; 1 Badezimmer mit DU/WC, Föhn, Badetücher + Handtücher, 1 separates WC."
+        },
+        {
+          "@language": "en",
+          "@value": "Holiday apartment for from 4 to 7 people. 2 bedrooms (1 double room, 1 three-bed room with bunk), 1 completely furnished kitchen-living room: 25 m ² with extendable double couch, Kaffemaschine, dishwasher, microwave, SAT TV, radio; 1 bathroom with YOU / WC, foehn, bath towels + towels, 1 separate WC. "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

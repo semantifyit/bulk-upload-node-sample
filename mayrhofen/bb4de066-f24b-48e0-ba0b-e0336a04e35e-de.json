@@ -1,0 +1,932 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-erler.at/",
+    "http://maps.mayrhofen.at/?foreignResource\u003dBB4DE066-F24B-48E0-BA0B-E0336A04E35E"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Erler, Hotel-Garni",
+    "streetAddress": "Breitlahneweg 285",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62762",
+    "faxNumber": "0043 5285 627628",
+    "email": "info@hotel-erler.at",
+    "url": "http://www.hotel-erler.at"
+  },
+  "name": "Hotel Garni Erler",
+  "description": [
+    "Gepflegtes Hotel-Garni*** in zentrale, ruhige Lage, 3-4 Gehminuten zum Zentrum, Glaspersonenlift, 600m2 Gartenanlage mit Biotop u. Dusche, große Terrasse, Finnische- u. Dampfsauna, Ruheraum mit Swarowskikristallhimmel, Infrarotkabine, Solarium, Fitness- u. Tischtennisraum, Fernsehraum, Hausbar, Parkplatz und Tiefgarage, Schibushaltestelle 80m enfernt.",
+    "im Preis inkl: W-Lan, Fahrradverleih,Freischwimmbad Mayrhofen u. Hippach,Finnische- Dampfsauna u. Infrarotkabine im Winter,Fitness- u.Tischtennis,Safe,Frühstücksbüffet,Parkplatz \nExkl: Tiefgarage,Solarium,Finnische- Dampfsauna im Sommer",
+    "Check in: 14:00 Uhr / Check out: 10:00 Uhr.\nÜber die B169 erreichen Sie Mayrhofen. Beim Kreisverkehr links abbiegen, in Richtung Tourismusverband/Europahaus. Auf der Strasse bleiben, bis zur Gabelung, dann rechts und nach ca. 20 m. links abbiegen."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "95"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db161989-fac9-493d-9a8c-00886f69cfb7/99/image.jpg",
+      "caption": "Hotel-Garni Erler - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f9e9d5c-f449-4886-a4ea-4712fddefad9/99/image.jpg",
+      "caption": "Ansicht Zimmer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab501531-127b-4005-8cd6-747981fdafcb/99/image.jpg",
+      "caption": "Ansicht Zimmer 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3f9de08a-4922-4419-8333-0943df14d91a/99/image.jpg",
+      "caption": "Garten mit neuen Liegen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1f5b820-4f6d-4312-a4d8-ce197b7679bc/99/image.jpg",
+      "caption": "Ansicht Zimmer 3 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e593136b-692b-4bf8-a5f0-ae5b4923e3d6/99/image.jpg",
+      "caption": "Ferienwohnung 1 Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12f4e1c9-bef1-49e0-aac6-b5193997ff5c/99/image.jpg",
+      "caption": "Hotel-Garni Erler Panorama-Glaslift"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/06b14473-54fc-4bd4-811a-09be0e4801bd/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e52a46df-8106-4927-8ab8-e0f037e5b677/99/image.jpg",
+      "caption": "Sitzecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0db7e6db-5587-4173-a721-d3324c3cbb00/99/image.jpg",
+      "caption": "ganzer Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/072d9459-cd17-4350-b7a9-a2ae6f485d52/99/image.jpg",
+      "caption": "Saunalandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77814c12-ab11-40ba-a02d-664d245521a4/99/image.jpg",
+      "caption": "Frühstücksraum Brot-Gebäck"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4d81ae4b-f13b-461d-9beb-1eb9d94bcc79/99/image.jpg",
+      "caption": "DZ TYP B"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28a8ef79-7047-4690-8d2c-3f3ab176b9f9/99/image.jpg",
+      "caption": "Frühstücksraum-Büffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6118d119-68e5-4f64-a642-8f39db013abb/99/image.jpg",
+      "caption": "Fahrräder (kostenlos)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b18cc784-5d7e-4877-a457-88af02445ee4/99/image.jpg",
+      "caption": "Hotel Garni Erler - Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9773fe09-fe49-40ef-b567-ed420fba16a5/99/image.jpg",
+      "caption": "Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86d39994-8201-4b51-a7c2-83e27fca4cbf/99/image.jpg",
+      "caption": "Garten-Teich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/007ef4fb-4e9a-43e6-8f2d-10f6b74f47db/99/image.jpg",
+      "caption": "Sitzecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/129a0f57-9175-412e-a8c5-233d8868cb4f/99/image.jpg",
+      "caption": "Juniorsuite-Familenzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/18c242c9-8802-4664-b99e-7098556514c9/99/image.jpg",
+      "caption": "Terrasse-Rattanmöbel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c0aa454-4d11-4588-bbdb-496f3ba6550d/99/image.jpg",
+      "caption": "Hotel-Garni Erler - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3bc020a8-7a86-4b4c-92c7-2b7ca5a20493/99/image.jpg",
+      "caption": "Juniorsuite-Familienzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8a51a044-66a8-4945-8938-60fbda5b1e31/99/image.jpg",
+      "caption": "DZ TYP B"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/359b3a3d-c11d-4c86-85e8-d6febffe5876/99/image.jpg",
+      "caption": "Schaukelliege"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8d0dda82-8f4a-471f-ba0d-71c8a95961db/99/image.jpg",
+      "caption": "Ferienwohnung 2 Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa99e466-63b3-4751-ad0e-23ab516831b9/99/image.jpg",
+      "caption": "Saunalandschaft-Ruhebereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/115fbb95-0327-4fd3-b44f-993125589560/99/image.jpg",
+      "caption": "Ferienwohnung 2 Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bb28bff2-f5b4-43ab-9392-4332ecd8d057/99/image.jpg",
+      "caption": "Infrarotkabine"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4657641b-e494-4bef-9951-4592ca75d513/99/image.jpg",
+      "caption": "Rezeption-Treppe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/05bce56a-3407-4372-bf82-9cc35c2a9ce5/99/image.jpg",
+      "caption": "Sitzecke-Lift"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad1f394a-e2f9-4388-a7ce-e51e8612d469/99/image.jpg",
+      "caption": "Swarovski Kristallhimmel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b176f806-0223-4f1c-b75a-082e86490ae5/99/image.jpg",
+      "caption": "Terrasse  Rattanmöbel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df7ec5fc-9751-4007-ac53-e0196595c61d/99/image.jpg",
+      "caption": "DZ TYP A"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/88e01c5d-4f30-4e1d-9556-e6f2acd285cf/99/image.jpg",
+      "caption": "Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/88c8d9ef-6c4f-432b-9dc5-5a82bf616ac2/99/image.jpg",
+      "caption": "DZ TYP A"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/05921d91-f94d-46cf-813f-648796035f5d/99/image.jpg",
+      "caption": "Stiegenhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/15e7ab51-6ab0-40ab-acab-36dae220e957/99/image.jpg",
+      "caption": "Tischtennisraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f9e6e64-882e-42f0-83f4-b6b92cc7e42d/99/image.jpg",
+      "caption": "Fittnessraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a0764cd-f9cc-4530-a2e5-e8e546280310/99/image.jpg",
+      "caption": "Fauteuil mit Lampe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b764f87a-4197-4093-b13a-80b73735f77b/99/image.jpg",
+      "caption": "Hotel-Garni Erler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7291650a-1696-4fda-a4a5-2b8905a785a7/99/image.jpg",
+      "caption": "Dekoration Rehe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e822bb9e-787f-4465-89e0-bb06b72ebb54/99/image.jpg",
+      "caption": "Ferienwohnung 2 Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/25b96c49-e96a-4576-87b7-aba81e8b0e26/99/image.jpg",
+      "caption": "2 Rehe in unserem Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4c08cbd4-915d-4bdc-95fb-e40377876cc4/99/image.jpg",
+      "caption": "Dekoration Äpfel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6fa4a07e-2803-4275-97c8-cd21fa0b4026/99/image.jpg",
+      "caption": "Dreibettzimmer TYP C"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bbfb9818-5a0a-4b17-af5f-e27f75ba33c1/99/image.jpg",
+      "caption": "Hotel-Garnie Erler - Parkplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1cec69ce-a2c1-4868-870b-f07cbf645f8a/99/image.jpg",
+      "caption": "Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c7a3fb1-5b0b-4031-8391-58b25e45b44d/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68cd516e-9c66-4cf4-8954-255ce4126d5c/99/image.jpg",
+      "caption": "Dreibettzimmer TYP C"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/449e1a5b-2132-42d0-883d-0af3615e463f/99/image.jpg",
+      "caption": "Frühstücksbüffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ef97120-e6ff-44b8-99a1-b6b347975d82/99/image.jpg",
+      "caption": "Frühstücksraum Tisch Nr. 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da80c642-c8f9-49b5-a02e-759c0a58e7b2/99/image.jpg",
+      "caption": "Reh im Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/30ffa5c3-ea97-4c31-9fc1-9a931d81aee5/99/image.jpg",
+      "caption": "Saunalandschaft Dekoration"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/95dde9f0-9dbc-479b-8b0b-79e6fe4bbf24/99/image.jpg",
+      "caption": "Saunalandschaft Garderobe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/06a33eea-dae8-4462-8ae7-ec39697efe48/99/image.jpg",
+      "caption": "DZ TYP B"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6ca645b4-4aff-4677-9e91-b2a2396d8c85/99/image.jpg",
+      "caption": "Saunalandschaft Spiegel + Föhn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/65f5e30e-1c3f-46ad-b13c-b7226a110301/99/image.jpg",
+      "caption": "Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cb61c9ae-88b0-4b48-97b7-c1113bda0e02/99/image.jpg",
+      "caption": "Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9185f9d1-185f-4ff0-9fbd-b5345e281eca/99/image.jpg",
+      "caption": "Einbettzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cdc5f2bc-c210-4b91-b481-6c8fb0b49e44/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b1d9c2d9-01a6-46fb-86cb-d4951c06464d/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/602d556e-0afd-4e62-be7c-20bbef8ab53f/99/image.jpg",
+      "caption": "DZ TYP A"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a703fb1f-dd3b-44f6-99d0-9516fee05621/99/image.jpg",
+      "caption": "Zillergrundspeicher"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4abe3f41-9dc5-4bca-97db-4fb3b2391577/99/image.jpg",
+      "caption": "Hotel-Garni Erler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04a69748-138f-4cd1-a0a0-e3f7f08ad235/99/image.jpg",
+      "caption": "Juniorsuite-Familienzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1fa735d9-d339-44e8-9435-546973a18c4c/99/image.jpg",
+      "caption": "Dekoration"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c5923fa0-be02-489a-901f-102c91335eb5/99/image.jpg",
+      "caption": "DZ TYP B"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7889b01-7e9d-4f08-9b01-8f20b69636f5/99/image.jpg",
+      "caption": "Hotel-Garni Erler - Garten Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/71079d4c-2c02-4f9b-b83c-80e7d3089efc/99/image.jpg",
+      "caption": "Garten - Sitzecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/61a165bd-0f9f-4e53-b3e0-dd76d92585ee/99/image.jpg",
+      "caption": "Stiegenhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/297994be-e0a5-474e-8758-50aced4f8642/99/image.jpg",
+      "caption": "DZ TYP A"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6aca620-c4dc-49c1-bde6-c05d8e0c3053/99/image.jpg",
+      "caption": "Saunalandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c9e03144-cbea-4b85-8eb9-fe6b7f1f2b47/99/image.jpg",
+      "caption": "Ferienwohnung 1 Wohnzimmer Esstisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/812b8370-350e-4c43-a056-ab8a692f1245/99/image.jpg",
+      "caption": "Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8ddd0a6-e37d-4829-a04b-26717a0884af/99/image.jpg",
+      "caption": "Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1f02029-ff83-44c3-a6b9-f71e4e486baf/99/image.jpg",
+      "caption": "Juniorsuite Couch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/420ea7f3-3e80-4465-ae60-6d9ef0d9bc34/99/image.jpg",
+      "caption": "Teich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d35680a7-b208-43e3-b02c-baf8df0817b3/99/image.jpg",
+      "caption": "Dekoration"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef58f559-c673-4298-8dd0-70680b7a6a14/99/image.jpg",
+      "caption": "Juniorsuite - Familienzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c64831fb-f2ab-492e-bad9-9bd7cfa0e1d9/99/image.jpg",
+      "caption": "Hotel Garni Erler -  Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1587025-d424-4a64-bfe8-517b57c4fffe/99/image.jpg",
+      "caption": "Dekoration"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5418f060-8961-4554-9d27-b67f0641f958/99/image.jpg",
+      "caption": "Frühstückraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c5f078a-82cb-4392-bd1a-f394be59855c/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/25d8143b-934d-4e08-b3dc-c433bec5c17f/99/image.jpg",
+      "caption": "DZ TYP A"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/942bb6fe-2f36-4ae0-b705-19f610d4a904/99/image.jpg",
+      "caption": "Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8384df2e-4614-49b2-b85b-79ee1f63e9de/99/image.jpg",
+      "caption": "Einbettzimmer 304"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4f7be5b-4507-49fe-b4f6-b9a2328a5448/99/image.jpg",
+      "caption": "Bergfoto"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d4dd9cb5-fe90-4a53-bafc-0f22d48124c0/99/image.jpg",
+      "caption": "Teich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6e07363d-f320-4295-bd10-888b8374cd76/99/image.jpg",
+      "caption": "Ferienwohnung 2 Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2354c89a-71e0-4164-af85-feba5ff38d80/99/image.jpg",
+      "caption": "Tellerhortensien"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3e6763d9-d5f2-4ef9-8358-0dbd9e447758/99/image.jpg",
+      "caption": "Teich"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1669887597432",
+    "longitude": "11.8700033426285"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Gemütliches großes Doppelzimmer mit Balkon und bequemer Sitzecke. Dusche/WC, Haarföhn, Safe, Telefon, Radio,Flat-TV mit Panoramabild.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Typ B",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Tage des offenen Tales",
+          "description": "Alle Leistungen können mit Zillertaler Gästekarte* kostenlos am 14. und 15.06.2014 genutzt werden!\nFahrradverleih kostenlos\n\nFreie Fahrt mit den Zügen der Zillertalbahn inkl. Dampfzug (nicht gültig für Gruppen) \nFreie Berg \u0026 Talfahrt mit der Spieljochbahn und musikalische Unterhaltung bei der Bergstation \nFreie Berg \u0026 Talfahrt mit der Finkenberger Almbahn und Bergfest am Penkenjoch: Zillertaler Musik und echte Zillertaler Spezialitäten bei der Penkentenne (15.06.2014) und bei Christas Skialm sowie informative Kräuterrundwanderung bei der Mittelstation\nFreie Berg \u0026 Talfahrt mit der Rosenalmbahn, Gerlossteinbahn, Ramsberglift, Isskogelbahn, Ahornbahn, Penkenbahn \nFreier Eintritt in alle Freibäder des Zillertals\nFreier Eintritt ins Heimatmuseum Fügen, Regionalmuseum Zell \nFreier Eintritt im Strasser Häusl in Laimach (nur am 15.06.2014) \nKostenlose Besichtigung der Ausstellung \"Seelische Berührung\" in der Galerie im FeuerWerk in Fügen (14.06.2014)\nKostenlose Besichtigung der ErlebnisSennerei Mayrhofen \nKostenlose Besichtigung der Erlebnisbrennerei Feldishütte \nKostenlose Auffahrt zum Schlegeisspeicher\nKostenlose Auffahrt zum Stillupspeicher\nKostenlose Besichtigung der Ausstellung \"Gletscher.Welten\" im Naturparkhaus Ginzling, der \"Kultur.Landschafts.Welten Mitterstall\" in Brandberg und der \"Steinbock.Welten\" Zillergrund \nKostenlose Besichtigung der Spannagelhöhle (nur am 15.06.2014) und des Natur Eis Palastes am Hintertuxer Gletscher (nur am 15.06.2014, Berg- und Talfahrt mit der Hintertuxer Gletscherbahn exklusive)\n*Die Vorlage einer für den Zeitraum (14.+15.06.2014) gültigen Gästekarte der Zillertaler Tourismusverbände berechtigt alle Gäste zum kostenlosen Eintritt bei den angeführten Betrieben.",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/1058c6a4-8725-4007-8314-f033e2541b02/99/image.png",
+              "caption": "Logo"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "66.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Gemütliches kleineres Doppelzimmer mit Balkon, Dusche/WC, Haarföhn, Safe, Telefon, Radio, Flat-TV mit Panoramabild.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Typ A",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Tage des offenen Tales",
+          "description": "Alle Leistungen können mit Zillertaler Gästekarte* kostenlos am 14. und 15.06.2014 genutzt werden!\n\nFreie Fahrt mit den Zügen der Zillertalbahn inkl. Dampfzug (nicht gültig für Gruppen) \nFreie Berg \u0026 Talfahrt mit der Spieljochbahn und musikalische Unterhaltung bei der Bergstation \nFreie Berg \u0026 Talfahrt mit der Finkenberger Almbahn und Bergfest am Penkenjoch: Zillertaler Musik und echte Zillertaler Spezialitäten bei der Penkentenne (15.06.2014) und bei Christas Skialm sowie informative Kräuterrundwanderung bei der Mittelstation\nFreie Berg \u0026 Talfahrt mit der Rosenalmbahn, Gerlossteinbahn, Ramsberglift, Isskogelbahn, Ahornbahn, Penkenbahn \nFreier Eintritt in alle Freibäder des Zillertals\nFreier Eintritt ins Heimatmuseum Fügen, Regionalmuseum Zell \nFreier Eintritt im Strasser Häusl in Laimach (nur am 15.06.2014) \nKostenlose Besichtigung der Ausstellung \"Seelische Berührung\" in der Galerie im FeuerWerk in Fügen (14.06.2014)\nKostenlose Besichtigung der ErlebnisSennerei Mayrhofen \nKostenlose Besichtigung der Erlebnisbrennerei Feldishütte \nKostenlose Auffahrt zum Schlegeisspeicher\nKostenlose Auffahrt zum Stillupspeicher\nKostenlose Besichtigung der Ausstellung \"Gletscher.Welten\" im Naturparkhaus Ginzling, der \"Kultur.Landschafts.Welten Mitterstall\" in Brandberg und der \"Steinbock.Welten\" Zillergrund \nKostenlose Besichtigung der Spannagelhöhle (nur am 15.06.2014) und des Natur Eis Palastes am Hintertuxer Gletscher (nur am 15.06.2014, Berg- und Talfahrt mit der Hintertuxer Gletscherbahn exklusive)\n*Die Vorlage einer für den Zeitraum (14.+15.06.2014) gültigen Gästekarte der Zillertaler Tourismusverbände berechtigt alle Gäste zum kostenlosen Eintritt bei den angeführten Betrieben.",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/7649f1e9-dd2e-4e9e-b2c3-49fe9c5fa859/99/image.png",
+              "caption": "Logo"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "64.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC, Balkon",
+      "description": "Gemütliches Einzelzimmer mit Balkon, Dusche/WC, Haarföhn, Safe, Telefon, Radio, Flat-TV mit Panoramabild.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "71.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC, Balkon",
+      "description": "Gemütliches Doppelbettzimmer mit Zusatzbett, Badezimmer mit Dusche/WC, Haarföhn, Balkon, Radio, Telefon, Safe, Flat-TV Panoramabild.\nKinderermäßigung: 4-10 Jahren:  - 50% und 10-14 Jahren -30%, ab 14 Jahren - 10 %",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer Typ C - Person",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer Typ C - Einheit",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "64.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "64.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Gemütliches kleineres Doppelzimmer mit Balkon, Dusche/WC, Haarföhn, Safe, Telefon, Radio, Flat-TV mit Panoramabild",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer online Typ A",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "41.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Appartment für 2 bis 5 Personen: Schlafzimmer für 3 Pers., Wohnschlafzimmer 2 Pers., Küche, Badezimmer mit Badewanne und Doppelwaschbecken, Haarföhn, WC extra, Vorraum, Balkon und südseitige Terrasse, Safe, Telefon, Radio, Flat-TV mit Panoramabild",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment W2, 1 Schlafzimmer, 1 Wohnschlafraum",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "164.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "172.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Appartment für 2-4 Pers.: Schlafzimmer für 2 Pers., Wohnschlafzimmer, Küche, Badezimmer, WC extra, Haarföhn, Vorraum, süds. Balkon, Safe, Telefon, Radio, \nFlat-TV mit Panoramabild",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment W1, 1 Schlafzimmer, 1 Wohnschlafraum",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "164.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "172.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütliches Mehrbettzimmer mit Balkon, Dusche/WC, Haarföhn, Safe, Telefon, Radio, Flat-TV mit Panoramabild.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite - Einheit",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite - Person",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "68.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "68.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "68.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

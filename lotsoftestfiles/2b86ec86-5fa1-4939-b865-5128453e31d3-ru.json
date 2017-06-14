@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "PublicSwimmingPool"
+  ],
+  "name": "Erlebnisbad Mayrhofen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1644685715897",
+    "longitude": "11.8642687797546"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Erlebnisbad Mayrhofen",
+    "streetAddress": "Waldbadstraße 539",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 62559",
+    "email": "info@erlebnisbad-mayrhofen.at",
+    "url": "http://www.erlebnisbad-mayrhofen.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2e2d4b9b-0430-4e00-ade3-920d73628454/99/image.jpeg",
+      "caption": "Freibad mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6cd02020-b0cd-4e1b-9e2a-25368f71a54e/99/image.jpg",
+      "caption": "Hallenbad Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/216fcd54-2d84-4921-a7f1-f98c7ccb68e0/99/image.jpg",
+      "caption": "Erlebnisbad Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1f4072ee-a6d3-4fd1-9bf8-3f645ebcc1fd/99/image.jpg",
+      "caption": "Freibad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1571a74-8272-41f2-bdee-a6abfb7bd8af/99/image.jpeg",
+      "caption": "Hallenbad"
+    }
+  ],
+  "url": [
+    "http://www.erlebnisbad-mayrhofen.at"
+  ]
+}

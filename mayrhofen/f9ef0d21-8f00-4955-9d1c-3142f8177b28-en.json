@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gasthof Thanner",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1676671112394",
+    "longitude": "11.9002586603165"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Thanner",
+    "streetAddress": "Brandberg 8",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62376",
+    "faxNumber": "0043 5285 63869",
+    "email": "info@gasthofthanner.at",
+    "url": "http://www.gasthofthanner.at"
+  },
+  "description": "Be enchanted by the unique panorama of the upper Zillertal. Enjoy the quiet, family atmosphere and hospitality, and relax in clean mountain from the stress of everyday life.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ed43cc93-b617-40ac-8390-a6ceec1ff3ed/99/image.jpg",
+      "caption": "Gasthof Thanner"
+    }
+  ],
+  "url": [
+    "http://www.gasthofthanner.at"
+  ]
+}

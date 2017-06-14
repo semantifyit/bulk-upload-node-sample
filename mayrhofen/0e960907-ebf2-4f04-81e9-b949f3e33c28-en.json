@@ -1,0 +1,155 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d0E960907-EBF2-4F04-81E9-B949F3E33C28"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Antonia, Landhaus",
+    "streetAddress": "Ahornstraße 862",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62593",
+    "faxNumber": "0043 5285 62593",
+    "email": "landhaus-antonia@gmx.at"
+  },
+  "name": "Landhaus Antonia",
+  "description": [
+    "Our house is one minute away from the high street, but is still very quiet in the evenings. We are situated between the lifts (1 min to the Ahorn lift and 5 mins to the Penken). We are a small informal bed and breakfast, with pleasant rooms, which are equipped with a balcony and radio alarm, guest lounge with TV, large car park, sunning area and fridge for guest\u0027s use. We also offer a continental breakfast.\n",
+    "The price includes local taxes and a continental breakfast. Children\u0027s price reductions on request!",
+    "Past the railway station at Mayrhofen, left at Einfahrt Mitte, after the post office first right, up the high street and over the bridge turn left."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ef50a1a-a802-4384-8f1e-f824099e3785/99/image.jpg",
+      "caption": "Landhaus Antonia Mayrhofen - Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1600916944434",
+    "longitude": "11.862530708313"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Comfortably furnished room with radio alarm and east facing balcony (morning sun).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.50",
+          "maxPrice": "27.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, running hot/cold water",
+      "description": "Comfortably furnished room with radio alarm and sout hwest facing balcony with a fabulous view.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with running hot/cold water",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.50",
+          "maxPrice": "26.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Twin room, running hot/cold water",
+      "description": "Comfortably furnished room with radio alarm and east facing balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "twin with running hot/cold water",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Single room, running hot/cold water",
+      "description": "Comfortably furnished small room with radio alarm.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "single room with running hot/cold water",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

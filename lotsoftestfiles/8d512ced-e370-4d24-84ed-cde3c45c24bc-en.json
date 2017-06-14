@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon"
+  ],
+  "name": "Georg \u003eder Herrensalon\u003c",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1685496846264",
+    "longitude": "11.8640971183777"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Georg \u003eder Herrensalon\u003c",
+    "streetAddress": "Hauptstraße 406",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63762",
+    "email": "info@hotel-magdalena.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7d43174-89dd-4e30-b92d-127a295a98c2/99/image.png",
+      "caption": "Logo"
+    }
+  ]
+}

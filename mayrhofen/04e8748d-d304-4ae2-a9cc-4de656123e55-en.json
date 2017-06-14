@@ -1,0 +1,64 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d04E8748D-D304-4AE2-A9CC-4DE656123E55"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsberg 880",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2006",
+    "email": "maria.kerschdorfer@aon.at"
+  },
+  "name": "Kerschdorfer Maria",
+  "description": [
+    "Our house is situated in sunny and quiet position on Ramsberg. There you have wonderful view to the zillertal valley and the mountains.",
+    "children reduction on request"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/449ae91b-e988-444a-a916-04de7801b6c7/99/image.jpg",
+      "caption": "Maria Kerschdorfer Ramsau - Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/895718ab-2df2-4cd7-86e5-74611fb0ffb7/99/image.jpg",
+      "caption": "Maria Kerschdorfer Ramsau - Winterbild"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1996309807265",
+    "longitude": "11.8884837627411"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower or bath, toilet",
+      "description": "new furnished appartement: livingroom with kitchen and possibility to sleep, 1 bedroom, bathroom with shower, bath and WC, Sat-TV, washing machine, oven, dish and bedlinen incl.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.living-bedr./1 bedr./shower o.ba",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

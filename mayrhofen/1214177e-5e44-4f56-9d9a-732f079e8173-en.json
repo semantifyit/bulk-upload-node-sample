@@ -1,0 +1,120 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apart-miriam.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d1214177E-5E44-4F56-9D9A-732F079E8173"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lindenstraße 57c",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 680 444 95 34 ",
+    "email": "apart-miriam@a1.net",
+    "url": "http://www.apart-miriam.at"
+  },
+  "name": "Apart Miriam",
+  "description": "A comfortable and affectionately furnished flat for 2 to 5 people.\nOur single-family house lies in close vicinity to the swimming pool in Hippach with her numerous leisure offers for the whole family. The Horbergbahn which bring you in winter to the skiing area of the Mayrhofner mountain railways are 1 km away. At few walking minutes you reach the ski coach or in summer the village bus stop. Also a small food store is immediately next door.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2fc0df31-7ae6-4c4d-b736-6275d1187661/99/image.jpg",
+      "caption": "Apart Miriam Schwendau - Wohnküche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4470537e-1abb-4030-8c7f-d4c6677d1f60/99/image.jpg",
+      "caption": "Apart Miriam Schwendau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5fcc4712-9997-4c27-add7-d5eb6eaf6678/99/image.jpg",
+      "caption": "Apart Miriam Schwendau - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a8ace578-54dd-4933-9f32-28841154a8eb/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96bf36df-4a61-49d8-b381-2c3937626bc0/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/449c2e0c-0d1f-4e6e-820a-f77cc5f565e2/99/image.jpg",
+      "caption": "Spaß im Schnee © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/334cd4c9-bd4a-46d6-a10e-e1c9800ee990/99/image.jpg",
+      "caption": "Vans Penken Park © Dominic Berchtold"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af7905e9-471f-4e13-be25-d6ecef0fb4e6/99/image.jpg",
+      "caption": "Wandern am Stausee © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17275a8b-f592-48e1-a087-c2190de2493e/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a54f6bff-1f27-482d-a74e-a3bf1df8ae99/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0cc8c4a9-7d88-4dd2-b88c-9c92c36689f1/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ffc3e0a-7e59-49c3-accc-a937afd5ceca/99/image.jpg",
+      "caption": "Skifahren © Laurin Moser"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1998376311067",
+    "longitude": "11.8669034055572"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "Apart Miriam offers you :\n55 m² \ntwo seperate bedrooms\na bedroom with a double-bed and a sleep couch with TV\na bedroom with a double-bed\nwell equiped, modern kitchen with a comfortable sitting corner\nTV\ndish washer, fridge \n4 cooking space\ncoffee machine, kettle, toaster\na bathroom with a shower, a toilet and a towel dryer\nanteroom with a wardrobe\nseperate entry\nbedlinen, towels  \nseparaten Eingang\nif necessary baby bed\nbalcony on the sud side\ncar park direct in front of the house.\nW-LAN \nnon-smoker flat\npets are not allowed\n\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

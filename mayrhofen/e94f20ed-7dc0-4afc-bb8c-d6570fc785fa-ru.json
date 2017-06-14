@@ -1,0 +1,122 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dE94F20ED-7DC0-4AFC-BB8C-D6570FC785FA"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Spielleiten 373",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 680 1203201",
+    "email": "martinasporer75@gmx.at"
+  },
+  "name": "Ferienwohnung Tina",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b1871110-934d-4e84-8fa4-5c37e83c1267/99/image.jpg",
+      "caption": "Ferienwohnung Tina - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9f4fcf8-33af-40f4-848e-654a9ee88305/99/image.jpg",
+      "caption": "Ferienwohnung Tina Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/482522a1-5fbf-46e0-86d1-e8846904271e/99/image.jpg",
+      "caption": "Ferienwohnung Tina - Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a871a8ba-887f-46b9-87cd-057415f4e368/99/image.jpg",
+      "caption": "Ferienwohnung Tina - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a14d99ff-d5f7-4147-bbdc-cebcbff576aa/99/image.jpg",
+      "caption": "Ferienwohnung Tina - Tisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1599547-6a9b-40c5-9e1a-a2d511d50f56/99/image.jpg",
+      "caption": "Ferienwohnung Tina - Wohnbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e6cbbffa-f88f-419a-9edb-4f7f8763329d/99/image.jpg",
+      "caption": "Ferienwohnung Tina - Schrank"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/315f6e91-1b30-4b9a-94b8-4891a02c9b50/99/image.jpg",
+      "caption": "Ferienwohnung Tina - Handtuchhalter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da3a32d2-e676-421f-a74a-05dd06dc7b7d/99/image.jpg",
+      "caption": "Ferienwohnung Tina - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4537b737-d1a3-4c3f-ab16-4dc7e0c10f15/99/image.jpg",
+      "caption": "Ferienwohnung Tina - Bad2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2104774",
+    "longitude": "11.8576684"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, одна спальня",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент, shower, toilet, 1 спальня",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

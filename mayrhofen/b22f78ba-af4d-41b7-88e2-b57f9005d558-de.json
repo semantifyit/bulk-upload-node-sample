@@ -1,0 +1,130 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dB22F78BA-AF4D-41B7-88E2-B57F9005D558"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Rauter, Villa",
+    "streetAddress": "Durst 275",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 6703",
+    "faxNumber": "0043 5285 63808",
+    "email": "info@alpendomizil.at"
+  },
+  "name": "Villa Rauter",
+  "description": [
+    "Die Villa Rauter mit insges. 2 Ferienwohnungen befindet sich in ruhiger und dennoch sehr zentraler Lage ca. 900 m. von der Ortsmitte und der Talstation der Penkenseilbahn entfernt. Herrlicher Blick auf Ahorn, Penken und die Zillertaler Bergwelt. Tennishalle ca. 300m, Schwimbad 600m., Schi und Schuhabstellmöglichkeit, Parkplatz, Brötchenservice.\nWohnungen sind rustikal und feriengerecht eingerichtet. Je 2x Kabel-TV pro Wohnung.\n-Schwimmbadbenützung (Hallenbad/Freibad) im Hotel Neuhaus möglich! Ebenfalls Halbpension im Hotel Neuhaus auf Anfrage möglich!",
+    "Es ist möglich die Ferienwohnung, NUR AUF ANFRAGE, inkl. Halbpension zu buchen. (Frühstück und Halbpension im Hotel Neuhaus!)",
+    "Mayrhofen: beim Kreisverkehr letzte Ausfahrt Richtung Tankstelle BP - nach rechts abbiegen - nächste Strasse links einbiegen - Richtung Europahaus (Tourismusverband Mayrhofen) dann ca. 300 m. geradeaus - beim App.Hotel Thalerhof vorbei - auf der rechten Seite liegt die Villa Rauter."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c592140a-3dfa-42e0-a798-7e4e9af329f6/99/image.jpg",
+      "caption": "Villa Rauter Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/21c401fb-64ac-481e-ac7b-18add3288d9e/99/image.jpg",
+      "caption": "Villa Rauter Mayrhofen - Sommer1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1680172247511",
+    "longitude": "11.8697941303253"
+  },
+  "paymentAccepted": [
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 3 Schlafräume",
+      "description": "Top 1: 4 Zimmer-Wohnung: Flur, Wohnküche (4 Platten, Backofen, Geschirrspüler, Kaffeemaschine und großer Sitzecke). Schlafzimmer mit Doppelbett und Doppelbettcouch sowie Dusche und Waschbecken im Zimmer.  2 TV vorhanden. Zweibettzimmer. Schlafzimmer mit Etagenbett und Waschbecken. Separates Badezimmer mit Badewanne-Dusche/WC und Waschbecken. Parterre, mit Garten/Gartenmöbel.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Bad, WC, Top 1",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 3 Schlafräume",
+      "description": "Top 2: Ferienwohnung 90m²; 4 Zimmer-Wohnung, Flur, Wohnküche (4 Ceranfelder, Backofen, Geschirrspüler, Kaffeemaschine und gr. Sitzecke). Doppelbettzimmer mit zusätzl. Etagenbett u. Couch + TV. Doppelbettzimmer mit Bad/WC und kleiner Küche. Doppelbettzimmer. 2x großer Balkon. Separates Badezimmer mit DU/Waschbecken. WC separat.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Unser Appartment besteht 3 Schlafzimmer (1 Doppel-, 1 Zweibett- und 1 Einzelzimmer), 2 Badezimmer, 1 grosser Wohnraum, grosser Südbalkon, Frühstück bzw. Halbpension ist im Hotel Neuhaus buchbar",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment mit 3 Schlafräumen, Top 2",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "120.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "165.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

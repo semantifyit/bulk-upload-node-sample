@@ -1,0 +1,65 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dF525CE54-4CEF-4897-94B5-60CB564BE194"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Astbühel 282",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4195",
+    "faxNumber": "0043 5282 4195",
+    "email": "michaelkirchler@gmx.at"
+  },
+  "name": "Kirchler Mathilde",
+  "description": [
+    "Unser Ferienhaus Kirchler steht in sonniger Hanglage im Ortsteil Schwendberg, am Ende einer Stichstraße. Schöner Blick ins Tal und auf die umliegende Bergwelt. Ortsmitte Hippach über kleinen Fußweg ca. 300m oder über Bergstraße 1 km erreichbar. Restaurant und Einkaufsmöglichkeit ca. 250m entfernt. Zur Talstation der Horbergbahn 2,5 km, nach Mayrhofen 5,5 km. Skibushaltestelle (direkte Verbindung ins Penkenskigebiet oberhalb der Bergstation Horbergbahn/Schafskopflift), ca. 300m. Parkplatz für 3 PKW.",
+    "Brötchenservice, Endreinigung: € 25-50,--",
+    "Check in: 15.00 Uhr - Check out 10.00 Uhr\n\nAnreisebeschreibung:\nAutobahnausfahrt Zillertal, B169 bis Ramsau - Ampelkreuzung rechts abbiegen - nächte Kreuzung wieder rechts abbiegen  Richtung Zillertaler Höhenstraße, nach ca. 500m links abbiegen - Richtung Zillertaler Höhenstraße, nach ca. 700m links hinunterfahren (Astbühel)"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/915fa68c-a85e-44ce-8520-72b7bab6cea1/99/image.jpg",
+      "caption": "Kirchler Mathilde Hippach - Winterbild"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.206395636616",
+    "longitude": "11.8635885813089"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Bad, WC, 4 oder mehr Schlafräume",
+      "description": "5-Zimmer-Haus, 2 Etagen, ca. 110m². Erdgeschoß: Flur mit Garderobe. Wohnraum mit Sitzcouch und Sat-TV, Küche (4 Platten, Backofen, Geschirrspüler, Kaffeemaschine) mit Eßecke, Bad, separates WC, Abstellraum. 1.Etage: Doppelzimmer mit Terrassenausgang, Schlafzimmer mit Doppelbett, Einzelbett und Balkonausgang, Schlafzimmer mit Doppelbett, Einzelbett, Waschbecken und Balkonausgang, kleines Schlafzimmer mit Etagenbett, Dusche/WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/4 od. mehr Schlafr./Du,Bad,WC",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

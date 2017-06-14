@@ -1,0 +1,183 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dA6F3E56B-61DB-461A-9B38-DC61B4B547B5"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brigitte, Haus",
+    "streetAddress": "Dorf Haus 755a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0043 5285 63761",
+    "faxNumber": "(0043) 0043 5285 63761",
+    "email": "hauser.gitti@aon.at"
+  },
+  "name": "Haus Brigitte",
+  "description": [
+    "Our house is surrounded by the majestic Zillertaler mountains and situated in a quiet position, and on the outskirts of Mayrhofen. You can relax in our garden, on the beautiful sun terrace at the front of the house, or in one of our rooms with balcony, Sat-TV and shower/WC. An extensive breakfast with meusli corner will be waiting for you in our pleasant breakfast room. In summer our house is the ideal starting point for walks through beautiful fields and forests, alpine pastures and the mountains. In winter the Mayrhofen lift stations are easily accessible on foot, or with the ski bus, or use the cross country ski trail which runs right past our house.",
+    "Price excludes a final cleaning charge.",
+    "Check in: 11.00hr, Check out: 10.00hr. Our house is situated in Dorf Haus."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e821a646-edfd-4341-bccb-0fd4b766c7ca/99/image.jpg",
+      "caption": "Haus Brigitte - Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/47052cc1-5a78-4d49-8fa8-8241ccb9956f/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/157ff8eb-ec05-4a61-a1bd-31ce4c3491a8/99/image.jpg",
+      "caption": "Panorama © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0b9fa38f-5006-478b-8ec6-8da334ec6575/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ebb6c05a-ad2f-49aa-b605-217ca73f3c6b/99/image.jpg",
+      "caption": "Bergsteigen © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/78a4f0a0-da49-4804-bc57-bacfb422b78e/99/image.jpg",
+      "caption": "Wandern am Stausee © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f1f3ca9f-2562-41ba-8933-3a1daefaf4cc/99/image.jpg",
+      "caption": "Skifahren © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8854078b-d268-49bc-9b1b-967060ee16de/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6bda98e-c3ea-4157-b552-77c04591ac49/99/image.jpg",
+      "caption": "Winter am Berg © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7afa9a2e-23ec-46ae-9cfa-c7ee94faf695/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5dc308be-8754-4cf5-8b12-b0dc0eaad603/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.159938497212",
+    "longitude": "11.8579065799713"
+  },
+  "paymentAccepted": [
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 3 bed rooms",
+      "description": "Spacious holiday apartment in the 1st floor with balcony and 3 separate bedrooms. Every room disposes of an own shower/ WC. Completely furnished kitchen with oven, more nicely big table with corner seat and Sat TV. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/3 bedrooms/shower, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 1 bed room",
+      "description": "Double room with couch and balcony, shower/WC, kitchen with dining table, oven, Sat-TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/1 bedroom/shower, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "2 double rooms with separate shower/WC, balcony, Sat-TV, fully equipped kitchen with oven and dining area.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Rustically furnished room with shower/WC, Sat-TV, seating with table and chairs, wooden ceiling and carpet, balcony with table and chairs.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

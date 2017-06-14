@@ -1,0 +1,660 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.tiscover.at/villa.leo",
+    "http://maps.mayrhofen.at/?foreignResource\u003d85377C42-83B3-4301-A7AE-74ED062B9E0D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Leo, Villa",
+    "streetAddress": "Hippach-Dorf 8",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3956",
+    "faxNumber": "0043 5282 3956",
+    "email": "klocker.elisabeth@aon.at",
+    "url": "http://www.tiscover.at/villa.leo"
+  },
+  "name": "Villa Leo",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt im Ortskern von Hippach, inmitten der Skigebiete \"Zillertal 3000\" und der \"Zillertal Arena\" und bietet 2 Ferienwohnungen und 4 Zimmer mit Sat-TV, Dusche/WC und Frühstück. Sehr gute Restaurants, Dörferbus - Skibus - direkt neben dem Haus. \nDer Hintertuxer Gletscher ist ca. 20km und die längste Rodelbahn des Zillertals etwa 2 km von uns entfernt."
+    },
+    {
+      "@language": "de",
+      "@value": "Preise inklusive Endreinigung und Kurtaxe!\nKinderermäßigung auf Anfrage!\nAusgezeichnet mit 3 Edelweiss!"
+    },
+    {
+      "@language": "de",
+      "@value": "Weg: Bei der Ampel Hippach/Ramsau rechts abbiegen. Richtung Dorfzentrum Hippach. Gegenüber der Raiffeisenbank befindet sich unsere Villa Leo!"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated in the center of Hippach and in the middle of the Skiing areas Ski Zillertal 3000 and Zillertal Arena. We have 2 appartements and 4 rooms with shower/WC, Sat-TV and breakfast. \nrestaurants, the skibusstop in winter,  the busstop for the regional bus to Mayrhofen in summer and all leisure facilities are near the house, To the clacier its about 20km and to the longest toboggan run of zillertal valley  2 km ."
+    },
+    {
+      "@language": "en",
+      "@value": "price incl. final cleaning and local-tax!\nchildren reduction on request!"
+    },
+    {
+      "@language": "en",
+      "@value": "way description: turn right at the  traffic lights in Ramsau. pass the bridge and drive straight ahead. Our house is called Villa Leo and is situated opposite the Raiffeisen bank."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef1d66d7-f8e0-4e38-b363-9932b083c31e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Leo Hippach - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Leo Hippach - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Leo Hippach - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e1a11443-0cc2-49a5-b8cf-ee171aab0c14/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Leo Hippach - Sommer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Leo Hippach - Sommer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Leo Hippach - Sommer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ea18ab1-3fb2-4665-85c0-bda608bb5514/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Leo Hippach - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Leo Hippach - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Leo Hippach - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b938e88e-6c7d-4f37-a79a-e2963ad5d6e1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Leo Hippach - Winter 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Leo Hippach - Winter 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Leo Hippach - Winter 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9d7133b-4960-4335-b61f-5bc6c85f860d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Leo Hippach - Klocker"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Leo Hippach - Klocker"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Leo Hippach - Klocker"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/209b4a39-a8fb-472d-82bc-0a923e31846d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Leo Hippach - Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Leo Hippach - Fewo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Leo Hippach - Fewo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dfa773f5-f478-4953-a89d-bf9c81a1b4b0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Leo Hippach - Gang"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Leo Hippach - Gang"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Leo Hippach - Gang"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d95f8f2-64ce-4cb5-9f8a-7fe3017feb22/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Leo Hippach - Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Leo Hippach - Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Leo Hippach - Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b276075f-fadb-40a0-9134-a0f4fd8cee0f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Leo Hippach - Küche1"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Leo Hippach - Küche1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Leo Hippach - Küche1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bb2ee842-b08a-4cb0-9cbd-8f365b93ba4c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Leo Hippach - Skiraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Leo Hippach - Skiraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Leo Hippach - Skiraum"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2040191776148",
+    "longitude": "11.8659907579422"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Nett eingerichtete Ferienwohnung mit Küche und einem großen Dreibettzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Nice furnished apartment with kitchen and a large three-bed-room.\n\n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/1 Schlafraum/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "64.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütlich eingerichtete Ferienwohnungen mit Küche (E-Herd mit Backrohr, Geschirr und Kühlschrank), Schlafzimmer für 3 Personen, Dusche, WC, SAT-TV, und Balkon. Bettwäsche vorhanden. Eine Wohnung ist zusätzlich mit Safe und Spülmaschine ausgestattet. Auch Zimmer mit DU/WC im Angebot"
+        },
+        {
+          "@language": "en",
+          "@value": "cosy furnished appartement with kitchen (electro cooker with oven, dish and refrigerator), bedroom for 3 persons, shower/WC, Sat-TV and balcony, bedlinen incl., save and dishwasher in the appartement,  rooms with shower/WC can be booked too"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./Wohn-Schlafraum/1 Schlafraum/Du,WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./1 bedroom/shower,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "66.00",
+          "maxPrice": "77.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, Dusche"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, shower"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, Душ"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer als Einzelzimmer mit Dusche, Sat/TV und WC am Gang (nur für dieses Zimmer)"
+        },
+        {
+          "@language": "en",
+          "@value": "Doubleroom as singleroom with shower, Sat/TV and WC at the floor (only for this room) \n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer mit Dusche"
+            },
+            {
+              "@language": "en",
+              "@value": "single room with shower"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер, Душ"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "27.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "27.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC, Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet, balcony"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет, балкон"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Geräumiges Doppelzimmer mit DU/WC, Sat/TV und Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Spacious double room with shower/WC, Sat/TV and balcony\n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет, балкон"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "24.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.00",
+          "maxPrice": "31.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "24.00",
+          "maxPrice": "31.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, Душ"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, Душ"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Zillertal Activcard\nDen Sommer Urlaub in Österreich aktiv genießen.\nZwischen 28. Mai und 16. Oktober 2011 (letzter Gültigkeitstag) ist die Zillertal Activcard der ideale Begleiter für alle, die das Tal von vorne bis hinten genießen möchten. Sie ist Ticket für Seilbahn, sowie Eintritts- und Ermäßigungskarte zugleich.\n \nAlle Vorteile auf einen Blick:\nTäglich eine Berg- Talfahrt mit einer von 10 Seilbahnen Ihrer Wahl\nFreier Eintritt in alle 6 Freischwimmbäder (täglich 1 Besuch)\nFreie Benutzung der meisten öffentlichen Verkehrsmittel der Region (außer Dampfzug)\nEintritt zur Sternwarte (+Planetarium) Königsleiten\nMin. 10 % Ermäßigung bei zahlreichen Vorteilspartnern im und ums Zillertal\nKinderermäßigung\nKinder ab Jahrgang 2005 und jünger werden kostenlos befördert.\nKinder der Jahrgänge 1996 bis 2004 bezahlen den Kindertarif.\nFamilienkarte\nKinder (bis einschließlich Jahrgang 2004) werden gratis befördert, beim Kauf von 2 Erwachsenenkarten sogar Kinder bis einschließlich Jahrgang 1995 (Ausweisvorlage).\n \nVerkaufsstellen\nalle geöffneten Seilbahnstationen\nTourismusbüros Fügen, Uderns, Kaltenbach, Zell am Ziller, Hippach, Mayrhofen und Tux\nZillertal Tourismus GmbH in Schlitters\nausgewählte Partnerhotels\nÄnderungen vorbehalten!\n\n"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Pauschale Sommer"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Unsere Pauschale beinhaltet die Übernachtungen und die Zillertal Activcard:\n\n\nDen Sommer Urlaub in Österreich aktiv genießen.\nIm Herzen von Tirol, umgeben vom majestätischen Panorama der Zillertaler und Tuxer Alpen, bietet das Zillertal alles, was das Herz von Berg- und Naturfreunden höher schlagen lässt: saubere Luft, glasklare Quellen, rauschende Bäche, saftige Bergwiesen mit duftenden Kräutern und atemberaubende Gipfelblicke auf 55 Dreitausender. \n\nKein Wunder, dass in dieser Umgebung niemand lange auf der faulen Haut liegt: Rund 1.000 km Wanderrouten und 800 km Mountainbike-Strecken zwischen 500 und 2.300 Höhenmetern laden zum Erkunden der fantastischen Naturlandschaft ein. Und mit der Zillertal Activcard sind Sie für jede Erkundungstour optimal gerüstet! \n\nIhre Vorteile auf einen Blick: \n\ntäglich eine Berg- und Talfahrt mit einer von 10 Seilbahnen Ihrer Wahl \nfreier Eintritt in alle 6 Freischwimmbäder (täglich ein Besuch) \nFreie Benutzung der meisten öffentlichen Verkehrsmittel der Region (außer Dampfzug)\nEintritt zur Sternwarte (+Planetarium) Königsleiten \nmin. 10% Ermäßigung bei zahlreichen Vorteilspartnern im und ums Zillertal \nSpeziell für Familien: Kinder (bis einschließlich Jahrgang 2004) können alle Kartenvorteile gratis in anspruch nehmen. Beim Kauf von 2 Erwachsenenkarten fahren alle Kinder (Jahrgang 1995 bis 2004) kostenlos (Ausweis).\n\n"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

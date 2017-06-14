@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Schettla\u0027s Boulderhalle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1660906",
+    "longitude": "11.8696485"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Boulderhalle",
+    "streetAddress": "Sportplatzstraße 308",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 627 64 ",
+    "url": "http://www.boulder.fixistudios.org/de/"
+  },
+  "description": "Schettla\u0027s Boulderhalle\nin der Ferienregion Mayrhofen-Hippach, Zillertal\nDie Boulderhalle in Mayrhofen verspricht bei jeder Witterung tolles Klettervergnügen. Facts:\nca. 120m² Kletterfläche \nHöhe: 3,5 m \nmit Dach-Kletterfläche \nNeigungsgrad der Wände von ca. 10,5° bis 50° \n1300 Griffe \n30 cm dicke Matten zur Sicherheit \nfarblich abgestimmte Kletterrouten\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/54a2e038-8866-43c3-b14e-5f2d585db923/99/image.jpg",
+      "caption": "Boulderhalle"
+    }
+  ],
+  "url": [
+    "http://www.boulder.fixistudios.org/de/"
+  ]
+}

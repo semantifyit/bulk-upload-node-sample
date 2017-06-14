@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.tiscover.com/kogler.muehlfeld",
+    "http://maps.mayrhofen.at/?foreignResource\u003dAADAF231-FC2E-4F06-B086-3A86FFDCF87B"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mühlfeld, Haus",
+    "streetAddress": "Schrofen 121",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 6561240",
+    "email": "kogler.muehlfeld@a1.net",
+    "url": "http://www.tiscover.com/kogler.muehlfeld"
+  },
+  "name": "Haus Mühlfeld",
+  "description": [
+    "Unser Haus liegt 5 Gehminuten vom Ortszentrum im sonnigen Erholungsdorf Brandberg entfernt, inmitten der herrlichen Zillertaler Bergwelt umgeben von wunderschönen Wiesen und Feldern. Ruhig dennoch zentral gelegen, ist unser Haus der ideale Ausgangspunkt für Urlaubsaktivitäten aller Art. Die freundlich eingerichteten Ferienwohnungen sind ausgestattet mit Stereoanlagen und Sat- TV und Balkon. Bei uns sind auch Haustiere gerne willkommen. Zum Abschalten vom Alltagsstress - herrliche Liegewiese und Terrassen zum Sonnen und Entspannen. Für unsere Kleinen - Sandkasten und Spielwiese. Wöchentlich Wanderungen auf die eigene Alm Neuberg Zillergrund mit einer Almpause. Wir würden uns sehr freuen, auch Sie einmal im Haus Mühlfeld begrüßen zu dürfen. Mit freundlichen Grüßen ihre Familie Kogler.  \n\n\n",
+    "Die Preise verstehen sich  inkl. Strom. Der Preis für die Endreinigung beträgt zwischen € 30,- und € 35,-. Kinderermäßigung auf Anfrage.",
+    "über die Inntalautobahn bis zur Ausfahrt Zillertal und von dort noch 30 km auf der Zillertal Bundesstraße Nr. 169. Ca. 2 km vor Mayrhofen links abbiegen und durch den Tunnel Richtung Brandberg. Unser Haus finden Sie in Brandberg gleich nach der Alten Mühle.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/714aed95-1ecf-4c2b-9283-1d405c70245c/99/image.jpg",
+      "caption": "Haus Mühlfeld Brandberg - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0b77be6c-62b7-47ec-a023-d024e0e64a9a/99/image.jpg",
+      "caption": "Haus Mühlfeld Brandberg - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98f48282-9798-4099-b574-fe69e5f9cf5c/99/image.jpg",
+      "caption": "Haus Mühlfeld Brandberg - Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca433114-e5d0-479e-8afe-323a1ce01a55/99/image.jpg",
+      "caption": "Haus Mühlfeld Brandberg - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/646e5468-797d-4d98-aaea-0cd3cb86ca4a/99/image.jpg",
+      "caption": "Haus Mühlfeld Brandberg - Schlafzimmer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/734ac00a-c1d4-408c-809a-1178913afb05/99/image.jpg",
+      "caption": "Haus Mühlfeld Brandberg - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/47319847-07f2-49b5-8488-51ac047adf72/99/image.jpg",
+      "caption": "Almhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6458b1af-5571-4294-a8ee-b7bbf2032672/99/image.jpg",
+      "caption": "Almhütte 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1688997923207",
+    "longitude": "11.9047164916992"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Die Wohnung ist abgeschlossen und besteht aus 1 Dreibettzimmer event. 4 Bettzimmer mit Dusche und Balkon, 1 Doppelzimmer mit Dusche/WC, Gang und Wohnküche. Bettwäsche, Handtücher, Geschirr und Strom, SAT-TV, Erweiterund durch Doppelzimmer mit Dusche und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment I/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Die Ferienwohnung ist abgeschlossen und besteht aus 1 Doppelzimmer mit Dusche und Balkon, WC, Wohnküche, SAT-TV, Gang. Die Wohnung kann jedoch durch zusätzliche Doppelzimmer mit Dusche und Balkon erweitert werden (max. 8 Personen). Bettwäsche, Handtücher, Geschirr, Strom",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment II/3 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "5"
+          }
+        }
+      ]
+    }
+  ]
+}

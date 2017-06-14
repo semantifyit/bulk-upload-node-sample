@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Linienbus Mayrhofen - Ginzling/Schlegeis 03.06. - 01.10.2017",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.16962",
+    "longitude": "11.8627685"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhof Mayrhofen",
+    "streetAddress": "Am Marktplatz 200",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5244 60 6290",
+    "email": "office@zillertalbahn.at",
+    "url": "http://www.zillertalbahn.at"
+  },
+  "description": "Public service from Mayrhofen to the reservoir Schlegeis",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7bb58f5-73bc-4dde-941a-47e6f30214c8/99/image.jpg",
+      "caption": "Logo"
+    }
+  ]
+}

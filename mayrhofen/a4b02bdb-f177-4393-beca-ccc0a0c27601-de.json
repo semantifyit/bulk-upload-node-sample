@@ -1,0 +1,85 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.cafe-kroell.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA4B02BDB-F177-4393-BECA-CCC0A0C27601"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kröll, Cafe Konditorei",
+    "streetAddress": "Hippach-Dorf 24",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3651",
+    "faxNumber": "0043 5282 36517",
+    "email": "cafe.kroell@aon.at",
+    "url": "http://www.cafe-kroell.at"
+  },
+  "name": "Cafe Konditorei Kröll",
+  "description": [
+    "Eintreten, Aufatmen und Genießen. Unsere gemütlichen Appartements für 2 bis 2-6 Personen, mit allem Drum und Dran, sind die ideale Voraussetzung dafür. \nFerienwohnung für 2-6 Personen mit Küche, Bad, Dusche und Badewanne, seperatem WC, 3 Schlafzimmer, Wohnzimmer und Balkon im Dachgeschoss.\n\nBereits seit vielen Jahren ist unser Café - Konditorei Kröll immer wieder der Treffpunkt für Kaffeegeniesser und \"Kuchenliebhaber\" in Hippach. Eine erlesene Auswahl an süssen Kleinigkeiten, Eiskreationen und Torten bis hin zu unseren beinahe schon legendären Strudelspezialitäten erwartet Sie in der unvergleichlichen Atmosphäre unseres Tages-Cafés. Dass wir zur Herstellung unserer Produkte nur beste Rohmaterialien verwenden, versteht sich von selbst - Tradition verpflichtet. Probieren Sie\u0027s und lassen Sie sich von uns verführen.",
+    "Preise inkl. Strom, Wasser, heizung, sämtlicher Wäsche, Safe u. Parkplatz. \n\nHaustiere: € 4,00 pro Tag u. Tier ohne Futter\nEndreinigung: € 40,00\n\nBabyausstattung: Babyphon, Hochstuhl, Flascherlwärmer, Sterilisator, Gitterbett, Babyhandtücher, Babybadewanne, Wickelauflage, Windeleimer, Kindertopf, Stockerl, WC-Sitz, Stillkissen, BAdewannensitz, Bettgitter; Überraschung für Kinder bis 10 Jahre!\n\nGegen Gebühr: Kinderwagen, Wippe u. Babytrage € 4,00 pro Tag\n\nFahrradverleih gegen Gebühr:\nKinderfahrrad: € 6,00 pro Tag\nFahrrad mit Kindersitz: € 11,00 pro Tag\nErwachsenen Fahrrad: € 9,00 pro Tag",
+    "Check in: ab 14.00 Uhr (nach 18.00 Uhr bitte anrufen)\n\nÜber Rosenheim, Kufstein, Ausfahrt Wiesing / Zillertal, Richtung Zell am Ziller, nach 4 km an der Ampel rechts abbiegen, über die Brücke, bei der 1. Kreuzung rechts, nach ca. 150m sehen Sie unser Haus auf der linken Seite\n\nUnsere restlichen Ferienwohnungen (ca. 60-70 m²) mit Wohnküche/Schlafraum, Doppelzimmer, Bad, sep. WC, Balkon sind im Reisebüro - DERTOUR - buchbar."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d47079a7-cc76-4d90-9052-4218627e5dff/99/image.jpg",
+      "caption": "Cafe Kröll Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9ab744df-c3b6-446e-baf6-91b3cc23180e/99/image.jpg",
+      "caption": "Cafe Kröll Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d309a54f-6d8e-411f-a344-2921b5f8d641/99/image.jpg",
+      "caption": "Cafe Kröll Hippach - Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5812de2f-3c98-4824-878a-0142c96c1d19/99/image.jpg",
+      "caption": "Cafe Konditorei Kröll Hippach"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2048373685302",
+    "longitude": "11.8653121590614"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 3 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

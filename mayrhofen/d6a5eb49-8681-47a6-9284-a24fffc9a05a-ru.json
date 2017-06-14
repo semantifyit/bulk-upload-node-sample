@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Service"
+  ],
+  "name": "ESSO Tankstelle Wallnöfer",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1598909",
+    "longitude": "11.8492043"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "ESSO Tankstelle",
+    "streetAddress": "Stumpfau 688",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 8266"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/72bc9b2d-6312-440d-afa1-f3b758c67a1d/99/image.jpg",
+      "caption": "ESSO"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

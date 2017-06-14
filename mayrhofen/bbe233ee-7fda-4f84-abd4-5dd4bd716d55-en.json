@@ -1,0 +1,298 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.alpenparadies.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003dBBE233EE-7FDA-4F84-ABD4-5DD4BD716D55"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergkristall, Aparthotel",
+    "streetAddress": "Laubichl 133",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62580 55",
+    "faxNumber": "0043 5285 6258056",
+    "email": "info@alpenparadies.com",
+    "url": "http://www.alpenparadies.com"
+  },
+  "name": "Aparthotel Bergkristall",
+  "description": [
+    "Apparthotel in a sunny and quiet location, a few minutes walk from the town centre, young persons room, children\u0027s play room, play ground, underground garage, lift, guest lounge, washing machine/tumble dryer, ski cellar, ski boot dryer, sun bathing area. Open air swimming pool (open in summer and winter), sauna, steam room, solarium only 70 metres away in the neighbouring Gästehaus Camping. Internet room.\nEach apartment is also available with an additional double room, equipped with a shower/WC, lounge area, Sat-TV, radio and telephone!!(costing between 15,50 and 25.- Euro, depending on the season and number of people).",
+    "Included in price: Electricity, water, heating, bed linen/towels. Once weekly use of the sauna/steam room, daily use of the open air pool.",
+    "Check in:15.00hr / Check out: 10.00hr.\nDirections: Drive to the roundabout at Mayrhofen, turn left towards the BP petrol station, left again towards Laubichl and straight on until the Campingplatz. Turn right just before the Camping, and our Apparthotel Bergkristall can be found at the end of this road."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fda2fca8-9fac-44ae-8a80-9019b66cfb3f/99/image.jpg",
+      "caption": "Bergkristall Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a32e503-d131-4788-b4ad-57a4198a3ba1/99/image.jpg",
+      "caption": "Bergkristall Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ee47efb-13fe-4b5a-9822-35f613ec9776/99/image.jpg",
+      "caption": "Bergkristall Mayrhofen - Reception"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/89177407-f0db-4b3e-b400-745008d2c87d/99/image.jpg",
+      "caption": "Bergkristall Mayrhofen - Schwimmbad"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.174480743459",
+    "longitude": "11.870322296907"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+      "description": "Apartments: Jasmin and Edelweiss. Suitable for 4-6 persons, (approx. 65m²), 2 bedrooms, lounge with traditional tiled stove, lounge area and sofa bed, fully equipped kitchen, (microgrill, dishwasher...), entrance hall with cloakroom, shower/WC, separate bathroom, north facing balcony, Sat-TV, radio, telephone and safe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap Jasmin/Edelweiß/2 bedrooms/shower,bath tube,WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "82.00",
+          "maxPrice": "142.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "82.00",
+          "maxPrice": "142.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "82.00",
+          "maxPrice": "142.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet",
+      "description": "Apartment, \"Himmelschlüssel\". Suitable for 2-3 persons, (approx. 38m²), bedroom with four poster bed, lounge area with a traditional tiled stove, seating area and sofa, fully equipped kitchen (microgrill, dishwasher....), shower/WC, west facing balcony, Sat-TV, radio, telphone and safe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap. Himmelschlüssel/combined living-bed-room/showe",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "83.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "63.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower or bath, toilet",
+      "description": "Apartments: Alpenrose and Vergissmeinnicht. Suitable for 2-4 persons (approx. 55m²) with bedroom, lounge with traditional tiled stove, lounge area with sofa bed, fully equipped kitchen, (microgrill, dishwasher....), bathroom, separate WC, entrance hall with cloakroom, east facing balcony, Sat-TV, radio, telephone and safe.\nOr:\nApartments: Alpenveilchen and Sonnenblume. Suitable for 2-4 persons (approx. 50m²) with bedroom, lounge with traditional tiled stove, lounge area with sofa bed, fully equipped kitchen, (microgrill, dishwasher....), bathroom, separate WC, entrance hall with cloakroom, north facing balcony, Sat-TV, radio, telephone and safe.\nOr:\nApartments: Enzian, Rose and Lilie. Suitable for 2-5 persons, (approx. 56m²), with bedroom, lounge with traditional tiled stove, lounge area with sofa bed, fully equipped kitchen, (microgrill, dishwasher....), bathroom, separate WC, entrance hall with cloakroom, south facing balcony, Sat-TV, radio, telephone and safe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.living-bedr./1 bedr./shower o.ba",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "57.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "64.00",
+          "maxPrice": "107.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "79.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "89.00",
+          "maxPrice": "139.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Apartment, \"Orchidee\", suitable for 4-7 persons (approx. 78m²), 2 bedrooms, 1 shower/WC, 1 separate shower and WC, lounge with a traditional tiled stove, seating area and sofa bed, (sleeping room for 2-3 persons), fully equipped kitchen (microgrill, dishwasher.....), entrance hall with cloakroom, south facing balcony, SAT-TV, radio, telephone and safe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment Orchidee/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower or bathtub",
+      "description": "Apartment Veilchen: Suitable for 4-6 persons, (approx. 69m²), 2 bedrooms, lounge with traditional tiled stove, lounge area and sofa bed, fully equipped kitchen with dining area, (microgrill, dishwasher.....), 1 shower/WC with double hand basin, 1 separate shower, 1 separate WC, entrance hall with cloakroom, south facing balcony, Sat-TV, radio, telephone and safe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap Veilchen/comb.living-bedr./2 bedr./shower o.ba",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower or bathtub, south",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower or bath, south",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "77.00",
+          "maxPrice": "77.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "91.00",
+          "maxPrice": "91.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "105.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet, 1 bed room",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower, toilet, 1 bed room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

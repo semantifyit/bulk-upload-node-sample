@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub"
+  ],
+  "name": "Mike\u0027s Sportsbar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1686702530412",
+    "longitude": "11.8659747576721"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Der Siegelerhof",
+    "streetAddress": "Durster Straße 226",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62493",
+    "faxNumber": "0043 5285 624937",
+    "email": "info@hotel-siegelerhof.at",
+    "url": "http://www.hotel-siegelerhof.at"
+  },
+  "description": "Sport Live auf Sky TV\nEs werden alle Spiele der deutschen Bundesliga und Premier League übertragen. Durch unsere Vielzahl an englischen Gästen erleben Sie Fußball wie in einem echten englischen Pub. Mit frisch gezapftem Bier und Übertragungen auf englisch und deutsch verpassen Sie nichts mehr, wenn Sie weit weg von Ihrer Lieblingsmannschaft im Urlaub sind. Natürlich wird dieses Erlebnis durch ein gestochen scharfes Bild von Sky TV abgerundet.\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ee2aa24e-50d4-4a7d-938b-63c21caad6e0/99/image.jpg",
+      "caption": "Sportsbar "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68ff8506-0300-4dcb-9ce2-ad7fefb1ef45/99/image.jpg",
+      "caption": "Sportsbar."
+    }
+  ],
+  "url": [
+    "http://www.hotel-siegelerhof.at"
+  ]
+}

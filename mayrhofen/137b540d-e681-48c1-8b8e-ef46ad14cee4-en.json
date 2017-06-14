@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "Restaurant"
+  ],
+  "name": "Café Tirol -  Restaurant Steakhouse",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1655495",
+    "longitude": "11.8622186"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "C@fe Restaurant Steakhouse Tirol",
+    "streetAddress": "Hauptstraße 448",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62320",
+    "email": "info@steakhousetirol.at",
+    "url": "http://www.steakhousetirol.at"
+  },
+  "description": "In the café we spoil you with various traditional and modern coffee varieties. Served with an ever-changing, wide variety of homemade pies, cakes and strudels of the season.\nThe cafe in Mayrhofen\n\nWhether local or a holidaymaker: Best of the day begins with an extensive and healthy breakfast. Enjoy with all your senses - sight, smell, taste and feel the freshness with us!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/00f440ee-59c9-414f-ae33-f548601ef2e2/99/image.jpg",
+      "caption": "Tirol - C@fe "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14119d8d-d8a8-40aa-a9a7-c9bed0418fd1/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ffde2bce-14c6-407a-8879-0dede19a8293/99/image.jpg",
+      "caption": "Restaurant"
+    }
+  ],
+  "url": [
+    "http://www.steakhousetirol.at"
+  ]
+}

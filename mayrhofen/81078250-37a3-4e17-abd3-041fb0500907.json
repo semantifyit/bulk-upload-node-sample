@@ -1,0 +1,79 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": [
+    {
+      "@language": "de",
+      "@value": "Klingendes Brandberg"
+    },
+    {
+      "@language": "en",
+      "@value": "Klingendes Brandberg"
+    },
+    {
+      "@language": "ru",
+      "@value": "Klingendes Brandberg"
+    }
+  ],
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bundesmusikkapelle Brandberg",
+    "employee": {
+      "@type": "Person",
+      "familyName": " "
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Brandberg",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "email": "info@bmk-brandberg.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Bundesmusikkapelle Brandberg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Brandberg",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "email": "info@bmk-brandberg.at"
+    }
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Klingendes Brandberg am Musikpavillon in Brandberg.\nBeginn 20.00 Uhr\n\nEintritt frei!"
+    },
+    {
+      "@language": "en",
+      "@value": "Klingendes Brandberg at the music bandstand in Brandberg.\nStart 08.00 p.m.\n\nfree entry!\n\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/875375bb-2d8f-45ae-92bd-9f27f05b2165/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "BMK Brandberg"
+        },
+        {
+          "@language": "en",
+          "@value": "BMK Brandberg"
+        },
+        {
+          "@language": "ru",
+          "@value": "BMK Brandberg"
+        }
+      ]
+    }
+  ],
+  "startDate": "2017-07-20T20:00:00",
+  "endDate": "2017-07-20"
+}

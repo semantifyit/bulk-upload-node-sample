@@ -1,0 +1,61 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d7B5723E9-9897-4A19-826D-7A565F22557A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Perlhäusl",
+    "streetAddress": "Schwendberg 471",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 51284",
+    "faxNumber": "0043 5282 51284",
+    "email": "ClaudiaG@gmx.at"
+  },
+  "name": "Perlhäusl",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "18"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b0b05910-7d09-4ce3-89e8-e7d88a2b98af/99/image.jpg",
+      "caption": "Perlhäusl Schwendberg"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2016538242197",
+    "longitude": "11.8481540679932"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Дом отдыха, ванна, туалет, три спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Дом отдыха, ванна, туалет, три спальни",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

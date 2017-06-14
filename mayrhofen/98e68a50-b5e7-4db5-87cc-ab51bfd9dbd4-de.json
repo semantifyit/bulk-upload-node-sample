@@ -1,0 +1,572 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.youtube.com/embed/7Het9OT2jyE?rel\u003d0",
+    "http://www.stefanie.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d98E68A50-B5E7-4DB5-87CC-AB51BFD9DBD4"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenhotel Stefanie GmbH",
+    "streetAddress": "Johann-Sponring-Straße 90",
+    "addressLocality": "Hippach ",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "+435282 3634",
+    "faxNumber": "+43 5282 3803",
+    "email": "info@stefanie.at",
+    "url": "http://www.stefanie.at"
+  },
+  "name": "Alpenhotel Stefanie",
+  "description": [
+    "Liebevoll geführtes Haus, mit 35 individuell gestalteten Zimmern, am schönsten Fleck im Zillertal, hat sich auf einen neuen Weg begeben. Mit viel Liebe haben wir unser Haus für Sie zum Verlieben schön gestaltet. Um höchste Urlaubsansprüche zu übertreffen präsentiert sich das Alpenhotel Stefanie mit aufregenden Neuigkeiten. Durch einen größeren Umbau haben sich besondere Überraschungen im ganzen Haus ergeben.\n\nDer komplette Südtrakt wurde vergrößert, die 12 Panoramazimmer wurden zu Panorama SUITEN mit einem bezaubernden Ambiente, grandiosem Ausblick und einem modernen Wohngefühl. Wir haben bei der gesamten Gestaltung darauf Wert gelegt, die Räume individuell auszurichten, das heimelige Gefühl beizubehalten und dennoch eine gewisse Frische mit jugendlichem Ambiente zu schaffen.",
+    "Inklusive SENSES SPA: Panorama-Hallenbad, Zirbensauna, Dampfbad, Infrarot-Kabine, Eisbrunnen, Hydro-Jet, 2 Relaxräume, Zirbennest, Wasserbett, Whirlpool, Massagen und Beautybehandlungen, Orangerie mit Teebar",
+    "Bei der Ampelregelung Ramsau rechts abbiegen, über die Brücke nach Hippach. Geradeaus, immer leicht ansteigend und dann halblinks bis zum Hotel Stefanie auf der linken Strassenseite. Check-In: 14:00 Uhr, Check-Out: bis 11:00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "581"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f183761-8357-4ced-bddd-026fe8b503ea/99/image.jpg",
+      "caption": "ALPENHOTEL  STEFANIE"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/87d0ef1d-3643-4766-930f-9aff73f9c879/99/image.jpg",
+      "caption": "logo_stefany new"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1243d8d-a532-4bb5-a70d-45682b4684a8/99/image.jpg",
+      "caption": "RECEPTION"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1cd0c862-0bba-407b-88da-2fa68673edf1/99/image.jpg",
+      "caption": "FIREPLACE"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fe2c24e0-5a54-44f9-ab64-57062cb7d3fa/99/image.jpg",
+      "caption": "RESTAURANT"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d6339588-e46e-4f4a-ba6c-dee8744c3d50/99/image.jpg",
+      "caption": "BAR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/552bf026-9b93-403a-a22a-a3413a654b4b/99/image.jpg",
+      "caption": "STEFANIE WINE \"ALMRAUCH\""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/221c79e9-fe91-4b40-bae2-3e7419cd4863/99/image.jpg",
+      "caption": "STEFANIE\u0027S CUISINE"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98788a7f-c72c-4e05-b836-309ab2a11433/99/image.jpg",
+      "caption": "WINE CELLAR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/414a2c1f-b431-49c1-9e4e-282bfe5485a3/99/image.jpg",
+      "caption": "SPRING IN STEFANIE"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/450df96b-f14a-4d8f-8194-ce89aa65cbb9/99/image.jpg",
+      "caption": "TERRACE"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e10ec182-7932-4721-846c-ad2042de482a/99/image.jpg",
+      "caption": "PANORAMIC VIEW"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/74084903-68d2-4396-a293-541026d6117e/99/image.jpg",
+      "caption": "RELAXATION CENTER"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7468eaa7-4f66-4c93-b78d-fc3ceff6b0b4/99/image.jpg",
+      "caption": "FINNISH SAUNA"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/404203a3-3cbd-4ff4-a953-bb9a7296d0cc/99/image.jpg",
+      "caption": "SWIMMING POOL"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c5101662-2d23-4d97-a578-a0e01302cd60/99/image.jpg",
+      "caption": "RELAXATION ZONES"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dc0f0ae7-24b3-4461-a230-f3c707266092/99/image.jpg",
+      "caption": "GYM"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ea05aafa-323c-4b11-8687-06379f05943a/99/image.jpg",
+      "caption": "STEFANIE IN WINTER"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ba85cb95-b2b9-4778-8a52-35274dd70dd5/99/image.jpg",
+      "caption": "SWIMMING POOL"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aad058f3-f61c-44df-8d00-f6304db20d1e/99/image.jpg",
+      "caption": "POOL IN WINTER"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/39d29eff-a60b-46b2-b48b-1976be40903a/99/image.jpg",
+      "caption": "WINTER PANORAMA"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/71b7cb4c-d1f5-4503-ae09-bdbf7daace78/99/image.jpg",
+      "caption": "VIEW FROM THE HOTEL"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/749ab3ca-e816-41bd-8fcd-82f9935c7112/99/image.jpg",
+      "caption": "SNOW TERRACE"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a5e5bef-e7a3-465b-a957-aa2ba8027918/99/image.jpg",
+      "caption": "TERRACE IN THE WINTER"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2efcad0a-d2aa-4727-ae56-fc9f51921535/99/image.jpg",
+      "caption": "TERRACE IN WINTER"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/27f0fd72-afd9-4c14-ba13-519f535e82b7/99/image.jpg",
+      "caption": "WINTER PANORAMA"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2022807078099",
+    "longitude": "11.8644404411316"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Economy",
+      "description": "charmantes Zimmer mit gemütlichem Wohnbereich\nBalkon-/terrasse mit Morgensonne und schönem Bergblick\nFlat-TV, Safe, Fön, Telefon, Regenschirm\nDusche/WC\nBadekorb mit kuscheligem Bademantel, Badeschuhe und Saunatücher",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Economy Doppel oder Twin",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortzimmer Ost 27m² E",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d2efbb3d-a5f3-4e37-97f0-a31fdf6bf13c/99/image.jpg",
+              "caption": "Doppelzimmer Komfort"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortzimmer Ost 27m²",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kurz \u0026 Schön",
+          "description": "Inkl. pro Person\n\n4 Tage Urlauben inklusive\n\n1x  Massage á 25 min oder 1 Beautyanwendung\n1x Picknickkorb\n2x Fahrräder für einen Tagesausflug",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wunderbares Zillertal- Doppelzimmer Komfort",
+          "description": "•\t25 Wellnessminuten (einlösbar bis 15.00 Uhr) \t\t\t\t\t\t\t\n•\t1 Vitaljeton – Hydro - Massage\n•\tZillertal Aktivkarte \n•\t2 geführte Wanderung \n•\t1 gefüllter Jausen Rucksack\t\t\t\t\t\t\t\t\n•\t1 Lauftraining mit Chef Rainer Kröll \n \nKomfortzimmer Ost\nca. 27 m²\nim Landhausstil\ngroßes Doppelbett\nWohnteil\nherrliche Aussicht über das Tal bis zur Ahornspitze\nabsolute Ruhelage\nBalkon oder Balkonterrasse mit Tisch und Stühlen\nDusche und WC getrennt (teilweise!)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/0b901998-825f-41d0-bb9b-a78098eabc3a/99/image.jpg",
+              "caption": "Komfortzimmer ost"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/028f5374-af6a-47a5-8e6a-b63049e03d30/99/image.jpg",
+              "caption": "Berg"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "169.00",
+          "maxPrice": "999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "600.00",
+          "maxPrice": "600.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "600.00",
+          "maxPrice": "600.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Standard",
+      "description": "Kleines Zimmer mit Dusche, WC, Waschbereich durch Holzelement, getrennt Balkon mit schöner Sitzmöglichkeit, Flat-TV, Safe, Fön, Telefon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Klein",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wunderbares Zillertal - Klein \u0026 Design",
+          "description": "•\t25 Wellnessminuten (einlösbar bis 15.00 Uhr) \t\t\t\t\t\t\t\n•\t1 Vitaljeton – Hydro - Massage\n•\tZillertal Aktivkarte \n•\t2 geführte Wanderung \n•\t1 gefüllter Jausen Rucksack\t\t\t\t\t\t\t\t\n•\t1 Lauftraining mit Chef Rainer Kröll \n\nKlein \u0026 Design Zimmer\nca. 18 m²\nkuscheliges Designzimmer\nFlat TV\nDusche/WC\nBalkon mit Tisch und Stühlen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d31422e2-5a29-4c59-8565-d8766181c00f/99/image.jpg",
+              "caption": "KleinuDesign"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/7195b374-f8bc-4167-af3e-d15181066f85/99/image.jpg",
+              "caption": "Berg"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "9999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "564.00",
+          "maxPrice": "564.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer",
+      "description": "Neues Design-Zimmer 31 m² mit Doppel Bett und TV, separates Wohn-Schlafzimmer mit Sofa (Queen-size) und TV, Badezimmer mit Dusche, Balkon mit Tisch und Stühlen, Telefon, Haarfön, Zimmersafe, Bademantel, Pantoffeln",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "229.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "279.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "329.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, Deluxe",
+      "description": "Suite mit traumhaftem Bergblick\nindividuell eingerichtet (4 Typen: Zirbennest, Almrausch, Edelweiss, Alpenlounge)\nlichtdurchflutet mit großer Wohlfühlcouch\nPanoramafenster\nBalkon, Schreibtisch, Flat-TV, Safe, Fön, Telefon, Minibar, Waßerkocher mit Welcome Tray\nverglastes Badezimmer mit Dusche/WC (Dekorfolie)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Panoramasuite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Panoramasuite Süd 32m² - E",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Panoramasuite Süd 32m²",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Panoramasuite Süd 32m² - Aktivwochen",
+          "description": "Aktivwochen\nvom 18.01. bis 01.03.2014\n1 entspannendes Bad im Whirlpool, 1 Skifahrer-Wadlmassage (Bein- und Fußmassage) 25 min, 2 Vitaljetons ...\nbei einem Aufenthalt von 7 Tagen\n3/4-Verwöhnpension \n1 entspannendes Bad im Whirlpool Ihrer Wahl 20min \n1 Skifahrer-Wadlmassage (Bein- und Fußmassage) 25 min \n2 Vitaljetons für Hydro-Jet-Massage oder Solarium \n1x wöchentlicher Skitag mit einem Skiguide",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "239.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "219.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "269.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

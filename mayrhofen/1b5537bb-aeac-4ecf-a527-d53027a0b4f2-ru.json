@@ -1,0 +1,169 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.members.aon.at/klausnerheidiundmanfred",
+    "http://maps.mayrhofen.at/?foreignResource\u003d1B5537BB-AEAC-4ECF-A527-D53027A0B4F2"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Klausner",
+    "streetAddress": "Oberbichl 742",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3849",
+    "email": "klausner.heidi@aon.at",
+    "url": "http://www.ferienwohnungklausner.at"
+  },
+  "name": "Klausner Heidi und Manfred",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5501a6f6-a4a8-481f-be9e-d5da9f58b76a/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c251065-e19a-4fc5-ba1f-661e1da1d20d/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9bb82380-2221-45b8-b276-08a77cf6929d/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97a4798e-90ad-4cf9-8499-63a4b4dc2d1d/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/594ba6bd-ea69-4492-b9c7-6c757763ac4b/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a5a08ad4-288b-42b7-ac75-ed649e47f451/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6fbfed44-9272-4085-ba5e-a4e3b9082332/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bfc7f7c2-ff29-47ba-8880-4f649599d7dd/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/41125cab-670c-409f-9647-692e8354d360/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97d83bab-2377-4763-897f-7edae7d8fb4f/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/994d3fad-f9b6-475e-8c76-d134b67e7841/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/37dfdf11-3ddf-442e-a4ec-26ec2b53b9eb/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53777baa-9ec8-40fd-9898-2b6c6d131990/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/70a6dc35-93b6-40f4-b420-f806192abea6/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d70d9a34-cc87-4c40-9de0-8b3a51391660/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/22b23b76-8cbe-4dbc-8c58-95f70a69b66b/99/image.jpg",
+      "caption": ""
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1917283953539",
+    "longitude": "11.8732380867004"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, ванна, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет, две спальни",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "100.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

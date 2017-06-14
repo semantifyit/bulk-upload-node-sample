@@ -1,0 +1,87 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.zeila.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d04727BAB-14F6-4940-9B85-C982D24FAD7A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lärchenheim",
+    "streetAddress": "Dorf 178",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64645",
+    "email": "zeila@aon.at",
+    "url": "http://www.zeila.at"
+  },
+  "name": "Lärchenheim",
+  "description": [
+    "comfortable privatpension in Schwendau with \n",
+    "Reduction for children on inquiry!\n",
+    "Check in 10.00 - Check out 12.00 "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/25f8b627-d84b-4740-9a82-674c5e4f2c38/99/image.jpg",
+      "caption": "Lärchenheim Schwendau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/41a79fae-5e90-4e80-a37e-5b4c2372be06/99/image.jpg",
+      "caption": "Lärchenheim Schwendau - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.196339594865",
+    "longitude": "11.8570107221603"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Comfortable double room with DU / WC, balcony, Sat-TV\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "22.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

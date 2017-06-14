@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Hotel Stefanie - Life \u0026 Spa",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2022989310593",
+    "longitude": "11.8646442890167"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenhotel Stefanie GmbH",
+    "streetAddress": "Johann-Sponring-Straße 90",
+    "addressLocality": "Hippach ",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "+435282 3634",
+    "faxNumber": "+43 5282 3803",
+    "email": "info@stefanie.at",
+    "url": "http://www.stefanie.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/777aa422-29bf-407a-b287-886e05a6e7dd/99/image.jpg",
+      "caption": "Hotel Stefanie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0e0b5be-7511-49a3-a090-f66c86f3ea3d/99/image.jpg",
+      "caption": "Hotel Stefanie 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/32ebf056-679b-4d46-acdc-3f236cd327dc/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/05004263-7ff4-4264-bdf3-83ea9e73f9a3/99/image.jpg",
+      "caption": "Zimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/20c8714d-e361-4a29-a557-5dcdd5babec2/99/image.jpg",
+      "caption": "Hallenbad"
+    }
+  ],
+  "url": [
+    "http://www.stefanie.at"
+  ]
+}

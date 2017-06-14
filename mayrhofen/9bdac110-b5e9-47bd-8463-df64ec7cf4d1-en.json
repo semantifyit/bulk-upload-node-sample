@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Skibus Mayrhofen Linie Zillergrund 26.11.2016 - 23.04.2017",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.169343078776",
+    "longitude": "11.8623339018219"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhof Mayrhofen",
+    "streetAddress": "Am Marktplatz 200",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5244 60 6290",
+    "email": "office@zillertalbahn.at",
+    "url": "http://www.zillertalbahn.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7565e305-697a-4023-8746-f6561ceb3033/99/image.jpg",
+      "caption": "Logo"
+    }
+  ]
+}

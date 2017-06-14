@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Intersport Bründl - Bergstation Penkenbahn",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1752970055771",
+    "longitude": "11.8289807090873"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Intersport Bründl ",
+    "streetAddress": "Hauptstraße 472",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62233",
+    "faxNumber": "(0043) 5285 62400-15",
+    "email": "penkental@bruendl.at ",
+    "url": "http://www.bruendl.at"
+  },
+  "description": "INTERSPORT ist der größte Sportfachhändler Österreichs. Mit mehr als 250 Standorten in Österreich und dem Online Shop bietet INTERSPORT alles was das Sportlerherz begehrt. 5x in Mayrhofen!\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7df7b631-14b2-44e6-a153-4dce2797cdd2/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.alpsapart-regina.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d262D0353-AE46-4B91-90F9-FE13A5952C0F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Regina, Alpsapart",
+    "streetAddress": "Schormis 112",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63088",
+    "email": "info@alpsapart-regina.at",
+    "url": "http://www.alpsapart-regina.at"
+  },
+  "name": "Alpsapart Regina",
+  "description": "Herzlich Willkommen!!\n\nDer erholsame Urlaub beginnt bei der Wahl der Unterkunft!\n\nKeine Lust auf überfüllte Hotels oder Lärm im Urlaub?\nDann ist unser Appartement genau das Richtige für Sie!\n\nFühlen Sie sich wie Zuhause in Ihren eigenen 4 Wänden.\nWir bieten ein schönes Appartement für 4 bis max. 6 Personen.\n\nUnser Haus liegt direkt im Zentrum von Schwendau. Appartement Regina ist nur 5 Fahrminuten vom Skigebiet \"Ski Zillertal 3000\" entfernt. Direkt vor der Haustür fährt der gratis Skibus  von Schwendau bis zur Talstation hin und zurück.\n\nIn unmittelbarer Nähe ( 5 Minuten zu Fuß) finden Sie eine Auswahl an Gaststätten, Restaurants, Cafes und Einkaufsmöglichkeiten.\n\nWir würden uns freuen, Sie bei uns begrüssen zu dürfen.\n\nFranz \u0026 Regina Sporer\nAppartement Regina\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/78d8a1b1-bcfd-413d-83bf-be2b05e4a865/99/image.jpg",
+      "caption": "Alpsapart Regina Schwendau - Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2004510617085",
+    "longitude": "11.8608516454697"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Appartement\nDas erwartet Sie nach einer erfolgreichen Buchung !\n\nUnser Appartement für Nichtraucher ist für 4-6 Personen ausgerichtet und ist ca. 70 Quadratmeter groß. Die komplette Wohnung ist mit einem schönen Barkettboden ausgestattet. Haustiere sind leider nicht erwünscht.\n\nDas Appartement hat zwei geräumige Schlafzimmer mit je einem Doppelbett und einem Einzelbett. Die Bettwäsche und die Handtücher werden natürlich von uns beigestellt.\n\nAm Abreise- bzw. Anreisetag ist das Appartement bis 10.00 Uhr Vormittags zu verlassen bzw. ab 14.00 Uhr zu beziehen.\n\nWohnzimmer (Essbereich, Sat-TV) \nKüche (E-Herd, Backofen, Kühlschrank, Kaffemaschine, Geschirr, Wasserkocher), Bad mit Badewanne und Dusche kombiniert, Balkon, WC \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appart \"SARA\"",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Appartement\nDas erwartet Sie nach einer erfolgreichen Buchung !\n\nUnser Appartement für Nichtraucher ist für 2-5 Personen ausgerichtet und ist ca. 65 Quadratmeter groß. \nDas Appartement hat zwei geräumige Schlafzimmer ein Bad mit Dusche, Badewanne, WC. Küchenblock im Wohn-Essbereich (Sat-TV)\nW-LAN kostenlos verfügbar.\nDie Bettwäsche und die Handtücher werden von uns gestellt.\n\nAm Abreise- bzw. Anreisetag ist das Appartement bis 10.00 Uhr Vormittags zu verlassen bzw. ab 14.00 Uhr zu beziehen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appart \"ROSINA\"",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

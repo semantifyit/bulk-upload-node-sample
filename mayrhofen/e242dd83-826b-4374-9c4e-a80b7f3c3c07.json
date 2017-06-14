@@ -1,0 +1,71 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "GroceryStore"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Braunegger/Bäckerei Ruetz"
+    },
+    {
+      "@language": "de",
+      "@value": "Braunegger/Bäckerei Ruetz"
+    },
+    {
+      "@language": "ru",
+      "@value": "Braunegger/Bäckerei Ruetz"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1665036966409",
+    "longitude": "11.8630242347717"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bäckerei Ruetz",
+    "streetAddress": "Hauptstraße 437",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62011",
+    "faxNumber": "(0043) 5283 223170",
+    "email": "office@braunegger-kg.at",
+    "url": "http://www.braunegger-kg.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Wir sind stolz auf unsere Geschichte und schreiben stetig weiter daran. Heute führen wir unsere Bäckerei übrigens bereits in der fünften Generation. Unsere originalen Familienrezepte sind seit über 115 Jahren die Grundlage unserer Brotspezialitäten. Daran feilen wir stetig, um immer wieder auch neue Klassiker entstehen zu lassen. Eines haben alle unsere Brote gemeinsam: traditionelle Vorteige, keine Zusatzstoffe und erstklassiges Handwerk. Wir sind mit Leib und Seele Bäcker und geben unser überliefertes Wissen auch an die nächsten Generationen weiter — vom Großvater bis zum Enkel. "
+    },
+    {
+      "@language": "en",
+      "@value": "We are proud of our history and it is still continuing. Today we will introduce you to our fifth generation of our bakery. Our original family recipes are our treasure and have been used for the past 115 years. "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7d53150-492d-4cd7-8604-e1e41b627f70/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Bäckerei Ruetz"
+        },
+        {
+          "@language": "de",
+          "@value": "Bäckerei Ruetz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bäckerei Ruetz"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.braunegger-kg.at"
+  ]
+}

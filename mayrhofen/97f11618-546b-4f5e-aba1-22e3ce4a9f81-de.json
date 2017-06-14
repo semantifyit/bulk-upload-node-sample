@@ -1,0 +1,186 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hippach-Dorf 45",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8225374",
+    "email": "roman.paasch@gmail.com"
+  },
+  "name": "Roman Paasch",
+  "description": [
+    "Unser Haus liegt in ruhiger, sonniger Lage in Dorfzentrum von Hippach mit schönem Panoramablick auf die Zillertaler Bergwelt. Skibushaltestelle in unmittelbarer Nähe.",
+    "Anreise ab 16:00, Abreise bis 09:00",
+    "Anreise per Auto\nÜber die Inntalautobahn A12 bis zur Ausfahrt Zillertal und von dort noch 30 km auf der Zillertal Bundesstraße Nr. B169 bis nach Hippach.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c629ffe-0646-44e4-8d2d-b785e1224d80/99/image.jpg",
+      "caption": "Roman Paasch Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/007ac56f-f7af-4f99-a9b6-1a33ce656790/99/image.jpg",
+      "caption": "Roman Paasch - Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f911c182-82dd-402f-a657-a7601bfc2ec8/99/image.jpg",
+      "caption": "Roman Paasch - Küche1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5137ffff-8c8c-4cb6-8057-e6034f71710d/99/image.jpg",
+      "caption": "Roman Paasch - Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0eb3a151-d2ed-4a83-a71d-610fc5fe2964/99/image.jpg",
+      "caption": "Roman Paasch - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af2a0044-9827-4a85-99b7-11da215b2aa8/99/image.jpg",
+      "caption": "Roman Paasch - Bad1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f2119977-19aa-4f67-b8e2-cf9b4e8629d5/99/image.jpg",
+      "caption": "Roman Paasch - Küche2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d22e6b8c-865e-426a-8bc6-10d9bc22cc2f/99/image.jpg",
+      "caption": "Roman Paasch - Wohnzimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa193d79-b4ca-42c4-bc17-8c940897690f/99/image.jpg",
+      "caption": "Roman Paasch - Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/acf9b3e7-1e1a-4d99-844e-bf66b5787b3c/99/image.jpg",
+      "caption": "Haus Winter 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2091237650867",
+    "longitude": "11.8658989116395"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Große Ferienwohnung für 2-6 Personen (100m²), 2 Schlafzimmer, großes Wohnzimmer mit 2 ausziehbaren Doppelsofas, voll ausgestattete Küche inkl. Geschirrspüler, Bad mit Badewanne, Dusche und WC, separates WC, Balkone.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment 100m²",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "115.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Ferienwohnung für 2-4 Personen (60m²), 1 Schlafzimmer, Wohnzimmer mit ausziehbarem Doppelsofa, voll ausgestattete Küche, Bad mit Dusche und WC, Terasse.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment 60m²",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

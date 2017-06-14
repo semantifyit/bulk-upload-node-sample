@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Skibus Hippach Horbergbahn 25.12.2016 - 17.03.2017",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1905128333808",
+    "longitude": "11.857666858136"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mayrhofner Bergbahnen",
+    "streetAddress": "Kohlstatt",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 622 77 ",
+    "email": "info@mayrhofner-bergbahnen.com",
+    "url": "http://www.mayrhofner-bergbahnen.com"
+  },
+  "description": "Skibus Hippach H1, H2, H3, H4 vom 24.12.2015 - 28.03.2016",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e2c3dd0-55fa-4b1b-80cc-0a32fb596475/99/image.jpg",
+      "caption": "Logo"
+    }
+  ]
+}

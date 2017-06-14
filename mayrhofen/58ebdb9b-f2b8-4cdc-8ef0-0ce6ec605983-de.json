@@ -1,0 +1,238 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel",
+    "BedAndBreakfast",
+    "Hostel"
+  ],
+  "url": [
+    "http://www.dominikushuette.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d58EBDB9B-F2B8-4CDC-8EF0-0CE6EC605983"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dornauberg 104",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5286 52 16 ",
+    "email": "info@dominikushuette.at",
+    "url": "http://www.dominikushuette.at"
+  },
+  "name": "Dominikushütte",
+  "description": [
+    "Herzlich Willkommen liebe Mountainbikers, Wanderer und Naturgenießer!!\n\nWir sind die stolzen Besitzer vom Alpengasthaus Dominikushütte. Auf einen Besuch freuen wir uns sehr! Sie werden eine unvergessliche Zeit bei uns verbringen.\n\nHerzlichst, eure Familie Lapp\n\n\n",
+    "Anreise \nPKW \u0026 Motorrad\nIns Zillertal kommen Sie von Salzburg, München oder Wien aus über die Inntalautobahn (A93-E45), Ausfahrt Zillertal, und der B169 folgend nach Mayrhofen weiter nach Ginzling. Eine weitere Anfahrtsmöglichkeit besteht über das Salzachtal (B311) von Zell am See kommend über die B168, B165 und die B169 nach Mayrhofen und weiter nach Ginzling. \n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab4f531b-0505-459e-887f-79024ed4e361/99/image.jpg",
+      "caption": "Picture 130323424"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53b85302-5371-4645-a83f-581432f75b38/99/image.jpg",
+      "caption": "Dominikushütte Ginzling - Sommerfoto"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/18ef7576-0ad6-4516-b433-0211e9f87ceb/99/image.jpg",
+      "caption": "Dominikushütte Ginzling - Aussicht "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ddd9d71c-c5c7-4548-883b-0c0122a885eb/99/image.jpg",
+      "caption": "Dominikushütte Ginzling - Familie Lapp"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab903c9b-a6f3-47c3-817c-07c4d56bf3da/99/image.jpg",
+      "caption": "Dominikushütte Ginzling - Unterhaltung "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ef801cd-d282-438d-b053-5a8e9e7593ff/99/image.jpg",
+      "caption": "Dominikushütte Ginzling - Unterhaltung 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ff0d792a-c0e9-40d6-be67-afba5c8f244d/99/image.jpg",
+      "caption": "restaurant DMH"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0fac0df8-c968-450f-a019-8809ab1334e2/99/image.jpg",
+      "caption": "Terasse DMH"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0398417931479",
+    "longitude": "11.7022534172615"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Vierbettzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Vierbettzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Zweibettzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zweibettzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Mehrbettzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Mehrbettzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

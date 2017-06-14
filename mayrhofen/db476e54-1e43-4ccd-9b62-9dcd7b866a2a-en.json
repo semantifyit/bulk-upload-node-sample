@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Service"
+  ],
+  "name": "Eni-Gutmann GmbH",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Eni-Gutmann GmbH",
+    "streetAddress": "Talstraße 25",
+    "addressLocality": "Ramsau im Zillertal",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "+43 5282 21563"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/25c51e90-dc35-4ff9-ba76-8d48eedd3c33/99/image.jpg",
+      "caption": "Eni-Logo"
+    }
+  ],
+  "url": [
+    "https://www.gutmann.cc"
+  ]
+}

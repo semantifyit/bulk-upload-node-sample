@@ -1,0 +1,241 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://",
+    "http://maps.mayrhofen.at/?foreignResource\u003d94EAECA5-76F6-40C4-9184-61C42F58509F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Taschler Michael",
+    "streetAddress": "Ramsau 300",
+    "addressLocality": "Ramsau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3417",
+    "faxNumber": "0043 5284 5477 - 44",
+    "email": "info@hanslerhof.com",
+    "url": "http://www.taschler-zillertal.at"
+  },
+  "name": "Appartments Taschler",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8dd3d5c2-4eff-4ca6-ac55-ed3136ac9b42/99/image.jpg",
+      "caption": "Appartments Taschler Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3b05bade-d3d9-432e-870c-e6aa861328b3/99/image.jpg",
+      "caption": "Appartments Taschler Ramsau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cac5ea3f-888a-4828-bcde-77cba2a43a07/99/image.jpg",
+      "caption": "Appartments Taschler - Terrasse Wohnung 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fde0a0ac-dcdb-418c-a356-13b945995696/99/image.jpg",
+      "caption": "Appartments Taschler - Terrasse von  Wohnung 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bdc4bffb-ff08-4254-92bc-9f6634b05c2b/99/image.jpg",
+      "caption": "Appartments Taschler - Küche mit Wohnsitzecke "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f740d32c-a0f6-4b9d-b8ce-deb0b06ffcb4/99/image.jpg",
+      "caption": "Appartments Taschler - Esstisch und Wohnsitzecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad0c63b6-e5d5-4edd-b37d-ac28ac39518c/99/image.jpg",
+      "caption": "Appartments Taschler - Esstisch für 4-6 Personen "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f288e5d0-676b-4d38-a950-974275a17df3/99/image.jpg",
+      "caption": "Appartments Taschler - Esstisch WH 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8b281a27-d820-4e83-a070-a35122d9b753/99/image.jpg",
+      "caption": "Appartments Taschler - DZ - trennbare Betten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/48250618-b5b8-4f55-9fb1-2fa33c90f158/99/image.jpg",
+      "caption": "Appartments Taschler - Doppelzimmer mit Dusche "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c537406-8d3d-4f2e-8537-a8fd53b58878/99/image.jpg",
+      "caption": "Appartments Taschler - jedes Zimmer mit Dusche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7480d178-b398-4fa6-8204-9a0a9f7300d2/99/image.jpg",
+      "caption": "Appartement-Taschler-Web-by-BAUSE-035"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a3d7b07-ce21-4503-94d3-caa9b39e454d/99/image.jpg",
+      "caption": "Appartement-Taschler-Web-by-BAUSE-033"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ced24582-f7b4-4b79-8cf3-51135c5d3eed/99/image.jpg",
+      "caption": "Biken_Pfitscher-Joch-780x520[1]"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fb745700-09ed-489c-b23b-13065f063e21/99/image.jpg",
+      "caption": "csm_events_advent-foto_gerhard_berger__3__79b8325f"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef3f431e-e575-4f23-bbf9-619bb0f41e14/99/image.jpg",
+      "caption": "csm_hallenbad_erlebnisbad_mayrhofen_cicero_design_"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/796f8a13-a7e7-420b-831a-623db7d3ff87/99/image.jpg",
+      "caption": "csm_klettersteige_mayrhofen_hippach_bernd_ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1776bb89-df53-4cbf-a447-e818f034481f/99/image.jpg",
+      "caption": "csm_Klettersteigeröffnung_ElisabethKröll__97__01_4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9be95667-b555-4b80-832f-98d8803d62a4/99/image.jpg",
+      "caption": "csm_Klettersteigeröffnung_StefanieEder__69__c30887"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/de19028d-029a-4849-860c-baa30b77a62b/99/image.jpg",
+      "caption": "csm_events_advent-foto_gerhard_berger__2__129836b5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/27257b5e-320f-425d-a184-b136467bf5ca/99/image.jpg",
+      "caption": "csm_naturpark_sommer_schwarzenstein-foto_naturpark"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/93ce8c0f-26fc-4246-aead-c323fc3ab0fd/99/image.jpg",
+      "caption": "csm_naturpark_sommer_sulzbodenalm-foto_naturpark_z"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/365adbf7-fdf3-47de-a2e8-91b37517cf8f/99/image.jpg",
+      "caption": "csm_naturpark_sommer_hochfeiler-foto_walter_ungera"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da841f06-e5ae-49df-a487-6d75eae49595/99/image.jpg",
+      "caption": "4 Edelweis"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81cda954-ac7f-4895-bd04-dc52d7d763d7/99/image.jpg",
+      "caption": "Wappen 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/645af21c-08d0-48f0-91d1-beb855d7a371/99/image.jpg",
+      "caption": "DSC_1624"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6afe5e2e-be20-4074-89b2-2c33ee1f98b0/99/image.jpg",
+      "caption": "DSC_1624"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aea50ea0-11df-4217-bd42-485b301f9451/99/image.jpg",
+      "caption": "DSC_1623"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/03a35307-32c8-4476-9b34-19e0b4b3e0ec/99/image.jpg",
+      "caption": "DSC_1622"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d0dee1b-3a40-43bf-9b2b-67066da3135b/99/image.jpg",
+      "caption": "DSC_1621"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf3615df-27c8-4272-93ef-7e8f62b817bc/99/image.jpg",
+      "caption": "DSC_1621"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac505310-f438-489d-a05d-cabbaf973b46/99/image.jpg",
+      "caption": "DSC_1617"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6e205426-c045-445a-8677-69f14a8e41fe/99/image.jpg",
+      "caption": "DSC_1623"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2041576696147",
+    "longitude": "11.8748795986176"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент, shower, toilet, 2 спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

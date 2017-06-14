@@ -1,0 +1,58 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Library"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Bibliothek Hippach u. Umgebung"
+    },
+    {
+      "@language": "de",
+      "@value": "Bibliothek Hippach u. Umgebung"
+    },
+    {
+      "@language": "ru",
+      "@value": "Bibliothek Hippach u. Umgebung"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2033756",
+    "longitude": "11.8654248"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bibliothek Hippach u. Umgebung",
+    "streetAddress": "Johann-Sponring-Str. 80",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0043 5282 22600 19",
+    "email": "bibliothek@hippach-schwendau.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/604fabae-4a2e-438c-af77-59e1316c8945/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Bibliothek Hippach "
+        },
+        {
+          "@language": "de",
+          "@value": "Bibliothek Hippach "
+        },
+        {
+          "@language": "ru",
+          "@value": "Bibliothek Hippach "
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

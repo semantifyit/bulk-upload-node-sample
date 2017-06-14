@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Camping Kröll",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1759014615804",
+    "longitude": "11.8693006038666"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Denggerhof, Landhotel",
+    "streetAddress": "Laubichl 127",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62580 52",
+    "faxNumber": "0043 5285 62580 56",
+    "email": "denggerhof@alpenparadies.com",
+    "url": "http://www.denggerhof.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2745075f-5788-4c41-9443-ea1f8295ddc0/99/image.jpg",
+      "caption": "Camping Kröll"
+    }
+  ],
+  "url": [
+    "http://www.alpenparadies.com"
+  ]
+}

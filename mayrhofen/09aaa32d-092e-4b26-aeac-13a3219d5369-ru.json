@@ -1,0 +1,172 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.mountainandsoul.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d09AAA32D-092E-4B26-AEAC-13A3219D5369"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mountain \u0026 Soul, Life Style Hotel",
+    "streetAddress": "Ramsau 425",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 676 88632405",
+    "faxNumber": "0043 5282 22048",
+    "email": "info@mountainandsoul.at",
+    "url": "http://www.mountainandsoul.at"
+  },
+  "name": "Life Style Hotel Mountain \u0026 Soul",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "169"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ebb680ea-9159-4625-84ee-cb04ecbd3338/99/image.jpg",
+      "caption": "Life Style Hotel - Winterbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0af3829c-e724-4076-abfc-83c7c46945cf/99/image.jpg",
+      "caption": "Life Style Hotel - Winterbild1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a76ca4d8-65a8-4c26-b777-d546e09a99dd/99/image.jpg",
+      "caption": "Life Style Hotel - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3671aabe-24ef-4906-a447-6fe2061320df/99/image.jpg",
+      "caption": "Life Style Hotel - Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28729f1c-3354-4137-b8ed-77493be02e43/99/image.jpg",
+      "caption": "Life Style Hotel - Zimmer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/526158ae-f10a-4fb4-8922-037b4207fa93/99/image.jpg",
+      "caption": "Life Style Hotel - Zimmer4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50a68aba-fe3c-4341-ad19-9b20d0fd5dac/99/image.jpg",
+      "caption": "Life Style Hotel - Zimmer5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a702984d-5343-4f14-9ba5-3ec6fc5a7371/99/image.jpg",
+      "caption": "Life Style Hotel - Aussicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2050068363404",
+    "longitude": "11.8770468235016"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "комната на двоих, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "комната на двоих, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "комната на двоих, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "78.50",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

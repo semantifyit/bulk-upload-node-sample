@@ -1,0 +1,90 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Alpengasthof In der Au 1269m"
+    },
+    {
+      "@language": "de",
+      "@value": "Alpengasthof In der Au 1269m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Alpengasthof In der Au 1269m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.122003",
+    "longitude": "12.0096749"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "In der Au",
+    "streetAddress": "Zillergrund 69",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5289 214"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Auf einem ebenen Stück des Talbodens gelegen, bietet der ganz in Holz gehaltene Gasthof eine wunderbare Aussicht auf die Zillertaler Alpen. Ein netter Gastgarten lädt zur Einkehr ein, auch wenn man mit dem Auto unterwegs ist. Von hier aus sind auch einige Seitentäler des Zillergrundes zu erwandern.\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\ngeschlossen \n\nÜbernachtung möglich "
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nclosed\n\novernight stay possible "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/558f7136-a825-4a2b-a50f-b8b5ca320929/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": " in der Au"
+        },
+        {
+          "@language": "de",
+          "@value": " in der Au"
+        },
+        {
+          "@language": "ru",
+          "@value": " in der Au"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3021b683-441d-4adf-a872-5b3b01d62afc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "in der Au "
+        },
+        {
+          "@language": "de",
+          "@value": "in der Au "
+        },
+        {
+          "@language": "ru",
+          "@value": "in der Au "
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.zillergrund.com/betriebe.htm"
+  ]
+}

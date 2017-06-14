@@ -1,0 +1,93 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ferienhaus-beim-jaga.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d4FE6675F-619F-450F-A39F-8067D3643658"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus, Jaga",
+    "streetAddress": "Stumpfau 685a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 78441",
+    "email": "wechselberger.martin@aon.at",
+    "url": "http://www.ferienhaus-beim-jaga.at"
+  },
+  "name": "Haus Jaga",
+  "description": "Welcome! \nOur house is in Mayrhofen in the southern local edge \nTo the ski bus stop it is 2 minutes \nto the supermarket also 2 minutes \nto the village centre 10-minutes walking time\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b99e5a41-ec42-43c2-97f1-26beb972d760/99/image.jpg",
+      "caption": "Ansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9d678741-7813-4ff0-8277-2d9a0ee286a1/99/image.jpg",
+      "caption": "Winteransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3cdbe173-f816-4584-89cd-c3c7d3864c6f/99/image.jpg",
+      "caption": "Winteransicht2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2037760d-48c2-438d-896d-3975554db771/99/image.jpg",
+      "caption": "Winteransicht3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0630ef41-9c9e-4b06-af2a-d31032f3c4c7/99/image.jpg",
+      "caption": "Winteransicht4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98451693-7fb9-464c-82a5-e62397087ba5/99/image.jpg",
+      "caption": "Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fe23cd7a-2665-4d76-b982-c5112e05b60e/99/image.jpg",
+      "caption": "Eingang"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1596612820515",
+    "longitude": "11.8512922525406"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Holiday home, shower, toilet, 3 bed rooms",
+      "description": "Our haus has a area about 10,30 x 8,80 meters and a living area from ca. 140 m²\nThe comfortable kitchen offers pace for 8 up to 10 persons\nWe offer:\n- two bathrooms and two toilets\n-three double rooms, one sleeping couch in the living room, as well as two tvs,..\n- one skiing cellar with a ski boots dryer, wash machine and a clothes dryer\n\nprice incl: bedlinen and towels\n\nOur extra offer if you want:\nbread roll service, if you arrive on sunday we can fill your fridge\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "holiday house/3 bedrooms/shower, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

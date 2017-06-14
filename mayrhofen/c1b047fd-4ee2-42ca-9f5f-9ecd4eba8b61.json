@@ -1,0 +1,401 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dC1B047FD-4EE2-42CA-9F5F-9ECD4EBA8B61"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Müllauer",
+    "streetAddress": "Ramsau 304",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 650 7401683 ",
+    "email": "muellauer.martina@a1.net"
+  },
+  "name": "Gästehaus Müllauer",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Im Zentrum von Ramsau mit herrlichem Ausblick auf die Zillertaler Alpen,ruhig gelegen, leicht erreichbar.Parkplätze, mitten zwischen mehreren Ski-Gebieten. \nZimmer mit getrennter großer Wohnküche. Frühstück auf Wunsch möglich.\nLiftnahe,Skibus- und Dörferbushaltestelle\nRestaurants, Pub´s und Geschäfte nahe\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Gemütliche und helle Zimmer mit Dusche,WC, großer Balkon.\nGroße Wohnküche mit Sitzecke,Geschirr,Bettwäsche, Handtücher incl.\nSat-TV, WLAN\nSkiraum, Brotservice.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Check-in: 15:00\nCheck-out: 09:00"
+    },
+    {
+      "@language": "en",
+      "@value": "Zenter of Ramsau; quiet rooms with balkony and beautiful view, \nlocated in the mittle of several great skiareas,to reach within a few minutes\nSkibus-stop, Restaurants, shop very near.\nEasily to reach, parking place.\nSkiroom\nEnglish-speaking"
+    },
+    {
+      "@language": "en",
+      "@value": "sunny rooms with shower, WC, balcony with beautiful view to the mountains \nseperated great kitchen with Sat-TV, WLAN\ndishes and linen incl.\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Locaded in the center of Ramsau, next to Mayrhofen, with beautiful view to the Mountains of Zillertal. Easily to reach, parking in front of the house.\nBreakfast on demand, W-Lan, near great Ski-areas, free ski-bus beside, restaurants pub´s, shops."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59967e63-424a-472a-bb3e-157a1c0f152e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Müllauer Ramsau - Sommer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Müllauer Ramsau - Sommer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Müllauer Ramsau - Sommer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9cf1d53a-6c10-4e34-bae9-ecbb754149a0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Müllauer Ramsau - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Müllauer Ramsau - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Müllauer Ramsau - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b87b3c37-dff6-47bf-962b-438a62651d42/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Müllauer Ramsau - Lage"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Müllauer Ramsau - Lage"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Müllauer Ramsau - Lage"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/93bee544-8fbf-4eec-b5cb-3455e4dea672/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerurlaub-1"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerurlaub-1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerurlaub-1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/22e66e70-a4de-42c3-8be8-ccc2648df495/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerurlaub-5"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerurlaub-5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerurlaub-5"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc23cf54-eac9-4e58-9c6e-ce12560616be/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-1"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/188a2eda-0d20-4a97-b737-17e27222e70e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-2"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f02ca45c-84b0-418c-8a0a-0ea279ffccd6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-3"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5eff9168-c0d1-4ead-9619-f19f5915b258/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-4"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26bc61e3-79c2-4e52-b04e-e345bb66023e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-5"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-5"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/582ad320-fcbc-41fc-93c1-f8b24c7365f2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerurlaub-2"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerurlaub-2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerurlaub-2"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2039936658912",
+    "longitude": "11.8755930662155"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, Душ"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer mit Dusche, WC,Balkon mit herrlichem Ausblick.\nGetrennte neue große Wohnküche, Sitzecke mit SAT-TV,WLAN.\nGeschirr, Bettwäsche, Handtücher incl.\nLeicht erreichbar, Parkplätze vor Haus.\nNahe Skibushaltestelle, mitten mehreren Skigebieten gelegen.\nRestaurants, Geschäfte in der Nähe."
+        },
+        {
+          "@language": "en",
+          "@value": "Double room with shower, WC, balcony with stunning views.\nSeparate new large kitchen, sitting room with satellite TV, Wi-Fi.\nDishes, linens, towels incl.\nEasily accessible, parking in front of house.\nNear the bus stop, located in the middle of several ski areas.\nRestaurants, shops nearby.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, Душ"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "zentrale Lage,Balkon mit schöner Aussicht.\nGemütliche Zimmer mit Dusche, WC, Balkon.\nAufenthaltsraum, Wohnküche mit Sat-TV,WLAN.\nFrühstück auf Wunsch.\nParkplatz, Liftnähe, Bushaltestelle\nnähe Haus.\nZillerpromenade,Radweg,Wald,Schwimmbad,\nGasthäuser nähe.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "central location, balcony with beautiful views.\nComfortable rooms with shower, toilet, balcony.\nLounge, kitchen with satellite TV, Wi-Fi.\nBreakfast on request.\nParking, lift nearby, bus stop\nnear house.\nZillerpromenade, bike trail, forest, swimming pool,\nInns near.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "17.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "17.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

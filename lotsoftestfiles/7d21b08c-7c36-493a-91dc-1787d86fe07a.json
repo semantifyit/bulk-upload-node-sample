@@ -1,0 +1,631 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.youtube.com/embed/hVLr8k0vlwM?rel\u003d0",
+    "http://www.apartart.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apartart",
+    "streetAddress": "Zillerlände 495a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 75082182",
+    "email": "info@apartart.at",
+    "url": "http://www.apartart.at"
+  },
+  "name": "ApartART",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Willkommen in unserem neuen „Lifestyle Appartement“ in Top Lage im Herzen vom Zillertal! Unser Haus befindet sich in unverbauter, ruhiger und doch zentraler Lage in Mayrhofen – welches das touristische Herz des Zillertales ist. In nur wenigen Gehminuten erreichen Sie die Ahorn- und Penkenbahn, das Ortszentrum, zahlreiche Restaurants, Bars sowie die Shoppingmeile von Mayrhofen.\nDie Kulisse rund um das Haus ist einfach atemberaubend – Ausblick auf die Zillertaler Bergwelt und bietet eine Menge Möglichkeiten.  Das ganze Jahr über warten unzählige Abenteuer und Ausflugsziele in der freien Natur auf Sie. Im Sommer beim Wandern, Klettern, Biken, Schwimmen oder Golfen und im Winter beim Skifahren, Skitouren gehen, Langlaufen, Paragleiten oder Schlittenfahren."
+    },
+    {
+      "@language": "de",
+      "@value": "Wählen Sie zwischen einem voll ausgestatteten 80m2 Superior Apartment für 2-6 Personen oder einem 60m2 Smart Apart für 2-4 Personen.\n*südseitige Terrasse *gratis Wlan * eigener Schi- und Trockenraum mit Schischuhheizung * eigener Tiefgaragenparkplatz"
+    },
+    {
+      "@language": "de",
+      "@value": "Das Appartement ist am Anreisetag in der Regel ab 15:00 Uhr beziehbar und wird bis 19:00 Uhr für Sie reserviert. Sollten Sie später anreisen, bitten wir Sie, um Bekanntgabe. Früherer Check In bei Verfügbarkeit möglich.\nCheck-Out Zeit bis 9:30 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Welcome to our new \"lifestyle apartment\" in a great location in the heart of the Zillertal! Our house is located in an unspoilt, quiet but central location in Mayrhofen - which is the tourist heart of the Zillertal. In just a few minutes walk from the \"Ahornbahn\" and \"Penkenbahn\" and the town center, numerous restaurants, bars and the shopping street of Mayrhofen.\nThe scenery around the house is simply stunning - views of the Zillertal Alps and offers a lot of opportunities. Throughout the year there are countless adventures and attractions in the great outdoors on you. In summer hiking, climbing, biking, swimming or golfing and skiing in winter, ski-tours, cross-country skiing, paragliding and sledding."
+    },
+    {
+      "@language": "en",
+      "@value": "Choose between a full featured 80m2 Superior Apartment for 2-6 people or a 60m2 Smart Apart for 2-4 persons.\n* south-facing terrace * free WiFi * own ski and drying room with ski boot heating * own underground car park space"
+    },
+    {
+      "@language": "en",
+      "@value": "The Appartment will be available from15:00 o\u0027clock and remain reserved to 19:00 o\u0027clock. Please inform the house if you will arrive later then 19:00 o\u0027clock. (Earlier Check if available possible!)\nWe please you to check-out of the Rooms till 09:30 am"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "24"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d2a74aa3-39a3-4453-a57b-ff5f0657a796/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ApartART Wohnküche 1"
+        },
+        {
+          "@language": "en",
+          "@value": "ApartART Wohnküche 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "ApartART Wohnküche 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94a7c594-5a5e-47cf-97a2-0acedca23ebf/99/image.png",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "logo"
+        },
+        {
+          "@language": "en",
+          "@value": "logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "logo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9b0c52f-e833-4bda-851c-d8bd188ca610/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Lage"
+        },
+        {
+          "@language": "en",
+          "@value": "location"
+        },
+        {
+          "@language": "ru",
+          "@value": ""
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c4a8cee-5785-41de-9396-4df4a1496e64/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "AlpenART Wohnküche 2"
+        },
+        {
+          "@language": "en",
+          "@value": "AlpenART Wohnküche 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "AlpenART Wohnküche 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6558d5bf-fe71-4383-8b0a-f37aa0fd45fb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "AlpenART Zimmer Lifestyle 1"
+        },
+        {
+          "@language": "en",
+          "@value": "AlpenART Zimmer Lifestyle 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "AlpenART Zimmer Lifestyle 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/492db49e-b54b-4845-824f-5d4b0016bbf8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "AlpenART Zimmer Lifestyle 2"
+        },
+        {
+          "@language": "en",
+          "@value": "AlpenART Zimmer Lifestyle 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "AlpenART Zimmer Lifestyle 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8d5e171c-51a5-4a1e-86c9-4d869035e651/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "AlpenART Lifestyle Apart"
+        },
+        {
+          "@language": "en",
+          "@value": "AlpenART Lifestyle Apart"
+        },
+        {
+          "@language": "ru",
+          "@value": "AlpenART Lifestyle Apart"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63ad1a1d-5faf-4e06-95f9-bac0675937bf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ApartArt Außenansicht1"
+        },
+        {
+          "@language": "en",
+          "@value": "ApartArt Außenansicht1"
+        },
+        {
+          "@language": "ru",
+          "@value": "ApartArt Außenansicht1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd7ddaf2-a9a6-4d20-bc36-7b6a448f77f2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "AlpenART Zimmer Smart"
+        },
+        {
+          "@language": "en",
+          "@value": "AlpenART Zimmer Smart"
+        },
+        {
+          "@language": "ru",
+          "@value": "AlpenART Zimmer Smart"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/665478b6-427d-46b3-803d-5e871862e15c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "AlpenART Ausblick Sofa"
+        },
+        {
+          "@language": "en",
+          "@value": "AlpenART Ausblick Sofa"
+        },
+        {
+          "@language": "ru",
+          "@value": "AlpenART Ausblick Sofa"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b00929c3-3eca-443c-9148-7afe4e70b441/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "AlpenART Lifestyle Smart Apart"
+        },
+        {
+          "@language": "en",
+          "@value": "AlpenART Lifestyle Smart Apart"
+        },
+        {
+          "@language": "ru",
+          "@value": "AlpenART Lifestyle Smart Apart"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c340eb9-5483-4bf9-bf41-3d2494d7bff6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ApartArt Terrassenausblick"
+        },
+        {
+          "@language": "en",
+          "@value": "ApartArt Terrassenausblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "ApartArt Terrassenausblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/364a20ca-602e-4b2c-965c-0a6e83165d7e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "AlpenART Badezimmer Lifestyle 1"
+        },
+        {
+          "@language": "en",
+          "@value": "AlpenART Badezimmer Lifestyle 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "AlpenART Badezimmer Lifestyle 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/01d75150-0a5b-4749-b3f0-4ac4436ab91b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "AlpenART Badezimmer Lifestyle 2"
+        },
+        {
+          "@language": "en",
+          "@value": "AlpenART Badezimmer Lifestyle 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "AlpenART Badezimmer Lifestyle 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fcb7a044-6df6-4d99-a64b-5abf5504dd74/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "AlpenART Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "AlpenART Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "AlpenART Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d5b6919b-0a79-48c1-b046-aed78373dedf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "AlpenART Flur"
+        },
+        {
+          "@language": "en",
+          "@value": "AlpenART Flur"
+        },
+        {
+          "@language": "ru",
+          "@value": "AlpenART Flur"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1097de9d-1235-4b1b-8718-4257a1c72311/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ApartArt Außenansicht2"
+        },
+        {
+          "@language": "en",
+          "@value": "ApartArt Außenansicht2"
+        },
+        {
+          "@language": "ru",
+          "@value": "ApartArt Außenansicht2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a0767ae-cdc9-4380-a73e-55ac3a929e5d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "AlpenART Logo"
+        },
+        {
+          "@language": "en",
+          "@value": "AlpenART Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "AlpenART Logo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1607e02-8042-46fc-85e6-4488da900885/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ApartArt während Konstruktion1"
+        },
+        {
+          "@language": "en",
+          "@value": "ApartArt während Konstruktion1"
+        },
+        {
+          "@language": "ru",
+          "@value": "ApartArt während Konstruktion1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eeb56a29-4ea9-4691-8f60-79d9af6bed0a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ApartArt während Konstruktion2"
+        },
+        {
+          "@language": "en",
+          "@value": "ApartArt während Konstruktion2"
+        },
+        {
+          "@language": "ru",
+          "@value": "ApartArt während Konstruktion2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d4538cf0-7508-4fb8-8c62-abcab0de7167/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ApartArt während Konstruktion3"
+        },
+        {
+          "@language": "en",
+          "@value": "ApartArt während Konstruktion3"
+        },
+        {
+          "@language": "ru",
+          "@value": "ApartArt während Konstruktion3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50b2a364-4afc-4795-8b8e-ae187de14cd7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ApartArt während Konstruktion4"
+        },
+        {
+          "@language": "en",
+          "@value": "ApartArt während Konstruktion4"
+        },
+        {
+          "@language": "ru",
+          "@value": "ApartArt während Konstruktion4"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1608078",
+    "longitude": "11.8625645"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Lifestyle apart: 80m2 (2 - 6 Personen)\n*Große, offene voll ausgestattete Wohnküche mit Eckbank und Sofa, 46\" Flat-TV\n*2 Doppelschlafzimmer mit Safes und Flat-TVs, jeweils mit exklusiven Badezimmern mit begehbarer Dusche, Schwallbrause und WC, Haarfön, Kosmetikspiegel, Radiostationen, Hand und Badetücher (ein Doppelschlafzimmer davon mit einem hochwertigem Schlafsofa für weitere 2 Personen)\n*eigene südseitig gelegene Terrasse\n*kostenloses High Speed-Wlan\n*Nichtraucherwohnung\n*Lichttherapie"
+        },
+        {
+          "@language": "en",
+          "@value": "Lifestyle Apart: 80m2 (2 - 6 persons)\n* Large open fully equipped kitchen with a corner seat and sofa, 46 \"flat screen TV\n* 2 double bedrooms with safes and flat-screen TVs, each with exclusive bathrooms with walk-in shower, dousing and toilet, hairdryer, cosmetic mirror, radio stations, hand and bath towels (one bedroom with an extra high quality sofa bed for 2 more people)\n* own south-facing terrace\n* Free high speed wireless internet\n* Non smoking apartment\n* Light Therapy"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Lifestyle apart"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "270.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "290.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Lifestyle smart apart: 60m2 (2 - 4 Personen)\n*Große, offene voll ausgestattete Wohnküche mit Eckbank und Sofa, 46\" Flat-TV\n*Doppelschlafzimmer mit Safe und Flat-TV und einem hochwertigem Schlafsofa für weitere 2 Personen\n*Ein exklusives Badezimmer mit begehbarer Dusche, Schwallbrause und WC, Haarfön, Kosmetikspiegel, Radiostatione, Hand und Badetücher\n*eigene südseitig gelegene Terrasse\n*kostenloses High Speed-Wlan\n*Nichtraucherwohnung\n*Lichttherapie"
+        },
+        {
+          "@language": "en",
+          "@value": "Lifestyle smart Apart: 60m2 (2 - 4 people)\n* Large open fully equipped kitchen with a corner seat and sofa, 46 \"flat screen TV\n* Double bedroom with safe and flat screen TV and a high quality sofa bed for 2 more people\n* An exclusive bathroom with a walk-in shower, dousing and toilet, hairdryer, cosmetic mirror, radio Station, hand and bath towels\n* own south-facing terrace\n* Free high speed wireless internet\n* Non smoking apartment\n* Light Therapy"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Lifestyle smart apart"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

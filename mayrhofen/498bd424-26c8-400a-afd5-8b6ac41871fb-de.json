@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ClothingStore"
+  ],
+  "name": "NKD",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.166681",
+    "longitude": "11.8625751"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "NKD",
+    "streetAddress": "Hauptstraße 438",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62824",
+    "email": "nkd@nkd.at",
+    "url": "http://www.nkd.com"
+  },
+  "description": "Günstige Mode, Wohn-Accessoires, Heimtextilien und mehr.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c955df6-2dc1-45dc-9115-7eef32295838/99/image.bmp",
+      "caption": "NKD"
+    }
+  ],
+  "url": [
+    "http://www.nkd.com"
+  ]
+}

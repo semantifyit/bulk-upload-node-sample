@@ -1,0 +1,140 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.veitlerhof.ag.vu",
+    "http://maps.mayrhofen.at/?foreignResource\u003d21B9DE37-55F7-4B9C-8C0F-59CA129BA359"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Veitlerhof",
+    "streetAddress": "Schwendberg 322",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4191",
+    "faxNumber": "0043 5282 4191",
+    "email": "schoeser.veitlerhof@aon.at",
+    "url": "http://www.veitlerhof.ag.vu"
+  },
+  "name": "Veitlerhof",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/976dc13b-7831-4871-aa8b-c98b2f823177/99/image.jpg",
+      "caption": "Veitlerhof Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ffefaa6d-a61d-4480-9636-904455dd02e8/99/image.jpg",
+      "caption": "Veitlerhof Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/528443da-496f-4545-b82e-7af9dae51dcc/99/image.jpg",
+      "caption": "Kuh auf der Alm "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ddce0fc-75a7-4fc0-ba11-a739997735b0/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/65cb3844-a902-4472-a116-59c00172627f/99/image.jpg",
+      "caption": "bike mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/93edc4f1-5a18-47ef-aa26-1e79caf98534/99/image.jpg",
+      "caption": "skifahrer-in-action"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4aed752c-638f-4362-a8e5-1f0925839909/99/image.jpg",
+      "caption": "Sommer wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fb107735-1a90-447d-90e7-a8902c293274/99/image.jpg",
+      "caption": "Sommer_Gipfel_Panorama ("
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f435efbe-2c6a-4c3c-a71a-08e3e36ed712/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a36b303c-b705-4981-b449-213a4240a342/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e5f2a3c4-4f1c-42bc-b9b8-350a019de84c/99/image.jpg",
+      "caption": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1f4e845e-531f-4ea8-a742-b38619c0af68/99/image.jpg",
+      "caption": "Bauer__Landwirt_Kulinarik_Brettljause_Wiese (Archi"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2052801703774",
+    "longitude": "11.8616080284119"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент, shower, toilet, 21спальни",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

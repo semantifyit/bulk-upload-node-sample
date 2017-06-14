@@ -1,0 +1,311 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.tirolerland.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d1C26C8CC-F029-400F-8536-174470E8551F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tirolerland, Haus",
+    "streetAddress": "Rauchenwald 651",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 3350666",
+    "faxNumber": "0043 5285 2022 7",
+    "email": "info@tirolerland.at",
+    "url": "http://www.tirolerland.at"
+  },
+  "name": "Haus Tirolerland",
+  "description": [
+    "Nur rund 3 Minuten von der Seilbahn zum Skigebiet Penken/Horberg und einen 5-minütigen Spaziergang vom Zentrum von Mayrhofen entfernt begrüßt Sie das Haus Tirolerland und bietet Zimmer mit eigener Dusche, WC und Balkon. Jeden Morgen können Sie sich gestärkt nach einem guten Frühstück, ihren Urlaubsaktivitäten widmen. \nDirekt in Mayrhofen laden viele Restaurants mit typisch Tiroler Küche zu einem Besuch ein. WLAN steht Ihnen im Haus Tirolerland in allen Bereichen zur Verfügung und Ihr Fahrzeug parken Sie kostenlos an der Pension. Ein Lebensmittelgeschäft und eine Bushaltestelle befinden sich in unmittelbarer Nähe. Den Hintertuxer Gletscher erreichen Sie innerhalb von 30 Fahrminuten und zum Freizeitpark Zell mit einem Innenpool und verschiedenen Sportplätzen gelangen Sie nach 10 km.\n",
+    "Preise inklusive Frühstück",
+    "Check-in : um 11.00 Uhr, Check-out : 9.30 Uhr\nAnreise: Nehmen Sie die Inntalautobahn bis zur Zillertal Ausfahrt, von dort aus noch 30km die B169 entlang. Angekommen am Bahnhof in Mayrhofen fahren Sie gerade aus bis zum Lebensmittelgeschäft Spar. ",
+    "skiurlaub,wanderurlaub,schiurlaub,bergtouren,familienurlaub,abenteuerurlaub,erholung,skitouren,"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "77"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bdfe471b-c6fb-404e-af9c-58775b8e8d9d/99/image.jpg",
+      "caption": "Haus Tirolerland - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5deb7e94-47eb-4e88-ada9-edc65637f636/99/image.jpg",
+      "caption": "Haus Tirolerland Mayrhofen - Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa3ea157-fa7f-42f1-88d3-e5a491a44a05/99/image.jpg",
+      "caption": "Haus Tirolerland Mayrhofen - Brunnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c4d17c6-68bb-40e5-84c9-662dce56c4fa/99/image.jpg",
+      "caption": "Haus Tirolerland Mayrhofen - Garten5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/69d8ac6f-32c7-4347-82f6-f9513808c731/99/image.jpg",
+      "caption": "zillertal-rustikalJPG"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4dcbd0c8-a56e-43dd-9ddb-254bd7c46fa2/99/image.jpg",
+      "caption": "Haus Tirolerland Mayrhofen - Garten4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fe4bf21f-af79-4adb-9ba0-b23116639dd9/99/image.jpg",
+      "caption": "Haus Tirolerland Mayrhofen - Garten3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bd064207-3edd-4b4b-a4c4-da0b9ea800f3/99/image.jpg",
+      "caption": "Haus Tirolerland - Blume"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5639901b-99e7-4939-ba3b-739ab29b9fa6/99/image.jpg",
+      "caption": "Haus Tirolerland - Deko2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/08e18d1f-3140-4272-aa17-a64d6e2d2246/99/image.jpg",
+      "caption": "Haus Tirolerland - Almblume"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/327c3b35-e63d-4793-bd43-87e517ca002c/99/image.jpg",
+      "caption": "Stoamandl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ded9b89e-fbfd-470c-8bf3-41467cbc1064/99/image.jpg",
+      "caption": "IMG_2598"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/00e52c30-b48b-4e0f-a6bb-83d880024e67/99/image.jpg",
+      "caption": "IMG_2596"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f581203-2338-45b9-a4c3-ac05ca6b2946/99/image.jpg",
+      "caption": "Haus Tirolerland Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3108e439-dc28-4d54-863f-64b707bd5d33/99/image.jpg",
+      "caption": "Haus Tirolerland Mayrhofen - Garten Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f7150c9-425c-4c87-ad6d-dce2150f6c96/99/image.jpg",
+      "caption": "bad1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ab958d0-d2b1-4f49-b20b-8b04ea092715/99/image.jpg",
+      "caption": "bad2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1a86158d-9e0a-454b-ab58-68b3508701ad/99/image.jpg",
+      "caption": "zillertal-bettl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/652ba4bd-219b-4860-a155-4e6fb9b98a99/99/image.jpg",
+      "caption": "zillertal-zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d1d5b9b-67b0-4677-a6f0-6c3703309484/99/image.jpg",
+      "caption": "zillertal-kinderbett"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5b8e1886-e686-4116-b19e-2d5ce5f8d5a0/99/image.jpg",
+      "caption": "Haus Tirolerland - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/854ff180-64db-482b-9c0e-664c1ea5f71c/99/image.jpg",
+      "caption": "Zillertal-surraounding"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c0427f4a-4d28-44a3-bad8-a78022336d1e/99/image.jpg",
+      "caption": "Wandern-Zittauerhütte 15"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b4cacbb8-5182-47d2-a832-04e50dd162aa/99/image.jpg",
+      "caption": "Wandern-Berlinerhütte 17"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1ce4852-fd8b-490c-b72e-32dab593882c/99/image.jpg",
+      "caption": "Wandern-Berlinerhütte 6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4df88b8d-d221-47ac-8469-a1c684da1571/99/image.jpg",
+      "caption": "zillertal-kultur"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac65aee1-dc80-4a5e-8de5-cc247b7c1c12/99/image.jpg",
+      "caption": "Haus Tirolerland Mayrhofen - Garten Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a277a4af-8e66-4019-b869-ca8669d2e8d8/99/image.jpg",
+      "caption": "Haus Tirolerland - Deko"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a0dc03cf-41b5-4b95-86ee-ab63b2b7f6dd/99/image.jpg",
+      "caption": "Winterlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0b085c65-a252-4073-aceb-a8a2280ff86f/99/image.jpg",
+      "caption": "Winterlandschaft 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8b3308e3-098b-4627-bedf-076b36d1adc5/99/image.jpg",
+      "caption": "Winterlandschaft 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf32f0ee-d512-4ff2-8c00-487c79b5bae5/99/image.jpg",
+      "caption": "Winter Weg zur Kristallhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2d7a4076-3042-4e3d-8837-13fe2b4870ee/99/image.jpg",
+      "caption": "Winter Weg zur Kristallhütte (2)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6293501f-52ee-4277-89a0-d1c99245242c/99/image.jpg",
+      "caption": "Winter sicht aufs Thal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/79b5bc59-f710-4ab0-a56c-9de61e5c12a7/99/image.jpg",
+      "caption": "Haus Tirolerland Mayrhofen - Stimmung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64068063-e2ce-4820-9c1d-a05f1690d165/99/image.jpg",
+      "caption": "Haus Tirolerland Mayrhofen - Stimmung1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1611895950082",
+    "longitude": "11.8574666976929"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Gemütliches Doppelzimmer mit Doppelbett, Dusche/WC und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Klassik",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "58.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "47.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer",
+      "description": "Zimmer mit eigener Dusche, WC und Balkon. Jeden Morgen können Sie sich gestärkt nach einem guten Frühstück, ihren Urlaubsaktivitäten widmen. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "62.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "31.67",
+          "maxPrice": "62.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "31.50",
+          "maxPrice": "62.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

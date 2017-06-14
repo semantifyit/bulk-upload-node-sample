@@ -1,0 +1,135 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus.fleidl.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d7B8A6717-725E-4846-A6E5-B8C69960933E"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Förstersteig 233",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63590",
+    "faxNumber": "0043 5285 63590",
+    "email": "fw.fleidl@aon.at",
+    "url": "http://www.haus.fleidl.at"
+  },
+  "name": "Haus Fleidl Brigitte",
+  "description": [
+    "Central, quiet location.",
+    "incl. heating, electricity, bed linen, hand towels, crockery and in-between-cleaning",
+    "Use the B169 to Mayrhofen, at the roundabout take the Einfahrt Nord towards the petrol station, right at the next junction, next left, then next junction right then next left again into the \"Förstersteig\"."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f7679480-45f6-4a8a-aa7c-025d071b65ee/99/image.jpg",
+      "caption": "Haus Fleidl Mayrhofen - Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63fa6c4e-a674-4c5d-857c-1f6fb132490a/99/image.jpg",
+      "caption": "Haus Fleidl Mayrhofen - Sommer 2 "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1673753482167",
+    "longitude": "11.8669831752777"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 1 bed room",
+      "description": "Holiday apartment suitable for 2-3 persons, approx. 60m², bedroom with shower/WC, cooking facilities, seating and dining area, balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/1 bedroom/shower, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "59.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "79.00",
+          "maxPrice": "91.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Holiday apartment suitable for 2-5 persons, approx. 60-78m², 1-2 bedrooms, lounge, kitchen, shower/WC, balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "59.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "79.00",
+          "maxPrice": "91.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "99.00",
+          "maxPrice": "114.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "115.00",
+          "maxPrice": "136.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

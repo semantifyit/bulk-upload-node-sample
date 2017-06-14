@@ -1,0 +1,73 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ClothingStore"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Elviro Zabaione"
+    },
+    {
+      "@language": "de",
+      "@value": "Elviro Zabaione"
+    },
+    {
+      "@language": "ru",
+      "@value": "Elviro Zabaione"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1689437",
+    "longitude": "11.865256"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Elviro Zabaione",
+    "streetAddress": "Hauptstraße 401",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63053",
+    "email": "office@elviro.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dcd590db-1cb1-493b-9c89-689cfa581977/99/image.png",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e8871b1-fdfc-4133-986a-6af90f0e1cf3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Elviro Zabaione"
+        },
+        {
+          "@language": "de",
+          "@value": "Elviro Zabaione"
+        },
+        {
+          "@language": "ru",
+          "@value": "Elviro Zabaione"
+        }
+      ]
+    }
+  ]
+}

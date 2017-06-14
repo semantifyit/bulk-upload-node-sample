@@ -1,0 +1,161 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.zillertal-fewo.com"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dornauberg 38",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "email": "kruchen@web.de",
+    "url": "http://www.zillertal-fewo.com"
+  },
+  "name": "Alpin Lodge",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/30c4bfa3-d5d7-465d-a2d4-a5bbcb502cc9/99/image.jpg",
+      "caption": "411"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d87bb4ea-e9a1-4ea9-ba9a-086e33658fac/99/image.jpg",
+      "caption": "413"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6cedea9e-8d25-483b-8f6b-d7c8cedc0d54/99/image.jpg",
+      "caption": "416"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/042f22ff-bde1-413f-9c0d-09900fd23e08/99/image.jpg",
+      "caption": "5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28c45918-1e12-40f0-bbb8-73c90cb58b6c/99/image.jpg",
+      "caption": "271"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d469d3fe-3d73-47a4-86ac-b202e1dc7046/99/image.jpg",
+      "caption": "272"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3135f684-aa1d-462d-888a-56f4a31e6cfb/99/image.jpg",
+      "caption": "278"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3d88237e-4164-4b93-ac2d-ea854346fb5b/99/image.jpg",
+      "caption": "283"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e5ed050-1b85-46c8-b7cf-2bb70ee4f343/99/image.jpg",
+      "caption": "284"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bfe7c2b7-c09d-433b-a053-d187ba78a72b/99/image.jpg",
+      "caption": "268"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d093747b-74cc-4dc2-b612-bb447c06b452/99/image.jpg",
+      "caption": "418"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f2eac711-450c-4610-90f0-df56430cc1a2/99/image.jpg",
+      "caption": "IMG_7555"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8daa9cea-a6bf-4f6e-874f-57a040506c9f/99/image.jpg",
+      "caption": "IMG_7553"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7810d886-0a12-4862-ae69-d45a7f3ead39/99/image.jpg",
+      "caption": "IMG_7559"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68d0a1c0-2804-4e1a-b146-ca86e332c918/99/image.jpg",
+      "caption": "IMG_7561"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0991066",
+    "longitude": "11.806191"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "120.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "120.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "120.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "120.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

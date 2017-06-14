@@ -1,0 +1,127 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Panora(h)ma Restaurant 2000m"
+    },
+    {
+      "@language": "de",
+      "@value": "Panora(h)ma Restaurant 2000m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Panora(h)ma Restaurant 2000m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1672331131622",
+    "longitude": "11.8007272481918"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Panora(h)ma Restaurant Penken",
+    "streetAddress": "Penken",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 918 2021 ",
+    "email": "info@penken-panorahmarestaurant.at",
+    "url": "www.penken-panorahmarestaurant.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Willkommen im Penken Panorahmarestaurant\nDer neue Treffpunkt in 2000m Höhe bei der Bergstation Knorren-Penken (Harakirilift) im Skigebiet der Mayrhofen Bergbahnen. \nVom Horberg hat es uns über den Knorren auf die Sonnenseite des Berges gezogen. \nLos geht´s.\nNicht nur mit Leib und Seele, sondern auch namentlich sind wir im Penken Panorahma Restaurant vertreten.\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\nca. 06. Dezember 2016 \n\nkeine Übernachtung möglich"
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nfrom 06. December 2016\n\nno overnight stay possible "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/03aa063d-7323-4d7e-9303-20c99ad8d5f0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Panora(h)ma Restaurant Penken"
+        },
+        {
+          "@language": "de",
+          "@value": "Panora(h)ma Restaurant Penken"
+        },
+        {
+          "@language": "ru",
+          "@value": "Panora(h)ma Restaurant Penken"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/faa2bef3-7f98-4fee-b2a6-a032ad0ceb72/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Speisen und Getränke"
+        },
+        {
+          "@language": "de",
+          "@value": "Speisen und Getränke"
+        },
+        {
+          "@language": "ru",
+          "@value": "Speisen und Getränke"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dcd621b5-dcef-433b-be29-af6a434a0e6b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Hütte"
+        },
+        {
+          "@language": "de",
+          "@value": "Hütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/080382ca-469c-4c1a-838f-b726debe0205/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Restaurant"
+        },
+        {
+          "@language": "de",
+          "@value": "Restaurant"
+        },
+        {
+          "@language": "ru",
+          "@value": "Restaurant"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.penken-panorahmarestaurant.at"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://members.aon.at/tuxerhof",
+    "http://maps.mayrhofen.at/?foreignResource\u003dD8B50682-491D-4CEE-9D3D-D2E886CFF325"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tuxerhof",
+    "streetAddress": "Laimach 120      ",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 5411515  ",
+    "email": "am.tuxerhof@aon.at",
+    "url": "http://members.aon.at/tuxerhof"
+  },
+  "name": "Tuxerhof",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/99c04fe1-303c-48a0-9068-cd93571ec38d/99/image.jpg",
+      "caption": "Tuxerhof Hippach - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f6f1c18-dab8-4ee6-9903-ec8e056ff934/99/image.jpg",
+      "caption": "Tuxerhof Hippach - Sommer 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2142ce9c-92bb-4152-8ebf-478f2ae59874/99/image.jpg",
+      "caption": "Tuxerhof Hippach - Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c11d6ce4-ae21-4278-bcdb-cb08c91b8883/99/image.jpg",
+      "caption": "Tuxerhof Hippach - Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b089c9ce-52b9-4226-9fb0-e5709cab0c82/99/image.jpg",
+      "caption": "Tuxerhof Hippach - Winter 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/11169a17-7585-4474-aa8a-a80d5f1bd713/99/image.jpg",
+      "caption": "Tuxerhof Hippach - Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/053cc49d-aa89-4324-beb7-b0630a9f993f/99/image.jpg",
+      "caption": "Tuxerhof Hippach - Ferienwohnung 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/39326f80-5f15-4927-9476-086b5742d3c9/99/image.jpg",
+      "caption": "Tuxerhof Hippach - Ferienwohnung 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bc2ff42e-497c-470a-86cd-886ccab6df94/99/image.jpg",
+      "caption": "Tuxerhof Hippach - Ferienwohnung 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8290b5ec-ecee-4b9e-a69b-866c1d004332/99/image.jpg",
+      "caption": "Tuxerhof Hippach - Ferienwohnung 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d2694516-b9ef-41d8-b913-83a9ffdd20bf/99/image.jpg",
+      "caption": "Tuxerhof Hippach - Ferienwohnung 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/51b8da64-94e4-4d3c-a9fd-dc2aa0c9e666/99/image.jpg",
+      "caption": "Tuxerhof Hippach - Ferienwohnung 6"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2172945428431",
+    "longitude": "11.8667900562286"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "105.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "120.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

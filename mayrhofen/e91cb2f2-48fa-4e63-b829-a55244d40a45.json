@@ -1,0 +1,1164 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "Hüttenabend am Ahorn"
+      },
+      {
+        "@language": "en",
+        "@value": "Cozy evening at the Ahornhütte"
+      },
+      {
+        "@language": "ru",
+        "@value": "Cozy evening at the Ahornhütte"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "Jeden Dienstag Abend geht es mit der Nachtgondel der Ahornbahn, der größten Gondel Österreichs, hinauf auf 2.000 m Seehöhe in die Ahornhütte. Ein köstliches Menü mit Suppe, Tiroler Gröstl, Dessert und spektakuläre Ausblicke ins Tal bei Nacht lassen den Abend zu einem unvergesslichen Erlebnis werden.\nDie erforderlichen Reservierungen werden bis jeweils Montag, 17.00 Uhr unter +43 (0) 5285/62277, oder an den Kassen der Mayrhofner Bergbahnen entgegen genommen. An den Kassen müssen alle Tickets bis spätestens 12.00 Uhr am Veranstaltungstag abgeholt werden. Die Kassen sind am Abend nicht besetzt!\n \nFacts Hüttenabend Ahornhütte:\n\n• Erster Termin: 10. Jänner 2017\n• Auffahrt um 18.30 Uhr mit der Ahornbahn, Talfahrt um 21.30 Uhr mit der Ahornbahn, bitte pünktlich an der Bahn sein!\n• Festes Schuhwerk erforderlich (Weg Bergstation – Ahornhütte \u0026 retour).\n• Abendessen: Suppe, Tiroler Gröstl, Dessert (Käsespätzle für Vegetarier)\n• Preis: Erwachsene Euro 39,00, Kinder Euro 28,00; Preis exkl. Getränke\n• Ticketabholung bis Dienstag, 12.00 Uhr \n"
+      },
+      {
+        "@language": "en",
+        "@value": "Every Tuesday evening the night gondola of the Ahornbahn, Austria’s largest reversible ropeway, takes you up to the Ahornhütte mountain restaurant located at 2,000 meters above sea level. A delicious meal of soup, Tiroler Gröstl (a traditional Tyrolean fried potato dish with meat and onions), and dessert, along with fantastic views of the valley at night, make for an unforgettable mountain experience.\nReservations are required and must be made by 5.00 p.m. on Monday, either by phone at +43 (0) 5285/62277 or at one of the Mayrhofner Bergbahnen ticket windows. Tickets must be picked up at the ticket windows by 12:00 p.m. on the day of the event. The ticket windows are closed in the evenings. \n\nCozy evening at the Ahornhütte – Facts:\n\n• First date: 10 January 2017\n• Ahornbahn: Ascent at 6:30 p.m. and descent at 9:30 p.m. Please make sure you arrive on time!\n• Sturdy shoes are required (for the walk from the summit station to the Ahornhütte and back)\n• Dinner: Soup, Tiroler Gröstl (or cheese spaetzle for vegetarians), dessert\n• Price: Adults €39.00, Children €28.00 (drinks not included)\n• Tickets must be picked up by Tuesday, 12:00 noon"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/71ca302a-5c69-4951-90f1-5c2d2f6e5567/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "en",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "ru",
+            "@value": "Ahornhütte"
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-01-10T18:30:00",
+    "endDate": "2017-01-10"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "Hüttenabend am Ahorn"
+      },
+      {
+        "@language": "en",
+        "@value": "Cozy evening at the Ahornhütte"
+      },
+      {
+        "@language": "ru",
+        "@value": "Cozy evening at the Ahornhütte"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "Jeden Dienstag Abend geht es mit der Nachtgondel der Ahornbahn, der größten Gondel Österreichs, hinauf auf 2.000 m Seehöhe in die Ahornhütte. Ein köstliches Menü mit Suppe, Tiroler Gröstl, Dessert und spektakuläre Ausblicke ins Tal bei Nacht lassen den Abend zu einem unvergesslichen Erlebnis werden.\nDie erforderlichen Reservierungen werden bis jeweils Montag, 17.00 Uhr unter +43 (0) 5285/62277, oder an den Kassen der Mayrhofner Bergbahnen entgegen genommen. An den Kassen müssen alle Tickets bis spätestens 12.00 Uhr am Veranstaltungstag abgeholt werden. Die Kassen sind am Abend nicht besetzt!\n \nFacts Hüttenabend Ahornhütte:\n\n• Erster Termin: 10. Jänner 2017\n• Auffahrt um 18.30 Uhr mit der Ahornbahn, Talfahrt um 21.30 Uhr mit der Ahornbahn, bitte pünktlich an der Bahn sein!\n• Festes Schuhwerk erforderlich (Weg Bergstation – Ahornhütte \u0026 retour).\n• Abendessen: Suppe, Tiroler Gröstl, Dessert (Käsespätzle für Vegetarier)\n• Preis: Erwachsene Euro 39,00, Kinder Euro 28,00; Preis exkl. Getränke\n• Ticketabholung bis Dienstag, 12.00 Uhr \n"
+      },
+      {
+        "@language": "en",
+        "@value": "Every Tuesday evening the night gondola of the Ahornbahn, Austria’s largest reversible ropeway, takes you up to the Ahornhütte mountain restaurant located at 2,000 meters above sea level. A delicious meal of soup, Tiroler Gröstl (a traditional Tyrolean fried potato dish with meat and onions), and dessert, along with fantastic views of the valley at night, make for an unforgettable mountain experience.\nReservations are required and must be made by 5.00 p.m. on Monday, either by phone at +43 (0) 5285/62277 or at one of the Mayrhofner Bergbahnen ticket windows. Tickets must be picked up at the ticket windows by 12:00 p.m. on the day of the event. The ticket windows are closed in the evenings. \n\nCozy evening at the Ahornhütte – Facts:\n\n• First date: 10 January 2017\n• Ahornbahn: Ascent at 6:30 p.m. and descent at 9:30 p.m. Please make sure you arrive on time!\n• Sturdy shoes are required (for the walk from the summit station to the Ahornhütte and back)\n• Dinner: Soup, Tiroler Gröstl (or cheese spaetzle for vegetarians), dessert\n• Price: Adults €39.00, Children €28.00 (drinks not included)\n• Tickets must be picked up by Tuesday, 12:00 noon"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/71ca302a-5c69-4951-90f1-5c2d2f6e5567/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "en",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "ru",
+            "@value": "Ahornhütte"
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-01-17T18:30:00",
+    "endDate": "2017-01-17"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "Hüttenabend am Ahorn"
+      },
+      {
+        "@language": "en",
+        "@value": "Cozy evening at the Ahornhütte"
+      },
+      {
+        "@language": "ru",
+        "@value": "Cozy evening at the Ahornhütte"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "Jeden Dienstag Abend geht es mit der Nachtgondel der Ahornbahn, der größten Gondel Österreichs, hinauf auf 2.000 m Seehöhe in die Ahornhütte. Ein köstliches Menü mit Suppe, Tiroler Gröstl, Dessert und spektakuläre Ausblicke ins Tal bei Nacht lassen den Abend zu einem unvergesslichen Erlebnis werden.\nDie erforderlichen Reservierungen werden bis jeweils Montag, 17.00 Uhr unter +43 (0) 5285/62277, oder an den Kassen der Mayrhofner Bergbahnen entgegen genommen. An den Kassen müssen alle Tickets bis spätestens 12.00 Uhr am Veranstaltungstag abgeholt werden. Die Kassen sind am Abend nicht besetzt!\n \nFacts Hüttenabend Ahornhütte:\n\n• Erster Termin: 10. Jänner 2017\n• Auffahrt um 18.30 Uhr mit der Ahornbahn, Talfahrt um 21.30 Uhr mit der Ahornbahn, bitte pünktlich an der Bahn sein!\n• Festes Schuhwerk erforderlich (Weg Bergstation – Ahornhütte \u0026 retour).\n• Abendessen: Suppe, Tiroler Gröstl, Dessert (Käsespätzle für Vegetarier)\n• Preis: Erwachsene Euro 39,00, Kinder Euro 28,00; Preis exkl. Getränke\n• Ticketabholung bis Dienstag, 12.00 Uhr \n"
+      },
+      {
+        "@language": "en",
+        "@value": "Every Tuesday evening the night gondola of the Ahornbahn, Austria’s largest reversible ropeway, takes you up to the Ahornhütte mountain restaurant located at 2,000 meters above sea level. A delicious meal of soup, Tiroler Gröstl (a traditional Tyrolean fried potato dish with meat and onions), and dessert, along with fantastic views of the valley at night, make for an unforgettable mountain experience.\nReservations are required and must be made by 5.00 p.m. on Monday, either by phone at +43 (0) 5285/62277 or at one of the Mayrhofner Bergbahnen ticket windows. Tickets must be picked up at the ticket windows by 12:00 p.m. on the day of the event. The ticket windows are closed in the evenings. \n\nCozy evening at the Ahornhütte – Facts:\n\n• First date: 10 January 2017\n• Ahornbahn: Ascent at 6:30 p.m. and descent at 9:30 p.m. Please make sure you arrive on time!\n• Sturdy shoes are required (for the walk from the summit station to the Ahornhütte and back)\n• Dinner: Soup, Tiroler Gröstl (or cheese spaetzle for vegetarians), dessert\n• Price: Adults €39.00, Children €28.00 (drinks not included)\n• Tickets must be picked up by Tuesday, 12:00 noon"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/71ca302a-5c69-4951-90f1-5c2d2f6e5567/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "en",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "ru",
+            "@value": "Ahornhütte"
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-01-24T18:30:00",
+    "endDate": "2017-01-24"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "Hüttenabend am Ahorn"
+      },
+      {
+        "@language": "en",
+        "@value": "Cozy evening at the Ahornhütte"
+      },
+      {
+        "@language": "ru",
+        "@value": "Cozy evening at the Ahornhütte"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "Jeden Dienstag Abend geht es mit der Nachtgondel der Ahornbahn, der größten Gondel Österreichs, hinauf auf 2.000 m Seehöhe in die Ahornhütte. Ein köstliches Menü mit Suppe, Tiroler Gröstl, Dessert und spektakuläre Ausblicke ins Tal bei Nacht lassen den Abend zu einem unvergesslichen Erlebnis werden.\nDie erforderlichen Reservierungen werden bis jeweils Montag, 17.00 Uhr unter +43 (0) 5285/62277, oder an den Kassen der Mayrhofner Bergbahnen entgegen genommen. An den Kassen müssen alle Tickets bis spätestens 12.00 Uhr am Veranstaltungstag abgeholt werden. Die Kassen sind am Abend nicht besetzt!\n \nFacts Hüttenabend Ahornhütte:\n\n• Erster Termin: 10. Jänner 2017\n• Auffahrt um 18.30 Uhr mit der Ahornbahn, Talfahrt um 21.30 Uhr mit der Ahornbahn, bitte pünktlich an der Bahn sein!\n• Festes Schuhwerk erforderlich (Weg Bergstation – Ahornhütte \u0026 retour).\n• Abendessen: Suppe, Tiroler Gröstl, Dessert (Käsespätzle für Vegetarier)\n• Preis: Erwachsene Euro 39,00, Kinder Euro 28,00; Preis exkl. Getränke\n• Ticketabholung bis Dienstag, 12.00 Uhr \n"
+      },
+      {
+        "@language": "en",
+        "@value": "Every Tuesday evening the night gondola of the Ahornbahn, Austria’s largest reversible ropeway, takes you up to the Ahornhütte mountain restaurant located at 2,000 meters above sea level. A delicious meal of soup, Tiroler Gröstl (a traditional Tyrolean fried potato dish with meat and onions), and dessert, along with fantastic views of the valley at night, make for an unforgettable mountain experience.\nReservations are required and must be made by 5.00 p.m. on Monday, either by phone at +43 (0) 5285/62277 or at one of the Mayrhofner Bergbahnen ticket windows. Tickets must be picked up at the ticket windows by 12:00 p.m. on the day of the event. The ticket windows are closed in the evenings. \n\nCozy evening at the Ahornhütte – Facts:\n\n• First date: 10 January 2017\n• Ahornbahn: Ascent at 6:30 p.m. and descent at 9:30 p.m. Please make sure you arrive on time!\n• Sturdy shoes are required (for the walk from the summit station to the Ahornhütte and back)\n• Dinner: Soup, Tiroler Gröstl (or cheese spaetzle for vegetarians), dessert\n• Price: Adults €39.00, Children €28.00 (drinks not included)\n• Tickets must be picked up by Tuesday, 12:00 noon"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/71ca302a-5c69-4951-90f1-5c2d2f6e5567/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "en",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "ru",
+            "@value": "Ahornhütte"
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-01-31T18:30:00",
+    "endDate": "2017-01-31"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "Hüttenabend am Ahorn"
+      },
+      {
+        "@language": "en",
+        "@value": "Cozy evening at the Ahornhütte"
+      },
+      {
+        "@language": "ru",
+        "@value": "Cozy evening at the Ahornhütte"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "Jeden Dienstag Abend geht es mit der Nachtgondel der Ahornbahn, der größten Gondel Österreichs, hinauf auf 2.000 m Seehöhe in die Ahornhütte. Ein köstliches Menü mit Suppe, Tiroler Gröstl, Dessert und spektakuläre Ausblicke ins Tal bei Nacht lassen den Abend zu einem unvergesslichen Erlebnis werden.\nDie erforderlichen Reservierungen werden bis jeweils Montag, 17.00 Uhr unter +43 (0) 5285/62277, oder an den Kassen der Mayrhofner Bergbahnen entgegen genommen. An den Kassen müssen alle Tickets bis spätestens 12.00 Uhr am Veranstaltungstag abgeholt werden. Die Kassen sind am Abend nicht besetzt!\n \nFacts Hüttenabend Ahornhütte:\n\n• Erster Termin: 10. Jänner 2017\n• Auffahrt um 18.30 Uhr mit der Ahornbahn, Talfahrt um 21.30 Uhr mit der Ahornbahn, bitte pünktlich an der Bahn sein!\n• Festes Schuhwerk erforderlich (Weg Bergstation – Ahornhütte \u0026 retour).\n• Abendessen: Suppe, Tiroler Gröstl, Dessert (Käsespätzle für Vegetarier)\n• Preis: Erwachsene Euro 39,00, Kinder Euro 28,00; Preis exkl. Getränke\n• Ticketabholung bis Dienstag, 12.00 Uhr \n"
+      },
+      {
+        "@language": "en",
+        "@value": "Every Tuesday evening the night gondola of the Ahornbahn, Austria’s largest reversible ropeway, takes you up to the Ahornhütte mountain restaurant located at 2,000 meters above sea level. A delicious meal of soup, Tiroler Gröstl (a traditional Tyrolean fried potato dish with meat and onions), and dessert, along with fantastic views of the valley at night, make for an unforgettable mountain experience.\nReservations are required and must be made by 5.00 p.m. on Monday, either by phone at +43 (0) 5285/62277 or at one of the Mayrhofner Bergbahnen ticket windows. Tickets must be picked up at the ticket windows by 12:00 p.m. on the day of the event. The ticket windows are closed in the evenings. \n\nCozy evening at the Ahornhütte – Facts:\n\n• First date: 10 January 2017\n• Ahornbahn: Ascent at 6:30 p.m. and descent at 9:30 p.m. Please make sure you arrive on time!\n• Sturdy shoes are required (for the walk from the summit station to the Ahornhütte and back)\n• Dinner: Soup, Tiroler Gröstl (or cheese spaetzle for vegetarians), dessert\n• Price: Adults €39.00, Children €28.00 (drinks not included)\n• Tickets must be picked up by Tuesday, 12:00 noon"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/71ca302a-5c69-4951-90f1-5c2d2f6e5567/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "en",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "ru",
+            "@value": "Ahornhütte"
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-02-07T18:30:00",
+    "endDate": "2017-02-07"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "Hüttenabend am Ahorn"
+      },
+      {
+        "@language": "en",
+        "@value": "Cozy evening at the Ahornhütte"
+      },
+      {
+        "@language": "ru",
+        "@value": "Cozy evening at the Ahornhütte"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "Jeden Dienstag Abend geht es mit der Nachtgondel der Ahornbahn, der größten Gondel Österreichs, hinauf auf 2.000 m Seehöhe in die Ahornhütte. Ein köstliches Menü mit Suppe, Tiroler Gröstl, Dessert und spektakuläre Ausblicke ins Tal bei Nacht lassen den Abend zu einem unvergesslichen Erlebnis werden.\nDie erforderlichen Reservierungen werden bis jeweils Montag, 17.00 Uhr unter +43 (0) 5285/62277, oder an den Kassen der Mayrhofner Bergbahnen entgegen genommen. An den Kassen müssen alle Tickets bis spätestens 12.00 Uhr am Veranstaltungstag abgeholt werden. Die Kassen sind am Abend nicht besetzt!\n \nFacts Hüttenabend Ahornhütte:\n\n• Erster Termin: 10. Jänner 2017\n• Auffahrt um 18.30 Uhr mit der Ahornbahn, Talfahrt um 21.30 Uhr mit der Ahornbahn, bitte pünktlich an der Bahn sein!\n• Festes Schuhwerk erforderlich (Weg Bergstation – Ahornhütte \u0026 retour).\n• Abendessen: Suppe, Tiroler Gröstl, Dessert (Käsespätzle für Vegetarier)\n• Preis: Erwachsene Euro 39,00, Kinder Euro 28,00; Preis exkl. Getränke\n• Ticketabholung bis Dienstag, 12.00 Uhr \n"
+      },
+      {
+        "@language": "en",
+        "@value": "Every Tuesday evening the night gondola of the Ahornbahn, Austria’s largest reversible ropeway, takes you up to the Ahornhütte mountain restaurant located at 2,000 meters above sea level. A delicious meal of soup, Tiroler Gröstl (a traditional Tyrolean fried potato dish with meat and onions), and dessert, along with fantastic views of the valley at night, make for an unforgettable mountain experience.\nReservations are required and must be made by 5.00 p.m. on Monday, either by phone at +43 (0) 5285/62277 or at one of the Mayrhofner Bergbahnen ticket windows. Tickets must be picked up at the ticket windows by 12:00 p.m. on the day of the event. The ticket windows are closed in the evenings. \n\nCozy evening at the Ahornhütte – Facts:\n\n• First date: 10 January 2017\n• Ahornbahn: Ascent at 6:30 p.m. and descent at 9:30 p.m. Please make sure you arrive on time!\n• Sturdy shoes are required (for the walk from the summit station to the Ahornhütte and back)\n• Dinner: Soup, Tiroler Gröstl (or cheese spaetzle for vegetarians), dessert\n• Price: Adults €39.00, Children €28.00 (drinks not included)\n• Tickets must be picked up by Tuesday, 12:00 noon"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/71ca302a-5c69-4951-90f1-5c2d2f6e5567/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "en",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "ru",
+            "@value": "Ahornhütte"
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-02-14T18:30:00",
+    "endDate": "2017-02-17"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "Hüttenabend am Ahorn"
+      },
+      {
+        "@language": "en",
+        "@value": "Cozy evening at the Ahornhütte"
+      },
+      {
+        "@language": "ru",
+        "@value": "Cozy evening at the Ahornhütte"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "Jeden Dienstag Abend geht es mit der Nachtgondel der Ahornbahn, der größten Gondel Österreichs, hinauf auf 2.000 m Seehöhe in die Ahornhütte. Ein köstliches Menü mit Suppe, Tiroler Gröstl, Dessert und spektakuläre Ausblicke ins Tal bei Nacht lassen den Abend zu einem unvergesslichen Erlebnis werden.\nDie erforderlichen Reservierungen werden bis jeweils Montag, 17.00 Uhr unter +43 (0) 5285/62277, oder an den Kassen der Mayrhofner Bergbahnen entgegen genommen. An den Kassen müssen alle Tickets bis spätestens 12.00 Uhr am Veranstaltungstag abgeholt werden. Die Kassen sind am Abend nicht besetzt!\n \nFacts Hüttenabend Ahornhütte:\n\n• Erster Termin: 10. Jänner 2017\n• Auffahrt um 18.30 Uhr mit der Ahornbahn, Talfahrt um 21.30 Uhr mit der Ahornbahn, bitte pünktlich an der Bahn sein!\n• Festes Schuhwerk erforderlich (Weg Bergstation – Ahornhütte \u0026 retour).\n• Abendessen: Suppe, Tiroler Gröstl, Dessert (Käsespätzle für Vegetarier)\n• Preis: Erwachsene Euro 39,00, Kinder Euro 28,00; Preis exkl. Getränke\n• Ticketabholung bis Dienstag, 12.00 Uhr \n"
+      },
+      {
+        "@language": "en",
+        "@value": "Every Tuesday evening the night gondola of the Ahornbahn, Austria’s largest reversible ropeway, takes you up to the Ahornhütte mountain restaurant located at 2,000 meters above sea level. A delicious meal of soup, Tiroler Gröstl (a traditional Tyrolean fried potato dish with meat and onions), and dessert, along with fantastic views of the valley at night, make for an unforgettable mountain experience.\nReservations are required and must be made by 5.00 p.m. on Monday, either by phone at +43 (0) 5285/62277 or at one of the Mayrhofner Bergbahnen ticket windows. Tickets must be picked up at the ticket windows by 12:00 p.m. on the day of the event. The ticket windows are closed in the evenings. \n\nCozy evening at the Ahornhütte – Facts:\n\n• First date: 10 January 2017\n• Ahornbahn: Ascent at 6:30 p.m. and descent at 9:30 p.m. Please make sure you arrive on time!\n• Sturdy shoes are required (for the walk from the summit station to the Ahornhütte and back)\n• Dinner: Soup, Tiroler Gröstl (or cheese spaetzle for vegetarians), dessert\n• Price: Adults €39.00, Children €28.00 (drinks not included)\n• Tickets must be picked up by Tuesday, 12:00 noon"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/71ca302a-5c69-4951-90f1-5c2d2f6e5567/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "en",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "ru",
+            "@value": "Ahornhütte"
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-02-21T18:30:00",
+    "endDate": "2017-02-21"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "Hüttenabend am Ahorn"
+      },
+      {
+        "@language": "en",
+        "@value": "Cozy evening at the Ahornhütte"
+      },
+      {
+        "@language": "ru",
+        "@value": "Cozy evening at the Ahornhütte"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "Jeden Dienstag Abend geht es mit der Nachtgondel der Ahornbahn, der größten Gondel Österreichs, hinauf auf 2.000 m Seehöhe in die Ahornhütte. Ein köstliches Menü mit Suppe, Tiroler Gröstl, Dessert und spektakuläre Ausblicke ins Tal bei Nacht lassen den Abend zu einem unvergesslichen Erlebnis werden.\nDie erforderlichen Reservierungen werden bis jeweils Montag, 17.00 Uhr unter +43 (0) 5285/62277, oder an den Kassen der Mayrhofner Bergbahnen entgegen genommen. An den Kassen müssen alle Tickets bis spätestens 12.00 Uhr am Veranstaltungstag abgeholt werden. Die Kassen sind am Abend nicht besetzt!\n \nFacts Hüttenabend Ahornhütte:\n\n• Erster Termin: 10. Jänner 2017\n• Auffahrt um 18.30 Uhr mit der Ahornbahn, Talfahrt um 21.30 Uhr mit der Ahornbahn, bitte pünktlich an der Bahn sein!\n• Festes Schuhwerk erforderlich (Weg Bergstation – Ahornhütte \u0026 retour).\n• Abendessen: Suppe, Tiroler Gröstl, Dessert (Käsespätzle für Vegetarier)\n• Preis: Erwachsene Euro 39,00, Kinder Euro 28,00; Preis exkl. Getränke\n• Ticketabholung bis Dienstag, 12.00 Uhr \n"
+      },
+      {
+        "@language": "en",
+        "@value": "Every Tuesday evening the night gondola of the Ahornbahn, Austria’s largest reversible ropeway, takes you up to the Ahornhütte mountain restaurant located at 2,000 meters above sea level. A delicious meal of soup, Tiroler Gröstl (a traditional Tyrolean fried potato dish with meat and onions), and dessert, along with fantastic views of the valley at night, make for an unforgettable mountain experience.\nReservations are required and must be made by 5.00 p.m. on Monday, either by phone at +43 (0) 5285/62277 or at one of the Mayrhofner Bergbahnen ticket windows. Tickets must be picked up at the ticket windows by 12:00 p.m. on the day of the event. The ticket windows are closed in the evenings. \n\nCozy evening at the Ahornhütte – Facts:\n\n• First date: 10 January 2017\n• Ahornbahn: Ascent at 6:30 p.m. and descent at 9:30 p.m. Please make sure you arrive on time!\n• Sturdy shoes are required (for the walk from the summit station to the Ahornhütte and back)\n• Dinner: Soup, Tiroler Gröstl (or cheese spaetzle for vegetarians), dessert\n• Price: Adults €39.00, Children €28.00 (drinks not included)\n• Tickets must be picked up by Tuesday, 12:00 noon"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/71ca302a-5c69-4951-90f1-5c2d2f6e5567/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "en",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "ru",
+            "@value": "Ahornhütte"
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-02-28T18:30:00",
+    "endDate": "2017-02-28"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "Hüttenabend am Ahorn"
+      },
+      {
+        "@language": "en",
+        "@value": "Cozy evening at the Ahornhütte"
+      },
+      {
+        "@language": "ru",
+        "@value": "Cozy evening at the Ahornhütte"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "Jeden Dienstag Abend geht es mit der Nachtgondel der Ahornbahn, der größten Gondel Österreichs, hinauf auf 2.000 m Seehöhe in die Ahornhütte. Ein köstliches Menü mit Suppe, Tiroler Gröstl, Dessert und spektakuläre Ausblicke ins Tal bei Nacht lassen den Abend zu einem unvergesslichen Erlebnis werden.\nDie erforderlichen Reservierungen werden bis jeweils Montag, 17.00 Uhr unter +43 (0) 5285/62277, oder an den Kassen der Mayrhofner Bergbahnen entgegen genommen. An den Kassen müssen alle Tickets bis spätestens 12.00 Uhr am Veranstaltungstag abgeholt werden. Die Kassen sind am Abend nicht besetzt!\n \nFacts Hüttenabend Ahornhütte:\n\n• Erster Termin: 10. Jänner 2017\n• Auffahrt um 18.30 Uhr mit der Ahornbahn, Talfahrt um 21.30 Uhr mit der Ahornbahn, bitte pünktlich an der Bahn sein!\n• Festes Schuhwerk erforderlich (Weg Bergstation – Ahornhütte \u0026 retour).\n• Abendessen: Suppe, Tiroler Gröstl, Dessert (Käsespätzle für Vegetarier)\n• Preis: Erwachsene Euro 39,00, Kinder Euro 28,00; Preis exkl. Getränke\n• Ticketabholung bis Dienstag, 12.00 Uhr \n"
+      },
+      {
+        "@language": "en",
+        "@value": "Every Tuesday evening the night gondola of the Ahornbahn, Austria’s largest reversible ropeway, takes you up to the Ahornhütte mountain restaurant located at 2,000 meters above sea level. A delicious meal of soup, Tiroler Gröstl (a traditional Tyrolean fried potato dish with meat and onions), and dessert, along with fantastic views of the valley at night, make for an unforgettable mountain experience.\nReservations are required and must be made by 5.00 p.m. on Monday, either by phone at +43 (0) 5285/62277 or at one of the Mayrhofner Bergbahnen ticket windows. Tickets must be picked up at the ticket windows by 12:00 p.m. on the day of the event. The ticket windows are closed in the evenings. \n\nCozy evening at the Ahornhütte – Facts:\n\n• First date: 10 January 2017\n• Ahornbahn: Ascent at 6:30 p.m. and descent at 9:30 p.m. Please make sure you arrive on time!\n• Sturdy shoes are required (for the walk from the summit station to the Ahornhütte and back)\n• Dinner: Soup, Tiroler Gröstl (or cheese spaetzle for vegetarians), dessert\n• Price: Adults €39.00, Children €28.00 (drinks not included)\n• Tickets must be picked up by Tuesday, 12:00 noon"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/71ca302a-5c69-4951-90f1-5c2d2f6e5567/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "en",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "ru",
+            "@value": "Ahornhütte"
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-03-07T18:30:00",
+    "endDate": "2017-03-07"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "Hüttenabend am Ahorn"
+      },
+      {
+        "@language": "en",
+        "@value": "Cozy evening at the Ahornhütte"
+      },
+      {
+        "@language": "ru",
+        "@value": "Cozy evening at the Ahornhütte"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "Jeden Dienstag Abend geht es mit der Nachtgondel der Ahornbahn, der größten Gondel Österreichs, hinauf auf 2.000 m Seehöhe in die Ahornhütte. Ein köstliches Menü mit Suppe, Tiroler Gröstl, Dessert und spektakuläre Ausblicke ins Tal bei Nacht lassen den Abend zu einem unvergesslichen Erlebnis werden.\nDie erforderlichen Reservierungen werden bis jeweils Montag, 17.00 Uhr unter +43 (0) 5285/62277, oder an den Kassen der Mayrhofner Bergbahnen entgegen genommen. An den Kassen müssen alle Tickets bis spätestens 12.00 Uhr am Veranstaltungstag abgeholt werden. Die Kassen sind am Abend nicht besetzt!\n \nFacts Hüttenabend Ahornhütte:\n\n• Erster Termin: 10. Jänner 2017\n• Auffahrt um 18.30 Uhr mit der Ahornbahn, Talfahrt um 21.30 Uhr mit der Ahornbahn, bitte pünktlich an der Bahn sein!\n• Festes Schuhwerk erforderlich (Weg Bergstation – Ahornhütte \u0026 retour).\n• Abendessen: Suppe, Tiroler Gröstl, Dessert (Käsespätzle für Vegetarier)\n• Preis: Erwachsene Euro 39,00, Kinder Euro 28,00; Preis exkl. Getränke\n• Ticketabholung bis Dienstag, 12.00 Uhr \n"
+      },
+      {
+        "@language": "en",
+        "@value": "Every Tuesday evening the night gondola of the Ahornbahn, Austria’s largest reversible ropeway, takes you up to the Ahornhütte mountain restaurant located at 2,000 meters above sea level. A delicious meal of soup, Tiroler Gröstl (a traditional Tyrolean fried potato dish with meat and onions), and dessert, along with fantastic views of the valley at night, make for an unforgettable mountain experience.\nReservations are required and must be made by 5.00 p.m. on Monday, either by phone at +43 (0) 5285/62277 or at one of the Mayrhofner Bergbahnen ticket windows. Tickets must be picked up at the ticket windows by 12:00 p.m. on the day of the event. The ticket windows are closed in the evenings. \n\nCozy evening at the Ahornhütte – Facts:\n\n• First date: 10 January 2017\n• Ahornbahn: Ascent at 6:30 p.m. and descent at 9:30 p.m. Please make sure you arrive on time!\n• Sturdy shoes are required (for the walk from the summit station to the Ahornhütte and back)\n• Dinner: Soup, Tiroler Gröstl (or cheese spaetzle for vegetarians), dessert\n• Price: Adults €39.00, Children €28.00 (drinks not included)\n• Tickets must be picked up by Tuesday, 12:00 noon"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/71ca302a-5c69-4951-90f1-5c2d2f6e5567/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "en",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "ru",
+            "@value": "Ahornhütte"
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-03-14T18:30:00",
+    "endDate": "2017-03-14"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "Hüttenabend am Ahorn"
+      },
+      {
+        "@language": "en",
+        "@value": "Cozy evening at the Ahornhütte"
+      },
+      {
+        "@language": "ru",
+        "@value": "Cozy evening at the Ahornhütte"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "Jeden Dienstag Abend geht es mit der Nachtgondel der Ahornbahn, der größten Gondel Österreichs, hinauf auf 2.000 m Seehöhe in die Ahornhütte. Ein köstliches Menü mit Suppe, Tiroler Gröstl, Dessert und spektakuläre Ausblicke ins Tal bei Nacht lassen den Abend zu einem unvergesslichen Erlebnis werden.\nDie erforderlichen Reservierungen werden bis jeweils Montag, 17.00 Uhr unter +43 (0) 5285/62277, oder an den Kassen der Mayrhofner Bergbahnen entgegen genommen. An den Kassen müssen alle Tickets bis spätestens 12.00 Uhr am Veranstaltungstag abgeholt werden. Die Kassen sind am Abend nicht besetzt!\n \nFacts Hüttenabend Ahornhütte:\n\n• Erster Termin: 10. Jänner 2017\n• Auffahrt um 18.30 Uhr mit der Ahornbahn, Talfahrt um 21.30 Uhr mit der Ahornbahn, bitte pünktlich an der Bahn sein!\n• Festes Schuhwerk erforderlich (Weg Bergstation – Ahornhütte \u0026 retour).\n• Abendessen: Suppe, Tiroler Gröstl, Dessert (Käsespätzle für Vegetarier)\n• Preis: Erwachsene Euro 39,00, Kinder Euro 28,00; Preis exkl. Getränke\n• Ticketabholung bis Dienstag, 12.00 Uhr \n"
+      },
+      {
+        "@language": "en",
+        "@value": "Every Tuesday evening the night gondola of the Ahornbahn, Austria’s largest reversible ropeway, takes you up to the Ahornhütte mountain restaurant located at 2,000 meters above sea level. A delicious meal of soup, Tiroler Gröstl (a traditional Tyrolean fried potato dish with meat and onions), and dessert, along with fantastic views of the valley at night, make for an unforgettable mountain experience.\nReservations are required and must be made by 5.00 p.m. on Monday, either by phone at +43 (0) 5285/62277 or at one of the Mayrhofner Bergbahnen ticket windows. Tickets must be picked up at the ticket windows by 12:00 p.m. on the day of the event. The ticket windows are closed in the evenings. \n\nCozy evening at the Ahornhütte – Facts:\n\n• First date: 10 January 2017\n• Ahornbahn: Ascent at 6:30 p.m. and descent at 9:30 p.m. Please make sure you arrive on time!\n• Sturdy shoes are required (for the walk from the summit station to the Ahornhütte and back)\n• Dinner: Soup, Tiroler Gröstl (or cheese spaetzle for vegetarians), dessert\n• Price: Adults €39.00, Children €28.00 (drinks not included)\n• Tickets must be picked up by Tuesday, 12:00 noon"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/71ca302a-5c69-4951-90f1-5c2d2f6e5567/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "en",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "ru",
+            "@value": "Ahornhütte"
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-03-21T18:30:00",
+    "endDate": "2017-03-21"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "Hüttenabend am Ahorn"
+      },
+      {
+        "@language": "en",
+        "@value": "Cozy evening at the Ahornhütte"
+      },
+      {
+        "@language": "ru",
+        "@value": "Cozy evening at the Ahornhütte"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "Jeden Dienstag Abend geht es mit der Nachtgondel der Ahornbahn, der größten Gondel Österreichs, hinauf auf 2.000 m Seehöhe in die Ahornhütte. Ein köstliches Menü mit Suppe, Tiroler Gröstl, Dessert und spektakuläre Ausblicke ins Tal bei Nacht lassen den Abend zu einem unvergesslichen Erlebnis werden.\nDie erforderlichen Reservierungen werden bis jeweils Montag, 17.00 Uhr unter +43 (0) 5285/62277, oder an den Kassen der Mayrhofner Bergbahnen entgegen genommen. An den Kassen müssen alle Tickets bis spätestens 12.00 Uhr am Veranstaltungstag abgeholt werden. Die Kassen sind am Abend nicht besetzt!\n \nFacts Hüttenabend Ahornhütte:\n\n• Erster Termin: 10. Jänner 2017\n• Auffahrt um 18.30 Uhr mit der Ahornbahn, Talfahrt um 21.30 Uhr mit der Ahornbahn, bitte pünktlich an der Bahn sein!\n• Festes Schuhwerk erforderlich (Weg Bergstation – Ahornhütte \u0026 retour).\n• Abendessen: Suppe, Tiroler Gröstl, Dessert (Käsespätzle für Vegetarier)\n• Preis: Erwachsene Euro 39,00, Kinder Euro 28,00; Preis exkl. Getränke\n• Ticketabholung bis Dienstag, 12.00 Uhr \n"
+      },
+      {
+        "@language": "en",
+        "@value": "Every Tuesday evening the night gondola of the Ahornbahn, Austria’s largest reversible ropeway, takes you up to the Ahornhütte mountain restaurant located at 2,000 meters above sea level. A delicious meal of soup, Tiroler Gröstl (a traditional Tyrolean fried potato dish with meat and onions), and dessert, along with fantastic views of the valley at night, make for an unforgettable mountain experience.\nReservations are required and must be made by 5.00 p.m. on Monday, either by phone at +43 (0) 5285/62277 or at one of the Mayrhofner Bergbahnen ticket windows. Tickets must be picked up at the ticket windows by 12:00 p.m. on the day of the event. The ticket windows are closed in the evenings. \n\nCozy evening at the Ahornhütte – Facts:\n\n• First date: 10 January 2017\n• Ahornbahn: Ascent at 6:30 p.m. and descent at 9:30 p.m. Please make sure you arrive on time!\n• Sturdy shoes are required (for the walk from the summit station to the Ahornhütte and back)\n• Dinner: Soup, Tiroler Gröstl (or cheese spaetzle for vegetarians), dessert\n• Price: Adults €39.00, Children €28.00 (drinks not included)\n• Tickets must be picked up by Tuesday, 12:00 noon"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/71ca302a-5c69-4951-90f1-5c2d2f6e5567/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "en",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "ru",
+            "@value": "Ahornhütte"
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-03-28T18:30:00",
+    "endDate": "2017-03-28"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "Hüttenabend am Ahorn"
+      },
+      {
+        "@language": "en",
+        "@value": "Cozy evening at the Ahornhütte"
+      },
+      {
+        "@language": "ru",
+        "@value": "Cozy evening at the Ahornhütte"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "Jeden Dienstag Abend geht es mit der Nachtgondel der Ahornbahn, der größten Gondel Österreichs, hinauf auf 2.000 m Seehöhe in die Ahornhütte. Ein köstliches Menü mit Suppe, Tiroler Gröstl, Dessert und spektakuläre Ausblicke ins Tal bei Nacht lassen den Abend zu einem unvergesslichen Erlebnis werden.\nDie erforderlichen Reservierungen werden bis jeweils Montag, 17.00 Uhr unter +43 (0) 5285/62277, oder an den Kassen der Mayrhofner Bergbahnen entgegen genommen. An den Kassen müssen alle Tickets bis spätestens 12.00 Uhr am Veranstaltungstag abgeholt werden. Die Kassen sind am Abend nicht besetzt!\n \nFacts Hüttenabend Ahornhütte:\n\n• Erster Termin: 10. Jänner 2017\n• Auffahrt um 18.30 Uhr mit der Ahornbahn, Talfahrt um 21.30 Uhr mit der Ahornbahn, bitte pünktlich an der Bahn sein!\n• Festes Schuhwerk erforderlich (Weg Bergstation – Ahornhütte \u0026 retour).\n• Abendessen: Suppe, Tiroler Gröstl, Dessert (Käsespätzle für Vegetarier)\n• Preis: Erwachsene Euro 39,00, Kinder Euro 28,00; Preis exkl. Getränke\n• Ticketabholung bis Dienstag, 12.00 Uhr \n"
+      },
+      {
+        "@language": "en",
+        "@value": "Every Tuesday evening the night gondola of the Ahornbahn, Austria’s largest reversible ropeway, takes you up to the Ahornhütte mountain restaurant located at 2,000 meters above sea level. A delicious meal of soup, Tiroler Gröstl (a traditional Tyrolean fried potato dish with meat and onions), and dessert, along with fantastic views of the valley at night, make for an unforgettable mountain experience.\nReservations are required and must be made by 5.00 p.m. on Monday, either by phone at +43 (0) 5285/62277 or at one of the Mayrhofner Bergbahnen ticket windows. Tickets must be picked up at the ticket windows by 12:00 p.m. on the day of the event. The ticket windows are closed in the evenings. \n\nCozy evening at the Ahornhütte – Facts:\n\n• First date: 10 January 2017\n• Ahornbahn: Ascent at 6:30 p.m. and descent at 9:30 p.m. Please make sure you arrive on time!\n• Sturdy shoes are required (for the walk from the summit station to the Ahornhütte and back)\n• Dinner: Soup, Tiroler Gröstl (or cheese spaetzle for vegetarians), dessert\n• Price: Adults €39.00, Children €28.00 (drinks not included)\n• Tickets must be picked up by Tuesday, 12:00 noon"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/71ca302a-5c69-4951-90f1-5c2d2f6e5567/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "en",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "ru",
+            "@value": "Ahornhütte"
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-04-04T18:30:00",
+    "endDate": "2017-04-04"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "FoodEvent"
+    ],
+    "name": [
+      {
+        "@language": "de",
+        "@value": "Hüttenabend am Ahorn"
+      },
+      {
+        "@language": "en",
+        "@value": "Cozy evening at the Ahornhütte"
+      },
+      {
+        "@language": "ru",
+        "@value": "Cozy evening at the Ahornhütte"
+      }
+    ],
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Mayrhofner Bergbahnen",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ahornstraße 853",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 62277 ",
+        "faxNumber": "+43 5285 62277-161",
+        "email": "info@mayrhofner-bergbahnen.com",
+        "url": "http://www.mayrhofner-bergbahnen.com"
+      }
+    },
+    "description": [
+      {
+        "@language": "de",
+        "@value": "Jeden Dienstag Abend geht es mit der Nachtgondel der Ahornbahn, der größten Gondel Österreichs, hinauf auf 2.000 m Seehöhe in die Ahornhütte. Ein köstliches Menü mit Suppe, Tiroler Gröstl, Dessert und spektakuläre Ausblicke ins Tal bei Nacht lassen den Abend zu einem unvergesslichen Erlebnis werden.\nDie erforderlichen Reservierungen werden bis jeweils Montag, 17.00 Uhr unter +43 (0) 5285/62277, oder an den Kassen der Mayrhofner Bergbahnen entgegen genommen. An den Kassen müssen alle Tickets bis spätestens 12.00 Uhr am Veranstaltungstag abgeholt werden. Die Kassen sind am Abend nicht besetzt!\n \nFacts Hüttenabend Ahornhütte:\n\n• Erster Termin: 10. Jänner 2017\n• Auffahrt um 18.30 Uhr mit der Ahornbahn, Talfahrt um 21.30 Uhr mit der Ahornbahn, bitte pünktlich an der Bahn sein!\n• Festes Schuhwerk erforderlich (Weg Bergstation – Ahornhütte \u0026 retour).\n• Abendessen: Suppe, Tiroler Gröstl, Dessert (Käsespätzle für Vegetarier)\n• Preis: Erwachsene Euro 39,00, Kinder Euro 28,00; Preis exkl. Getränke\n• Ticketabholung bis Dienstag, 12.00 Uhr \n"
+      },
+      {
+        "@language": "en",
+        "@value": "Every Tuesday evening the night gondola of the Ahornbahn, Austria’s largest reversible ropeway, takes you up to the Ahornhütte mountain restaurant located at 2,000 meters above sea level. A delicious meal of soup, Tiroler Gröstl (a traditional Tyrolean fried potato dish with meat and onions), and dessert, along with fantastic views of the valley at night, make for an unforgettable mountain experience.\nReservations are required and must be made by 5.00 p.m. on Monday, either by phone at +43 (0) 5285/62277 or at one of the Mayrhofner Bergbahnen ticket windows. Tickets must be picked up at the ticket windows by 12:00 p.m. on the day of the event. The ticket windows are closed in the evenings. \n\nCozy evening at the Ahornhütte – Facts:\n\n• First date: 10 January 2017\n• Ahornbahn: Ascent at 6:30 p.m. and descent at 9:30 p.m. Please make sure you arrive on time!\n• Sturdy shoes are required (for the walk from the summit station to the Ahornhütte and back)\n• Dinner: Soup, Tiroler Gröstl (or cheese spaetzle for vegetarians), dessert\n• Price: Adults €39.00, Children €28.00 (drinks not included)\n• Tickets must be picked up by Tuesday, 12:00 noon"
+      }
+    ],
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/71ca302a-5c69-4951-90f1-5c2d2f6e5567/99/image.jpg",
+        "caption": [
+          {
+            "@language": "de",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "en",
+            "@value": "Ahornhütte"
+          },
+          {
+            "@language": "ru",
+            "@value": "Ahornhütte"
+          }
+        ]
+      }
+    ],
+    "startDate": "2017-04-11T18:30:00",
+    "endDate": "2017-04-11"
+  }
+]

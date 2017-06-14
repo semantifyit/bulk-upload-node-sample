@@ -1,0 +1,669 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://members.aon.at/anderlerhof",
+    "http://maps.mayrhofen.at/?foreignResource\u003d94CF3B3F-4FB5-459C-843F-5C354312352F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Anderlerhof",
+    "streetAddress": "Dorf Haus 771",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62597",
+    "faxNumber": "0043 5285 62597",
+    "email": "anderlerhof@aon.at",
+    "url": "http://www.anderlerhof.at"
+  },
+  "name": "Anderlerhof",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt umgeben von denkmalgeschützten Bauernhäusern, in einem der ursprünglichsten Ortsteile von Mayrhofen, Dorf-Haus. In 5 Gehminuten können Sie bequem das Zentrum von Mayrhofen und die beiden Bergbahnen Penken- und Ahorn erreichen. Vom Schigebiet Ahorn gelangt man bei guten Schneeverhältnissen direkt mit den Schiern vors Haus. Das reichhaltige Frühstück zum Teil mit Produkten aus der eigenen Landwirtschaft, können Sie in der gemütlichen Zirbenstube mit Kachelofen einnehmen. Da unser Haus ein Partnerbetrieb des Schwimmbads ist, können Hausgäste kostenlos das Freischwimmbad in Mayrhofen und Hippach benützen. \n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Frühstück möglich - auf Anfrage Euro 8,-"
+    },
+    {
+      "@language": "de",
+      "@value": "In Mayrhofen beim Bahnhof vorbei bis zur Einfahrt Süd, dort links einbiegen und nach dem Kraftwerk in die erste Nebenstraße rechts einbiegen, dann noch ein Stück die Straße entlang bis zum Anderlerhof."
+    },
+    {
+      "@language": "en",
+      "@value": "Our recently renovated house is quietly situated in one of the oldest parts of Mayrhofen, surrounded by listed farm houses. The town centre, and lift stations are a comfortable 5 minute walk away. When snow conditions are good on the Ahorn, it is possible to ski right down to the front door. A generous breakfast, with some products from our own farm, can be enjoyed in our traditional lounge with tiled stove."
+    },
+    {
+      "@language": "en",
+      "@value": "breakfast available (Euro 8.-)."
+    },
+    {
+      "@language": "en",
+      "@value": "In Mayrhofen drive past the railway station, and carry on until Einfahrt Süd, turn left there and turn right into the first road after the power station, straight on a little bit, and you will be at the Anderlerhof."
+    },
+    {
+      "@language": "ru",
+      "@value": "Наши апартамены располагаются в окружении прекрасных крестьянских домиков, в одном из старейших районов Майрхофена. В 5 минутах ходьбы находятся центр Майрхофена и подъемники Пенкен и Ахорн. Из Ахорна, при достаточном количестве снега можно спуститься с горы прямо к нашему дому. Разнообразный завтрак, состоящий из продуктов производства нашей долины. Т.к. наш дом входит в партнерскую сеть с бассейном, наши гости могут бесплатно посещать бассейны в Майрхофене и Хиппахе."
+    },
+    {
+      "@language": "ru",
+      "@value": "В стоимость не входит: туристический налог и финальная уборка, завтрак по запросу (8 евро)"
+    },
+    {
+      "@language": "ru",
+      "@value": "В Майрхофене проезжаете мимо ж\\д станции до съезда на юг (Einfahrt Süd), там поверните налево и после электростанции сверните на первую улочку направо, далее прямо, пока не увидите наш дом Anderlerhof"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e83535ed-32c1-4d55-b1f5-7ff4c5a30cf2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Anderlerhof Mayrhofen - Sommer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Anderlerhof Mayrhofen - Sommer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Anderlerhof Mayrhofen - Sommer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ef8a670-ea19-49e2-a0ee-27de5e9543a1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Anderlerhof Mayrhofen - Winter 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Anderlerhof Mayrhofen - Winter 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Anderlerhof Mayrhofen - Winter 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9216ab3-f2eb-4376-b3b3-daf7eb8899bc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Anderlerhof Mayrhofen - Sommer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Anderlerhof Mayrhofen - Sommer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Anderlerhof Mayrhofen - Sommer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b629aee-7c25-4a4f-9920-9d6e36989b98/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Anderlerhof Mayrhofen - Ausblick Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Anderlerhof Mayrhofen - Ausblick Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Anderlerhof Mayrhofen - Ausblick Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c049248-1f81-452e-a7db-775ae68c695f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Anderlerhof Mayrhofen - Winter Impression"
+        },
+        {
+          "@language": "en",
+          "@value": "Anderlerhof Mayrhofen - Winter Impression"
+        },
+        {
+          "@language": "ru",
+          "@value": "Anderlerhof Mayrhofen - Winter Impression"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1a8fe293-9a40-462f-9769-3b2164841f82/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Anderlerhof Mayrhofen - Grundriss FEWO Grünberg"
+        },
+        {
+          "@language": "en",
+          "@value": "Anderlerhof Mayrhofen - Grundriss FEWO Grünberg"
+        },
+        {
+          "@language": "ru",
+          "@value": "Anderlerhof Mayrhofen - Grundriss FEWO Grünberg"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f5977dd-9964-4ec9-9b8b-f6f2081520d0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Anderlerhof Mayrhofen - Grundriss FEWO Ahorn"
+        },
+        {
+          "@language": "en",
+          "@value": "Anderlerhof Mayrhofen - Grundriss FEWO Ahorn"
+        },
+        {
+          "@language": "ru",
+          "@value": "Anderlerhof Mayrhofen - Grundriss FEWO Ahorn"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/72bcae58-cbae-4281-9b5b-caed970b2ea9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Anderlerhof Mayrhofen - Grundriss FEWO Penken"
+        },
+        {
+          "@language": "en",
+          "@value": "Anderlerhof Mayrhofen - Grundriss FEWO Penken"
+        },
+        {
+          "@language": "ru",
+          "@value": "Anderlerhof Mayrhofen - Grundriss FEWO Penken"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1e086ac-2be4-49df-a966-b20c70ccd74c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Anderlerhof Mayrhofen - Grundriss FEWO Steinerkogl"
+        },
+        {
+          "@language": "en",
+          "@value": "Anderlerhof Mayrhofen - Grundriss FEWO Steinerkogl"
+        },
+        {
+          "@language": "ru",
+          "@value": "Anderlerhof Mayrhofen - Grundriss FEWO Steinerkogl"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f7dd4ea-1c2b-4c67-9fd0-523328cf479c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Radfahren"
+        },
+        {
+          "@language": "en",
+          "@value": "Radfahren"
+        },
+        {
+          "@language": "ru",
+          "@value": "Radfahren"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/48116a52-b018-4c8c-b1a1-45e79c64819a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Klettersteig"
+        },
+        {
+          "@language": "en",
+          "@value": "Klettersteig"
+        },
+        {
+          "@language": "ru",
+          "@value": "Klettersteig"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4583fca3-0cc4-43a2-90fa-00d1d770a942/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Paragliden"
+        },
+        {
+          "@language": "en",
+          "@value": "Paragliden"
+        },
+        {
+          "@language": "ru",
+          "@value": "Paragliden"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c433b00-9b5d-4f24-86b7-158e72e8fe5e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skiurlaub"
+        },
+        {
+          "@language": "en",
+          "@value": "Skiurlaub"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skiurlaub"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/701c5d9b-c857-43c3-8955-bbcef8bf14c3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skifahren"
+        },
+        {
+          "@language": "en",
+          "@value": "Skifahren"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skifahren"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/49c185ef-2aef-4677-b7a7-b56bcc1a9244/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/23435784-f377-46c7-981d-f78f397db5f7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Anderlerhof Mayrhofen Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Anderlerhof Mayrhofen Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Anderlerhof Mayrhofen Küche"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1588733994875",
+    "longitude": "11.855503320694"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung \"Grünberg\", Personen 2 - 3 , Größe ca. 41 m² / 1. OG\t\ngroßzügiger Balkon, Schlafzimmer mit Doppelbett, Wohn- \u0026 Schlafraum mit Küchenzeile, Wasserkocher, Mikrowelle, Kaffeemaschine, Geschirrspüler, Dusche mit WC und Haarfön, Kabel-TV, W-LAN\t\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Large double rooms, (some with shower/WC, others with own bath), spacious, rustically furnished lounge/kitchen with a double sofa bed, 2 balconies, Sat-TV and dining area. Fully equipped kitchen, including oven or dishwasher and microwave."
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент \"Грюнберг\" на 2-3 чел. 41 м² (2-й этаж) В апартаменте есть: большой балкон, спальня с двуспальной кроватью, гостиная-спальня с кухонным уголком, чайником, микроволновкой, кофеваркой, посудомоечной машиной, душ с туалетом и феном, кабельное ТВ, Wi-Fi"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Grünberg und Steinerkogl"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./1 bedroom/shower,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Appartement \"Ahorn\", Personen 2, Größe ca. 23 m² / 1. OG\t\nAusstattung: großzügiger Balkon, Wohn- und Schlafraum mit Doppelbett (Beistellbett für Kind erfragen), Kabel-TV,  W-LAN, Küchenzeile mit Kühlschrank enthalten Mikrowelle, Wasserkocher, Kaffeemaschine, Dusche mit WC und Haarfön\t\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Spacious lounge/bedroom, with shower/WC, balcony, Sat-TV and dining area, fully equipped kitchen."
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент \"Ахорн\" на 2 чел. 23² (2-й этаж) В апартаменте есть: большой балкон, гостиная-спальня с двуспальной кроватью (кушетка для детей по запросу), кабельное ТВ, Wi-Fi, кухонный уголок с холодильником, микроволновкой, чайником, кофеваркой, душем с туалетом, фен."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ahorn"
+            },
+            {
+              "@language": "en",
+              "@value": "ap./combined living-bed-room/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung \"Penken\", für 2-4 Personen, Größe ca. 55 m² / 2. OG\t\ngroßzügiger Balkon, 2 Schlafzimmer mit Doppelbett, Wohn- \u0026 Schlafraum mit Küchenzeile, Kühlschrank, Wasserkocher, Herd mit Backofen, Kaffeemaschine, Geschirrspüler, 2 Duschen jeweils mit WC und Haarfön, Kabel-TV, W-LAN\t\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "holiday flat \"Penken\", for 2 up to 4 persons, size ca. 55 m² / 2. OG\ngenerous balcony, two bathrooms with a double-bed, living- and bedroom with kitchen, a fridge, a kettle, a cooker with an oven, caffee machine, a dishwasher, two showers with each a toilet and a hair dryer, a TV and W-LAN\n \n"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент \"Пенкен\" на 2-4 человек, 55м² (3-й этаж) В апартаменте есть: большой балкон, 2 спальни с двуспальной кроватью, спальня-гостиная, кухонный уголок, холодильник, чайник, плита с духовкой, кофеварка, посудомоечная машина, 2 душа, а также 2 туалета и фен, кабельное ТВ и Wi-Fi"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Penken"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütliche, geräumige Doppelzimmer mit Du/WC, Balkon, Sat-TV. Erweritertes Frühstück, zum Teil mit Produkten aus der eigenen Landwirtschaft."
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortable, spacious double room with shower/WC, balcony, Sat-TV. Continental breakfast with some products from own farm."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer Stillup"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "28.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

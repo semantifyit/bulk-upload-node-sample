@@ -1,0 +1,67 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Hautarzt Dr. Anton Bacher"
+    },
+    {
+      "@language": "de",
+      "@value": "Hautarzt Dr. Anton Bacher"
+    },
+    {
+      "@language": "ru",
+      "@value": "Hautarzt Dr. Anton Bacher"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1584383",
+    "longitude": "11.8454073"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Stilluppklamm 830",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 78485",
+    "email": "mayrhofen@hautarzt-bacher.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich willkommen, \n\nals Dermatologe kümmere ich mich in erster Linie um alle Formen von Hauterkrankungen und Allergien. Insbesondere ist es mir ein Anliegen darauf hinzuweisen, dass durch eine jährliche Hautvorsorgeuntersuchung Melanome früh erkannt und die Heilungschancen verbessert werden können. \nBei Problemen mit Besenreisern, Krampfadern, schmerzhaften oder geschwollenen Beinen wäre ein Venencheck zu empfehlen. Als in Venenheilkunde spezialisierter Arzt werden meinerseits sowohl verödende als auch operative Behandlungsmethoden angeboten. Diese können heutzutage meist ambulant und mit kurzen Ausfallzeiten durchgeführt werden. \n\nSollten Sie weitere Fragen haben, können Sie sich gern persönlich oder per email an uns wenden.\n\nDr. med Anton Bacher"
+    },
+    {
+      "@language": "de",
+      "@value": "Montag von 10:00 bis 18:00 \nDonnerstag von 08:00 bis 16:00\n\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e018d531-b5b7-4a51-ba64-18d41bb48bf2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Dr. Anton Bacher "
+        },
+        {
+          "@language": "de",
+          "@value": "Dr. Anton Bacher "
+        },
+        {
+          "@language": "ru",
+          "@value": "Dr. Anton Bacher "
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

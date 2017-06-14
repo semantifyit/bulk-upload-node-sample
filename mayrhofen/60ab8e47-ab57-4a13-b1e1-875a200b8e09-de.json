@@ -1,0 +1,118 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d60AB8E47-AB57-4A13-B1E1-875A200B8E09"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dorf 181",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64391"
+  },
+  "name": "Kröll Anna",
+  "description": [
+    "Gemütliche Ferienwohnung in ruhiger und zentraler Lage! Zum Skigebiet Mayrhofner Bergbahnen nur wenige Minuten!",
+    "Brötchenservice"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/efd4acff-d96e-4a40-bfd0-625d34ebb188/99/image.jpg",
+      "caption": "Anna Kröll Schwendau - Haus Sommer 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/defb5af1-ae69-4f18-bade-25cd5920cc50/99/image.jpg",
+      "caption": "Anna Kröll Schwendau - Haus Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d8e1c8f5-d67a-4ccc-98b0-6b6a299502a5/99/image.jpg",
+      "caption": "Anna Kröll Schwendau - Haus Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17afd9ca-70c3-48bb-855a-1a6e69ebb6eb/99/image.jpg",
+      "caption": "Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3adf1f57-ba7a-493f-96d7-2163472bb003/99/image.jpg",
+      "caption": "Schlafzimmer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/03a084b8-26e2-4e07-8082-8da1dd2c32c9/99/image.jpg",
+      "caption": "Schlafzimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/010928a1-5e8f-470d-9921-6a71f12c79cd/99/image.jpg",
+      "caption": "Schlafzimmer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/33f25205-2316-4f6f-b51c-4dad54ae8e0c/99/image.jpg",
+      "caption": "Schlafzimmer4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60a15d71-a549-4605-95e8-899c09dddd26/99/image.jpg",
+      "caption": "Schlafzimmer5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e515f167-708d-493c-be64-eeadca0159cb/99/image.jpg",
+      "caption": "Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/851b03e4-5823-469a-b81c-71076330146e/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/25a813b0-183d-4381-8b01-32151aada698/99/image.jpg",
+      "caption": "Küche1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/39a7eab2-49ef-4872-adc1-1bc9d70c438c/99/image.jpg",
+      "caption": "Küche2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1955413210199",
+    "longitude": "11.8563079833984"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "60m² große Wohnung, 2 Schlafzimmer, Wohnküche, Dusche und WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

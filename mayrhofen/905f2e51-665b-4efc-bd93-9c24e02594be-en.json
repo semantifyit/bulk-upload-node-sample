@@ -1,0 +1,282 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d905F2E51-665B-4EFC-BD93-9C24E02594BE"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Rauch",
+    "streetAddress": "Bichl 519",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "email": "barbara.peter.rauch@gmx.at"
+  },
+  "name": "Rauch Barbara",
+  "description": [
+    "Our house lies in sunny, quiet and central situation. Mayrhofen is 3.5 km  away and Zell am Ziller 4 km. The next bus or train stop is 1 km away. Passenger car parking space exist. Bread service possible\nInternet access in the whole house via W-Lan or D-Lan.\nNON-SMOKER\u0027S HOUSE! \nRestaurants in close vicinity.\n",
+    "final cleaning on request.",
+    "A12 Inntalautobahn, exit Zillertal, further on B169 Zillertalbundesstrasse, in Ramsau at the traffic lights straight ahead, exit Bichl (Fristo drinks), after 150 meters on the left, along the hotel Theresia, after 50 meters on the right, 100 meters just from, the house is on the left side.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a0639caa-e0f4-493c-bd0e-699991571300/99/image.jpg",
+      "caption": "Barbara Rauch Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/82f8abd3-e0c5-4375-b308-5f0778107804/99/image.jpg",
+      "caption": "Ferienwohnungen Rauch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2ab96cf-d039-42e2-8804-899f894543d7/99/image.jpg",
+      "caption": "Barabra Rauch Ramsau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d6ece82-c3ee-462a-a26a-e731afe6016d/99/image.jpg",
+      "caption": "Ferienwohnungen Rauch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3375cc57-0f81-47d0-a66f-18f1ce97f88c/99/image.jpg",
+      "caption": "Ferienwohnungen Rauch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d50c242e-6a72-49d8-8ad8-275ba9d1e2b9/99/image.jpg",
+      "caption": "Ferienwohnungen Rauch"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1953189686325",
+    "longitude": "11.8741393089294"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+      "description": "Lovely furnished holiday apartment approx 70 m², 2 separate sleeping rooms (1 double room, 1 twin room with separate beds) extra bed bookable on request, bathroom with bathtube and shower, separate toilet, hairdryer, small wardrobe on hallway, complete equipped combined living-kitchen with dinning table, stove with oven, refrigerator, small icebox, dishwasher, coffeemaker, kettle, microwave, table-and kitchenware, cutlery, plates, radio, sat-TV and sofa, bed linen and towels provided, NON SMOKER",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Apartment approx 70m², 2 separate sleeping rooms (1 double room, 1 twin room with separate beds), combined living-kitchen with eating corner, stove, oven, dish washer, kettle, coffeemaker, micro wave, radio, sat-TV, balcony with chairs, 2x shower/toilet, bedlinen and towels provided once, NON-SMOKER APARTMENT\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 2 bed rooms",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Apartment at ground level, 2 separate sleepingrooms with connection door (1 double 1 tiwn), combined living-dining room with kitchenette (coffeemaker, stove with oven, fridge, microwave, kitchenware) radio, sat-TV, sofa, dining table, shower/toilet, small wardrobe on hallway, bed linen provided, own entrance, no balcony! car park in front of the house, NON-SMOKER APARTMENT",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 2 bed rooms",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+      "description": "Lovely furnished holiday apartment approx 70 m², 2 separate sleeping rooms ( 1 double room, 1 twin room with separate beds) extra bed bookable on request, bathroom with bathtube and shower, separate toilet, small wardrobe on hallway, kitchen with dinning table, stove with oven, refrigerator,small icebox, dishwasher, microwave, coffeemaker, table- and kitchenware, cutlery, plates, cosy living room with sat-TV and sofa, bed linen and towels provided once, balcony, Non Smoker apartment",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "95.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

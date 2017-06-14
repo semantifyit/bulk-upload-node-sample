@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Museum",
+    "EntertainmentBusiness"
+  ],
+  "name": "Steinbock.Welten Zillergrund",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1207821295921",
+    "longitude": "12.0563793182373"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Naturparkhaus Ginzling",
+    "streetAddress": "Ginzling 239",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "+43 5286 52181 ",
+    "faxNumber": "+43 5286 5218-4",
+    "email": "info@naturpark-zillertal.at",
+    "url": "http://www.naturpark-zillertal.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/048022b0-8664-4e08-866d-665b217fbe3c/99/image.jpg",
+      "caption": "Steinbock"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e3d58e9b-df04-4d88-bb5a-af69415adb2e/99/image.jpg",
+      "caption": "Steinbock.Welten Zillergrund"
+    }
+  ],
+  "url": [
+    "http://www.naturpark-zillertal.at/naturpark-erleben/ausstellungen/steinbockwelten.html"
+  ]
+}

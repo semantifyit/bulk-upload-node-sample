@@ -1,0 +1,2399 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.villa-knauer.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d070ABEEE-4ACE-415C-A797-0D1DBEA22E92"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Villa Knauer, Hotel Garni",
+    "streetAddress": "Waldbadstraße 531",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62284",
+    "faxNumber": "0043 5285 62284 40",
+    "email": "info@villa-knauer.at",
+    "url": "http://www.villa-knauer.at"
+  },
+  "name": "Appart \u0026 Hotel Garni Villa Knauer",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Die VILLA KNAUER - das gemütliche Tiroler Haus! \n\nUnser Familienbetrieb bietet Ihnen Gastfreundschaft und Erholung für Ihren Urlaub in den Zillertaler Bergen. Mitten in Mayrhofen gelegen, ist die Villa Knauer der ideale Ausgangspunkt für Ihre Aktivitäten Sommer wie Winter. Ruhige Toplage im Ortszentrum. Seilbahnen, Erlebnisbad, Restaurants u. Shopping in unmittelbarer Nähe. Ihr Urlaubstag beginnt mit einem reichhaltigem Frühstücksbuffet in unserer Zirbenstube. Frühstücken nach Herzenslust  - freuen Sie sich auf unser Frühstücksbuffet mit heimischen Naturprodukten!  Brötchenservice für unsere Appartements.\n\nUnser Haus verfügt über Einbett, Doppel- oder Zweibett und Mehrbettzimmer, sowie Appartements für 2 bis 5 Personen. Nichtraucherzimmer/Appartements. Alle Zimmer mit Kabel-TV, Safe und Telefon\n\nHOTEL GARNI: Sauna, Dampfbad, Infrarotsauna und Solarium, Personenlift, Teeküche für Gäste, Gartenterrasse, gemütlicher Frühstücks- und Aufenthaltsraum, sonnige Spiel- und Liegewiese, Skiraum mit Schuhtrockner, versperrbarer Radabstellplatz, Tischtennisraum, Gäste-PC mit Internet-Benützung kostenlos, WLAN gegen Gebühr, Skipassverkauf im Hotel, genügend Parkplätze. \n\nFERIEN-APPARTHAUS (direkt gegenüber Hotel garni) Alle Einrichtungen im Hotel garni Villa Knauer  stehen unseren Gästen des Apparthauses zur Verfügung. Frühstücksbuffet auf Anfrage. Attraktiv eingerichtete Appartements mit allem Komfort, jeder Schlafraum mit eigenem Badezimmer,  Balkon oder Sonnenterrasse, WLAN gegen Gebühr, Küchenausstattung mit Spülmaschine u. Mikrogrill, alle Räume (Schlaf-und Wohnräume) mit TV \n\nWir sind Partnerbetrieb des NATURPARK-ZILLERTAL - nützen Sie die Angebote (kostenlos geführte Wanderungen usw.) Infos und Wanderkarten im Hotel erhältlich. "
+    },
+    {
+      "@language": "de",
+      "@value": "Unsere Preise verstehen sich inkl. Frühstücksbuffet für Zimmer im Hotel (nicht für Appartments), Benützung Sauna, Parkplatz, Transfer Bahnhof Mayrhofen, Kinderermäßigung auf Anfrage!  \n\nCheck-in ab 14.00 Uhr/Check-out bis 10.00 Uhr.  "
+    },
+    {
+      "@language": "de",
+      "@value": "Fahren Sie am Kreisverkehr MAYRHOFEN NORD gerade aus, am Bahnhof vorbei. MAYRHOFEN MITTE abbiegen. Am Postamt vorbei, über die Kreuzung der Hauptstrasse gerade aus. Rechts in die Waldbadstrasse einbiegen in Richtung Erlebnisbad bis zur VILLA KNAUER."
+    },
+    {
+      "@language": "de",
+      "@value": "Penkenbahn, Ahorn, Zillertal, Mayrhofen, Hippach, HIntertuxer Gletscher"
+    },
+    {
+      "@language": "en",
+      "@value": "The VILLA KNAUER - the comfortable Tyrolean house!\nOur family run business offers you hospitality and relaxation during your stay in the Zillertaler mountains. Situated in the middle of Mayrhofen, close to the lift stations and the adventure swimming pool, Villa Knauer is the ideal starting point for your holiday activities in summer and winter.  Your day will begin with a generous breakfast buffet in our traditional lounge.\nEquipped with: Sauna, steam bath and solarium, lift, drinks making facilties for guests, garden terrace, pleasant breakfast room/guest lounge, sunny playing and sun bathing area with children\u0027s playground, guest-PC with free internet access, takeout of skipasses directly at the house, plenty of car parking space.\n\nKNAUER - Appartments\n\nSTAYING AT THE APPARTHAUS: \nHoliday apartments opposite Villa Knauer \nOur new holiday apartments offer all kind of comfort\n\nModern and comfortably equipped: \nLight-flooded rooms with large seating areas and sofa \nFully-appointed kitchenette \nBedrooms, in part with twin beds \nAll bedrooms have a private bathroom \nSatellite TV with Radio in the living room and in the bedrooms \nInternet access for notebooks in every apartment \nSunbathing terrace and balcony with great panoramic view of the Zillertal mountains \n\nWe only have NON SMOKING apartments!"
+    },
+    {
+      "@language": "en",
+      "@value": "The price includes for rooms in the hotel (not for appartments) breakfast buffet, sauna and steam bath, car park, transfer from the railway station Mayrhofen. Children\u0027s price reductions on request!"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in from 14.00hr/Check out until 10.00hr.\nDirections: B169 until Mayrhofen, straight on at the roundabout, past the railway station, turn left into Mayrhofen Mitte.  Past the post office, straight over the next crossing, turn right into the Waldbadstrasse in the direction of the Erlebnisbad (swimming pool) until you reach Villa Knauer."
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "53"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/15d0be5a-d0d1-4464-b406-dc8fbbf6a1e0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Winter 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Winter 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Winter 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1d482d00-da53-4231-a03a-7c881632b936/99/image.png",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer_93-16-100-67"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer_93-16-100-67"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer_93-16-100-67"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/868b22db-d59c-4541-999e-d6d98c35073c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Sommer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Sommer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Sommer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96a1cf46-44f8-4b1c-b063-837d86695608/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Frühstücksraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Frühstücksraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Frühstücksraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/73f9d2a8-9cfd-47c6-b817-7b73948ec971/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Buffett1"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Buffett1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Buffett1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/20b11edf-c477-4217-8971-79a3666760a0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Gut angekommen !"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Gut angekommen !"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Gut angekommen !"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d5248b90-5722-4857-97b9-80dcb8069a94/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel-Appartement TIROL Wohnraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel-Appartement TIROL Wohnraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel-Appartement TIROL Wohnraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c9c38fb-bb0f-43b8-8d1c-e8a3f8b26db9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel-Appartement TIROL Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel-Appartement TIROL Schlafraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel-Appartement TIROL Schlafraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dfcb8d24-7687-4618-887b-8b4b56898742/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Zimmer Bild 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Zimmer Bild 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Zimmer Bild 4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2b32a9fa-acdb-45d4-8b24-669c3668eab5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Bad Bild 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Bad Bild 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Bad Bild 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fae9dc0d-d224-4a5b-a9a5-e4629700aed2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Zimmer Bild 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Zimmer Bild 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Zimmer Bild 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2645abc2-d680-4554-b6a5-e7d4353122ac/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Bad Bild 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Bad Bild 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Bad Bild 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fac2b1cf-41b4-40a0-b888-6faaf2af9b82/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Zimmer Bild 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Zimmer Bild 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Zimmer Bild 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60bb3b8e-85d1-4297-b57f-8d392c18ffc6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Zimmer Bild 5"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Zimmer Bild 5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Zimmer Bild 5"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/326b4043-0ce9-498f-b161-377cc8921545/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel-Appartement TIROL Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel-Appartement TIROL Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel-Appartement TIROL Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/62cf1224-696b-4f0b-ad14-9edc62b2a764/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Zimmer Bild 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Zimmer Bild 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Zimmer Bild 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/21c2d59f-c0d0-40e6-9c36-155c7e1934f0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Sauna 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Sauna 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Sauna 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/91b248aa-1978-46f2-851d-d8eeee28f6c3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Sauna 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Sauna 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Sauna 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2fa0e9a8-6973-4060-a915-400ebb3fba5e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Sauna 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Sauna 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Sauna 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/00c5510a-e587-41a4-b9a3-7cf1fac66182/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Infrarotsauna "
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Infrarotsauna "
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Infrarotsauna "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fd66abc4-e14b-44ad-93a4-60387385d7c3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56baf6fa-3599-444b-8980-729cadfe73ab/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ihre Gastgeberin Maria Knauer"
+        },
+        {
+          "@language": "en",
+          "@value": "Ihre Gastgeberin Maria Knauer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ihre Gastgeberin Maria Knauer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/668ecf28-b132-4a4d-b307-ee26ab07f881/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Hoteleingang 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Hoteleingang 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Hoteleingang 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/882b3664-cda2-4d9c-a046-b85c1aecb1e2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Gastgarten"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Gastgarten"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Gastgarten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e8e96644-bfbf-400a-b8bf-42765bc681d6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Liegewiese"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Liegewiese"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Liegewiese"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ebe7fe4-062f-4e6a-ba80-a45249469af0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Hoteleingang 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Hoteleingang 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Hoteleingang 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5659e6d0-2e72-4a01-8bf0-24185baa85c7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/748daef2-2d84-43b4-b01a-b72729ed967c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Apparthaus Villa Knauer"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Apparthaus Villa Knauer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Apparthaus Villa Knauer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da1074fe-7576-4418-9652-097edb0c2f93/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ihre Gastgeberin Maria Knauer"
+        },
+        {
+          "@language": "en",
+          "@value": "Ihre Gastgeberin Maria Knauer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ihre Gastgeberin Maria Knauer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5cca2ee7-1be1-4798-8c54-5f12be573683/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Winternacht"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Winternacht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Winternacht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2bb5e221-d614-4850-bbff-395405609d78/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Aufzug"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Aufzug"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Aufzug"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9754f5e0-b76a-4df5-8e4d-a8a90bb075d9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schneemann_03"
+        },
+        {
+          "@language": "en",
+          "@value": "Schneemann_03"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schneemann_03"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/46b123ce-8de8-4ba4-a762-9238e12eab4d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Knauer Mayrhofen - Stube"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Knauer Mayrhofen - Stube"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Knauer Mayrhofen - Stube"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1654095530785",
+    "longitude": "11.8640166521072"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche oder Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower or bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, Душевая кабина или ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Hotel garni VILLA KNAUER - Mayrhofen\nDoppelzimmer\n\nAlle unsere Zimmer wurden in den letzten Jahren liebevoll renoviert. Jedes Zimmer hat seinen eigenen, besondern Stil. Großzügige, helle Badezimmer mit Bad oder Dusche/WC, Kosmetikspiegel, Haarfön, Kabel-TV, Safe,Telefon,Radio, WLAN, Balkon.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room with bath or shower/WC, cable TV, safe, telephone, radio alarm and balcony. Children\u0027s price reductions on request!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche od. Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room Villa with shower or bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, Душевая кабина или ванна, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Advent-Wochenend-Pauschale 2 Tage"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower or bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower or bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Genießen Sie die ersten Wintertage in Mayrhofen der besonderen Art. \nDen ersten Schnee, den weihnachtlich, geschmückten Ort, und einen Adventabend am Waldfestplatz, wo Sie echten, stimmungsvollen Zillertaler Brauchtum erleben können! \n\nADVENT-Wochenend- Pauschale \n2 Tage Adventstimmung in Mayrhofen\n \n· 2 Übernachtungen mit Frühstücksbuffet \n \n· freie Saunabenützung \n \n· 2 Stunden Karte im Erlebnis-Hallenbad \n \n· Willkommensgetränk bei Ankunft \n \n· Besuch beim Mayrhofner Advent am Waldfestplatz bei einer Tasse Glühwein\nund stimmungsvoller Adventmusik\n \n· Schön \u0026 Gut (Shopping-) Gutschein \n \n· Zillertaler Superskipass mit Gletscher für 2 Tage\n \nPauschalpreis pro Pers im Doppelzimmer: € 210,00  \n"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/329507a5-cf05-459a-98ae-fa033d14a8e9/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Advent"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Advent"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Advent"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/1d1eca84-6c62-4d90-9e66-34268d531d5b/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Advent 1"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Advent 1"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Advent 1"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/854c7963-fe2b-48f8-9cdd-3d6982531ec9/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Skifahren"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Skifahren"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Skifahren"
+                }
+              ]
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Advent-Wochenend-Pauschale 3 Tage"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower or bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower or bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Genießen Sie die ersten Wintertage in Mayrhofen der besonderen Art. \nDen ersten Schnee, den weihnachtlich, geschmückten Ort, und einen Adventabend am Waldfestplatz, wo Sie echten, stimmungsvollen Zillertaler Brauchtum erleben können! \n\nADVENT-Wochenend- Pauschale \n3 Tage Adventstimmung in Mayrhofen\n \n· 3 Übernachtungen mit Frühstücksbuffet \n \n· freie Saunabenützung \n \n· 2 Stunden Karte im Erlebnis-Hallenbad \n \n· Willkommensgetränk bei Ankunft \n \n· Besuch beim Mayrhofner Advent am Waldfestplatz bei einer Tasse Glühwein\nund stimmungsvoller Adventmusik\n \n· Schön \u0026 Gut (Shopping-) Gutschein \n \n· Zillertaler Superskipass mit Gletscher für 2 Tage\n \nPauschalpreis pro Pers im Doppelzimmer: € 250,00  \n"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Advent-Wochen-Pauschale 7 Tage"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower or bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower or bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Genießen Sie die ersten Wintertage in Mayrhofen der besonderen Art. \nDen ersten Schnee, den weihnachtlich, geschmückten Ort, und einen Adventabend am Waldfestplatz, wo Sie echten, stimmungsvollen Zillertaler Brauchtum erleben können! \n\nADVENT-PAUSCHALE 7 Tage:\n7 Tage Mayrhofner Adventzauber \n \n·7 Übernachtungen im Komfortzimmer mit Frühstücksbuffet\n \n· freie Saunabenützung \n \n· Willkommensgetränk bei Ankunft\n \n· Besuch beim Mayrhofner Advent am Waldfestplatz mit einer Tasse Glühwein\nund stimmungsvoller Adventmusik\n \n· Schön \u0026 Gut (Shopping-) Gutschein \n \n·Zillertaler Superskipass mit Gletscher für 6 Tage\n \n· Besuch mit Führung im Strasser Häusl inkl. Gutschein für die Zillertal Bahn \n(von hier wurde das Lied „Stille Nacht, Heilige Nacht“ in die Welt hinaus getragen) \n \n \nPauschalpreis pro Pers im Doppelzimmer: € 560,00  \n"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Skiwelt Zillertal mt Tuxer Gletscher"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower or bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower or bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "SKIPAUSCHALE \n\n7 Übernachtungen mit Frühstücksbuffet inkl. 6 Tage Skipass \n\ngültig für alle Anlagen des Zillertales inkl. Hintertuxer-Gletscher\n \nSaunabenützung\n \n\n"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "YAHOI Mountainfestival-Wochenende"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower or bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower or bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "SOMMEROPENING MIT EINEM FEUERWERK DER MUSIK\n \n2 Übernachtungen im Doppelzimmer inkl. Frühstücksbuffet\nWillkommensgetränk\nSchlechtwetterbonus-Villa Knauer-Regenschirm\n3-Tages-Karte für das Mountainfestival mit Zeltfest\nPauschalpreis pro Person: € 90,00\n\n3 Tage - Musik und Stimmung mit:\ndie jungen Aschenwald\nTrio Alpin\nZillertaler Mander\nZellberg Buam\ndie Wettenberger \nWir sehen uns im Zillertal-Wir sehen uns beim YAHOI-Wir sehen uns in der Villa Knauer!\n"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "AKTIVWOCHE mit der Zillertal-Card I"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower or bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower or bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "*7 Übernachtungen im Doppelzimmer inkl. Frühstücksbuffet\n*Zillertal-Activ-Card für 6 Tage\n*geführte Bergtouren mit Wanderführer des Naturpark-Zillertal\n*Wanderkarte der Zillertaler Alpen\n*Rucksack, Trekking-Stöcke, Trinkflasche stellen wir leihweise zur Verfügung\n*Entspannung in unserer neuen \"INFRAROT-SAUNA\" durch Tiefenwärme\n*Besichtigung \"Naturpark-Infozentrum\" im Bergsteigerdorf Ginzling\n\n"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Tage des offenen Tales - 6 Tage"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower or bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, Душевая кабина или ванна, туалет"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Alle Leistungen können mit Zillertaler Gästekarte* kostenlos am 14. und 15.06.2014 genutzt werden!\n\nFreie Fahrt mit den Zügen der Zillertalbahn inkl. Dampfzug (nicht gültig für Gruppen) \nFreie Berg \u0026 Talfahrt mit der Spieljochbahn und musikalische Unterhaltung bei der Bergstation \nFreie Berg \u0026 Talfahrt mit der Finkenberger Almbahn und Bergfest am Penkenjoch: Zillertaler Musik und echte Zillertaler Spezialitäten bei der Penkentenne (15.06.2014) und bei Christas Skialm sowie informative Kräuterrundwanderung bei der Mittelstation\nFreie Berg \u0026 Talfahrt mit der Rosenalmbahn, Gerlossteinbahn, Ramsberglift, Isskogelbahn, Ahornbahn, Penkenbahn \nFreier Eintritt in alle Freibäder des Zillertals\nFreier Eintritt ins Heimatmuseum Fügen, Regionalmuseum Zell \nFreier Eintritt im Strasser Häusl in Laimach (nur am 15.06.2014) \nKostenlose Besichtigung der Ausstellung \"Seelische Berührung\" in der Galerie im FeuerWerk in Fügen (14.06.2014)\nKostenlose Besichtigung der ErlebnisSennerei Mayrhofen \nKostenlose Besichtigung der Erlebnisbrennerei Feldishütte \nKostenlose Auffahrt zum Schlegeisspeicher\nKostenlose Auffahrt zum Stillupspeicher\nKostenlose Besichtigung der Ausstellung \"Gletscher.Welten\" im Naturparkhaus Ginzling, der \"Kultur.Landschafts.Welten Mitterstall\" in Brandberg und der \"Steinbock.Welten\" Zillergrund \nKostenlose Besichtigung der Spannagelhöhle (nur am 15.06.2014) und des Natur Eis Palastes am Hintertuxer Gletscher (nur am 15.06.2014, Berg- und Talfahrt mit der Hintertuxer Gletscherbahn exklusive)\n*Die Vorlage einer für den Zeitraum (14.+15.06.2014) gültigen Gästekarte der Zillertaler Tourismusverbände berechtigt alle Gäste zum kostenlosen Eintritt bei den angeführten Betrieben."
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a98ede2b-b05f-47a4-9add-e8a81d2fce8e/99/image.png",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Logo"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Logo"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Logo"
+                }
+              ]
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Tage des offenen Tales - 4 Tage"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower or bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, Душевая кабина или ванна, туалет"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Alle Leistungen können mit Zillertaler Gästekarte* kostenlos am 14. und 15.06.2014 genutzt werden!\n\nFreie Fahrt mit den Zügen der Zillertalbahn inkl. Dampfzug (nicht gültig für Gruppen) \nFreie Berg \u0026 Talfahrt mit der Spieljochbahn und musikalische Unterhaltung bei der Bergstation \nFreie Berg \u0026 Talfahrt mit der Finkenberger Almbahn und Bergfest am Penkenjoch: Zillertaler Musik und echte Zillertaler Spezialitäten bei der Penkentenne (15.06.2014) und bei Christas Skialm sowie informative Kräuterrundwanderung bei der Mittelstation\nFreie Berg \u0026 Talfahrt mit der Rosenalmbahn, Gerlossteinbahn, Ramsberglift, Isskogelbahn, Ahornbahn, Penkenbahn \nFreier Eintritt in alle Freibäder des Zillertals\nFreier Eintritt ins Heimatmuseum Fügen, Regionalmuseum Zell \nFreier Eintritt im Strasser Häusl in Laimach (nur am 15.06.2014) \nKostenlose Besichtigung der Ausstellung \"Seelische Berührung\" in der Galerie im FeuerWerk in Fügen (14.06.2014)\nKostenlose Besichtigung der ErlebnisSennerei Mayrhofen \nKostenlose Besichtigung der Erlebnisbrennerei Feldishütte \nKostenlose Auffahrt zum Schlegeisspeicher\nKostenlose Auffahrt zum Stillupspeicher\nKostenlose Besichtigung der Ausstellung \"Gletscher.Welten\" im Naturparkhaus Ginzling, der \"Kultur.Landschafts.Welten Mitterstall\" in Brandberg und der \"Steinbock.Welten\" Zillergrund \nKostenlose Besichtigung der Spannagelhöhle (nur am 15.06.2014) und des Natur Eis Palastes am Hintertuxer Gletscher (nur am 15.06.2014, Berg- und Talfahrt mit der Hintertuxer Gletscherbahn exklusive)\n*Die Vorlage einer für den Zeitraum (14.+15.06.2014) gültigen Gästekarte der Zillertaler Tourismusverbände berechtigt alle Gäste zum kostenlosen Eintritt bei den angeführten Betrieben."
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/b36c9c3f-2127-4412-8e64-8e326f14756b/99/image.png",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Logo"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Logo"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Logo"
+                }
+              ]
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "53.80",
+          "maxPrice": "73.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Hotel garni VILLA KNAUER - Mayrhofen\nDoppelzimmer Typ B\n\nKomfort Doppelzimmer mit Dusche/WC, Schrankvorraum, Süd-Balkon mit Bergblick, ausgestattet mit gemütlicher Sitz u. Liegecouch, Kühlschrank, Telefon, Safe, Kabel-TV und Radio.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room with bath or shower/WC, cable TV, safe, telephone, radio alarm and balcony. Children\u0027s price reductions on request!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer Dusche, WC Typ B"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower or bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, Душевая кабина или ванна, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "56.30",
+          "maxPrice": "76.30",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "61.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "61.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Hotel garni VILLA KNAUER\n\nWohn-Schlafzimmer STUDIO DACHGIEBEL\ngemütliche Sofa-Wohnecke, DU/WC, Haarfön, Kochnische mit Kaffemaschine, Wasserkocher, Kochfeld, Kühlschrank. Kabel-TV, Safe, Telefon, WLAN, Balkon mit Abendsonne.\n\nWohn-Schlafzimmer STUDIO ZILLERTAL\nSofagarnitur u. zusätzliche Wohnliege. Bad m. Badewanne/DU, WC, Haarfön. Teeküche im Vorraum außerhalb des Zimmers  mit Kaffemaschine, Wasserkocher, Kochfeld, Kühlschrank. Kabel-TV, Safe, Telefon, WLAN, Balkon mit Morgensonne."
+        },
+        {
+          "@language": "en",
+          "@value": "Large double room with bath or shower/WC, furnished with a chair of sofa bed, safe, cable TV, telephone, radio alarm and balcony. Children\u0027s price reductions on request!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Wohn-Schlafzimmer \"Studio\""
+            },
+            {
+              "@language": "en",
+              "@value": "Wohn-Schlafzimmer \"Studio\""
+            },
+            {
+              "@language": "ru",
+              "@value": "3-местный номер, ванна, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Hotel garni VILLA KNAUER - Mayrhofen\nWohn-Schlafzimmer LANDLEBEN\n\nIm Tiroler Landhausstil eingerichtet, mit gemütlicher Sitzecke und Liegecouch, Schreibtisch, ausgestattet mit Telefon, Safe, Kühlschrank, WLAN, Kabel-TV, Vorraum mit Garderobe und Kleiderschrank. Großzügiges Badezimmer mit Doppelwaschbecken, Dusche/WC, Radio im Bad und Schlafraum, Haarfön, Handtuchtrockner, großer Sonnenbalkon mit Panoramablick. "
+        },
+        {
+          "@language": "en",
+          "@value": "Bedroom and living room in traditional Tirolean style - comfortable sitting and sofa-sleeper. The spruce wood furniture ensures an elegant atmosphere and true well-being. Anteroom with wardrobe and cupboard, desk, internet access (WLan also available), phone, safe, fridge, digital cable TV. \nSpacious and bright bathroom with shower/WC, two washing stands, hairdryer, radio. \nLarge sun-terrace with unobstructed view of the Zillertal mountains.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Wohn-Schafzimmer \"Landleben\" DU/WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Wohn-Schafzimmer \"Landleben\" DU/WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "52.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Suite, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Suite, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Люкс, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Hotel garni VILLA KNAUER - Mayrhofen\nPANORAMA-SUITE\n\nIm eleganten Landhausstil eingerichtet, getrennter Wohn-und Schlafraum, großes Doppelbett mit Möglichkeit für Betten getrennt, gemütliche Sitzecke mit Liegecouch, Garderobe, großzügiges Badezimmer mit Dusche/WC, Haarfön, Handtuchtrockner, Radio im Bad und Schlafraum, WLAN, Telefon, Safe, Kühlschrank, Kabel-TV im Wohn-und Schlafraum, großer Balkon mit Panoramablick."
+        },
+        {
+          "@language": "en",
+          "@value": "Furnished in elegant traditional style. Separate bed and living room with comfortable sitting and sofa-sleeper, wardrobe. Spacious bathroom with panoramic view, shower/WC, hairdryer, radio. \nInternet access (WLan also available), phone, safe, fridge, cable-TV in bedroom and living room. Large balcony with unobstructed view of the mountains.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "\"Panorama-Suite\" DU/WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Suite, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "Suite, shower, toilet"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferien-Apparthaus VILLA KNAUER Mayrhofen \nDoppelzimmer im Apparthaus\n\nmit Dusche/WC , Kabel-TV, Safe, Telefon, Radio im Bad, WLAN, Balkon. \nFolgende Einrichtungen im Hotel garni Villa Knauer (gegenüber) stehen Ihnen zur Verfügung: Sauna, Infrarotsauna, Solarium, Dampfbad, Internet-Station, Garten/Liegewiese, Frühstücksbuffet.\n\nKinderermäßigung auf Anfrage, Einzelbelegung möglich. \n"
+        },
+        {
+          "@language": "en",
+          "@value": "All of our rooms have been nicely redecorated during the last years. Every room has its individual style.\nFacilities of our rooms:\nSpacious and bright bathrooms with shower or bath tub / WC, vanity mirror, hairdryer, cable TV, safe, telephone, radio, Internet access, balcony.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer Apparthaus mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower, toilet"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "51.00",
+          "maxPrice": "67.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "41.00",
+          "maxPrice": "57.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Hotel garni VILLA KNAUER - Mayrhofen\nSINGLE KOMFORT\n\nGeräumiges Einbettzimmer mit gemütlichem Couchsessel, in heller Asteiche eingerichtet, Bettgröße 120x200 cm (eventuell auch für 2 Personen möglich). Badezimmer mit Dusche/WC, Haarfön, Digital-Kabel-TV, Radio, Telefon, WLAN, Safe, Kühlschrank, Balkon mit Blick zum Garten und herrlicher Bergsicht."
+        },
+        {
+          "@language": "en",
+          "@value": "Single room with shower/WC, cable TV, safe, telephone, radio alarm and balcony."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "single room Villa with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "53.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Hotel garni VILLA KNAUER  Mayrhofen\nHotel-Appartement TIROL\n\neingerichtet in heimischen Zirbenholz, Wohnraum mit Kachelofen-Sitzecke u.Liege, Küche, Schlafraum mit Doppelbett u. Einzelschlafcouch, Vorraum, separates WC, Badezimmer mit Dusche/WC, Haarfön, Radio im Bad, Kabel-TV im Wohn- u. Schlafraum, WLAN, Telefon, Safe, Balkon.\nKinderermäßigung auf Anfrage! Endreinigung: Euro 40,-\n\nFolgende Einrichtungen im Hotel garni Villa Knauer stehen Ihnen zur Verfügung: Sauna, Dampfbad, Infrarotsauna."
+        },
+        {
+          "@language": "en",
+          "@value": "New hotel apartment in Tirolean style with stone-pine wood furniture, comfortable living room with kitchen and homey tiled stove with sitting. \nFurnished with: micro grill, dishwasher, coffee maker, fridge, Ceran hob, kettle.\nBedroom with double bed and single sofa-sleeper, cable TV. \nAnteroom with cupboard and wardrobe, additional WC.\nBathroom with shower/WC, hairdryer, radio.\nCable TV, internet access in bedroom and living room, phone, radio and safe.\nLarge balcony with view of the Zillertal mountains (morning and evening sun).\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Hotel-Appartement \"TIROL\" 44m²"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 1 bed room"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet, 1 спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "102.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "122.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferien-Apparthaus VILLA KNAUER Mayrhofen - App.THERESA\n\n2 Schlafzimmer mit eigenem Badezimmer mit Dusche/WC, Haarfön, Kosmetikspiegel, Radio im Bad, Vorraum mit Schrankgarderobe, Wohnraum mit Küche, Sitzecke und Liegecouch, Kabel-TV, WLAN, Telefon, Safe, Balkon und südseitige Sonnenterrasse.\nKinderermäßigung auf Anfrage! Endreinigung: Euro 50,-\n\nFolgende Einrichtungen im Hotel garni Villa Knauer (gegenüber) stehen Ihnen zur Verfügung: Sauna, Infrarotsauna, Dampfbad.\nFrühstücksbuffet auf Anfrage!"
+        },
+        {
+          "@language": "en",
+          "@value": "2 bedrooms with double bed\n2 bathrooms with shower/WC, towel-dryer, hair-dryer, radio, makeup mirror, \ncozy living room with kitchenette, sitting area and sofa sleeper,\ncable TV with radio + Internet access, telephone, safe, \nsun terrace offering great views of the Zillertal mountains. \n\nOn request you can also book a double room or single room with shower with your apartment.\n\nDaily cleaning on request!\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "App. THERESA 56m²/2 Schlafräume"
+            },
+            {
+              "@language": "en",
+              "@value": "app. THERESA 56m²-2 bedrooms/shower/WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "130.00",
+          "maxPrice": "185.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "140.00",
+          "maxPrice": "185.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "160.00",
+          "maxPrice": "205.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "180.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferien-Apparthaus VILLA KNAUER Mayrhofen - App. ROSINA \n\n2 Schlafzimmer, davon 1 Zimmer mit getrennt stehenden Betten möglich, 2 Badezimmer mit Dusche/WC, Haarfön, Kosmetikspiegel, Radio im Bad, Küche, Wohnraum mit Sitz- u.Liegecouch, Esstisch, Kabel-TV, WLAN, Telefon, Safe, Balkon.\nKinderermäßigung auf Anfrage! Endreinigung: Euro 50,-\n\nFolgende Einrichtungen im Hotel garni Villa Knauer (gegenüber) stehen Ihnen zur Verfügung: Sauna, Infrarotsauna, Dampfbad.\nFrühstücksbuffet auf Anfrage!"
+        },
+        {
+          "@language": "en",
+          "@value": "2 bedrooms with double beds (twin beds are available for one of the bedrooms),\n2 bathrooms with shower/WC, towel dryer, radio, hair-dryer and vanity mirror.\nKitchen, living room with couch, dining table, cable TV with radio in bedroom and living room, Internet access, phone and safe. Balcony overlooking the Zillertal mountains. \n\nOn request you can also book a double room or single room with shower/WC with your apartment.\n\nDaily cleaning on request! \n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "App. ROSINA  56m²/2 Schlafräume"
+            },
+            {
+              "@language": "en",
+              "@value": "app. ROSINA 56m²/2 bedrooms/shower/WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "130.00",
+          "maxPrice": "185.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "140.00",
+          "maxPrice": "185.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "160.00",
+          "maxPrice": "205.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "180.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferien-Apparthaus VILLA KNAUER Mayrhofen - App. MARIA \n\nSchlafzimmer mit Doppelbett u. Einzelschlafcouch, getrennt stehende Betten möglich. Bad mit Badewanne/DU, WC, Haarfön, Kosmetikspiegel, Radio im Bad. Wohnraum mit ausziehbarer Sitzcouch, Küche, Kabel-TV, WLAN, Telefon, Safe, Balkon.\nKinderermäßigung auf Anfrage! Endreinigung: Euro 40,-\n\nFolgende Einrichtungen im Hotel garni Villa Knauer (gegenüber) stehen Ihnen zur Verfügung: Sauna, Infrarotsauna, Dampfbad.\nFrühstücksbuffet auf Anfrage!"
+        },
+        {
+          "@language": "en",
+          "@value": "Bedroom with double bed (possibility to have two separate beds) and additional single sofa-sleeper, separate beds are available on request. \nBathroom with shower/tub/WC, towel dryer, radio, hair-dryer, make-up mirror, \nhomey living room with pull-out couch and kitchenette, cable TV with radio in the living and bedroom,\nInternet access, telephone, safe, balcony\n\nOn request you can book a double or single room with shower/WC with your apartment.\n\nDaily cleaning on request.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "App. MARIA   35m²/1 Schlafraum"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, bath, toilet"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "87.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "107.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "127.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferien-Apparthaus VILLA KNAUER Mayrhofen - App. ANNA \n\n1 Schlafzimmer, Vorraum mit Garderobe, Badezimmer mit Dusche, WC separat, Haarfön, Kosmetikspiegel, Radio im Bad, Wohnraum mit Küche, Sitzecke und Liegecouch, Kabel-TV, WLAN, Telefon,Safe, Balkon und südseitige Sonnenterrasse.\nKinderermäßigung auf Anfrage! Endreinigung: Euro 40,-\n\nFolgende Einrichtungen im Hotel garni Villa Knauer (gegenüber) stehen Ihnen zur Verfügung: Sauna, Infrarotsauna, Dampfbad.\nFrühstücksbuffet auf Anfrage!"
+        },
+        {
+          "@language": "en",
+          "@value": "Bedroom with double bed (possibility to have two separate beds) and additional single sofa-sleeper, separate beds are available on request. \nBathroom with shower/tub/WC, towel dryer, radio, hair-dryer, make-up mirror, \nhomey living room with pull-out couch and kitchenette, cable TV with radio in the living and bedroom,\nInternet access, telephone, safe, balcony\n\nOn request you can book a double or single room with shower/WC with your apartment.\n\nDaily cleaning on request.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "App. ANNA    35m²/1 Schlafraum"
+            },
+            {
+              "@language": "en",
+              "@value": "app. ANNA 35 m²/1 bedroom/shower,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "87.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "107.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "127.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferien-Apparthaus VILLA KNAUER Mayrhofen - App. THERESA II \n\nSchlafzimmer, Badezimmer mit Dusche/WC, Haarfön, Kosmetikspiegel, Radio im Bad, Vorraum mit Schrankgarderobe, Wohnraum mit Küche, Sitzecke und Liegecouch, Kabel-TV, WLAN, Telefon, Safe, großer Balkon und südseitige Sonnenterrasse. \nKinderermäßigung auf Anfrage! Endreinigung: Euro 40,-\n\nFolgende Einrichtungen im Hotel garni Villa Knauer (gegenüber) stehen Ihnen zur Verfügung: Sauna, Infrarotsauna, Dampfbad.\nFrühstücksbuffet auf Anfrage!"
+        },
+        {
+          "@language": "en",
+          "@value": "Bedroom with double bed, bathroom with shower/WC, towel dryer, radio, hair-dryer, make-up mirror, homey living room with kitchen, sitting corner and pull-out couch; entrance room with wardrobe; cable TV with radio in the living and bedroom, Internet access, telephone, safe; sun-terrace and balcony with unobstructed view of the Zillertal mountains.\n\nOn request you can also book a double or single room with shower/WC with your apartment.\n\nDaily cleaning on request!\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "App. THERESA II 35m²/1 Schlafraum"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "87.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "107.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "127.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche oder Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower or bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, Душевая кабина или ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Hotel garni VILLA KNAUER - Mayrhofen\nDoppelzimmer\n\nAlle unsere Zimmer wurden in den letzten Jahren liebevoll renoviert. Jedes Zimmer hat seinen eigenen, besondern Stil. Großzügige, helle Badezimmer mit Bad oder Dusche/WC, Kosmetikspiegel, Haarfön, Kabel-TV, Safe,Telefon,Radio, WLAN, Balkon.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room with bath or shower/WC, cable TV, safe, telephone, radio alarm and balcony. Children\u0027s price reductions on request!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer Dusche od. Bad, WC online buchbar"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower or bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower or bath, toilet"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Skiwelt Zillertal mt Tuxer Gletscher"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower or bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower or bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "SKIPAUSCHALE \n\n7 Übernachtungen mit Frühstücksbuffet inkl. 6 Tage Skipass \n\ngültig für alle Anlagen des Zillertales inkl. Hintertuxer-Gletscher\n \nSaunabenützung\n \n\n"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/320db7d4-f7a9-4d25-96a0-45ef0de27b1e/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Skifahren"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Skifahren"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Skifahren"
+                }
+              ]
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "AKTIVWOCHE mit der Zillertal-Card I"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower or bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower or bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "+ 7 Übernachtungen im Doppelzimmer inkl. Frühstücksbuffet\n+ Zillertal-Activ-Card für 6 Tage\n+ geführte Bergtouren mit Wanderführer des Naturpark-Zillertal\n+ Wanderkarte der Zillertaler Alpen\n+ Rucksack, Trekking-Stöcke, Trinkflasche stellen wir leihweise zur Verfügung\n+ Entspannung in unserer neuen \"INFRAROT-SAUNA\" durch Tiefenwärme\n+ Besichtigung \"Naturpark-Infozentrum\" im Bergsteigerdorf Ginzling\n\n"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/bd12359f-0f0f-4c87-8bed-fb81ff855bb3/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Zillertal Activ Card"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Zillertal Activ Card"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Zillertal Activ Card"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ea53abe9-9997-4f4c-a458-d42b355886b8/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Wanderer"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Wanderer"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Wanderer"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/69b80d5f-8e32-4522-8888-2c304cf9aee1/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Doppelzimmer"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Doppelzimmer"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Doppelzimmer"
+                }
+              ]
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "53.80",
+          "maxPrice": "73.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche oder Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower or bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, Душевая кабина или ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Hotel garni VILLA KNAUER - Mayrhofen\nDoppelzimmer\n\nAlle unsere Zimmer wurden in den letzten Jahren liebevoll renoviert. Jedes Zimmer hat seinen eigenen, besondern Stil. Großzügige, helle Badezimmer mit Bad oder Dusche/WC, Kosmetikspiegel, Haarfön, Kabel-TV, Safe,Telefon,Radio, WLAN, Balkon.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room with bath or shower/WC, cable TV, safe, telephone, radio alarm and balcony. Children\u0027s price reductions on request!"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer K Dusche od. Bad, WC online buchbar"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower or bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower or bath, toilet"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Enduro Tage"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower or bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower or bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "ENDURO Tage \nAction auf zwei Rädern - das perfekte Bike Wochenende\nDas atemberaubende Angebot für den sportlichen \"All Mountain Rider\" enthält flowige bis technische Single Trails in alpinem Terrain und erfordert etwas Erfahrung am Bike. Der lokale Guide-Profi führt Sie sicher über Almen und Wälder in der Bergwelt rund um Mayrhofen im Zillertal\nInkludierte Leistungen:\n3 Übernachtungen im Doppelzimmer der Villa Knauer\nVital-BIO-Biker-Frühstück mit Heumilchprodukten und Power-Müsliriegel für die Tour\n2 Tage Bike Guiding mit dem Bikeprofi Alex Ganster\n1 Tages Karte Bike Mayrhofner Bergbahnen\n1 Taxi Shuttle am 2. Tag\nSaunabenützung mit Bademantel\nEntspannung der Muskeln in der „INFRAROT-SAUNA“ mit anschließender Beinmassage\nVersperrter Abstellplatz und Radwaschstation (Waschservice für Biker-Dress)\nTermine:\n21.06. - 23.06.2013 Preis pro Person: € 350,00\n12.07. - 14.07.2013 und 09.08. - 11.08.2013 Preis pro Person: € 370,00\nzuzügl. Ortstaxe von € 1,50 pro Person/Tag\nAnmerkung:\nVerlängerung auf Anfrage möglich!!! \n"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/853c467c-fdee-4b87-a97d-aaf06e2216bb/99/image.png",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Enduro Tage "
+                },
+                {
+                  "@language": "en",
+                  "@value": "Enduro Tage "
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Enduro Tage "
+                }
+              ]
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "53.80",
+          "maxPrice": "73.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

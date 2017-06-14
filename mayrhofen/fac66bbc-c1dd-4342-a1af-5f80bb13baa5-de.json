@@ -1,0 +1,60 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dFAC66BBC-C1DD-4342-A1AF-5F80BB13BAA5"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 409",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 2424",
+    "email": "annemarie.kreidl@gmx.at"
+  },
+  "name": "Kreidl Annemarie",
+  "description": [
+    "Neues Haus am Ortsrand von Ramsau",
+    "Haustiere nicht Erlaubt",
+    "Check in: 13.00 Uhr\nCheck out: 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b0b2d4e4-2a4a-4242-9d19-b7b156659df0/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2041941148177",
+    "longitude": "11.8773150444031"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Küche komplett ausgestattet mit Spülmaschine, 4-Plattenherd mit Backrohr, Kühlschrank und Gefrierfach, Wasserkocher, Kaffeemaschine, Geschirr;\nSitzecke, Sat-TV, Terrasse, Garderobe, Dusche und WC getrennt;\n1 Doppelzimmer und 1 Zimmer für 1 Person mit Ausziehcouch;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

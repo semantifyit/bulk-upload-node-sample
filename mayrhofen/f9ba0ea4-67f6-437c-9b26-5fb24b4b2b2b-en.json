@@ -1,0 +1,75 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dF9BA0EA4-67F6-437C-9B26-5FB24B4B2B2B"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Theres, Domizil",
+    "streetAddress": "Dorf 140",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 63989",
+    "email": "helmut.tipotsch@outlook.com"
+  },
+  "name": "Domizil Theres",
+  "description": "Welcome in the Domizil Theres!\nthree double rooms, balcony, breakfast, clam, sunny location near Mayrhofen, a room with Tv, skiing cellar, skibus, valleybus are near the Domizil, car park...\n\nrequest per phone!\n\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/021b3dcb-5aaa-4072-a32c-ca30d6e91a5c/99/image.jpg",
+      "caption": "Domizil Theres Schwendau - Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1970430865178",
+    "longitude": "11.8608435988426"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet, quiet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

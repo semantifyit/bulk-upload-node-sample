@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "\"Guten Morgen Österreich\" show live from Mayrhofen",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Tourismusverband Mayrhofen Hippach ",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstraße 225 ",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "(0043)5285 6760",
+      "email": "info@mayrhofen.at",
+      "url": "http://www.mayrhofen.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Tourismusverband Mayrhofen Hippach ",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstraße 225 ",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "(0043)5285 6760",
+      "email": "info@mayrhofen.at",
+      "url": "http://www.mayrhofen.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c44f6e6c-ddbf-4353-ad1e-e439d204bcf9/99/image.jpg",
+      "caption": "Guten Morgen Österreich"
+    }
+  ],
+  "startDate": "2017-05-04T06:00:00",
+  "endDate": "2017-05-04"
+}

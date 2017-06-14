@@ -1,0 +1,212 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.tiscover.com/landhaus.kroellin",
+    "http://maps.mayrhofen.at/?foreignResource\u003d9B14776D-E931-4B0D-9CAA-2CBFB040613B"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "zur Kröllin, Landhaus",
+    "streetAddress": "Kumbichl 877",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62907",
+    "email": "info@landhauskroellin.com",
+    "url": "http://www.landhauskroellin.com"
+  },
+  "name": "Landhaus zur Kröllin",
+  "description": [
+    "For those not wanting to miss out on home comforts on holiday, enjoy natural surroundings with natural bed linen, and can go without smoking in the living area.\nComfortable country house in a quiet location, surrounded by meadows. Large garden with summer house and pond, sun terrace with deck chairs, farmers lounge. A 2-3 minute walk to the lifts, sking to the front door, ski store room, toboganning, cross country ski and skating trail from house. Plenty of car parking.",
+    "The price includes heating, electricity, water, car parking, mid week clean. \nExclusiv a final cleaning charge and local taxes.",
+    "Check out: until 10.00hr.\nDirections: Access Mayrhofen at Einfahrt Mitte, right at the first junction, straight on up the high street and turn left immediately after the bridge, right where the road forks, and straight on until you reach our house."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f098b53-384a-40a6-933c-34f5d3fb0f73/99/image.jpg",
+      "caption": "Landhaus zur Kröllin - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bda491c5-1a36-4b88-a456-71ad0f0f32d1/99/image.jpg",
+      "caption": "Landhaus zur Kröllin - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f3e965b-0b67-4cde-ad24-cda32a795c5f/99/image.jpg",
+      "caption": "Landhaus zur Kröllin - Seerosen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/11fafc8d-6415-4348-90a0-ae96b808b4e0/99/image.jpg",
+      "caption": "Landhaus zur Kröllin - Kinderspielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/140b8121-6cc4-433d-8cc4-e2400aeb84cd/99/image.jpg",
+      "caption": "Landhaus zur Kröllin - Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3189f913-7d7c-4b3d-a67f-0a8d5ea952f3/99/image.jpg",
+      "caption": "Landhaus zur Kröllin - Rauchkuchl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52b1e48d-5563-414f-955c-cd5337ab2ac4/99/image.jpg",
+      "caption": "Landhaus zur Kröllin - Kamin"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/95844ca2-c438-4b93-baa0-b47e020f229f/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2dfd1b7d-13bd-44ea-b1e7-773b0aee072e/99/image.jpg",
+      "caption": "Funpark Mayrhofner Bergbahnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1fcb2ff-ce99-4e42-a3c2-a31aac97b511/99/image.jpg",
+      "caption": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.158971671672",
+    "longitude": "11.8610141781789"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet",
+      "description": "42m², 1 lounge/bedroom, SAT-TV, couch, writing desk, 1 separate bedroom with bunk beds, balcony, entrance hall with cooking facilities, coffee machine, tea towels supplied, shower/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.liv.-bedroom/1 bedroom/bath,wc",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "88.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "88.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "88.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower or bath, toilet, 1 bed room",
+      "description": "35m², 1 double bedroom, some with four poster bed, lounge with dining area, SAT-TV, couch, south facing balcony, entrance hall with cooking facilities, coffee machine, tea towels supplied, bath or shower/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap./1 bedroom/shower or bath tube, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "73.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+      "description": "73m², writing desk, couch, 2 bedrooms with TV, both bedrooms with bathroom (bath or shower) with WC, 1 lounge with sleeping arrangements, entrance hall with cooking facilities, coffee machine, microwave, dish washer, tea towels, balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower,bath tube,WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "125.00",
+          "maxPrice": "177.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "161.00",
+          "maxPrice": "229.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "161.00",
+          "maxPrice": "229.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "161.00",
+          "maxPrice": "229.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

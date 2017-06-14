@@ -1,0 +1,67 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dCC18C8B1-0F5E-4F8B-AA4A-FF92A14C3438"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hochstegen 843",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64823",
+    "email": "gahleitner@z-line.at"
+  },
+  "name": "Gahleitner Carola",
+  "description": [
+    "Herzlich Willkommen in unserer neuen Ferienwohnung! Unsere 65m² große Wohnung wurde rollstuhlgerecht eingerichtet. Wir sind ca. 3 km vom Ortszentrum entfernt, in ruhiger, verkehrsarmer Lage.",
+    "Preise inkl. Wäsche, Strom, Heizung; exkl. Endreinigung",
+    "Vom Kreisverkehr ausgehend richtung taleinwärts bis zur Kreuzung Tux-Ginzling, dort gerade aus Richtung Ginzling ca. 300 m erste Straße rechts geradeaus weiter ca. 100 m bis zur Querstraße, dann links abbiegen. Das erste Haus auf der linken Straßenseite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca50f1e8-3465-4f54-ac12-f1dfe876d483/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1566373543246",
+    "longitude": "11.8390667438507"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Ferienwohnung für 4 bis 7 Personen. 2 Schlafzimmer (1 Doppelzimmer, 1 Dreibettzimmer mit Etagenbett), 1 komplett eingerichtete Wohnküche: 25 m² mit ausziehbarer Doppelcouch, Kaffemaschine, Geschirrspüler, Mikrowelle, SAT-TV, Radio; 1 Badezimmer mit DU/WC, Föhn, Badetücher + Handtücher, 1 separates WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

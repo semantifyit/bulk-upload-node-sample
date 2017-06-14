@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d9210BCEF-10FE-4E93-B5E7-1BDB222B706D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Talstraße 104",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3168",
+    "email": "familie.schiestl@aon.at"
+  },
+  "name": "Schiestl Erna",
+  "description": "Ruhige, zentrale Lage in Ramsau, nur 5 Gehminuten vom Zentrum entfernt.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1351374f-3440-48d7-a8a1-6e86831ba91c/99/image.jpg",
+      "caption": "Schiestl Erna Ramsau - Sommerbild"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2018251245409",
+    "longitude": "11.8707489967346"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, fl. k/w Wasser",
+      "description": "Zimmer mit Etagendusche und WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

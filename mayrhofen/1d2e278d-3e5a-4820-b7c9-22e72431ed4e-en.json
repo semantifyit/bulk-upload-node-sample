@@ -1,0 +1,133 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d1D2E278D-3E5A-4820-B7C9-22E72431ED4E"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstrasse 418",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 150 14 37 ",
+    "email": "hypo.apart@gmx.at"
+  },
+  "name": "Appartments Hypo",
+  "description": [
+    "The Hypo Appartments are located in the centre of Mayrhofen. From here lots shops, bars and restaurants as wells as the Penken and Ahorn cable car can be reached by foot.  ",
+    "Check in: 14.00 pm\nCheck out: 10.00 am\nCaution: 150,- per Appartment\nThe final cleaning will be charged separately.\nThe costs for electricity, heating, towels and bed linen are included in the price.\n",
+    "Arriving by car: Via the Inntalautobahn A12 motorway until the exit for Zillertal, from there take the B169 Zillertal Road for the next 30 km to Mayrhofen. Take the \"Einfahrt Mitte\" and drive straight to the Hypo Bank. "
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "reviewCount": "44"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d2b3e461-029a-404c-9617-16e17bd1f818/99/image.jpg",
+      "caption": "Hypo Appartments Mayrhofen - Aussenansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/322113de-e8fb-42fd-be75-7b7fa768d509/99/image.jpg",
+      "caption": "Hypo Appartments Mayrhofen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1672483",
+    "longitude": "11.8627415"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "The Appartment 101 is located on the first floor and has 4 separate bedrooms (3 with double bed and one sofa-sleeper for 1-2 people) as well as one additional double bed in the living room which is separated by a curtain from the living room. Additionally the appartment has 2 bath rooms (with bathtub and toilet) and a separate kitchen with a large dining table. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "6"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "The Appartment 102 is located on the first floor and has 2 separate bedrooms, one bathroom (with bathtub and toilet) and a living area with 2 sofas, a dining table and a kitchenette. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "The Appartment 103 is located on the first floor and has 2 separate bedrooms, one bathroom (with bathtub and toilet) and a living area with a sofa, a dining table and a kitchenette. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "The Appartments 205/206/207/208 are located on the 2nd floor and each has 2 separate bed rooms(one with double bed and one with two single beds) and 2 beds (partly sofa-sleeper, partly single beds) on a gallery as well as a living room with a sofa and a separate kitchen with dining table. Additionally there are 2 bath rooms(one with bathtub/WC and one with shower/WC).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

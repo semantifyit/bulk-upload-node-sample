@@ -1,0 +1,58 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ClothingStore"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Tiroler Adlerin"
+    },
+    {
+      "@language": "de",
+      "@value": "Tiroler Adlerin"
+    },
+    {
+      "@language": "ru",
+      "@value": "Tiroler Adlerin"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2033103",
+    "longitude": "11.8705277"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tiroler Adlerin",
+    "streetAddress": "Talstraße 80",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "email": "info@tiroler-adlerin.at",
+    "url": "http://www.tiroler-adlerin.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fdcb8a2e-968b-4162-bb15-1580a0d42684/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.tiroler-adlerin.at"
+  ]
+}

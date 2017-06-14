@@ -1,0 +1,64 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d1C6406B8-6E4B-4775-9564-7FFE302B871D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Valentina, Gästehaus",
+    "streetAddress": "Tuxer Straße 706",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62249",
+    "faxNumber": "0043 5285 62249"
+  },
+  "name": "Gästehaus Valentina",
+  "description": [
+    "Family run house, 4 minutes walk away from town centre. Close to the Penken lifts and next to the new Ahorn lifts, sunning area, car park, guest lounge with cable TV, rooms with balcony.",
+    "Price includes local taxes and breakfast; Children\u0027s price reductions on request!",
+    "Only a few meters away from the Ahornbahn and Penkenbahn."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4568732c-c7f3-4621-9a28-fc2210bee5bd/99/image.jpg",
+      "caption": "Gästehaus Valentina Mayrhofen - Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1620321544734",
+    "longitude": "11.8594622612"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "The nicely furnished rooms are equipped with shower/WC, and most have a balcony and seating area.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

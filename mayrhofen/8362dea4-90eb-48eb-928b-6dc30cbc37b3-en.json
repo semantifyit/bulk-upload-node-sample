@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "Jagen - Hubers Urlaubsdomizile",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.164815",
+    "longitude": "11.8589331000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Edergasse 518",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63431",
+    "email": "info@huber-domizile.com",
+    "url": "http://ww.huber-domizile.com"
+  },
+  "description": "Our 2500 hectare big hunting area is located in a side-valley, called the \"Hundskehlgrund\". Here you have the posibility to go hunting in the wild an romantic \"Zillergrund\".",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf346ef6-c23b-4c9d-a7e9-93759216aaa4/99/image.jpg",
+      "caption": "Hubers Urlaubsdomizile "
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

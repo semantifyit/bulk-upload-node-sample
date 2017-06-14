@@ -1,0 +1,357 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.edelhof.ag.vu",
+    "http://maps.mayrhofen.at/?foreignResource\u003dDD912099-2F52-4CA8-95EB-925BA3396B73"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apart Edelhof",
+    "streetAddress": "Kumbichl 869",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62267",
+    "email": "fewo.edelhof@gmx.at",
+    "url": "http://apart-edelhof.at"
+  },
+  "name": "Apart Edelhof",
+  "description": [
+    "Our guest house can be found in close proximity to the Ahorn lifts, and just a 3 minute walk to the Penken lifts and town centre, quiet and sunny position, car park and sunning area available.",
+    "The price includes heating, water, electricity, balcony, ski and boot store, sunning area, car park, excludes final cleaning charge of 35,-- to 50,-- Euro.",
+    "Check in from 14.00hr, earlier when possible, check out until 10.00a.m.. Drive straigh ahead at the Mayrhofen roundabout, left at Einfahrt Mitte, right at the next junction with the high street, over the bridge then left at the Gasthof Brücke, where the road forks right, and the second house is the \"Edelhof\", Familie Pendelin."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "23"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d70b9335-1df6-4b07-9d56-2b75e17ffe59/99/image.jpg",
+      "caption": "Apart Edelhof Mayrhofen - Haus mit Logo1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84d29d7c-91f8-41b3-bcb7-1374ccc014b1/99/image.jpg",
+      "caption": "Apart Edelhof Mayrhofen - Willkommen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6ad201d6-ebab-46d9-940c-538a21d22b9e/99/image.jpg",
+      "caption": "Apart Edelhof M"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6b9eac5f-495e-47de-b866-0abb5b50a448/99/image.jpg",
+      "caption": "Apart TB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84a094ec-eaa3-4d54-ac84-4d9fb518988c/99/image.jpg",
+      "caption": "IMG_1066"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d279a1b4-c67e-4151-b201-19ee90498df6/99/image.jpg",
+      "caption": "IMG_1105"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa6bcc31-99ed-4bb7-afb9-8a63fc91de36/99/image.jpg",
+      "caption": "DSC_0012~2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7997bd04-6afb-408f-aa91-34c9d7807b61/99/image.jpg",
+      "caption": "Apart Edelhof Tilly"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9ef9bf0b-1e27-42fa-b670-67bab0610068/99/image.jpg",
+      "caption": "Haus 12812 009"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a211f77a-7c89-40b3-9e9e-3205088e9f89/99/image.jpg",
+      "caption": "DSC_0028"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09bb58ec-8216-4b7b-a300-78b370b8607d/99/image.jpg",
+      "caption": "DSC_0011~2~2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0056fa41-04e7-49c1-9da8-7389762e6f68/99/image.jpg",
+      "caption": "handy 036"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ddd66c1e-ee62-41b5-b1f1-2ce395260b23/99/image.jpg",
+      "caption": "Gästebider 005"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98a42f8c-ce1d-4c06-9565-810438ca5750/99/image.jpg",
+      "caption": "2013-12-13 133432"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/32c12c66-aa2d-4ee5-96f7-9bbd917336ac/99/image.jpg",
+      "caption": "2013-12-13 144620"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1eee192a-4d28-453e-8a0a-12406e4079df/99/image.jpg",
+      "caption": "DSC_0024"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0bbc2277-39a4-42a8-bd37-c430945a8ee8/99/image.jpg",
+      "caption": "DSC_0061"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b9c13e2-f51e-4f4b-8a42-18d7035d44e9/99/image.jpg",
+      "caption": "Haus 12812 031"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/edbe76f0-b0b5-46a4-9a05-3a6c60819a87/99/image.jpg",
+      "caption": "Hausbilder 2013 019"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/85329a67-6db6-4a31-bc39-00efb551e53b/99/image.jpg",
+      "caption": "009"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae5b7f63-92d6-4099-8298-42a9d34b4461/99/image.jpg",
+      "caption": "Haus 12812 025"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a2576e7-9155-4021-a040-0ec21067d246/99/image.jpg",
+      "caption": "Maria 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4517680d-21aa-4167-b39c-7e3e691c57cc/99/image.jpg",
+      "caption": "Egon1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1949da5d-4e15-44f1-b703-f2b09e106acf/99/image.jpg",
+      "caption": "Tilly1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/33d20d9c-de76-4848-9372-0d9aedab238a/99/image.jpg",
+      "caption": "Tilly2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a4f9748-e548-4f35-8e03-e6c64f07eed9/99/image.jpg",
+      "caption": "Maria2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7cdb2b88-e0de-4e3f-9300-ed81430be233/99/image.jpg",
+      "caption": "mms_img-1144875502"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1598691935575",
+    "longitude": "11.8622303009033"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 1 bed room",
+      "description": "1 bedroom, shower/WC, safe, balcony, lounge/kitchen and dining area, Sat-TV, 70m². Final cleaning charge 45,-- Euro.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment Roswitha/1 bedroom/shower, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Holiday apartment suitable for 4-6 persons, approx. 120m², 2 large bedrooms with shower/WC, 1 single bedroom, safe, kitchen, lounge and 2 balconies. The final cleaning charge is 50.- Euro.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment romana/3 bedrooms/shower, WC",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/9053f872-d49a-4ee8-af51-e21764f58d84/99/image.jpg",
+              "caption": "DSC_0011~2~2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/87b33128-f839-4e46-9fcd-637f84cb8152/99/image.jpg",
+              "caption": "DSC_0062"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/0adf0c60-27c7-4864-a7a1-0a675b9ea6fc/99/image.jpg",
+              "caption": "DSC_0059"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d3a41322-5eae-4f1f-bacc-2f326c0fbf0c/99/image.jpg",
+              "caption": "DSC_0027"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/aed0349d-9509-49e6-9c15-b844eece4def/99/image.jpg",
+              "caption": "DSC_0061"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/40882971-b385-4386-8f51-b82c0b2d4f34/99/image.jpg",
+              "caption": "DSC_0012~2"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "150.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "150.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Holiday apartment suitable for 4 persons, approx. 64m², lounge/kitchen with dining area, entrance hall, safe, 2 bedrooms, shower/WC, balcony, Sat-TV. The final cleaning charge is 45.- Euro.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment Tilly/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "100.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 1 bed room",
+      "description": "Holiday apartment suitable for 2 persons, approx. 40m², 1 bedroom, shower/WC, Sat-TV. Final cleaning charge  35.- Euro.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment Maria/1 bedroom/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

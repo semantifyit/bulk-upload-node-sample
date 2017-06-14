@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "25 years of the international Ferrari-Meeting",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Roxys Ferrari Events",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Hans-Peter",
+      "familyName": "Merkl"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Schuller Str. 14",
+      "addressLocality": "Raubling",
+      "postalCode": "83064",
+      "addressCountry": "DE",
+      "telephone": "+49 178 358 0 358",
+      "email": "info@ferrari-treffen.eu",
+      "url": "http://www.ferrari-treffen.eu/"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Roxys Ferrari Events",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Schuller Str. 14",
+      "addressLocality": "Raubling",
+      "postalCode": "83064",
+      "addressCountry": "DE",
+      "telephone": "+49 178 358 0 358",
+      "email": "info@ferrari-treffen.eu",
+      "url": "http://www.ferrari-treffen.eu/"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98090092-7e5b-4df3-8d38-7bb8b640d4fa/99/image.jpg",
+      "caption": "Ferrari-Treffen"
+    }
+  ],
+  "url": [
+    "http://www.ferrari-treffen.eu/"
+  ],
+  "startDate": "2017-05-19T12:00:00",
+  "endDate": "2017-05-19"
+}

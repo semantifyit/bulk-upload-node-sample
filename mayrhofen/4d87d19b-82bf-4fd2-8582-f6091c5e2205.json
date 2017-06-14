@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "HNO-Facharzt Dr. Rainer Thomas"
+    },
+    {
+      "@language": "de",
+      "@value": "HNO-Facharzt Dr. Rainer Thomas"
+    },
+    {
+      "@language": "ru",
+      "@value": "HNO-Facharzt Dr. Rainer Thomas"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2091103431943",
+    "longitude": "11.8733561038971"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 160",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 512 586604",
+    "faxNumber": "(0043) 512 5866044",
+    "email": "ordination@hno-rainer.at",
+    "url": "http://www.aerztehaus-ramsau.at/index.php/rainer"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Hals-Nasen-Ohren-Facharzt\nDie Abklärung von Beschwerden und Gespräche über Therapiemöglichkeiten und Behandlungen benötigen Zeit. Daher bitten wir um Terminvereinbarung auch in akuten Fällen, die in Abhängigkeit der Dringlichkeit noch am selben Tag behandelt werden.\n\nWir bitten um Verständnis, dass unangemeldete Patienten unter Umständen längere Wartezeiten in Kauf nehmen müssen.\n\nTermine können Sie entweder rund um die Uhr über e-mail unter Termine oder von Montag bis Freitag 08.00 bis 18.00 telefonisch unter 0512- 58 66 04 auch wenn wir auf Urlaub sind vereinbaren!\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Mo: Vormittag\nDo: Nachmittag\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/01cbc19b-32e5-4bc7-bfe0-05a022e287cb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Dr. Rainer Thomas"
+        },
+        {
+          "@language": "de",
+          "@value": "Dr. Rainer Thomas"
+        },
+        {
+          "@language": "ru",
+          "@value": "Dr. Rainer Thomas"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.aerztehaus-ramsau.at/index.php/rainer"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d38957230-B309-4EA4-9C2F-A8D978661738"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Leuhaus",
+    "streetAddress": "Burgstall 361",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62484",
+    "email": "leuhaus@tele2.at"
+  },
+  "name": "Leuhaus",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9394610b-ab6f-4cbb-ba6c-24d51615a376/99/image.jpg",
+      "caption": "Leuhaus Mayrhofen - Winterbild"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1818959073022",
+    "longitude": "11.8598055839539"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Дом отдыха, душ, туалет, одна спальня",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Дом отдыха, душ, туалет, одна спальня",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

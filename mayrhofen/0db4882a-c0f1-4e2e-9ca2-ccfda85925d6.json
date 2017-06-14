@@ -1,0 +1,75 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Gasthaus Innerböden 1301m"
+    },
+    {
+      "@language": "de",
+      "@value": "Gasthaus Innerböden 1301m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Gasthaus Innerböden 1301m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0975645",
+    "longitude": "11.7945892"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Innerböden",
+    "streetAddress": "Dornauberg 80",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5286 5245",
+    "email": "gasthaus-innerboeden@gmx.at",
+    "url": "www.ginzling-dornauberg.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Sonnenterasse mit herrlichen Rundblick, gemütliche Stuben - der Tipp für zünftige Hüttenabende!"
+    },
+    {
+      "@language": "de",
+      "@value": "ganzjährig geöffnet \n\nÜbernachtung möglich \n14 Zimmerlager/Betten "
+    },
+    {
+      "@language": "en",
+      "@value": "open the whole year \n\novernight stay possible \n14 beds"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f6a8dbfd-a2a1-4194-88a5-fa266e5ac72f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Innerböden I"
+        },
+        {
+          "@language": "de",
+          "@value": "Innerböden I"
+        },
+        {
+          "@language": "ru",
+          "@value": "Innerböden I"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.ginzling-dornauberg.at/neu/html/gastronomie/innerboeden/index.htm"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Übungslift Talstation Horbergbahn",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1927454453387",
+    "longitude": "11.8562865257263"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mayrhofner Bergbahnen",
+    "streetAddress": "Kohlstatt",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 622 77 ",
+    "email": "info@mayrhofner-bergbahnen.com",
+    "url": "http://www.mayrhofner-bergbahnen.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/304793e5-a9ad-4f65-982e-29eef160e77e/99/image.tif",
+      "caption": "Penken"
+    }
+  ],
+  "url": [
+    "http://www.mayrhofner-bergbahnen.com"
+  ]
+}

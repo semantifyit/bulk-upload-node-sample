@@ -1,0 +1,116 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d27259349-80F6-4B57-B9C8-C4DEC7F592CC"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tanterleite, Haus",
+    "streetAddress": "Leiten 227",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 4630716",
+    "faxNumber": "0043 5285 6374715",
+    "email": "f.schiestl@gmx.at"
+  },
+  "name": "Haus Tanterleite",
+  "description": [
+    "On the B 169 Ramsau after the traffic light turn right in the direction of Schwendau. Registration in the local centre village Schwendau No. 127 (directly beside the fire brigade)\n",
+    "Prices are excl. taxe",
+    "Check-in:\nCheck-out:"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d52cabd-e553-4163-bcc1-9ed851f8b19c/99/image.jpg",
+      "caption": "Tanterleite Schwendau - Hütte Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/85b803ef-999b-4d33-8fc6-b04be4a18512/99/image.jpg",
+      "caption": "Kuh auf der Alm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/084b0f2c-fba1-4137-8a3c-6db0fa93cfd4/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c699f41-64cb-4638-a68d-daa96b450cd0/99/image.jpg",
+      "caption": "bike mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/82704da9-798a-43d1-a9fd-02d05f8ba8ad/99/image.jpg",
+      "caption": "skifahrer-in-action"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b10913d4-b942-49a5-a24a-3f07a06f6bf2/99/image.jpg",
+      "caption": "Sommer wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c75c2d44-912f-447d-b576-305ff02a32f1/99/image.jpg",
+      "caption": "Bauer__Landwirt_Kulinarik_Brettljause_Wiese (Archi"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/463f83af-4bff-4265-8045-b6ef904d5444/99/image.jpg",
+      "caption": "Sommer_Gipfel_Panorama ("
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1a3ad820-46af-47f4-9ae8-fd809ffec1e5/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f01ae90-7c89-4f64-9940-eff7134785b9/99/image.jpg",
+      "caption": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/71caefda-a892-4b51-99a5-0622c09a4e1f/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1981766726148",
+    "longitude": "11.8532931804657"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Holiday home, shower, toilet, 1 bed room",
+      "description": "Hut for a family. Approximately 50 m walk from the parking area to the hut.\nHoliday Cottage in Old log house, cozy dining area with wood burning stove, shower and toilet, satellite TV, bed linen and. Table linen, towels, terrace, extra bed available, living room with Ausziehcoutch.\nSki lift by car in 5 minutes reachable.\nDog on request!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "holiday house/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

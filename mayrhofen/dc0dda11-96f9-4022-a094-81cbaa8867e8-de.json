@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "DanceEvent"
+  ],
+  "name": "Schoat\u0027n Fest der Freiwilligen Feuerwehr Schwendau",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Freiwillige Feuerwehr Schwendau",
+    "employee": {
+      "@type": "Person",
+      "familyName": " "
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Burgstall 374",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "email": "hj.eberharter@aon.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Freiwillige Feuerwehr Schwendau",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Burgstall 374",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "email": "hj.eberharter@aon.at"
+    }
+  },
+  "description": "Das Schoat\u0027n Fest der Freiwilligen Feuerwehr Schwendau findet auch 2017 wieder mit Musik und selbst gemachten Zillertaler Krapfen statt!\n\nBeginn: 18.00 Uhr am Parkplatz der Horbergbahn Schwendau\n ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/346f6b6b-f36a-41de-b211-17f4b39deec3/99/image.jpg",
+      "caption": "Schwendacher Schoat´n Fest"
+    }
+  ],
+  "startDate": "2017-08-05T18:00:00",
+  "endDate": "2017-08-05"
+}

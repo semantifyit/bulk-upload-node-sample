@@ -1,0 +1,338 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel",
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.moesl.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d5CA94AE2-9394-4D10-9323-2E6D97D8C750"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hochschwendberg 528",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3457",
+    "faxNumber": "0043 5282 3457",
+    "email": "hanser@moesl.at",
+    "url": "hppt://www.moesl.at"
+  },
+  "name": "Gasthof Mösl",
+  "description": [
+    "Ruhige Lage, familäre Atmosphäre, gutbürgerliche Küche, großer Spielplatz direkt am Haus, idealer Augangspunkt für Ausflugsmöglichkeiten alle Art. Im Winter Skibus direkt ab Haus ins Skigebiet Ski Zillertal 3000!!! Tolle Rodelbedingungen.",
+    "Großzügige Gruppenermäßigungen - UK für 60 Pers. vorhanden, Haustiere kostenlos, Kinder bis 5 Jahre freie Unterkunft, bis 12 Jahre 30% im Schlafzimmer der Eltern!\n",
+    "Anreise:\nUnser gemütlicher Gasthof befindet sich in 1500 m Höhe, direkt an der Zillertaler Höhenstrasse. Mit dem Auto sind wir von Hippach aus in ca. 20 Minuten zu erreichen, indem Sie an der Kirche die Zillertaler Höhenstrasse hinauffahren. Nach genau 8,3 km befinden Sie sich inmitten der schönen Bergwelt genau vor unserem Haus.\n",
+    "Familiärer Gasthof\nFamilienfreundlich\ngutbürgerliche Küche\ntraumhafte Lage im Sommer und im Winter\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.7",
+    "reviewCount": "20"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d378e8c-0afc-49ee-8d17-f36e39d593f5/99/image.jpg",
+      "caption": "Gasthof Mösl im Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7ad5adc-0a70-4955-aba4-b2a43c29a4be/99/image.jpg",
+      "caption": "Gasthof Mösl Ansicht aussen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/72c81efc-cf91-41dd-a221-bf9277651f49/99/image.jpg",
+      "caption": "Gasthof Mösl Terasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5df65bae-787f-4ff4-ab3c-f3c21a6ec467/99/image.jpg",
+      "caption": "Gasthof Mösl Terasse 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12333116-9fb9-4765-84f3-8aa82651e9e3/99/image.jpg",
+      "caption": "Gasthof Mösl Terrasse 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f8239cd4-0c89-4305-8c86-c6067375ce3d/99/image.jpg",
+      "caption": "Gasthof Mösl Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c149e835-fb8d-4853-a94b-7c278db55060/99/image.jpg",
+      "caption": "Gasthof Mösl Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5f11a256-077c-4734-908e-a8760a10a59d/99/image.jpg",
+      "caption": "Gasthof Mösl Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5c3aa0f-738e-411e-83fc-90b01e7757ef/99/image.jpg",
+      "caption": "Gasthof Mösl Stube 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/39a61730-5878-4128-b718-b8cacdfc7b00/99/image.jpg",
+      "caption": "Gasthof Mösl Bettenlager"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d3eeb872-1f8f-4064-a1fb-043d72acd0db/99/image.jpg",
+      "caption": "Gasthof Mösl Zimmer 210"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d491c9b-fe64-49ce-89be-e0e79f4a300d/99/image.jpg",
+      "caption": "Gasthof Mösl Zimmer 210_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f7549da7-e759-4245-b531-565f6210fa2f/99/image.jpg",
+      "caption": "Gasthof Mösl Zimmer 214"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50d0a153-4a84-405a-be10-f3f25daaffe7/99/image.jpg",
+      "caption": "Gasthof Mösl Zimmer Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26bbb9b1-6456-46be-aa3a-8d7a95b416af/99/image.jpg",
+      "caption": "333040_259409717455533_1567892258_o"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ddd0933-969a-4d74-84b8-6d5addf92626/99/image.jpg",
+      "caption": "538316_4896729214804_1716178832_n"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dfa9173a-ba00-49bb-95a9-79182d5342f5/99/image.jpg",
+      "caption": "Gasthof Mösl Hippach - Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a773bbf3-6d1e-47be-ac34-43b883520372/99/image.jpg",
+      "caption": "13875_754181361311697_8763494981300188534_n"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d53ebcc6-82d6-473f-9b6e-aabf32242a9f/99/image.jpg",
+      "caption": "100_2818"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d177315f-0862-4709-b5eb-17996691f86d/99/image.jpg",
+      "caption": "10013594_730558643673969_5180751807738716143_n"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1a4d3840-72cc-4508-9987-93f2046e9f45/99/image.jpg",
+      "caption": "10342924_733663490030151_2248528153566415357_n"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/671f2ee8-bff4-47d2-ab59-43d86b69094d/99/image.jpg",
+      "caption": "10300079_743055369090963_3213599438963440434_n"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bbda38f2-49bf-4256-8f67-44e5ffe7523a/99/image.jpg",
+      "caption": "10370964_730557027007464_209193725353172225_n"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52639d08-9b31-4f8b-8744-7ead08209107/99/image.jpg",
+      "caption": "10592954_783995348330298_4727195293724632701_n"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2069383666784",
+    "longitude": "11.8163645267487"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche und Bad, WC",
+      "description": "Das Bettenlager befindet sich im schönen Holzraum unterm Dach. Etagendusche und separater Waschraum ist vorhanden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bettenlager für 12 Personen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "12",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "25.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "25.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "25.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "25.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "25.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "25.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "25.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "25.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "25.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "25.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, fl. k/w Wasser",
+      "description": "Auf fast allen Zimmern können Sie den direkten Blick in die Bergwelt genießen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Auf fast allen Zimmern können Sie den direkten Blick auf die Bergwelt geniessen. Die Zimmer sind mit Dusche/WC und SAT-TV ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortzimmer mit Dusche, WC, TV",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

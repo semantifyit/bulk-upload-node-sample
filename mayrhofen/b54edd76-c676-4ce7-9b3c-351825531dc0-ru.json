@@ -1,0 +1,174 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-klaus.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dB54EDD76-C676-4CE7-9B3C-351825531DC0"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Klaus, Landhaus",
+    "streetAddress": "Burgstall 344",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 64290",
+    "faxNumber": "(0043) 5285 64290",
+    "email": "info@landhaus-klaus.at",
+    "url": "http://www.landhaus-klaus.at"
+  },
+  "name": "Landhaus Klaus",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/685d6066-b283-42a2-b216-d7e73bead72a/99/image.jpg",
+      "caption": "Landhaus Klaus - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2047956a-e8cf-4ac6-bce2-affc0c62c3f6/99/image.jpg",
+      "caption": "Landhaus Klaus - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8d3ffd19-6bf0-44bc-834a-855ae4a07be7/99/image.jpg",
+      "caption": "Landhaus Klaus - Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ead49501-e04e-434f-8b85-4a4c0052cc59/99/image.jpg",
+      "caption": "Landhaus Klaus - Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/54e2e113-b3f2-4c00-8960-5c2b9b9cfc5b/99/image.jpg",
+      "caption": "Landhaus Klaus - Gang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d21dd95-6f5c-43b6-9a0a-08ccbd8b8200/99/image.jpg",
+      "caption": " Landhaus Klaus - Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/377539e8-09d9-42ac-99ff-2a8ebf01aefd/99/image.jpg",
+      "caption": "Landhaus Klaus - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/162a777f-5faa-4d5f-8a46-2bfddda0650d/99/image.jpg",
+      "caption": "Landhaus Klaus - Essbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c74156e-63df-49cc-a4e4-eddc3310a5ac/99/image.jpg",
+      "caption": "Landhaus Klaus - Wohnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/afe67954-f95f-4c25-932a-db596e382f1c/99/image.jpg",
+      "caption": "Landhaus Klaus - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9cff9ee8-3ecd-4421-b327-45e0e9ff027e/99/image.jpg",
+      "caption": "Landhaus Klaus - Schlafzimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/795ae616-76e2-4789-b3b6-4eed643f9683/99/image.jpg",
+      "caption": "Landhaus Klaus - Schlafzimmer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8996effe-7843-43aa-bd45-915cb23beb26/99/image.jpg",
+      "caption": "Landhaus Klaus - Schlafzimmer 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3d31d29c-7cd5-4018-8f69-f6e45edc1504/99/image.jpg",
+      "caption": "Landhaus Klaus - Einzelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6ce48967-87be-4b1d-a4f2-80d3e3d1299b/99/image.jpg",
+      "caption": "Landhaus Klaus - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8aea5371-ffef-4cbe-8bc1-21b51dc2266e/99/image.jpg",
+      "caption": "Landhaus Klaus - Bad 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1838647381684",
+    "longitude": "11.8618386983871"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, три спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, три спальни",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "76.00",
+          "maxPrice": "114.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "93.00",
+          "maxPrice": "131.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "110.00",
+          "maxPrice": "148.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "0.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "0.00",
+          "maxPrice": "182.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

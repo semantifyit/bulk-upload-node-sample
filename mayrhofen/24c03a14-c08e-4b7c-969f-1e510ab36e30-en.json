@@ -1,0 +1,127 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apart-daniela.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d24C03A14-C08E-4B7C-969F-1E510AB36E30"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Daniela",
+    "streetAddress": "Bichl 613",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 664 1913568",
+    "email": "info@apart-daniela.at",
+    "url": "http://www.apart-daniela.at"
+  },
+  "name": "Appartement Daniela",
+  "description": [
+    "Our house is situated in sunny, quiet and central position above Ramsau, Bichl which is located in the holiday region Mayrhofen-Hippach. \n\nWe provide an amazing view over the Zillertaler Alps. Furthermore we are also an ideal starting point for many activities in summer like hiking, biking, climbing and of course in winter for skiing in our ski-resorts Penken, Hoberg, Zillertalarena and at the glacier in Hintertux.\nIt would give us great pleasure to welcome you in our house!\n\nWIFI available; roll bread service on request; storage room for ski and bicycle; big lawn with BBQ facilities and garden furniture.\n\nSkibus Stop near by ",
+    " children reduction on request",
+    "Check in 14:00 pm/ Check out 09.00 am \n\nTravelling by Car\nVia the Inntalautobahn A12 motorway until the exit for Zillertal, from there take the B169 Zillertal Road for the next 30 km to Ramsau, Bichl.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/668a2c4e-074d-4969-b786-ee47385c403a/99/image.jpg",
+      "caption": "Appartement Daniela Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4230784a-378d-47b5-8d86-58a48efe0405/99/image.jpg",
+      "caption": "Appartement Daniela Ramsau - Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/261330af-534b-4f64-abbf-451f3d7b2af4/99/image.jpg",
+      "caption": "Appartement Daniela Ramsau - Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3eacc6dc-a106-4fde-8588-1dfea5f1d475/99/image.jpg",
+      "caption": "Appartement Daniela Ramsau - Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec0f247f-3508-4e07-87d0-2619bb4cd514/99/image.jpg",
+      "caption": "Appartement Daniela Ramsau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/452d3e65-154c-473b-b797-9aaab590d486/99/image.jpg",
+      "caption": "Appartement Daniela Ramsau - Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c74e9943-9863-43c6-9b01-aa43d87b5cfb/99/image.jpg",
+      "caption": "Klettersteig © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b1ff87ab-fd6b-4b06-801c-8984b0efc346/99/image.jpg",
+      "caption": "Wandern am Stausee © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fb4e2c58-5fa0-4697-aca0-0b179e2a2945/99/image.jpg",
+      "caption": "Bergsteigen © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4962d800-9fab-420d-942b-acb5b228d6bc/99/image.jpg",
+      "caption": "Panorama © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9740056f-31ba-4a46-bad2-aeb5585a47a8/99/image.jpg",
+      "caption": "Pistenspaß © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d3fa5908-3fa9-461e-bf32-e8247b5fe4f2/99/image.jpg",
+      "caption": "Schneeschuhwandern © Frank Bauer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1948268739706",
+    "longitude": "11.8803244829178"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, separate toilet and shower/bathtub, 3 bed rooms",
+      "description": "We offer a cozy 40m² apartment for 2 people .\n\nIn the appartement is a double bedroom , one shower / toilet and a cozy living room with kitchenette , sitting area for eating , living area , SAT / TV and large separate terrace .",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/3 bedrooms/bath tube, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "44.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

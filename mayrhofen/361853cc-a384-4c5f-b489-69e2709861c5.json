@@ -1,0 +1,57 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Frisör Werkstatt Barbara Mader"
+    },
+    {
+      "@language": "de",
+      "@value": "Frisör Werkstatt Barbara Mader"
+    },
+    {
+      "@language": "ru",
+      "@value": "Frisör Werkstatt Barbara Mader"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2061611",
+    "longitude": "11.8628866"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Astbühel 286",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 15 11 474 ",
+    "email": "info@friseurwerkstatt.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/304a2143-d149-441e-9532-715ab6c4dab5/99/image.png",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

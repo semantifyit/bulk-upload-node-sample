@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BodyOfWater"
+  ],
+  "name": "Zillergrund Stausee",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.121804188573",
+    "longitude": "12.0650482177734"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenstraße",
+    "streetAddress": "Zillergrund ",
+    "addressLocality": "Brandberg ",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "email": "info@zillergrund.com",
+    "url": "http://www.zillergrund.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b5fc5821-4760-4a5d-a6c5-c308857a4e9e/99/image.jpg",
+      "caption": "Zillergrund"
+    }
+  ],
+  "url": [
+    "http://www.zillergrund.com/index.html"
+  ]
+}

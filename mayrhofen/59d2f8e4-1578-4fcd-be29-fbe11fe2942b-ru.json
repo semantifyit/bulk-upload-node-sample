@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon"
+  ],
+  "name": "Sabinas Haarmode",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.222224130098",
+    "longitude": "11.8696278333664"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sabinas Haarmode",
+    "streetAddress": "Laimach 192",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 650 6552034",
+    "email": "info@s-haarmode.at",
+    "url": "http://www.s-haarmode.at/cms/index.php"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/44d15ed6-91fb-45d4-858b-de2beb28e118/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.s-haarmode.at/cms/index.php"
+  ]
+}

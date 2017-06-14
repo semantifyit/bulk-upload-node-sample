@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Hotel Gasthaus Garberwirt"
+    },
+    {
+      "@language": "de",
+      "@value": "Hotel Gasthaus Garberwirt"
+    },
+    {
+      "@language": "ru",
+      "@value": "Hotel Gasthaus Garberwirt"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2047225674479",
+    "longitude": "11.8649607896805"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Garberwirt, Hotel",
+    "streetAddress": "Hippach-Dorf 21",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3632",
+    "faxNumber": "0043 5282 3632 333",
+    "email": "info@garberwirt.com",
+    "url": "http://www.garberwirt.com"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus ist ein alteingesessener Hotel in Hippach im wunderschönen Zillertal. Im Speisesaal sowie im Weinstüberl verwöhnen wir Sie mit Spezialitäten der heimischen und internationalen Küche sowie mit einem guten Tropfen aus dem Keller. Und am Abend noch ein lustiges Beisammensein an der Bar, am offnen Kamin oder Sie entspannen sich in der Sauna. Wir würden uns freuen Sie auch einmal bei uns begrüßen zu dürfen. Ihre Familie Prückl"
+    },
+    {
+      "@language": "en",
+      "@value": "A hotel where you feel gloriously comfortable and at ease - Hotel Garberwirt, your home-away-from-home in Hippach, Zillertal\n\nExperience the alpine world of Zillertal. Feel the family atmosphere. Find new friends.\n\nHave time. To rediscover your self. To free your soul.\n\nHave fun with your whole family. Children’s eyes gleaming with joy.\n\nPeople who smile. "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/883850a6-f4ee-4d22-8cf6-d93af04298a4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Garberwirt"
+        },
+        {
+          "@language": "de",
+          "@value": "Garberwirt"
+        },
+        {
+          "@language": "ru",
+          "@value": "Garberwirt"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f68112a0-34b8-49df-9e20-26a1f8033a1b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "de",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/522d8a54-b13b-43d8-aa5c-82aeeb1871e9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Zimmer 2"
+        },
+        {
+          "@language": "de",
+          "@value": "Zimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/502eabbf-5185-44d3-aeb7-95749b11da91/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Speiseraum"
+        },
+        {
+          "@language": "de",
+          "@value": "Speiseraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Speiseraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/75f77c0a-2874-4480-8c91-fe79086e0b76/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Garberwirt 2"
+        },
+        {
+          "@language": "de",
+          "@value": "Garberwirt 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Garberwirt 2"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.garberwirt.com"
+  ]
+}

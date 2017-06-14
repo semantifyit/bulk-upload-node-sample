@@ -1,0 +1,124 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Sidan"
+    },
+    {
+      "@language": "de",
+      "@value": "Sidan"
+    },
+    {
+      "@language": "ru",
+      "@value": "Sidan"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1895083153163",
+    "longitude": "11.8606853485107"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sidan, Restaurant-Pizzeria",
+    "streetAddress": "Mühlbach 281",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043)5285 63698",
+    "faxNumber": "(0043) 05285 63687",
+    "email": "info@sidan.at",
+    "url": "http://www.sidan.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ferienwohnungen, Pension \u0026 Restaurant - das perfekte Urlaubs TRIO\nDas hat schon was - wohnen vor wohl einer der schönsten Kulissen des Zillertals und abends speisen in einem Ambiente, sodass man sich in \"Bella Italia\" wähnt.\nDoch was all unseren Betrieben gemein ist, ist die Beschaulichkeit ländlicher Umgebung und das Gefühl willkommen zu sein. Denn hier ist der perfekte Ort zum Urlauben . Nur einen Katzensprung von der Horbergbahn entfernt, sind Sie in wenigen Minuten in einem der größten Skigebiete des Zillertals, das sich im Sommer schon längst als Wanderparadies einen Namen gemacht hat.\nUrlaub mit Mehrwert ...\nAls Gastgeber ist es uns ein besonderes Anliegen, dass Sie sich rundum wohlfühlen, deshalb haben wir unsere Unterkünfte auch mit allem Komfort ausgestattet.\nIm Sommer genießen unsere Hausgäste ein EXTRA-PLUS. Sie können gerne die Halbpension zusätzlich buchen.\nNeben einem reichhaltigen Frühstücksbuffet ist auch ein 3-gängiges Abendmenü in unserem hauseigenem Restaurant inkludiert.\nFreuen Sie sich auf entspannte Urlaubstage, denn wir freuen uns auf Sie!\n"
+    },
+    {
+      "@language": "en",
+      "@value": "It\u0027s something special - stay beneath arguably one of the best backdrops in Zillertal and dine in an ambience that really makes you believe you\u0027re in \"Bella Italia\".\n\nBut one thing that all our businesses have in common is the tranquillity of the rural environment and a feeling of being welcome. Because this is the perfect place for a holiday. Only a stone\u0027s throw from the Horbergbahn cable car, you\u0027re just a few minutes away from one of the largest skiing areas in Zillertal, which in summer is a long established paradise for walkers and hikers."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e8a01c85-0fb0-455b-8292-f9233c9155bf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Sidan "
+        },
+        {
+          "@language": "de",
+          "@value": "Sidan "
+        },
+        {
+          "@language": "ru",
+          "@value": "Sidan "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86a005db-d17c-463e-aca0-a9dc97334daf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "de",
+          "@value": "Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e35b5140-4b05-4b1b-b3fe-45b650c886f2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Restaurant"
+        },
+        {
+          "@language": "de",
+          "@value": "Restaurant"
+        },
+        {
+          "@language": "ru",
+          "@value": "Restaurant"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f94c9854-8e19-4a2b-9eaf-65c3cdbfd4fd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Sidan 2"
+        },
+        {
+          "@language": "de",
+          "@value": "Sidan 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sidan 2"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.sidan.at"
+  ]
+}

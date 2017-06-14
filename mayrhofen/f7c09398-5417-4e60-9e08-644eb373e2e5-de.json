@@ -1,0 +1,478 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.europahuette.it",
+    "http://maps.mayrhofen.at/?foreignResource\u003dF7C09398-5417-4E60-9E08-644EB373E2E5"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landshuter Europahütte",
+    "streetAddress": "Frazione Caminata",
+    "addressLocality": "Pfitsch",
+    "postalCode": "39049 ",
+    "addressCountry": "IT",
+    "telephone": "(0039) 0472 646076 ",
+    "email": "info@europahuette.it",
+    "url": "www.europahuette.it"
+  },
+  "name": "Landshuterhütte/Europahütte",
+  "description": [
+    "Informationen zu den Zustiegen erhalten Sie unter:\nhttp://www.mayrhofen.at/sommer-urlaub-ferien-familie/peter-habeler-runde",
+    "Stornobedingungen: \n·Wird eine Reservierungsanfrage für einen Schlafplatz auf der bewirtschafteten Hütte der\nSektion bestellt und von Seiten des Hüttenpächters bestätigt bzw. bei kurzfristigen\nBuchungen bereitgestellt, so ist ein Beherbergungsvertrag zustande gekommen.\nEin rechtsverbindlicher Vertragsabschluss liegt auch bei mündlichen, insbesondere\ntelefonischen Buchungen vor, soweit nicht ausdrücklich die Schriftform vereinbart wurde.\n\n·Die Pächter sind berechtigt, eine Anzahlung von 50% des Gesamtbetrages/Nacht und\nSchlafplatz für Reservierungen zu berechnen.\nIm Falle von Rücktritt oder Nichtantritt bis 5 Tage vor Reiseantritt werden geleistete\nAnzahlungen an den Gast rücküberwiesen.\nBei einer Stornierung innerhalb von 5 Tagen (gilt ab dem ersten Tag der Reise) vor\nReiseantritt ist der Pächter berechtigt die Anzahlung in Höhe von 50% einzubehalten.\n\n·Ein kostenfreier Rücktritt ist generell möglich, wenn nachweislich eine der folgende\nKriterien erfüllt ist:\n- Zustieg aufgrund von alpiner Gefahr nicht möglich (z.B. Murenabgang \u0026 Lawinengefahr)\n·Dem Gast bleibt der Nachweis vorbehalten, dass dem Hüttenpächter kein oder ein\ngeringerer Schaden entstanden ist.",
+    "Die Europahütte, ehemals Landshuter Hütte ist ein Schutzhaus auf 2.693 Meter in den Zillertaler Alpen, das seit 1989 gemeinsam von der Sektion Landshut des Deutschen Alpenvereins und der Sektion Sterzing des Club Alpino Italiano bewirtschaftet wird."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/588cb637-976c-4905-b9dd-3c96f1871c4d/99/image.jpg",
+      "caption": "Landhutterhütte/Europahütte Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c1cd061-9bdd-4491-862d-87b6db678f31/99/image.jpg",
+      "caption": "Landhutterhütte/Europahütte 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8ca41017-de9d-4bb7-9c48-be3b7049aab0/99/image.jpg",
+      "caption": "Europa_Slider1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/67c7990a-b45c-4beb-b3cf-9e02a65e2aa2/99/image.jpg",
+      "caption": "hütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/568280c0-b953-4be8-bb2d-4df965dc9cc3/99/image.jpg",
+      "caption": "f4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ad950c1-4de6-41b6-8d86-466588d841b0/99/image.jpg",
+      "caption": "DSC00693"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b7c78e8-895d-45bd-a5d4-635a5948222a/99/image.jpg",
+      "caption": "Europahuette_01"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7bdac19c-4ca1-4ff9-9d74-2af6abb6d074/99/image.jpg",
+      "caption": "Landshuterhütte 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b4c0a5dd-47fe-4b13-8499-b5f474599ca1/99/image.jpg",
+      "caption": "Landshuterhütte 6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da1d1749-b9c6-47dd-9835-d9d4377acb55/99/image.jpg",
+      "caption": "Landshuterhütte 9"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09772f94-3000-4d0d-ab6e-b7d5631286ed/99/image.jpg",
+      "caption": "Landshuterhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ecfe8268-44bf-4830-b8cc-cae44eed7677/99/image.jpg",
+      "caption": "Landshutterhütte 8"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f77377ea-561d-4fed-804e-75cddd7606b6/99/image.jpg",
+      "caption": "20150901_170121_RichtoneHDR-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/afa8afb1-5d80-4220-a644-71852f7a31b1/99/image.jpg",
+      "caption": "DSC00569"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/32e0b050-db50-4321-a177-2144e6565acb/99/image.jpg",
+      "caption": "DSC00568"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/110e55e9-3c00-4d7d-a273-bd803fbf0df9/99/image.jpg",
+      "caption": "Europa_Slider2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/40e590a6-84ed-47cb-b3b2-ce91871ee6f0/99/image.jpg",
+      "caption": "europahuette_04"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c194ae7-ebdb-495a-9e11-f6faf50be5af/99/image.jpg",
+      "caption": "Landshuter_Europahütte_Gastraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "46.968381",
+    "longitude": "11.6046194"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Mehrbettzimmer",
+      "description": "Wir bieten unseren Gästen gemütliche Zimmer an.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Betten Nichtmitglieder",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Betten Alpenvereinsmitglieder",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "13.00",
+          "maxPrice": "13.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "13.00",
+          "maxPrice": "13.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "13.00",
+          "maxPrice": "13.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "13.00",
+          "maxPrice": "13.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Mehrbettzimmer",
+      "description": "Wir bieten unseren Gästen gemütliche Zimmer an.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zimmerlager Nichtmitglieder",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "15",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zimmerlager Alpenvereinsmitglieder",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "15",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 13",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 14",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 15",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 13",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 14",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 15",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

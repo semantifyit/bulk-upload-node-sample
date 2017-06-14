@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Drei Linden",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1989566824231",
+    "longitude": "11.8653309345245"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Drei Linden",
+    "streetAddress": "Lindenstraße",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT"
+  },
+  "description": "Wo sich die Dorfstraße von Schwendau mit der Lindenstraße trifft, stehen drei alte Linden, unter derem Blätterdach\nein Kruzifix mit einem Steinaltar errichtet wurde. An dem Stein ist eine Bronzetafel angebracht, deren Text lautet:\n„Versammlungsplatz der Zillertaler des einstigen salzburgischen Urbaramtes und der ehemaligen Hauptmannschaft Schwendau\n(14. – 19. Jahrhundert)“. Wie Landesarchivdirektor Hofrat Dr. Eduard Widmoser auf Grund eingehender Studien feststellen\nkonnte, war hier der Ort der Gerichtsverhandlungen des Schwendauer Urbaramtes bzw. der späteren Hauptmannschaft.\nHier wurden Streitigkeiten zwischen den Urbarleuten wegen ihres Grundbesitzes, z.B. wegen eigenmächtigen Versetzens der\nMarkzeichen, wegen Überbauen, Überzäunen, Übermähen und Übermaisen, d.h. Überschreiten des eigenen Grundstückes beim\nPflügen, Mähen, Zaunmachen und Holzgewinnen, vom Amtmann verhandelt. Heute finden hier feierliche Prozessionen und im\nNovember der Leonardiritt mit Tiersegnung statt.\n(Aus der Ortschronik Schwendau)\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02bd5e10-be17-4e96-bd11-e6d3ea7dcb62/99/image.jpg",
+      "caption": "Drei Linden"
+    }
+  ],
+  "url": [
+    "http://www.schwendau.at/index.php?option\u003dcom_content\u0026view\u003darticle\u0026id\u003d62\u0026Itemid\u003d109"
+  ]
+}

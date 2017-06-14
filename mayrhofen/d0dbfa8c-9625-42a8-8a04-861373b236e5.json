@@ -1,0 +1,497 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausrohrmoser.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dD0DBFA8C-9625-42A8-8A04-861373B236E5"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Gruben 433",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4137",
+    "faxNumber": "0043 5282 4137",
+    "email": "rohrmoser@zillertalnet.at",
+    "url": "http://www.hausrohrmoser.at"
+  },
+  "name": "Rohrmoser Friedrich",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser neuwertiges Haus liegt an der Zillertaler Höhenstraße und bietet eine wunderschöne Aussicht ins Tal. Die Skibushaltestelle befindet sich zu Fuss 5 Minuten vom Haus entfernt. Der Skibus bringt Sie direkt ins Skigebiet Horberg/Penken. Busfahrplan liegt auf. "
+    },
+    {
+      "@language": "de",
+      "@value": "Kinderermäßigung auf Anfrage."
+    },
+    {
+      "@language": "de",
+      "@value": "Check in 16.00 Uhr - Check out 9.00 Uhr"
+    },
+    {
+      "@language": "de",
+      "@value": "Haus, Ferienwohnungen, Urlaub, Schwendberg, Ferienwohnung, Rohrmoser, Gruben, Hippach, Mayrhofen"
+    },
+    {
+      "@language": "en",
+      "@value": "new build house directly at the zillertaler mountain highway, wonderful view to the valley, The skibusstop is 5 minutes away! The skibus takes you directly into the skiing area!"
+    },
+    {
+      "@language": "en",
+      "@value": "childrens reduction on request.\nEur 200,00 deposit by arrival.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in till 16 o`clock - Check out till 9 o`clock"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/45aeffed-3c8b-49eb-94fa-52d4d9a804d1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Rohrmoser Hippach - Sommer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Rohrmoser Hippach - Sommer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Rohrmoser Hippach - Sommer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/756f9ca1-66d8-4f3a-857c-75220b07d496/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Rohrmoser Hippach - Sommer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Rohrmoser Hippach - Sommer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Rohrmoser Hippach - Sommer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12e6b8ff-d73f-45f4-966a-5317bd111318/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Rohrmoser Hippach - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Rohrmoser Hippach - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Rohrmoser Hippach - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/29e113fe-c1c8-4469-8486-20e431c415a3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Rohrmoser Hippach - Ausblick Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Rohrmoser Hippach - Ausblick Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Rohrmoser Hippach - Ausblick Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b3a1969e-a911-46ff-8cf1-a03e409e12fe/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Rohrmoser Hippach - Ausblick Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Rohrmoser Hippach - Ausblick Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Rohrmoser Hippach - Ausblick Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c6cf1ed-b325-460e-9650-13d07ed2bde4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Rohrmoser Hippach - Zillertaler Bergwelt"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Rohrmoser Hippach - Zillertaler Bergwelt"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Rohrmoser Hippach - Zillertaler Bergwelt"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b134604c-93f6-499b-8717-7b40625e7e09/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ferienwohnung 003"
+        },
+        {
+          "@language": "en",
+          "@value": "ferienwohnung 003"
+        },
+        {
+          "@language": "ru",
+          "@value": "ferienwohnung 003"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09775fe4-d301-4b0e-b721-3749467bc6f7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ferienwohnung 002"
+        },
+        {
+          "@language": "en",
+          "@value": "ferienwohnung 002"
+        },
+        {
+          "@language": "ru",
+          "@value": "ferienwohnung 002"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/868aca67-5fca-44d2-b720-ae639d132245/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ferienwohnung 005"
+        },
+        {
+          "@language": "en",
+          "@value": "ferienwohnung 005"
+        },
+        {
+          "@language": "ru",
+          "@value": "ferienwohnung 005"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7cf1ac08-84cc-4a11-aa7a-b0b42f218c19/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ferienwohnung 007"
+        },
+        {
+          "@language": "en",
+          "@value": "ferienwohnung 007"
+        },
+        {
+          "@language": "ru",
+          "@value": "ferienwohnung 007"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/554b98ad-7ba7-4553-82a2-0cdfeffee78f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ferienwohnung 008"
+        },
+        {
+          "@language": "en",
+          "@value": "ferienwohnung 008"
+        },
+        {
+          "@language": "ru",
+          "@value": "ferienwohnung 008"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ffcfa39d-3cb7-4d64-a237-a9a2391f076d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ferienwohnung 017"
+        },
+        {
+          "@language": "en",
+          "@value": "ferienwohnung 017"
+        },
+        {
+          "@language": "ru",
+          "@value": "ferienwohnung 017"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04792371-3cc4-49cd-aaeb-c02c25c0a434/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ferienwohnung 010"
+        },
+        {
+          "@language": "en",
+          "@value": "ferienwohnung 010"
+        },
+        {
+          "@language": "ru",
+          "@value": "ferienwohnung 010"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4548b401-3ec1-447c-ab09-cdc127178515/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ferienwohnung 015"
+        },
+        {
+          "@language": "en",
+          "@value": "ferienwohnung 015"
+        },
+        {
+          "@language": "ru",
+          "@value": "ferienwohnung 015"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3644e7a-8d08-46fe-af3e-25221a044f19/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ferienwohnung 020"
+        },
+        {
+          "@language": "en",
+          "@value": "ferienwohnung 020"
+        },
+        {
+          "@language": "ru",
+          "@value": "ferienwohnung 020"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5949436c-4173-4141-957a-8cbc00b408a9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ferienwohnung 018"
+        },
+        {
+          "@language": "en",
+          "@value": "ferienwohnung 018"
+        },
+        {
+          "@language": "ru",
+          "@value": "ferienwohnung 018"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a07a2baa-0e95-4335-8c77-d93c53997ba6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ferienwohnung 001"
+        },
+        {
+          "@language": "en",
+          "@value": "ferienwohnung 001"
+        },
+        {
+          "@language": "ru",
+          "@value": "ferienwohnung 001"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e2b1ab56-893e-46c4-bda6-bf7fdb53b686/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ferienwohnung 022"
+        },
+        {
+          "@language": "en",
+          "@value": "ferienwohnung 022"
+        },
+        {
+          "@language": "ru",
+          "@value": "ferienwohnung 022"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17216c62-49e9-4ed2-9991-d61f1edbd9e5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "ferienwohnung 023"
+        },
+        {
+          "@language": "en",
+          "@value": "ferienwohnung 023"
+        },
+        {
+          "@language": "ru",
+          "@value": "ferienwohnung 023"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2117559528232",
+    "longitude": "11.8540978431702"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wir bieten Ihnen eine sehr schöne voll ausgestattete Ferienwohnung mit ca. 90 m². Aufgeteilt ist sie mit 3 Doppelzimmern (Zusatzbetten möglich), einer großen Wohnküche, Toilette und großes Badezimmer mit Wanne und Dusche getrennt, Satelliten-TV, kostenfreies Internet und Radio und einen Balkon mit wunderschöner Aussicht über das hintere Zillertal. Zusätzlich bieten wir noch einen eigenen Skiraum mit Skischuhheizung. Parkmöglichkeiten direkt vorm Haus. "
+        },
+        {
+          "@language": "en",
+          "@value": "cosy, maintained appartement for 2-8 persons, 3 bedrooms, shower, bathroom, seperate WC, fully equipped kitschne, Sat-TV and balcony"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Alpenstern"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/3 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "17.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "17.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "17.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "17.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

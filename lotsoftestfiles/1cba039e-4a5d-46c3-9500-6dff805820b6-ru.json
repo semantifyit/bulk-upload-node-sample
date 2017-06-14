@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "DanceEvent"
+  ],
+  "name": "DA Zillertaler und die Geigerin",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ee763902-45b5-4dbe-aa05-d701c4f98470/99/image.jpg",
+      "caption": "Da Zillertaler und die Geigerin"
+    }
+  ],
+  "url": [
+    "http://www.musikstadl.at",
+    "http://www.Hotel-Rose.at"
+  ],
+  "startDate": "2017-10-07T10:30:00",
+  "endDate": "2017-10-07"
+}

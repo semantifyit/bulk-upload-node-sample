@@ -1,0 +1,160 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://",
+    "http://maps.mayrhofen.at/?foreignResource\u003d70C4BF3C-ECCE-4C63-85F4-D1930CD6E46B"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendau Dorf 177",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8632443",
+    "email": "apartment.katrin.gerhard@gmx.at"
+  },
+  "name": "apArtment kAtrin \u0026 gerhArd",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "13"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04bb8e7e-2b4f-4a0d-9265-8283f1a55a92/99/image.jpg",
+      "caption": "apArtment kAtrin\u0026gerhArd Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a62348e6-be26-4a86-9edc-6f42c23f0a1f/99/image.jpg",
+      "caption": "20160820_145800"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/381f56bb-2aed-4877-a368-be5603e67c73/99/image.jpg",
+      "caption": "20160820_150442"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94bd64ac-9630-4985-a106-6b269803ce86/99/image.jpg",
+      "caption": "apArtment kAtrin\u0026gerhArd Hippach - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5edf87dc-56ce-4df7-81e2-c19c2dd69ff5/99/image.jpg",
+      "caption": "apArtment kAtrin\u0026gerhArd Hippach - Sommer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/19e1fd09-1ee2-4f6f-9001-6d74bf0e137c/99/image.jpg",
+      "caption": "apArtment kAtrin\u0026gerhArd Hippach - Sommer4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b3debdf5-d6ea-4130-87e7-da505620d139/99/image.jpg",
+      "caption": "20160820_145718"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84b59b20-30a4-4419-b48b-ca81398430e1/99/image.jpg",
+      "caption": "apArtment kAtrin\u0026gerhArd Hippach - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/738d120f-3b54-47d4-a6c0-8c49a5acf961/99/image.jpg",
+      "caption": "apArtment kAtrin\u0026gerhArd Hippach - Wohnraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/88fca134-c207-4d1d-9444-8ddcbf752172/99/image.jpg",
+      "caption": "apArtment kAtrin\u0026gerhArd Hippach - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4df89f95-e061-4ae7-9f45-5dc363daae0a/99/image.jpg",
+      "caption": "apArtment kAtrin\u0026gerhArd Hippach - Flur"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6672afe9-6152-41df-913a-ad9859bbb9b9/99/image.jpg",
+      "caption": "apArtment kAtrin\u0026gerhArd Hippach - Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a31800b-a767-4268-bdd7-246acbc83c64/99/image.jpg",
+      "caption": "apArtment kAtrin\u0026gerhArd Hippach - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ed4c310c-3c41-4c36-9b05-6867b80a6f92/99/image.jpg",
+      "caption": "apArtment kAtrin\u0026gerhArd Hippach - Bad2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f88dd61-f178-404f-8410-46b0b93dfe07/99/image.jpg",
+      "caption": "apArtment kAtrin\u0026gerhArd Hippach - Bad3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.19608",
+    "longitude": "11.8576232"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ и ванна, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент, shower and bath, toilet",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "93.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "105.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

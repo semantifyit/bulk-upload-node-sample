@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub",
+    "Restaurant",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Funky\u0027s",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1661888",
+    "longitude": "11.86528"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Funky\u0027s",
+    "streetAddress": "Scheulingstraße 371",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5587055",
+    "email": "info@funkys.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a83bf28-3a80-4824-8b62-150a0ede6a81/99/image.bmp",
+      "caption": "Funky\u0027s"
+    }
+  ]
+}

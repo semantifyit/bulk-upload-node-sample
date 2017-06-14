@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "ZAS - Zillertaleralpensound",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76bf2a5b-4a7c-4ef9-8f85-ce138b0e337c/99/image.jpg",
+      "caption": "Zas"
+    }
+  ],
+  "url": [
+    "http://www.musikstadl.at",
+    "http://www.Hotel-Rose.at"
+  ],
+  "startDate": "2017-03-08",
+  "endDate": "2017-03-08"
+}

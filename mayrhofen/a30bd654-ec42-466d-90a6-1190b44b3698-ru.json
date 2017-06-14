@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Bridge"
+  ],
+  "name": "Dorfbrunnen: Johann-Sponring-Brunnen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2036146331236",
+    "longitude": "11.8651807308197"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeinde Schwendau",
+    "streetAddress": "Johann-Sponring-Straße 80",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2677",
+    "faxNumber": "0043 05282 26775",
+    "email": "gemeinde@schwendau.tirol.gv.at",
+    "url": "http://www.schwendau.at/index.php?option\u003dcom_content\u0026view\u003darticle\u0026id\u003d62\u0026Itemid\u003d1"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/315c525b-c341-474d-bfff-c4e291c30cdd/99/image.png",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.schwendau.at/index.php?option\u003dcom_content\u0026view\u003darticle\u0026id\u003d62\u0026Itemid\u003d109"
+  ]
+}

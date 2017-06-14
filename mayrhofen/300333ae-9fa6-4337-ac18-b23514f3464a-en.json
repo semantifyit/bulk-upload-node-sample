@@ -1,0 +1,439 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.geraerhuette.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d300333AE-9FA6-4337-AC18-B23514F3464A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Geraerhütte ",
+    "streetAddress": "Vals 24b/1",
+    "addressLocality": "St. Jodok am Brenner",
+    "postalCode": "6154",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 9610 303",
+    "email": "info@geraerhuette.at",
+    "url": "www.geraerhuette.at"
+  },
+  "name": "Geraerhütte",
+  "description": [
+    "Enjoy the magical ice and rock arena of rear Valser. Whether on a day trip or a multi-day hut tour around the Olperer. The Geraer mountain hut loads for more than 100 years to an extended rest. In this cozy mountain village you just feel comfortable. Let yourself be pampered by our rich and savory cuisine and a fine wine from our cellar.",
+    "Cancellation conditions:\n·An accommodation agreement is deemed to be concluded when the Alpine Assoc. Section\nreceives a request for a place to sleep at one of the section’s managed mountain huts and this\nreservation is confirmed by the mountain hut proprietor, or room is made available in the event\nof bookings at short notice.\nA legally binding contract is also concluded in the event of reservations made by word of\nmouth, telephone reservations in particular, unless otherwise agreed in writing.\n\n·Mountain hut proprietors are entitled to charge a deposit of 50% of the entire overnight costs.\nIn the event of cancellations made no less than 5 days prior to the intended arrival date,\ndeposit payments will be reimbursed.\nMountain hut proprietors are entitled to withhold 50% of the deposit for cancellations made 5\ndays and less (calculated from the first day of travel) prior to intended arrival date.\n\n·Free cancellations are generally possible, if one of the following criteria are met:\n- Alpine dangers prevent access to the mountain hut (e.g. landslides \u0026 risk of avalanche)\n\n·The guest can prove that the mountain hut proprietor has suffered no financial loss.\n",
+    "For information about the walk-insplease visit:\nhttp://www.mayrhofen.at/en/sommer-urlaub-ferien-familie/peter-habeler-route\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f86dcdbc-f249-4551-acad-f22f3d32a57e/99/image.jpg",
+      "caption": "Geraerhütte Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4de771da-a0b9-4355-a51b-242d27362057/99/image.jpg",
+      "caption": "Geraerhütte Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ac036f3-86a5-4b80-8aa1-c0455584488a/99/image.jpg",
+      "caption": "Geraerhütte Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c8cf1a72-ba8a-4f54-9bc9-42a92eae460e/99/image.jpg",
+      "caption": "Geraerhütte Wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fc73f1ac-b135-4cc8-adb3-2beaca5fcbe4/99/image.jpg",
+      "caption": "Geraerhütte Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7e03c63-8f78-4b4f-be42-68fba71e82d2/99/image.jpg",
+      "caption": "Geraerhütte Aussicht 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/781f85bb-255a-4e4a-8ffc-e765f06837f4/99/image.jpg",
+      "caption": "Geraerhütte Alpenblumen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3067c161-93e7-4a07-abd1-ab2c0308bdbb/99/image.jpg",
+      "caption": "Geraerhütte Stube 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/127cd604-2bf1-4555-a6f7-7cfef6b7e9b2/99/image.jpg",
+      "caption": "Geraerhütte Stube 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/232d1638-5bed-4c8a-984d-424de0edbe35/99/image.jpg",
+      "caption": "Geraerhütte Weinregal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/44399812-f973-4882-ad35-11b42d76ec5a/99/image.jpg",
+      "caption": "Geraerhütte Sonnenuntergang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3e52f079-5cbb-4473-b435-b532584e1aa9/99/image.jpg",
+      "caption": "Geraerhütte Wegweiser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/61a8e700-a907-4f30-b3e7-94c3c52b9f90/99/image.jpg",
+      "caption": "Die Wirtsleute"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.043369",
+    "longitude": "11.6281328"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Shared room",
+      "description": "We offer our guests comfortable rooms.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Room AV Non-Member",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Room AV Member",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "15.00",
+          "maxPrice": "15.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "15.00",
+          "maxPrice": "15.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "15.00",
+          "maxPrice": "15.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "15.00",
+          "maxPrice": "15.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Shared room",
+      "description": "We offer our guests comfortable rooms.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bed AV Non-Member",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "14",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bed AV Member",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "14",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 13",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 14",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "12.00",
+          "maxPrice": "12.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "12.00",
+          "maxPrice": "12.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "12.00",
+          "maxPrice": "12.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "12.00",
+          "maxPrice": "12.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "12.00",
+          "maxPrice": "12.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "12.00",
+          "maxPrice": "12.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "12.00",
+          "maxPrice": "12.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "12.00",
+          "maxPrice": "12.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "12.00",
+          "maxPrice": "12.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "12.00",
+          "maxPrice": "12.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "12.00",
+          "maxPrice": "12.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "12.00",
+          "maxPrice": "12.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 13",
+          "minPrice": "12.00",
+          "maxPrice": "12.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 14",
+          "minPrice": "12.00",
+          "maxPrice": "12.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

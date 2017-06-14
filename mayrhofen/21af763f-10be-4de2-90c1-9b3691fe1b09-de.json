@@ -1,0 +1,147 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d21AF763F-10BE-4DE2-90C1-9B3691FE1B09"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Oberbichl 694",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 442 98 23 ",
+    "email": "mario_harald@live.at"
+  },
+  "name": "Martin Hollaus",
+  "description": [
+    "\nUnser Haus liegt in zentraler, sonniger Tallage zwischen Mayrhofen und Hippach am Ortsrand von Ramsau, Ortsteil Oberbichl, mit herrlichem Ausblick auf die Zillertaler Bergwelt.\nDie liebevoll und gemütlich eingerichtete Ferienwohnung bietet einen idealen Ausgangspunkt für sportliche Aktivitäten.\nEin großer Parkplatz ist direkt beim Haus vorhanden.   \nGästebushaltestelle sowie die Haltestelle der Zillertalbahn sind nur 40m vom Haus entfernt.\n ",
+    "Check in: 13 Uhr\nCheck out: 10 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9851a408-1df5-4067-a11f-5869f7a33cd2/99/image.jpg",
+      "caption": "Martin Hollaus Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a2f67d09-4888-43d7-8c9c-d9cf922886a9/99/image.jpg",
+      "caption": "Martin Hollaus Ramsau - Winter I"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec3a1546-8c44-4f68-8a4e-791102760e8a/99/image.jpg",
+      "caption": "Martin Hollaus Ramsau - Winter III"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3301edba-5551-499b-ac3b-9f4db662097d/99/image.jpg",
+      "caption": "IMG_8425"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1922897801928",
+    "longitude": "11.8707972764969"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Die ca. 54 qm große Ferienwohnung ist mit 2 Doppel-Schlafzimmern, geräumigen Flur, Bad mit DU/WC (inkl. Bettwäsche und Handtücher), sowie einer Wohnküche mit  Geschirr und allen erforderlichen Elektrogeräten ausgestattet.\nGerne bieten wir Ihnen einen Brötchenservice an.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart Magdalena",
+          "description": "Die ca. 54 qm große Ferienwohnung ist mit 2 Doppel-Schlafzimmern, geräumigen Flur, Bad mit DU/WC (inkl. Bettwäsche und Handtücher), sowie einer Wohnküche mit Geschirr und allen erforderlichen Elektrogeräten ausgestattet.\n\nGerne bieten wir Ihnen einen Brötchenservice an.\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Almabtriebspauschale - Apart SARAH",
+          "description": "MO Ortsrundgang \nDI Auf den Spuren der Heumilchprodukte (Bus nach Brandberg, Wanderung auf der Heumilch-Genuss-Route mit Einkehr, Besuch der ErlebnisSennerei) \nMI freie Gestaltung (Empfehlung: Adlerbühne, Sinnesspiele, Steinbockwelten,) \nDO Berggottesdienst am Ahorn beim Ahornsee mit Erwin Aschenwald (Ticket excl.) \nFR Hooo-Ruck-Party in der ErlebnisSennerei am Abend \nSA Großer Almabtrieb in Mayrhofen\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "60.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "79.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "158.00",
+          "maxPrice": "158.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "237.00",
+          "maxPrice": "237.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "316.00",
+          "maxPrice": "316.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

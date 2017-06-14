@@ -1,0 +1,56 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Salzburger Passionssingen „Stabat Mater“ mit Alfred Kröll",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Pfarramt Mayrhofen",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Jürgen",
+      "familyName": "Gradwohl"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Am Marienbrunnen 347",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5285 62269",
+      "faxNumber": "(0043) 5285 62269 20",
+      "email": "pfarre.mayrhofen@pfarre.kirchen.net",
+      "url": "http://www.pfarremayrhofen.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Pfarramt Mayrhofen",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Am Marienbrunnen 347",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5285 62269",
+      "faxNumber": "(0043) 5285 62269 20",
+      "email": "pfarre.mayrhofen@pfarre.kirchen.net",
+      "url": "http://www.pfarremayrhofen.at"
+    }
+  },
+  "description": "Beim diesjährigen Passionssingen stehen wieder die Frauen um Jesus im Zentrum des Spieles. Wenn man die biblischen Texte liest, so waren sie in den entscheidenden Situationen des Leidensweges Jesu Christi „hautnah“ dabei … am Kreuzweg, unterm Kreuz im Moment des Todes … und natürlich am leeren Grab. Aus ihrem Blickwinkel lässt sich die Passionsgeschichte daher besonders eindrucksvoll erzählen und erleben. \n\nDie Mitwirkenden 2017 sind neben den Schauspielern - Susanna Szameit (Maria), Agnes Mitterlechner-Wimmer (Maria Magdalena), Andrea Resch (Veronika), Alfred Kröll (Kaiphas), Willi Pilz (Philippus) und Benedikt Helminger (Johannes) - der Kirchenchor Bischofshofen unter Leitung von Martina Mayr (Salzburg), bzw. örtliche Kirchenchöre, die Pongauer Bläser, Andreas Gassner an der Orgel und die Passionsmusik unter der Leitung von Josef Radauer.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ed7ec880-b0ef-4168-8f08-e9b0992b211a/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.salzburgermusikverein.at"
+  ],
+  "startDate": "2017-04-07T19:00:00",
+  "endDate": "2017-04-07"
+}

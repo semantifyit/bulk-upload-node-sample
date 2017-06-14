@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": [
+    {
+      "@language": "de",
+      "@value": "Test Mayrhofen"
+    },
+    {
+      "@language": "en",
+      "@value": "Test Mayrhofen"
+    },
+    {
+      "@language": "ru",
+      "@value": "Test Mayrhofen"
+    }
+  ],
+  "eventStatus": "http://schema.org/EventScheduled"
+}

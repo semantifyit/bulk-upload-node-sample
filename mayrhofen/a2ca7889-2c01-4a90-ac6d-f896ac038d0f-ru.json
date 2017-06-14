@@ -1,0 +1,264 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.fewo-sporer.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA2CA7889-2C01-4A90-AC6D-F896AC038D0F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendberg 450",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4362",
+    "faxNumber": "0043 5282 4362",
+    "email": "haus-sporer@aon.at",
+    "url": "http://www.appartement-hippach.at"
+  },
+  "name": "Haus Sporer",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/448d39e8-e2a5-47d1-8ab0-60dafb271853/99/image.jpg",
+      "caption": "Haus Sporer Schwendberg - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6ca5c08-520a-4d20-9a3b-28a356c336eb/99/image.jpg",
+      "caption": "Haus Sporer Schwendberg - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e289fdd-a324-4b29-bf9a-6cc2bf21bce5/99/image.jpg",
+      "caption": "Haus Sporer Schwendberg - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ff43a6a0-d769-4321-b215-a68d8f6ec01c/99/image.jpg",
+      "caption": "Haus Sporer Schwendberg - Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/616ddbb4-5202-4c48-99c5-b756a0820699/99/image.jpg",
+      "caption": "Haus Sporer Schwendberg - Lage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/032f7500-1735-4b28-91be-94287c25ef21/99/image.jpg",
+      "caption": "Haus Sporer Schwendberg - Aussicht Balkon 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d13ab9b9-2e0b-4b5c-acd1-0e1952c60b9c/99/image.jpg",
+      "caption": "Haus Sporer Schwendberg - Aussicht Balkon 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1cf46b1f-1c80-4a1f-a159-66ca07f41dc5/99/image.jpg",
+      "caption": "Haus Sporer Schwendberg - Winterausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e13d13e3-6862-4a71-a97c-e82ad192e166/99/image.jpg",
+      "caption": "Haus Sporer - Wohnkueche 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/841a9eed-a208-4316-9212-183ae5a4a089/99/image.jpg",
+      "caption": "Haus Sporer - Wohnkueche 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0daf486c-4bbd-49b7-929a-c8c2ecf186cd/99/image.jpg",
+      "caption": "Haus Sporer - Zimmer 2-3 Pers. im Appartement"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/92f3057c-f78b-462b-89f2-bd273e767da7/99/image.jpg",
+      "caption": "Haus Sporer - Zimmer im Appartement"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6e1015a-e1db-421a-ae37-17c686eb8501/99/image.jpg",
+      "caption": "Haus Sporer - Doppelzimmer mit TV"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/08be0a50-c4e2-4f29-b1df-fb2d43a2885d/99/image.jpg",
+      "caption": "Haus Sporer - Zimmer für 2-3 Pers."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c63711d5-6c41-48c0-8513-9c849f9ef2d0/99/image.jpg",
+      "caption": "Haus Sporer - Familienzimmer für max 4 Pers."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0645dcb8-47cf-48f2-bb10-217dc7b36b07/99/image.jpg",
+      "caption": "Haus Sporer - Infrarotkabine"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2084106557724",
+    "longitude": "11.8532288074493"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "23.50",
+          "maxPrice": "41.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "23.50",
+          "maxPrice": "26.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "23.50",
+          "maxPrice": "26.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "12",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "95.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "140.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "160.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "155.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "170.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "170.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "170.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

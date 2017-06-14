@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Hohenaualm  \"KleinTibet des Zillertals\" 1863m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1047332295881",
+    "longitude": "12.0963174104691"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hohenalm",
+    "streetAddress": "Zillergrund",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290 ",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 534 28 42",
+    "faxNumber": "(0043) 5288 62742",
+    "email": "carmen.hanser@gmx.at"
+  },
+  "description": "\n\nSummer \nfrom middle of June till middle of October 2017 \nno rest day \nno overnight stay possible ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13796ec5-8a22-49bd-b647-1b734a9ae05d/99/image.jpg",
+      "caption": "Hohenaualm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cb2d2533-8e69-4176-a7f2-376cd244d88e/99/image.jpg",
+      "caption": "Hohenaualm2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd2e9387-3d17-4ec9-990c-61c8c7274b18/99/image.jpg",
+      "caption": "Hohenaualm3"
+    }
+  ]
+}

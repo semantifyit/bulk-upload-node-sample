@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Ahorn - Der Genießerberg - Winter",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1603798499436",
+    "longitude": "11.8598055839539"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ahornbahn",
+    "streetAddress": "Ahornstraße 853",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 62277",
+    "faxNumber": "+43 5285 62277-161",
+    "email": "info@mayrhofner-bergbahnen.com",
+    "url": "http://www.mayrhofner-bergbahnen.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f05b459-8789-4c75-a888-06c2f7b55612/99/image.jpg",
+      "caption": "Seilbahn "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eebb130f-2708-4154-ba5a-fa9372065850/99/image.jpg",
+      "caption": "Winterwandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9cfaef32-a81d-4ae7-b9da-c1e5db82cccf/99/image.jpg",
+      "caption": "Piste"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/111f2d5e-d9bd-492c-ae9e-dfe8a87508e7/99/image.jpg",
+      "caption": "Sessellift"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/908fdeba-b62e-4805-b745-b6fae919a57c/99/image.jpg",
+      "caption": "White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f53e29b2-bd4c-47ab-801c-172a65b6f7e9/99/image.jpg",
+      "caption": "Ahorn "
+    }
+  ],
+  "url": [
+    "http://www.mayrhofner-bergbahnen.com"
+  ]
+}

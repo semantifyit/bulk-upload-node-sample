@@ -1,0 +1,92 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d008390FA-007B-449D-8E76-B78A14630F4E"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Saurwein",
+    "streetAddress": "Penzing 642",
+    "addressLocality": "Hainzenberg",
+    "postalCode": "6278",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 51005",
+    "email": "c.saurwein@tsn.at"
+  },
+  "name": "Saurwein Christian",
+  "description": [
+    "Unser Privathaus liegt leicht oberhalb von Ramsau im Zillertal in sehr ruhiger und sonniger Hanglage und bietet einen traumhaften Ausblick auf die Zillertaler Bergwelt. In unserer neuen, komfortablen Ferienwohnung finden 1-4 Personen Platz. Parkplatz am Haus, Terrasse mit Terrassenmöbel\n\nIm Sommer ist für unsere Gäste der Eintritt in die Freibäder von Hippach und Mayrhofen sowie die Benützung der Tennisplätze in Hippach kostenlos.\n\nCheck In: 16.00 Uhr\nCheck Out: 09.30 Uhr\n",
+    "Nebenkosten: \n\ninklusive: \nHeizung, Wasser, Strom, Parkplatz, 1 Garnitur Bett- und Toilettenwäsche, unlimitiertes Wireless Lan(Laptop selber mitnehmen!)\n\nexklusive:\nEndreinigung: einmalig 40 € "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d8d682b9-03d7-4964-96bb-4e4e1f108cae/99/image.jpg",
+      "caption": "Saurwein Hainzenberg - Frontansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/822c754b-b7eb-45f6-8815-99e9264ba7e6/99/image.jpg",
+      "caption": "Saurwein Hainzenberg - Frontansicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/06e8c5a7-52e8-4a7b-8675-f30d26b1ebd9/99/image.jpg",
+      "caption": "Saurwein Hainzenberg - Seitenansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64faad1c-d554-44f0-8a7e-224c4de3db45/99/image.jpg",
+      "caption": "Saurwein Hainzenberg - Seitenansicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/169c9d67-1939-4b80-89b6-957dc46414d6/99/image.jpg",
+      "caption": "Saurwein Hainzenberg - Terrasse Ausblick Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/484bcd96-98c8-4e1e-b0bf-67863fb9b512/99/image.jpg",
+      "caption": "Saurwein Hainzenberg - Terrasse Ausblick Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2093727235979",
+    "longitude": "11.8758881092072"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC",
+      "description": "1 komfortable Ferienwohnung (ca. 50m² + 10m² Terrasse), gemütlich eingerichtet, mit eigenem Eingang, 1 Wohnschlafzimmer mit Doppeldiwanbett, Esstisch, Sat-TV, Kochnische (Cerankochfeld, Backofen, Mikrowelle, Tiefkühler), Fernsehstuhl, Bad / Dusche / WC, 1 Doppelbettzimmer, Terrasse mit Terrassenmöbel.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap./Wohn-Schlafr./1 Schlafraum/Bad,Du,WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

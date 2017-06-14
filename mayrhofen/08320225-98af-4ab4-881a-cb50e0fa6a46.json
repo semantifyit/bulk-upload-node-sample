@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church",
+    "CatholicChurch"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Ramsauer Kirchl - Maria 7 Schmerzen"
+    },
+    {
+      "@language": "de",
+      "@value": "Ramsauer Kirchl - Maria 7 Schmerzen"
+    },
+    {
+      "@language": "ru",
+      "@value": "Ramsauer Kirchl - Maria 7 Schmerzen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2047007005469",
+    "longitude": "11.8750619888306"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kirche Maria 7 Schmerzen",
+    "streetAddress": "Ramsau ",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "\nMit dem Bau des weithin sichtbaren Kirchleins - es ist ein einfacher Bau im klassizistischen Stil - wurde 1841 begonnen und konnte schon 1843 geweiht werden. Den Hochaltar ziert ein Bild der „Schmerzhaften Gottesmutter“. Die Ramsauer Kirche, die 1996/97 saniert und restauriert wurde, erstrahlt nun wieder in vollem Glanz. Unser Herr Erzbischof hat sie am 20. April 1997 feierlich wiedereröffnet. Ramsau ist die Heimat des Seligen Engelbert Kolland, der am 10. Juli 1860 im Alter von 33 Jahren in Damaskus als Blutzeuge für Christus starb. Er wurde am 10. Oktober 1926 seliggesprochen und ist seit 15. August 1986 der zweite Patron unserer Pfarrgemeinde Zell am Ziller.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5fdb2e0f-834a-4921-bacd-8510cac61aaa/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Maria 7 Schmerzen"
+        },
+        {
+          "@language": "de",
+          "@value": "Maria 7 Schmerzen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Maria 7 Schmerzen"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.gemeinde-hippach.at/chronik/schwendberg/index.html"
+  ]
+}

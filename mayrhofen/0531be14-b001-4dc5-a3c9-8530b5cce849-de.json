@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Holzbildhauer Eder David",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.162051",
+    "longitude": "11.8641901"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Penkenblick, Haus",
+    "streetAddress": "Jakob-Moser-Straße 576",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64440",
+    "faxNumber": "0043 5285 62721",
+    "email": "hannes.eder@direkt.at",
+    "url": "http://www.penkenblick.at"
+  },
+  "description": "Bei den gefertigten Figuren handelt es sich um reine Handarbeit, die von beiden gelernten Holzbildhauern ausgeführt wird.Neben Heiligenfiguren, Kruzifixe,Reliefs, Holzfiguren aller Art, Krippen und Krippenfiguren fertigen die Holzbildhauer alles auf Wunsch , bzw. nach eigenen Skizzen oder Fotos an. Auch sehr individuelle Ideen lassen sich in Holz als Figur oder Relief verwirklichen.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b3ebe45-7eec-4ba9-abb7-2caf44d09db9/99/image.jpg",
+      "caption": "Eder"
+    }
+  ],
+  "url": [
+    "http://www.penkenblick.at"
+  ]
+}

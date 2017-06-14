@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TennisComplex"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Tenniscenter Zillertal \"Tennis bei Mike\""
+    },
+    {
+      "@language": "de",
+      "@value": "Tenniscenter Zillertal \"Tennis bei Mike\""
+    },
+    {
+      "@language": "ru",
+      "@value": "Tenniscenter Zillertal \"Tennis bei Mike\""
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2015815",
+    "longitude": "11.8664922"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lindenstraße 35",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "email": "tenniscenter-zillertal@gmx.at",
+    "url": "http://tenniscenter-zillertal.npage.at/"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Das Tenniscenter-Zillertal trainiert Sie auf verschiedenen Tennisanlagen des Zillertals.\nOb\nAnfänger, Fortgeschrittener oder Turnierspieler\nOb\nEinzelunterricht, Gruppenunterricht oder Wettkampftraining\nbei uns sind Sie absolut richtig!\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/61d55b1c-0a53-4c20-8a88-522602628fff/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Tenniscenter Zillertal "
+        },
+        {
+          "@language": "de",
+          "@value": "Tenniscenter Zillertal "
+        },
+        {
+          "@language": "ru",
+          "@value": "Tenniscenter Zillertal "
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

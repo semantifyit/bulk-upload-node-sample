@@ -1,0 +1,159 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartements-maria.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d34BAC934-97CF-4FDA-A099-F94CC6239102"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 329",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 664 5340868",
+    "email": "info@appartements-maria.at",
+    "url": "http://www.appartements-maria.at"
+  },
+  "name": "Taschler Maria",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt in sonniger und zentraler Lage direkt in Ramsau"
+    },
+    {
+      "@language": "de",
+      "@value": "Kinderermässigung auf Anfrage"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is in sunny and central position directly in Ramsau."
+    },
+    {
+      "@language": "en",
+      "@value": "children reduction on request"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56b3893b-be62-44c7-950f-3b0c4ab1a5d3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Maria Taschler Ramsau - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Maria Taschler Ramsau - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Maria Taschler Ramsau - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0269288b-7a00-450f-b65b-747aa24422b3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Maria Taschler Ramsau - Sommer 1 "
+        },
+        {
+          "@language": "en",
+          "@value": "Maria Taschler Ramsau - Sommer 1 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Maria Taschler Ramsau - Sommer 1 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50b758f7-38e5-4dd5-aae1-3c61c8c34129/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Maria Taschler Ramsau - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Maria Taschler Ramsau - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Maria Taschler Ramsau - Winter"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2038551734632",
+    "longitude": "11.8747454881668"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Beschreibung: Unsere Ferienwohnung liegt zentral in sonniger Lage. Sämtliche Skigebiete im hinteren Zillertal inkl. Gletscherbahn sind mit  Skibussen leicht erreichbar.\nHaltestelle der Skibusse 50 Meter von der Ferienwohnung entfernt.\nAusstattung: geräumige  Wohnküche ,  2 separate Schlafzimmer mit Balkon im Landhausstil gehalten. Jedes Schlafzimmer hat eine eigene Dusche mit WC.\n\nNäheres siehe Homepage:  www.appartements-maria.at\n"
+        },
+        {
+          "@language": "en",
+          "@value": "cosy appartement for 2-4 persons, livingroom with cooiking place, shower/WC, balcony, TV"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Maria"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

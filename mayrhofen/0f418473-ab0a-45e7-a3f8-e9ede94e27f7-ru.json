@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Festival"
+  ],
+  "name": "Cattle Drive at Bruggerstube and Larcherhof",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Larcherhof, Hotel Garni",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Katharina",
+      "familyName": "Eberharter"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Hollenzen 88",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 62788",
+      "faxNumber": "+43 5285 62788-4",
+      "email": "info@larcherhof.com",
+      "url": "http://www.larcherhof.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Larcherhof, Hotel Garni",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Hollenzen 88",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 62788",
+      "faxNumber": "+43 5285 62788-4",
+      "email": "info@larcherhof.com",
+      "url": "http://www.larcherhof.com"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/462dc450-5a92-44d2-85e7-13794a7081cc/99/image.jpg",
+      "caption": "Almabtrieb"
+    }
+  ],
+  "startDate": "2017-10-07T11:00:00",
+  "endDate": "2017-10-07"
+}

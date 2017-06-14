@@ -1,0 +1,82 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Bahnhof Ramsau/Hippach"
+    },
+    {
+      "@language": "de",
+      "@value": "Bahnhof Ramsau/Hippach"
+    },
+    {
+      "@language": "ru",
+      "@value": "Bahnhof Ramsau/Hippach"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2048683465574",
+    "longitude": "11.8700087070465"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhof Ramsau/Hippach",
+    "streetAddress": "Talstraße 70",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "email": "office@zillertalbahn.at",
+    "url": "http://www.zillertalbahn.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Die Zillertalbahn bietet allen Radfahrern vielfältige Möglichkeiten: Citybikes, Kinderfahrräder, Kindersitze und Helme können an den Bahnhöfen ausgeliehen und dort auch wieder zurückgegeben werden. Für Ihren Heimweg benützen Sie dann am besten einen unserer Züge. Wer auf sein eigenes Rad setzen möchte, kann für den Radtransport problemlos und ohne Zusatzkosten unsere Bahn benützen, denn Fahrräder werden in den Zügen ohne Aufpreis befördert. \nDer Radweg von Strass im Z. bis Mayrhofen ist gut ausgebaut und bestens markiert, sodass einem netten Ausflug nichts mehr im Weg steht.\nWir vermieten nur gepflegte Markenfahrräder.\nFahrrad-Manager:\nHans Hechenblaikner\nMobil ++43 (0) 676 84643331\nE-Mail: hans.hechenblaikner@zillertalbahn.at "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fb746670-59b7-457f-80a3-f2dec8328f75/99/image.gif",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Zillertalbahn"
+        },
+        {
+          "@language": "de",
+          "@value": "Zillertalbahn"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zillertalbahn"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/feb40f9b-e88b-42d6-979a-5f01a158540d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Fahrradverleih"
+        },
+        {
+          "@language": "de",
+          "@value": "Fahrradverleih"
+        },
+        {
+          "@language": "ru",
+          "@value": "Fahrradverleih"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.zillertalbahn.at"
+  ]
+}

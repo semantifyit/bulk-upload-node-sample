@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Zillertaler Höhenstrasse",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2128637171048",
+    "longitude": "11.8176412582397"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeinde Zellberg ",
+    "streetAddress": "Zillertaler Höhenstraße ",
+    "addressLocality": "Zellberg",
+    "postalCode": "6280",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2300",
+    "faxNumber": "0043 5282/2300-4",
+    "email": "info@zillertaler-hoehenstrasse.com",
+    "url": "http://www.zillertaler-hoehenstrasse.com/cms"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df5da8fd-7a67-4b00-81c3-6d90c188b725/99/image.jpg",
+      "caption": "Zillertaler Höhenstrasse"
+    }
+  ],
+  "url": [
+    "http://www.zillertaler-hoehenstrasse.com/cms"
+  ]
+}

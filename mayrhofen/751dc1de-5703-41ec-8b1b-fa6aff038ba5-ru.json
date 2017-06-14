@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d751DC1DE-5703-41EC-8B1B-FA6AFF038BA5"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Durster Straße 244",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63542",
+    "faxNumber": "0043 5285 63542"
+  },
+  "name": "Wechselberger Marianne",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6db65c23-2069-4805-ba64-54d2fb447647/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1675285240034",
+    "longitude": "11.8676751852036"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, ванна, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

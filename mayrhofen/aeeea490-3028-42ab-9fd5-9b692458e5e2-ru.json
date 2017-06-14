@@ -1,0 +1,72 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Eggeweg 662",
+    "addressLocality": "Hainzenberg",
+    "postalCode": "6278",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3458",
+    "email": "j.luxner@gmx.at"
+  },
+  "name": "Gästehaus Luxner",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fecd14b5-2321-4331-8af0-f81dc92230e4/99/image.jpg",
+      "caption": "Haus Luxner Hainzenberg - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/39f3bc68-b8ad-4116-87a4-ee07ce408c42/99/image.jpg",
+      "caption": "Haus Luxner Hainzenberg - Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/845b748e-2a87-42b7-a3b1-61d8fe24506b/99/image.jpg",
+      "caption": "Haus Luxner Hainzenberg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b83fdb23-6a98-4c99-8929-8430d45ae732/99/image.jpg",
+      "caption": "Haus Luxner Hainzenberg - Obst"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2109791643218",
+    "longitude": "11.8764868116394"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "2-местный номер",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GroceryStore"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Billa GesmbH"
+    },
+    {
+      "@language": "de",
+      "@value": "Billa GesmbH"
+    },
+    {
+      "@language": "ru",
+      "@value": "Billa GesmbH"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1674325",
+    "longitude": "11.8656689"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Billa GesmbH",
+    "streetAddress": "Am Marienbrunnen 346",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63424",
+    "email": "info@billavorteilsreisen.at",
+    "url": "http://www.billa.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Top-Markenartikel zum garantiert besten Preis Österreichs und täglich aktualisiert!\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d39c4842-2095-4e58-97d8-50c4933f7f6a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Billa"
+        },
+        {
+          "@language": "de",
+          "@value": "Billa"
+        },
+        {
+          "@language": "ru",
+          "@value": "Billa"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.billa.at"
+  ]
+}

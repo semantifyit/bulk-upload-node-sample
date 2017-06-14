@@ -1,0 +1,115 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d0A2346A9-3B05-4DC4-A056-1F32CCF05FE8"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schatz, Gästehaus",
+    "streetAddress": "Eckartau 6",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62479",
+    "faxNumber": "0043 5285 62479",
+    "email": "pension.schatz@aon.at"
+  },
+  "name": "Gästehaus Schatz",
+  "description": [
+    "Frühstückspension in ruhiger, sonniger Lage, Terrasse, Liegewiese und Parkplätze. Gemütlicher Frühstücks- und Aufenthaltsraum. Nähe Skibushaltestelle, Langlaufloipe direkt beim Haus. Reichhaltiges Frühstück.",
+    "Preise inklusive Ortstaxe und reichhaltigem Frühstück.",
+    "Auf der B169 nach Hippach beim Kreisverkehr (Firma Alko-Kober) die Abfahrt Bühel nehmen, dann weiter fahren Richtung Eckartau(Mayrhofen). Das Haus befindet sich auf der rechten Straßenseite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/495e24d8-4e1d-4cca-bfed-297b876b4e3f/99/image.jpg",
+      "caption": "Gästehaus Schatz Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/170c4b93-f85b-4005-a5e5-7b59308710fd/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a8ac1aad-a588-4202-b949-4f54499c6d10/99/image.jpg",
+      "caption": "Bergsteigen © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d39402b3-6573-48bd-a7bb-2902988ea787/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d125aa1c-50fb-45c3-8c8b-2b4e179f743f/99/image.jpg",
+      "caption": "Skifahren © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/040be521-3671-431f-ae39-8a4ced0617eb/99/image.jpg",
+      "caption": "Wandern am Stausee © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/de1293c2-3f4e-4b34-bfc8-af192c3eefd8/99/image.jpg",
+      "caption": "Langlaufen © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/79cc76a7-10da-4248-a6d5-81101f56ebfa/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b3399112-91db-4118-9d8b-1d388c106d88/99/image.jpg",
+      "caption": "Winter am Berg © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/07e48f50-914d-49f0-a799-bf83069d2a17/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8c6b6099-c845-4ae3-8267-c935d4a700f0/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1894281136427",
+    "longitude": "11.8715161085129"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Gemütliche Zimmer mit Dusche/WC und Balkon und TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC, Balkon und SAT-TV",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

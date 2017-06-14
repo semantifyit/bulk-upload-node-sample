@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Service"
+  ],
+  "name": "BMW und Mini Innerbichler",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2115555324714",
+    "longitude": "11.8732059001923"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "BMW und Mini Innerbichler",
+    "streetAddress": "Talstraße 14",
+    "addressLocality": "Ramsau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 2971",
+    "faxNumber": "(0043) 5282 297173",
+    "email": "info@innerbichler.bmw.at",
+    "url": "http://www.innerbichler.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ef4b41d-0e5e-48cb-8c82-23d72ca7c69f/99/image.jpg",
+      "caption": "BMW und Mini Innerbichler "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e6b0fb9-481b-4526-9342-34dbcf62fb01/99/image.jpg",
+      "caption": "Autohaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f205382c-df8e-4cd6-a09f-c2e4b7f43d88/99/image.jpg",
+      "caption": "Werkstatt"
+    }
+  ],
+  "url": [
+    "http://www.innerbichler.at"
+  ]
+}

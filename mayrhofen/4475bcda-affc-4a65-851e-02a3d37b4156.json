@@ -1,0 +1,628 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.mayrhofenapartment.com"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burgstall371b",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 844 118 660",
+    "email": "enquiries@mayrhofenapartment.com",
+    "url": "http://www.mayrhofenapartment.com"
+  },
+  "name": "Kapellenblick",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Kapellen Blick Apartments sind perfekt platziert. Für 2 bis 9 Personen. Das Zentrum Mayrhofen ist leicht zu erreichen. Private Parkplätze sind vorhanden. Neben uns finden Sie auch direkt eine Busverbindung. Die Penkenbahn und die Horbergbahn sind jeweils 1 km entfernt. An den Bahnen finden Sie gratis Parkplätze. Um das Haus herum finden sie super Geh-, Wander- und Kletterrouten.\n\n\n\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "New, modern contemporary apartments in a perfect location for your winter or summer holidays in the Austrian Alps."
+    },
+    {
+      "@language": "de",
+      "@value": "Check-in: 15:00 Uhr\nCheck-out: 09:30 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Kapelle Blick Apartments are perfectly located luxury apartments sleeping 2 to 9 people, within easy reach of Mayrhofen centre, with private parking. \nDirectly on bus route and only 1km from both the Penkenbahn and Horbergbahn  lifts, both with free parking!\nOn the doorstep you have walking, hiking, cycling routes, sledging fields and cross country ski track. \n\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "New, modern contemporary apartments in a perfect location for your winter and summer holidays in the Austrian Alps."
+    },
+    {
+      "@language": "en",
+      "@value": "Check-in: 15:00 \nCheck-out: 09:30"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "17"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/20aa6d80-ce3a-48b4-beba-142b721756a1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kapellenblick - Winter 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Kapellenblick - Winter 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kapellenblick - Winter 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8d84cfb6-2804-449c-a14c-f6acce4a9cb8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kapellenblick - Winter 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Kapellenblick - Winter 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kapellenblick - Winter 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/00a5d53a-0d10-4dc0-acda-e143bc36adb5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kapellenblick - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Kapellenblick - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kapellenblick - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4664c196-90ee-487f-ac34-396583cfb901/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kapellenblick - Sommer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Kapellenblick - Sommer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kapellenblick - Sommer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6aa196a4-32b6-415b-91ab-3af5cb98d965/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kapellenblick - Sommer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Kapellenblick - Sommer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kapellenblick - Sommer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/25c7dd78-9928-4fc2-b7be-22539b057743/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kapellenblick - Sommer 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Kapellenblick - Sommer 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kapellenblick - Sommer 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a0d8c36f-1f67-438a-b9bf-2d57f2e3cacc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kapellenblick - Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Kapellenblick - Balkon"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kapellenblick - Balkon"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64060e87-67c3-4f69-8f08-ea65ef217122/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d59a548e-829a-417f-8daa-58cf990106c3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/46d651cc-1d48-4791-824d-65fb63ded35d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/92a4a44d-96e3-426f-8a35-b4e5c7141f05/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Nearby walk"
+        },
+        {
+          "@language": "en",
+          "@value": "Nearby walk"
+        },
+        {
+          "@language": "ru",
+          "@value": "Nearby walk"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b7a5cc8c-4328-42cc-8efd-1093ee36d3a3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "photo 2(4)"
+        },
+        {
+          "@language": "en",
+          "@value": "photo 2(4)"
+        },
+        {
+          "@language": "ru",
+          "@value": "photo 2(4)"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c99224c0-8c9a-4691-bc1c-ff776e216ba9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "photo(3)"
+        },
+        {
+          "@language": "en",
+          "@value": "photo(3)"
+        },
+        {
+          "@language": "ru",
+          "@value": "photo(3)"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/630ffcfc-eb89-41d1-a1e0-753a5823f2b1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Shaded area seating"
+        },
+        {
+          "@language": "en",
+          "@value": "Shaded area seating"
+        },
+        {
+          "@language": "ru",
+          "@value": "Shaded area seating"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1803506237108",
+    "longitude": "11.8616567349181"
+  },
+  "paymentAccepted": [
+    "Diners",
+    "MasterCard"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnung 1 75m2, Schlafzimmer 4-5 Bequem. Zwei getrennte Schlafzimmer, badezimmer mit  Bad und  Dusche,  getrenntes WC. Völlig ausgestattetes offenes Planküchenesszimmer. Balkon mit atemberaubender Aussicht auf die Berge. Halle und Speiseraum für 5 Personen. FLÜSSIGKRISTALLANZEIGEN-TV, IPoddockenstation, DVD und PS2 Spieler \n\nApartment 1  75m2, Sleeps 4-5 Comfortably.  Two separate bedrooms,  Bathroom with bath and shower, Separate WC.   Fully equipped open plan Kitchen-Dining room.   Balcony with breathtaking views over the mountains.   Lounge and Dining area for 5 people.   LCD TV, Ipod docking station, DVD and PS2 Player\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment 1  75m2, Sleeps 4-5 Comfortably.  Two separate bedrooms,  Bathroom with bath and shower, Separate WC.   Fully equipped open plan Kitchen-Dining room.   Balcony with breathtaking views over the mountains.   Lounge and Dining area for 5 people.   LCD TV, Ipod docking station, DVD and PS2 Player\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Wohnung 1"
+            },
+            {
+              "@language": "en",
+              "@value": "Wohnung 1"
+            },
+            {
+              "@language": "ru",
+              "@value": "Wohnung 1"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Skipauschale, Wohnung 1"
+            },
+            {
+              "@language": "en",
+              "@value": "Skipauschale, Wohnung 1"
+            },
+            {
+              "@language": "ru",
+              "@value": "Skipauschale, Wohnung 1"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Schwimmbadpauschale Wohnung 1"
+            },
+            {
+              "@language": "en",
+              "@value": "Schwimmbadpauschale Wohnung 1"
+            },
+            {
+              "@language": "ru",
+              "@value": "Schwimmbadpauschale Wohnung 1"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "645.00",
+          "maxPrice": "1295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "645.00",
+          "maxPrice": "1295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "2005.00",
+          "maxPrice": "2005.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "715.00",
+          "maxPrice": "915.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "715.00",
+          "maxPrice": "915.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": " \nWohnung 2, hat ein großes Schlafzimmer mit einem Königgroßenbett, einem doppelten Couchbett und einem weiteren Couchbett in der Halle. Jede Wohnung hat private Vorhallen und direkten Zugang zum Garten. Völlig ausgestattete offene Planküchenesszimmer mit der privaten Terrasse in einer großen Position in der Nähe von der Kapelle und den Bergen darüber hinaus. Halle und Speiseräume mit WiFi, FLÜSSIGKRISTALLANZEIGEN-TV und DVD/PS2 Spieler, und IPoddockenstationen, Bodenheizung. \n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment 2, has one large bedroom with a King size bed, a double sofa bed, and a further sofa bed in the lounge.   Each apartment have private entrance halls and direct access to the garden. Fully equipped open plan kitchen-dining rooms with private  terrace in a great location near the Chapel and mountains beyond. Lounge and dining areas with WiFi, LCD TV and DVD/PS2 Player, and Ipod docking stations, underfloor heating.  \n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Wohnung 2"
+            },
+            {
+              "@language": "en",
+              "@value": "Wohnung 2"
+            },
+            {
+              "@language": "ru",
+              "@value": "Wohnung 2"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Skipauschale, Wohnung 2"
+            },
+            {
+              "@language": "en",
+              "@value": "Skipauschale, Wohnung 2"
+            },
+            {
+              "@language": "ru",
+              "@value": "Skipauschale, Wohnung 2"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Schwimmbadpauschale Wohnung 2"
+            },
+            {
+              "@language": "en",
+              "@value": "Schwimmbadpauschale Wohnung 2"
+            },
+            {
+              "@language": "ru",
+              "@value": "Schwimmbadpauschale Wohnung 2"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "495.00",
+          "maxPrice": "845.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "495.00",
+          "maxPrice": "845.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "495.00",
+          "maxPrice": "845.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "1613.00",
+          "maxPrice": "1613.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "1613.00",
+          "maxPrice": "1613.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "565.00",
+          "maxPrice": "665.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "565.00",
+          "maxPrice": "665.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "565.00",
+          "maxPrice": "665.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

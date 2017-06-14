@@ -1,0 +1,431 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d0B3BF9A7-7786-4EE2-831F-23C1BA56D950"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Dejakom, Haus",
+    "streetAddress": "Jakob-Moser-Straße 581",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62587",
+    "faxNumber": "0043 5285 62587",
+    "email": "haus.dejakom@aon.at"
+  },
+  "name": "Haus Dejakom",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Genießen Sie in mitten der Zillertaler Bergwelt schöne und erholsame Tage . Unser Haus liegt in ruhiger und doch zentraler Lage mit Blick auf den \nPenken und Ahorn. Sie erreichen die Bergbahnen, das Ortszentrum, Erlebnisbad und Eislaufplatz in 5 Gehminuten."
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: 14.00 Uhr\nCheck out: 09.00 Uhr"
+    },
+    {
+      "@language": "de",
+      "@value": "Richtung Mayrhofen, beim Kreisverkehr gerade aus weiter, beim Bahnhof vorbei und die nächste Kreuzung links, nach dem Postamt die nächste rechts, die Hauptstrasse entlang bis zur Penkenbahn, links abbiegen und bei der nächsten noch einmal rechts!"
+    },
+    {
+      "@language": "de",
+      "@value": "Fam. Sporer  \nHaus Dejakom\nJakob-Moserstr. 581\n6290 Mayrhofen"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is quiet, yet centrally situated.  5 minutes walk to the Penkenbahn or Ahornbahn, and 5 minutes walk to theresort centre"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 14.00 \nCheck out: 09.00 "
+    },
+    {
+      "@language": "en",
+      "@value": "At Mayrhofen go on straight ahead at the roundabout, past the railway station, and left at the next turning, after the post office turn right, up the high street until the Penken cable car station, turn left and then right at the next junction."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f1d9470-8386-4a7c-9567-529aa7465f00/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dejakom Mayrhofen - Sommer 1 "
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dejakom Mayrhofen - Sommer 1 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dejakom Mayrhofen - Sommer 1 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f415c99f-277d-4b4e-b718-75d91f288dd1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dejakom Mayrhofen - Somme 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dejakom Mayrhofen - Somme 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dejakom Mayrhofen - Somme 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/79545faa-72fb-4ea1-ae64-42bc6b4703be/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dejakom Mayrhofen - Winter 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dejakom Mayrhofen - Winter 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dejakom Mayrhofen - Winter 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3e650f72-833a-411d-af7b-e08119247a90/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dejakom Mayrhofen - Winter2"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dejakom Mayrhofen - Winter2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dejakom Mayrhofen - Winter2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3b2195f9-22c0-42e5-b5c2-c1b082d1e778/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dejakom Mayrhofen - Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dejakom Mayrhofen - Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dejakom Mayrhofen - Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ae0dbc7-b529-40c7-9db3-3e5dedc7a7c8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dejakom Mayrhofen - Wohnraum 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dejakom Mayrhofen - Wohnraum 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dejakom Mayrhofen - Wohnraum 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/059924bb-ead9-456e-b49a-304825220730/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dejakom Mayrhofen - Wohnraum2"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dejakom Mayrhofen - Wohnraum2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dejakom Mayrhofen - Wohnraum2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d4c701e9-792d-445c-8c5e-e99c9cb034c4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dejakom Mayrhofen - Schlafzimmer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dejakom Mayrhofen - Schlafzimmer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dejakom Mayrhofen - Schlafzimmer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b40ee9e-8fe7-4d7c-aacd-a4f367279790/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dejakom Mayrhofen - Schlafzimmer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dejakom Mayrhofen - Schlafzimmer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dejakom Mayrhofen - Schlafzimmer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/10adf7c2-8147-49c3-b2a8-1ae770886f7a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dejakom Mayrhofen - Gang"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dejakom Mayrhofen - Gang"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dejakom Mayrhofen - Gang"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da1892ef-657f-4819-8ecc-5e3c9481156c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dejakom Mayrhofen - Bad"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dejakom Mayrhofen - Bad"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dejakom Mayrhofen - Bad"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/263d3b75-8451-48d1-bfa5-e673ce8ef1bd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dejakom Mayrhofen - Aussicht Sommer Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dejakom Mayrhofen - Aussicht Sommer Balkon"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dejakom Mayrhofen - Aussicht Sommer Balkon"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/950499c9-0b67-4208-b90e-e0d2670e2f5a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dejakom Mayrhofen - Aussicht Winter 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dejakom Mayrhofen - Aussicht Winter 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dejakom Mayrhofen - Aussicht Winter 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa1def33-276c-44fc-85ae-b0feb0523112/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dejakom Mayrhofen - Aussicht Winter 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dejakom Mayrhofen - Aussicht Winter 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dejakom Mayrhofen - Aussicht Winter 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1cf4a021-6d5d-416a-87c1-6a7881db467e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Dejakom Mayrhofen - Aussicht Winter 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Dejakom Mayrhofen - Aussicht Winter 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Dejakom Mayrhofen - Aussicht Winter 3"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1610838182005",
+    "longitude": "11.8644672632217"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung für 2 - 6 Personen mit Balkon, TV, Küche, 2Schlafzimmer, sowie eine Schlafcouch, im Wohnzimmer,.\nBei Belegung mit 2 Personen steht Ihnen 1 Schlafzimmer mit DU,Wc zur Verfügung. Die Küche ist mit Herd, Backofen, Kühlschrank. Geschirrspüler,\nKaffeemaschine,genügend Geschirr ausgestattet. W-lan steht ihnen gegen Aufpreis zur Verfügung."
+        },
+        {
+          "@language": "en",
+          "@value": "Holiday apartment suitable for 2-6 persons with a balcony, TV, kitchen, 2doublerooms, sleeping-couch and a separate lounge.\nIf you book for 2 persons we offer you a 1doubleroom with WC,shower."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "64.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "79.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "94.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "110.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

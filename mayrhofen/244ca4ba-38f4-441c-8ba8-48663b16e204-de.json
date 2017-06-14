@@ -1,0 +1,353 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apart-brigitte.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d244CA4BA-38F4-441C-8BA8-48663B16E204"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brigitte, Apart",
+    "streetAddress": "Lindenstraße 29",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3573",
+    "faxNumber": "(0043)  5282 3573",
+    "email": "info@apart-brigitte.at",
+    "url": "http://www.apart-brigitte.at"
+  },
+  "name": "Apart Brigitte",
+  "description": [
+    "Herzlich Willkommen in unserem Apart Brigitte!\n\nWir vermieten seit etlichen Jahren und wissen wie wichtig eine kleine Auszeit für jeden gut tut. Wir haben unsere Appartments so ausgestattet wie wir selber auch wohnen. Unsere Haus befindet sich in zentraler und doch ruhiger Tallage in der Lindenstrasse, nicht weit von Lebensmittelaeden, Restaurants, Cafes ...usw.Die Skibushaltestelle ist in unmittelbarer Naehe,mit denen Sie in 5 - 10 Minuten das gr0ße Skigebiet Horberg und damit den Einstieg in den Skigroßraum Mayrhofen erreichen können. Die Langlaufloipe und die Zillerpromenade sind nur wenige Schritte entfernt.\n\n\nIn unserm Haus haben wir gemütlich eingerichtete Appartments für 2 -5 Personen und 4-7 Personen .Gerade im Winter,wenn Wiesen und Wälder in eine dicke Schneedecke gehüllt sind, genießen es die Gäste besonders,nach einem ausgedehnten Winterspaziergang,einem Skitag in den Zillertaler Bergen in die gemütlichen Appartments zurückzukommen und gemütlich eine Tasse Tee zu trinken, ein gutes Buch zu lesen oder einfach nur die Seele baumeln zu lassen.\n\nFür einen schönen Urlaub sorgt für Sie Brigitte Sporer\n\n",
+    "Mehr Info über uns und den Appartments: www.apart-brigitte.at\nKostenloser Skibus. Skibushaltestelle direkt vor unserem Haus !\nUnser Haus ist in der Tallage von Hippach.\nIn unserem Haus gelten die Österreichischen Hotelvertragsbedingungen.",
+    "Anreise: Check in 15.00 Uhr - Check out 10.00 Uhr\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "10"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96ac122d-f04d-41ff-8611-5200f5e44144/99/image.jpg",
+      "caption": "Apart Brigitte Schwendau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/633f2bbf-538c-4458-adcc-455cc5840c73/99/image.jpg",
+      "caption": "Apart Brigitte in Schwendau, Hippach im Zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/75ae6bb3-adf4-4392-8cf8-6171949d816e/99/image.jpg",
+      "caption": "Apart Brigitte Schwendau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f9ca1679-ce71-4151-a63b-99e86f0b6bdc/99/image.jpg",
+      "caption": "Apart Brigitte Schwendau - Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e116c64f-e755-449f-9838-b6d6fb3abb0e/99/image.jpg",
+      "caption": "Apart Tirol "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ef59930-7954-4eea-a438-1ebd03e6d573/99/image.jpg",
+      "caption": "Apart Edelweiß"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a6575497-08d0-4307-b572-fd4d54d4f119/99/image.jpg",
+      "caption": "DSC_0358"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f6dbc274-6070-4eb0-a0e0-80a28daecff6/99/image.jpg",
+      "caption": "DSC_0369"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5b1e608f-21b7-4ae6-aea7-8df0e52e58ce/99/image.jpg",
+      "caption": "alpine_Hochtour_Zillertal_Paul_Suerth"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6aef8de3-5245-4f16-9a4a-7050eefc553c/99/image.jpg",
+      "caption": "mayrhofen_skigebiet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e78d2039-bedd-46b1-8134-9aad70e74a33/99/image.jpg",
+      "caption": "MayrhofnerBergbahnen_Geniesserrundweg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a73e42c2-ef35-4dc4-b4b2-8471be9f2156/99/image.jpg",
+      "caption": "MayrhofnerBergbahnen_Pistenpanorama_2013_14 (2)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af8d7e81-d290-4e5b-b647-8ec341442104/99/image.jpg",
+      "caption": "Edelweiss 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/30887ccf-0aa3-4064-8fbd-35cf8ed3503f/99/image.jpg",
+      "caption": "Edelweiss 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c39aecf8-52cf-439c-9e5d-db9af0656660/99/image.jpg",
+      "caption": "Edelweiss 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2acbea0e-bf49-4bd7-8031-2d7d2a89f0c0/99/image.jpg",
+      "caption": "Edelweiss 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/650370e2-2c1e-4774-bea5-97e25cd79381/99/image.jpg",
+      "caption": "Edelweiss 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/38ca0ee1-de77-4dff-ae8b-97fd1e1c8e22/99/image.jpg",
+      "caption": "Tirol Badezimmer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e3715baf-c434-4906-a38c-1dd077d8acb9/99/image.jpg",
+      "caption": "Tirol Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b593f62a-ac42-4719-960d-30ea1cf50c60/99/image.jpg",
+      "caption": "Tirol Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1842e642-a5c0-4c1e-ada3-926a544c00a7/99/image.jpg",
+      "caption": "Tirol Schlafzimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52ea086d-1716-4af0-9d3f-76c9f118fd38/99/image.jpg",
+      "caption": "Tirol Schlafzimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/086e71dd-dccc-4d03-b1ed-8f4c205b3a72/99/image.jpg",
+      "caption": "Tirol Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50445be2-4ab9-4470-81ed-11ba605f3b37/99/image.jpg",
+      "caption": "Tirol Essecke"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2019381095564",
+    "longitude": "11.8653684854507"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Apartment Tirol für 2 - 6 Personen\nWohnen mit Komfort und Atmosphäre,1 Dreibettzimmer,1 Doppelzimmer,Wohnschlafbereich \n1Wohnküche,Bad mit  Dusche und WC,1WC separat,\nDie Ausstattung ist sehr komfortabel:komplett ausgestatteter Küche mit E- Herd,Backrohr,Mikrowelle,Kühlschrank,Fön,Toaster,Wasserkocher,die gesamte Wohnung ist mit Parkettboden ausgestattet, Sat TV, Garderrobe, Bettwäsche und Handtücher sind vorhanden,Geschirrspüler, Balkon, Skiraum mit Skischuhtrockner vorhanden",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment Tirol",
+          "description": "Apart Tirol : 3-maximal 7 Personen,2kuschelige Schlafzimmer für 2 bzw.3Personen, Badezimmer mit Badewanne, Dusche und Doppelwaschbecken und WC und Fön, noch 1 separtes WC,einem hellen großzügigen Wohn-Küche, mit einer bequemen Sitzecke und Stühlen, einer zusätzlichen (ausziehbaren-auch als Schlafplatz nutzbarer)Couch, einer Küchenzeile mit Geschirrspüler, Mikrowelle,Herd mit 4 Platten und Backrohr, Kühlschrank,Wasserkocher,komplette Küchenausstattung, Fernseher, Radio,Balko, Diele,\nParkettböde",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/98a20d53-03c2-405e-8d35-24d3e5b7978f/99/image.jpg",
+              "caption": "Wohnzimmer1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/7c754343-31f6-491e-996a-88b4a1331896/99/image.jpg",
+              "caption": "Küche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a441fe12-e79d-46ed-b206-e9c806fae81a/99/image.jpg",
+              "caption": "Wohnzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d5823c1a-734f-4aad-a65c-23c5921af23a/99/image.jpg",
+              "caption": "Schlafzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/dd6a478c-5ce1-4c90-8415-a6213fcef713/99/image.jpg",
+              "caption": "Schlafzimmer2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/64761947-f8b2-43fc-9956-00b1fb0f9d33/99/image.jpg",
+              "caption": "Badezimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/3191473a-9efb-41e0-817c-046e44ddaa6a/99/image.jpg",
+              "caption": "Balkon"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "52.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "68.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "85.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "95.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "122.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Apartment Edelweiß für 2 - 5 Personen\nWohnen mit Komfort und Atmosphäre: 1 Dreibettzimmer,Wohnküche mit Ausziehcouch für 2 Personen, Wohnschlafbereich, Bad mit Badewanne, WC,Waschbecken,\nDie Ausstattung ist sehr komfortabel:komplett ausgestattete Küche mit E-Hernd, Mikrowelle,Kühlschrank,Sat Tv, Garderrobe, Bettwäsche und Handtücher sind vorhanden,Kaffeemaschiene, Geschirrspüler, Wasserkocher, die gesamte Wohnung ist mit Parkettboden ausgestattet,Skiraum mit Skischuhtrockner vorhanden, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment Edelweiss",
+          "description": "Apart Edelweiss: 1 kuscheliges Dreibettzimmer,Bad,Dusche und WC,Wohn-Küche, mit einer bequemen Sitzecke und Stühlen, einer zusätzlichen (ausziehbaren-auch als Schlafplatz für 2 Personen nutzbaren Couch),einer Küchenecke mit Geschirrspüler,Mikrowelle, Herd, Kühlschrank,kompletter Küchenausstattung, Fernseher und Radio,Fernseher,Radio, gesamte Wohnung mit Parkettböden,Diele und Balkon",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/861d6ab4-f92f-4a83-8453-602950bec801/99/image.jpg",
+              "caption": "Küche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/00b0697a-ccfb-43b8-83a8-c72a5473dd3f/99/image.jpg",
+              "caption": "Wohnküche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/f32919b6-4b73-44f0-a78f-c60590ed31fe/99/image.jpg",
+              "caption": "Schlafzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/64dd8386-3fdd-4d93-b237-4dcc0fe49814/99/image.jpg",
+              "caption": "Wohncouch"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/98c05175-9f20-4267-99e8-3e4532a719fd/99/image.jpg",
+              "caption": "Apart Edelweiss"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/402b0eba-11d9-4906-86b4-f9eb9bb666ff/99/image.jpg",
+              "caption": "Apart Edelweiss"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/22cdb486-79e1-49a9-a343-50b0ad4488d9/99/image.jpg",
+              "caption": "Apart Edelweiss"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/764cdf3f-08fa-4a0e-a19c-ee75beb742cb/99/image.jpg",
+              "caption": "Badezimmer"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "47.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "57.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "67.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "85.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

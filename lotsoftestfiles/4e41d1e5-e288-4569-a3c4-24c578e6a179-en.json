@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ClothingStore",
+    "Store"
+  ],
+  "name": "Cecil - Street One",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1673680541206",
+    "longitude": "11.861457824707"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Street One",
+    "streetAddress": "Einfahrt Mitte 433",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62365",
+    "faxNumber": "(0043) 5285 62365",
+    "email": "office.riedhart@gmx.at",
+    "url": "http://www.street-one.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0fa7a737-69e7-4471-970d-bba6d09df055/99/image.jpg",
+      "caption": "Cecil/Street One"
+    }
+  ],
+  "url": [
+    "http://www.street-one.at"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "DanceEvent"
+  ],
+  "name": "Juzi Open Air",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Die jungen Zillertaler",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Strass im Zillertal 122b",
+      "addressLocality": "Strass im Zillertal",
+      "postalCode": "6261",
+      "addressCountry": "AT",
+      "telephone": "+43 5244 65700 ",
+      "faxNumber": "+43 5244 65700-10",
+      "email": "office@die-jungen-zillertaler.com",
+      "url": "http://www.die-jungen-zillertaler.com/"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Die jungen Zillertaler",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Strass im Zillertal 122b",
+      "addressLocality": "Strass im Zillertal",
+      "postalCode": "6261",
+      "addressCountry": "AT",
+      "telephone": "+43 5244 65700 ",
+      "faxNumber": "+43 5244 65700-10",
+      "email": "office@die-jungen-zillertaler.com",
+      "url": "http://www.die-jungen-zillertaler.com/"
+    }
+  },
+  "description": "JUZIopenair 2017 : Die jungen Zillertaler \nSamstag 19. August 2017\n  \nDie Party geht am Samstag den 19.8.2017 richtig ab! \nNach dem Einlass um 15:00 Uhr startet pünktlich ab 16:00 Uhr das Vorprogramm\nAb ca. 21.00 Uhr werden \"Die jungen Zillertaler\" die Bühne betreten und ihr Open-Air-Konzert geben! \nim Anschluß an das Konzert gibt es wieder ein Klangfeuerwerk und natürlich auch wieder die legendäre Afterparty im Barzelt mit DJ Mox!\n\nRAHMENPROGRAMM: \n\nDonnerstag, 17.08.2017\nBegrüßungsabend im Festzelt am JUZIopenair Gelände\n\nEinlass: 18.00 Uhr |  Beginn: 19.00 Uhr\nIm Festzelt am JUZIopenair-Gelände mit ORF Moderator Alex Weber\n\nSitzplatz-Reservierung: reservierung@die-jungen-zillertaler.com \n\nFreitag, 18.08.2017\nFan-Aktiv-Tag \n\n10.00 Uhr: Start zu einer gemütlichen, familienfreundlichen Fan-Wanderung\n\nAnmeldung: Tourismus-Infobüro Strass, +43 5244 63040, office@alextravel.at \n\nSonntag, 20.08.2017 \nFrühschoppen\n\n10.30 Uhr: Ausklang des JUZIopenair-Wochenendes bei einem zünftigen Familien-Frühschoppen mit einer ORF Radio Tirol „Musiktruch‘n“-Aufzeichnung. \nEintritt frei! \n\n____________________________________  \nALLGEMEINE INFORMATIONEN: \nEinlass: 15:00 Uhr | Beginn: 16:00 Uhr | JUZI-Konzert ca. 21:00 Uhr\nAnschließend KLANGFEUERWERK und AIRLEBNISPARTY im Barzelt mit DJ MOX! \n------------------------------------------------------------- \nEINTRITTSPREISE: \nKinder bis 10 Jahre frei! \nJugendticket (10-15 Jahre): € 15,00 (Gibt es NUR an der Abendkasse!) \nVVK: € 20,00 | AK: € 25,00 \nVIP Ticket: € 150,00 (inkl. Ticket, VIP Buffet und Getränke bis ca. 24:00 Uhr)\n  \nKARTENVORVERKAUF:\nAb Mitte Dez. 2016: Tourismus Infobüro Strass i. Z. \nTel: +43 (05244) 63040, E-Mail: office@alextravel.at www.fankreuzfahrten.at \nin allen Raiffeisenkassen Österreichs über den Raika Club www.club-tirol.at und bei \nÖ-Ticket\n\nEINTRITTSPREISE: \nKinder bis 10 Jahre frei! \nJugendticket (10-15 Jahre): € 15,00 (NUR Abendkasse!) \nVVK: € 20,00 | AK: € 25,00 \nVIP Ticket: € 150,00 (inkl. Ticket \u0026 VIP-all-inclusive)\n  \nKARTENVORVERKAUF:\nTourismusverband Mayrhofen-Hippach\nticket@mayrhofen.at \n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/970555de-56a8-41d8-a136-813b38f800d6/99/image.jpg",
+      "caption": "Juzis"
+    }
+  ],
+  "url": [
+    "http://mayrhofen.at/shop",
+    "http://www.mayrhofen.at/fileadmin/userdaten/event/juzi-open-air2017.jpg"
+  ],
+  "startDate": "2017-08-17T00:00:00",
+  "endDate": "2017-08-20"
+}

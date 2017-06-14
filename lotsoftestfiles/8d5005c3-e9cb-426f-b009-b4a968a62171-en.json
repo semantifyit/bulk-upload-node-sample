@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gasthof Berghof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2000798",
+    "longitude": "11.85122"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Monday",
+      "opens": "00:00",
+      "closes": "00:00",
+      "validFrom": "2017-06-04",
+      "validThrough": "2017-10-17"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Tuesday",
+      "opens": "00:00",
+      "closes": "00:00",
+      "validFrom": "2017-06-04",
+      "validThrough": "2017-10-17"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Thursday",
+      "opens": "00:00",
+      "closes": "00:00",
+      "validFrom": "2017-06-04",
+      "validThrough": "2017-10-17"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Friday",
+      "opens": "00:00",
+      "closes": "00:00",
+      "validFrom": "2017-06-04",
+      "validThrough": "2017-10-17"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "00:00",
+      "closes": "00:00",
+      "validFrom": "2017-06-04",
+      "validThrough": "2017-10-17"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "00:00",
+      "closes": "00:00",
+      "validFrom": "2017-06-04",
+      "validThrough": "2017-10-17"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Berghof",
+    "streetAddress": "Schwendberg 412",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3676",
+    "faxNumber": "0043 5282 36764",
+    "email": "gasthof-berghof@tirol.com",
+    "url": "http://www.berghof-gasthof.at/"
+  },
+  "description": [
+    "Arrive - and the sun rises! Beginning with a warm \"hello\" s. In front of you is a time to relax, recover and enjoy!\n\nThe Gasthof Berghof in Hippach is located at 850 meters above sea level in a quiet location at the Zillertal High Road, only 3 km from downtown and 8 km from Hippach Mayrhofen.",
+    "Summer\n04. June till 17. October 2017\nWednesday rest day"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4fda2564-39dd-462e-8abd-2592992e40c5/99/image.jpg",
+      "caption": "Berghof"
+    }
+  ],
+  "url": [
+    "http://members.aon.at/berghof-schwendberg/"
+  ]
+}

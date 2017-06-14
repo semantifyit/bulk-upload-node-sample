@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsEvent"
+  ],
+  "name": "Summer programme Erlebnisbad Mayrhofen",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Erlebnisbad Mayrhofen",
+    "employee": {
+      "@type": "Person",
+      "familyName": " "
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Waldbadstraße 539",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 62559",
+      "email": "info@erlebnisbad-mayrhofen.at",
+      "url": "http://www.erlebnisbad-mayrhofen.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Erlebnisbad Mayrhofen",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Waldbadstraße 539",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 62559",
+      "email": "info@erlebnisbad-mayrhofen.at",
+      "url": "http://www.erlebnisbad-mayrhofen.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97c376f3-2048-4406-b2f0-86b7e7def81b/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.mayrhofen.at/fileadmin/userdaten/mayrhofen_at/flyer-sommerprogramm-erlebnisbad_2017.pdf"
+  ],
+  "startDate": "2017-06-12T00:00:00",
+  "endDate": "2017-09-01"
+}

@@ -1,0 +1,204 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apartheim.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA95CFF0E-79C2-4273-8606-B8D45DEA68CD"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Heim, Appart",
+    "streetAddress": "Bichl 494",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 664 5111 363",
+    "email": "fam.heim@aon.at",
+    "url": "http://www.apartheim.at"
+  },
+  "name": "Apart Heim",
+  "description": "Пансион с уютными апартаментами находится на окраине поселка с очень тихом и солнечном месте. Остановка горнолыжного автобуса в 2-х минутах от дома. До центра поселка - около 10 минут пешком. Рядом трасса для беговых лыж, велосипедная дорожка, прогулочная тропа и детская игровая площадка. За 5 минут можно доехать до нижней станции подъемника на Пенкен! С гостевой картой летом Вы получаете бесплатный вход в открытые бассейны Хиппаха и Майрхофена и в закрытый бассейн в Майрхофене.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "15"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8b4b3e63-6a8d-4685-a9c9-64f48b976951/99/image.jpg",
+      "caption": "Logos_2012"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/83cb93f8-bafc-4bb7-b5e9-af4243fe904b/99/image.jpg",
+      "caption": "DS7_2485_mittel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dba0457d-df5d-456e-b526-3cd018d7a66e/99/image.jpg",
+      "caption": "PB220015"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84a1f53d-f29c-4ab5-9bb4-0330e2dbe37f/99/image.jpg",
+      "caption": "Bild 012"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a72388b-3157-422c-9586-42022c24f815/99/image.jpg",
+      "caption": "Bild 015"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2282a978-4e32-4518-a919-92ab5cf0c873/99/image.jpg",
+      "caption": "Apart Heim Ramsau - Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ba9a0cf-837c-41bd-8615-536fb0851b64/99/image.jpg",
+      "caption": "Bild 008"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c21a4195-a6e5-40a8-849c-3dbac603a2ba/99/image.jpg",
+      "caption": "Apart Heim Ramsau - Deko"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6fbe7eec-b8c2-477f-a59a-a4841f027437/99/image.jpg",
+      "caption": "Apart Heim Ramsau - Blume"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7006ca72-8efd-4c28-b6e9-97e06d02a7a1/99/image.jpg",
+      "caption": "Apart Heim Ramsau - Blume I"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/051702c0-5611-42b8-baa2-e64684189e89/99/image.jpg",
+      "caption": "Bild 014 klein"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ecdaf0a5-43f7-41b2-b790-bc69dc1575a4/99/image.jpg",
+      "caption": "Bild 011"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/31fda3fd-b053-4062-9f9a-ae3cf8cf34b0/99/image.jpg",
+      "caption": "DSC00283 (2)_mittel"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1953918711572",
+    "longitude": "11.872438788414"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, одна спальня",
+      "description": "Апартамент на 2-6 человек. Прихожая с гардеробом, душ/WC, 1 спальная комната (2-4 человека), кухня с двуспальным диваном, посудомоечная машина, микроволновая печь с грилем, спутниковое ТВ, кухонные полотенца. Предоставляется постельное белье.\nПодвал для хранения лыж и большая парковка!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, одна спальня",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "44.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, одна спальня",
+      "description": "Апартамент на 2-6 человек. Прихожая с гардеробом, душ/WC, 1 спальная комната (2-4 человека), кухня с диваном (раскладывается для 2-х человек) и обеленным уголком, посудомоечная машина, духовка, спутниковое ТВ. Предоставляется постельное белье и ручные и ванные полотенца. Подвал для хранения лыж и большая парковка!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, одна спальня",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент, shower, toilet, 1 спальня",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "44.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

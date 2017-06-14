@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Alpenhotel Kramerwirt"
+    },
+    {
+      "@language": "de",
+      "@value": "Alpenhotel Kramerwirt"
+    },
+    {
+      "@language": "ru",
+      "@value": "Alpenhotel Kramerwirt"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1684548633954",
+    "longitude": "11.8652451038361"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenhotel Kramerwirt",
+    "streetAddress": "Am Marienbrunnen 346",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 6700",
+    "faxNumber": "0043 5285 6700 502",
+    "email": "hotel@kramerwirt.at",
+    "url": "http://www.kramerwirt.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Traditionsreiches Familienhotel mit interessanter Geschichte. Träger des Tiroler Adlers, staatlich ausgezeichnet. Bekannt gute Küche aus Erzeugnissen der eigenen Land- und Almwirtschaft, Hausmetzgerei, Jagd- und Fischereirevier. \n\nLive-Musik im Winter an der Hotelbar, im Sommer im geselligen Gastgarten. Schöne Saunalandschaft im vierten Stock, Massagen gerne möglich. Toller Kinderspielraum. \nMitglied der Zillertaler Wanderhotels, Nordic Walking, Schneeschuhwanderungen, Fischereimöglichkeit für Hausgäste. Neu im Sommer: inklusive Benützung der Freibäder Mayrhofen und Hippach!\n\nWIN WIN - das neueste Spielangebot von Casinos Austria und den Österreichischen Lotterien im Haus."
+    },
+    {
+      "@language": "en",
+      "@value": "Hotel Kramerwirt is an authentic Austrian hotel in Mayrhofen with a rich history, a personal and warm atmosphere and is widely known for the genuine hospitality of the Zillertal region. Centrally located next to the church the long-established hotel is your perfect base camp for active ski days, worth-seeing excursions as well as biking and hiking tours to the mountains.\n\nIn our residents’ and à la carte restaurant we serve local specialities based on traditional recipes and featuring local ingredients from our farm, butcher’s, fishing ground and hunting area. Along with our loyal, dedicated staff we will fulfill all your wishes that you will definitely feel at home at our traditional hotel.\n\nYour hosts,\nthe Kröll family "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16389588-e891-4ed6-9298-ee6b8e22fdb0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Kramerwirt"
+        },
+        {
+          "@language": "de",
+          "@value": "Kramerwirt"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kramerwirt"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.kramerwirt.at"
+  ]
+}

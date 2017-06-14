@@ -1,0 +1,86 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d8391FEC4-C4C7-464D-9DDF-1C34E689AD66"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ginzling 254a",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 664 9224635",
+    "email": "ch.klausner@hotmail.com"
+  },
+  "name": "Klausner Christian und Ingrid",
+  "description": [
+    "Appartement 42m,1 sleepingroom,shower,wc,little garden, parkingplace,\nowne houseentrence,internet tv, skiroom,",
+    "Price/day is € 70.-  incl. contribution\nAt arrival you have to hand in € 200.- deposit \n",
+    "Check-in: 15.00\nCheck-out: 09.00"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09d737c9-9d42-46b0-bfc8-5dd61963db86/99/image.jpg",
+      "caption": "Klausner Ginzling - Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/068a0997-dd41-4280-88f0-f5f1ca1192c6/99/image.jpg",
+      "caption": "Klausner Ginzling - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/61fbcd19-4633-45f5-bdd1-af981d9350cb/99/image.jpg",
+      "caption": "Klausner Ginzling - Wohnraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ff481df6-52f5-44bb-adcd-60fe32127ca4/99/image.jpg",
+      "caption": "Klausner Ginzling - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/36af8017-6422-4b73-8482-f7723193b359/99/image.jpg",
+      "caption": "Klausner Ginzling - Badezimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0981311854847",
+    "longitude": "11.8071645498276"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 1 bed room",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/1 bedroom/shower, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

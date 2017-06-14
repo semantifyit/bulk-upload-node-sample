@@ -1,0 +1,253 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d5069E5AD-B68A-4E35-B63B-B72E65A51FE2"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Neuginzling, Ferienwohnung",
+    "streetAddress": "Ginzling 221",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 5203"
+  },
+  "name": "Ferienwohnung Neuginzling",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Kleinkinder in vom Gast selbst mitgebrachten Kinderbett frei! Ansonsten keine Ermäßigungen, keine Rabatte! \nBei Übergabe der Ferienwohung in einwandfrei sauberem Zustand (\u003d Zustand wie bei Wohnungsübernahme) keine Endreinigungsgebühr! Ansonsten EUR 50,- pro Ferienwohnung."
+    },
+    {
+      "@language": "de",
+      "@value": "Check-In Samstag von 16 bis 18 Uhr/ Check-Out Samstag von 8 bis 10 Uhr.\nAb Ortsbeginn Ginzling (Ortstafel), an der Bundesstraße, 7. Gebäude links.\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Babies are free if the you bring the baby bed yourself. Otherwise no reduction, no discount!\nKeep your flat clean. no cleaning fee! Otherwise EURO 50,-/flat"
+    },
+    {
+      "@language": "en",
+      "@value": "Check-in: Saturday from 16:00 to 18:00\nCheck- out: Saturday from 08:00 to 10:00\nFrom the sign \"Ginzling\", on the road, the 7. building left.\n\n\n\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b14a51a1-9b3b-4308-ac5b-32c9e9dfdcb6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Neuginzling Ginzling - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Neuginzling Ginzling - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Neuginzling Ginzling - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a35627df-28ea-41de-89df-29fe96e87ae7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Neuginzling - Bar"
+        },
+        {
+          "@language": "en",
+          "@value": "Neuginzling - Bar"
+        },
+        {
+          "@language": "ru",
+          "@value": "Neuginzling - Bar"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/be3a51c5-5713-4503-8de9-4e3c9d91b528/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Neuginzling - Stube"
+        },
+        {
+          "@language": "en",
+          "@value": "Neuginzling - Stube"
+        },
+        {
+          "@language": "ru",
+          "@value": "Neuginzling - Stube"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/382f562c-233e-43da-bb7b-e030e7c7e905/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Neuginzling - Esszimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Neuginzling - Esszimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Neuginzling - Esszimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e63b137c-4b68-417a-a927-4d528954d5e1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Neuginzling - Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Neuginzling - Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Neuginzling - Küche"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1016514038059",
+    "longitude": "11.8103241920471"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "3 Schlafzimmer, 1 Einzelzimmer, geräumige Wohnküche, Wohnzimmer, Dusche, WC, Süd- und Westbalkon, 2 Kabelfernsehanschlüsse, 125 m2, 2. Etage. Maximal 7 Personen;"
+        },
+        {
+          "@language": "en",
+          "@value": "3 bedrooms, 1 single rooms, spacious kitchen-living room, sitting room, shower, WC, south balcony and west balcony, 2 cable television connections, 125 m², 2nd floor. Maximum 7 people;"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/3 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/3 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 4 oder mehr Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 4 or more bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, 4 или больше спалень"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "6 Schlafzimmer, Gastronomieküche, Frühstücksraum, Fernsehraum, Bar, 1 Bad, 2 Duschen, 7 Toiletten, teilweise Süd- und Westbalkon, Parterre, 1. und 2. Etage. Maximal 13 Personen;"
+        },
+        {
+          "@language": "en",
+          "@value": "6 bedrooms, catering trade kitchen, breakfast space, television space, bar, 1 bath, 2 showers, 7 toilets, partial south balcony and west balcony, ground floor, 1st and 2nd floor. Maximum 13 people;"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./4 od mehr Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/4 + more bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, 4 или больше спалень"
+            }
+          ],
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "13",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

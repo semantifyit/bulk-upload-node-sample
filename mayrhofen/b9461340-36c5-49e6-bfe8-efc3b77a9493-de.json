@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "amp Fitness- \u0026 Gesundheitstraining",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1591539",
+    "longitude": "11.8459640999999"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "amp",
+    "streetAddress": "Stillupklamm 829a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4332 106"
+  },
+  "description": "Termin nach Vereinbarung: 0043 664 433 2106 ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86cf4297-e48c-4cbf-9347-a873f5b081cf/99/image.jpg",
+      "caption": "amp"
+    }
+  ]
+}

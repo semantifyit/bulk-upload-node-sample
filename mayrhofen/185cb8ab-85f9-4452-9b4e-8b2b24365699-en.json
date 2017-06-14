@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Schiestl\u0027s Sport \u0026 Mode Hippach",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.203986376825",
+    "longitude": "11.8657922744751"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schiestl\u0027s Sport \u0026 Mode",
+    "streetAddress": "Dorf 9",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 4315",
+    "faxNumber": "(0043) 5282 4315 43",
+    "email": "info@sport-schiestl.at",
+    "url": "http://www.sport-schiestl.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9303eaf5-711d-45f7-806e-3df27c3b7156/99/image.jpg",
+      "caption": "geschäft hippach"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f86ca2e4-12c0-4e9f-be71-62089e36b15b/99/image.jpg",
+      "caption": "logo"
+    }
+  ],
+  "url": [
+    "http://www.sport-schiestl.at"
+  ]
+}

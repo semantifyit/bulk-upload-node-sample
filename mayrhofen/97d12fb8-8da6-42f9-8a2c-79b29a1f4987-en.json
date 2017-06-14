@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://tiscover.at/fewo-gredler",
+    "http://maps.mayrhofen.at/?foreignResource\u003d97D12FB8-8DA6-42F9-8A2C-79B29A1F4987"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burgstall 363",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63383",
+    "faxNumber": "0043 5285 63383",
+    "email": "fewo-gredler@netway.at",
+    "url": "http://tiscover.at/fewo-gredler"
+  },
+  "name": "Gredler Maria",
+  "description": [
+    "Dear Guest.  If you are looking for a quiet, trouble free and undisturbed holiday, then you need look no further.\nOur private house, built in a Tyrolean style, is situated 1km outside of Mayrhofen, the main towm in Zillertal, in a quiet, but not isolated spot. The \"Zillerpromenade\", a combined cycle and pedestrian path, and the cross counrty ski trail pass within 200 metres of our house. You can park your car on our private car park, and a separate entrance will lead you through our garden to the terrace of your apartment, which is 70m², where a pleasant seating area and cushioned sun loungers invite you to relax and sunbathe.",
+    "Included in price: Heating, water, electricity. Excluded: a final cleaning charge of 40.- Euro.",
+    "Directions: Use the B169 until the exit for Horbergbahn/Burgstall. Turn left before the Horberg lifts and drive through Mülbach until you arrive at Burgstall. Our house can be found on the left."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec95b361-6186-4f58-a1ae-351e1df9ed33/99/image.jpg",
+      "caption": "Ferienwohnung Gredler Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af352c0f-5b2f-498f-b6ac-0c59ad986f34/99/image.jpg",
+      "caption": "Ferienwohnung Gredler Mayrhofen - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1818558007294",
+    "longitude": "11.8613988161087"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Tyrolean style private house situated in a quiet, but not isolated spot. Car park, garden, seating area. Lounge with integrated kitchen with a traditional tiled stove. Large dining area in a bay window. Wooden stairs leading to the upper floor. 2 bedrooms, each with shower/WC.\nThe entrance hall leads to a combined lounge/kitchen, which is especially inviting on cold days, with its traditional tiled wood burner. Here you will also find Sat.TV and a stereo system.\nFor those wishing to try out their cooking skills, the kitchen is fully equipped and has a microwave. Romantic wooden stairs lead you to the upper floor, where you will find 2 bedrooms, each with shower/WC, and a balcony, from where the beautiful surroundings can be enjoyed.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

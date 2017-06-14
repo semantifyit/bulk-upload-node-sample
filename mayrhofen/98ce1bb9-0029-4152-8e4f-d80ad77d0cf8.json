@@ -1,0 +1,566 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.villa-volgger.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Waldbadstraße 542",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5055604",
+    "email": "info@apartment-mozart.com",
+    "url": "http://www.villa-volgger.at"
+  },
+  "name": "Villa Volgger",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ein herzliches Grüß Gott in der Villa Volgger in Mayrhofen im Zillertal! Egal, ob Sie gerne Ihren Sommerurlaub oder Ihren Schi-bzw Winterurlaub in unseren Tiroler Bergen verbringen möchten, wir, die Familie Volgger, würde Sie gerne als unsere Gäste begrüßen!”\n\nUnsere „Villa Volgger“ mit ihren beiden Wohnungen Aloisia und Vinzenz wurde 2011 komplett renoviert. Die geräumigen und komfortabel ausgestatteten Ferienwohnungen wurden nach unseren Großeltern benannt.\nIhre Unterkunft befindet sich in einer sehr ruhigen sonnigen Lage, direkt neben dem Erlebnisbad Mayrhofen und dem Eislauf- bzw. Tennisplatz am Waldrand mit wunderschöner Aussicht auf die Mayrhofner Bergwelt – dennoch äußerst zentral, nur 1 Gehminute zur Ortsmitte und zur Penken- und Ahorn-Gondelbahn.\nDie verkehrsberuhigte Hauptstraße mit zahlreichen Einkaufsmöglichkeiten, Cafés und Restaurants verläuft parallel zu unserer Waldbad-Straße.\nSie können also, nach einem aktiven und erlebnisreichen Tag, in Ihr Feriendaheim zurückkehren, und entspannt die Ruhe genießen!\nIhre Familie Volgger\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Die Preise verstehen sich pro Tag/Apartment inklusive \nStrom, Heizung, Geschirr, Bettwäsche und Handtücher.\nW-Lan (Internet) ist ebenfalls im Preis inbegriffen\nZuzüglich Endreinigung € 40,-- (2-4 Personen) bis € 70,-- (5-7 Personen).\nBei einem Aufenthalt von weniger als 3 Nächten: 10 % Kurzaufenthaltszuschlag.\nErmäßigung: Kinder bis 3 Jahre sind frei!\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Unser Haus befindet sich dennoch äußerst zentral, nur 3 Gehminuten zur Ortsmitte und zur verkehrsberuhigten Hauptstraße mit zahlreichen Einkaufsmöglichkeiten, Cafés und Restaurants, Erlebnisbad, Tennisplatz / Eislaufplatz, Skiverleih, Gondelbahnen sowie zum Veranstaltungszentrum Europahaus uvm.\nNur ca. 200m zur Penkenbahn\nNur ca. 300m zur Ahornbahn\n"
+    },
+    {
+      "@language": "en",
+      "@value": "A cordial Grüß Gott in our Villa Volgger in Mayrhofen, Zillertal. Regardless of wether you would like to spend your summerholiday in the Tirolean mountains, or enjoy skiing them down in your winterholiday, our family run hotel would love to welcome you as our guests in the beautiful Zillertal!\n \n\"Villa Volgger\" with its two separate apartments Aloysia and Vinzenz was completely renovated in 2011. The spacious and comfortable apartment are named after our grandparents.\nThe property is located in a quiet and sunny place, directly next to the Mayrhofen swimming pool, ice skating rink, and tennis courts - all right on the edge of the Mayrhofen forest. Our house provides a beautiful views of the surrounding mountains. Close to everything, the center of Mayrhofen and the Penkenbahn and Ahornbahn cable cars are just a short 1 minute walk away.\nThe main street with many shops, restaurants, and cafes runs parallel to our street.\nAfter a busy day, you can return to your vacation home to relax and enjoy!\nFamily Volgger\n"
+    },
+    {
+      "@language": "en",
+      "@value": "The prices are per day / apartment including \nElectricity, heating, kitchenware, linens and towels. \nW-LAN (Internet) is also included in the price \nPlus final cleaning € 40, - (2-4) to € 70, - (5-7 persons). \nFor stays of less than 3 nights: 10% short-term stays.\nDiscounts: Children under 3 are free!\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is very centrally located, just minutes walk away from the town center and main street, with many shops, cafes, and restraints. Also nearby are swimming pools, tennis courts, ice skating rink, ski rental, cable cars, and the even center Europahaus.\nOnly 200m to the Penkenbahn\nOnly 300m to the Ahornbahn\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6b20929-9bbe-48cf-8182-a3858528235a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Volgger Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Volgger Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Volgger Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9380aee0-c9c9-47b4-ad72-4c6d119a07be/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Volgger - Logo"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Volgger - Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Volgger - Logo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/773ef9ef-1aec-4b2b-9dad-9e55d08bd152/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Volgger - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Volgger - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Volgger - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/355c5e88-711e-4788-8570-edaecc2f33d7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Volgger - Vinzenz Wohnraum-Esstisch"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Volgger - Vinzenz Wohnraum-Esstisch"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Volgger - Vinzenz Wohnraum-Esstisch"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52161f93-11f8-4654-9b31-199d441ee3aa/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Volgger - Badezimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Volgger - Badezimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Volgger - Badezimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e194937e-e511-4b2e-8730-ebe41c6fcb26/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Volgger - Schlafzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Volgger - Schlafzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Volgger - Schlafzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e2a363e-7f74-487d-ad04-5be3e27ed214/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Volgger - Küche-Wohnraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Volgger - Küche-Wohnraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Volgger - Küche-Wohnraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2629dc8e-487f-4880-947b-6a82e8491ac8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Volgger - Schlafzimmer3"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Volgger - Schlafzimmer3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Volgger - Schlafzimmer3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/609045f4-ad27-4a02-ac8f-e264f960da16/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Volgger - Plan Vinzenz"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Volgger - Plan Vinzenz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Volgger - Plan Vinzenz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa40c5e2-54ce-4acc-921a-caac9a337d09/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Volgger - Plan Aloisia"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Volgger - Plan Aloisia"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Volgger - Plan Aloisia"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/34e4c19d-2d3d-4407-9199-5c8d1da509ee/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Volgger - Einzelzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Volgger - Einzelzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Volgger - Einzelzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b423677f-719e-4d58-b880-f94a459efe1f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Villa Volgger - Extra Toilette"
+        },
+        {
+          "@language": "en",
+          "@value": "Villa Volgger - Extra Toilette"
+        },
+        {
+          "@language": "ru",
+          "@value": "Villa Volgger - Extra Toilette"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1637939",
+    "longitude": "11.8637966"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Unser im Sommer 2011 neu gebautes und neu eingerichtetes elegantes Apartment \"VINZENZ\" ist mit 2 separaten Doppel-Schlafzimmern inkl. Bettwäsche sowie jeweils mit Kabel-TV, einem separaten Einzelzimmer inkl. Bettwäsche, einem großzügigen separaten Badezimmer mit einer geräumigen Dusche, WC, Doppelwaschbecken und Bidet, inkl. Handtücher und Haarföhn ausgestattet.\nDie große Wohn-(Schlaf-)Küche beinhaltet eine gemütliche Doppel-Couch, einen Esstisch für 4-6 Personen, Geschirr sowie einen Geschirrspüler und –tücher, Mikrowelle mit Grillfunktion, Kühlschrank und Gefrierfach, Dunstabzug, Geschirrspülbecken, Kochplatten, Toaster, Wasserkocher und Kaffeemaschine, Internet-Anschluss (W-Lan), Radio, einen großzügigen Balkon und Safe Gerne stellen wir ein Reisegitterbett und einen Hochstuhl – auf Anfrage - kostenlos zur Verfügung!\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Newly built and beautifully designed in 2011, apartment \"VINZENZ\" includes two separate double bedrooms including linens, cable TV, a spacious bathroom with a large separate shower, toilet, double sink and bidet, towels, and hair dryer.\nThe large living room / extra sofa bed / kitchen includes a cozy double bed, a dining table for 4-6 people, utensils, dishwasher, kitchen towels, microwave oven, refrigerator and freezer, stove, kitchen sink, hot plates, toaster, kettle and coffee maker, internet access (WiFi), radio, a spacious balcony, and a safe. We are happy to provide children\u0027s items (travel cot, and highchair) free of charge upon request\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement Vinzenz"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower and bath, toilet, 3 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "W-Package, Appartement Vinzenz"
+            },
+            {
+              "@language": "en",
+              "@value": "W-Package, Appartement Vinzenz"
+            },
+            {
+              "@language": "ru",
+              "@value": "W-Package, Appartement Vinzenz"
+            }
+          ],
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "185.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "120.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "140.00",
+          "maxPrice": "230.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "155.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Unser im Sommer 2011 neu gebautes und neu eingerichtetes elegantes Apartment \"ALOISIA\" ist mit 2 separaten Doppel-Schlafzimmern inkl. Bettwäsche sowie jeweils mit Kabel-TV, einem großzügigen separaten Badezimmer mit einer geräumigen Dusche, WC, Doppelwaschbecken und Bidet, inkl. Handtücher und Haarföhn ausgestattet.\nDie große Wohn-(Schlaf-)Küche beinhaltet eine gemütliche Doppel-Couch, einen Esstisch für 4-6 Personen, Geschirr sowie einen Geschirrspüler und –tücher, Mikrowelle mit Grillfunktion, Kühlschrank und Gefrierfach, Dunstabzug, Geschirrspülbecken, Kochplatten, Toaster, Wasserkocher und Kaffeemaschine, Internet-Anschluss (W-Lan), Radio, einen großzügigen Balkon und Safe Gerne stellen wir ein Reisegitterbett und einen Hochstuhl – auf Anfrage - kostenlos zur Verfügung!\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Newly built and beautifully designed in 2011, apartment \"Aloysia\" includes two separate double bedrooms including linens, cable TV, a spacious bathroom with a large separate shower, toilet, double sink and bidet, towels, and hair dryer.\nThe large living room / extra sofa bed / kitchen includes a cozy double bed, a dining table for 4-6 people, utensils, dishwasher, kitchen towels, microwave oven, refrigerator and freezer, stove, kitchen sink, hot plates, toaster, kettle and coffee maker, internet access (WiFi), radio, a spacious balcony, and a safe. We are happy to provide children\u0027s items (travel cot, and highchair) free of charge upon request!\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement Aloisia"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "W-Package, Appartement Aloisia"
+            },
+            {
+              "@language": "en",
+              "@value": "W-Package, Appartement Aloisia"
+            },
+            {
+              "@language": "ru",
+              "@value": "W-Package, Appartement Aloisia"
+            }
+          ],
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "115.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "135.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apart-eder.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d0447E779-FC5A-4D10-849A-F2A9B5A6EC39"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dornauberg 39",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 5286 20001",
+    "email": "info@apart-eder.at",
+    "url": "http://www.apart-eder.at"
+  },
+  "name": "Apart Eder",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/95a133d2-dd31-41ce-98f8-3e9ee9780412/99/image.jpg",
+      "caption": "apart-eder Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/481a30cb-f2c0-4ee0-ac2b-6c7392070274/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/18381859-331d-494b-a1ce-01743cacab54/99/image.jpg",
+      "caption": "Apart Eder, Winteransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77d6e002-5fd9-4d76-b450-422f706a6a3c/99/image.jpg",
+      "caption": "Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/851042a2-e335-42d1-b679-4caf9fa3c611/99/image.jpg",
+      "caption": "Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/72234649-210e-4857-9595-3c52b61739b2/99/image.jpg",
+      "caption": "Küche Couch für 2 P/für 4P Schlafbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4d60a2cd-6cea-47b2-af47-26eb40d797f6/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d3e4bcd0-9185-4721-b77a-f45446449334/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/45f2751e-b10f-4232-9277-3526f9e3cc36/99/image.jpg",
+      "caption": "Essbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa468b40-18fe-480b-a14a-66e456b5ae5c/99/image.jpg",
+      "caption": "Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/92cf9b3b-46df-48a2-a2ed-38e5e1d52b75/99/image.jpg",
+      "caption": "Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5f338a13-ba82-41e9-90ea-5db4795d3a88/99/image.jpg",
+      "caption": "Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e36803e6-8248-48c8-bfe8-a103d21862b4/99/image.jpg",
+      "caption": "Überdachte Terrasse/Wildererstüberl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9abfed0d-b0dc-45b5-81a4-7bd7003814ef/99/image.jpg",
+      "caption": "Überdachte Terrasse/ Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc0e4f5f-0dc3-44e2-a6a0-1f385d0bd371/99/image.jpg",
+      "caption": "Ausblick Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab62de9a-73b6-4d24-a7f3-fc254bca04a4/99/image.jpg",
+      "caption": "Ausblick Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d3e4d3d1-fbda-4546-b26d-235f36d2adc8/99/image.jpg",
+      "caption": ""
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1036472",
+    "longitude": "11.8077922"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, ванна, туалет, с видом на сад",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент, bath, toilet, 1 спальня",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет, одна спальня",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/4bce24a3-3e98-4224-914d-2fd97560827f/99/image.jpg",
+              "caption": "Winter"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет, одна спальня",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/e4601117-fa96-464b-ac42-566449ad262e/99/image.jpg",
+              "caption": "Winter"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "259.00",
+          "maxPrice": "259.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "309.00",
+          "maxPrice": "309.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "349.00",
+          "maxPrice": "349.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "339.00",
+          "maxPrice": "339.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "389.00",
+          "maxPrice": "389.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "449.00",
+          "maxPrice": "449.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

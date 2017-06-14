@@ -1,0 +1,347 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d43201DE1-B972-4324-BED0-EB0AAE45E4F6"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Barbara, Haus",
+    "streetAddress": "Hochschwendberg 481",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4210",
+    "email": "fewo.gruber@gmx.at",
+    "url": "http://fewo-barbara.info"
+  },
+  "name": "Haus Barbara",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt in sonniger Lage mit herrlichen Rundblick auf unsere Berge und ins Tal. In der oberen Etage ist ca 70m² die Ferienwohnung mit einem großen Balkon und einen seperaten Aufgang mit Terasse. \n\nSkibushaltestelle im Winter ist ca. 50m entfernt."
+    },
+    {
+      "@language": "de",
+      "@value": "Preise verstehen sich exkl. Ortstaxe"
+    },
+    {
+      "@language": "de",
+      "@value": "Check-in: 15:00\nCheck-out: 09:00"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is sunny situated with a marvellous panorama on our mountains and the valley. In the upper floor there are 70 m ² the holiday apartment with a big balcony and a seperate rising with terrace.\nSki bus stop in winter is 50 m away"
+    },
+    {
+      "@language": "en",
+      "@value": "Prices are excl. tax"
+    },
+    {
+      "@language": "en",
+      "@value": "Check-in: 15:00\nCheck-out: 09:00"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ce490cb-b4a1-4ded-a9b3-502e8148d916/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Barbara Hippach - Haus Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Barbara Hippach - Haus Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Barbara Hippach - Haus Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/95f29bbc-7e8b-49ce-b43f-0ff3845dcb53/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Barbara Hippach - Ausblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Barbara Hippach - Ausblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Barbara Hippach - Ausblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e4677504-e18c-4330-8eab-7e78f6fdfc6e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahornbahn © Frank Bauer"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahornbahn © Frank Bauer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahornbahn © Frank Bauer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1df22ffd-ffdb-4363-a97c-73edbee9109f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Entspannung pur © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Entspannung pur © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Entspannung pur © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/790994f6-088c-438d-a92a-80f31dbcfcc7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bouldern © Ursula Aichner"
+        },
+        {
+          "@language": "en",
+          "@value": "Bouldern © Ursula Aichner"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bouldern © Ursula Aichner"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28f0ab1b-35f9-4581-adf2-c625b0f49e9e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hochgebirgs-Naturpark Zillertaler Alpen © Norbert "
+        },
+        {
+          "@language": "en",
+          "@value": "Hochgebirgs-Naturpark Zillertaler Alpen © Norbert "
+        },
+        {
+          "@language": "ru",
+          "@value": "Hochgebirgs-Naturpark Zillertaler Alpen © Norbert "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2ea5511-8720-4037-a9e5-f7aa7a2e46a3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skifahren © Dominic Ebenbichler"
+        },
+        {
+          "@language": "en",
+          "@value": "Skifahren © Dominic Ebenbichler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skifahren © Dominic Ebenbichler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/018f8d67-46c3-4164-bb61-cf33ca1152b9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skifahren © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Skifahren © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skifahren © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/281b5efb-4fa8-4d84-897c-378387ce027a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d3f37408-752d-4604-be07-d4ad37f27899/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68e01e6d-7517-40f1-9a49-767d89570e61/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "White Lounge am Genießerberg Ahorn © Frank Bauer"
+        },
+        {
+          "@language": "en",
+          "@value": "White Lounge am Genießerberg Ahorn © Frank Bauer"
+        },
+        {
+          "@language": "ru",
+          "@value": "White Lounge am Genießerberg Ahorn © Frank Bauer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/55220743-200c-4117-bbcc-263dacfc10c3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterwandern © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4d3592a4-54a5-4dc4-9ad7-41272fa2cf8c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Genießerberg Ahorn © Florian Schüppel"
+        },
+        {
+          "@language": "en",
+          "@value": "Genießerberg Ahorn © Florian Schüppel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Genießerberg Ahorn © Florian Schüppel"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2005312467243",
+    "longitude": "11.8449783325195"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung mit 2 Schlafräumen, Dusche und WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartement with 2 bedrooms, shower and WC"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

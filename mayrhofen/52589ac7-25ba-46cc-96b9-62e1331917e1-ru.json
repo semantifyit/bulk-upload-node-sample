@@ -1,0 +1,430 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.ederfeld.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d52589AC7-25BA-46CC-96B9-62E1331917E1",
+    "https://www.facebook.com/ederfeldmhf/?fref\u003dts"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Aparthotel Ederfeld ",
+    "streetAddress": "Hauptstraße 457",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62217",
+    "faxNumber": "(0043) 5285 62217 17",
+    "email": "info@ederfeld.at",
+    "url": "http://www.ederfeld.at"
+  },
+  "name": "Aparthotel Ederfeld",
+  "description": "Как проехать:\nВъезжаете в Майрхофен (Einfahrt Mayrhofen), проезжаете мимо ж/д станции, следующий съезд (Mitte) налево, проезжаете отель Elizabeth и на следующем перекрестке поворачиваете направо. Проезжаете около 300 метров \n",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "70"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e70ebf7c-cd21-479b-9c25-1b289e8d19fb/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Ansicht Vorne"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bada2faa-f0bf-4b3d-9fd3-65775dbd2262/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Winter 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/586bfaad-4ea8-440f-af89-447198aecc5e/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Laube "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/de186df3-f722-4650-8ebc-31d5352d2e6b/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Ansicht vom Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c421a4af-41fc-4871-9c64-64376ac92bed/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen -Ansicht vom Garten2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5df93417-47da-47c7-b097-60ad41a45456/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Laube1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/01e713c1-3e2b-45bc-84b3-e74615e725df/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Gartenanlage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52324a3c-bd7a-4bb2-8afc-0c9ebefccca5/99/image.jpg",
+      "caption": "Badeteich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/73593030-ac2c-44dc-a058-a591de47c898/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Gartenanlage2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2bdccdd5-eae7-4d1e-a86b-650ff97db215/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Gartenanlage3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/765f1d40-3781-45b9-bad8-9d036f42b08f/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Gartenanlage4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5be64b94-89f1-421b-8523-c9e217930b55/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Gartenanlage5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a638f875-d801-43c5-8315-b8b407b297b2/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Gartenanlage6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9738ac92-b95f-4970-80bc-5cb8a19abf88/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Gartenanlage7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1d329a97-ba67-431d-907b-884ddb95a8db/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Gartenanlage8"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dc85eb91-0701-45a1-8d00-d20b9d12f045/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Gartenanlage9"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bfc8c7f1-0540-44aa-8b6b-0dd12533f314/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Gartenanlage10"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fb54e5d2-035e-42d2-b6ca-d406dd65d8e8/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c19aeede-3853-4739-aadb-d48debcceabb/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Lift "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0668a650-21b3-414d-99e5-106d5761aee8/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4276e561-825a-477e-9388-13da28a97926/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e5ffb725-fa6b-495e-a1b5-85a5a1e0ee8e/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d294efcb-e99c-4c2d-b95c-63a7c06726a1/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8dcd47c0-fd8f-43ce-8b61-d880204389bb/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec63ba61-54c1-4f91-bee9-a99ed0aacbd1/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Sauna 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/93562456-f64b-4abc-bd0c-cb082d425ebc/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Wellnessdusche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c28d68c7-42ca-49de-9b66-79a25e91661e/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/33f02926-e402-4223-8e63-dc24fa3a9cc6/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Gemeinschaftsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d860161-ba3d-468a-8aa5-6cad15c41dc8/99/image.jpg",
+      "caption": "Aparthotel Ederfeld Mayrhofen - Carport"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1642898561677",
+    "longitude": "11.8619781732559"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, одна спальня",
+      "description": "Апартамент 40м2: на 2-4 человека. Балкон 8,5м2, уютная кухня-гостиная с двуспальным диваном, кабельное ТВ и телефон, 1 комната с двуспальной кроватью, ТВ и сейфом, 1 ванная комната с душевой, отдельно туалет и гардеробная.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, одна спальня",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "апартамент, shower, toilet, 1 спальня",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "120.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "155.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, ванна, туалет, одна спальня",
+      "description": "Апартамент 50м2: для 2-5 человек балкон 8,5м2, уютная гостиная-столовая с двуспальным диваном, кабельное ТВ и телефон, отдельная кухня, комната  с односпальной и двуспальной кроватью кабельным ТВ и сейфом, ванная комната с ванной, отдельный туалет и гардеробная\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет, одна спальня",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "95.00",
+          "maxPrice": "143.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "130.00",
+          "maxPrice": "178.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "165.00",
+          "maxPrice": "213.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "200.00",
+          "maxPrice": "248.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, одна спальня",
+      "description": "Апартамент 60м2: на 2-5 человек с лоджией 16,50м2, уютная гостиная-столовая с двуспальным диваном, кабельное ТВ, отдельная кухня, 1 большая спальня с двуспальной и односпальной кроватью, а также кабельным ТВ. 1ванная комната с ванной, отдельно туалет и гардеробная\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, одна спальня",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/60a1bec2-6420-4c19-b2af-1178afbe5c59/99/image.jpg",
+              "caption": "Schlafzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/c2f85681-97fe-4eea-8274-227b3fe6309b/99/image.jpg",
+              "caption": "Badezimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/64924025-6010-4057-b1ea-57e6b4274e38/99/image.jpg",
+              "caption": "Wohnzimmer"
+            }
+          ],
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "105.00",
+          "maxPrice": "148.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "140.00",
+          "maxPrice": "183.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "175.00",
+          "maxPrice": "218.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "210.00",
+          "maxPrice": "253.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "description": "Большой апартамент 65м2 на 4-6 человек с лоджией 10,50 м2: 2 спальни с кабельным ТВ и сейфом, 2 ванные комнаты с душем, туалетом и феном. Уютная гостиная с большим столовым уголком, диваном. Отдельно кухня и гардеробная\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "7.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "210.00",
+          "maxPrice": "240.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "245.00",
+          "maxPrice": "275.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "280.00",
+          "maxPrice": "310.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

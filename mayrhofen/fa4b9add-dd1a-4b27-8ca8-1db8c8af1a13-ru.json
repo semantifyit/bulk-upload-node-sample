@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Service"
+  ],
+  "name": "Shell Tankstelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2053858591607",
+    "longitude": "11.8712425231934"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Shell Tankstelle",
+    "streetAddress": "Talstrasse 61",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 4655",
+    "email": "kundenservice-at@shell.com",
+    "url": "http://www.shell.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a2f285c6-cb86-4a74-9c05-588187e24014/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.shell.at"
+  ]
+}

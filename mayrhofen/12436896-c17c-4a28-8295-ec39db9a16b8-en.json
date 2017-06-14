@@ -1,0 +1,462 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.haus-bergblick.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d12436896-C17C-4A28-8295-EC39DB9A16B8"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergblick, Haus",
+    "streetAddress": "Neu-Burgstall 302",
+    "addressLocality": "Mayrhofen-Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 64446",
+    "faxNumber": "(0043) 5285 64446",
+    "email": "info@haus-bergblick.at",
+    "url": "http://www.haus-bergblick.at"
+  },
+  "name": "Haus Bergblick",
+  "description": [
+    "Comfortable guest house situated in a quiet and sunny position, approx 1km before Mayrhofen.  Enjoy the family atmosphere and the generous breakfast which we will serve you in our guest lounge. Experience beautful walks in summer along the many promenades and walkways. Large sun terrace and free cycle hire. In winter the cross country trail passes within 50 metres of our house. The ski and village bus stop is the same distance away. In good snow conditions one can ski down the Penken mountain to our front door. As proof of our dedication to our guests, we have been awarded with the 3 edelweiss sign of distinction, and many of our guests return year after year.",
+    "Price excludes a final cleaning charge of between 15.- and 30.- Euro",
+    "Use the Zillertal main throughfare, the B169, and turn right just before Mayrhofen in the direction of the Horbergbahn. At the roundabout drive towards Burgstall, after 300 metres right towards Neu Burgstall, after 20 metres left and follow the road until the end."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a22a215-c767-4c86-b91e-46f6f92b17da/99/image.jpg",
+      "caption": "Hausfotos Wi 2015"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6b11918a-af2f-4e64-b036-3ba60ccae039/99/image.jpg",
+      "caption": "Sommer 2016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/93a06441-d93b-45d0-8b7d-e6f11a338998/99/image.jpg",
+      "caption": "Haus Bergblick Schwendau - Willkommen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac374393-184c-4714-b6fd-8775ec436b30/99/image.jpg",
+      "caption": "Haus Bergblick Schwendau - Rund ums Haus 009"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/afc84714-2e17-465a-95f2-3255ff111835/99/image.jpg",
+      "caption": "Haus Bergblick Schwendau - Familie Emberger"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c760384-48e7-4127-bca2-26990a43635b/99/image.jpg",
+      "caption": "Haus Bergblick Schwendau - Simon u Tobias"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/61208aea-394a-450d-b657-3a24068e752a/99/image.jpg",
+      "caption": "Haus Bergblick Schwendau - Gartenhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/57d68ea0-69c9-47a1-8255-74f1f64de15f/99/image.jpg",
+      "caption": "Haus Bergblick Schwendau - Gartenhaus-Clematis"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a37b5d40-c6e3-4660-8967-bd9501cc6637/99/image.jpg",
+      "caption": "Haus Bergblick Schwendau - Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/07b35428-b226-46b0-bb32-4bebbdf649f0/99/image.jpg",
+      "caption": "Haus Bergblick Schwendau - Dreibettzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/056eda75-4aea-43c3-baf8-45a5c7c013fe/99/image.jpg",
+      "caption": "Haus Bergblick Schwendau - Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/344bce87-e80f-47eb-856f-9cb1be5d78ab/99/image.jpg",
+      "caption": "Haus Bergblick Schwendau - FW 2 Balkonblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/447fd2a6-55ff-430a-822d-47b85ac7e555/99/image.jpg",
+      "caption": "Haus Bergblick Schwendau - Ahornspitze"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a0e6bc9-5aaa-4c83-b92a-d091f4ad8a39/99/image.jpg",
+      "caption": "Haus Bergblick Schwendau - FW 1 (3)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c13c238f-fb24-42a6-af31-7810b9378096/99/image.jpg",
+      "caption": "Radtour Feldlalm 2014"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d0c22f30-10c9-4291-a237-833688081262/99/image.jpg",
+      "caption": "Rosenalm Richtung Kapauns"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9953176c-c122-42fa-a1a7-3c66a3633f92/99/image.jpg",
+      "caption": "Brandbergerkolm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1644021b-b344-4246-96e9-93245d74e1a5/99/image.jpg",
+      "caption": "Edelweiß am Blaser (2)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a72651da-f344-4a7f-9f20-dd90404bd270/99/image.jpg",
+      "caption": "Kapelle bei Almstüberl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da7f1b8a-9e55-4c41-a0fd-2e5c51598748/99/image.jpg",
+      "caption": "Wandertour Olpererhütte 022"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5dc61c31-e487-4158-8b04-aa3269d79bd9/99/image.jpg",
+      "caption": "Wanderung Pfitscherjoch-Olpererhütte 022"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c566c64-4368-4411-b1de-b4587652701f/99/image.jpg",
+      "caption": "Wanderung Pfitscherjoch-Olpererhütte 020"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b5a524fc-15b7-4576-a721-10f0fe445702/99/image.jpg",
+      "caption": "Kreuz am Ramsjoch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bedf9a06-5a27-4c11-8887-810806c13913/99/image.jpg",
+      "caption": "Torsee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0889863a-8442-417c-846b-3af4b4b4b63c/99/image.jpg",
+      "caption": "Berliner Hütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7880fb8c-8920-483f-baa3-65f9c8ef8eff/99/image.jpg",
+      "caption": "Gamshütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ba714f06-f05d-4ae5-bf4d-61f6e33d3338/99/image.jpg",
+      "caption": "Kasslerhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3f5584b-92f5-4cec-8ce6-5dfdf3af7314/99/image.jpg",
+      "caption": "Maxhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3f0e5150-bd1a-468d-a890-0cb6d6639159/99/image.jpg",
+      "caption": "Furtschagelhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7aa4397b-247c-4cfe-aaad-60f4089ee779/99/image.jpg",
+      "caption": "Friesenberghaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4d40fc4a-022b-4216-8b18-acc25a5116d5/99/image.jpg",
+      "caption": "Alpenrose"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1dfe104f-3e15-41b2-bf38-927169e3f9a1/99/image.jpg",
+      "caption": "Karl von Edelhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/99f10613-0736-47ab-a70c-916498510107/99/image.jpg",
+      "caption": "Pfitscherjochhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/69cf92f9-11c3-4f90-98f8-7f57fa32655d/99/image.jpg",
+      "caption": "GHAlpenrose"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e57eb5ad-1552-4720-a653-75b55bff228a/99/image.jpg",
+      "caption": "Ausblick von der Salzachjochhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bc530c1a-6549-475c-b61f-613828f6646a/99/image.jpg",
+      "caption": "Rastkogel 011"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97bc0e6e-ae23-4ad0-8cac-f81142ce7893/99/image.jpg",
+      "caption": "Gerlossteinkögerl (2)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d90fd85-0d54-414d-ad2e-3d12cc5bf918/99/image.jpg",
+      "caption": "See auf dem Weg zum Rastkogel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6b741f65-9075-4e4e-bce4-60efa0c25ae8/99/image.jpg",
+      "caption": "Bei der Wetterhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fcd10266-0e5a-4377-bfa6-25bb97bb4df9/99/image.jpg",
+      "caption": "Gerlossteinwand 2014"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/40fab6a0-9294-4b10-96af-7f2351b8fd74/99/image.jpg",
+      "caption": "Höllensteinhütte- Gamshütte 001"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8158b09a-c222-4d5f-8682-8c35ddfd1c0e/99/image.jpg",
+      "caption": "Höllensteinhütte- Gamshütte 006"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12709fa3-d8db-47ea-9e11-b7cd956b1372/99/image.jpg",
+      "caption": "Eiskarsee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e37310e-8e31-40bd-9dfa-ee4127114e75/99/image.jpg",
+      "caption": "Weidenerhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/07a9b1a5-0805-4044-9bfb-f421796658be/99/image.jpg",
+      "caption": "Fichtenschloß Rosenalm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ae0d19c-11dd-433d-aa48-fe0bdc3053b2/99/image.jpg",
+      "caption": "Gamsbock im Wimmertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6e856aa8-4bb2-43ea-bbeb-6c5a3dc68ba8/99/image.jpg",
+      "caption": "Am Geiseljoch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c34efbb7-ed2e-42f6-b9d4-e7ffd944b5ab/99/image.jpg",
+      "caption": "Wanderung Tuxerjoch 001"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1851991264624",
+    "longitude": "11.8599289655685"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, facing the garden",
+      "description": "Self contained apartment consisting of one entire floor of the house, bedrooms with separate shower/WC, lounge with large seating area, lounge cupboard, Sat-TV, radio, kitchen with dining area, equipped with a dish washer, fridge and coffee machine. All rooms have a balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d3a06827-1deb-4664-b0f3-7f7b5ca1f0b6/99/image.jpg",
+              "caption": "Ferienwohnung"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/87eec436-3409-41b2-ac61-dfc4054a9531/99/image.jpg",
+              "caption": "Ferienwohnung"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/90484c63-44cb-4e04-b484-ac9865e1f52d/99/image.jpg",
+              "caption": "Ferienwohnung"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/80220435-71f9-4b33-9cfa-89e3481eb3c2/99/image.jpg",
+              "caption": "Doppelzimmer FW 1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/1968e984-ac7c-48d1-9e83-e92f249f018f/99/image.jpg",
+              "caption": "FW 1 (3)"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/3d844054-fef0-4529-91a7-4b7256bf5309/99/image.jpg",
+              "caption": "Rund ums Haus 009"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/1c40782b-ea1b-4588-9c57-49e15abecd17/99/image.jpg",
+              "caption": "Rosenalm Richtung Kapauns"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/365b2ad2-9624-4e7f-aeea-0069a267cf5e/99/image.jpg",
+              "caption": "Alpenrose"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/dc34ee0a-be8b-4025-94c5-19d25dba5e96/99/image.jpg",
+              "caption": "Edelweiß am Blaser (2)"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet",
+      "description": "Lounge/bedroom, shower/WC, Sat-TV, radio and balcony, seating area, cooking facilities, coffee machine anf fridge.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap./combined living-bed-room/shower, WC",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/b0a0fd84-9c76-40b0-a98b-0c3a8f403503/99/image.jpg",
+              "caption": "Appartemet"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a4ff7235-4028-4374-b7c4-79d653b3cc97/99/image.jpg",
+              "caption": "Appartement"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/00161ba6-63ff-4b69-ba16-842228765241/99/image.jpg",
+              "caption": "APP 2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a045217e-2291-4c15-bd75-818f65bfc1a0/99/image.jpg",
+              "caption": "Appartement 2"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet, facing the garden",
+      "description": "Gemütliches Doppelzimmer mit D/WC, Sat-TV und Balkon mit herrlicher Aussicht\nKostenloses W-lan",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/c3b50de6-407c-4e1b-af49-7b17850ff6f2/99/image.jpg",
+              "caption": "Doppelzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/dad37cbf-69ca-4fb3-ba7d-da1037465104/99/image.jpg",
+              "caption": "Doppelzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/fa957163-594a-45a6-a8b6-57932edea49d/99/image.jpg",
+              "caption": "Doppelzimmer"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

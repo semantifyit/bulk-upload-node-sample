@@ -1,0 +1,781 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Stockach 232",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5361660",
+    "email": "lisi.wechselberger@aon.at"
+  },
+  "name": "Martina Huber",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus befindet sich in unverbauter, zentraler ruhiger Lage mit herrlichem Ausblick auf die Zillertaler Bergwelt in Schwendau.\nMit direktem zugang zu dem Sikgebiet 3000 - Hoarbergbahn."
+    },
+    {
+      "@language": "de",
+      "@value": "Brötchenservice,Handtücher und Bettwäsche vorhanden"
+    },
+    {
+      "@language": "de",
+      "@value": "Check-in:  14:00\nCheck-out:  09:00"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4cbda736-4a85-4123-89ca-9eb72efef1e7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_7336"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_7336"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_7336"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fc11bccc-3d64-48dc-9591-29661168bece/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_7309"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_7309"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_7309"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf57fb0d-e338-4648-bd3e-53e8eac322b0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_7323"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_7323"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_7323"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/89e28cd0-4ace-4555-9398-244ddf986dc2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "3"
+        },
+        {
+          "@language": "en",
+          "@value": "3"
+        },
+        {
+          "@language": "ru",
+          "@value": "3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/41e53427-1acc-49ca-89ee-b28d9b84c0db/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_7305"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_7305"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_7305"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77607c05-af68-4342-b7ba-76c397d9bf50/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC01390"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC01390"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC01390"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/672a6e0d-4fe8-4033-8714-4443574c8d2b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC01389"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC01389"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC01389"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f1e277f2-2cb4-4828-9f2c-19b18842b77b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1375"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1375"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1375"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/38206a1a-b898-4cda-9c2f-e62d553509eb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1372"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1372"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1372"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/521445ca-e529-4016-b528-7766f0e82135/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1381"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1381"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1381"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b7ed7361-e86a-47e2-891b-8530b965c9a1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1393"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1393"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1393"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/22eb534c-63f4-449a-b19e-a9e96374e28f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1406"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1406"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1406"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b9e067ca-b2b5-4b6c-a296-ddc7e7765cf0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1408"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1408"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1408"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1a456859-c0ad-49ab-993b-807660ae2e0c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1414"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1414"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1414"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e86a32a5-a44b-4165-8a9d-9cf40eb2afa0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1433"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1433"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1433"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5b1339e8-7b4b-4cad-90f7-0f1bfeee5f7e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1459"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1459"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1459"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/40808905-a43d-4c50-964f-e68cf4baf981/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1462"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1462"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1462"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/39dafeb8-b1ae-48ae-b336-6ef55bdaa218/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1474"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1474"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1474"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a97ab16-495d-497b-b0e6-db9c66a67fab/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1480"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1480"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1480"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a850e32-e715-45d3-a283-0e83efd2b9c2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1506"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1506"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1506"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/66fd49f0-a478-4e8b-a150-36c8b044f7ff/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1509"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1509"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1509"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3d8a10c7-b1f9-4873-8ce5-78fe0c4de6cf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1529"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1529"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1529"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/90a765e3-9a5c-46a5-b216-783f0a13351c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1538"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1538"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1538"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc333314-28e3-41ab-8927-85e926de5463/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1568-Panorama"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1568-Panorama"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1568-Panorama"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/478c4ee9-4fc4-46be-95c3-bdab6b1c4b59/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1556"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1556"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1556"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/472ed81c-7c41-4a10-8879-816aea534871/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1589-Panorama"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1589-Panorama"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1589-Panorama"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9fea071-98c7-4838-8c92-ca4e20eec054/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1607-Panorama"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1607-Panorama"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1607-Panorama"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c03bcab0-6729-4a09-98bd-fdf0d8058bb5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1649-Panorama"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1649-Panorama"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1649-Panorama"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7969e251-4b53-416e-a429-8ce17d48419a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1667"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1667"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1667"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8235d0f7-3eaa-47d5-b102-0d37b9c18f2b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1674-Panorama"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1674-Panorama"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1674-Panorama"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14867b07-0f4b-4221-8238-f054f966ab32/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "_DSC1691-Panorama"
+        },
+        {
+          "@language": "en",
+          "@value": "_DSC1691-Panorama"
+        },
+        {
+          "@language": "ru",
+          "@value": "_DSC1691-Panorama"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2db650e5-e6e2-4ddf-baf6-b37b5ee6bdf4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC01716"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC01716"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC01716"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c010d37-7683-40d8-82a9-5fccff014513/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC01715"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC01715"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC01715"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0dfb9b44-3338-45f3-937f-330133f41cf4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "plan neue wohnung 001"
+        },
+        {
+          "@language": "en",
+          "@value": "plan neue wohnung 001"
+        },
+        {
+          "@language": "ru",
+          "@value": "plan neue wohnung 001"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1e40342-25b4-467f-8b46-dce1d9442e48/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "4H0B2836"
+        },
+        {
+          "@language": "en",
+          "@value": "4H0B2836"
+        },
+        {
+          "@language": "ru",
+          "@value": "4H0B2836"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/89271382-0669-4b5b-b369-acca2c33c0ec/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "4H0B2825"
+        },
+        {
+          "@language": "en",
+          "@value": "4H0B2825"
+        },
+        {
+          "@language": "ru",
+          "@value": "4H0B2825"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/709bc959-bfa7-4ccf-8ea1-d28d05a687a7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "bahn"
+        },
+        {
+          "@language": "en",
+          "@value": "bahn"
+        },
+        {
+          "@language": "ru",
+          "@value": "bahn"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1927635",
+    "longitude": "11.8595295"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung 70m^ mit 2 Schlafräumen, Bad mit Dusche, WC, Wohnküche, separates WC mit ratio,\n40\" flat tv"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

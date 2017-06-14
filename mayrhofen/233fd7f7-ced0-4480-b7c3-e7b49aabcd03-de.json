@@ -1,0 +1,416 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.innerwiesn.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d233FD7F7-CED0-4480-B7C3-E7B49AABCD03"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apart Garni Innerwiesen",
+    "streetAddress": "Laubichl 153",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62956",
+    "email": "schoesser.andreas@aon.at",
+    "url": "http://www.innerwiesn.at"
+  },
+  "name": "Gästehaus Innerwiesn",
+  "description": [
+    "Unsere gemütliche Pension liegt mitten in den Wiesen mit herrlichem Blick auf die Berge, ganzjährige sonnige Lage und nur 5 Gehminuten vom Ortszentrum Mayrhofen entfernt, die Skibushaltestelle befindet sich direkt vor dem Haus.",
+    "Reichhaltiges Frühstücksbuffet, gegen Aufpreis von € 9,- pro Person und Tag, vor Ort zubuchbar. Gegen Aufpreis bieten wir Ihnen auch Brötchenservice an.\nNutzung des Sauna-/Wellnessbereich im Haus kostenlos.",
+    "Check-In: Laut Absprache, Check-Out: 09.30 Uhr; Richtung Mayrhofen bis zum ersten Kreisverkehr - links bis zur IQ-Tankstelle - links Richtung Laubichl bis zum Campingplatz, gegenüber befindet sich unsere Einfahrt, drittes Haus \"Innerwiesn\"."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/077abbe7-a689-4c32-94ab-482735672694/99/image.jpg",
+      "caption": "Haus Innerwiesn Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/720d0a6e-f6d0-4888-bd38-f8be1dbdfe73/99/image.jpg",
+      "caption": "Haus Innerwiesn Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b37cb9a5-67a7-4da4-9d92-f0fff604438f/99/image.jpg",
+      "caption": "Haus Innerwiesn Mayrhofen - Apartment - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56094639-8d65-4936-897d-dc9251d15a39/99/image.jpg",
+      "caption": "Haus Innerwiesn Mayrhofen - Apartment - Sitzecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a93a644b-b211-4a98-aac7-7e5363481eda/99/image.jpg",
+      "caption": "Haus Innerwiesn Mayrhofen - Apartment - Zimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1758431181508",
+    "longitude": "11.8672728538513"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "komplett ausgestattete Wohnküche, Ofenecke, ein Schlafzimmer, Balkon, Kabel-TV, Telefon, Bad/WC, Fön, Safe und Brötchenservice.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 113/ 1 Schlafzimmer, Bad/WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "114.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "129.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "164.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "2 Schlafzimmer mit 2 x Bad/WC, Kompl. eingerichtete Wohnküche mit Ofenecke, Kabel-TV,Telefon, Fön, Safe, Balkon, Brötchenservice",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 140/ 2 Schlafräume, Bad/WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "215.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "0.00",
+          "maxPrice": "268.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "2 Schlafzimmer, 1 Wohnschlafzimmer, Bad und WC. Kompl. ausgestattete Wohnküche mit Essbereich, Ofenecke, Kabel-TV, Telefon, Fön, Safe, Terrasse, Brötchenservice.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 510/ 2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "205.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "223.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "0.00",
+          "maxPrice": "241.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Bad, WC, 1 Schlafraum",
+      "description": "komplett ausgestattete Wohnküche, Ofenecke, ein Schlafzimmer, Balkon, Kabel-TV, Telefon, Bad/WC, Fön, Safe und Brötchenservice.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 213/ 1 Schlafzimmer, Bad/WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "114.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "129.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "164.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "2 Schlafzimmer mit 2 x Bad/WC, Kompl. eingerichtete Wohnküche mit Ofenecke, Kabel-TV,Telefon, Fön, Safe, Balkon, Brötchenservice",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 240/ 2 Schlafräume, Bad/WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "215.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "0.00",
+          "maxPrice": "268.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Gemütlich eingerichtetes Einzelzimmer mit Dusche, WC, Fön, Kabel-TV, Safe und Telefon ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "57.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Komfortabel eingerichtetes Doppelzimmer mit Dusche/WC und Fön, Safe, Kabel-TV, Telefon, mit gemütlichem Sofa und Balkon ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Vierbettzimmer, Dusche, WC",
+      "description": "Gemütliches 3- bis 4-Bett-Zimmer mit Dusche/WC, Fön, Kabel-TV, Safe, Telefon und großzügigem Sitzbereich ausgestattet. Südbalkon mit herrlichem Panoramablick auf die Zillertaler Bergwelt.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "122.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "153.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartements-mair.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d4313522F-B872-4C3C-B6C4-AA9FDE0BF4D4"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mair, Ferienwohnungen",
+    "streetAddress": "Peter-Habeler-Straße 551",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63880",
+    "faxNumber": "0043 5285 63847",
+    "email": "info@mair.at",
+    "url": "http://www.appartements-mair.at"
+  },
+  "name": "Ferienwohnungen Mair",
+  "description": [
+    "In einem familiär geführten Haus mit gemütlicher Atmosphäre und netten Menschen.\nGenießen Sie die gemütliche Atmosphäre in unseren liebevoll eingerichteten Appartements. Das Haus liegt in einer ruhigen Gegend, aber trotzdem ist das aktive Leben von Mayrhofen ganz nah. In unmittelbarer Nähe finden Sie das Erlebnis Schwimmbad Mayrhofen, einen Tennisplatz, die Mayrhofner Bergbahnen (Penken- und Ahornbahn), Langlaufloipen, einen Eislaufplatz und vieles mehr!\n ",
+    "Am Anreisetag stehen die Ferienwohnungen ab 14 Uhr zur Verfügung.\nBei Anreise nach 18 Uhr bitten wir um telefonische Vorankündigung.\nAm Abreisetag bitten wir Sie, die Ferienwohungen bis 10:00 Uhr freizugeben.\n",
+    "Check-In ab 14.00 Uhr, bei Verfügbarkeit auch schon früher, Check-Out bis spätestens 9.30 Uhr. Bei Ihrer Anreise fahren Sie bis zur Einfahrt Mitte, dort links abbiegen, geradeaus bis zur Kreuzung Hauptstrasse - Fischerstraße, dort rechts abbiegen, weiter bis zur Penkenbahn, dort links abbiegen, am Ende dieser Strasse links ab, Sie kommen direkt zu Ihrem Parkplatz beim Haus auf der rechten Straßenseite."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "21"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a09469ca-9563-4778-a827-ad3bb75ec649/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a865c867-7821-4594-96ce-3f87af48fe66/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd2a095e-f9ae-4fed-8946-81d1c5ed3f1c/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7d71d52-b232-422a-86f3-fd20124efac7/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Antonius Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1fd1c70b-0598-479d-b201-b4af99789ecd/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Christian Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/27981f78-3259-4604-aefd-6eac274784ed/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Elisabeth Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/306e676a-88eb-4d73-93f1-39631b3713d1/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Gloria Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d8eca9f3-d4bb-41ec-b27a-3eb91ece46d4/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Hella Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a8ff6c3-8f5f-4232-b38a-a6e1e5b512fa/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Markus Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3d3b87b-8e58-4acf-b290-4af0dba71460/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Michael Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a7847b47-04d1-4e8e-8cdb-243a026cae4c/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Wohnbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9d265d87-ce1a-4deb-a65f-ea8871051866/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Wohnung Elisabeth"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/417fdbfa-40ab-45b6-9a67-f7cc64790d0a/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Wohnung Michael"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/392c6cd7-24fa-4b42-9a93-562f352d76d8/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Zimmer Markus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9289eb44-e5d6-481d-811b-b3178c3e2d9c/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Wohnraum Antonius"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56778639-1d96-4a87-a595-20aa49a4e60d/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Wohnbereich Gloria"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d33637c5-1a48-407e-8894-a5cbb7b43c57/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Küche Gloria"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df2a5053-b92f-418d-abea-77d4489988d3/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Zimmer GLoria"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1be6891c-7106-4079-852a-75a5897d9f25/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Küche Markus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3eb51e1d-93f2-4ce3-9099-e09033b65c5f/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Bad Gloria"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af58f023-3688-4f74-ae79-0276dc348889/99/image.jpg",
+      "caption": "Haus Mair Mayrhofen - Wohnraum Hella"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/babc852c-63c1-4bf5-9c23-b8f7d45f9d2c/99/image.jpg",
+      "caption": "Mayrhofner Advent"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c76f6616-7fd3-49e5-ac26-a7bf47b967be/99/image.jpg",
+      "caption": "Skipiste"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84e1affb-43ed-4481-91f9-3c364bf2c9e2/99/image.jpg",
+      "caption": "Skilift"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/093a034b-8ebe-4d4b-95f6-8322ce05d965/99/image.jpg",
+      "caption": "Rodeln"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f3d71cc9-090b-4a93-828a-e893843eb56b/99/image.jpg",
+      "caption": "Langlaufen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/57c725c9-b4e0-4c98-8020-d846946f49b6/99/image.jpg",
+      "caption": "Paragliden"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6bf62df-92da-44ec-b0eb-3db364068950/99/image.jpg",
+      "caption": "Radfahren"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/544519d5-a046-4053-84fc-7dd7c65e0d90/99/image.jpg",
+      "caption": "Rafting"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3694720-30c3-4c54-96df-8a75d8fa6c1c/99/image.jpg",
+      "caption": "Wanderung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5b99834-5f7d-454d-9213-1e592b1582af/99/image.jpg",
+      "caption": "Klettersteig"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1647238782925",
+    "longitude": "11.8660175800323"
+  },
+  "paymentAccepted": [
+    "Diners",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Appartement Hella\n66m², 2 - 6 Personen\nDieses Appartement hat einen Südbalkon, zwei Schlafzimmer und zwei Bäder, ein Wohnzimmer und Küche\n\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Hella/2 Schlafräume/Dusche,",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "39.33",
+          "maxPrice": "39.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "39.50",
+          "maxPrice": "39.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "34.60",
+          "maxPrice": "34.60",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "31.33",
+          "maxPrice": "31.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Souterrain-Appartement.\nDiese ca. 50m² große Wohnung befindet sich im Halbtief-Parterre. Sie besteht aus einem Wohnraum mit Küche sowie einem Schlafraum mit Doppelbett. Im Bad befinden sich Dusche und WC.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Christof/Wohn-Schlafraum/Dusch",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Luxus Appartement Gloria\n90m², 2 - 6 Personen\nWenn Sie etwas Besonderes suchen, dann fnden Sie es in unserem Luxus-Appartement Gloria! Ein elegant eingerichteter Aufenthaltsraum mit Kachelofen und gemütlicher Sitzecke, ein Schlafraum mit Wasserbett und eine Küche mit allem Komfort lassen keine Wünsche offen.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Luxus-Appartm. Gloria/2 Schlafräume/Dusche, B",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.50",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "31.67",
+          "maxPrice": "39.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "31.25",
+          "maxPrice": "39.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "28.00",
+          "maxPrice": "34.60",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "25.83",
+          "maxPrice": "31.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Appartement Antonius\n62m², 2 - 6 Personen\nBei diesem Appartement kann man am schönen Südbalkon entspannen, außerdem hat das Appartement zwei Schlafzimmer, ein Wohnzimmer, Küche und Bad\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Antonius/2 Schlafräume/Dusche,",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "39.33",
+          "maxPrice": "39.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "39.50",
+          "maxPrice": "39.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "34.60",
+          "maxPrice": "34.60",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "31.33",
+          "maxPrice": "31.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Appartement Michael\n58m², 2 - 4 Personen\nDieses Appartement hat einen Gartenbereich, Wohnzimmer und Küche sowie Schlafzimmer und Bad.\nmodernes Appartement mit 2 Ebenen, großem Wohnraum mit Essecke, separater Küche und südlichem Gartenanteil",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Michael/Wohn-Schlafraum/1 Sch",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "39.33",
+          "maxPrice": "39.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "33.25",
+          "maxPrice": "33.25",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Appartement Markus\n50m², 2 - 4 Personen\nDieses Appartement bietet Ihnen einen Südbalkon, zwei Schlafzimmer und zwei Bäder, sowie eine Küche.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Markus",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "39.33",
+          "maxPrice": "39.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "39.50",
+          "maxPrice": "39.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "34.60",
+          "maxPrice": "34.60",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Appartement Elisabeth\n40m², 2 - 4 Personen\nDieses Appartement verfügt über einen Südbalkon, eine Wohnküche sowie Schlafzimmer und Bad.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Elisabeth/Wohn-Schlafraum/1 Sc",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "39.33",
+          "maxPrice": "39.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "33.25",
+          "maxPrice": "33.25",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Appartement Christian\n36m², 2 Personen\nDieses Appartement verfügt über eine Terrasse, eine gemütliche Wohnküche sowie Schlafzimmer mit Bad.\nNeues Appartement, komfortabel und gemütlich im Landhausstil eingerichtet mit eigenem Garten- bzw. Terrassenbereich, ca. 60m².",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Esther/Wohn-Schlafraum/Dusch",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.33",
+          "maxPrice": "65.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

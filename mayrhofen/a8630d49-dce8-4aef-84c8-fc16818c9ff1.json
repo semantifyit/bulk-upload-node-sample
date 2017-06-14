@@ -1,0 +1,628 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dA8630D49-DCE8-4AEF-84C8-FC16818C9FF1"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dorf 153",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 9465147",
+    "email": "hauselfriede@gmx.at"
+  },
+  "name": "Haus Elfriede",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Haus Elfriede in der Ferienregion Mayrhofen-Hippach\n\nWir, die Familie Neuner möchten Sie recht herzlich im Haus Elfriede willkommen heißen.\n\nWir bieten unseren Gästen:\nEine neu renovierte,  85m2, Ferienwohnung im Zentrum von Schwendau,\nruhige, sonnige Lage mit eigener Sonnenterasse,\nSkibushaltestelle 50m entfernt,\n2 Fahrminuten zur Horbergbahn (Mayrhofner Bergbahnen),\n5 Fahrminuten nach Zell am Ziller - Einstieg Zillertal Arena. \nEislaufplatz in Mayrhofen und Zell am Ziller.\nAuch für Rodler ist etwas geboten, in Hainzenberg mit Bewirtungsstationen.\nDer Hintertuxer Gletscher ist gut erreichbar ob mit Bus oder Auto.\nIm Sommer ist unsere Freibad im Ort mit Bus, Fahrrad oder zu Fuss leicht zu erreichen.\nRadwege entlang der Zillerpromenade laden Sie auf eine Spritztour ein. \nZum Ausspannen nach einer Wanderung oder Radtour  könne Sie in einer lauen Sommernacht auf der Terasse verweilen.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: 14.00 Uhr\nCheck out: 10.00 Uhr"
+    },
+    {
+      "@language": "de",
+      "@value": "Die Wohnung ist am Anreisetag ab 15 Uhr zu beziehen.\nAm Abreisetag bis 10 Uhr zu räumen.\nAbsprache möglich!"
+    },
+    {
+      "@language": "en",
+      "@value": "A single-family house in the centre of Schwendau, quiet, sunny situation, ski bus stop 50 m away, 2 driving minutes to the Horbergbahn 5 driving minutes to Zell am Ziller - entrance Zillertal arena. \nIn summer our outdoor swimming pool is slightly accessible. You find nice cycle tracks along the Ziller. \n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 14.00 \nCheck out: 10.00 "
+    },
+    {
+      "@language": "en",
+      "@value": "Check-in: from 15:00\nCheck-out: until 10:00\n"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "13"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e524960f-087f-43b6-a5df-f7dd76eaeeda/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Luftaufnahme Haus Elfriede"
+        },
+        {
+          "@language": "en",
+          "@value": "Luftaufnahme Haus Elfriede"
+        },
+        {
+          "@language": "ru",
+          "@value": "Luftaufnahme Haus Elfriede"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/defb34c0-c5f9-41f6-a282-302a584a9661/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterlandschaft"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterlandschaft"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterlandschaft"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/43332bd9-3400-4a6f-b22b-f84dda33665c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Zimmer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Zimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f23148f8-1f5d-4aab-9193-ba831da6396a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Im Skigebiet"
+        },
+        {
+          "@language": "en",
+          "@value": "Im Skigebiet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Im Skigebiet"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6a298de-cb83-41eb-962b-a6fb7e39dfab/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Herzlich Willkommen"
+        },
+        {
+          "@language": "en",
+          "@value": "Herzlich Willkommen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Herzlich Willkommen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a261fed8-0b38-4f63-9b8d-1dc66e3d52c1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Elfriede - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Elfriede - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Elfriede - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a6b2008f-0b0d-4744-be65-d6f3f3ca5ae7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bergpanorama"
+        },
+        {
+          "@language": "en",
+          "@value": "Bergpanorama"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bergpanorama"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b277d86b-525e-47f3-9a07-d17b42214905/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Elfriede Schwendau - Sommer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Elfriede Schwendau - Sommer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Elfriede Schwendau - Sommer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8a8bc4ad-fc82-43a4-9767-e8448039e72f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Elfriede Schwendau - Sommer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Elfriede Schwendau - Sommer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Elfriede Schwendau - Sommer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a460f92-6a76-4314-9906-122688b18781/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Elfriede Schwendau - Sommer4"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Elfriede Schwendau - Sommer4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Elfriede Schwendau - Sommer4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/529468a9-96f4-4420-9ba2-2820e8e67947/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Eingangsbereich"
+        },
+        {
+          "@language": "en",
+          "@value": "Eingangsbereich"
+        },
+        {
+          "@language": "ru",
+          "@value": "Eingangsbereich"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d46e9a9-ff00-4ff6-8793-4159c99f7639/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Im Garten"
+        },
+        {
+          "@language": "en",
+          "@value": "Im Garten"
+        },
+        {
+          "@language": "ru",
+          "@value": "Im Garten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2dc4b324-e8d0-4ce5-b8fd-7d414a63fb27/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Elfriede - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Elfriede - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Elfriede - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c0ddc057-e841-4b19-8d38-3034c4ef0e84/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Eingangsbereich - Diele"
+        },
+        {
+          "@language": "en",
+          "@value": "Eingangsbereich - Diele"
+        },
+        {
+          "@language": "ru",
+          "@value": "Eingangsbereich - Diele"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d5a0ac5-501a-40ed-9596-d945ae3f5e33/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Elfriede Schwendau - Wohnküche"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Elfriede Schwendau - Wohnküche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Elfriede Schwendau - Wohnküche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4fee035a-137f-4177-82e1-959bf0407648/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Elfriede Schwendau - Zimmer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Elfriede Schwendau - Zimmer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Elfriede Schwendau - Zimmer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fafec679-8fb0-4deb-a9ab-f1c642c467f4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "WC extra"
+        },
+        {
+          "@language": "en",
+          "@value": "WC extra"
+        },
+        {
+          "@language": "ru",
+          "@value": "WC extra"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/536154c0-a590-46f3-a00f-abf7b0d19d3f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Barierefreies Bad - Bad/Dusche/WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Barierefreies Bad - Bad/Dusche/WC"
+        },
+        {
+          "@language": "ru",
+          "@value": "Barierefreies Bad - Bad/Dusche/WC"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9726b022-caab-4c30-8b14-2a22858debf8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Elfriede Schwendau - Bad "
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Elfriede Schwendau - Bad "
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Elfriede Schwendau - Bad "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5b71f8b2-5dcb-4676-99be-f198f4fe0530/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Küche mit vielen Geräten"
+        },
+        {
+          "@language": "en",
+          "@value": "Küche mit vielen Geräten"
+        },
+        {
+          "@language": "ru",
+          "@value": "Küche mit vielen Geräten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7b40b64d-b930-413f-9194-784a20adaaca/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kinder auf dem Rummel"
+        },
+        {
+          "@language": "en",
+          "@value": "Kinder auf dem Rummel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kinder auf dem Rummel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9d3ef1a-7ca8-4c3b-8ba2-901e54d97708/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kinderbett mit Gitter/ Gitterbett extra"
+        },
+        {
+          "@language": "en",
+          "@value": "Kinderbett mit Gitter/ Gitterbett extra"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kinderbett mit Gitter/ Gitterbett extra"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3847be0d-271f-400f-b810-398071e04dd3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Elfriede Schwendau - Skischuhtrockner"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Elfriede Schwendau - Skischuhtrockner"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Elfriede Schwendau - Skischuhtrockner"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/49c9f62c-7338-428a-bb06-da48bb2ea70b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kinderskikurse auch für die Kleinen"
+        },
+        {
+          "@language": "en",
+          "@value": "Kinderskikurse auch für die Kleinen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kinderskikurse auch für die Kleinen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f7581330-0ff3-4394-9a56-609c57fa7565/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bewertung bei Booking"
+        },
+        {
+          "@language": "en",
+          "@value": "Bewertung bei Booking"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bewertung bei Booking"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6819b9d5-5595-4553-8018-b790c5fd4b12/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20161124_084329"
+        },
+        {
+          "@language": "en",
+          "@value": "20161124_084329"
+        },
+        {
+          "@language": "ru",
+          "@value": "20161124_084329"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1981828",
+    "longitude": "11.8587119"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, Erdgeschoß/Parterre"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, ground floor"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, цокольный этаж"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "85m² Wohnung mit 2 Dreibettzimmern und eine ausziehbares Sofa, voll ausgestattete Küche (Mikrowelle, Geschirrspühler, Geschirr, Kühlschrank, Gefrierfach, Wasserkocher,...) Terassen benützung,..."
+        },
+        {
+          "@language": "en",
+          "@value": "85m² flat with two three-bed rooms and a sleeping sofa, full equiped kitchen, a terrace.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement/Fewo"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "23.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "23.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "23.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "23.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "23.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "23.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

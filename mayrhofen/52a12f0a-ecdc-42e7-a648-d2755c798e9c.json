@@ -1,0 +1,62 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Kinderspielplatz Brandberg"
+    },
+    {
+      "@language": "de",
+      "@value": "Kinderspielplatz Brandberg"
+    },
+    {
+      "@language": "ru",
+      "@value": "Kinderspielplatz Brandberg"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1664437040541",
+    "longitude": "11.8971865257614"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kinderspielplatz",
+    "streetAddress": "Brandberg",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Der schöne Kinderpielplatz im Sonnendorf Brandberg mit Sandkasten, Schaukel, Brunnen, Klettergerüst mit Rutsche,... befindet sich neben dem Fußballplatz (unterhalb des Feuerwehrhauses) und bietet jede Menge Möglichkeiten zum Spielen und Toben.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50498a33-5903-4d55-8ab2-89eb2bc02717/99/image.png",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Spielplatz Brandberg"
+        },
+        {
+          "@language": "de",
+          "@value": "Spielplatz Brandberg"
+        },
+        {
+          "@language": "ru",
+          "@value": "Spielplatz Brandberg"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.mayrhofen.at/de/101029/101030/101549/kinderspielplaetze.html"
+  ]
+}

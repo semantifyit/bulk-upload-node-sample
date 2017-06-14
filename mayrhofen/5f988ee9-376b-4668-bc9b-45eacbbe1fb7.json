@@ -1,0 +1,721 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://",
+    "http://maps.mayrhofen.at/?foreignResource\u003d5F988EE9-376B-4668-BC9B-45EACBBE1FB7"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dornauberg 35",
+    "addressLocality": "Ginzling",
+    "postalCode": "6292",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4962429",
+    "email": "fewo.eberharter@a1.net"
+  },
+  "name": "Ferienwohnung Eberharter",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unsere Ferienwohnung liegt in ruhiger Lage, etwas außerhalb von Mayrhofen in Ginzling auf einer Höhe von 999m. Ginzling dient somit als idealer Ausgangspunkt für Wanderungen und Touren in die imposante Natur der Zillertaler Bergwelt. \nIn unmittelbarer Nähe befindet sich ein Kinderspielplatz, Fussballplatz und im Winter ein kleiner Schlepplift und die Rodelbahn von der Tristenbachalm. \n\nDie rustikal eingerichtete Ferienwohnung Eberharter bezieht sich über 2 Stockwerke.\nIm Erdgeschoss befindet sich eine voll ausgestattete Wohnküche, 1 Wohnzimmer mit ausziehbarer Couch , 1 WC und 1 Abstellraum. Im Hausflur befindet sich noch die Garderobe.\nIm ersten Stock befinden sich 2 Dreibettzimmer und ein Doppelzimmer sowie 1 WC und 1 Badezimmer mit Dusche und Eckbadewanne.\nKüche ausgestattet mit Geschirrspüler, Backofen, Mikrowelle, Ceranfeld, Kaffeemaschine, Wasserkocher und Toaster. Besteck und Geschirr vorhanden.\nKostenloser W-Lan\n\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Anzahlung\nRestzahlung bei Ankunft\nBarbezahlung"
+    },
+    {
+      "@language": "de",
+      "@value": "\n\nFrühester Check-in: 14:00 Uhr\nSpätester Check-out:10:00 Uhr\n\n\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Our -apartment lies in quiet situation, a little bit outside from Mayrhofen -in Ginzling on a height of 999 m. Ginzling is  an ideal starting point for wanderings and tours in the imposing nature of the Zillertaler mountains. \nIn close vicinity there is a children\u0027s playground and the football pitch. In our small food store, you can get fresh bread from 7 o\u0027clock in the morning.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "deposit\nBalance at arrival\ncash payment"
+    },
+    {
+      "@language": "en",
+      "@value": "\n\nEarliest check- in 14:00 clock\nLatest check -out : 10:00 clock"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f2fb71a9-073b-4e84-a600-e6202b50ad45/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/40c4c321-f2c3-4db3-9f01-a0e32578da03/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81a05d59-73db-4030-843f-25511f30aa5f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - Wohnküche"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - Wohnküche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - Wohnküche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8a11e316-a501-4afe-8d49-dbf82edd73d0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - Wohnküche Sitzecke"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - Wohnküche Sitzecke"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - Wohnküche Sitzecke"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9ba29467-d6ab-4557-a7a3-77fd323531b5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - Wohnzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - Wohnzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - Wohnzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76ff6576-a0cf-4566-94ce-924f832401ac/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - Wohnzimmer Chouch"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - Wohnzimmer Chouch"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - Wohnzimmer Chouch"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59e71e69-9b5b-4274-90ef-6c4eca7675ad/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - WC Erdgeschoss"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - WC Erdgeschoss"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - WC Erdgeschoss"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/518ac600-0744-44df-8b61-e797f1ebb051/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - Hausflur"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - Hausflur"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - Hausflur"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/326bdbec-847f-4bc0-9ef9-3fb83386ebc2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - Garderobe"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - Garderobe"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - Garderobe"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c869da8-5136-4dca-96d1-51616850b317/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter - Aufgang zu den Schlafzimmern"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter - Aufgang zu den Schlafzimmern"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter - Aufgang zu den Schlafzimmern"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c9bd9ff3-a0d8-40a4-b76b-b4e570512520/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter - Aufgang zu den schlafzimmern 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter - Aufgang zu den schlafzimmern 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter - Aufgang zu den schlafzimmern 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02f5a53f-4d3e-49b1-bb0a-252e92c666ba/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - Doppelzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - Doppelzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - Doppelzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/556d7a40-4f32-4a8c-b5e6-3f1d79ab7442/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - Dreibettzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - Dreibettzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - Dreibettzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84e541e2-a2be-46b6-8e31-e60a737171e8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - 2 Dreibettzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - 2 Dreibettzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - 2 Dreibettzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96f7c47a-7d84-41dc-804e-f228d8b56c41/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - Badewanne"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - Badewanne"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - Badewanne"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5528ed2-016e-4935-81c9-be323de29368/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - Badezimmer mit Dusche"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - Badezimmer mit Dusche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - Badezimmer mit Dusche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c5518253-aee3-4530-ac9e-27f8d88eb169/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - WC im 1 Stock"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - WC im 1 Stock"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - WC im 1 Stock"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/110d6be6-8898-4e40-9db7-75faed04dbf5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - Familie Eberharter"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - Familie Eberharter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - Familie Eberharter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/78336f96-40c0-4e6f-90cd-cd9962731e32/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Eberharter Ginzling - Sandkasten hinterm Haus"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Eberharter Ginzling - Sandkasten hinterm Haus"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Eberharter Ginzling - Sandkasten hinterm Haus"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cabda5b7-70ff-4363-99c0-a46742deed4f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Regenbogen Richtung Floitental"
+        },
+        {
+          "@language": "en",
+          "@value": "Regenbogen Richtung Floitental"
+        },
+        {
+          "@language": "ru",
+          "@value": "Regenbogen Richtung Floitental"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9d123ed-15d1-4d4f-bbac-71f1f5d1398c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/557faa2f-016b-4af1-8b6d-2469a06d5446/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hasen"
+        },
+        {
+          "@language": "en",
+          "@value": "Hasen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hasen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/66b6001b-0d89-4990-bad8-75f88e01b173/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Richtung Berlinerhütte"
+        },
+        {
+          "@language": "en",
+          "@value": "Richtung Berlinerhütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Richtung Berlinerhütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1796cfb6-581d-4311-b4f3-7f8e7085de6a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9eb5140-6d59-4ee4-8e10-06e12fadd3c3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Richtung Steinbockhütte"
+        },
+        {
+          "@language": "en",
+          "@value": "Richtung Steinbockhütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Richtung Steinbockhütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68febd61-9602-451c-b169-3538c5a33343/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Unser kleiner Dorflift"
+        },
+        {
+          "@language": "en",
+          "@value": "Unser kleiner Dorflift"
+        },
+        {
+          "@language": "ru",
+          "@value": "Unser kleiner Dorflift"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4f93c06-60b0-4949-9f33-01196db60321/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Unser kleiner Dorflift 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Unser kleiner Dorflift 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Unser kleiner Dorflift 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6da8db94-9e3a-4111-97b7-a5dce3515d48/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Unser kleiner Dorflift 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Unser kleiner Dorflift 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Unser kleiner Dorflift 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84777559-c6d3-48bd-baf4-a1b13ae748ac/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b98f8ff8-d4d3-48c6-9191-7fc63209b676/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schneerose"
+        },
+        {
+          "@language": "en",
+          "@value": "Schneerose"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schneerose"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6b28da77-302d-492d-9aa7-15405704a7d8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schneemann bauen"
+        },
+        {
+          "@language": "en",
+          "@value": "Schneemann bauen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schneemann bauen"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0997299",
+    "longitude": "11.8066054"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Badewanne, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath tub, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die Ferienwohnung bezieht 2 Stockwerke und ist rustikal eingerichtet. \nIm Erdgeschoss befindet sich eine Wohnküche, Wohnzimmer, WC, Abstellraum und im 1. Stock befinden sich 3 Schlafzimmer, WC, Badezimmer mit Dusche und Badewanne. Ebenso verfügt sie über einen Balkon und ein kleiner Garten. "
+        },
+        {
+          "@language": "en",
+          "@value": "The apartment refers 2 floors and rustic furnishings.\nThe ground floor has a kitchen, living room, toilet, storage room and the 1st floor are 3 bedrooms, toilet, bathroom with shower and bathtub. Likewise it has a balcony and a small garden."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement/Fewo, Dusche und Badewanne, 3 Schlafrä"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower and bath tub, 3 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, три спальни"
+            }
+          ],
+          "numberOfRooms": "9.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "66.00",
+          "maxPrice": "66.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "88.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "110.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "132.00",
+          "maxPrice": "132.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "154.00",
+          "maxPrice": "154.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "176.00",
+          "maxPrice": "176.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

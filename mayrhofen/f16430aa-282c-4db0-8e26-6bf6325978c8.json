@@ -1,0 +1,62 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Bioprodukte vom Lengauhof"
+    },
+    {
+      "@language": "de",
+      "@value": "Bioprodukte vom Lengauhof"
+    },
+    {
+      "@language": "ru",
+      "@value": "Bioprodukte vom Lengauhof"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1088371850274",
+    "longitude": "11.8097019195557"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lengauhof",
+    "streetAddress": "Dornauberg 8",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 650 211 84 63 ",
+    "faxNumber": "(0043) 650 221 55 09",
+    "email": "gitti.kern@drei.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "\nSeit 1795 wird der Lengauhof in Ginzling bewirtschaftet. Aufgrund unserer Liebe zur Landwirtschaft und nach langjähriger Suche pachteten wir 2006 den Betrieb Lengau.  \n\n\n...Drei Jahre später errichten wir einen Produktionsraum der den neuen Hygienebestimmungen der EU entspricht. Seither verarbeiten wir qualitativ hochwertige BIO-Heumilch zu naturbelassenen also (ohne künstliche Zusätze) BIO-Heumilchprodukten. \nWir produzieren BIO-Naturjoghurt und BIO-Speisetopfen, \nBIO-Sauerrahmbutter und BIO-Käse \n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5f052c52-5996-4eb7-bb9f-046975153647/99/image.png",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ]
+}

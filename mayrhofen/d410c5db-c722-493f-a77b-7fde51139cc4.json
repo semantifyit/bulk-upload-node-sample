@@ -1,0 +1,66 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "A \u0026 M Shopping"
+    },
+    {
+      "@language": "de",
+      "@value": "A \u0026 M Shopping"
+    },
+    {
+      "@language": "ru",
+      "@value": "A \u0026 M Shopping"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1683381601095",
+    "longitude": "11.8639254570007"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "A \u0026 M Shopping",
+    "streetAddress": "Hauptstraße 408",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62243",
+    "faxNumber": "0043 5285 6224322",
+    "email": "a.knunbauer@tirol.com",
+    "url": "http://www.knunbauer.com"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "A \u0026 M Shopping Alexander Knunbauer Mayrhofen\nHauptstraße 408, AT-6290 Mayrhofen, Tel: 0043 5285 62243\nEinkaufsgenuss auf über 250 qm Fläche, und in der Saison täglich geöffnet.\nAlles unter einem Dach: Palmers Verkaufsstelle, Bekleidung, Tracht, Accessoires, CD´s, \nSpirituosen, Geschenkartikel und Souvenirs.\nwww.knunbauer.com \n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/42bbd431-1926-401b-b257-4d00ef4c4712/99/image.bmp",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "A\u0026M Shopping"
+        },
+        {
+          "@language": "de",
+          "@value": "A\u0026M Shopping"
+        },
+        {
+          "@language": "ru",
+          "@value": "A\u0026M Shopping"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.knunbauer.com"
+  ]
+}

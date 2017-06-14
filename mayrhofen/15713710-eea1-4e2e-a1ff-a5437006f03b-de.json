@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "China Restaurant",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1661171018236",
+    "longitude": "11.8651807308197"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "China Restaurant",
+    "streetAddress": "Scheulingstraße 371",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63912",
+    "email": "qiushiwuat@gmail.com "
+  },
+  "description": "Herzlich Willkommen!\n\nWir bieten Ihnen an vielfältige traditionelle Asiatische Küche: Chinesische und Thai Küche.\nLassen Sie sich vom unserem freundlichen Service in einer vollen herzlichen Atmosphäre genießen. \n\nUnsere Öffnungszeiten:\nJeden Tag von 11:30 - 14:30 Uhr (Sommersaison bis 14:00) und 17:30 - 23:00 Uhr \nKein Ruhetag!\n\nAb sofort bieten wir auch Sushi an!\n\nAlle Speisen auch zum Mitnehmen!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/34545eed-8f1f-4d58-850b-3f0296a7195b/99/image.jpg",
+      "caption": "Titelbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df43f4ab-1693-42db-8547-ec5af5441fc0/99/image.jpg",
+      "caption": "Restaurant 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/29fa27b0-d01f-43ce-b41c-66f1011a4195/99/image.jpg",
+      "caption": "Restaurant 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c2ab08f-c660-48e6-bced-85043cbbb4b5/99/image.jpg",
+      "caption": "Restaurant 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1d015ceb-83dd-4f63-a8f2-ffbd53dd0125/99/image.jpg",
+      "caption": "Sushi Menü"
+    }
+  ]
+}

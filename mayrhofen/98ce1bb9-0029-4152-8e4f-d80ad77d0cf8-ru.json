@@ -1,0 +1,286 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.villa-volgger.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Waldbadstraße 542",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5055604",
+    "email": "info@apartment-mozart.com",
+    "url": "http://www.villa-volgger.at"
+  },
+  "name": "Villa Volgger",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6b20929-9bbe-48cf-8182-a3858528235a/99/image.jpg",
+      "caption": "Villa Volgger Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9380aee0-c9c9-47b4-ad72-4c6d119a07be/99/image.jpg",
+      "caption": "Villa Volgger - Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/773ef9ef-1aec-4b2b-9dad-9e55d08bd152/99/image.jpg",
+      "caption": "Villa Volgger - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/355c5e88-711e-4788-8570-edaecc2f33d7/99/image.jpg",
+      "caption": "Villa Volgger - Vinzenz Wohnraum-Esstisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52161f93-11f8-4654-9b31-199d441ee3aa/99/image.jpg",
+      "caption": "Villa Volgger - Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e194937e-e511-4b2e-8730-ebe41c6fcb26/99/image.jpg",
+      "caption": "Villa Volgger - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e2a363e-7f74-487d-ad04-5be3e27ed214/99/image.jpg",
+      "caption": "Villa Volgger - Küche-Wohnraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2629dc8e-487f-4880-947b-6a82e8491ac8/99/image.jpg",
+      "caption": "Villa Volgger - Schlafzimmer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/609045f4-ad27-4a02-ac8f-e264f960da16/99/image.jpg",
+      "caption": "Villa Volgger - Plan Vinzenz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa40c5e2-54ce-4acc-921a-caac9a337d09/99/image.jpg",
+      "caption": "Villa Volgger - Plan Aloisia"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/34e4c19d-2d3d-4407-9199-5c8d1da509ee/99/image.jpg",
+      "caption": "Villa Volgger - Einzelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b423677f-719e-4d58-b880-f94a459efe1f/99/image.jpg",
+      "caption": "Villa Volgger - Extra Toilette"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1637939",
+    "longitude": "11.8637966"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ и ванна, туалет, три спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ и ванна, туалет, три спальни",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "W-Package, Appartement Vinzenz",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "185.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "120.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "140.00",
+          "maxPrice": "230.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "155.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ и ванна, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ и ванна, туалет, две спальни",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "W-Package, Appartement Aloisia",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "115.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "135.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

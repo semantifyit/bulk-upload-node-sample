@@ -1,0 +1,409 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.tiscover.at/gachtna",
+    "http://maps.mayrhofen.at/?foreignResource\u003d2350D452-0805-43FF-87E8-996ED5F4398A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "zum Gachtna, Gästehaus",
+    "streetAddress": "Dorf Haus 791",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "004367761895398",
+    "email": "gaestehaus.gachtna@yahoo.com",
+    "url": "http://gaestehaus-griesmann.urlauburlaub.at"
+  },
+  "name": "Gästehaus zum Gachtna",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Sie suchen ein gemütliches Feriendomizil? Mit unserem, am südlichen Ortsrand von Mayrhofen in schöner, ruhiger Umgebung gelegenen Ferienhaus ist Ihre Wahl \"goldrichtig\". Direkt an der Haltestelle der Gratisskibusse zu den Bergbahnen und dem Hintertuxer Gletscher. Skigarderobe, Trockenraum. Ein vorzügliches Restaurant finden Sie nebenan und einen Supermarkt in unmittelbarer Nähe. Schöner Garten, Frühstücksterrasse, Liegewiese und -stühle, Almstüberl und einen großen Auslauf für bewegungshungrige Kinder.\n\nAuch für Gruppen bis 16 Personen geeignet!"
+    },
+    {
+      "@language": "de",
+      "@value": "Preise exklusive Endreinigung auf Anfrage!"
+    },
+    {
+      "@language": "de",
+      "@value": "In Mayrhofen die Umfahrungsstraße entlang bis zur Einfahrt Süd (Esso-Tankstelle) dort einbiegen in die Tuxerstraße, gleich hinter dem Restaurant Corso befindet sich das Gästehaus zum Gachtna."
+    },
+    {
+      "@language": "en",
+      "@value": "Are you looking for a pleasant place to spend your holidays? You have found just the right place in our holiday house, situated in a beautiful, quiet position on the southern outskirts of Mayrhofen. Directly next to the bus stop for the free ski bus to the lifts and the Hintertuxer glacier. Ski cloakroom and drying room. An excellent restaurant can be found next door, and a supermarket is close by. Beautiful garden, breakfast terrace, sun bathing area with deck chairs, traditional lounge and a large playing area for children."
+    },
+    {
+      "@language": "en",
+      "@value": "Price excludes details of final cleaning charge on request!"
+    },
+    {
+      "@language": "en",
+      "@value": "At Mayrhofen follow the ring road (umfahrungsstrasse) until Einfahrt Süd (Esso petrol station), turn left here in to the Tuxerstrasse, and Gästehaus zum Gachtna can be found behind the Restaurant Corso."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/faa01a03-9f9b-468e-b3f3-35177a2ecd16/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Gachtna Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Gachtna Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Gachtna Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/46eb275c-3193-4871-9ea5-22f4143d4da2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kuh auf der Alm"
+        },
+        {
+          "@language": "en",
+          "@value": "Kuh auf der Alm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kuh auf der Alm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/21525d16-1f26-4e01-93e7-3635c6c4caf8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahorn White Lounge"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahorn White Lounge"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahorn White Lounge"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb43090b-ec51-463b-abe1-a86601bf6fd3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bauer Landwirt"
+        },
+        {
+          "@language": "en",
+          "@value": "Bauer Landwirt"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bauer Landwirt"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/46e582ca-559b-420c-ada1-78ad693be067/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Funpark Mayrhofner Bergbahnen"
+        },
+        {
+          "@language": "en",
+          "@value": "Funpark Mayrhofner Bergbahnen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Funpark Mayrhofner Bergbahnen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/89834fad-16da-4425-acbb-e7ab40a17439/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skifahrer in Action"
+        },
+        {
+          "@language": "en",
+          "@value": "Skifahrer in Action"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skifahrer in Action"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b7ab321b-ad31-4efe-94b7-1db12c831cc1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer Gipfel Panorama"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer Gipfel Panorama"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer Gipfel Panorama"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/38e8a445-2614-4012-a359-6aa5f152eaf6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter Landschaft"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter Landschaft"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter Landschaft"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ebd06df-0b43-44cd-96c3-0a6542b8e4a5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Naturpark Sommer Schwarzensteinmoor"
+        },
+        {
+          "@language": "en",
+          "@value": "Naturpark Sommer Schwarzensteinmoor"
+        },
+        {
+          "@language": "ru",
+          "@value": "Naturpark Sommer Schwarzensteinmoor"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1698353f-4fcc-4b0b-8408-b89815e499a8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Naturpark Sommer Schwarzsee"
+        },
+        {
+          "@language": "en",
+          "@value": "Naturpark Sommer Schwarzsee"
+        },
+        {
+          "@language": "ru",
+          "@value": "Naturpark Sommer Schwarzsee"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1586144170194",
+    "longitude": "11.852445602417"
+  },
+  "paymentAccepted": [
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnung \"Zillertal\": Große Wohnung (85-130m²) im 1. Stockmit Rundumbalkon, 3 Schlafräume mit TV und Radio (erweiterbar auf 5 Schlafzimmer), 2 Duschen und 2 WC, gut eingerichtete Wochnküche, bei Bedarf Kinderhochstuhl und Gitterbett möglich."
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment \"Zillertal\": Large apartment (85-130m²), 3 doublerooms, 2 showers and 2 WC, situated on the first floor with large balcony, well equipped lounge/Kitchen, high chair and cot available on request."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Fewo \"Zillertal\", 1-3 Schlafzimmer, 1. Stock"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 3 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet, 3 спальни"
+            }
+          ],
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "29.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "22.00",
+          "maxPrice": "29.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "22.00",
+          "maxPrice": "29.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "22.00",
+          "maxPrice": "29.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "22.00",
+          "maxPrice": "29.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "22.00",
+          "maxPrice": "29.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "22.00",
+          "maxPrice": "29.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Sehr gepflegte Zimmer mit Dusche, WC, TV, Radio, Fauteil, Couch, Waschbecken, 2 Badetücher, 2 Gästehandtücher, Leselampe-Stehlampe, Betten mit echten Daunen 140/200, schöne Bettwäsche, sehr gepflegt, Spannteppiche und Perserbrücken, Blumendekoration, Tischdecken und Vorhänge farblich abgestimmt."
+        },
+        {
+          "@language": "en",
+          "@value": "Extremely comfortable room with shower/WC, TV, radio, armchair, settee, hand basin, 2 bath towels, 2 hand towels, reading lamp, standing lamp, real feather quilts measuring 140cm x 200cm, lovely bed linen, very well kept, sumptuous rugs, decorative flowers, hamonizing with the colour of the table cloth and curtains."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

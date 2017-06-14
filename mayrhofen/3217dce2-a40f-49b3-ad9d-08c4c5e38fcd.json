@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Konditorei Bäckerei Kostner"
+    },
+    {
+      "@language": "de",
+      "@value": "Konditorei Bäckerei Kostner"
+    },
+    {
+      "@language": "ru",
+      "@value": "Konditorei Bäckerei Kostner"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1676051117311",
+    "longitude": "11.8629866838455"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Cafe-Konditorei Kostner",
+    "streetAddress": "Hauptstraße 414",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62215",
+    "faxNumber": "0043 5285 622154",
+    "email": "info@kostner.at",
+    "url": "http://www.kostner.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Weit über die Grenzen Mayrhofens bekannt steht unser KOSTNER Familienbetrieb mit Qualitätsprodukten aus Kaffee, Confiserie, Konditorei, Bäckerei, BIO-Bäckerei und den gemütlichen „La Dolce Vita Apartments“ für sinnliche Momente und genussvolle Highlights. Gesunde FrischeQualität - mit unverwechselbarer, kreativer Note - steht ganz im Mittelpunkt unserer KOSTNER Backwerkstatt.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Far known beyond the borders of Mayrhofen, our KOSTNER family business with quality products from coffee, confectionery, pastry, bakery, organic bakery and the cozy \"La Dolce Vita Apartments\" for sensual moments and enjoyable highlights. Healthy Fresh quality - with a unique, creative twist - is all about the heart of our KOSTNER baking workshop."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4093623b-7e91-43ac-b5a7-ba1e2246a3c8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Kostner"
+        },
+        {
+          "@language": "de",
+          "@value": "Kostner"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kostner"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.kostner.at"
+  ]
+}

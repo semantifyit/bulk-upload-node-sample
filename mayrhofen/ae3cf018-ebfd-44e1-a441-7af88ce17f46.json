@@ -1,0 +1,447 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appart-birkenheim.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dAE3CF018-EBFD-44E1-A441-7AF88CE17F46"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Birkenheim, Haus",
+    "streetAddress": "Ramsau 251",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3532",
+    "faxNumber": "0043 5282 3532",
+    "email": "frhaun@aon.at",
+    "url": "http://www.appart-birkenheim.at"
+  },
+  "name": "Haus Birkenheim",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Gästehaus in ruhiger zentraler Lage mit Blick auf die Zillertaler Alpen. Wir bieten eine gut ausgestattete Ferienwohnungen im 2. Stock unseres Hauses für 3-6 Personen.\nDie Haltestelle der Skibusse die Sie zu den Skigebieten bringen ist  hundert Meter hinter unserem Haus. Nicht weit entfernt ist auch der Bahnhof der berühmten Zillertalbahn die Sie in beiden Richtunng durch das Zillertal bringt,  und Sie ohne Auto Ihren Urlaub voll geniessen können !"
+    },
+    {
+      "@language": "de",
+      "@value": "Brötchenservice\nKinder bis 2 Jahre frei, 3-5 Jahre -80%, 6-12 Jahre -60%, 13-16 Jahre -40%\n\nAuf Wunsch gibt es auch Frühstück !"
+    },
+    {
+      "@language": "de",
+      "@value": "Wenn Sie nach Ramsau kommen, bleiben Sie auf der Hauptstrasse, bis zur zweiten Kreuzung mit   \"nur gelb blinkender Fußgängerampel\"  biegen dort links ab  und nach 200 Metern ist auf der linken Seite unser Haus Birkenheim !"
+    },
+    {
+      "@language": "en",
+      "@value": "cosy furnsihed appartement in central position"
+    },
+    {
+      "@language": "en",
+      "@value": "bread roll service, children to 2 years payless, -80% for 3-5 years, -60% from 6-12 years, -40% from 13-16 years\n\nBreakfest is possibl ! "
+    },
+    {
+      "@language": "en",
+      "@value": "When you are in Ramsau, drive on the mainstreet until to the second cross road \" with a yellow lightening trafficlight\", there you turn left and after 200m on the left side is our house Birkenheim!\n\n"
+    },
+    {
+      "@language": "ru",
+      "@value": "Пансион в спокойном месте в центре с видом на Циллертальские Альпы. МЫ предлагаем Вам обставленные апартаменты на 3 этаже нашего дома для размещения от 3 до 6 человек."
+    },
+    {
+      "@language": "ru",
+      "@value": "Доставка свежей выпечки. Дети до 2 лет бесплатно, 3-5 лет 80% скидка, 6-12 лет - 60% скидка, 13-16 лет - 40% скидка."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/43a2c5c4-4271-45d6-b081-b8b7ee1ea7e7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Birkenheim Ramsau - Winter "
+        },
+        {
+          "@language": "en",
+          "@value": "Birkenheim Ramsau - Winter "
+        },
+        {
+          "@language": "ru",
+          "@value": "Birkenheim Ramsau - Winter "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7cc71a93-46f5-431b-b437-0408c5fac1f1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Birkenheim Ramsau - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Birkenheim Ramsau - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Birkenheim Ramsau - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/882ab05b-552d-49b3-8440-9fe650c8a90c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Birkenheim Ramsau - Eingang "
+        },
+        {
+          "@language": "en",
+          "@value": "Birkenheim Ramsau - Eingang "
+        },
+        {
+          "@language": "ru",
+          "@value": "Birkenheim Ramsau - Eingang "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53f76414-158b-4ca8-ace4-99e843515ada/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Birkenheim Ramsau - Sommer 1 "
+        },
+        {
+          "@language": "en",
+          "@value": "Birkenheim Ramsau - Sommer 1 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Birkenheim Ramsau - Sommer 1 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6709292b-961c-4aa2-9c97-6e8d4e24f536/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Birkenheim Ramsau - Sommer 2 "
+        },
+        {
+          "@language": "en",
+          "@value": "Birkenheim Ramsau - Sommer 2 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Birkenheim Ramsau - Sommer 2 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb862dc6-6ad5-485c-99ef-d361bebdbe1b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Birkenheim Ramsau - Sommer 3 "
+        },
+        {
+          "@language": "en",
+          "@value": "Birkenheim Ramsau - Sommer 3 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Birkenheim Ramsau - Sommer 3 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8c0f152c-0db8-4bce-8bd4-833969b6c0a0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Birkenheim Ramsau - Sommer 4 "
+        },
+        {
+          "@language": "en",
+          "@value": "Birkenheim Ramsau - Sommer 4 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Birkenheim Ramsau - Sommer 4 "
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2053603480944",
+    "longitude": "11.8733239173889"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die  Wohnung  Tristner im  II  Stock  besteht  aus zwei großen  Schlafzimmern mit  Dusche/WC , Balkon  Südseite sowie einer Wohnküche mit  SAT/TV   ca.  60 m³  für  3 - 5 Personen"
+        },
+        {
+          "@language": "en",
+          "@value": "big appartement, living kitchen, shower/WC, balvony, TV"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент Тристнер на 3 этаже. В апартаменте есть 2 большие спальни с душем и туалетом, балкон на южную сторону. Кухня-гостиная со спутниковым ТВ. Прим. 60 м³, на 3-5 чел. "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appart Tristner"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Natur Entschleunigung"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet, 2 спальни"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Natur Entschleunigung - Urlaub im Naturpark\nDie Besonderheiten der Natur- und Kulturlandschaft der Naturparkregion können in den 130 Partnerunterkünften aus erster Hand erfahren werden. Partnerbetriebe teilen den Schutzgedanken des Naturparks und tragen den Naturpark direkt zu den Gästen.\n·starke Verbundenheit mit dem Naturpark\n·kompetente Information der Naturpark-Gastgeber über die Naturparkregion\n·kostenfreie Teilnahme an den bis zu täglich vier geführten Wanderungen des Naturparks\n·freie Benützung der Naturparkbibliothek\n·freier Eintritt in die Naturpark-Ausstellung „Gletscher.Welten“\n·1 Zillertal Activcard für 6 Tage - freie Benutzung der meisten öffentlichen Verkehrsmittel, täglich eine Berg- und Talfahrt mit einer von 11 Bergbahnen\n·Preis: 7 ÜF im Naturpark-Partnerbetrieb\n"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Schutzwaldaufforstung Ginzling"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet, 2 спальни"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Freiwilligenarbeit im Naturpark - „Schutzwald-Projekt Ginzling“\nDie gezielte Aufforstung von steilen Berghängen ist eine wichtige Schutzmaßnahme, um Naturgefahren wie Lawinen entgegenzuwirken.\nAufgabe \u0026 Nutzen: pflanzen von Jungbäumen oberhalb des Bergsteigerdorfs Ginzling, Erhaltung des Schutzwaldes oberhalb der Gemeinde.\n"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Bergmahd Brandberg"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet, 2 спальни"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Freiwilligenarbeit im Naturpark - Bergmahd in Brandberg\nDie sonnigen, blumenreichen Bergmähder auf 1800 m sind ein alpines Kulturerbe, das von Verbuschung bedroht ist.\nAufgabe \u0026 Nutzen: Schwenden (Latschen schneiden), Eindämmen von wildem Strauchwuchs, Erhaltung der Bergmähder und damit der einmaligen Artenvielfalt.\nÜbernachtungen, davon 2 Tage Programm mit dem Naturpark inklusive 1 Übernachtung mit Frühstück am Kolmhaus in Brandberg inmitten der Bergmähder.\n\n"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Bergbauern Alltag - Hautnah"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Pauschalen Hochgebirgs-Naturpark Zillertaler-Alpen \nBergbauernalltag hautnah\n\nFreiwilliges Engagement für den Naturpark\nUnterstütze gemeinsam mit den Naturpark-Rangern die Bergbauern bei der Pflege ihrer artenreichen Magerweiden. Diese liegen auf 1000 m im Bergsteigerdorf Ginzling und sollen für kommende Generationen erhalten bleiben. Aufgabe \u0026 Nutzen: Schwenden (Sträucher schneiden), Ampfer stechen und Aufrechterhaltung von Steinmauern, Erhaltung der Artenvielfalt auf Magerweiden.\n\n\nZeitraum:\n11. bis 18. Juli 2015 (Anmeldeschluss: 4. Juli 2015)\n\nInkludierte Leistungen:\n\n•\t7 Übernachtungen mit Frühstück in einem Naturparkpartnerbetrieb\n•\t2 Tage Aktivität gemeinsam mit den Bergbauern\n•\tArbeitsgeräte werden gestellt\n•\t2 x Mittagsjause mit Produkten vom Bauernhof \n•\tKostenfreie Teilnahme an den geführten Wanderungen des Naturpark-Sommerprogramms\n•\tFreier Eintritt in die Naturpark-Ausstellung „Gletscher.Welten“\n•\tAbschiedsgeschenk\n"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Erlebnispauschale"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Pauschalen Hochgebirgs-Naturpark Zillertaler-Alpen \nNaturpark-Erlebniswoche\n\nUrlaub im Naturpark\nDie Besonderheiten der Natur- und Kulturlandschaft der Naturparkregion können in über 100 Naturpark-Partnerbetrieben aus erster Hand erfahren werden. Partnerbetriebe zeichnet ihre starke Verbundenheit mit dem Naturpark aus, sie teilen den Schutzgedanken des Naturparks und stehen ihren Gästen gerne mit kompetenten Informationen über die Naturparkregion und ihre Besonderheiten zur Seite.\n\n\nZeitraum:\n30. Mai bis 11. Oktober 2015 \n\nInkludierte Leistungen:\n\n•\t7 Übernachtungen mit Frühstück in einem Naturparkpartnerbetrieb\n•\tKostenfreie Teilnahme an den geführten Wanderungen des Naturpark-Sommerprogramms\n•\tFreie Benutzung der Naturparkbibliothek\n•\tFreier Eintritt in die Naturpark-Ausstellung „Gletscher.Welten“\n•\t1 Zillertal Activcard für 6 Tage - freie Benutzung der meisten öffentlichen Verkehrsmittel, \ntäglich eine Berg- und Talfahrt mit einer von 11 Bergbahnen\n\n"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "56.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "61.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "71.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

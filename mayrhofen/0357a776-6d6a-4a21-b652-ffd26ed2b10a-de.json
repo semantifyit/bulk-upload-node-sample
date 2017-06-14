@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Steinbockprojekt: Auswilderung 2017",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Naturparkhaus Ginzling",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ginzling 239",
+      "addressLocality": "Ginzling",
+      "postalCode": "6295",
+      "addressCountry": "AT",
+      "telephone": "+43 5286 52181 ",
+      "faxNumber": "+43 5286 5218-4",
+      "email": "info@naturpark-zillertal.at",
+      "url": "http://www.naturpark-zillertal.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Greizer Hütte",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Floite 300",
+      "addressLocality": "Ginzling",
+      "postalCode": "6295",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5282 3211",
+      "email": "greizerhuette@aon.at",
+      "url": "www.alpenverein.at"
+    }
+  },
+  "description": "Nähere Informationen folgen!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad6bea5c-6cea-477f-8713-63e3bbfa2931/99/image.jpg",
+      "caption": "Steinbockauswilderung"
+    }
+  ],
+  "startDate": "2017-06-29T00:00:00",
+  "endDate": "2017-06-29"
+}

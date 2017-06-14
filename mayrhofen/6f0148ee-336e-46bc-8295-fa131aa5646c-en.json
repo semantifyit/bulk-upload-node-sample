@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Gasthaus Zimmereben 853m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1734509823412",
+    "longitude": "11.85910820961"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zimmereben",
+    "streetAddress": "Zimmereben 646",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 380 62 03",
+    "email": "info@zimmereben.at",
+    "url": "www.zimmereben.at"
+  },
+  "description": [
+    "Summer \n24. March till end of October 2017 \nTuesday rest day \nno overnight stay possible",
+    "We are the perfect location for you to rest and unwind. Treat yourself to something delicious on the sunny terrace and enjoy the magnificent views of Mayrhofen and the Zillertal valley. For your dining pleasure, we are happy to provide a variety of homemade delicacies.\nIn addition to the cottage is a lovingly designed playground. Perhaps there is also somethign interesting to discover in the surrounding forest."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4990027e-e136-43c5-b515-9eb7326edbd2/99/image.jpg",
+      "caption": "Zimmereben"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a2e8ce1-6d84-4723-864f-4d9f277756e7/99/image.jpg",
+      "caption": "Zimmereben 2"
+    }
+  ],
+  "url": [
+    "http://www.zimmereben.at"
+  ]
+}

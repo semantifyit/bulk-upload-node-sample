@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Almhof Roswitha",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.207149737427",
+    "longitude": "11.8175232410431"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Almhof Roswitha",
+    "streetAddress": "Schwendberg 532",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3762 ",
+    "faxNumber": "(0043) 5282 3762 53",
+    "email": "info@almhof-roswitha.at",
+    "url": "http://www.almhof-roswitha.at"
+  },
+  "description": "Genußvoll entspannt, einfach Tirolerisch - das Hotel Almhof Roswitha im Zillertal!\nDas Hotel Almhof Roswitha, unser feines, kleines Refugium, in idyllischer Lage, auf 1.400 m Seehöhe an der Zillertaler Höhenstraße und nur wenige Minuten vom Skigebiet Penken gelegen.\nOb Winter oder Sommer, ungetrübt und echt, Urlaub inmitten der Tiroler Berge bei uns am Hochschwendberg.\nWir laden Sie ein, verbingen Sie erholsame und anregende Tage bei uns im Almhof Roswitha.\nIhre Familie Schneeberger.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/631ca2be-d513-4893-b2c9-73a4ed096b5c/99/image.jpg",
+      "caption": "Roswitha"
+    }
+  ],
+  "url": [
+    "http://www.almhof-roswitha.at"
+  ]
+}

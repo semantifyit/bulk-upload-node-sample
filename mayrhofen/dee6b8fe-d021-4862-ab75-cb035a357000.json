@@ -1,0 +1,141 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Brewery"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Schaubrennerei Stiegenhaushof"
+    },
+    {
+      "@language": "de",
+      "@value": "Schaubrennerei Stiegenhaushof"
+    },
+    {
+      "@language": "ru",
+      "@value": "Schaubrennerei Stiegenhaushof"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1974148762668",
+    "longitude": "11.8588560819626"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendau Dorf 130",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 6641 983 150",
+    "faxNumber": "0043 5285 63990",
+    "email": "f.fankhauser@utanet.at",
+    "url": "http://www.stiegenhaushof.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich willkommen in der Edelbrennerei Stiegenhaushof\nBei uns spielt die Liebe zur Natur eine große Rolle, daher steckt in unseren Produkten auch jede Menge Herzblut drinnen. Das schmeckt man, denn die Herstellung von hochwertigen Edelbränden  ist eine Wissenschaft für sich.\nDas nötige Wissen rund um das Brennen wird im Stiegenhaushof seit jeher von Generation zu Generation weitergegeben.\n\n Qualität entscheidet ...\nHerausgekommen sind dabei feinste Destillate, die nicht nur national sondern auch international überzeugen konnten und mehrfach prämiert wurden.\n\nGeschmack der Natur ...\nBei uns finden nur die besten Zutaten den Weg in die Flasche - und das schmeckt man. Früchte aus unserem Obstgarten, alpine Pflanzen und glasklares Quellwasser unserer Heimat sind der Garant für unverfälschten, ehrlichen Geschmack.\nBrennmeister aus Leidenschaft.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "See and get a feel for the legend of \u0027distilling\u0027 at the Stiegenhaushof and taste a wide selection of high quality brandies and liqueurs made fdrom local fruit.\nThe noble brandies from the Stiegenhaushof distillery have won many intenational awards.\nVisit and tastings available on request.\nIt is open every day.\nThe best time to visit is all year around.\nGroups starting from 5 people (max. 20 people) with advance booking."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f1c2a2ee-fd9d-4c5d-b1d7-7575d588dee1/99/image.bmp",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Schnapsbrennerei "
+        },
+        {
+          "@language": "de",
+          "@value": "Schnapsbrennerei "
+        },
+        {
+          "@language": "ru",
+          "@value": "Schnapsbrennerei "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2a20209-3702-45ee-923f-065437e54e7a/99/image.png",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c8ea4640-10e1-4e44-9667-3aca148ae89c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Schnapsbrennerei 2"
+        },
+        {
+          "@language": "de",
+          "@value": "Schnapsbrennerei 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schnapsbrennerei 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/410d76aa-9b11-432c-bd0c-b12133d93c2f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Lager"
+        },
+        {
+          "@language": "de",
+          "@value": "Lager"
+        },
+        {
+          "@language": "ru",
+          "@value": "Lager"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/097ff9ae-9c3f-4ec2-910a-e1d4376adc64/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Sitzecke"
+        },
+        {
+          "@language": "de",
+          "@value": "Sitzecke"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sitzecke"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.stiegenhaushof.at"
+  ]
+}

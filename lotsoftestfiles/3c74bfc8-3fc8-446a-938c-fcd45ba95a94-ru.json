@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Festival"
+  ],
+  "name": "Cattle Drive at Gasthof Schwarzenstein",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Schwarzenstein, Hotel-Gasthaus ",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Karl",
+      "familyName": "Geisler"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ginzling 216",
+      "addressLocality": "Ginzling",
+      "postalCode": "6295",
+      "addressCountry": "AT",
+      "telephone": "+43 5286 5226",
+      "faxNumber": "+43 5286 52264",
+      "email": "info@schwarzenstein-ginzling.at",
+      "url": "http://www.schwarzenstein-ginzling.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Schwarzenstein, Hotel-Gasthaus ",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ginzling 216",
+      "addressLocality": "Ginzling",
+      "postalCode": "6295",
+      "addressCountry": "AT",
+      "telephone": "+43 5286 5226",
+      "faxNumber": "+43 5286 52264",
+      "email": "info@schwarzenstein-ginzling.at",
+      "url": "http://www.schwarzenstein-ginzling.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9cf36454-92a3-4ab0-a387-9ab5ff95f40c/99/image.jpg",
+      "caption": "Gasthof Schwarzenstein"
+    }
+  ],
+  "startDate": "2017-09-29T00:00:00",
+  "endDate": "2017-09-29"
+}

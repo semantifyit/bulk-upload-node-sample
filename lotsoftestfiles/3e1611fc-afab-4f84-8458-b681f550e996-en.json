@@ -1,0 +1,235 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d3E1611FC-AFAB-4F84-8458-B681F550E996"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Franz Josef, Gästehaus",
+    "streetAddress": "Lindenstraße 28",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3152",
+    "faxNumber": "0043 5282 51255",
+    "email": "gaestehaus.franz-josef@aon.at",
+    "url": "http://www.gästehausfranz-josef.com"
+  },
+  "name": "Gästehaus Franz Josef",
+  "description": [
+    "Breakfast room, lounge with satellite TV, bath on landing, use of kitchen, terrace, some with covered car parking, central located, skiing  areas 1,5 km, fun swimming pool, tennis court, childrens playground 50 m",
+    "Check in 13.00 Uhr - Check out 09.30 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14f28a67-be4b-49f6-8178-e48b16f4c09b/99/image.jpg",
+      "caption": "Gästehaus Franz Josef Schwendau - Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3d94855-d3e1-4957-96a7-e94fd2344bf1/99/image.jpg",
+      "caption": "Spätherbst"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f1351cf-09f1-462c-bf22-3bea2dafe58d/99/image.jpg",
+      "caption": "Eingang"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2017121392848",
+    "longitude": "11.865599155426"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "All rooms with shower, WC and balcony",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "24.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Triple room, shower, toilet",
+      "description": "All rooms with shower, WC and balcony",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Triple room, shower, toilet",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/38c7fec2-c9d8-45e8-b6b1-6d37baca113f/99/image.jpg",
+              "caption": "Doppelbett"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a5fed402-3293-46b5-975a-43db1452569d/99/image.jpg",
+              "caption": "Sitzecke"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ed8003b7-741d-4b9c-b99b-9e0a161e5318/99/image.jpg",
+              "caption": "Zimmerplan"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "24.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 2 bed rooms",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/95925a67-57a1-4953-998f-544f1abcafe4/99/image.jpg",
+              "caption": "Plan"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/7f540d09-a1c6-4ea1-8c79-e2a6a549780d/99/image.jpg",
+              "caption": "Gang"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/fd3724bd-9faa-449d-b99c-f1fe0e63e360/99/image.jpg",
+              "caption": "Küche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/b7df9860-83f2-430f-8fa7-6cc64f4d72c8/99/image.jpg",
+              "caption": "Sitzecke"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a51ebd29-16c1-4b2d-bceb-fce56fae839f/99/image.jpg",
+              "caption": "Zimmer 1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/11beb6fa-188a-43ef-8cef-a63960111667/99/image.jpg",
+              "caption": "Zimmer1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/bf8a9767-25a6-44cb-a36d-1e4eafceb670/99/image.jpg",
+              "caption": "Zimmer 2"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "22.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "22.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

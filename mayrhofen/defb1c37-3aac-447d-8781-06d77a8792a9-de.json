@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Ski-\u0026 Linienbus Mayrhofen - Ginzling 03.12.2016 - 23.04.2017",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.16962",
+    "longitude": "11.8627685"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhof Mayrhofen",
+    "streetAddress": "Am Marktplatz 200",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5244 60 6290",
+    "email": "office@zillertalbahn.at",
+    "url": "http://www.zillertalbahn.at"
+  },
+  "description": "Ski- und Linienbus Ginzling",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26aab1d9-3eb9-44b0-897c-ad8b61b8f7d2/99/image.jpg",
+      "caption": "Logo"
+    }
+  ]
+}

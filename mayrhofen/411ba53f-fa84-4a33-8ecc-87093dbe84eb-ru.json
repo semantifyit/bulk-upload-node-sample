@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "Fitness Studio - Hotel Neuhaus, Village Gym",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1694764",
+    "longitude": "11.8635603"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpendomizil Neuhaus",
+    "streetAddress": "Am Marktplatz 202",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 6703",
+    "faxNumber": "+43 5285 63808",
+    "email": "info@alpendomizil.at",
+    "url": "http://www.alpendomizil.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56b3ce17-0983-4196-b2ac-79b0e137f4fb/99/image.jpg",
+      "caption": "Village Gym"
+    }
+  ],
+  "url": [
+    "http://www.berghof.cc",
+    "http://www.alpendomizil.at"
+  ]
+}

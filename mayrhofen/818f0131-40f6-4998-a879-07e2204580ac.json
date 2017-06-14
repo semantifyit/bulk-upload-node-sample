@@ -1,0 +1,65 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Tonis Massagen"
+    },
+    {
+      "@language": "de",
+      "@value": "Tonis Massagen"
+    },
+    {
+      "@language": "ru",
+      "@value": "Tonis Massagen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1777185",
+    "longitude": "11.8622542"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tonis Massagen",
+    "streetAddress": "Burgschrofen 523",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 1364349",
+    "email": "tonis-massagen@aon.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Öffnungszeiten nach telefonischer Vereinbarung!\n\nMein Angebot:\n-\u003e Klassische Vollmassage\n-\u003e Klassische Teilmassage\n-\u003e Sportmassage\n-\u003e Energetische Massage\n-\u003e Moxibution\n-\u003e Bindegewebsmassage\n-\u003e Segmentmassage\n-\u003e Hot Stone Massage\n-\u003e Fußreflexmassage\n-\u003e Wohlfühlmassage nach Ihren Wünschen"
+    },
+    {
+      "@language": "de",
+      "@value": "Termine nach telefonischer Vereinbarung!"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/01c1aa28-db8b-450c-bf79-f3f3cf754919/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Tonis Massagen"
+        },
+        {
+          "@language": "de",
+          "@value": "Tonis Massagen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Tonis Massagen"
+        }
+      ]
+    }
+  ]
+}

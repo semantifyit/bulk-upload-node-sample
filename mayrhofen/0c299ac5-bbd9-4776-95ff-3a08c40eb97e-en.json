@@ -1,0 +1,62 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d0C299AC5-BBD9-4776-95FF-3A08C40EB97E"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brindlingalm",
+    "streetAddress": "Hochschwendberg 536",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 2683"
+  },
+  "name": "Brindlingalm",
+  "description": [
+    "our comfortabel hut is on 1700 meters and is the best starting point for hiking-tours, enjoy the fresh mountain air and the wonderful view to the valley and the zillertaler alps!",
+    "childrens reduction on request\n",
+    "Check in 12.00 - Check out 10.00 "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf5ee397-ce18-4a0f-b4c4-9981795c1280/99/image.jpg",
+      "caption": "Brindlingalm Hippach"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2075068791917",
+    "longitude": "11.8341046571732"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, running hot/cold water",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with running hot/cold water",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

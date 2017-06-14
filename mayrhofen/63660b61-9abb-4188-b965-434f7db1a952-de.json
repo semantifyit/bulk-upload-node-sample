@@ -1,0 +1,496 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.postresidenz.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Postresidenz Mayrhofen",
+    "streetAddress": "Am Marienbrunnen 348 B",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62204",
+    "faxNumber": "(+43) 5285 6807",
+    "email": "info@postresidenz.at",
+    "url": "http://www.postresidenz.at"
+  },
+  "name": "Postresidenz Mayrhofen",
+  "description": [
+    "NEU: Ab Winter 2016/2017\nDie wunderschönen, hochwertig ausgestatteten Luxus-Apartments begeistern durch einen Mix aus Tradition und Moderne im alpinen Stil. \nDirekt an der Postresidenz liegt unser Posthotel Mayrhofen, welches für besondere Urlaubstage sorgt. Genießen Sie unvergessliche Tage in einem Luxus Apartment mit dem Service eines 3 Sterne Hotel Garni. Das anliegende Posthotel Mayrhofen bietet auch den Residenz Gästen einen Wellnessbereich mit finnischer Sauna, Bio-Sauna, Infrarotkabine, Ruhebereich, eine Hotelbar, reichhaltigem Frühstücksbuffet und vielen weiteren Annehmlichkeiten.\n\nNeu bei uns ab Winter 2016 / 2017 Der Skipass Verkauf! \nGerne können unsere Hausgäste direkt bei uns an der Rezeption im Posthotel einen Skipass kaufen für Ihren Aufentalt bei uns !\n\n",
+    "Kinderermäßigung - Halbpension:\n0-3 Jahre    Kostenlos\n4-6 Jahre    5,- Euro\n7-11 Jahre  8,- Euro\n",
+    "Gerne erwarten wir unsere Gäste, und Freunde der Postresidenz in der Zeit von 14:00 - 22:00.\n\nSollte der Gast nach 22 Uhr anreisen bitten wir den Gast uns telefonsich oder per Mail zu informieren.",
+    "Posthotel Mayrhofen\nPostresidenz Mayrhofen \nUrlaub im Zillertal\nSkiurlaub im Zillertal"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "22"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a56b23b8-2de4-4b73-b25a-6366033bb3e4/99/image.jpg",
+      "caption": "Postresidenz_Am_MArienbrunnen_348_Haus_Winter_neu_"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4079d002-468e-418b-8c2d-27dd7c62b3b4/99/image.png",
+      "caption": "Postresidenz Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d29eb37c-b101-43f6-9e17-63342debadc2/99/image.jpg",
+      "caption": "Postresidenz Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9bcc8f8b-ea85-48b6-a427-3489f136bca8/99/image.jpg",
+      "caption": "Postresidenz Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d38e5697-ca8a-4e95-a8c1-2f7b0d33470d/99/image.jpg",
+      "caption": "Postresidenz Winter 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2b243f92-9a28-4655-ba02-85c9ca34e954/99/image.jpg",
+      "caption": "Postresidenz Winter 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fd5f9057-ebef-464e-a851-48ed1d82a402/99/image.jpg",
+      "caption": "Postresidenz Winter 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/80a4aeab-bc89-46d0-b8fc-9e1ab06cc6e7/99/image.jpg",
+      "caption": "Postresidenz Winter 6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5bff1084-b56c-4d6b-add5-7c518efafc9b/99/image.jpg",
+      "caption": "Postresidenz Winter 7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6d842fa-084e-4fd8-96b5-d6c34525bd8f/99/image.jpg",
+      "caption": "Postresidenz Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/36e85720-3eb6-45e4-a240-95db622afa9b/99/image.jpg",
+      "caption": "Postresidenz Mayrhofen - Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9052874-b25c-4a7a-9849-fcb64e86d6cc/99/image.jpg",
+      "caption": "Postresidenz_Am_Marienbrunnen_348_Mayrhofen_App_20"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1677846",
+    "longitude": "11.8654359"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Hotelappartement, Toilette und Bad/Dusche getrennt, Ost",
+      "description": "Apartment \"Enzian\" für 2-4 Personen ca. 56 m² \n\nAusstattung\nIdeal für 2-4 Personen \nWohnfläche ca. 56 m² \n1 Balkon \n1 Schlafzimmer \n1 Schlafcouch \n1 Bad/WC \n1 WC separat\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Enzian",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "120.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "155.00",
+          "maxPrice": "185.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "190.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Apartment \"Alpenrose\" für 4-6 Personen ca. 72 m² \n\nAusstattung\nIdeal für 4-6 Personen \nWohnfläche ca. 72 m² \n1 Balkon \n2 Schlafzimmer \n1 Schlafcouch \n2 Bäder/WC\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Alpenrose",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "200.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "200.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "200.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "235.00",
+          "maxPrice": "315.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "270.00",
+          "maxPrice": "350.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Hotelappartement, Toilette und Bad/Dusche getrennt, West",
+      "description": "Apartment \"Grünberg\" für 4-6 Personen ca. 81 m² \n\nAusstattung\nIdeal für 4-6 Personen \nWohnfläche ca. 81 m² \n1 Balkon \n2 Schlafzimmer \n1 Schlafcouch \n2 Bäder/WC \n1 WC separat\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Grünberg",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "212.00",
+          "maxPrice": "292.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "212.00",
+          "maxPrice": "292.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "212.00",
+          "maxPrice": "292.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "247.00",
+          "maxPrice": "327.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "282.00",
+          "maxPrice": "362.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Hotelappartement, Toilette und Bad/Dusche getrennt, Ost",
+      "description": "Apartment \"Ahorn\" für 6-8 Personen ca. 86 m² \n\nAusstattung\nIdeal für 6-8 Personen \nWohnfläche ca. 86 m² \n1 Balkon \n3 Schlafzimmer \n1 Schlafcouch \n2 Bäder/WC \n1 WC separat\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Ahorn",
+          "description": "Apartment \"Ahorn\" für 6-8 Personen ca. 86 m² \nAusstattung\nIdeal für 6-8 Personen \nWohnfläche ca. 86 m² \n1 Balkon \n3 Schlafzimmer \n1 Schlafcouch \n2 Bäder/WC \n1 WC separat\n",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "288.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "288.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "288.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "288.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "323.00",
+          "maxPrice": "425.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "358.00",
+          "maxPrice": "460.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Hotelappartement, Toilette und Bad/Dusche getrennt, West",
+      "description": "Apartment \"Penken\" für 4-6 Personen ca. 102 m² \n\nAusstattung\nIdeal für 4-6 Personen \nWohnfläche ca. 102 m² \n1 Balkon \n2 Schlafzimmer \n1 Schlafcouch \n2 Bäder/WC \n1 WC separat\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Penken",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "238.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "238.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "238.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "273.00",
+          "maxPrice": "355.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "308.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Hotelappartement, Toilette und Bad/Dusche getrennt, Ost",
+      "description": "Apartment \"Edelweiss\" für 6-8 Personen ca. 129 m² \n\nAusstattung\nIdeal für 6-8 Personen \nWohnfläche ca. 129 m² \n2 Balkon \n3 Schlafzimmer \n1 Schlafcoach \n3 Bäder/WC \n1 WC separat \n1 Sauna\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Edelweiss",
+          "numberOfRooms": "7.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "330.00",
+          "maxPrice": "540.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "330.00",
+          "maxPrice": "540.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "330.00",
+          "maxPrice": "540.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "330.00",
+          "maxPrice": "540.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "365.00",
+          "maxPrice": "575.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "400.00",
+          "maxPrice": "610.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Ideal für 4-6 Personen\nWohnfläche ca. 105 m²\n1 Terrasse mit ca. 120 m² möbliert\n3 Schlafzimmer mit Flat-TV, Safe\n1 Wohnzimmer mit gemütlichem Sitzbereich, Flat-TV, Bose-Soundsystem für das Smartphone\n1 Badezimmer mit Dusche, WC, Fön, Kosmetikspiegel, Pflegeprodukte\n1 Badezimmer mit Badewanne und WC, Kosmetikspiegel, Fön\n1 finnische Privatsauna\n1 voll ausgestattete Küche mit Nespresso Kaffee Maschine\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement „Penthouse“",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "800.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "800.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "800.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

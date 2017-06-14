@@ -1,0 +1,181 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast",
+    "Hotel"
+  ],
+  "url": [
+    "http://members.aon.at/noal",
+    "http://maps.mayrhofen.at/?foreignResource\u003d28B59EFF-CB21-4720-80D3-F73313C03381"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Noal, Landhaus",
+    "streetAddress": "Tuxer Straße 711",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62637",
+    "faxNumber": "0043 5285 62637",
+    "email": "noal@aon.at"
+  },
+  "name": "Landhaus Noal",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3300ba9d-7821-472a-961c-4436a909bfa1/99/image.jpg",
+      "caption": "Landhaus Noal - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4dce92c0-3a91-445f-a03e-6b8717179b0a/99/image.jpg",
+      "caption": "Landhaus Noal  - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8fa0d903-5ba3-4675-a544-a7f958869d7d/99/image.jpg",
+      "caption": "Landhaus Noal - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/778b360a-06e8-430c-82d9-2efd94f9651b/99/image.jpg",
+      "caption": "Landhaus Noal - Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb7a2dcf-906b-4ff3-888f-ce3e143b0914/99/image.jpg",
+      "caption": "Landhaus Noal - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/725349ba-be57-44e7-9d84-8fa2da3145f7/99/image.jpg",
+      "caption": "Landhaus Noal - Schlafzimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1615853443",
+    "longitude": "11.8590518832207"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет, балкон",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет, балкон",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "31.50",
+          "maxPrice": "31.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "31.50",
+          "maxPrice": "31.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, Душевая кабина или ванна, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/990b7a94-7f33-4cd1-9b7c-99acc1b091b2/99/image.jpg",
+              "caption": "SAM_4420"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "20.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

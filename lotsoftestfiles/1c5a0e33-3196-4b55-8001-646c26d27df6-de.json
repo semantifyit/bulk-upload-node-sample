@@ -1,0 +1,79 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsEvent"
+  ],
+  "name": "22. Zillertaler Altherrenrennen am Ahorn",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Skiclub Mayrhofen",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Josef",
+      "familyName": "Wechselberger"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Burgstall 370 a",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 664 130 62 48",
+      "email": "josef.wechselberger@generali.com",
+      "url": "http://www.sc-mayrhofen.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Skiclub Mayrhofen",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Burgstall 370 a",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 664 130 62 48",
+      "email": "josef.wechselberger@generali.com",
+      "url": "http://www.sc-mayrhofen.at"
+    }
+  },
+  "description": "22. Zillertaler Altherren - Skirennen mit Damen als Teampartner\n\nEhrenschutz:\nRiki Spieß und Bürgermeisterin MMag. Monika Wechselberger\n\nStartberechtige Herrenklassen:\nAK IV a Jg. 1956 - 1952\nAK IV b Jg. 1951 - 1947\nAK  V a Jg. 1946 - 1942\nAK  V b Jg. 1941 - 1937\nAK VI a Jg. 1936 - 1932\nAK VI b Jg. 1931 - 1927\nAK VII ! Jg. 1926 und älter\n\nNEU:\nTeamwertung: 2-er Team bestehend aus 1 Frau und 1 Mann - Mindestalter zusammen 100 Jahre!\n\nACHTUNG: Alle Teilnehmen fahren ohne Rennanzug!\n\nProgramm:\nSonntag, 19.03.2017\nab 9.30 Uhr Startnummernausgabe in der Ahornhütte - anschließend Streckenbesichtigung\n10.30 Uhr Start zum 22. Zillertaler Altherren-Skirennen - anschließend Preisverteilung in der Ahornhütte\n\nStrecke: Ahorn / Filzenlift\nLänge: 400 m\nHD: 100 m\nTore: ca. 20\n\nNennungen bis Samstag 18.03.2017, 18.00 Uhr an:\n\nUli Spieß\nT: +43 664 1246830\nE-Mail: uli@spiess.at\n\nNenngeld: € 10,-\n\nDie gemeldeten Teilnehmer erhalten eine ermäßigte Tageskarte an der Kassa der Ahornbahn.\n\n\n\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ef98139-3370-4e54-a8bd-417020f36188/99/image.jpg",
+      "caption": "Altherrenrennen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7adb5720-e839-40df-a123-80e16a08dbd4/99/image.jpg",
+      "caption": "Altherrenrennen1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6af764f9-c6ed-4e7f-bc4a-2e6cc851fdbc/99/image.jpg",
+      "caption": "Altherrenrennen2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9cc30861-a64f-441f-8fc4-17bf5a8c0662/99/image.jpg",
+      "caption": "Altherrenrennen3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fef0a5b6-417f-415c-80f9-5722ac27de68/99/image.jpg",
+      "caption": "Altherrenrennen4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/27fa07a6-54d7-4f92-9113-cfa6e9f07a70/99/image.jpg",
+      "caption": "Altherrenrennen5"
+    }
+  ],
+  "url": [
+    "http://sc-mayrhofen.at"
+  ],
+  "startDate": "2017-03-19T10:30:00",
+  "endDate": "2017-03-19"
+}

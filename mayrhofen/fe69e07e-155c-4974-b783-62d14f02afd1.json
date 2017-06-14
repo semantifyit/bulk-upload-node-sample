@@ -1,0 +1,765 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.gaestehaus-geisler.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003dFE69E07E-155C-4974-B783-62D14F02AFD1"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lindenstraße 41",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2473",
+    "faxNumber": "0043 5282 2473",
+    "email": "gaestehaus-geisler@aon.at",
+    "url": "http://www.hausgeisler.at"
+  },
+  "name": "Gästehaus Geisler",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unsere gepflegte Frühstückspension liegt in sonniger, zentraler Lage in der Tourismusregion Hippach.\nDie umliegenden Gasthöfe sind zu Fuß in wenigen Minuten erreichbar.\nDie Schigebiete \"Zillertal 3000\" und \"Zillertal Arena\" sind sowohl mit dem Ski- Bus als auch mit dem PKW in wenigen Fahrminuten problemlos erreichbar.\nIn unmittelbarer Nähe befinden sich außerdem Freizeiteinrichtungen sowie Rad- und Spazierwege an der Zillerpromenade.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Pauschalwochen im Winter,\nkostenloser Fahrradverleich,\nfreier Eintritt ins Erlebnisschwimmbad Schwendau und Freizeitanlage Hippach"
+    },
+    {
+      "@language": "de",
+      "@value": "Weg: Bei der Ampel rechts abbiegen Richtung Hippach - links einbiegen in die Lindenstrasse - ca. 200 m weiter auf der linken Seite - Hnr. 41"
+    },
+    {
+      "@language": "en",
+      "@value": "Nice bed-and-breakfast in sunny, central position. Sport facilities ski bus stop nearby. Car park, ski boot dryer, free cycle hire, coffee kitchen with refrigerator, recommended private accommodation"
+    },
+    {
+      "@language": "en",
+      "@value": "overal weeks in winter, payless bicycle to rent, free entrance to the experience-outdoor-swimmingpool"
+    },
+    {
+      "@language": "en",
+      "@value": "way-description: turn rigth at the traffic ligths in ramsau - straigt aheas - turn left into Lindenstraße - about 200 meters straight ahead - our house is on the left side - house number 41"
+    },
+    {
+      "@language": "ru",
+      "@value": "Наш дом находится в солнечном местечке в центре туристического региона Хиппах. \t\nДо местной инфрасткуртуры можно добраться в течение нескольких минут. \t\nГорнолыжные курорты \"Циллерталь 3000\" и \"Циллерталь Арена\" всего в нескольких минутах езды на автобусе или машине\t\nВ непосредственной близости пролeгают пешеходные дорожки.\t\n"
+    },
+    {
+      "@language": "ru",
+      "@value": "бесплатный прокат велосипедов \t\nбесплатный вход в аквапарк и местах отдыха Хиппах Швендау\t\n"
+    },
+    {
+      "@language": "ru",
+      "@value": "Путь: На светофоре повернуть направо в направлении Хиппах, далее налево на Lindenstraße через 200 м по левой стороне будет наш дом."
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "36"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/019f9573-f8ed-45fe-8757-09e2d020d456/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/259ef870-1627-4391-a368-67f755944cb1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b240c31f-33cb-48bb-8e34-6c1aec7945ae/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/faf04a65-25c8-4e43-9f2d-19e57ff4f657/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ffa0c177-f498-44ec-96d9-f7b6a1b3557e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 5"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 5"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8eb556de-514b-4cd3-9b70-02493bcd9de7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 6"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 6"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Geisler Schwendau - Sommer 6"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9d80704-a4ae-4f8a-baca-bee81a4df4be/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Geisler Schwendau - Frühstücksraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Geisler Schwendau - Frühstücksraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Geisler Schwendau - Frühstücksraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/434fda2c-86af-4432-aa06-860a7a05aa68/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Geisler Schwendau - Frühstücksraum 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Geisler Schwendau - Frühstücksraum 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Geisler Schwendau - Frühstücksraum 1"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.201500746869",
+    "longitude": "11.8659693002701"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Zimmerausstattung:\nGepflegtes gemütliches Gästehaus in sonniger Lage. Für jedes Zimmer steht ein Parkplatz bereit. Am Morgen wird Ihnen ein reichhaltiges abwechslungsreiches Frühstück serviert. Die Schibushaltestelle liegt ca. 100m entfernt. Ein Ski- Keller mit Ski- Schuhtrockner und Trockenraum für Schibekleidung ist ebenfalls vorhanden.\nFür kleinere Ausflüge stehen Fahrräder kostenlos zur Verfügung.\nWir unterstützen Sie bei der Planung Ihrer Berg- und Wandertouren. \nAlle Zimmer sind ausgestattet mit: Sat/TV  DU/WC  Balkon  Safe  Haartrockner  W-LAN\t\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Room facilities:\nWell kept and welcoming guest house in a sunny location. Parking space is available for every room. You will be served with a generous and varied breakfast in the mornings. The ski bus stop is only ca. 100 metres away. A ski cellar with boot dryer and drying room for ski wear is also available.\nOur cycles may be used free of charge for excursions into the surrounding area.\nWe are happy to offer assistance in planning mountain and hiking tours. \n\nAll rooms are equipped with:\n·\tSat/TV \n·\tShower/WC\n·\tBalcony\n·\tSafe \n·\tWi-Fi\n·\tHair dryer\n\nOur well kept B \u0026 B can be found in a sunny, central position in the Hippach tourist region.\nThe surrounding guest houses are only a few minutes’ walk away.\n\n\"Zillertal 3000\" and the \"Zillertal Arena\" ski areas are easily accessible in a couple of minutes by ski bus or car.\n\nThere are also recreational facilities in the immediate vicinity, as well as cycle and walking trails along the Ziller Promenade.\n"
+        },
+        {
+          "@language": "ru",
+          "@value": "Услуги номера: \t\nУхоженный уютный гостевой дом в солнечном месте. Для каждого номера есть место на автостоянке. Утром богатый разнообразный завтрак. Остановка лыжного автобуса находится примерно в 100 метрах от отеля. Лыжный подвал с сушилкой для лыжных ботинок и комната для сушки лыжного одежды, также доступны. \t\nБесплатный прокат велосипедов для коротких поездок.\t\nМы поможем вам в планировании ваших горный маршрутов. \t\nВсе номера оснащены спутниковым ТВ, душем / туалетом балконом сейфом феном и  Wi-Fi\t\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Winterpauschale inkl. Skipass"
+            },
+            {
+              "@language": "en",
+              "@value": "Winterpauschale inkl. Skipass"
+            },
+            {
+              "@language": "ru",
+              "@value": "Winterpauschale inkl. Skipass"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Winterpauschale 3 Übernachtungen"
+            },
+            {
+              "@language": "en",
+              "@value": "Winterpauschale 3 Übernachtungen"
+            },
+            {
+              "@language": "ru",
+              "@value": "Winterpauschale 3 Übernachtungen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Winterpauschale 5 Übernachtungen"
+            },
+            {
+              "@language": "en",
+              "@value": "Winterpauschale 5 Übernachtungen"
+            },
+            {
+              "@language": "ru",
+              "@value": "Winterpauschale 5 Übernachtungen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Winterpauschale 7 Übernachtungen"
+            },
+            {
+              "@language": "en",
+              "@value": "Winterpauschale 7 Übernachtungen"
+            },
+            {
+              "@language": "ru",
+              "@value": "Winterpauschale 7 Übernachtungen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Almabtrieb 3N, Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Almabtrieb 3N, Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Almabtrieb 3N, Doppelzimmer mit Dusche, WC"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Almabtrieb 5N, Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Almabtrieb 5N, Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Almabtrieb 5N, Doppelzimmer mit Dusche, WC"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Almabtrieb 7N, Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Almabtrieb 7N, Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Almabtrieb 7N, Doppelzimmer mit Dusche, WC"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Sommerpauschale inkl Z-Card, Doppelzimmer"
+            },
+            {
+              "@language": "en",
+              "@value": "Sommerpauschale inkl Z-Card, Doppelzimmer"
+            },
+            {
+              "@language": "ru",
+              "@value": "Sommerpauschale inkl Z-Card, Doppelzimmer"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "23.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "417.00",
+          "maxPrice": "417.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "190.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "319.00",
+          "maxPrice": "319.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "445.00",
+          "maxPrice": "445.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "123.00",
+          "maxPrice": "123.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "172.00",
+          "maxPrice": "172.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "230.00",
+          "maxPrice": "230.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Zimmerausstattung:\nGepflegtes gemütliches Gästehaus in sonniger Lage. Für jedes Zimmer steht ein Parkplatz bereit. Am Morgen wird Ihnen ein reichhaltiges abwechslungsreiches Frühstück serviert. Die Schibushaltestelle liegt ca. 100m entfernt. Ein Ski- Keller mit Ski- Schuhtrockner und Trockenraum für Schibekleidung ist ebenfalls vorhanden.\nFür kleinere Ausflüge stehen Fahrräder kostenlos zur Verfügung.\nWir unterstützen Sie bei der Planung Ihrer Berg- und Wandertouren. \nAlle Zimmer sind ausgestattet mit: Sat/TV  DU/WC  Balkon  Safe  Haartrockner  W-LAN\t\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Room facilities:\nWell kept and welcoming guest house in a sunny location. Parking space is available for every room. You will be served with a generous and varied breakfast in the mornings. The ski bus stop is only ca. 100 metres away. A ski cellar with boot dryer and drying room for ski wear is also available.\nOur cycles may be used free of charge for excursions into the surrounding area.\nWe are happy to offer assistance in planning mountain and hiking tours. \n\nAll rooms are equipped with:\n·\tSat/TV \n·\tShower/WC\n·\tBalcony\n·\tSafe \n·\tWi-Fi\n·\tHair dryer\n\nOur well kept B \u0026 B can be found in a sunny, central position in the Hippach tourist region.\nThe surrounding guest houses are only a few minutes’ walk away.\n\n\"Zillertal 3000\" and the \"Zillertal Arena\" ski areas are easily accessible in a couple of minutes by ski bus or car.\n\nThere are also recreational facilities in the immediate vicinity, as well as cycle and walking trails along the Ziller Promenade."
+        },
+        {
+          "@language": "ru",
+          "@value": "Услуги номера: \t\nУхоженный уютный гостевой дом в солнечном месте. Для каждого номера есть место на автостоянке. Утром богатый разнообразный завтрак. Остановка лыжного автобуса находится примерно в 100 метрах от отеля. Лыжный подвал с сушилкой для лыжных ботинок и комната для сушки лыжного одежды, также доступны. \t\nБесплатный прокат велосипедов для коротких поездок.\t\nМы поможем вам в планировании ваших горный маршрутов. \t\nВсе номера оснащены спутниковым ТВ, душем / туалетом балконом сейфом феном и  Wi-Fi\t\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Dreibettzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "triple room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "3-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Winterpauschale"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "7 Übernachtungen mit Frühstück\n6 Tages Skipass"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "23.00",
+          "maxPrice": "27.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "23.00",
+          "maxPrice": "27.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Zimmerausstattung:\nGepflegtes gemütliches Gästehaus in sonniger Lage. Für jedes Zimmer steht ein Parkplatz bereit. Am Morgen wird Ihnen ein reichhaltiges abwechslungsreiches Frühstück serviert. Die Schibushaltestelle liegt ca. 100m entfernt. Ein Ski- Keller mit Ski- Schuhtrockner und Trockenraum für Schibekleidung ist ebenfalls vorhanden.\nFür kleinere Ausflüge stehen Fahrräder kostenlos zur Verfügung.\nWir unterstützen Sie bei der Planung Ihrer Berg- und Wandertouren. \nAlle Zimmer sind ausgestattet mit: Sat/TV  DU/WC  Balkon  Safe  Haartrockner  W-LAN\t\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Room facilities:\nWell kept and welcoming guest house in a sunny location. Parking space is available for every room. You will be served with a generous and varied breakfast in the mornings. The ski bus stop is only ca. 100 metres away. A ski cellar with boot dryer and drying room for ski wear is also available.\nOur cycles may be used free of charge for excursions into the surrounding area.\nWe are happy to offer assistance in planning mountain and hiking tours. \n\nAll rooms are equipped with:\n·\tSat/TV \n·\tShower/WC\n·\tBalcony\n·\tSafe \n·\tWi-Fi\n·\tHair dryer\n\nOur well kept B \u0026 B can be found in a sunny, central position in the Hippach tourist region.\nThe surrounding guest houses are only a few minutes’ walk away.\n\n\"Zillertal 3000\" and the \"Zillertal Arena\" ski areas are easily accessible in a couple of minutes by ski bus or car.\n\nThere are also recreational facilities in the immediate vicinity, as well as cycle and walking trails along the Ziller Promenade."
+        },
+        {
+          "@language": "ru",
+          "@value": "Услуги номера: \t\nУхоженный уютный гостевой дом в солнечном месте. Для каждого номера есть место на автостоянке. Утром богатый разнообразный завтрак. Остановка лыжного автобуса находится примерно в 100 метрах от отеля. Лыжный подвал с сушилкой для лыжных ботинок и комната для сушки лыжного одежды, также доступны. \t\nБесплатный прокат велосипедов для коротких поездок.\t\nМы поможем вам в планировании ваших горный маршрутов. \t\nВсе номера оснащены спутниковым ТВ, душем / туалетом балконом сейфом феном и  Wi-Fi\t\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC/B"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "23.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ginzling.net",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA0203B5B-713C-4546-B008-317487EF0800"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dornauberg 25",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 664 5730203",
+    "email": "rudolf.klausner@ginzling.net",
+    "url": "http://www.ginzling.net"
+  },
+  "name": "Klausner Inge",
+  "description": [
+    "Unser Haus liegt in ruhiger, sonniger Lage neben der Kirche.\nEinkaufsmöglichkeit direkt im Haus.\nHunde Willkommen!\n",
+    "Preis inkl. Endreinigung, Bettwäsche, Handtücher, Strom, Kaffeemaschine usw. In Begleitung ihrer Eltern sind Kinder bis 3 Jahre frei - Kinder von 4 bis 9 Jahren bezahlen nur die Hälfte - Kinder von 9 bis 14 Jahren zahlen 75%. ",
+    "B 169 Richtung Mayrhofen - auf der Umfahrungsstrasse weiter gerade aus Richtung Ginzling (Zemmgrund) - durch den Tunnel oder über die Schluchtstrasse - 8 km bis Ginzling."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6be9512f-1330-472e-9f09-5b2b4e2672ce/99/image.jpg",
+      "caption": "Klausner Inge Ginzling - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26e94909-8c6b-414a-8869-a1d9f5878cec/99/image.jpg",
+      "caption": "Klausner Inge Ginzling - Mitglied Partnerbetrieb"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1001725022601",
+    "longitude": "11.8079316616058"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Wohnung PETER hat eine Größe von ca. 50 m². \nAufgeteilt in kleine Wohnküche, Wohn- und Schlafzimmer mit  Kabel-Farb-TV \n(32 Programme), 1 Doppelzimmer sowie Dusche und WC. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Peter/Wohn-Schlafraum/1 Schlafraum/D",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Wohnung ANNA hat eine Größe von ca. 65 m² mit \"Gaulofen\", sowie Dusche und WC. Beide Wohnungen für 2 bis 4 Personen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Anna/Wohn-Schlafraum/1 Schlafraum/Du",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

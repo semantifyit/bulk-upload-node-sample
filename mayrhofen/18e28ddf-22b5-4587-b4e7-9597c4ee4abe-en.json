@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-schiestl.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d18E28DDF-22B5-4587-B4E7-9597C4EE4ABE"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schiestl, Ferienhaus",
+    "streetAddress": "Ramsau 404",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 650 3006135 ",
+    "faxNumber": "0043 5285 396820",
+    "email": "landhaus.schiestl@aon.at",
+    "url": "http://www.landhaus-schiestl.at"
+  },
+  "name": "Ferienhaus Schiestl",
+  "description": "new in high quality equipped holidayhouse for 8-12 personen, furnance,",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/692163d1-8afe-448c-ab04-ed74030084cc/99/image.jpg",
+      "caption": "Ferienhaus Schiestl Ramsau - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ce9fc405-fd66-4711-9bbe-43919b40938c/99/image.jpg",
+      "caption": "Ferienhaus Schiestl Ramsau - Sommer4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/01ae3804-73e0-4a1a-ad4d-60dfcfc2fa2d/99/image.jpg",
+      "caption": "Ferienhaus Schiestl Ramsau - Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8ae0fff4-d009-4129-88fa-4c1231b2c724/99/image.jpg",
+      "caption": "Ferienhaus Schiestl Ramsau - Sommer3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2035818320837",
+    "longitude": "11.8776208162308"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Holiday home, shower and bath, toilet, 4 or more bed rooms",
+      "description": "Warm welcome to the family Schiestl in Ramsau in the Zillertal\nHoliday\u0027s region of Ramsau. . . Quite a lot a lot of vacation what is offered here. Romantic holiday paradise in the nicest and sunniest part of the Zillertales. Enchanting and village surroundings with wide meadows and inexhaustible travelling offers in summer and a huge number of cross-country skiing cross-country trails, sledge opportunities and ski departures in winter. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "hol. house/4 + more bedrooms/shower,bath",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "12",
+            "minValue": "8"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "120.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "130.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "140.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "150.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "160.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

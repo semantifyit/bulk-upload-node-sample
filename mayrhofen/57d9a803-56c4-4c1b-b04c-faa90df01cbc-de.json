@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d57D9A803-56C4-4C1B-B04C-FAA90DF01CBC"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lindenhöhe 600",
+    "addressLocality": "Hainzenberg",
+    "postalCode": "6278",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3792",
+    "faxNumber": "0043 5282 3792"
+  },
+  "name": "Haus Elisabeth",
+  "description": [
+    "Unser Haus liegt am Ortsanfang von Ramsau etwas am Hang. 3 Gehminuten zum nächsten Supermarkt und zur Gratisskibushaltestelle. Unsere Wohnungen sind familienfreundlich und gemütlich eingerichtet!",
+    "3 Minuten zur Skibushaltestelle",
+    "Check-in: 15.00 Uhr   Check-out: 10.00 Uhr\nWeg: Nach der Ortstafel Ramsau erste Einfahrt links, vorbei am Supermarkt Adeg, etwas den Hang hoch zweites Haus hinter dem Hotel \"Schwarzer Adler\" rechts."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/448f86b9-4579-456f-92f2-6103312cdacc/99/image.jpg",
+      "caption": "Haus Elisabeth Hainzenberg - Sommerbild"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2090957664671",
+    "longitude": "11.8744343519211"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 4 oder mehr Schlafräume",
+      "description": "Große Ferienwohnung für bis zu 14 Personen, 4-6 Schlafräume mit Dusche/WC, Sat-TV, Balkon, Küche,... ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap./4 od mehr Schlafräume/Dusche, WC",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "14",
+            "minValue": "6"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "1 Ferienwohnung für 2-5 Personen, 2 Zimmer mit Dusche/WC, Sat-TV, Balkon, voll ausgestattete Küche.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo 2-5 Pers.",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

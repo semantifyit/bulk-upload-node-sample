@@ -1,0 +1,72 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Hilde\u0027s Skitenne 1725m - Penken/Horberg"
+    },
+    {
+      "@language": "de",
+      "@value": "Hilde\u0027s Skitenne 1725m - Penken/Horberg"
+    },
+    {
+      "@language": "ru",
+      "@value": "Hilde\u0027s Skitenne 1725m - Penken/Horberg"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1814328568448",
+    "longitude": "11.8014514446259"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hilde\u0027s Skitenne",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 38 57 574"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Hilde’s Skitenne ist auf 1725 Meter Seehöhe, inmitten des Schigebiets Horberg-Penken (Piste Nr. 14) gelegen. Der traditionelle Stil und die natürlichen Materialien vermitteln ein Ambiente der ganz besonderen Art, und machen Hilde’s Schitenne zu einem Treffpunkt für Jung und Alt. \n\nVon unserer Sonnenterrasse aus genießen Sie einen wunderschönen Blick auf die Zillertaler Bergwelt. Sonnenanbeter relaxen in den von uns kostenlos zur Verfügung gestellten Liegestühlen. \n\nWir bieten Ihnen ein umfangreiches Speiseangebot sowie Tiroler Spezialitäten. Bei der Zubereitung unserer Speisen achten wir auf höchste Sorgfalt und verwenden vorwiegend regionale Produkte. Besonders bekannt sind unsere täglich frisch gegrillten Hähnchen, Pizzas sowie Hilde’s hausgemachter Apfel- und Topfenstrudel. \n\nApropos, Ein besonders beliebter Treffpunkt ist unsere Schirmbar. Da ist immer was los. \n\n\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\nab ca. 03. Dezenber 2016\n\nkeine Übernachtung möglich "
+    },
+    {
+      "@language": "en",
+      "@value": "Hilde\u0027s Skitenne is at 1725 meters above sea level and is located in the middle of the skiing area Horberg-Penken (piste no. 14). The traditional style and natural materials convey an ambience of a special kind, and make Hilde\u0027s ski Tenne a meeting place for young and old.\nFrom the sun terrace you can enjoy a beautiful view of the Zillertal mountains. Sunbathers relax on sun loungers provided by us for free.\n\nWe offer an extensive food offer and Tyrolean specialties. In the preparation of our food, we ensure the highest quality and use predominantly local products. Particularly well known are our daily fresh grilled chicken, pizzas and Hilde\u0027s homemade apple and cheese strudel.\n\nSpeaking of which, a particularly popular spot is our umbrella bar. There\u0027s always something going on.\n\n\n\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nfrom 03. December 2016\n\nno overnight stay possible "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d33b7136-cc7a-4cda-905b-c342519fb1f4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Hildes "
+        },
+        {
+          "@language": "de",
+          "@value": "Hildes "
+        },
+        {
+          "@language": "ru",
+          "@value": "Hildes "
+        }
+      ]
+    }
+  ]
+}

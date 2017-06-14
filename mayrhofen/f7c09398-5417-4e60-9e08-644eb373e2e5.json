@@ -1,0 +1,829 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.europahuette.it",
+    "http://maps.mayrhofen.at/?foreignResource\u003dF7C09398-5417-4E60-9E08-644EB373E2E5"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landshuterhütte/Europahütte",
+    "streetAddress": "Frazione Caminata",
+    "addressLocality": "Pfitsch",
+    "postalCode": "39049 ",
+    "addressCountry": "IT",
+    "telephone": "(0039) 0472 646076 ",
+    "email": "info@europahuette.it",
+    "url": "www.europahuette.it"
+  },
+  "name": "Landshuterhütte/Europahütte",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Die Europahütte, ehemals Landshuter Hütte ist ein Schutzhaus auf 2.693 Meter in den Zillertaler Alpen, das seit 1989 gemeinsam von der Sektion Landshut des Deutschen Alpenvereins und der Sektion Sterzing des Club Alpino Italiano bewirtschaftet wird. \n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Stornobedingungen: \n·Wird eine Reservierungsanfrage für einen Schlafplatz auf der bewirtschafteten Hütte der\nSektion bestellt und von Seiten des Hüttenpächters bestätigt bzw. bei kurzfristigen\nBuchungen bereitgestellt, so ist ein Beherbergungsvertrag zustande gekommen.\nEin rechtsverbindlicher Vertragsabschluss liegt auch bei mündlichen, insbesondere\ntelefonischen Buchungen vor, soweit nicht ausdrücklich die Schriftform vereinbart wurde.\n\n·Die Pächter sind berechtigt, eine Anzahlung von 50% des Gesamtbetrages/Nacht und\nSchlafplatz für Reservierungen zu berechnen.\nIm Falle von Rücktritt oder Nichtantritt bis 5 Tage vor Reiseantritt werden geleistete\nAnzahlungen an den Gast rücküberwiesen.\nBei einer Stornierung innerhalb von 5 Tagen (gilt ab dem ersten Tag der Reise) vor\nReiseantritt ist der Pächter berechtigt die Anzahlung in Höhe von 50% einzubehalten.\n\n·Ein kostenfreier Rücktritt ist generell möglich, wenn nachweislich eine der folgende\nKriterien erfüllt ist:\n- Zustieg aufgrund von alpiner Gefahr nicht möglich (z.B. Murenabgang \u0026 Lawinengefahr)\n·Dem Gast bleibt der Nachweis vorbehalten, dass dem Hüttenpächter kein oder ein\ngeringerer Schaden entstanden ist.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Informationen zu den Zustiegen erhalten Sie unter:\nhttp://www.mayrhofen.at/sommer-urlaub-ferien-familie/peter-habeler-runde\n"
+    },
+    {
+      "@language": "en",
+      "@value": "The European cottage, formerly Landshut hut is a shelter to 2,693 meters in the Zillertal Alps, which is managed by the Club Alpino Italiano in 1989 jointly by the Section Landshut of the German Alpine Club and the Section Sterzing.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Cancellation conditions:\n·An accommodation agreement is deemed to be concluded when the Alpine Assoc. Section\nreceives a request for a place to sleep at one of the section’s managed mountain huts and this\nreservation is confirmed by the mountain hut proprietor, or room is made available in the event\nof bookings at short notice.\nA legally binding contract is also concluded in the event of reservations made by word of\nmouth, telephone reservations in particular, unless otherwise agreed in writing.\n\n·Mountain hut proprietors are entitled to charge a deposit of 50% of the entire overnight costs.\nIn the event of cancellations made no less than 5 days prior to the intended arrival date,\ndeposit payments will be reimbursed.\nMountain hut proprietors are entitled to withhold 50% of the deposit for cancellations made 5\ndays and less (calculated from the first day of travel) prior to intended arrival date.\n\n·Free cancellations are generally possible, if one of the following criteria are met:\n- Alpine dangers prevent access to the mountain hut (e.g. landslides \u0026 risk of avalanche)\n\n·The guest can prove that the mountain hut proprietor has suffered no financial loss.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "For information about the walk-insplease visit:\nhttp://www.mayrhofen.at/en/sommer-urlaub-ferien-familie/peter-habeler-route \n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/588cb637-976c-4905-b9dd-3c96f1871c4d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhutterhütte/Europahütte Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhutterhütte/Europahütte Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhutterhütte/Europahütte Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c1cd061-9bdd-4491-862d-87b6db678f31/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhutterhütte/Europahütte 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhutterhütte/Europahütte 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhutterhütte/Europahütte 4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8ca41017-de9d-4bb7-9c48-be3b7049aab0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Europa_Slider1"
+        },
+        {
+          "@language": "en",
+          "@value": "Europa_Slider1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Europa_Slider1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/67c7990a-b45c-4beb-b3cf-9e02a65e2aa2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "hütte"
+        },
+        {
+          "@language": "en",
+          "@value": "hütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "hütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/568280c0-b953-4be8-bb2d-4df965dc9cc3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "f4"
+        },
+        {
+          "@language": "en",
+          "@value": "f4"
+        },
+        {
+          "@language": "ru",
+          "@value": "f4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ad950c1-4de6-41b6-8d86-466588d841b0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC00693"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC00693"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC00693"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b7c78e8-895d-45bd-a5d4-635a5948222a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Europahuette_01"
+        },
+        {
+          "@language": "en",
+          "@value": "Europahuette_01"
+        },
+        {
+          "@language": "ru",
+          "@value": "Europahuette_01"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7bdac19c-4ca1-4ff9-9d74-2af6abb6d074/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landshuterhütte 5"
+        },
+        {
+          "@language": "en",
+          "@value": "Landshuterhütte 5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landshuterhütte 5"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b4c0a5dd-47fe-4b13-8499-b5f474599ca1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landshuterhütte 6"
+        },
+        {
+          "@language": "en",
+          "@value": "Landshuterhütte 6"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landshuterhütte 6"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da1d1749-b9c6-47dd-9835-d9d4377acb55/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landshuterhütte 9"
+        },
+        {
+          "@language": "en",
+          "@value": "Landshuterhütte 9"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landshuterhütte 9"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09772f94-3000-4d0d-ab6e-b7d5631286ed/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landshuterhütte"
+        },
+        {
+          "@language": "en",
+          "@value": "Landshuterhütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landshuterhütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ecfe8268-44bf-4830-b8cc-cae44eed7677/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landshutterhütte 8"
+        },
+        {
+          "@language": "en",
+          "@value": "Landshutterhütte 8"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landshutterhütte 8"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f77377ea-561d-4fed-804e-75cddd7606b6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150901_170121_RichtoneHDR-1"
+        },
+        {
+          "@language": "en",
+          "@value": "20150901_170121_RichtoneHDR-1"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150901_170121_RichtoneHDR-1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/afa8afb1-5d80-4220-a644-71852f7a31b1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC00569"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC00569"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC00569"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/32e0b050-db50-4321-a177-2144e6565acb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "DSC00568"
+        },
+        {
+          "@language": "en",
+          "@value": "DSC00568"
+        },
+        {
+          "@language": "ru",
+          "@value": "DSC00568"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/110e55e9-3c00-4d7d-a273-bd803fbf0df9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Europa_Slider2"
+        },
+        {
+          "@language": "en",
+          "@value": "Europa_Slider2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Europa_Slider2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/40e590a6-84ed-47cb-b3b2-ce91871ee6f0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "europahuette_04"
+        },
+        {
+          "@language": "en",
+          "@value": "europahuette_04"
+        },
+        {
+          "@language": "ru",
+          "@value": "europahuette_04"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c194ae7-ebdb-495a-9e11-f6faf50be5af/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landshuter_Europahütte_Gastraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Landshuter_Europahütte_Gastraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landshuter_Europahütte_Gastraum"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "46.968381",
+    "longitude": "11.6046194"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Mehrbettzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Shared room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Многоместный номер"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wir bieten unseren Gästen gemütliche Zimmer an."
+        },
+        {
+          "@language": "en",
+          "@value": "We offer our guests comfortable rooms."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Betten Nichtmitglieder"
+            },
+            {
+              "@language": "en",
+              "@value": "Room AV Non-Member"
+            },
+            {
+              "@language": "ru",
+              "@value": "вицепостельный номер"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Betten Alpenvereinsmitglieder"
+            },
+            {
+              "@language": "en",
+              "@value": "Room AV Member"
+            },
+            {
+              "@language": "ru",
+              "@value": "вицепостельный номер"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "13.00",
+          "maxPrice": "13.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "13.00",
+          "maxPrice": "13.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "13.00",
+          "maxPrice": "13.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "13.00",
+          "maxPrice": "13.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Mehrbettzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Shared room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Многоместный номер"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wir bieten unseren Gästen gemütliche Zimmer an."
+        },
+        {
+          "@language": "en",
+          "@value": "We offer our guests comfortable rooms."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Zimmerlager Nichtmitglieder"
+            },
+            {
+              "@language": "en",
+              "@value": "Bed AV Non-Member"
+            },
+            {
+              "@language": "ru",
+              "@value": "вицепостельный номер"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "15",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Zimmerlager Alpenvereinsmitglieder"
+            },
+            {
+              "@language": "en",
+              "@value": "Bed AV Member"
+            },
+            {
+              "@language": "ru",
+              "@value": "вицепостельный номер"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "15",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 13",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 14",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 15",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 13",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 14",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 15",
+          "minPrice": "11.00",
+          "maxPrice": "11.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

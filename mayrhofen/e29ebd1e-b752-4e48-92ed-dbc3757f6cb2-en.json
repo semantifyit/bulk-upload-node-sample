@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Casino"
+  ],
+  "name": "WINWIN- Cafe, Bar \u0026 Spiel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1684679",
+    "longitude": "11.8651607"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "WINWIN",
+    "streetAddress": "Am Marienbrunnen 346",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 505 777 2010",
+    "faxNumber": "(0043) 505 777 2090",
+    "email": "mayrhofen@winwin.at",
+    "url": "http://www.winwin.at/glueck/WW_outlet_mayrhofen.html"
+  },
+  "description": "Relaxed game and tasty food at 14 locations in Austria: WINWIN invites with 14 locations in Lower Austria, Upper Austria, Salzburg and Tirol one for recreational enjoyment.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8c3fa304-ad28-4e46-8cfc-b5cffade9aae/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.winwin.at/glueck/WW_outlet_mayrhofen.html"
+  ]
+}

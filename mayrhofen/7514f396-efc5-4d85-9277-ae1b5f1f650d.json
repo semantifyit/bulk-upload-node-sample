@@ -1,0 +1,76 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Klausenalm 1301m"
+    },
+    {
+      "@language": "de",
+      "@value": "Klausenalm 1301m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Klausenalm 1301m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0554099171076",
+    "longitude": "11.7518734931946"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Klausenalm",
+    "streetAddress": "Zemmgrund 216",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5286 5226",
+    "faxNumber": "(0043) 5286 5226 4",
+    "email": "info@klausenalm.at",
+    "url": "www.klausenalm.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Die Alm liegt im wunderschönem Zemmtal auf 1301 m und ist in dritter Generation im Besitz der Familie Geisler Kathrin und Karl - Gasthaus Schwarzenstein in Ginzling.\n\nDer Name Klausen Alm kommt wie man nachweislich heute noch an den Einkerbungen in den große Felsen neben der Hütte und im Bereich der Brücke ersehen kann, von der Holzbringung mit aufgestautem Wasser dem sogenannten „KLAUSEN„.\nVielfach wurden durch Talsperren Wasser gestaut, die KLAUSEN gespannt welche zum gewünschten Zeitpunkt rasch abgelassen werden konnten. Das unterhalb der Klausen aufgestapelte Holz wurde auf diese Weise talab geschwemmt.\nUnsere Oma Moidl „Maria Geisler„ – auch langjährige Hüttenwirtin der Alpenrose erbte von Ihrem Vater Friedrich Eder die Klausenalm welche von Ihrem Mann Johann Geisler und später von unserem Vater Alfred Geisler bewirtschaftet wurde. Durch das frühe ableben unseres lieben Vaters Alfred Geisler wurde die Alm in den letzten Jahrzehnten verpachtet und rein land – und forstwirtschaftlich genutzt.\nUnsere Pächter seien hier kurz aufgeführt: Ende der 50er bis mitte der 60iger Jahre Heinrich Kröll, Kumbichel Mayrhofen, danach Tasser Josef , Brandberg und seit den 70er Jahren Franz Rauch aus Ramsau. Der Familie Rauch Franz sind wir für die gute Instandhaltung und Bewirtschaftung unserer Alm in den letzten fast vierjahrzehnten besonders dankbar.\nIm Jahre 2010 haben wir unsere Almhütte zu einer gemütlichen Jausenstation umgebaut und wird von uns selbst bewirtschaftet und geführt. Somit haben wir zum Gasthaus Schwarzenstein dazu noch einen kleinen Gastbetrieb der “Besonderen Art“ für unsere Gäste geschaffen, und uns damit selber einen langjährigen Traum erfüllt.\nWir hoffen, dass sich viele Gäste bei einer Einkehr in unserer Klausen Alm wohlfühlen.\nEs ist auch möglich einen ganz persönlichen Anlass auf unserer Alm in einem besonderen Ambiente abzuhalten und zu feiern.\nWir hoffen, dass viele Gäste und Freunde bei uns ein paar nette Stunden verbringen werden, mit einem guten Eindruck nach Hause gehen können und wir uns bald auf der Klausen Alm oder im Gasthaus Schwarzenstein wiedersehen.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\ngeschlossen  \n\nkeine Übernachtung möglich "
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nclosed\n\nno overnight stay possible "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d94f4d55-58b7-4e80-8fac-13640e42c9a0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Klausenalm"
+        },
+        {
+          "@language": "de",
+          "@value": "Klausenalm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Klausenalm"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.klausenalm.at",
+    "http://www.schwarzenstein.at"
+  ]
+}

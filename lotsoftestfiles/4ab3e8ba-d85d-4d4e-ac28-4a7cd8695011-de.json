@@ -1,0 +1,206 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d4AB3E8BA-D85D-4D4E-AC28-4A7CD8695011"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Larcher, Landhaus",
+    "streetAddress": "Hollenzen 97",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62224",
+    "email": "karl.eberharter@aon.at"
+  },
+  "name": "Landhaus Larcher",
+  "description": [
+    "\n\n\nHerzlich Willkommen in unserem gemütlichen Landhaus am Ortsrand von Mayrhofen.  Umgeben von Obstgärten und Feldern mit Blick auf die Zillertaler Bergwelt, einfach mal vom Alltag abschalten und die Seele baumeln lassen.  Unsere neu gebauten Zimmer und unsere gemütlicher Aufenthaltsraum mit Kachelofen  laden zum wohlfühlen ein.  Die Skibushaltestelle liegt nur 1 Gehminute von unserem Haus entfernt und bringt Sie bequem zu den umliegenden Bergbahnen. ",
+    "Preise inklusive Frühstück und Ortstaxe.",
+    "B169 Richtung Mayrhofen, vor Mayrhofen die Abzweigung nach Bühel nehmen, geradeaus weiter, in Hollenzen kurz vor dem Dorfplatz rechts einbiegen\n\nCheck In: 15 Uhr \nCheck Out: 10.00 Uhr "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b92561a-a350-4355-8357-7b461f6859ca/99/image.jpg",
+      "caption": "Landhaus Larcher - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5afc5eca-c7d3-4cd6-82c9-fe1d3bb1139a/99/image.jpg",
+      "caption": "See"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/141e9442-4978-4adc-8185-3dc1130f4449/99/image.jpg",
+      "caption": "Landhaus Larcher - Esszimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c6839b0-a99f-45ba-8374-251ffe8452a5/99/image.jpg",
+      "caption": "Landhaus Larcher - Deko"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/985ab2e4-f653-40b2-b737-3e5bf6a672f0/99/image.jpg",
+      "caption": "Landhaus Larcher - Wohneingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cbf4a8d0-fb9f-4db1-9f89-4065c60f4191/99/image.jpg",
+      "caption": "Landhaus Larcher - Wand"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d49c6ef8-b061-4b3c-b34c-91c95038e905/99/image.jpg",
+      "caption": "Landhaus Larcher - Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4c463497-ccc7-478c-9065-382b2ac7b186/99/image.jpg",
+      "caption": "Landhaus Larcher - Winter 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52724563-d875-484f-a4a8-39000a500172/99/image.jpg",
+      "caption": "Landhaus Larcher - Winter 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/109ea38e-9267-43d6-a9ec-2319f3bfbbac/99/image.jpg",
+      "caption": "Landhaus Larcher - Frühling "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/01e3c936-27bc-4ce4-a41d-522435bd4064/99/image.jpg",
+      "caption": "Landhaus Larcher - See"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/36974728-fc55-4aa8-b284-f564ef47964f/99/image.jpg",
+      "caption": "Landhaus Larcher - Blume"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1842238596283",
+    "longitude": "11.8721008300781"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Im Herbst 2012 komplett neu gebautes, hell und freundliches Doppelzimmer mit Dusche und WC, kleiner Sitzecke, SAT/TV sowie eigenem Balkon.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche und WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Zweibettzimmer, Etagendusche/Etagen-WC, Balkon",
+      "description": "Im Herbst 2012 komplett neu gebautes, hell und freundliches Zweibettzimmer mit eigenem Balkon und SAT/TV.\nEin ebenfalls neues Badezimmer mit Dusche und WC befindet sich am Gang zur alleinigen Nutzung. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zweibettzimmer mit eigenem Badezimmer am Gang",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC, Balkon",
+      "description": "Im Herbst 2012 komplett neu gebautes, hell und freundliches Dreibettzimmer mit Dusche und WC, kleiner Sitzecke, SAT-TV sowie eigenem Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche und WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "40.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

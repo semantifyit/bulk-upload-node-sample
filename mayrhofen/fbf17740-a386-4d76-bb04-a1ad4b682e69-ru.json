@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Organization",
+    "Place"
+  ],
+  "name": "Angelmöglichkeiten - Hansjörg Brugger",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Brandbergstr. 356",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 699 127 28 335"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d374087d-0749-4c18-bcbb-7741b3159682/99/image.jpg",
+      "caption": "Schlegeisspeicher"
+    }
+  ]
+}

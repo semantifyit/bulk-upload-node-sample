@@ -1,0 +1,120 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d849C8080-E4C6-4242-83C9-C78889B4BCE8"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ratschenhof",
+    "streetAddress": "Mühlen 188",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64409",
+    "email": "info@hoefersportundreisen.de"
+  },
+  "name": "Ratschenhof",
+  "description": "Traumlage: nur 600m bis zur Gondel. Schöne Pension mit umlaufenden Holzbalkon und netten Dusche/WC Zimmern Plus eine 4-8er Ferienwohnung mit 2-3 Zimmern und Wohnküche. \n\nPerfekter Skiurlaub: Auch Komplettangebote mit HP, Skipaß, ggf. Kursen durch unseren Parnter \"Hoefer Reisen\". Auch für Größere Gruppen durch Koop. mit den Nachbarn.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7594f745-1e9d-4dff-b0bd-093ffd2d5d91/99/image.jpg",
+      "caption": "Ratschenhof Schwendau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ebac603-3772-447c-bfe6-2af9d1f26bbd/99/image.jpg",
+      "caption": "Ratschenhof Schwendau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c5c23e2f-9061-4489-9614-239a6c679c34/99/image.jpg",
+      "caption": "Ratschenhof Schwendau - Vor_dem_Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dad9b115-991a-4fce-b6cc-73f82ec13a45/99/image.jpg",
+      "caption": "Ratschenhof Schwendau - Balkon"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1946190992988",
+    "longitude": "11.8540817499161"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Urgemütliche, gepflegte Zimmer mit umlaufenden schönen Balkonen. Urlaub am Bauernhof mit viel Atmosphäre.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC",
+      "description": "Urgemütliche, gepflegte Zimmer mit umlaufenden schönen Balkonen. Urlaub am Bauernhof mit viel Atmosphäre.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Wohnküche, Dusche und WC getrennt, ein 2er Zimmer, ein 2-3er Zimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

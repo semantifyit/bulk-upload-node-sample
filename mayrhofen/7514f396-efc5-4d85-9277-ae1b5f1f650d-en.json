@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Klausenalm 1301m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0554099171076",
+    "longitude": "11.7518734931946"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Klausenalm",
+    "streetAddress": "Zemmgrund 216",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5286 5226",
+    "faxNumber": "(0043) 5286 5226 4",
+    "email": "info@klausenalm.at",
+    "url": "www.klausenalm.at"
+  },
+  "description": "Summer \n25. May 2017 \nno overnight stay possible",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d94f4d55-58b7-4e80-8fac-13640e42c9a0/99/image.jpg",
+      "caption": "Klausenalm"
+    }
+  ],
+  "url": [
+    "http://www.klausenalm.at",
+    "http://www.schwarzenstein.at"
+  ]
+}

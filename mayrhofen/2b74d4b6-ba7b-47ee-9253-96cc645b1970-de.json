@@ -1,0 +1,62 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d2B74D4B6-BA7B-47EE-9253-96CC645B1970"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Anemone, Haus",
+    "streetAddress": "Dornaustrasse 606",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0043 5285 63138",
+    "faxNumber": "(0043) 0043 5285 63929",
+    "email": "wolfgang.hollaus65@gmail.com"
+  },
+  "name": "Anemone, Haus",
+  "description": [
+    "Ideale Lage im Zentrum von Mayrhofen, zur Penkenbahn ca. 100m.\nKomplett neu eingerichtete Wohnung über 2 Etagen mit 2 Schlafzimmer (je 1 Doppelzimmer), Bad, Dusche, WC, Küche komplett eingerichtet mit Herd, Geschirrspülmaschine, Backofen, Mikrowelle, etc. 1x separates WC im 1. Stock, Wohnzimmer im typischen Tiroler Stil mit 1 Zusatzbett, Kachelofen (wird vom Hauschef eingeheizt), Haustiere nicht erlaubt! Abreise samstags und auf Anfrage auch an anderen Tagen;",
+    "Im Preis inklusive: Wäscheausstattung (Handtücher, Bettwäsche, Geschirrtücher)\nAchtung: Bei der Anreise wird eine Kaution von € 150,00 verlangt, von der die Kurtaxe, die Endreinigung  und der Brötchenservice (falls gewünscht) abgezogen wird. Der Rest wird bei Abreise, sofern nichts beschädigt wurde, zurückbezahlt. Endreinigung € 50 - € 60.\nFrühstück kann in der Pension Annemone um 7€/Person eingenommen werden.\nDie Wohnung kann auch ab 2 Personen gemietet werden, allerdings gilt der Preis für 4 Personen. Anreise jeden Tag möglich, Abreise nur am Samstag möglich. \nKeine Kinderermäßigung.\nMindestaufenthalt sollte eigentlich 5 Tage sein, aber auch auf Anfrage möglich!",
+    "Unser Haus erreichen Sie, wenn Sie beim Kreisverkehr die erste Ausfahrt nehmen, beim Bahnhof vorbei fahren (rechte Seite), gerade weiter bis Sie auf der linken Seite die BP Tankstelle sehen. Direkt nach dieser Tankstelle links abbiegen. Danach in die erste kleine Straße rechts hineinfahren (zwischen 2 Häusern), nach 10 Metern sehen Sie unser Haus."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a9d2c08-7062-4ecc-aab0-c1916b315dee/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1658942",
+    "longitude": "11.8590509"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Komplett neu eingerichtete Wohnung über 2 Etagen mit 2 Schlafzimmern (je 1 Doppelzimmer), Bad, Dusche, WC. Küche komplett eingerichtet mit Herd, Geschirrspülmaschine, Backofen, Mikrowelle, etc. 1 x separates WC im 1. Stock, Wohnzimmer im typischen Tiroler Stil mit 1 Zusatzbett. Kachelofen (wird vom Hauschef eingeheizt)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

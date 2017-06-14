@@ -1,0 +1,488 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d4AB3E8BA-D85D-4D4E-AC28-4A7CD8695011"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Larcher, Landhaus",
+    "streetAddress": "Hollenzen 97",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62224",
+    "email": "karl.eberharter@aon.at"
+  },
+  "name": "Landhaus Larcher",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "\n\n\nHerzlich Willkommen in unserem gemütlichen Landhaus am Ortsrand von Mayrhofen.  Umgeben von Obstgärten und Feldern mit Blick auf die Zillertaler Bergwelt, einfach mal vom Alltag abschalten und die Seele baumeln lassen.  Unsere neu gebauten Zimmer und unsere gemütlicher Aufenthaltsraum mit Kachelofen  laden zum wohlfühlen ein.  Die Skibushaltestelle liegt nur 1 Gehminute von unserem Haus entfernt und bringt Sie bequem zu den umliegenden Bergbahnen. "
+    },
+    {
+      "@language": "de",
+      "@value": "Preise inklusive Frühstück und Ortstaxe."
+    },
+    {
+      "@language": "de",
+      "@value": "B169 Richtung Mayrhofen, vor Mayrhofen die Abzweigung nach Bühel nehmen, geradeaus weiter, in Hollenzen kurz vor dem Dorfplatz rechts einbiegen\n\nCheck In: 15 Uhr \nCheck Out: 10.00 Uhr "
+    },
+    {
+      "@language": "en",
+      "@value": "Pleasant house in a quiet and sunny position, ski bus stop and cross country ski trail next to house. Comfortable guest lounge with TV, car park, farm."
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes breakfast and local taxes."
+    },
+    {
+      "@language": "en",
+      "@value": "B169 in the Mayrhofen direction, just before Mayrhofen turn off towards Bühel, straight on, in Hollenzen turn right just before the village centre.\n\nCheck In: 15 Uhr\nCheck Out: 10.00 Uhr "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b92561a-a350-4355-8357-7b461f6859ca/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Larcher - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Larcher - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Larcher - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5afc5eca-c7d3-4cd6-82c9-fe1d3bb1139a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "See"
+        },
+        {
+          "@language": "en",
+          "@value": "See"
+        },
+        {
+          "@language": "ru",
+          "@value": "See"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/141e9442-4978-4adc-8185-3dc1130f4449/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Larcher - Esszimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Larcher - Esszimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Larcher - Esszimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c6839b0-a99f-45ba-8374-251ffe8452a5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Larcher - Deko"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Larcher - Deko"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Larcher - Deko"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/985ab2e4-f653-40b2-b737-3e5bf6a672f0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Larcher - Wohneingang"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Larcher - Wohneingang"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Larcher - Wohneingang"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cbf4a8d0-fb9f-4db1-9f89-4065c60f4191/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Larcher - Wand"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Larcher - Wand"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Larcher - Wand"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d49c6ef8-b061-4b3c-b34c-91c95038e905/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Larcher - Winter 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Larcher - Winter 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Larcher - Winter 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4c463497-ccc7-478c-9065-382b2ac7b186/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Larcher - Winter 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Larcher - Winter 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Larcher - Winter 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52724563-d875-484f-a4a8-39000a500172/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Larcher - Winter 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Larcher - Winter 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Larcher - Winter 4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/109ea38e-9267-43d6-a9ec-2319f3bfbbac/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Larcher - Frühling "
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Larcher - Frühling "
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Larcher - Frühling "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/01e3c936-27bc-4ce4-a41d-522435bd4064/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Larcher - See"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Larcher - See"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Larcher - See"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/36974728-fc55-4aa8-b284-f564ef47964f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Larcher - Blume"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Larcher - Blume"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Larcher - Blume"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1842238596283",
+    "longitude": "11.8721008300781"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC, Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet, balcony"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет, балкон"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Im Herbst 2012 komplett neu gebautes, hell und freundliches Doppelzimmer mit Dusche und WC, kleiner Sitzecke, SAT/TV sowie eigenem Balkon.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "In autuum 2012 totally new build double room with shower and WC, TV and balcony.\n\n. "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche und WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet, balcony"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower, toilet, balcony"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Zweibettzimmer, Etagendusche/Etagen-WC, Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Twin room, shared shower/shared toilet, balcony"
+        },
+        {
+          "@language": "ru",
+          "@value": "Твин, общий душ/общий туалет, балкон"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Im Herbst 2012 komplett neu gebautes, hell und freundliches Zweibettzimmer mit eigenem Balkon und SAT/TV.\nEin ebenfalls neues Badezimmer mit Dusche und WC befindet sich am Gang zur alleinigen Nutzung. \n"
+        },
+        {
+          "@language": "en",
+          "@value": "In autuum 2012 totally new build twin bed room with balcony and TV. The completely new built bathroom with shower and WC is on the floor next to the room for your sole use. \n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Zweibettzimmer mit eigenem Badezimmer am Gang"
+            },
+            {
+              "@language": "en",
+              "@value": "Twin room, shared shower/shared toilet, balcony"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shared shower/shared toilet, balcony"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer, Dusche, WC, Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room, shower, toilet, balcony"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер, душ, туалет, балкон"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Im Herbst 2012 komplett neu gebautes, hell und freundliches Dreibettzimmer mit Dusche und WC, kleiner Sitzecke, SAT-TV sowie eigenem Balkon."
+        },
+        {
+          "@language": "en",
+          "@value": "In autuum 2012 totally new build trible bed room with shower and WC, TV and balcony.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Dreibettzimmer mit Dusche und WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Triple room, shower, toilet, balcony"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на трех человек, shower, toilet, balcony"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "40.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

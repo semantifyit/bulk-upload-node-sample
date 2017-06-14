@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Karlalm 1750m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1842512038024",
+    "longitude": "11.9049310684204"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Karlalm",
+    "streetAddress": "Ramsberg ",
+    "addressLocality": "Ramsau ",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5288 62544"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5fa068e1-a366-4368-9980-d930039bce6c/99/image.jpg",
+      "caption": "Karlalm 1750m"
+    }
+  ]
+}

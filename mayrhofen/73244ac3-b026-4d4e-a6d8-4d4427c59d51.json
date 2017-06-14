@@ -1,0 +1,251 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d73244AC3-B026-4D4E-A6D8-4D4427C59D51"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Emberger, Haus",
+    "streetAddress": "Neu-Burgstall 300",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64463",
+    "faxNumber": "0043 5285 63053",
+    "email": "haus.emberger@aon.at"
+  },
+  "name": "Haus Emberger",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unsere Privatpension liegt ca. 1,5 km von Mayrhofen entfernt in sonniger und ruhiger Lage. Die Zimmer sind mit Dusche/WC, Balkon und Sat-TV ausgestattet. Weiters stehen ein Schuhtrockner,\nein Aufenthaltsraum mit Sat-TV, Gästekühlschrank, Terrasse und Parkplatz zur Verfügung. Die Haltestelle für Schi- und Dörferbus íst direkt vor unserem Haus. Auch Langlaufloipe, Rad- und Wanderwege führen direkt an unserem Haus vorbei."
+    },
+    {
+      "@language": "de",
+      "@value": "Die Preise verstehen sich inklusive Kurtaxe und Frühstück."
+    },
+    {
+      "@language": "de",
+      "@value": "Auf der B169 Richtung Horbergbahn - beim Kreisverkehr in Richtung Burgstall - nach ca. 300 m rechts abbiegen - erstes Haus links, Hausnummer 300."
+    },
+    {
+      "@language": "en",
+      "@value": "Our private pension is situated quiet and sunny 1.5 km away from Mayrhofen. The rooms are equipped with shower / WC, balcony and Sat TV. Also available is a shoe dryer, a day room with Sat TV, company fridge, terrace and parking bay. The stop for the ski and villages coach is directly before our house. Also cross-country trail, cycle tracks and footpaths are near by.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "The prices includes the local rate and breakfast.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "On the B169 direction Horbergbahn - turn right at the roundabout traffic in the direction of Burgstall - after 300 m - the first house on the left side - house number 300.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a0602890-4f3f-4390-801f-8e9d7c198d0d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Emberger Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Emberger Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Emberger Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/54d0c5c6-9113-4fb2-9316-afe2cf97be9e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Emberger Mayrhofen - Aussicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Emberger Mayrhofen - Aussicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Emberger Mayrhofen - Aussicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28c23df0-6d15-4170-a00d-88c02873abaf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Emberger Mayrhofen - Frühstücksraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Emberger Mayrhofen - Frühstücksraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Emberger Mayrhofen - Frühstücksraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/afed108b-76ec-4695-a3e2-85dba4f8aa85/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Emberger Mayrhofen - Frühstücksraum_"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Emberger Mayrhofen - Frühstücksraum_"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Emberger Mayrhofen - Frühstücksraum_"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1858590164745",
+    "longitude": "11.8602561950684"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Einfaches DZ mit Dusche/WC, Balkon und Sat-TV"
+        },
+        {
+          "@language": "en",
+          "@value": "An easy double room with shower / WC, balcony and Sat TV "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Appartment/Doppelzimmer mit Balkon, kleiner Vorraum, Dusche und WC sind getrennt, Wohnküche mit SAT-TV, Wohnung ist abgeschlossen, Preise inkl. Kurtaxe!"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartment/double rooms with balcony, small anteroom, shower and WC are separated, kitchen-living room with SAT TV, flat is concluded, prices incl. tax! "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/1 Schlafraum/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

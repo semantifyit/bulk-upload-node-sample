@@ -1,0 +1,102 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.mayrhofen.at/de/haus-christina",
+    "http://maps.mayrhofen.at/?foreignResource\u003d4B28B843-2ADE-4338-96C1-06DB923A5257"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Christina, Haus",
+    "streetAddress": "Laimach 72",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4126",
+    "email": "haus.christina@hotmail.com"
+  },
+  "name": "Haus Christina",
+  "description": [
+    "Our house is situated outside from Hippach. In few minutes you can reach shopping stores, restaurants, disco, pubs,.. The village coach as well as ski bus stop is accessible in only few metres. \nInternet in the house Christina is possible.\n",
+    "Towels, bedding, toilet paper and much more is available at no extra charge.\nInternet is available for a fee.\nFor an additional fee, we offer bread service from the bakery of our trust. (Bread list on request available in advance)",
+    "Check In 2:00pm\nCheck out 10:00am\n\nPlease contact by phone prior to arrival. (+43664/5059830) So we can guarantee that someone is at your arrival on site."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c2646e6-e933-4f74-aefb-479bfa68c86f/99/image.jpg",
+      "caption": "Haus Christina Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/42da538d-9e81-409f-bd95-bd795ab41a4d/99/image.jpg",
+      "caption": "Haus Christina Hippach - Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0729969c-d23e-479c-9d07-4133e9d0a7d2/99/image.jpg",
+      "caption": "Haus Christina Hippach - Sommerbild 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.210711",
+    "longitude": "11.866527"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 4 or more bed rooms",
+      "description": "Our holiday apartment lies in Laimach, the local centre is accessible at 5 minutes of footpath. To the valley station Horbergbahn these are 2 km. The ski coach and village coach holds directly before our house. The flat orders more than 3 double rooms and 1 single room with bunk. Besides, furthermore we have a balcony and a terrace of 25 m ² with the flat. 2 showers and 2 WCs. The kitchen-living room is big 17 m ². Also the flat panel display is in the kitchen. Of course exist a dishwasher, microwave, water cooker, toaster, coffeemaker and a baking pipe. Towels, bedclothes, dish towels as well as toilet paper are included.\nBrötchenservcice possibly. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet, 4 or more bed rooms",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "5"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "20.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "20.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "20.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "20.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

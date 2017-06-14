@@ -1,0 +1,247 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.youtube.com/embed/hVLr8k0vlwM?rel\u003d0",
+    "http://www.apartart.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apartart",
+    "streetAddress": "Zillerlände 495a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 75082182",
+    "email": "info@apartart.at",
+    "url": "http://www.apartart.at"
+  },
+  "name": "ApartART",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "27"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d2a74aa3-39a3-4453-a57b-ff5f0657a796/99/image.jpg",
+      "caption": "ApartART Wohnküche 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94a7c594-5a5e-47cf-97a2-0acedca23ebf/99/image.png",
+      "caption": "logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9b0c52f-e833-4bda-851c-d8bd188ca610/99/image.jpg",
+      "caption": ""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c4a8cee-5785-41de-9396-4df4a1496e64/99/image.jpg",
+      "caption": "AlpenART Wohnküche 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6558d5bf-fe71-4383-8b0a-f37aa0fd45fb/99/image.jpg",
+      "caption": "AlpenART Zimmer Lifestyle 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/492db49e-b54b-4845-824f-5d4b0016bbf8/99/image.jpg",
+      "caption": "AlpenART Zimmer Lifestyle 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8d5e171c-51a5-4a1e-86c9-4d869035e651/99/image.jpg",
+      "caption": "AlpenART Lifestyle Apart"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63ad1a1d-5faf-4e06-95f9-bac0675937bf/99/image.jpg",
+      "caption": "ApartArt Außenansicht1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd7ddaf2-a9a6-4d20-bc36-7b6a448f77f2/99/image.jpg",
+      "caption": "AlpenART Zimmer Smart"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/665478b6-427d-46b3-803d-5e871862e15c/99/image.jpg",
+      "caption": "AlpenART Ausblick Sofa"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b00929c3-3eca-443c-9148-7afe4e70b441/99/image.jpg",
+      "caption": "AlpenART Lifestyle Smart Apart"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c340eb9-5483-4bf9-bf41-3d2494d7bff6/99/image.jpg",
+      "caption": "ApartArt Terrassenausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/364a20ca-602e-4b2c-965c-0a6e83165d7e/99/image.jpg",
+      "caption": "AlpenART Badezimmer Lifestyle 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/01d75150-0a5b-4749-b3f0-4ac4436ab91b/99/image.jpg",
+      "caption": "AlpenART Badezimmer Lifestyle 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fcb7a044-6df6-4d99-a64b-5abf5504dd74/99/image.jpg",
+      "caption": "AlpenART Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d5b6919b-0a79-48c1-b046-aed78373dedf/99/image.jpg",
+      "caption": "AlpenART Flur"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1097de9d-1235-4b1b-8718-4257a1c72311/99/image.jpg",
+      "caption": "ApartArt Außenansicht2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0a0767ae-cdc9-4380-a73e-55ac3a929e5d/99/image.jpg",
+      "caption": "AlpenART Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1607e02-8042-46fc-85e6-4488da900885/99/image.jpg",
+      "caption": "ApartArt während Konstruktion1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eeb56a29-4ea9-4691-8f60-79d9af6bed0a/99/image.jpg",
+      "caption": "ApartArt während Konstruktion2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d4538cf0-7508-4fb8-8c62-abcab0de7167/99/image.jpg",
+      "caption": "ApartArt während Konstruktion3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50b2a364-4afc-4795-8b8e-ae187de14cd7/99/image.jpg",
+      "caption": "ApartArt während Konstruktion4"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1608078",
+    "longitude": "11.8625645"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "270.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "290.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

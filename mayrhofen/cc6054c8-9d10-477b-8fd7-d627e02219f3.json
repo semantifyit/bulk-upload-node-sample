@@ -1,0 +1,615 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hoehenrainerhof.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dCC6054C8-9D10-477B-8FD7-D627E02219F3"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Höhenrainerhof",
+    "streetAddress": "Bichl 581",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2573",
+    "faxNumber": "0043 5282 2573",
+    "email": "info@hoehenrainerhof.at",
+    "url": "http://www.hoehenrainerhof.at"
+  },
+  "name": "Höhenrainerhof",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Vier gemütliche Ferienwohnungen am Bauernhof mitten im Grünen, mit herrlichem Panoramablick, in sonniger, ruhiger Lage, ideal für Familien mit Kindern, Skibushaltestelle: 50m vom Haus entfernt. "
+    },
+    {
+      "@language": "de",
+      "@value": "Verpflegung: Brötchenservice\nIm Preis inkludiert: Heizung, Wasser und Strom; exklusive Endreinigung\n\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in 16.00 - Check out 10.00"
+    },
+    {
+      "@language": "en",
+      "@value": "Sunny position, childrens play area, terrace, sunbathing lawn. We also offer farmhouse holiday."
+    },
+    {
+      "@language": "en",
+      "@value": "children reduction for asking"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in 16.00 Uhr - Check out 10.00 Uhr"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7b7d1723-f11c-4899-b2ba-a93b1bf99268/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Höhenrainerhof Ramsau - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Höhenrainerhof Ramsau - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Höhenrainerhof Ramsau - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0111856b-3b9c-4c17-82aa-8b121a3f9eee/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Langlaufen © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Langlaufen © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Langlaufen © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ead2c2f8-848c-4ef4-b751-796db7b5209c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterwandern © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02e82c72-55e0-434f-a4d6-9c70cf021acf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter am Berg © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter am Berg © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter am Berg © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/87f59d23-8bd7-4c4b-8cf1-63a2964de891/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pistenspaß © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Pistenspaß © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pistenspaß © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4bc17bf9-c9ab-404f-8062-560a22c7483c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schneeschuhwandern © Frank Bauer"
+        },
+        {
+          "@language": "en",
+          "@value": "Schneeschuhwandern © Frank Bauer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schneeschuhwandern © Frank Bauer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd7e924c-18cc-496e-9e55-039587824cac/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skifahren © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Skifahren © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skifahren © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2977cf45-62ed-499e-9340-943fc378ffc4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e8d08fd-57b4-473b-8b37-3f35cc7cd7b7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/32484d72-543a-45e9-8d22-82a1c066f6b3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d11d4bc2-7877-478d-a778-f6cf56e8f3c0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "en",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        },
+        {
+          "@language": "ru",
+          "@value": "Radtour für die ganze Familie © Zillertal Tourismu"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1966676491279",
+    "longitude": "11.8771916627884"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Komplett ausgestattete Ferienwohnung (110m²) mit je 3 Doppelschlafzimmer mit Waschbecken oder Dreibettzimmer je nach Bedarf. Bad/WC separat, Hausflur, Wohnküche, Balkon, großer Garten, Sat-TV, Bettwäsche und Handtücher vorhanden."
+        },
+        {
+          "@language": "en",
+          "@value": "completly equipped holiday appartement (110m²) - 3 doublerooms with wash basin and additional bed, bathroom and WC, livingroom with kitchen, balcony, big garden, Sat-TV, bedlinen and towels incl."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment A 3 Zimmer 110m²"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/3 bedrooms/bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "102.00",
+          "maxPrice": "102.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "102.00",
+          "maxPrice": "102.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "102.00",
+          "maxPrice": "102.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "108.00",
+          "maxPrice": "108.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "118.00",
+          "maxPrice": "118.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Komplett ausgestattete Ferienwohnung (70m²) mit 2 Doppelschlafzimmer,\nBad, WC seperat, Hausflur, Wohnküche, Garten, Sat-TV, Bettwäsche und Handtücher vorhanden."
+        },
+        {
+          "@language": "en",
+          "@value": "Completely equipped holiday apartment (70 m ²) with 2 double bedrooms,\nBath, WC seperat, house hall, kitchen-living room, garden, Sat TV, bedclothes and towels available. "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment C, 2 Zimmer, 70m²"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment C, 2 bedrooms, 70m²"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "76.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "76.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "76.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "88.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Komplett ausgestattete Ferienwohnung (97-125m²) für 6-9 Personen, BAD/WC separat, Hausflur, Wohnküche, Balkon, großer Garten, Sat-TV, Bettwäsche und Handtücher vorhanden."
+        },
+        {
+          "@language": "en",
+          "@value": "complete equipped appartement (97-125m²) - for 6-9 persons, livingroom with kitchen, balcony, big garden, Sat-TV, bedlinen and towels incl."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment B, 6-9 Personen"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/3 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "7.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "102.00",
+          "maxPrice": "102.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "102.00",
+          "maxPrice": "102.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "102.00",
+          "maxPrice": "102.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "108.00",
+          "maxPrice": "108.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "118.00",
+          "maxPrice": "118.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "128.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Holiday home, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Дом отдыха, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Komplett ausgestattetet Ferienwohnung 50 m² mit einem Doppelzimmer und einem Zimmer mit 2 separaten Betten,\nDusche/WC, Wohnküche, Sat-TV. Bettwäsche und Handtücher vorhanden.\n\nInkl.: Heizung, Wasser, Strom\nExkl.: Endreinigung, Ortstaxe\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Completely equipped holiday apartment 50 m ² with a double room and a room with 2 separate beds,\nShower / WC, kitchen-living room, Sat TV. Bedclothes and towels available.\nIncl. : Heating, water, stream\nExkl. : Final cleaning, local rate \n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienhaus/2 Schlafzimmer/Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "hol. house/comb living-bedroom/bath, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Дом отдыха, ванна, туалет"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "76.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "76.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "76.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

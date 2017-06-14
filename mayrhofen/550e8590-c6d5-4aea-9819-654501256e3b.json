@@ -1,0 +1,1161 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.apart-therese.at",
+    "http://maps.mayrhofen.at/proxy/frontend/page/mayrhofen/de",
+    "http://maps.mayrhofen.at/?foreignResource\u003d550E8590-C6D5-4AEA-9819-654501256E3B"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Therese, Aparthotel ",
+    "streetAddress": "Laubichl 131",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 2621721",
+    "faxNumber": "(0043) 5285 62817 25",
+    "email": "info@apart-therese.at ",
+    "url": "http://www.apart-therese.at"
+  },
+  "name": "Aparthotel Therese",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ausblicke in die Frische der Natur. Glasklare Luft und kristallreine Farbenpracht. Geniessen Sie die Reize landschaftlicher Natur für ausgeglichene Urlaubstage und erleben Sie genau das richtige Mass an Erholung, Aktivität, Spass und Ruhe. Das Urlaubsparadies Mayrhofen bietet Ihnen eine Vielseitigkeit Ihres ganz individuellen Urlaubstraumes. Unabhängig von der Jahreszeit - wir haben für Sie ganzjährig geöffnet. Apart Therese - einfach-schöner-wohnen im stilvollen Ambiente der Familie Hollaus. \n"
+    },
+    {
+      "@language": "de",
+      "@value": "Preise exklusive Endreinigung! \nDampf-Aroma-Sauna, Infrarotkabine, Solarium \u0026 Sauna"
+    },
+    {
+      "@language": "de",
+      "@value": "Von der Bundesstraße B169 kommend vor Mayrhofen links abbiegen (Ausfahrt Brandberg bzw. Camping) und dann rechts abbiegen, beim Campingplatz vorbei, das Haus Therese befindet sich auf der linken Seite in einer Seitenstraße."
+    },
+    {
+      "@language": "en",
+      "@value": "Enjoy our natural environment with it\u0027s crystal clear air and splendid colours. Allow our landscape to sweep you away with it\u0027s beauty, and experience the right balance of relaxation, activity, fun and peace on your holiday. The holiday paradise of Mayrhofen offers so much variety for your individual holiday requirements. Regardless of which time of the year it is - we are open for you the whole year round.  Apart Therese - living in the stylish atmosphere of the Hollaus family."
+    },
+    {
+      "@language": "en",
+      "@value": "Price excludes final cleaning charge."
+    },
+    {
+      "@language": "en",
+      "@value": "Approaching Mayrhofen on the B169, turn left (exit for Brandberg/camping) next right past the camping site, Haus Therese can be found on the left in a small side road."
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "132"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/40d1e1bd-c74b-4fb2-be7a-7db61c54e764/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Hotel Garni Therese Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Hotel Garni Therese Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Hotel Garni Therese Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a05f4cc-b4e1-4d87-b315-6e5864968a19/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Hotel Garni Therese Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Hotel Garni Therese Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Hotel Garni Therese Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f2ecc9bc-b06a-459c-a338-78166fc588fb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Hotel Garni Therese Mayrhofen - Winter2"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Hotel Garni Therese Mayrhofen - Winter2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Hotel Garni Therese Mayrhofen - Winter2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b1e63f2-5520-4942-ac20-78d2c6ad095b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Hotel Garni Therese - Sonnenterrasse"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Hotel Garni Therese - Sonnenterrasse"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Hotel Garni Therese - Sonnenterrasse"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c304766b-3c26-4560-9d82-7aef060c9c05/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Hotel Garni Therese - Brunnen"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Hotel Garni Therese - Brunnen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Hotel Garni Therese - Brunnen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7edc85da-73e0-4ca5-8a5c-6757b3cdb184/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Hotel Garni Therese - Ruhezone"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Hotel Garni Therese - Ruhezone"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Hotel Garni Therese - Ruhezone"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4115923-435e-4505-80f7-bb59e50277ee/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Hotel Garni Therese - Wellnessbereich"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Hotel Garni Therese - Wellnessbereich"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Hotel Garni Therese - Wellnessbereich"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2e1ecbb1-0646-48eb-bcae-1c8280f74938/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ruheraum, Wellness-Bereich"
+        },
+        {
+          "@language": "en",
+          "@value": "Ruheraum, Wellness-Bereich"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ruheraum, Wellness-Bereich"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/acef9161-2c99-4208-a4ac-978365033200/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Hotel Garni Therese - Bank, Wellness-Bereich"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Hotel Garni Therese - Bank, Wellness-Bereich"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Hotel Garni Therese - Bank, Wellness-Bereich"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f7fbad35-54b9-494b-abf4-2da20bd23d78/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Hotel Garni Therese - Ofen, Wellness-Bereich"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Hotel Garni Therese - Ofen, Wellness-Bereich"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Hotel Garni Therese - Ofen, Wellness-Bereich"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ddd2212-8d40-4198-af21-155429b9fee9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Hotel Garni Therese -Kerze, Wellness-Bereich"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Hotel Garni Therese -Kerze, Wellness-Bereich"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Hotel Garni Therese -Kerze, Wellness-Bereich"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98af24d4-b23f-4b06-8f3b-08095974729f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Hotel Garni Therese -Zillertaler Quellwasser"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Hotel Garni Therese -Zillertaler Quellwasser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Hotel Garni Therese -Zillertaler Quellwasser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bfad9aa4-67f7-42ba-8076-2807d483c1c2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Apart Hotel Garni Therese - Aufenthaltsraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apart Hotel Garni Therese - Aufenthaltsraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Apart Hotel Garni Therese - Aufenthaltsraum"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.17469811537",
+    "longitude": "11.869370341301"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Einrichtung und Ausstattung: Balkon, Heizung, Schreibtisch, Sitzgruppe, Haarfön, Kabel-TV/SAT-TV, Radio, Safe, Steckdosen, Telefon, Weckeinrichtung,  Bettwäsche, Dunstabzug, Elektroherd, Geschirrausstattung, Geschirrspülmaschine, Kaffeemaschine, Kleiderschrank, Küche separat, Kühlschrank, Microwelle, Tisch-/Küchenwäsche"
+        },
+        {
+          "@language": "en",
+          "@value": "Equipped with a balcony, heating, writing desk, seating area, hair dryer, cable TV/ Sat-TV, radio, safe, plugs, telephone, alarm clock, bed linen, electric oven, air filter, crockery, dish washer, coffee machine, wardrobe, separate kitchen, fridge, microwave, table linen and tea towels."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment C 2 - 4 Personen 35m²"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./1 bedroom/shower,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Apartment (35 m²) \nmax. Belegung 3 Personen \nSchlafzimmer\nWohn/Schlafzimmer (mit hochwertiger Schlafcouch) mit Essbereich\nmoderne Küchenzeile mit Micro und Spülmaschine\nBadezimmer\ntraumhafter Südbalkon"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/fc444475-65b7-4f1e-b0f3-6a162be117b9/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "WZ, Apartment 35 m²"
+                },
+                {
+                  "@language": "en",
+                  "@value": "WZ, Apartment 35 m²"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "WZ, Apartment 35 m²"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/acb562d1-dde0-4ef8-8d18-d0c724edd137/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "SZ, Apartment 35 m²"
+                },
+                {
+                  "@language": "en",
+                  "@value": "SZ, Apartment 35 m²"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "SZ, Apartment 35 m²"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a9a28939-5117-474d-a431-07ba1cd560f5/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Küche, Apartment 35 m²"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Küche, Apartment 35 m²"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Küche, Apartment 35 m²"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/12e7b9bb-9119-4325-b738-0b7632524718/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Bad, Apartment 35 m²"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Bad, Apartment 35 m²"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Bad, Apartment 35 m²"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/7029723a-0bf3-4421-9075-23401fcd89de/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Ausblick, Apartment und Apartment deluxe"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Ausblick, Apartment und Apartment deluxe"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Ausblick, Apartment und Apartment deluxe"
+                }
+              ]
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.00",
+          "maxPrice": "141.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "177.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment C 2 - 4 Personen DELUXE 40 m²"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Apartment DELUXE (40 m²)\nSchlafzimmer\nWohn/Schlafzimmer (mit hochwertigem Schlafsofa) mit Essbereich und moderner Steinwand\nmoderne Küchenzeile mit Micro und Spülmaschine\nBadezimmer mit WC\nseparates WC\ntraumhafter Südbalkon"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/b4d90f10-5ff9-4dd8-9408-8dffea3c29dc/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "WZ DELUXE"
+                },
+                {
+                  "@language": "en",
+                  "@value": "WZ DELUXE"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "WZ DELUXE"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/e84ef2f9-d943-4dcc-8199-01bf8d25bc26/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "SZ DELUXE"
+                },
+                {
+                  "@language": "en",
+                  "@value": "SZ DELUXE"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "SZ DELUXE"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/304e095b-645e-4cd0-839a-e9618c828295/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "KÜCHE DELUXE"
+                },
+                {
+                  "@language": "en",
+                  "@value": "KÜCHE DELUXE"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "KÜCHE DELUXE"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/21d03ab6-429f-4b70-8b50-171c7db37768/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "BAD DELUXE"
+                },
+                {
+                  "@language": "en",
+                  "@value": "BAD DELUXE"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "BAD DELUXE"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/67ef0abe-8ba9-45cb-81c7-02e61c441245/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "AUSSICHT DELUXE"
+                },
+                {
+                  "@language": "en",
+                  "@value": "AUSSICHT DELUXE"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "AUSSICHT DELUXE"
+                }
+              ]
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "115.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Einrichtung und Ausstattung: Balkon, Heizung, Sitzgruppe, Haarfön, Kabel-TV/SAT-TV,  Radio, Safe, Steckdosen, Telefon, Weckeinrichtung,  Bettwäsche, Dunstabzug, Elektroherd, Geschirrausstattung, Geschirrspülmaschine,  Kaffeemaschine, Kleiderschrank, Küchenzeile, Kühlschrank, Microwelle, Tisch-/Küchenwäsche, Wohn-Küche, Handtücher"
+        },
+        {
+          "@language": "en",
+          "@value": "Equipped with a balcony, heating, writing desk. hair dryer, cable TV, Sat-TV, radio, safe, plugs, telephone, alarm clock, bed linen, electric oven, air filter, crockery, dish washer, coffee machine, wardrobe, kitchen with fridge, microwave, table linen and tea towels, lounge/kitchen."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Studio A 2 Personen 22m²"
+            },
+            {
+              "@language": "en",
+              "@value": "ap./combined living-bed-room/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Studio (22 m²)\nmax. Belegung mit 2 Personen \nDoppelbett\nEssbereich mit moderner Küchenzeile mit Micro und Spülmaschine\ntraumhafter Südbalkon"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/3152d50b-5cff-4533-b201-68925cf3123e/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "SZ, Studio 22 m²"
+                },
+                {
+                  "@language": "en",
+                  "@value": "SZ, Studio 22 m²"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "SZ, Studio 22 m²"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/3a586219-48f4-4082-9ef9-cdeb49306bab/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Küche, Studio 22 m²"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Küche, Studio 22 m²"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Küche, Studio 22 m²"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d79766c2-eb92-4500-ba25-eb6473248b51/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Bad, Studio 22 m²"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Bad, Studio 22 m²"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Bad, Studio 22 m²"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/c6ac85e1-266b-422a-bf5d-09cae5b01851/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Ausblick, Stuido"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Ausblick, Stuido"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Ausblick, Stuido"
+                }
+              ]
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "61.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Einrichtung und Ausstattung: Balkon, Heizung, Schreibtisch, Sitzgruppe, Haarfön, Kabel-TV/SAT-TV, Radio, Safe, Steckdosen, Telefon, Weckeinrichtung,  Bettwäsche, Dunstabzug, Elektroherd, Geschirrausstattung, Geschirrspülmaschine, Kaffeemaschine, Kleiderschrank, Küche separat, Kühlschrank, Microwelle, Tisch-/Küchenwäsche, Wärmespeicherofen, Himmelbett"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment D 4 - 6 Personen 75 m²"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.liv.-bedroom/2 bedroom/bath,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Apartment 75 m²\nmax. Belegung 5 Personen \n2 Schlafzimmer\nWohn/Schlafzimmer mit Kachelofen\nmoderne Küche mit großzügigem Essbereich\nBadezimmer mit WC\nseparates WC\ntraumhafter Südbalkon"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/426d3891-1749-48d0-ad77-fbc381d6ea4b/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "WZ, Apartment 75 m²"
+                },
+                {
+                  "@language": "en",
+                  "@value": "WZ, Apartment 75 m²"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "WZ, Apartment 75 m²"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/bd06361a-86aa-4e8a-b493-78a0267f59e3/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "SZ, Apartment 75 m²"
+                },
+                {
+                  "@language": "en",
+                  "@value": "SZ, Apartment 75 m²"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "SZ, Apartment 75 m²"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/78a18998-48e5-4ff1-aac5-c2f40eb4b9ac/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Küche, Apartment 75 m²"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Küche, Apartment 75 m²"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Küche, Apartment 75 m²"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/b7efda63-b351-40ae-a604-5d7832598d8c/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Bad, Apartment 75 m²"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Bad, Apartment 75 m²"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Bad, Apartment 75 m²"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ad9cfc93-7f51-43e5-9fc8-b8953e5ce940/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Ausblick, Apartment 75 m²"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Ausblick, Apartment 75 m²"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Ausblick, Apartment 75 m²"
+                }
+              ]
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "120.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "163.00",
+          "maxPrice": "310.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "280.00",
+          "maxPrice": "340.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment B 2 Personen DELUXE 30m²"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Studio DELUXE (30 m²)\nWohn/Schlafzimmer (Doppelbett) mit Kachelofen und 2 Sofas\nmoderne Küche mit Essbereich\nBadezimmer mit WC\nBalkon mit Morgensonne "
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/4586ed37-7e9e-4421-8559-7de37e072847/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "SZ STUDIO DELUXE"
+                },
+                {
+                  "@language": "en",
+                  "@value": "SZ STUDIO DELUXE"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "SZ STUDIO DELUXE"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/5ed8f185-e81c-4179-817c-78856028077a/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "KÜCHE STUDIO DELUXE"
+                },
+                {
+                  "@language": "en",
+                  "@value": "KÜCHE STUDIO DELUXE"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "KÜCHE STUDIO DELUXE"
+                }
+              ]
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d2fa9dad-ff1c-4357-9432-cf400af48605/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "BAD STUDIO DELUXE"
+                },
+                {
+                  "@language": "en",
+                  "@value": "BAD STUDIO DELUXE"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "BAD STUDIO DELUXE"
+                }
+              ]
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "72.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Souterrain - Apartment superior 40 m²\n- separater Eingang \n- 1 Schlafzimmer \n- modernst ausgestattete Lackküche (Microwelle, Spülmaschine ...) \n- großzügiger Wohn-Essbereich mit Couch (ausziehbar) \n- Badezimmer mit WC \n- SAT-TV \u0026 Radio, Telefon, Safe \n- hochwertiger Holzboden und Steinwand\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Souterrain - Appartement superior 40 m²\n- bedroom \n- own sun terrace \n- separate entrance \n- Modern equipped kitchen (Microwave, dishwasher ...) \n- large dining area \n- bathroom with WC \n- SAT-TV and radio, telephone, safe \n- quality wooden floor and stone wall \n- Extra bed possible\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Souterrain - Apartment E superior 40 m²"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "185.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "215.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.tiscover.at/landhaus-thomas",
+    "http://maps.mayrhofen.at/?foreignResource\u003dFBB05A8C-9D45-447F-A8E8-F9A1A35D116E"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Thomas, Landhaus",
+    "streetAddress": "Oberkumbichl 886",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 7906190 ",
+    "email": "landhausthomas@aon.at",
+    "url": "http://www.apart-zillertal.com"
+  },
+  "name": "Landhaus Thomas",
+  "description": [
+    "Familien- und kinderfreundliches Ferienhaus in ruhiger Lage am Ortsrand, nähe Ahornseilbahn und Skibushaltestelle, wenige Gehminuten ins Zentrum.",
+    "Inklusive: Strom, Heizung, Wäsche, Wasser, Garage möglich; Exklusive: Endreinigung\nHunde erlaubt, 4,-- pro Tag ohne Futter;",
+    "Check-In: ab 16.00 Uhr (auf Anfrage evtl. früher möglich), Check-Out: bis 09.00 Uhr\nMayrhofen - Einfahrt Mitte, an der ersten Kreuzung rechts abbiegen, dann geradeaus bis zum Gasthof Brücke, dort links abbiegen, weiter bis zum Imbissstand,ca.250m \nun"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "18"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae2fba41-49ad-4fab-89a1-e70af1e2330a/99/image.jpg",
+      "caption": "Landhaus Thomas Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3d550345-5a64-45f7-8d8a-74198065d5b3/99/image.jpg",
+      "caption": "Landhaus Thomas Mayrhofen - Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/951216ac-a5ab-4e11-ad43-919f8a45756b/99/image.jpg",
+      "caption": "Landhaus Thomas - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50f9ddb6-8989-434c-8369-7266d50f468a/99/image.jpg",
+      "caption": "Landhaus Thomas - Wohnraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53d4dc4f-201f-488e-abab-99411925e07b/99/image.jpg",
+      "caption": "Landhaus Thomas - Wohnraum2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bbe86b3b-b5a9-4d86-8e3e-dd2de3a3caa3/99/image.jpg",
+      "caption": "Landhaus Thomas - Wohnraum3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ea2ee71-a8b4-4478-826a-fee59e4a20fa/99/image.jpg",
+      "caption": "Landhaus Thomas - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1f0ce254-002f-404e-b485-8f8f7debf21a/99/image.jpg",
+      "caption": "Landhaus Thomas - Couch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d4568178-1bed-4fc9-8b27-a169b06fd5e0/99/image.jpg",
+      "caption": "Landhaus Thomas - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/72ce6d46-bc7b-4286-8907-c9ddf22e94d5/99/image.jpg",
+      "caption": "Landhaus Thomas - Deko"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2d652803-6194-420a-84d8-69eda51790e1/99/image.jpg",
+      "caption": "Landhaus Thomas - Deko2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0df9e37f-4035-49b4-82eb-aa4e663152df/99/image.jpg",
+      "caption": "Landhaus Thomas - Deko3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0222e22-ccfd-4b0a-8a9f-0e8497209d22/99/image.jpg",
+      "caption": "Landhaus Thomas - Deko4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4f3d4f4-b6de-4c7f-a8bc-8455b01c6aac/99/image.jpg",
+      "caption": "Ansicht Zimmer "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1570860299868",
+    "longitude": "11.8669885396957"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Ca. 45m² große Wohnung mit Eßecke und 2 Schlafgelegenheiten, TV, Küche komplett eingerichtet,  1 Doppel- bzw. Dreibettzimmer, Dusche, WC, separat, Vorraum mit Garderobe,teilweise Balkon. Garage möglich; Geschirrspüler.\nEndreinigung ab € 30,--",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap./Wohn-Schlafraum/1 Schlafraum/Du,WC",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "42.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

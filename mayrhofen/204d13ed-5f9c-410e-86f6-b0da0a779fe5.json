@@ -1,0 +1,393 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.tiscover.at/ferienwohnung-summerer",
+    "http://maps.mayrhofen.at/?foreignResource\u003d204D13ED-5F9C-410E-86F6-B0DA0A779FE5"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Zillerlände 496",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64363",
+    "faxNumber": "0043 5285 64363",
+    "email": "p.summerer@aon.at"
+  },
+  "name": "Summerer Peter",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Privathaus in ruhiger, sonniger Lage. Nähe Ahorn- und Penkenbahn. In unserer neuen, komfortablen Ferienwohnung finden 2-5 Pers. Platz. Die Wohnung befindet sich im Erdgeschoss unseres Einfamilienhauses, im Sommer können die Gäste die Terrasse mit den Gartenmöbeln sowie unsere Wiese benutzen. Vor dem Haus befindet sich ein Parkplatz. \nEs ist auch die Buchung einer Pauschalwoche möglich.\nOrtstaxe: exklusive\nReservierung nur gegen Anzahlung möglich, Restbezahlung erfolgt bei Ankunft.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Die Kosten der Wohnung sind inkl.: Heizung, Wäsche, ges. Koch- und Essgeschirr, Mikrowelle, Kaffeemaschine, Ortstaxe. Extra zu bezahlen Endreinigung: 30,-- bis 45,-- Euro je nach Belegung\nAnmerkung: Haustiere sind nicht erlaubt"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: 14:00 Uhr / Check out: 09:00 Uhr.\nAnreise: Über die B169 erreichen Sie Mayrhofen. Beim Kreisverkehr fahren Sie geradeaus um dann die Einfahrt Mitte Richtung Dorfzentrum zu nehmen. Bei der 1. Kreuzung rechts abbiegen (Hauptstrasse), Hauptst"
+    },
+    {
+      "@language": "en",
+      "@value": "Private house in a quiet, sunny position, close to the Ahorn and Penken lifts. Our new apartment is suitable for 2-5 persons, and is located on the ground floor of our private home. In summer our guests are welcome to use the sun terrace with comfortable garden furniture, as well as our garden. Car park. Daily bread delivery service. In winter it ist possible to book a package within the skipasses for 6 days."
+    },
+    {
+      "@language": "en",
+      "@value": "The price includes: Heating, bed linen/towels, crockery and cooking utensils, microwave, coffee machine and local taxes. A final cleaning charge of between 30.- and 45.- Euro will be made, according to the amount of people staying."
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 13.00hr / Check out: 09.00hr.\nDirections: Use the B169 to Mayrhofen. Drive straight on at the roundabout, and then turn left at Einfahrt Mitte towards the town centre. Turn right at the next junction and drive up the high street until the"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e086651c-1513-4136-a09d-29b9f85a6780/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Peter Summerer Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Peter Summerer Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Peter Summerer Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b268b238-c966-493c-a08c-3f7d912710b8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Peter Summerer Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Peter Summerer Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Peter Summerer Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77a27369-2cb6-4552-a9d4-1c63c57278e7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Peter Summerer - Eingangsbereich"
+        },
+        {
+          "@language": "en",
+          "@value": "Peter Summerer - Eingangsbereich"
+        },
+        {
+          "@language": "ru",
+          "@value": "Peter Summerer - Eingangsbereich"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e1605c21-85f2-40cc-91b7-ba4880e41977/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Peter Summerer - Zimmer Grünbergblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Peter Summerer - Zimmer Grünbergblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Peter Summerer - Zimmer Grünbergblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/72d5c074-3362-48d9-996f-9e93e3423c7c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Peter Summerer - Zimmer Penkenblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Peter Summerer - Zimmer Penkenblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Peter Summerer - Zimmer Penkenblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5947439-e7db-429f-b486-3ef37570b2d7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Peter Summerer - Küche mit Esstisch"
+        },
+        {
+          "@language": "en",
+          "@value": "Peter Summerer - Küche mit Esstisch"
+        },
+        {
+          "@language": "ru",
+          "@value": "Peter Summerer - Küche mit Esstisch"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96ad4129-461a-4120-9bf8-143c29c5f0af/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Peter Summerer - Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Peter Summerer - Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Peter Summerer - Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84ac4a8d-b724-471f-8138-b312421aa012/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Alpenrosen auf dem Weg zur Edelhütte"
+        },
+        {
+          "@language": "en",
+          "@value": "Alpenrosen auf dem Weg zur Edelhütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Alpenrosen auf dem Weg zur Edelhütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c88fef20-8b23-4eb9-b338-b3e4e34d8ae9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahornspitze"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahornspitze"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahornspitze"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/265e9945-1e7d-48de-9a96-6de4974c7c0c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wasserfall auf dem Weg zum Kolmhaus"
+        },
+        {
+          "@language": "en",
+          "@value": "Wasserfall auf dem Weg zum Kolmhaus"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wasserfall auf dem Weg zum Kolmhaus"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca413472-23cf-4bc4-a39f-1e6969ac1d81/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommeridylle"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommeridylle"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommeridylle"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ebb493c-a38a-4274-8a35-d990b2585e91/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahorn"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahorn"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahorn"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/acc542f2-c725-40bb-876a-f906ff4ad2e1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Grünbergblick Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Grünbergblick Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Grünbergblick Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9cd89a99-3683-4165-b7da-4fccf4f52d6c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Peter Summerer - Grundriss"
+        },
+        {
+          "@language": "en",
+          "@value": "Peter Summerer - Grundriss"
+        },
+        {
+          "@language": "ru",
+          "@value": "Peter Summerer - Grundriss"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1604528004553",
+    "longitude": "11.8637377023697"
+  },
+  "paymentAccepted": [
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Unsere neue, komfortable Ferienwohnung bietet 2-4 Pers. (mit Kinder 5 Pers)Platz. Die Wohnung befindet sich im Erdgeschoss unseres Einfamilienhauses. Im Sommer steht Ihnen eine Gartenlaube zur Verfügung. Wohnfläche: ca. 65m²: Vorraum, voll eingerichtete separate Küche (Mikrowelle, Kaffeemaschine), 2 Doppelzimmer, Bad, separates WC, Sat-TV, Zimmersafe. Parkmöglichkeit für 1 Pkw. Hinweis: Haben Sie Respekt vor unserem Eigentum! Wir behalten uns das Recht vor, 1x pro Tag in das Appartement zu gehen"
+        },
+        {
+          "@language": "en",
+          "@value": "Our new, comfortable apartment is suitable for 2-5 persons. The apartment can be found on the ground floor of our family home. In summer our guests are welcome to use the sun terrace with garden furniture, and the garden. Living area: 65m². Entrance hall, fully equipped separate kitchen, (microwave, coffee machine), 2 double bedrooms, bathroom, separate WC, SAT-TV. You can also book a package within skipass for 6 days."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower,bath tube,WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "120.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "120.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "120.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dD8351666-79B7-4109-BDA1-C6EAD1A389FA"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Daxgabler, Haus",
+    "streetAddress": "Breitlahneweg 297",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64263",
+    "faxNumber": "0043 5285 64263",
+    "email": "johanna-daxgabler@gmx.net"
+  },
+  "name": "Haus Daxgabler",
+  "description": [
+    "Our house is situated in a quiet location at the forest edge. The holiday apartment consists of 2 bedrooms, a single room with sofa bed, shower and separate WC. The apartment can also be used as a double room.",
+    "The price includes local taxes and excludes a final cleaning charge.",
+    "The Zillertal main through fare, the B169, in the direction of Mayrhofen, at the roundabout take the Einfahrt Nord exit, past the Europahaus and the first turning on the right."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5a4b4a8f-2844-4a7d-9748-d2f8d3e2c4e3/99/image.jpg",
+      "caption": "Haus Daxgabler Mayrhofen im Zillertal Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f6c8d196-d6e5-43a4-9553-47006f680185/99/image.jpg",
+      "caption": "Haus Daxgabler Mayrhofen mit Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0fa301a-f5e0-4dd9-b8fd-90aa4708ad14/99/image.jpg",
+      "caption": "Haus Daxgabler Mayrhofen Balkon Ausblick"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1662447513668",
+    "longitude": "11.8710601329803"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 3 bed rooms",
+      "description": "Large lounge/kitchen, 3 bedrooms, shower and separate WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/3 bedrooms/shower, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "105.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

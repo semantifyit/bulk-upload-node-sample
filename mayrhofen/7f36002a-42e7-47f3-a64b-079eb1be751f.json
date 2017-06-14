@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Grüne Wand Hütte 1438m"
+    },
+    {
+      "@language": "de",
+      "@value": "Grüne Wand Hütte 1438m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Grüne Wand Hütte 1438m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0696144",
+    "longitude": "11.920905"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Grüne Wand Hütte",
+    "streetAddress": "Stillupp 966",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 1051 404",
+    "email": "gruenewandhuette@a1.net"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Urige, gemütliche Hütte mit gewissem Flair, gute Küche mit immer frischen Zutaten (alles selber gemacht), immer frische Salate!\n\nAm Dienstag immer Live Hausmusik.\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\ngeschlossen\n\nÜbernachtung möglich "
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nclosed\n\novernight stay possible "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0b9d21b-0c41-45da-84db-017aca9f32a8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "GrüneWandHÜtteI"
+        },
+        {
+          "@language": "de",
+          "@value": "GrüneWandHÜtteI"
+        },
+        {
+          "@language": "ru",
+          "@value": "GrüneWandHÜtteI"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/be6bd1d2-9c0e-47d6-bfa1-1fa16228b0dd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "GrüneWandHütte"
+        },
+        {
+          "@language": "de",
+          "@value": "GrüneWandHütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "GrüneWandHütte"
+        }
+      ]
+    }
+  ]
+}

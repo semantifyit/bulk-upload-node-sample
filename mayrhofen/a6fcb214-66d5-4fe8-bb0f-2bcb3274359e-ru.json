@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Schneekarhütte 2223m - Penken/Horberg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1898655758448",
+    "longitude": "11.7925894260406"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schneekarhütte",
+    "streetAddress": "Horberg ",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64940",
+    "faxNumber": "(0043) 5285 28294",
+    "email": "rezeption@schneekarhuette.at",
+    "url": "http://www.schneekarhuette.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dafa8e2d-ee83-4948-ad85-c0f08a374491/99/image.jpg",
+      "caption": "Schneekarhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b946327-c53e-4d3c-866b-4dbdf6ae3ef6/99/image.jpg",
+      "caption": "Schneekarhütte 2"
+    }
+  ],
+  "url": [
+    "http://www.schneekarhütte.com"
+  ]
+}

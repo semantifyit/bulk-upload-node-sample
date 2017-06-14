@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsEvent"
+  ],
+  "name": "9th Zillertal Bike Challenge",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Zillertal Tourismus GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bundesstraße 27d",
+      "addressLocality": "Schlitters",
+      "postalCode": "6262",
+      "addressCountry": "AT",
+      "telephone": "+43 5288 87187 ",
+      "email": "info@zillertal.at",
+      "url": "http://www.zillertal.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Zillertal Tourismus GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bundesstraße 27d",
+      "addressLocality": "Schlitters",
+      "postalCode": "6262",
+      "addressCountry": "AT",
+      "telephone": "+43 5288 87187 ",
+      "email": "info@zillertal.at",
+      "url": "http://www.zillertal.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59c9b80f-484e-4b23-8dda-20c42106f427/99/image.jpg",
+      "caption": "Bike Challenge 2015"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5789bb70-043d-4705-bf79-cbb4d122a36f/99/image.jpg",
+      "caption": "Bike Challenge"
+    }
+  ],
+  "url": [
+    "http://www.zillertal-bikechallenge.com"
+  ],
+  "startDate": "2017-06-30T00:00:00",
+  "endDate": "2017-07-02"
+}

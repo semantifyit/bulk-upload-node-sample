@@ -1,0 +1,340 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.skischule-lechner.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d37000944-10CF-4CD5-866D-4917F4EFB411"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lechner, Waldhaus",
+    "streetAddress": "Jakob-Moser-Straße 586",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 1141496",
+    "faxNumber": "0043 5285 63264",
+    "email": "skischule.f.lechner@tirol.com",
+    "url": "http://www.skischule-lechner.at"
+  },
+  "name": "Waldhaus Lechner",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus befindet sich in ruhiger, sonniger Lage (Sonne von Mitte Januar bis Anfang November. Waldrandlage, aber nur 5 Gehminuten vom Ortszentrum, den beiden Bergbahnen, dem Erlebnisbad, Tennisplätzen und Restaurants entfernt. 3 Gehminuten zur Skibushaltestelle. Eine Liegewiese, Sonnenterrasse und Grillplatz sind vorhanden. Unser Haus bietet einen herrlichen Blick auf die Zillertaler Alpen und ist an den Spazier- und Radwegen in den Zillergrund und das Stilluptal gelegen. Bettwäsche und Erstausstattung Handtücher inklusive. Mehr Informationen und Bilder unter www.skischule-lechner.at\n\nFür Ihre MTB´s oder Rennräder haben wir eine eigene Werkstatt, direkt im Haus, wo Sie fast alle Reparaturen, fachmännisch erledigt bekommen. \n\nBicycle Holidays Max Hürzeler, www.huerzeler.com bietet Ihnen direkt in Mayrhofen einen bestens bekannten Service rund um Rennrad und MTB und natürlich auch geführte Touren, an.  Der Stationsleiter Sigi Rieger nimmt Ihre Reservierungen gerne unter sigi.rieger@bicycle-holidays.com entgegen.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Es sind jetzt insgesamt 4 Schlafräume, wenn beide Wohnungen als eine Fewo gebucht werden, Bad, extra Dusche und Wohnküche\nUnd 2 x 2 Schlafräume, wenn die Wohnungen einzeln gebucht werden.\n \nAb 35 € Endreinigung, je nach Schlafräumen\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise ab 15 Uhr\nAbreise: 8.45\n\nGegenüber Penkenbahn links in die Fischhaberstraße einbiegen, bis zur nächsten Kreuzung ca. 150 m, danach rechts und an der Gabelung wieder rechts in die Jakob-Moser-Straße einbiegen. Das 6. Haus auf der rechten Seite. \n\nVerpflegung: kein Frühstück\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated in a quiet, sunny (from the middle of January until the beginning of November) position on the forest edge, but only a 5 minute walk from the centre of town, both lift stations, the adventure swimming pool, tennis courts and restaurants. 3 minute walk to the ski bus stop.  A sunning area, terrace and barbeque area are available. Our house has a fabulous view of the Zillertaler Alps and is ideally sitiated  for walks and cycle tours in to the Zillergrund and Stilluptal vallies. The rooms are rustically furnished, all with shower/WC, cable TV and balcony. Pleasant guest lounge. Fitness training in the mornings and massages available in house. A special sport breakfast is also available when required."
+    },
+    {
+      "@language": "en",
+      "@value": "Massage from 15.- Euro\nFinal cleaning charge: from 35.- Euro\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Arrival: froom 15.00  departure: 8.45 \n\nDirections: At the Penken lift station, turn left into the Fischerstrasse, 150m straight on until the next junction, turn right and right again where the road forks into the Jakob-Moser-Strasse. The 6th house on the right with a double garage on the car park is ours."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2a48114-cbc5-45d6-af5e-14fa772bbdd8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Waldhaus Lechner Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Waldhaus Lechner Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Waldhaus Lechner Mayrhofen - Sommer"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.160817551511",
+    "longitude": "11.8641185760498"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "FERIENWOHNUNG FÜR MAXIMAL 10 Personen:\nInsgesamt 4 Schlafräume: \nA-Raum \n2 x 3-Bettzimmer \n1 Bad mit Doppelwaschbecken und Toilette, 1Wohnküche, südseitiger Balkon\nB-Raum \n2 Doppelzimmer mit Kochgelegenheit\n1 Dusche mit WC, Kochgelegenheit, südseitiger Balkon\nSommer: Preis pro Tag ab 110 € (plus Endreinigung 60 € einmalig)\n\nOder:\n1 Ferienwohnung für maximal 6 Personen (Aufteilung wie oben A-Raum) \nSommer: Preis pro Tag ab 65 € (plus Endreinigung 50 € einmalig)\n1 Ferienwohnung für maximal 4 Personen (Aufteilung wie oben B-Raum)) \nSommer: Preis pro Tag ab 45 € (plus Endreinigung 35 € einmalig)"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment for 10 persons:\n4 sleeping rooms:\nA-room\n2 x 3-bedrooms\n1 bathroom with double washbasin and a toilette, 1 kitchen, east balcony\nB-room\n2 double rooms with kitchen \n1 shower with WC, kitchen, east balcony\nsummer: price per day 110 € (plus final cleaning 60 €)\n\nor:\n1 apartment for maximum 6 persons\nsummer: price per day 65 € (plus final cleaning 50 €)\n1 apartment for maximum 4 perons\nsummer: price per day 45 € (plus final cleaning 35 €)\n\n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Bikepauschale mit Hürzeler Bike 2011 7 Nächte"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet, 2 спальни"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Mit Hürzeler Bike auf eigene Faust:\n+ 7 Übernachtungen im Appartment\n+ 7 Tage Hürzeler Mietrad \n+ Tourenkarte Zillertal Bikeguide\n+ Kombiticket (5 Bergfahrten) der Mayrhofner Bergbahnen"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Bikepauschale mit eigenem Bike 2011 7 Nächte"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet, 2 спальни"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Mit eigenem Bike auf eigene Faust:\n\n+ 7 Übernachtungen im Appartment\n+ Tourenkarte Zillertal Bikeguide\n+ Kombiticket (5 Bergfahrten) der Mayrhofner Bergbahnen"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Bikepauschale Gesamtpaket 2011 7 Nächte"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet, 2 спальни"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Das Gesamtpaket beinhaltet:\n+ 7 Übernachtungen im Appartment\n+ 6 Geführte Mountainbike- oder Rennradtouren inklusive Hürzeler Bike"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "837.60",
+          "maxPrice": "837.60",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

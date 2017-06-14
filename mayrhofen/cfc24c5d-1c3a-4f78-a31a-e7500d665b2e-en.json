@@ -1,0 +1,143 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.kogler.cc",
+    "http://maps.mayrhofen.at/?foreignResource\u003dCFC24C5D-1C3A-4F78-A31A-E7500D665B2E"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wildauer, Haus",
+    "streetAddress": "Dornaustraße 610",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(+43) 5285 62730",
+    "faxNumber": "(+43) 5285 62730",
+    "email": "info@haus-wildauer.at",
+    "url": "http://www.haus-wildauer.at"
+  },
+  "name": "Gästehaus Wildauer",
+  "description": [
+    "Comfortable private bed and breakfast situated in a pleasant, quiet position. Guest lounge with Sat-TV, 2 minutes walk from the Penken lifts and town centre.",
+    "Chilren\u0027s discounts available on request. Animals allowed.",
+    "Use the Zillertaler main through fare, the B169, until Einfahrt Mitte at Mayrhofen. Carry straight on until the Red Cross, and turn left in to the Dornaustrasse. Our house can be found after about 150metres on the right."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5be23769-5103-4010-8f22-89ac269fdb10/99/image.jpg",
+      "caption": "Haus Wildauer Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4fcf43f5-e3cd-4b1e-9ead-7bd592cc6430/99/image.png",
+      "caption": "logo_haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd65f6c7-0cb7-4414-832e-5bd4e63c64a7/99/image.jpg",
+      "caption": "125850"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/22f911a6-e8d8-4782-afd0-572f9a8694d5/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28b05dba-e5f1-47ea-ba90-784d38ff2ee6/99/image.jpg",
+      "caption": "skifahrer-in-action"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/93bad562-3d9f-4520-aefb-d1678864c13c/99/image.jpg",
+      "caption": "Sommer wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5b9ca273-d9c7-49ae-8be8-f343ffcfbc7e/99/image.jpg",
+      "caption": "Sommer_Gipfel_Panorama ("
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d508e077-d299-4465-b445-169d62482573/99/image.jpg",
+      "caption": "bike mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5bc1619a-1abc-4edd-b5fd-c141325ef469/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/27dca63b-4298-4f8b-b45b-64613bdc4df2/99/image.jpg",
+      "caption": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6156266-fac0-4653-af67-43b75f3125c2/99/image.jpg",
+      "caption": "MayrhofnerBergbahnen_Skifahren_am_GeniesserbergAho"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5899b090-2be4-43ce-826d-13c8ec2a938c/99/image.jpg",
+      "caption": "MayrhofnerBergbahnen_Talabfahrt_am_Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7b5d0a8-4935-49b4-82ef-1db4aa7cbf01/99/image.jpg",
+      "caption": "MayrhofnerBergbahnen_WhiteLounge_IgluDorf"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.165070363998",
+    "longitude": "11.8591994047165"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Comfortably furnished double room with balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "25.00",
+          "maxPrice": "33.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "33.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

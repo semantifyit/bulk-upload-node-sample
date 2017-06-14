@@ -1,0 +1,204 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness",
+    "Hostel"
+  ],
+  "url": [
+    "http://www.berghuetten-im-zillertal.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dB58A3848-1B2B-4B6E-AA27-F1BBE16B167F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsberg 852",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3336",
+    "email": "hoellwarth.gottfried@aon.at",
+    "url": "http://www.berghuetten-im-zillertal.at"
+  },
+  "name": "Scherzerhütte",
+  "description": "Our self-supporting hut offers place for 10 people and is situated in Ramsberg in the wonderful Zillertal \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc301253-973c-41ab-865c-4d9d3f21c4a9/99/image.jpg",
+      "caption": "Scherzerhütte Ramsau - Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77ea45d1-954d-4129-b6bb-b7d46035f3ed/99/image.jpg",
+      "caption": "14d20c3b-d091-4b24-b520-638f16fd5572_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2d00b46-33f2-42c4-b488-3a8950014c60/99/image.jpg",
+      "caption": "3ef4fc27-b564-4278-b88a-c0b47ffc49f0_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/606885bb-a87f-4768-bb49-bc87e4206719/99/image.jpg",
+      "caption": "924a237e-a339-4c63-ba7c-6c148b31e676_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb0b1d10-a25d-4ac6-9f4a-18e361df355a/99/image.jpg",
+      "caption": "efcf9e3d-2197-4943-974c-b134a3ffcd66_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9e1d29e-98b8-43f9-ab87-c7ad14f60d9a/99/image.jpg",
+      "caption": "557b3c1e-165f-410e-b65d-623c08bc2668_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf2404ac-9b01-4fe0-89e2-528b9d7d91ea/99/image.jpg",
+      "caption": "5ccfc845-accd-4d33-9c97-a4c31ae5015d_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/72575341-bf2b-4215-8d7e-c02cb12187a0/99/image.jpg",
+      "caption": "3459eee6-a004-4078-8e6f-00d0a9269298_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7637c34-c3bd-4d66-9507-52a4bdb38ec2/99/image.jpg",
+      "caption": "cd7abff3-7d7c-45f4-bb34-6f9b9305349f_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/130ab946-22bd-4073-b037-2913df8e2a56/99/image.jpg",
+      "caption": "d0b76240-d915-49d9-b188-3e33a9d414a7_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e626dfd-7a30-44b5-88f7-ce54688f508c/99/image.jpg",
+      "caption": "d94176f7-f853-4494-aee2-e362ae538750_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/03f3b6b2-19d5-4441-8143-e6acc54bef4a/99/image.jpg",
+      "caption": "e64fcc1b-61dc-4367-9970-a45ebc2cb2fe_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0dcd3e10-d3d5-4cfa-9162-f540cd23ce8a/99/image.jpg",
+      "caption": "9bf1543c-0df8-44ef-a0f3-f0a08fc6072b_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/535178b8-b39e-4e02-8053-c8c0e32907e6/99/image.jpg",
+      "caption": "e25783d7-9f2f-4817-8196-2896b043d50a_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/087ac680-b850-4d53-b6af-34591dbe240b/99/image.jpg",
+      "caption": "f7b5ef5a-5c0d-4a10-ab72-814314113f1a_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8dafc6f-3f84-443a-8e71-6a017ad75d61/99/image.jpg",
+      "caption": "b067f726-7bfc-4537-8dd9-d712d749d78b_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26c4dcb9-f9eb-4f50-90be-7f04c73d0b5f/99/image.jpg",
+      "caption": "26a01aa3-ab05-44e8-bb5f-7dcddaff686f_1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2036382",
+    "longitude": "11.8857405"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 2 bed rooms",
+      "description": "\u0027Mole cerium\u0027\nSelf-supporting hut for 10 people with approx. 70 m ² living space.\n| Situation: |\nOur hut lies on 1350 m in the middle of the skiing area of Mountain Rams / Gerlosstein (Zillertalarena). Directly along the hut a 7-km-long, toboggan run illuminated in the evening - the longest natural toboggan run of the Zillertales leads! At sledge company operates the Gerlossteinseilbahn also in the evening.\n| Equipment: |\ncomfortable hut tube with living-room furniture and a small bar; the fully equipped kitchen disposes of E cooker, baking pipe, fridge, coffeemaker as well as a television set with SAT receipt. Balcony with marvellous view in the rear Zillertal. Dusche\u0026WC are on the 1st floor.\nPlaces to sleep:\n1 4 bed room (2 double beds)\n3 double rooms\nHeating with wooden stove as well as electric heating. The hot-water boiler has about 100 l of capacity.\nImportantly: Bedclothes are to be brought! ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet, 2 bed rooms",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "100.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "220.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "200.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "200.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "200.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "200.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "200.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

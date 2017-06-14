@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "IceCreamShop"
+  ],
+  "name": "Kostner - Cafe Konditorei Bäckerei",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1676051117311",
+    "longitude": "11.8629866838455"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Cafe-Konditorei Kostner",
+    "streetAddress": "Hauptstraße 414",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62215",
+    "faxNumber": "0043 5285 622154",
+    "email": "info@kostner.at",
+    "url": "http://www.kostner.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e639e058-4d59-43a3-b94c-c8511f602a1b/99/image.jpg",
+      "caption": "Kostner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/70cf69e7-ba43-423e-b0c3-bb0ec350d605/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1491392c-784e-48f6-a0db-b25be94cf27f/99/image.jpg",
+      "caption": "Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/47a3dd60-0f05-4099-901e-c1b616d76633/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e18f5326-bd3f-4d46-bef7-cba77c0b46db/99/image.jpg",
+      "caption": "Cafe-Konditorei Bäckerei Kostner"
+    }
+  ],
+  "url": [
+    "http://www.kostner.at"
+  ]
+}

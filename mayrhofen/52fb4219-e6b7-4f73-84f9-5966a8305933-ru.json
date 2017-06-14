@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Lisa\u0027s Laden",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.162665",
+    "longitude": "11.8605918000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lisa\u0027s Laden ",
+    "streetAddress": "Hauptstraße 480",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 1516482",
+    "email": "info@lisas-laden.at",
+    "url": "http://www.lisas-laden.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68e58c4b-1cd0-4be6-9217-1f87f0cdd371/99/image.png",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.lisas-laden.at"
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast",
+    "Hotel"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dB88466E1-8B63-47D3-9F3A-9AC6DB0FB6ED"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hochschwendberg 501",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4283",
+    "faxNumber": "0043 5282 20860"
+  },
+  "name": "Eder Viktoria",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Gemütliches Bauernhaus direkt an der Skibushaltestelle. Eigene Küche für Gäste vorhanden. Ca. 40m² mit elektro Herd, Mikrowelle, Kaffeemaschine, Wasserkocher, Fernseher und Kühlschrank mit Gefrierfach.\nDer Skibus verkehrt direkt ins Skigebiet!"
+    },
+    {
+      "@language": "de",
+      "@value": "Brötchenservice\nKinderermäßigung auf Anfrage!\nStromkosten pro KWH 0,30 Cent"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in 14.00 Uhr - Check out 10.00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "comfortable farm house situated directly on the ski-bus-stop. the ski bus goes direct into the skiarea."
+    },
+    {
+      "@language": "en",
+      "@value": "bread service. child reduction on request.\nExcl. Strom"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in 14.00 \nCheck out 10.00 "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b15c0315-482e-4c0f-8a1c-c980d08ea71a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Eder Viktoria Hippach - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Eder Viktoria Hippach - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Eder Viktoria Hippach - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59dc1dd2-d180-48e8-ad10-c9010d9dc56d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Eder Viktoria Hippach - Sommer I"
+        },
+        {
+          "@language": "en",
+          "@value": "Eder Viktoria Hippach - Sommer I"
+        },
+        {
+          "@language": "ru",
+          "@value": "Eder Viktoria Hippach - Sommer I"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1982823755502",
+    "longitude": "11.8371677398682"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, fl. k/w Wasser"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, running hot/cold water"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, горячая/холодная вода"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Zimmer mit Etagendusche, separatem WC, Kochmöglichkeit für Hausgäste gegeben!"
+        },
+        {
+          "@language": "en",
+          "@value": "bedroom with running hot/cold water, seperate toilette, cooking possibility;"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit fl. Wasser"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with running hot/cold water"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, горячая/холодная вода"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "14.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, Душ"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Zimmer mit Dusche (WC am Gang). Kochmöglichkeit für Hausgäste"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, Душ"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "16.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "16.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "16.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Jagen - Pension Almhof"
+    },
+    {
+      "@language": "de",
+      "@value": "Jagen - Pension Almhof"
+    },
+    {
+      "@language": "ru",
+      "@value": "Jagen - Pension Almhof"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.172685184389",
+    "longitude": "11.8674981594086"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laubichl 141",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62932",
+    "faxNumber": "05285 6293220",
+    "email": "info@almhof-mayrhofen.at",
+    "url": "http://www.almhof-mayrhofen.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Jagdmöglichkeiten\nder Ferienregion Mayrhofen-Hippach im Zillertal\nWenn Sie schon immer einmal von einer Jagd in einem Naturparadies geträumt haben, dann sind Sie bei uns genau richtig. Mayrhofen liegt am Tor des Naturparks Zillertaler Alpen und am Scheitelpunkt von vier Quelltälern, die gleich hinter dem Urlaubsort beginnen.\n\nAufgrund dieser einmaligen Lage findet sich in unmittelbarer Nähe eine herrliche unberührte Landschaft. In bestimmten dafür vorgesehenen Gebieten und zu gewissen Zeiten, können Sie auf die Jagd gehen. Bitte beachten Sie, dass bestimmte Vorraussetzungen erfüllt werden müssen.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "At certain areas and at certain times, you can go hunting. Please notice, that certain conditions must be fullfilled."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d09e0fcc-7bcb-4fc3-a359-a1a465a80623/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Wandern"
+        },
+        {
+          "@language": "de",
+          "@value": "Wandern"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.almhof-mayrhofen.at"
+  ]
+}

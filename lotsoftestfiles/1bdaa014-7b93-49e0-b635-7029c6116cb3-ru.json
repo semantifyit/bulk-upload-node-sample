@@ -1,0 +1,107 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "SportingGoodsStore",
+    "LocalBusiness",
+    "BikeStore"
+  ],
+  "name": "Greenroom",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1661888",
+    "longitude": "11.86528"
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Monday",
+      "opens": "08:30",
+      "closes": "18:30",
+      "validFrom": "2016-11-26",
+      "validThrough": "2017-04-23"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Tuesday",
+      "opens": "08:30",
+      "closes": "18:30",
+      "validFrom": "2016-11-26",
+      "validThrough": "2017-04-23"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Wednesday",
+      "opens": "08:30",
+      "closes": "18:30",
+      "validFrom": "2016-11-26",
+      "validThrough": "2017-04-23"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Thursday",
+      "opens": "08:30",
+      "closes": "18:30",
+      "validFrom": "2016-11-26",
+      "validThrough": "2017-04-23"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Friday",
+      "opens": "08:30",
+      "closes": "18:30",
+      "validFrom": "2016-11-26",
+      "validThrough": "2017-04-23"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "08:30",
+      "closes": "18:30",
+      "validFrom": "2016-11-26",
+      "validThrough": "2017-04-23"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "08:30",
+      "closes": "12:00",
+      "validFrom": "2016-11-26",
+      "validThrough": "2017-04-23"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "15:00",
+      "closes": "18:30",
+      "validFrom": "2016-11-26",
+      "validThrough": "2017-04-23"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Greenroom",
+    "streetAddress": "Scheulingstraße 371",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63567",
+    "email": "info@greenroom.at",
+    "url": "www.greenroom.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0cdcd971-237d-4b20-881a-adccca40207e/99/image.jpg",
+      "caption": "logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/57f8268c-495f-40ad-b689-f95706048fa2/99/image.jpg",
+      "caption": "shop"
+    }
+  ],
+  "url": [
+    "http://www.greenroom.at/"
+  ]
+}

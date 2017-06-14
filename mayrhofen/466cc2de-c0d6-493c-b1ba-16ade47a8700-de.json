@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEvent"
+  ],
+  "name": "Schmankerlwoche \u0026 Schmankerlfest",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Tourismusverband Mayrhofen-Hippach",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstrasse 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6760",
+      "faxNumber": "+43 5285 6760-33",
+      "email": "info@mayrhofen.at",
+      "url": "http://www.mayrhofen.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Tourismusverband Mayrhofen-Hippach",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstrasse 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6760",
+      "faxNumber": "+43 5285 6760-33",
+      "email": "info@mayrhofen.at",
+      "url": "http://www.mayrhofen.at"
+    }
+  },
+  "description": "Das Angebot in der Schmankerlwoche bietet einen attraktiven Mix aus Tradition, Kulinarik und aktivem Erleben der Region und findet seinen Höhepunkt im Schmankerlfest, bei welchem lokale Gastronomiebetriebe regionaltypisch aufkochen und diverse Musikgruppen zum freudigen Genießen der bereiteten Schmankerln einladen.\n\nWie im vergangenen Jahr lädt die Hippacher Schmankerlwoche im Juli zum Erleben regionaler Spezialitäten ein. Zillertaler Köstlichkeiten und alpine Gastlichkeit stehen im Mittelpunkt der Themenwoche, welche ihren Höhepunkt im abschließenden Schmankerlfest findet.\n\nSchmankerlfest 09. Juli 2017\n„ Ein Fest für Genießer“ - nicht nur für Freunde der angenehmen, bodenständigen Musik, sondern auch für alle Freunde der einheimischen Schmankerln. \n\nKontakt:\nFestgemeinschaft Schmankerlfest\nTalstraße 74\nA-6284 Ramsau im Zillertal\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/228d9f0d-0027-4357-8f57-d104618cb888/99/image.jpg",
+      "caption": "Schmankerlwoche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/95820c62-0c64-4a30-b208-2375394846c8/99/image.jpg",
+      "caption": "Schmankerlfest"
+    }
+  ],
+  "startDate": "2017-07-03T00:00:00",
+  "endDate": "2017-07-09"
+}

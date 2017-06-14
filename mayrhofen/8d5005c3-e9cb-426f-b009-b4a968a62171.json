@@ -1,0 +1,81 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Gasthof Berghof"
+    },
+    {
+      "@language": "de",
+      "@value": "Gasthof Berghof"
+    },
+    {
+      "@language": "ru",
+      "@value": "Gasthof Berghof"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2000798",
+    "longitude": "11.85122"
+  },
+  "openingHours": [
+    "Mon,Tue,Thu,Fri,Sat,Sun 00:00-00:00"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Berghof",
+    "streetAddress": "Schwendberg 412",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3676",
+    "faxNumber": "0043 5282 36764",
+    "email": "gasthof-berghof@tirol.com",
+    "url": "http://www.berghof-gasthof.at/"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Gasthof Berghof\nDein Ziel für unbeschwerte Tage mit einem Leben auf DU und DU.\nIn gesunder 850 m Seehöhe, an der Zillertaler Höhenstrasse in ruhiger Lage gelegen, 3 km vom Ort Hippach entfernt. \nDie Zillertaler Bergwelt hautnah erleben:\nBlühende Wiesen, Natur pur soweit das Auge reicht; reine Bergluft und das Gefühl von Freiheit.\n\nAusgangspunkt für viele Aktivitäten wie Schifahren, Bergwandern, Raftingtouren, Paragleiten, Mountainbike- und Motorradtouren.\nUnseren Gästen bieten sich viele Möglichkeiten, entlegene Seitentäler und die nächste Umgebung mit vielen Sehenswürdigkeiten kennen zu lernen. \n"
+    },
+    {
+      "@language": "de",
+      "@value": "Sommer\n\n04. Juni - 17.Oktober 2017\nMittwoch Ruhetag "
+    },
+    {
+      "@language": "en",
+      "@value": "Arrive - and the sun rises! Beginning with a warm \"hello\" s. In front of you is a time to relax, recover and enjoy!\n\nThe Gasthof Berghof in Hippach is located at 850 meters above sea level in a quiet location at the Zillertal High Road, only 3 km from downtown and 8 km from Hippach Mayrhofen."
+    },
+    {
+      "@language": "en",
+      "@value": "Summer\n04. June till 17. October 2017\nWednesday rest day"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4fda2564-39dd-462e-8abd-2592992e40c5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Berghof"
+        },
+        {
+          "@language": "de",
+          "@value": "Berghof"
+        },
+        {
+          "@language": "ru",
+          "@value": "Berghof"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://members.aon.at/berghof-schwendberg/"
+  ]
+}

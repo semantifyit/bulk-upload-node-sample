@@ -1,0 +1,289 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast",
+    "Hotel"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d07DC58E9-769D-4EA0-BFC9-FF4AE9A126FD",
+    "http://www.stock-mayrhofen.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bichl 484",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3786",
+    "faxNumber": "0043 5282 3786",
+    "email": "gaestehaus.stock@aon.at",
+    "url": "http://www.stock-mayrhofen.at"
+  },
+  "name": "Gästehaus Stock",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b492ada7-3f00-41e2-af7e-677117774f10/99/image.jpg",
+      "caption": "Gästehaus Stock Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13b3e476-5bf6-4860-873a-327026307823/99/image.jpg",
+      "caption": "Winterfoto"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2a8aa015-013f-4e90-94ea-e59fab6cf7d7/99/image.jpg",
+      "caption": "Gästehaus Stock Ramsau - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df99366a-5c36-46a5-b919-97cc83ae7d19/99/image.jpg",
+      "caption": "Stock_Marianne_Ramsau_Haus_Winter_2 kl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d6b56f21-bd0a-46b7-a7e7-fa6bdf7202f1/99/image.jpg",
+      "caption": "Stock_Marianne_Ramsau_Haus_Winter kl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/325d8cf7-88f0-4bdb-8d37-3018abf89542/99/image.jpg",
+      "caption": "Gästehaus Stock - Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ff894f7-8afd-4b2a-975e-e13be743b77a/99/image.jpg",
+      "caption": "Gästehaus Stock - Aufgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd22c4ce-0b26-4037-9377-47cea403a50f/99/image.jpg",
+      "caption": "Gästehaus Stock - Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8c68b38a-e87e-4a49-89ca-de761ea98d07/99/image.jpg",
+      "caption": "Sommerurlaub-5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84b1d8ad-c908-46fc-87fc-0f37481f2570/99/image.jpg",
+      "caption": "Sommerurlaub-3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a38f17e9-e817-4819-ad77-d9674c989fd6/99/image.jpg",
+      "caption": "Winterurlaub-4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/57a634e4-4070-4076-8059-79eb05fa8e37/99/image.jpg",
+      "caption": "Winterurlaub-5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cccbc9f9-1f80-43ba-af41-4edcc4edf98c/99/image.jpg",
+      "caption": "Haus Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1f2758f1-2673-4993-8524-59a416e77364/99/image.jpg",
+      "caption": "Haus Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8362f766-2a6d-4896-b182-da148225981e/99/image.jpg",
+      "caption": "Haus Winter 3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1954501931049",
+    "longitude": "11.8713229894638"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "комната на двоих, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "комната на двоих, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "комната на двоих, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "комната на двоих, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "28.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Одноместный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "отдельный номер, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "3-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "комната на трех человек, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

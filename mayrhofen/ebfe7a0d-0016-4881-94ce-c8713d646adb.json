@@ -1,0 +1,416 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dEBFE7A0D-0016-4881-94CE-C8713D646ADB"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sonneck, Haus",
+    "streetAddress": "Bichl 561",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3014",
+    "email": "anfang@aon.at"
+  },
+  "name": "Haus Sonneck",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Gästehaus liegt in sonniger Lage mit herrlichem Blick auf die Berge und bietet  Ihnen geräumige Zimmer mit fl. Wasser/Etagendusche/Etagentoilette und Zimmer mit Du/WC.\nWeiters verfügen wir über einen gemütlichen Aufenthaltsraum, einer großen Terrasse, Liegewiese und besonders wohlfühlen werden Sie sich auf unserem wunderschönen \"Rustikal-Balkon\".\nIn der Nähe gibt es ein vielseitiges Wanderangebot und werden auch zahlreiche andere Freizeitaktivitäten geboten.\nDie großen Skigebiete Mayrhofen und Zell am Ziller sind  nur in wenigen Minuten erreichbar.\nFur unsere Ski- bzw. Snowboardgäste steht selbstverständlich ein Skiraum und Skischuhtrockner zur Verfügung.\nIm \"Haus Sonneck\" können Sie \"Sommer wie Winter\" Ihren Urlaub in gemütlicher Atmosphäre genießen!"
+    },
+    {
+      "@language": "en",
+      "@value": "Our guest house lies in sunny situation with marvellous look at the mountains and offers you spacious rooms with water/shower/toilet and rooms with a shower/ toilet.\nFurthermore we dispose of a comfortable day room, a big terrace, sunbathing area and a balcony. \nNearby there is a many-sided travelling offer and numerous other leisure activities are also offered. \nThe big skiing areas Mayrhofen and Zell am Ziller are accessible in only a few minutes. \nAlso available is a ski space and ski shoe dryer. \nIn the \"house Sonneck\" you can enjoy \"summer like winter\" your vacation in comfortable atmosphere!\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d59ee88b-7401-41f6-be84-5df172215860/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Sonneck Ramsau - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Sonneck Ramsau - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Sonneck Ramsau - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17a2f639-53b9-4343-8a59-7278dbdb317c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Sonneck Ramsau - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Sonneck Ramsau - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Sonneck Ramsau - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fccca59e-e710-450c-a84e-0a1315a3f4e6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Panorama © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Panorama © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Panorama © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d5b4d6b6-39c7-4932-a684-1ea0ef4ec276/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skifahren © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Skifahren © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skifahren © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/667f4503-c875-4578-bd44-4cdc475bf243/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern am Stausee © Norbert Freudenthaler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56621b15-c8a7-4308-a753-cd8345ce6115/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pistenspaß © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Pistenspaß © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pistenspaß © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/626eb1a6-2758-419d-95f8-907d645345fb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Naturpark © Norbert Freudenthaler"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fc3b0407-d9cc-4a22-b4e4-c2361787c90b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter am Berg © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter am Berg © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter am Berg © Laurin Moser"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bd70dbf7-cf3a-4a7e-ba3e-4b9d27e91e9e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern im Stilluptal © Bernd Ritschel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/775727e1-8c54-49d0-8f10-628aff5f072c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterwandern © Laurin Moser"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterwandern © Laurin Moser"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1976226399918",
+    "longitude": "11.8754696846008"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, fl. k/w Wasser"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, running hot/cold water"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, горячая/холодная вода"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit fl. Wasser"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with running hot/cold water"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, горячая/холодная вода"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer, fl. k/w Wasser"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room, running hot/cold water"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер, горячая/холодная вода"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Dreibettzimmer mit fl. Wasser"
+            },
+            {
+              "@language": "en",
+              "@value": "triple room with running hot/cold water"
+            },
+            {
+              "@language": "ru",
+              "@value": "3-местный номер, горячая/холодная вода"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, fl. k/w Wasser"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, running hot/cold water"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, горячая/холодная вода"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer mit fl. Wasser"
+            },
+            {
+              "@language": "en",
+              "@value": "single room with running hot/cold water"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер, горячая/холодная вода"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

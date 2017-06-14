@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Filzenstadl 1975m - Ahorn",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1352953516346",
+    "longitude": "11.872253715992"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Filzenstadl",
+    "streetAddress": "Filzenboden 924",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 64773"
+  },
+  "description": "Summer \n10. June till 15. October 2017 depends on the weather conditions 21. October till 26. October 2017 \nno overnight stay possible",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a62bdbfc-4a6a-4e89-942c-40d27259d1a4/99/image.jpg",
+      "caption": "Filzenstadl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a9d9781-c44d-4ad5-8283-295ba3b243cf/99/image.jpg",
+      "caption": "Filzenstadl 1975m"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c42276e-441e-46c5-9254-ffdbe017a13e/99/image.jpg",
+      "caption": "Filzenstadl im Winter"
+    }
+  ]
+}

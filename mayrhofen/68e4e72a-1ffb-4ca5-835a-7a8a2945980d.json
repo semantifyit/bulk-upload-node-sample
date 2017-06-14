@@ -1,0 +1,1836 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-andrea.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d68E4E72A-1FFB-4CA5-835A-7A8A2945980D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Andrea, Hotel",
+    "streetAddress": "Ahornstraße 855",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62601",
+    "faxNumber": "0043 5285 62455",
+    "email": "info@hotel-andrea.com",
+    "url": "http://www.hotel-andrea.com"
+  },
+  "name": "Hotel Andrea",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Hotel in absoluter Toplage von Mayrhofen (zu beiden Bergbahnen 3 Gehminuten). Unsere gemütlich gestalteten Zimmer verfügen über Bad und Dusche/WC, Sitzecke, Balkon, Telefon, EDV-Anschluss, Haarfön, Kabelfernsehen mit Panoramakamera, Safe. Weiters befindet sich in unserem Haus: Internetsurfstation, Personenlift, heimelige Sauna im 4. Stock mit herrlicher Aussicht, ausgestattet mit Tiroler Stubensauna, Dampfbad, Solarium, Frischluft- und Ruheraum. \nReichhaltiges Frühstücksbuffet mit Müsliecke und Menüwahl bei Halbpension ist selbstverständlich. Unser kleines aber feines Restaurant Mt. Everst mit ausgezeichneter Tiroler und internationaler Küche verwöhnt Sie auch kulinarisch.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Kurzaufenthaltszuschlag bis 3 Tage: 4,- Euro pro Person/Tag\nKinderermäßigung: 0-2 Jahre frei, 3-6 Jahre: 50%, 7-14 Jahre: 30%.\nW-Lan kostenfrei"
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise: Richtung Mayrhofen, beim Kreisverkehr geradeaus weiter, beim Bahnhof vorbei und bei der nächsten Kreuzung links abbiegen - Einfahrt Mitte - nach dem Postamt die nächste rechts abbiegen, die Hauptstrasse entlang bis über die Brücke und nach der Brücke links abbiegen. Auf der rechten Strassenseite finden Sie unser Haus."
+    },
+    {
+      "@language": "de",
+      "@value": "Hotel Andrea, Mayrhofen, Penkenbahn, Ahornbahn, Zillertal, Tirol"
+    },
+    {
+      "@language": "en",
+      "@value": "Recently renovated in July 2003, our hotel is situated in one of Mayrhofen\u0027s prime positions, only a 3 minute walk from both of the lift stations. Our bedrooms are equipped with a bath and shower/WC, lounge area, balcony, EDV connection, hairdryer, cable TV with panorama chanel and a safe. In house one is also able to enjoy the use of a lift, traditional Tyrolean sauna on the fourth floor with fantastic views, steam bath, solarium, fresh air and quiet room."
+    },
+    {
+      "@language": "en",
+      "@value": "Children\u0027s reductions: 0-2 years free, 3-6 years 50%, 7-14 years 30%. \nW-Lan free"
+    },
+    {
+      "@language": "en",
+      "@value": "Arrival: At Mayrhofen, straight ahead at the roundabout, past the railway station, and turn left at the next junction - Einfahrt Mitte - after the post office turn right, straight up the high street until the bridge, and immediately after the bridge turn left.  Our house can then be found on the right."
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "85"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3e04d318-c800-4536-91a7-1ad62727af2a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Winter1"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Winter1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Winter1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a226a61d-bcd6-4c6e-a8e1-aba10ca7d5d4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Sommer 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Sommer 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Sommer 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7cdd0c68-6aba-4a45-a285-f1b49e0e6f55/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Winter 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Winter 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Winter 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5a1d45f3-c406-4ceb-84b9-1e3a3f4dbbf6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Frühstücksbuffet 1 "
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Frühstücksbuffet 1 "
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Frühstücksbuffet 1 "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b0676a97-77fd-4eb6-b93e-428ef67e9c3a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Frühstücksbuffet 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Frühstücksbuffet 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Frühstücksbuffet 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f7f2b636-bdd6-48b7-8e7c-8e4c9e5ef74e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Frühstücksbuffet 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Frühstücksbuffet 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Frühstücksbuffet 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b7c814c-d009-40ba-a8a5-071be93dff40/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Frühstücksbuffet 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Frühstücksbuffet 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Frühstücksbuffet 4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/de621219-d91f-4623-b01e-bd29dba7721a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Rezeption"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Rezeption"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Rezeption"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a8d0a2e-3836-4559-ba04-daa3a1922eb0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Sauna"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Sauna"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Sauna"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/38bf0b4b-97dd-4232-b415-d1edb89f8a43/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Wellness "
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Wellness "
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Wellness "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d0760e3f-abbd-44b5-98f1-f356d797277e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Wellness 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Wellness 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Wellness 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4008798b-e3ba-4070-9bdb-e5ae963411fa/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Wellness 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Wellness 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Wellness 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81713053-a131-422a-ae6c-a26951b0e336/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Wellness 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Wellness 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Wellness 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/05602d0b-eaca-4a4a-8ad0-22de10f52244/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Wellness 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Wellness 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Wellness 4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/83764731-7042-4e3b-aaaf-6a52b06c79ec/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Ahornhäusl"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Ahornhäusl"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Ahornhäusl"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4d49e613-6c2d-4bec-907a-af968957c058/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Krippe"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Krippe"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Krippe"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6990f11f-f419-4560-a172-145058b118ee/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Zemmgrund Badezimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Zemmgrund Badezimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Zemmgrund Badezimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aeda1fcb-b467-4ce7-b21a-00fe2a6d17fc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Zemmgrund 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Zemmgrund 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Zemmgrund 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86f6c569-8655-4476-a939-0231a7a0adda/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Grünberg"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Grünberg"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Grünberg"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0138e676-0125-4e3d-8581-97b949e571ef/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Mayrhofen - Ahornblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Mayrhofen - Ahornblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Mayrhofen - Ahornblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9dbb826e-9637-49ff-ba8b-8cf73909adeb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer Talblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Einzelzimmer Talblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Einzelzimmer Talblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a90e133-dc97-436a-a04c-fb605c2f9315/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Zimmer Finkenberg / Penkenblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Zimmer Finkenberg / Penkenblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer Finkenberg / Penkenblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d757c03b-032f-4d22-bae3-fc641140ecff/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer Zillertal"
+        },
+        {
+          "@language": "en",
+          "@value": "Dreibettzimmer Zillertal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Dreibettzimmer Zillertal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d700825-fa4e-481a-a86f-7e203769eb30/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer Steinerkogel Steinerkogel"
+        },
+        {
+          "@language": "en",
+          "@value": "Doppelzimmer Steinerkogel Steinerkogel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Doppelzimmer Steinerkogel Steinerkogel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/799d5927-d83d-4ea1-8dd3-9e36d349fd4e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bar-Restaurant"
+        },
+        {
+          "@language": "en",
+          "@value": "Bar-Restaurant"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bar-Restaurant"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab400211-681c-4b29-a482-295d1edcf970/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hoteleingang"
+        },
+        {
+          "@language": "en",
+          "@value": "Hoteleingang"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hoteleingang"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6e976bc-c554-432a-81bc-1f5fd7eb99db/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gastgarten (3)"
+        },
+        {
+          "@language": "en",
+          "@value": "Gastgarten (3)"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gastgarten (3)"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0dbb8346-4516-40c6-9cd8-64aea0b6aeb4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gastgarten (2)"
+        },
+        {
+          "@language": "en",
+          "@value": "Gastgarten (2)"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gastgarten (2)"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6403070b-d08f-44f9-bb2e-fcb3411bed7d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gastgarten"
+        },
+        {
+          "@language": "en",
+          "@value": "Gastgarten"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gastgarten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/62cc36a2-8afc-4b33-b0a6-de4282b16415/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel_Andrea_Ahornstrasse_855_Mayrhofen_Zimmer_303"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel_Andrea_Ahornstrasse_855_Mayrhofen_Zimmer_303"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel_Andrea_Ahornstrasse_855_Mayrhofen_Zimmer_303"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8911c7ba-3020-4aa0-b3de-07961517a1f7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hoteleingang 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Hoteleingang 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hoteleingang 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec46f521-7d16-4662-a295-22221ec8c5df/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Restaurant"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Restaurant"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Restaurant"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/70d57235-b327-4452-ae06-5ceb004efe17/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Restaurant 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Restaurant 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Restaurant 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ed6cdc3-a988-451c-a6ee-90bfd0b10282/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea Restaurant 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea Restaurant 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea Restaurant 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8dfc20c5-74ea-4add-94bd-8867c69755f2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hotel Andrea REstaurant 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel Andrea REstaurant 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Andrea REstaurant 3"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1608029615169",
+    "longitude": "11.8613934516907"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Kleines gemütliches Doppelzimmer mit Sitzgelegenheit, mit Balkon -Westseite,\n\nKabel-TV, Telefon, Safe, Dusche, WC, Fön, Kosmetikspiegel, Wlan "
+        },
+        {
+          "@language": "en",
+          "@value": "Small, cozy double room with seating, west-facing balcony.\n\nCable TV, telephone, safe, shower, WC, hairdryer, makeup mirror, Wlan"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer \"Zemmgrund\" Kat. C"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Freundliches, gemütliches Einzelzimmer auf der sonnigen Südseite, Schreibtisch, Fauteuils (ausziehbar), Kabel TV, Telefon, Safe, Balkon, Dusche, WC, Fön, Kosmetikspiegel, Wlan"
+        },
+        {
+          "@language": "en",
+          "@value": "Single Room \"Hintertux\" - 15 m²\nCozy, friendly single room on the sunny south-facing side, desk, easy chairs (reclining)\n\nCable TV, telephone, safe, balcony, shower, WC, hairdryer, makeup mirror, Wlan"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer"
+            },
+            {
+              "@language": "en",
+              "@value": "single room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Skipauschale 2012"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower and bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower and bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "7 Tages Pauschale \ninklusive Frühstück und Halbpension \nin unseren Wohlfühlzimmern \nfreie Benützung unserer Panoramasauna im 4. Stock \nAnreise täglich möglich \n6 Tages Skipaß inklusive Hintertuxer Gletscher\n\n"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "66.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche und Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower and bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ и ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Das schöne Doppelzimmer mit einer Couch (kann als ein 3. Bett verwendet werden)\nMit Dusche, getrenntem WC, Kabelfernsehen, Telefon, sicherer, ostgegenüberstehender Balkon (laufen entzückende Ansichten von Ahorn und dem Tal Lauf Ski), Haartrockner, Make-Upspiegel, WLAN "
+        },
+        {
+          "@language": "en",
+          "@value": "Beautiful double room with couch (may be used as a 3rd bed)\n\n With shower, separate WC, cable TV, telephone, safe, east-facing balcony (delightful views of the Ahorn and the valley ski run), hairdryer, makeup mirror, WLAN"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer \"Ahornblick\" Kat. B"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ и ванна, туалет"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Schönes Doppelzimmer mit Sitzcouch (als 3.Bett möglich) \n\n mit Dusche ( teils auch mit Badewanne , WC-separat, Kabel-TV, Telefon, Safe, Balkon-Ostseite (schöner Blick auf den Ahorn und die Talabfahrt) Fön, Kosmetikspiegel, Wlan  "
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Skipauschale 2012"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower and bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower and bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "7 Tages Pauschale \ninklusive Frühstück und Halbpension \nin unseren Wohlfühlzimmern \nfreie Benützung unserer Panoramasauna im 4. Stock \nAnreise täglich möglich \n6 Tages Skipaß inklusive Hintertuxer Gletscher\n\n"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Bergsommer 2012"
+            },
+            {
+              "@language": "en",
+              "@value": "Single room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "отдельный номер, shower, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Unsere Bergsommer Pauschale beinhaltet:\n\n* 7 Tage Halbpension\n* Wahlmenü\n* 2x pro Woche geführte Wanderung dem Chef, Bergwanderführer Thomas\n* inkl. Zillertal Aktivcard (Benützung aller öffentlichen Buslinien, Benützung aller öffentlichen Freischwimmbäder und aller Seilbahnen im Zillertal)"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzinmner \"Ahornblick\" Kat B. -Goldener Herbst"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower and bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower and bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Goldener Herbst \nvom 15.08.15 bis 26.09.15\n7 Tage Halbpension - Komfortzimmer \nWahlmenü \n2 mal geführte Wanderungen mit Chef Thomas \nInklusive Z - Card \nBenützung aller öffentlichen Buslinien/ Seilbahnen/ Freischwimmbäder. \nTop Angebot \nEuro 510,00* Kat A \nEuro 489,00* Kat B\n(* excl. Ortstaxe )\n"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/492b121d-7f28-4907-8d1b-5fa970b38b39/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Herbst"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Herbst"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Herbst"
+                }
+              ]
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "66.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "66.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "489.00",
+          "maxPrice": "489.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "489.00",
+          "maxPrice": "489.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche und Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower and bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ и ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Sehr geräumige Doppelzimmer auf der Sonnenseite mit Wohnteil (Couch ausziehbar).\n\n Großer Balkon, Kabel-TV, Telefon, Safe, Bad und Dusche, WC separat, Fön, Kosmetikspiegel\nWLAN"
+        },
+        {
+          "@language": "en",
+          "@value": "Very spacious double rooms on the sunny side of the hotel, incl. living area (sofa-sleeper).\n\n Big balcony, cable TV, telephone, safe, bath-tube and shower, separate WC, hairdryer, makeup mirror,\nWLAN\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer \"Penkenblick \u0026 Finkenberg\" Kat. A"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ и ванна, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Skipauschale 2012"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower and bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower and bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "7 Tages Pauschale \ninklusive Frühstück und Halbpension \nin unseren Wohlfühlzimmern \nfreie Benützung unserer Panoramasauna im 4. Stock \nAnreise täglich möglich \n6 Tages Skipaß inklusive Hintertuxer Gletscher\n\n"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Komfortables Einzelzimmer, hell und freundlich eingerichtet, Nordseite, Balkon, Kabel TV, Telefon, Safe, Fön, Kosmetikspiegel, Dusche, WC,\nWlan"
+        },
+        {
+          "@language": "en",
+          "@value": "Single Room \"Talblick\" - 15 m²\nComfortable single room, light and friendly furnishings, north-facing balcony, cable TV, telephone, safe, hairdryer, makeup mirror, Wlan\n "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer \"Talblick\""
+            },
+            {
+              "@language": "en",
+              "@value": "single room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Skipauschale 2012"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower and bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower and bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "7 Tages Pauschale \ninklusive Frühstück und Halbpension \nin unseren Wohlfühlzimmern \nfreie Benützung unserer Panoramasauna im 4. Stock \nAnreise täglich möglich \n6 Tages Skipaß inklusive Hintertuxer Gletscher\n\n"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "66.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer, Dusche und Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room, shower and bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер, душ и ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "\nSuite „Zillertal“\nKat. A - 33 m²  \nGeräumiges Erkerzimmer, 3-bettig mit Wohnteil (Couch ausziehbar), \n Balkon, Schreibtisch, Kabel-TV, Telefon, Safe, Badewanne und Dusche, \n WC – separat , Fön, Kosmetikspiegel, WLAN\n"
+        },
+        {
+          "@language": "en",
+          "@value": "\nSuite \"Zillertal\"\nCat. A - 33 m²  \n Spacious oriel room, 3 beds and living area (sofa-sleeper).\n Balcony, desk, cable TV, telephone, safe, bath and shower,Separate WC, hair dryer, makeup mirror, WLAn\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Suite \"Zillertal\" Kat. A"
+            },
+            {
+              "@language": "en",
+              "@value": "suite zillertal with shower, bath tube,"
+            },
+            {
+              "@language": "ru",
+              "@value": "3-местный номер, душ и ванна, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Skipauschale 2012"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower and bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower and bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "7 Tages Pauschale \ninklusive Frühstück und Halbpension \nin unseren Wohlfühlzimmern \nfreie Benützung unserer Panoramasauna im 4. Stock \nAnreise täglich möglich \n6 Tages Skipaß inklusive Hintertuxer Gletscher\n\n"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Mansardendreibettzimmer mit getrennten Schlafräumen, TV in beiden Zimmern, Dusche WC, WLan,\nkein Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Small, cozy 3-bed room with 2 sep. bed rooms\n\nTV in both rooms, shower, WC, Safe, phone, Internet access, no balcony "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Mansarden-Appartement Bergblick C"
+            },
+            {
+              "@language": "en",
+              "@value": "hotel apartment with bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Skistart und Sonnenski 2012"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower and bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower and bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "6 Tages Zillertaler Superskipaß \ninkl. Hintertuxer Gletscher \n7 Tage HalbpensionTop Angebot - \n"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "59.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Junior Suite, Dusche und Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Junior suite, shower and bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Полулюкс, душ и ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "\nGroßes Doppelzimmer mit Erkersitzecke und Sofa\n (Couch ausziehbar). \n\n In einer Suite besteht die Möglichkeit das Zimmer durch eine Holz-Faltwand zu trennen\nBalkon, Kabel-TV, Telefon, Safe, Dusche und Bad, WC separat, Fön, Kosmetikspiegel, WLAN \n  \n\n  "
+        },
+        {
+          "@language": "en",
+          "@value": "\nLarge double room with window seating (sofa-sleeper).\n Suites give you the option of dividing up the room with a wooden folding partition\nBalcony, cable TV, telephone, safe, shower and bath, separate WC, hairdryer, makeup mirror,\nWLAN"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Suite \"Steinerkogl\" Kat. A"
+            },
+            {
+              "@language": "en",
+              "@value": "suite Steinerkogl with shower, bath tube"
+            },
+            {
+              "@language": "ru",
+              "@value": "Полулюкс, душ и ванна, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Skipauschale 2012"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower and bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower and bath, toilet"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "7 Tages Pauschale \ninklusive Frühstück und Halbpension \nin unseren Wohlfühlzimmern \nfreie Benützung unserer Panoramasauna im 4. Stock \nAnreise täglich möglich \n6 Tages Skipaß inklusive Hintertuxer Gletscher\n\n"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "69.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche und Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower and bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ и ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer „Grünberg“\nKat. B - 29 m²\nSüdseitig gelegenes schönes Doppelzimmer mit Wohnteil und Panorama Fenstertisch (Couch als 3. \u0026 4. Bett Ausziehbar) durch Schiebewand trennbar. \n\nBalkon, Kabel-TV, Telefon, Safe, Bad und Dusche, WC-separat, Fön, Kosmetikspiegel."
+        },
+        {
+          "@language": "en",
+          "@value": "Double Room \"Grünberg\"\nCat. B - 29 m²\nBeautiful south-facing double room with living area and window table with panoramic views (couch can be pulled out to make a 3rd and 4th bed), room can be divided up with a partition. \n\nBalcony, cable TV, telephone, safe, bath and shower, separate WC, hairdryer, makeup mirror.\n "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer, Dusche und Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower and bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ и ванна, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer, Dusche und Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower and bath, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ и ванна, туалет"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "7 Tages Pauschale \ninklusive Frühstück und Halbpension \nin unseren Wohlfühlzimmern \nfreie Benützung unserer Panoramasauna im 4. Stock \nAnreise täglich möglich \n6 Tages Skipaß inklusive Hintertuxer Gletscher\n\n"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "66.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "66.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "66.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Mehrbettzimmer, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Shared room, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Многоместный номер, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "\n\nMansarden Suite „Hoch Tyrol“\nKat. A - 45 m²\nGeräumige Mansarden-Suite mit 2 getrennten Schlafräumen, Panoramafenster im Elternschlafzimmer kleines Wohnzimmer mit Sitzecke (Couch ausziehbar)\n\nKabel-TV, Telefon, Kühlschrank, Safe, Balkon, Bad / Duschkombination, WC-separat, Fön, Kosmetikspiegel.\n "
+        },
+        {
+          "@language": "en",
+          "@value": "Mansard Suite \"Hoch Tyrol\" \nCat. A - 45 m²\nSpacious mansard suite with 2 separate bedrooms, panoramic windows in the parents’ room, small living room with sitting area (sofa-sleeper).\n\nCable TV, telephone, fridge, safe, balcony, combined bath/shower, sep. WC, hairdryer, makeup mirror.\n "
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Mansarden Suite \"Hoch Tyrol\" Kat. A"
+            },
+            {
+              "@language": "en",
+              "@value": "Shared room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "вицепостельный номер, shower, toilet"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

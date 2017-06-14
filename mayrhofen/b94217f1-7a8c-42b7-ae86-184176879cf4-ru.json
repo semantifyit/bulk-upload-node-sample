@@ -1,0 +1,57 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": "Klausenalmfestl mit KaWoGl",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Klausenalm",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Familie",
+      "familyName": "Geisler"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Zemmgrund 216",
+      "addressLocality": "Ginzling",
+      "postalCode": "6295",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5286 5226",
+      "faxNumber": "(0043) 5286 5226 4",
+      "email": "info@klausenalm.at",
+      "url": "www.klausenalm.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Klausenalm",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Zemmgrund 216",
+      "addressLocality": "Ginzling",
+      "postalCode": "6295",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5286 5226",
+      "faxNumber": "(0043) 5286 5226 4",
+      "email": "info@klausenalm.at",
+      "url": "www.klausenalm.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e016aa3a-8587-4536-bffd-4cac78c3a948/99/image.jpg",
+      "caption": "Klausenalm Ginzling"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a01890ad-7a51-464e-a5e9-c2a99415313b/99/image.jpg",
+      "caption": "KAWOGL"
+    }
+  ],
+  "startDate": "2017-09-17T11:00:00",
+  "endDate": "2017-09-17"
+}

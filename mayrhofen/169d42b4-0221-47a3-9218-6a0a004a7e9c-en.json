@@ -1,0 +1,169 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://",
+    "http://maps.mayrhofen.at/?foreignResource\u003d169D42B4-0221-47A3-9218-6A0A004A7E9C"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sidanweg 251",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 9243014 ",
+    "faxNumber": "0043 5285 64425 ",
+    "email": "anna.rauch@a1.net"
+  },
+  "name": "Anna und Friedrich Rauch",
+  "description": [
+    "Quiet situation, 5 minutes walking to the Horbergbahn and ski bus stop, \n\n",
+    "Including: Bedclothes, stream, water, heating and final cleaning\nExclusive: Please take towels with you \nSecurity: 70 euros (for key, …) \nLanguages: English, German \n\nCheck in: 13. 00 o`clock\nCheck-out: 10. 00 o\u0027clock\n",
+    "Road description: exit Zillertal until Ramsau, direction Mayrhofen, after the roundabout traffic turn right, direction Horbergbahn, over the railway crossing up to the next roundabout traffic, there you turn right and  immediately again right, Sidanweg straight ahead the first house on the left side, Sidanweg 251, 6283 Schwendau\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/61a79408-6b4d-493e-83ec-816b2d7eddc6/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa1a6c4a-54c6-4b1e-a572-2c1e1f0ac096/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f90d7f9d-43ff-4134-8109-d0920e7a8691/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8ee29fc-653e-4373-a61f-80072aeb7f66/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9369736e-d13e-46e5-807e-2aa5debcd5fa/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f14a0577-1754-469c-80b0-366ae8f7b78f/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/559d534a-5446-41e1-91a5-b107355f0a44/99/image.jpg",
+      "caption": "Hauseingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4c946a6e-ff29-4c0b-b98b-a6dcdb781309/99/image.jpg",
+      "caption": "DSC06863"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/42f0ca71-0640-4080-b859-ce68fe3d8bb9/99/image.jpg",
+      "caption": "Ski- u. Trockenraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1913069",
+    "longitude": "11.8641355"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "Ground floor apartment, about 90 m² for 6 to 10 people\nEntrance hall with wardrobe, bathroom (shower, bath, washbasin) separate toilet, kitchen (stove, refrigerator, dishwasher, coffee maker, toaster, kettle and crockery) with dining area and built-in deck, living room with sofa, sitting area and TV, two triples, one twin bedroom, terrace.\n\nNote: An additional double room with shower / WC outside the apartment can be booked.\n\n\n\n\n\n\n\n\n\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "6"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "108.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "126.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "144.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "1st floor apartment, about 70 m² for 4 to 6 people \nEntrance hall with cloakroom, kitchen (stove, refrigerator, coffee maker, toaster, kettle and crockery) with dining area and built-in sun, 3 double bedrooms (1 with shower / WC), bathroom with shower, sink and toilet, balcony.\nNote: An additional double room with shower / WC outside the apartment can be booked.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "108.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

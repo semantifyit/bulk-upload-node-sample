@@ -1,0 +1,508 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness",
+    "Hostel"
+  ],
+  "url": [
+    "http://www.UrlaubamBauernhof.at/Lichtebenhuette"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendberg 670a",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5363811",
+    "email": "sporerm@a1.net",
+    "url": "http://www.UrlaubamBauernhof.at/Lichtebenhuette"
+  },
+  "name": "Lichtebenhütte",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Neu renovierte Almhütte in ausgezeichneter Ausgangslage, sowohl für Skiurlaub als auch für Wanderurlaub. \nSchibushaltestelle 700m entfernt. Der Schibus bringt Sie direkt auf die Pisten vom Schigebiet Horberg - Mayrhofen - Finkenberg - Zillertal 3000.\nLanglaufloipe, Winterwandern, Schneeschuhwandern, Schitouren.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise 13:00 - Abreise 10:00 "
+    },
+    {
+      "@language": "en",
+      "@value": "Newly renovated chalet in an excellent starting position, both for ski holidays as well as for walking holidays.\nSki bus stop 700m away. The ski bus takes you directly to the slopes from the ski Horberg - Mayrhofen - Finkenberg - Zillertal 3000th\nLanglaufloipe, winter hiking, snowshoeing, ski tours."
+    },
+    {
+      "@language": "en",
+      "@value": "Check-in: 1pm\nCheck-out: 10am"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a2f6f311-2dc9-4977-aa51-497a1a251a27/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hütte Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Hütte Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hütte Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/edeb40c0-e8e2-4167-9f15-7853c0eccefb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hütte Sommer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Hütte Sommer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hütte Sommer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60bd4af7-226f-4e72-a564-0fe912ef3cdc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hütte Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Hütte Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hütte Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5dfbd520-4849-4491-b726-86818eb5590e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hütte Winter2"
+        },
+        {
+          "@language": "en",
+          "@value": "Hütte Winter2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hütte Winter2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db3e93c1-0eae-4cf0-8a41-32d563ce267a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hütte bei Nacht"
+        },
+        {
+          "@language": "en",
+          "@value": "Hütte bei Nacht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hütte bei Nacht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0745f5d6-8d5f-4a92-8a1a-0c2af3fce805/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Almleben"
+        },
+        {
+          "@language": "en",
+          "@value": "Almleben"
+        },
+        {
+          "@language": "ru",
+          "@value": "Almleben"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/67f281b7-4004-4200-bbba-5f02aeb52e68/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ausblick Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Ausblick Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ausblick Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4ec26fc-fa04-4743-a8a3-a939c43d02ca/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Almweide"
+        },
+        {
+          "@language": "en",
+          "@value": "Almweide"
+        },
+        {
+          "@language": "ru",
+          "@value": "Almweide"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f6333a04-11bd-46dd-a97d-34bbb0bc0f5c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ausblick Winter2"
+        },
+        {
+          "@language": "en",
+          "@value": "Ausblick Winter2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ausblick Winter2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8bb334b3-cfcf-4393-89a1-c7ab983a2736/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Aussicht Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Aussicht Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Aussicht Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9da54a14-0490-4ca8-b008-b5689416a368/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Heuernte"
+        },
+        {
+          "@language": "en",
+          "@value": "Heuernte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Heuernte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1f835c03-1092-4c32-804b-1e15fc1042c5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "beim Mähen"
+        },
+        {
+          "@language": "en",
+          "@value": "beim Mähen"
+        },
+        {
+          "@language": "ru",
+          "@value": "beim Mähen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae6738bf-8344-40a6-b553-3aa5456546f2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kälber"
+        },
+        {
+          "@language": "en",
+          "@value": "Kälber"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kälber"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1ef8de4-b604-4c50-ae1e-df79798fc8db/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Lichteben"
+        },
+        {
+          "@language": "en",
+          "@value": "Lichteben"
+        },
+        {
+          "@language": "ru",
+          "@value": "Lichteben"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/03a4845b-c8a8-455c-aabb-8867e1eff0d0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mittagspause"
+        },
+        {
+          "@language": "en",
+          "@value": "Mittagspause"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mittagspause"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/230bc856-0330-4707-a8cf-b1be541374cc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Muh"
+        },
+        {
+          "@language": "en",
+          "@value": "Muh"
+        },
+        {
+          "@language": "ru",
+          "@value": "Muh"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9fe3a286-ebba-4a7c-9407-15bae434b6a0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sidanalm"
+        },
+        {
+          "@language": "en",
+          "@value": "Sidanalm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sidanalm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/29dd7405-e7bc-4b14-b3b2-9cd0a367ab0a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sternenhimmel"
+        },
+        {
+          "@language": "en",
+          "@value": "Sternenhimmel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sternenhimmel"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2085357960552",
+    "longitude": "11.819959442721"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Hütte"
+        },
+        {
+          "@language": "en",
+          "@value": "Hut"
+        },
+        {
+          "@language": "ru",
+          "@value": "Домик"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "4 Zimmer in gemütlicher Holztäfelung: 2 x DZ, 2x4 Bettzimmer ( jeweils 1 Doppel und 1 Stockbett) \nBalkon mit herrlichem Blick, Tisch, Sitzbank und Stühle.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "4 rooms in a cozy wood paneling: 2 x double room, 2x4 bed rooms (each with 1 double and 1 bunk bed)\nBalcony with stunning views, table, bench and chairs."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Hütte"
+            },
+            {
+              "@language": "en",
+              "@value": "Hut"
+            },
+            {
+              "@language": "ru",
+              "@value": "Домик"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "12",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "150.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "150.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "150.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "150.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "150.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "150.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "150.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "150.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "150.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "150.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "150.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d57A836CA-F5EC-488F-95BD-946C4F0B852A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Barbara, Haus",
+    "streetAddress": "Burgstall 355a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62378",
+    "faxNumber": "0043 5285 62378"
+  },
+  "name": "Haus Barbara",
+  "description": [
+    "Unser Haus liegt außerhalb vom Zentrum, oberhalb von Burgstall (Hanglage).",
+    "Die Preise verstehen sich inklusive Ortstaxe und Endreinigung.",
+    "B 169 Richtung Mayrhofen - nach dem Kreisverkehr rechts in den Bahnübergang überqueren - Schwendaustrasse entlang - Burgstall 355a."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c73ece1-4b4d-4a72-9732-a025e19f176c/99/image.jpg",
+      "caption": "Haus Barbara Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c0af0d90-74a7-46d9-8205-9002f05d27dc/99/image.jpg",
+      "caption": "Haus Barbara Mayrhofen - Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1830371089035",
+    "longitude": "11.859478354454"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Appartement für 4-6 Personen, 3 getrennte Doppelzimmer mit 2 DU/WC Räumen, TV, Wohnküche, abgeschlossener BAlkon nach Süd-West, sehr gute Aussicht, im Obergeschoss, Sitzecke mit Tisch und Stühlen, Liegestühle im Garten, Liegewiese, Garage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Appartement für 4 Personen im Parterre. 2 abgeschlossene Doppelzimmer mit DU/WC, große Wohnküche  mit TV, große Terasse nach vorne, freie Aussicht auf die Berge, Sitzgruppe mit Liegestühlen vorhanden, Garten, Liegewiese, Garage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

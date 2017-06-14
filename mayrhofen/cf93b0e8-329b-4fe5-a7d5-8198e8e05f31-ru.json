@@ -1,0 +1,131 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-anger.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dCF93B0E8-329B-4FE5-A7D5-8198E8E05F31"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Anger, Landhaus",
+    "streetAddress": "Burgstall 340a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62405",
+    "faxNumber": "0043 5285 62405",
+    "email": "manfred.emberger@gmx.at",
+    "url": "http://www.landhaus-anger.at"
+  },
+  "name": "Landhaus Anger",
+  "description": [
+    "Наш отель находится в 1 км от Майрхофена, в прекрасном и тихом месте.\nСемья Эмбергер будет рада принять Вас в своем доме.\n",
+    "Уютно обставленный апартамент на 2-6 человек.\nВ цену включено: отопление, электричество, вода\nВ цену не включено: курортный сбор, финальная уборка\nЗаезд: 14.00 часов\nОтъезд: 10.00 часов\n\nWiFi-интернет БЕСПЛАТНО\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a4757b9-249c-4a46-bf51-ca784a3709b7/99/image.jpg",
+      "caption": "Landhaus Anger Mayrhofen - Winterfoto 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9719bac4-adce-41d8-971a-8756b5d4ae8c/99/image.jpg",
+      "caption": "Landhaus Anger Mayrhofen - Brunnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/20dbe4c4-6c5f-4882-b0d7-893d599b72c6/99/image.jpg",
+      "caption": "Landhaus Anger Mayrhofen - Wegbeschreibung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b957ba90-10be-4d78-8f21-1081942ddb5c/99/image.jpg",
+      "caption": "Landhaus Anger Mayrhofen - Zimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/203c2c97-7bc4-4ba0-8b77-93e4ad793a87/99/image.jpg",
+      "caption": "Landhaus Anger Mayrhofen - Zimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/abf333d5-3a11-4027-a046-88b9d3202f44/99/image.jpg",
+      "caption": "Landhaus Anger Mayrhofen - Stockbett Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d80660c7-ca79-4a19-b69a-3acb82ab97ee/99/image.jpg",
+      "caption": "Landhaus Anger Mayrhofen - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/892e95bf-3f8b-4535-8bb4-badec236ccd8/99/image.jpg",
+      "caption": "Landhaus Anger Mayrhofen - Küchenblock"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6ff305f4-91b9-4b02-9260-d4c1f588c9ba/99/image.jpg",
+      "caption": "Landhaus Anger Mayrhofen - Eckbank"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ede4f98a-4a9e-465b-8c29-cec1d90bc01d/99/image.jpg",
+      "caption": "Landhaus Anger Mayrhofen - Terrasse"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1837225472744",
+    "longitude": "11.8600738048553"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, три спальни",
+      "description": "Наш апартамент\nна 2 - 6 человек состоит из:\n2 двухместные комнаты с дверью на балкон\nи раковиной, а также\nодной комнаты с двухярусной кроватью.\nНаша кухня-гостиная оборудована посудомоечной машиной, микроволновой печью, духовкой, электрочайником, электроплитой, кофемашиной, холодильником с морозильной камерой.\nБольшая красивая ванная комната с ванной, душем и туалетом\nКрасивая крытая терраса с видом на пик Ахорн.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, три спальни",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "50.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "60.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "70.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

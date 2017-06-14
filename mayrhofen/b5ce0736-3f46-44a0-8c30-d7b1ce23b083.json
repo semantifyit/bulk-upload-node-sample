@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Jagen - Gasthof Perauer"
+    },
+    {
+      "@language": "de",
+      "@value": "Jagen - Gasthof Perauer"
+    },
+    {
+      "@language": "ru",
+      "@value": "Jagen - Gasthof Perauer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1610874656802",
+    "longitude": "11.8611037731171"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Perauer, Hotel Gasthof",
+    "streetAddress": "Ahornstraße 854",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62566",
+    "faxNumber": "(0043) 5285 625666",
+    "email": "info@perauer.at",
+    "url": "http://www.perauer.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Jagdmöglichkeiten\nder Ferienregion Mayrhofen-Hippach im Zillertal\nWenn Sie schon immer einmal von einer Jagd in einem Naturparadies geträumt haben, dann sind Sie bei uns genau richtig. Mayrhofen liegt am Tor des Naturparks Zillertaler Alpen und am Scheitelpunkt von vier Quelltälern, die gleich hinter dem Urlaubsort beginnen.\n\nAufgrund dieser einmaligen Lage findet sich in unmittelbarer Nähe eine herrliche unberührte Landschaft. In bestimmten dafür vorgesehenen Gebieten und zu gewissen Zeiten, können Sie auf die Jagd gehen. Bitte beachten Sie, dass bestimmte Vorraussetzungen erfüllt werden müssen.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "In certain areas and at certain times you can go hunting. Please notice, that certain areas must be fullfilled."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64fd4130-b1c8-4fde-b489-8622a53bd473/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Wandern"
+        },
+        {
+          "@language": "de",
+          "@value": "Wandern"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.perauer.at"
+  ]
+}

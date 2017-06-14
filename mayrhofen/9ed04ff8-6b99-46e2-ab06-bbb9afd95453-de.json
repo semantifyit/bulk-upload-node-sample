@@ -1,0 +1,806 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhausgasser.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d9ED04FF8-6B99-46E2-AB06-BBB9AFD95453"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Gasser",
+    "streetAddress": "Fischerstraße 506",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63115",
+    "faxNumber": "0043 5285 631155",
+    "email": "info@landhausgasser.com",
+    "url": "http://www.landhausgasser.com"
+  },
+  "name": "Landhaus Gasser",
+  "description": [
+    "Herzlich willkommen!\nGrüß Gott und herzlich willkommen im ganz neu erbauten \"Landhaus Gasser\"!\nSie möchten ruhig, jedoch zentral, wohnen mit schönem Blick auf das Dorf, die umliegenden Wälder und die Zillertaler Alpen? Dann sind Sie bei uns im \"Landhaus Gasser\" genau richtig.\nUnser um- und neugebautes Appartementhaus befindet sich in unverbauter, sonniger Lage ganz nah am Zentrum, an der Penken-Seilbahn, am Erlebnisbad, beim Eislaufplatz mit Eisstockbahnen und an den Loipen. Die Haltestelle zur neuen Ahornbahn ist nur 100 Meter entfernt.\nDie komplett neuen, gemütlichen Appartements sind mit Komfort und Liebe zum Detail eingerichtet. Bei uns sind sowohl Kinder als auch Haustiere gerne gesehen. Unser Bestreben ist es, Ihnen ein gemütliches Urlaubszuhause zu bieten, auf Ihre Fragen und Wünsche einzugehen und Sie freundlich zu umsorgen.\n\nEs grüßt Sie ganz herzlich\n\nFamilie Friedrich Gasser\n\n\n",
+    "Inklusive: Freibäder Mayrhofen und Hippach und Naturparkprogramm in Sommer;\nOrtstaxe, Heizung, Strom, Wasser, Exklusive: Endreinigung auf Anfrage (je nach Personenanzahl), Hunde Euro 30,-- Pauschale\n\n",
+    "Auto: \nüber die Inntalautobahn bis zur Ausfahrt Zillertal und von dort noch 30 km auf der Zillertal Bundesstraße Nr. 169. \nvon Kufstein oder Innsbruck auf der Autobahn bis Ausfahrt Zillertal, dann noch ca. 30 km auf der Bundesstraße bis nach Mayrhofen \n\nBahn: \nbis Bahnhof Jenbach (Schnellzugstation) und von dort noch 35 km mit der Zillertalbahn oder den Bussen der Zillertaler Verkehrsbetriebe nach Mayrhofen. \n\nFlugzeug:\nFlughafen München/Franz-Josef-Strauß 190 km \nFlughafen Salzburg/Maxglan 170 km \nFlughafen Innsbruck 65 km \n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "143"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cecab74b-229c-4678-8b3a-a5591839c984/99/image.jpg",
+      "caption": "Landhaus Gasser Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9e790960-ab9a-4b43-81d7-bcce1b9a8b86/99/image.jpg",
+      "caption": "Landhaus Gasser Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd674fb4-254b-4832-b157-2897b87002d8/99/image.jpg",
+      "caption": "Landhaus Gasser Mayrhofen - Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a885d041-5ad1-44c1-b8d5-28a77dda54ef/99/image.jpg",
+      "caption": "Landhaus Gasser Mayrhofen - Ansicht von oben"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/18dceae5-865a-41e3-afbf-d2c9deb1d39d/99/image.jpg",
+      "caption": "Landhaus Gasser Mayrhofen - Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/efa97076-97fb-4f00-8e65-34ee7e497aeb/99/image.jpg",
+      "caption": "Landhaus Gasser Mayrhofen - Rezeption"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.162725158737",
+    "longitude": "11.8622839450836"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Das Appartement \"ASTEGG\" ist mit seinen gut 25 m2 eine kleinere aber gemütlich - feine Wohnung für 2 Personen. \nDer freundliche Wohnraum - in heller Holzarbeit - ist mit Doppelbett, bequemer Sitzecke, SAT-TV, Radio mit MC- und CD-Teil, Radiowecker und Safe ausgestattet. \nDas Bad ist komplett saniert, neue attraktive Sanitärausstattung und geschmackvolle Fliesen. \nDie kleine Küche ist vollständig eingerichtet und verfügt über einen 2-Plattenherd, Minibackofen mit zwei extra Kochplatten, Kühlschrank mit Gefrierfach, Kaffeemaschine, Wasserkocher, Toaster, Gewürzbord sowie eine praktische Frühstücksecke und Telefon. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Astegg - Wohn-Schlafraum",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "53.00",
+          "maxPrice": "9999999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Gemütliche Vollholz-Komfortwohnung,4-8 Pers,66m², Nichtraucher, 2 Schlafzi, 2 Badezi, Sat-TV, Radio + DVD/CD, Telefon/Internet-Verbindung, Safe, großzügige Wohnküche (4-Plattenherd+Backrohr,Geschirrspüler,Kaffeem.,Wasserk.,Toaster) Süd-Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Penken - 2 Schlafzimmer",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "96.00",
+          "maxPrice": "121.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "114.00",
+          "maxPrice": "213.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "127.50",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "140.00",
+          "maxPrice": "255.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "0.00",
+          "maxPrice": "271.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "165.00",
+          "maxPrice": "287.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Das neue Appartement RASTKOGEL befindet sich im ersten Stock und hat eine Größe von ca. 59 m2. \nHelle, heimelige Räume, Vollholzmöbeln und warme freundlichen Farben laden Sie ein einen schönen Urlaub bei uns zu verbringen. Die gemütlichen Schlafzimmer (1 Doppel, 1 Dreibett ) verfügen über je ein eigenes Bad mit Dusche/WC, Sat-TV, Safe und einen gemeinsamen Balkon mit unverbauter Aussicht auf den Ort und die Kirche. \nIn der behaglichen Wohnküche gibt es eine bequeme Eckbank mit großem Tisch zum gemütlichen Beisammensitzen mit SAT-TV und einer DVD-Micro-Anlage. Die vollständig eingerichtete Küchenzeile hat einen 4-Platten-Herd mit Backrohr, Geschirrspüler, Kühlschrank mit Gefrierfach, Kaffeemaschine, Wasserkocher, Toaster, Gewürzbord und ist mit allen notwendigen Küchenutensilien ausgestattet. \n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Rastkogel - 2 Schlafräume",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Naturpark-Pauschale 3 Nächte Lunach",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Naturpark-Pauschale 5 Nächte Lunach",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Naturpark Erlebniswoche, Apartment Rastkogel",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "81.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "96.00",
+          "maxPrice": "121.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "107.50",
+          "maxPrice": "204.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "121.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "127.00",
+          "maxPrice": "136.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "127.00",
+          "maxPrice": "136.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "127.00",
+          "maxPrice": "136.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "127.00",
+          "maxPrice": "136.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "196.00",
+          "maxPrice": "203.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "196.00",
+          "maxPrice": "203.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "196.00",
+          "maxPrice": "203.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "196.00",
+          "maxPrice": "203.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "307.00",
+          "maxPrice": "342.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "307.00",
+          "maxPrice": "342.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "307.00",
+          "maxPrice": "342.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "307.00",
+          "maxPrice": "342.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Das neu errichtete Appartement \"KOLM\" ist mit seinen ca. 70 m2 eine großzügige, helle und freundliche Ferienwohnung für Nichtraucher. Die beiden gemütlichen Vollholz-Schlafzimmer (1 Dreibett plus Zusatzbett, 1 Doppel plus Couchliege) verfügen je über ein eigenes Bad mit Dusche/WC/Fön, SAT-TV, Safe sowie über einen gemeinsamen Balkon. Im Dreibettzimmer befindet sich eine DVD-Micro-Anlage.\nDer gut ausgestattete Küchenblock ist mit 4-Platten-Herd (Backrohr), Geschirrspülmaschine, Kühlschrank und Gefrierfach ausgestattet. Komplette Küchenutensilien, Kaffeemaschine, Toaster, Gewürzbord und Wasserkocher sind selbstverständlich vorhanden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Kolm - 2 Schlafräume",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "96.00",
+          "maxPrice": "121.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "109.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "122.50",
+          "maxPrice": "231.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "135.00",
+          "maxPrice": "252.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die 36 m2 große, stilvolle und helle Nichtraucher-Wohnung im zweiten Stock strahlt eine besonders geschmackvoller Atmosphäre aus. Der heimelige Wohnraum mit bequemen Sitzplatz verfügt über einen komplett eingerichteten Küchenblock (4-Platten-Herd mit Backrohr, Kühlschrank, Gefrierfach, Geschirrspüler, Kaffeemaschine, Wasserkocher, Toaster, Gewürzbord). Alle notwendigen Küchenutensilien sind selbstverständlich vorhanden. \nEine Doppelschlafcouch, SAT-TV und eine DVD-Mikro-Anlage vervollständigen die Wohnküche. \nAn das gemütliche Schlafzimmer \n( Doppel + Zusatzbett ) mit Vollholzmöbel, SAT-TV und Safe grenzt ein helles Bad mit Dusche/WC. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Lunach - 1 Schlafraum",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Naturpark-Pauschale 3 Nächte Rastkogel",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Naturpark-Pauschale 5 Nächte Rastkogel",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Naturpark Erlebniswoche, Apartment Lunach",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "99999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "72.50",
+          "maxPrice": "129.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "84.00",
+          "maxPrice": "149.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "110.00",
+          "maxPrice": "164.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "113.50",
+          "maxPrice": "128.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "113.50",
+          "maxPrice": "128.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "113.50",
+          "maxPrice": "128.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "113.50",
+          "maxPrice": "128.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "178.00",
+          "maxPrice": "211.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "178.00",
+          "maxPrice": "211.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "178.00",
+          "maxPrice": "211.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "178.00",
+          "maxPrice": "211.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "328.50",
+          "maxPrice": "349.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "328.50",
+          "maxPrice": "349.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "328.50",
+          "maxPrice": "349.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "328.50",
+          "maxPrice": "349.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Gemütliche Vollholz-Komfortwohnung,4-8 Pers,66m², Nichtraucher, 2 Schlafzi, 2 Badezi, Sat-TV, Radio + DVD/CD, Telefon/Internet-Verbindung, Safe, großzügige Wohnküche (4-Plattenherd+Backrohr,Geschirrspüler,Kaffeem.,Wasserk.,Toaster) Süd-Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Ahorn - 2 Schlafräume",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "99999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "96.00",
+          "maxPrice": "121.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "114.00",
+          "maxPrice": "213.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "127.50",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "140.00",
+          "maxPrice": "255.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "0.00",
+          "maxPrice": "271.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "165.00",
+          "maxPrice": "287.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Das neue Komfortappartement STEINKAR ist ca. 66 m2 groß und befindet sich im zweiten Stock unseres Hauses. \nDie Nichtraucher-Wohnung verfügt über zwei gemütliche Schlafzimmer (1 Doppel, 1 Dreibett) mit je eigenem Bad (Dusche/WC) Sat-TV und Safe. In der behaglichen Wohnküche können Sie es sich auf der Eckbank mit großem Tisch gemütlich machen. Der gut ausgestattete Küchenblock verfügt über 4-Platten-Herd mit Backrohr, Geschirrspülmaschine, Kühlschrank und Gefrierfach. Komplette Küchenutensilien, Kaffeemaschine, Toaster, Gewürzbord und Wasserkocher sind selbstverständlich vorhanden. Hier befindet sich auch noch der sechste Schlafplatz, ein extra Sat-TV und eine DVD-Mikro-Anlage. Den geräumigen Balkon mit unverbautem Blick auf Ort und Kirche erreichen Sie sowohl vom Dreibettzimmer als auch von der Küche aus.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Steinkar - 2 Schlafräume",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "99999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "96.00",
+          "maxPrice": "121.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "107.50",
+          "maxPrice": "204.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "121.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "134.50",
+          "maxPrice": "246.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das neue und liebevoll eingerichtete Nichtraucher Appartement HAMBERG befindet sich im zweiten Stock unseres Hauses und ist ca. 45 m2 groß. Vom freundlich-hellen Schlafzimmer (Dreibett) mit Sat-TV und Safe gelangen Sie auf einen geräumigen Balkon mit idyllischem Blick auf den Ort und die Kirche. \nIn der behaglichen Wohnküche, befindet sich auch eine zusätzliche Doppelschlafcouch, ein zweites Sat-TV und eine DVD-Mikro-Anlage. Die gut ausgestattete Küchenzeile verfügt über 4-Platten-Herd mit Backrohr, Geschirrspülmaschine, Kühlschrank und Gefrierfach. Komplette Küchenutensilien, Kaffeemaschine, Toaster, Gewürzbord und Wasserkocher sind selbstverständlich vorhanden..\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Hamberg - 1 Schlafraum",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.50",
+          "maxPrice": "9999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "78.00",
+          "maxPrice": "133.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "89.50",
+          "maxPrice": "153.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "101.00",
+          "maxPrice": "168.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das neu-renovierte und liebevoll eingerichtete Nichtraucher Appartement BRANDBERG befindet sich im Parterre unseres Hauses und ist ca. 35 m2 groß. \nIm freundlich-hellen Vollholz-Schlafzimmer mit modernen Bad mit Dusche/WC. Die Wohnung ist durch einen separaten Eingang – über den Garten – erreichbar. Eine bequeme Couchliege und ein extra Fernsehstuhl versprechen einen kurzweiligen Abend je nach Wunsch mit Sat-TV, Radio mit CD, Telefon und Internet-Zugang.\nDie gut ausgestattete Küchenzeile verfügt über 4-Platten-Herd mit Backrohr, Geschirrspülmaschine, Kühlschrank und Gefrierfach. Komplette Küchenutensilien, Kaffeemaschine, Toaster, Gewürzbord und Wasserkocher sind selbstverständlich vorhanden. \nGarten-Terrasse mit Sitzplatz und unverbautem, schönem Blick in den Gastgarten, auf Wiesen, Wälder und Berge.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Brandberg - 1 Schlafraum",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "99999999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "72.50",
+          "maxPrice": "129.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

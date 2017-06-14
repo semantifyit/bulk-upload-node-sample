@@ -1,0 +1,147 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d1DEC4957-4948-487C-B341-25EB3A6E73B7"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hoflacher, Haus",
+    "streetAddress": "Brandberg 118",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63193"
+  },
+  "name": "Haus Hoflacher",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ferienwohnung in Brandberg. Ruhige, sonnige Lage.\nIm Sommer direkt buchbar; im Winter nur über Interchalet od. kurzfristig beim Vermieter."
+    },
+    {
+      "@language": "de",
+      "@value": "im Preis inkludiert: Bettwäsche und Handtücher, Strom, Wasser, Heizung.\nExklusive: Endreinigung: 40-- Euro."
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: 16:00 Uhr / Check out: 09:00 Uhr.\nKurz vor Mayrhofen, links abbiegen, Richtung Brandberg, durch den Tunnel, danach rechts abbiegen bis ins Dorf Brandberg. Gleich vor dem Feuerwehrhaus rechts abbiegen."
+    },
+    {
+      "@language": "en",
+      "@value": "Holiday apartment in Brandberg. Quiet, sunny position. Direct booking in summer; In winter, bookings through Interchalet, or last minute directly with the landlord."
+    },
+    {
+      "@language": "en",
+      "@value": "Included in price: Bed linen and towels, electricity, water, heating.\nExcludes: final cleaning charge."
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 16.00hr / Check out 09.00hr.\nJust before Mayrhofen turn left in the direction of Brandberg, through the tunnel, then right into the village of Brandberg. Turn right just before the fire brigade station."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af8aa542-3bfb-4f67-9855-573a3507a628/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Hoflacher Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Hoflacher Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Hoflacher Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/746d549f-3b97-466d-aaf8-f98249e400f7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Hoflacher Sommer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Hoflacher Sommer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Hoflacher Sommer 1"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.166364705816",
+    "longitude": "11.897254915292"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 4 oder mehr Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 4 or more bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, 4 или больше спалень"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung in Brandberg für 8-10 Personen, sonnige Lage, 5 Gehminuten zum Skibus. Küche, großes Wohnzimmer mit Doppelcouch, 4 Schlafzimmer davon zwei mit Dusche, Bad/Dusche/2 WC, großer Balkon."
+        },
+        {
+          "@language": "en",
+          "@value": "Holiday apartment in Brandberg for 8-10 persons, sunny position, 5 minutes walk from the ski bus. Kitchen, large lounge, 4 bedrooms, two of which with shower, bath, shower, 2 X WC, large balcony."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./4 od. mehr Schlafräume/Dusche,Bad,WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap./4 + more bedrooms/shower, bath, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ и ванна, туалет, 4 или больше спалень"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

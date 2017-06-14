@@ -1,0 +1,437 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.mayrhofen.or.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpen Appartements BelEtage",
+    "streetAddress": "Sportplatzstrasse 310",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63156",
+    "email": "info@mayrhofen.or.at",
+    "url": "http://www.mayrhofen.or.at"
+  },
+  "name": "ALPEN Appartments BelEtage",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/43d2a62e-4c9a-45fa-97c0-02d8627a6119/99/image.jpg",
+      "caption": "BelEtage  Alpen Appartements"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/942b821a-6f6f-407f-8fda-1321c5cab3fb/99/image.jpg",
+      "caption": "Alpen Appartements Hochmuth Moigg Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b940831c-24e2-4454-8116-7e59184dca91/99/image.jpg",
+      "caption": "Alpen Appartements BelEtage III Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c27a465e-036d-4291-b65c-b76d5ff55f2d/99/image.jpg",
+      "caption": "Alpen Appartements BelEtage III Küche."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa129ee0-def3-4db9-8797-492f85f22cc4/99/image.jpg",
+      "caption": "Alpen Appartements Hochmuth Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ede55af7-9acc-45f6-843d-b7efbc4bad73/99/image.jpg",
+      "caption": "Alpen Appartements BelEtage III SZ"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cbfe96c3-d91c-44a4-aa62-3421fbfdd83f/99/image.jpg",
+      "caption": "Alpen Appartements BelEtage III WZ"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/092ee047-8185-4ceb-9d5d-7646ede3be51/99/image.jpg",
+      "caption": "Alpen Appartements BelEtageI Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c4f8ab3-ae5c-42fe-be6c-00d0486c4dad/99/image.jpg",
+      "caption": "Alpen Appartements BelEtageI SZ1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/51bb38c3-398b-4537-a967-8b943889770e/99/image.jpg",
+      "caption": "Alpen Appartements BelEtageII SZ2."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0816abf7-8fc9-418a-afdf-3dc53247c212/99/image.jpg",
+      "caption": "Alpen Appartements BelEtageII"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/35c512e4-026f-4e3b-b7ec-677cec6d32d4/99/image.jpg",
+      "caption": "Alpen Appartements Hochmuth Entrée"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8bd5dfde-b3a1-4fbb-bebd-17e050700851/99/image.jpg",
+      "caption": "Alpen Appartements BelEtageII Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/899529d0-3eea-48d8-8d09-74f6a4bd58e5/99/image.jpg",
+      "caption": "Alpen Appartements BelEtageII SZ"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c4d4619-58e0-428b-9fd2-25f04c19abd9/99/image.jpg",
+      "caption": "Alpen Appartements BelEtageI Entrée"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/31dc6f6b-4828-4412-93f8-b4f47d102cfb/99/image.jpg",
+      "caption": "Alpen Appartements BelEtage III"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fc2f725c-2b3e-41d9-a090-8475ede64715/99/image.jpg",
+      "caption": "Alpen Appartements Hochmuth Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ff4e9b7-1667-457d-959f-5bc39703ecb9/99/image.jpg",
+      "caption": "Alpen Appartements BelEtage Souterrain SZ"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6cbe95de-d8e7-4409-b688-fe2b4e275c0c/99/image.jpg",
+      "caption": "BelEtage I mit Garten Alpenappartements"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7e842187-5255-4ce5-947b-c3b229521cc9/99/image.jpg",
+      "caption": "BelEtage II Alpenappartements"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a9c90fd-0b06-4075-944b-24af51742b25/99/image.jpg",
+      "caption": "BelEtage  III Alpenappartements"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e90151a2-4181-4113-aea2-88e10af15386/99/image.jpg",
+      "caption": "BelEtage I Alpenappartement Hochmuth"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/212ace3a-a34f-4df9-bd0d-fc78b5574ab8/99/image.jpg",
+      "caption": "BelEtage Souterrain Alpenappartements"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0633e9c3-317c-40c5-9457-da6eec2adc62/99/image.jpg",
+      "caption": "BelEtage Alpen Appartements 310"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04d80220-8ca4-4bd7-b27a-a2146d00aebc/99/image.jpg",
+      "caption": "Almabtrieb___Norbert_Freudenthaler__12__01"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf258d1a-15ed-4233-a699-afe2d5cab21c/99/image.jpg",
+      "caption": "Grinberg Tristner WB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d82399e2-dfee-4e7d-af91-c19dbe60471c/99/image.jpg",
+      "caption": "hallenbad_erlebnisbad_mayrhofen_cicero_design___dr"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf109757-dc69-485c-8788-f05bce1c0e90/99/image.jpg",
+      "caption": "familie_mayrhofen_penken_funballz_florian_schueppe"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1664157",
+    "longitude": "11.8693725000001"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ACTIV CARD, Beletage I",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "95.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "343.50",
+          "maxPrice": "343.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "273.50",
+          "maxPrice": "273.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "238.50",
+          "maxPrice": "238.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "203.50",
+          "maxPrice": "203.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "192.00",
+          "maxPrice": "192.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ACTIV CARD, Beletage II",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "95.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "343.50",
+          "maxPrice": "343.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "273.50",
+          "maxPrice": "273.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "238.50",
+          "maxPrice": "238.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "203.50",
+          "maxPrice": "203.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "192.00",
+          "maxPrice": "192.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Activ Card, BelEtage III",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "308.50",
+          "maxPrice": "308.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "227.00",
+          "maxPrice": "227.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

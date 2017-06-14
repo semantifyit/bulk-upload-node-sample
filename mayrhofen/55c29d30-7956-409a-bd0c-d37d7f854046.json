@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TennisComplex"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Tennisanlage Mayrhofen"
+    },
+    {
+      "@language": "de",
+      "@value": "Tennisanlage Mayrhofen"
+    },
+    {
+      "@language": "ru",
+      "@value": "Tennisanlage Mayrhofen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1637980735123",
+    "longitude": "11.8642478321243"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Waldbadstraße 541 ",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 64000 20  "
+  },
+  "description": [
+    {
+      "@language": "en",
+      "@value": "Public tennis courts near the adventure pool. 4 sand courts. Court reservation required!"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ab0bf35-80d4-4c44-8a5a-96f12c423195/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Tennisanlage Mhf"
+        },
+        {
+          "@language": "de",
+          "@value": "Tennisanlage Mhf"
+        },
+        {
+          "@language": "ru",
+          "@value": "Tennisanlage Mhf"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://",
+    "http://"
+  ]
+}

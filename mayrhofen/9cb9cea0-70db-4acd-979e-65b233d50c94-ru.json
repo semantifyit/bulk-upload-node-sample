@@ -1,0 +1,127 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendberg 317",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 425 44 63 ",
+    "email": "viktoria.bair1@gmail.com"
+  },
+  "name": "Bair Viktoria",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/78081124-12e4-4ab7-a40c-de21fd6c5680/99/image.jpg",
+      "caption": "20151128_144551"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9d207405-62f3-4f28-8bab-558fd40cae39/99/image.jpg",
+      "caption": "20151128_144300"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc8097ce-41fa-4f52-98a9-c94561459640/99/image.jpg",
+      "caption": "20151128_144315"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/061f0a35-8121-4bd3-8682-748bb042b9a2/99/image.jpg",
+      "caption": "20151128_144312"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/34aa6f2a-67ff-4346-8543-a9a81597e654/99/image.jpg",
+      "caption": "Einkehr © Blickfang Photographie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d88f53ad-0b9d-4963-b621-8361fa550913/99/image.jpg",
+      "caption": "Genießerberg Ahorn © Florian Schüppel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ecaa662a-5d89-4d06-9745-8ef01bcbcf47/99/image.jpg",
+      "caption": "Klettersteig © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd30ff96-d2a3-42cc-8ef8-a44ad9827389/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cec35632-4a02-4362-90df-712f31e67c50/99/image.jpg",
+      "caption": "Entspannung pur © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/40017e49-2f51-42ae-ade6-a8bfb4caa219/99/image.jpg",
+      "caption": "Langlaufen © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1bfea379-6221-4fc3-bce9-89a0ff11c6e2/99/image.jpg",
+      "caption": "Skibergsteigen © Ursula Aichner"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2082327057022",
+    "longitude": "11.861653290213"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

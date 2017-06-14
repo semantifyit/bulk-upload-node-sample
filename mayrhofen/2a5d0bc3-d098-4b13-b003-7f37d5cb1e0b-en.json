@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Einkehr zum Adlerblick 1900m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1233646157509",
+    "longitude": "12.0608800649643"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Einkehr zum Adlerblick",
+    "streetAddress": "Zillergrund",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62308",
+    "email": "info@adlerblick.at",
+    "url": "www.adlerblick.at"
+  },
+  "description": "Summer \n03. June 2017 \nno overnight stay possible",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f1612172-f352-468e-9c5a-b69f031662a0/99/image.jpg",
+      "caption": "Einkehr zum Adlerblick 1900m"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64dec134-44c3-4f4e-8a47-b655d08f3b30/99/image.jpg",
+      "caption": "Adlerblick"
+    }
+  ],
+  "url": [
+    "http://www.adlerblick.at"
+  ]
+}

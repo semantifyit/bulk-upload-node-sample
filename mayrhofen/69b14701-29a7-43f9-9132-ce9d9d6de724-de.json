@@ -1,0 +1,229 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausspitaler.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d69B14701-29A7-43F9-9132-CE9D9D6DE724"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienhaus Spitaler",
+    "streetAddress": "Schwendberg 269",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4178",
+    "faxNumber": "0043 5282 4178",
+    "email": "info@hausspitaler.at",
+    "url": "http://www.hausspitaler.at"
+  },
+  "name": "Haus Spitaler",
+  "description": [
+    "Unser Ferienhaus liegt 5 Gehminuten vom Ortszentrum entfernt auf ruhiger, sonniger Anhöhe, gemütliche Sonnenterasse, Skibushaltestelle direkt vor dem Haus",
+    "Preise inklusive Endreinigung,  Kinderermäßigung auf Anfrage\n\nGratiseintritt ins Erlebnisbad Hippach und Mayrhofen sowie kostenlose Benützung der Tennisplätze in Hippach.",
+    "Check in 12.00 Uhr - Check out 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/87262e06-1928-4714-b9a7-af245084058c/99/image.jpg",
+      "caption": "Haus Spitaler Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/00957db3-6c09-4217-8006-3a348fc6e6f2/99/image.jpg",
+      "caption": "Haus Spitaler Hippach - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2098428185749",
+    "longitude": "11.8636786937714"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Die Ferienwohnung besteht aus einer großen Küche mit einer Couch,1 Doppelzimmer, ein Zimmer mit getrennten Betten, ein großes Bad mit einer Eck-Badewanne und WC.\nDie Küche ist mit einer Geschirrspülmaschine, Mikrowelle sowie mit einer Sat/TV-Anlage ausgestattet. Die Wohnung hat einen eigenen Garten mit schöner Aussicht. Kostenoser Internetanschluss für Ihren Lap Top. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment 5",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "64.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Die Wohnug hat ein Doppelzimmer mit einem Zusatzbett und einen Wohn-Essraum\nmit einer Ausziehbaren Couch für 2 Personen, Küche und DU/WC.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment 2",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "1 Wohnschlafzimmer, Balkon, Kochnische, Dusche/WC\n\nPreise inkl. Ortstaxe!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment 1",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Wohnung mit kleiner Küche, Bad/WC, Wohnschlafzimmer, Schlafzimmer mit 3 Zusatzbetten, Balkon, \nPreise inkl. Ortstaxe!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment 3",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "64.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 3 Schlafräume",
+      "description": "2 Doppelzimmer und ein Dreibettzimmer, 1 große Wohnküche, Bad, WC extra, Speisekammer, Balkon und Terasse\n\nPreise inkl. Ortstaxe!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment 4",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

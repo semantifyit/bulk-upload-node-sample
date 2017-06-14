@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Bergrestaurant Sonnalm 1300m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2081115965706",
+    "longitude": "11.8981548756409"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sonnalm",
+    "streetAddress": "Bichl 260",
+    "addressLocality": "Hainzenberg",
+    "postalCode": "6278",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3545",
+    "email": "info@rodelverleih-zillertal.at",
+    "url": "http://www.schlittenstadl.at"
+  },
+  "description": [
+    "Sommer \n20. Mai 2017 \nkein Ruhetag \nkeine Übernachtung möglich",
+    "Die Sonnalm auf 1.300m (nur 50m unterhalb vom Schlittenstadl) ist ein beliebtes Wanderziel in den Sommermonaten. Das gesamte Gebiet ist bekannt durch seine sensationelle Panoramaaussicht, die naturbelassene Umgebung und die angenehme Ruhe. Abseits von jeglichem Trubel und Alltagsstress! Natur pur!\nEine zünftige Brettljause und ein spritziges Getränk bringen jedem Wanderer die verlorene Frische in kürzester Zeit zurück.\nBei klarer Sicht und wohligem Sonnenschein erleben Sie auf unserer Sonnenterrasse ein Gefühl von innerer Ruhe und staunen über den Weitblick in die Ferne.\nEin Highlight für alle Kinder ist natürlich der actiongeladene Kinderspielplatz direkt an der Sonnalm. Mit Rusche, Schaukel, usw. wird es nicht langweilig.\nIdeale Ausgangspunkte für Wanderungen sind der nostalgische Ramsberglift und die Gerlossteinbahn (Talstation sowie Bergstation).\nWie bereits erwähnt bietet die Region im Sommer ein Wandereldorado der ganz besonderen Klasse. Nicht weniger als 400 km lang ist das Wanderwegenetz der Zillertal Arena, die auch gerne als Wander Arena bezeichnet wird.\nGerne nehmen wir auch die Organisation für alle Feiern besonderer Anlässe in die Hand!\nJeder ist herzlich willkommen... Genießen Sie mit uns die Natur!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cba9c99a-9a49-4207-8d25-9f8cfa2bb2c6/99/image.jpg",
+      "caption": "Sonnalm 1320m"
+    }
+  ],
+  "url": [
+    "http://www.schlittenstadl.at"
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.apparthotel-koenig.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA59679B9-A1C1-4848-A485-85B6011A9A40"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "König, Apparthotel",
+    "streetAddress": "Jakob-Moser-Straße 578",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62235",
+    "faxNumber": "0043 5285 620665",
+    "email": "info@apparthotel-koenig.at",
+    "url": "http://www.apparthotel-koenig.at"
+  },
+  "name": "Apparthotel König",
+  "description": [
+    "An einem besonders schönen, ruhigen und verkehrsfreien Platz des Ortes, mit unverbautem Blick auf die Zillertaler Berge, befindet sich unser stilvoll eingerichtetes Apparthotel. Unsere im Landhausstil eingerichteten Appartements und Zimmer verfügen alle über Bad/DU/WC und süd-westseitigen Balkon. Im Haus stehen unseren Gästen Sauna, Dampfbad und Fitnessraum kostenlos zur Verfügung. Die zentrale Lage unseres Apparthotels - jeweils 200m zur Penken- bzw. Ahornbahn sowie zum Erlebnisbad und den Tennisfreiplätzen (im Winter Kunsteisbahn) ermöglichen es Ihnen, einen erholsamen Urlaub in unserem Haus zu verbringen.\n\nKinderermäßigung auf Anfrage!",
+    "Inklusive:  W-Lan, Strom, Bettwäsche + Handtücher, Kabel-TV, Safe, Sauna, Fitness, täglich Staubsaugen, Müllentsorgung; Exklusive:  Endreinigung (Euro 30,- bis 45,-)",
+    "Check-In: 15.00 Uhr, Check-Out: 10.00 Uhr; Anreise: Einfahrt Mayrhofen Mitte - rechts auf die Hauptstraße bis zur Penkenbahn - wieder links in die Fischerstraße - 200 Meter rechts auf den Zillergrundweg - 100 Meter wieder rechts in die Jakob-Moser-Str. 578."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "56"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/38be15be-3df6-4365-8702-2753871d8882/99/image.jpg",
+      "caption": "Apparthotel König Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97b5a91c-cafb-4b8f-b40d-90c9cdf9c71b/99/image.jpg",
+      "caption": "Apparthotel König Mayrhofen - Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/47e968fe-3222-446c-a387-43614399604c/99/image.jpg",
+      "caption": "Apparthotel König - Lage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5817f639-965d-40a8-9028-730a2d4b8844/99/image.jpg",
+      "caption": "Apparthotel König Mayrhofen - Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f8f28af3-735e-43d8-8e41-b81bcdcb9471/99/image.jpg",
+      "caption": "Apparthotel König Mayrhofen - Fitness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/997dffac-87ee-4edb-bf79-534501b810d8/99/image.jpg",
+      "caption": "Apparthotel König Mayrhofen - Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/799ce176-e7eb-46a6-b7a7-42a8e001a00c/99/image.jpg",
+      "caption": "Apparthotel König Mayrhofen - Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a7ace5bf-9b27-4dfb-a09c-ce9a9e7975ae/99/image.jpg",
+      "caption": "Apparthotel König Mayrhofen - App. Typ 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/231ee005-2070-4fa3-9dd9-450dce561ea5/99/image.jpg",
+      "caption": "Apparthotel König Mayrhofen - App. Typ 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/80db522e-a916-4360-8b43-c3e94d15fd42/99/image.jpg",
+      "caption": "Apparthotel König Mayrhofen - App. Typ 3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1618096617139",
+    "longitude": "11.8641668558121"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Studio: Wohn-Schlafzimmer mit Sitzecke, Kochnische, Balkon mit Balkonmöbeln, Kabel-TV, Telefon, Radio, W-LAN",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Studio 1-2 Pers. - 26 m²",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "56.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "56.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Appartment 36m²: Wohn-Schlafzimmer, Sitzecke mit Couch, Eßtisch, Küchenzeile, Bad, WC extra, Balkon mit Balkonmöbeln, Kabel-TV, Telefon, Radio, W-LAN",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 2-3 Pers.- 36 m²",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "62.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "81.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Appartment 46m²: Schlafzimmer und Wohnküche, Sitzecke mit Couch, Eßtisch, Küchenzeile, Balkon mit Balkonmöbeln, Kabel-TV, Telefon, Radio, W-LAN",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 2-3 Pers. - 46 m²",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "62.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "79.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Appartment 63m²: 2 Schlafzimmer + Wohnküche, Sitzecke mit Couch, Eßtisch, Küchenzeile, großer Balkon mit Balkonmöbeln, Bad, WC extra, Kabel-TV, Telefon, Radio, W-LAN",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 4-5 Pers. - 63 m²",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "98.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "98.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "98.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "123.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer: Unser geschmackvoll eingerichtetes Doppelzimmer verfügt über ein Doppelbett, einen herrlichen Balkon mit Balkonmöbeln, Kabel-TV, Telefon, Radio.\nInternetzugang in allen Zimmern (DSL)!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "38.00",
+          "maxPrice": "38.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "38.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Bad, WC",
+      "description": "Doppelzimmer mit Wohnteil: Sehr großzügiges Doppelzimmer mit Sitzecke und Couch, Bad, WC extra, Balkon mit Balkonmöbeln, Kabel-TV, Telefon, Radio.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche/WC - 36m²",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

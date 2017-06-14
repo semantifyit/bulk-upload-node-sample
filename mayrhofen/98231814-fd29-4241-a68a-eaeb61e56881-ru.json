@@ -1,0 +1,353 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.kumbichl.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d98231814-FD29-4241-A68A-EAEB61E56881"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kumbichl 875",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62371",
+    "faxNumber": "0043 5285 62371-7",
+    "email": "info@kumbichl.at",
+    "url": "http://www.kumbichl.at"
+  },
+  "name": "Landhaus Kumbichl - Fam. Kröll",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "19"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f19f9d1e-ca7d-469d-abdb-a2f8351ba778/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8973f01d-e583-443a-a7a5-d65b3aad03da/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da88db2b-2424-468c-9ddc-e70e986f4387/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e257068b-d04c-4586-b665-994cf100f6bf/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d875d41-7ee6-45cb-9320-c2a100311a93/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Michael "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ff5aea0b-ac44-414e-bca1-c87e050122f9/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Wohnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9686c450-0113-4e50-8259-bf8eeab4efdf/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/48ceb308-105d-4792-a1bf-32076c2da6c1/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Schlafzimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/897fe010-a8c2-478d-a81c-a50d820b44a2/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Schlafzimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/26368a50-46f2-49c5-b4c9-33a2c88f430b/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Schlafzimmerv3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d262ec51-63a7-40fc-8890-02b2e81a189c/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Couch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/550620fb-f249-418f-9cca-450738636e05/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97e7952b-2012-4a6c-a086-fe04a3145da9/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Jakob"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8035e82d-69a3-45f8-9cd1-92d3eb8e52dd/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Wohnen 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c84cb6d-f2bf-4079-ba45-8298346b0620/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Stimmung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5dbd5350-fb10-4f82-8da4-abcbc31a8d28/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Badezimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60825896-bd97-43b9-8321-04d343eea317/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Schlafzimmer 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a5765eba-aa5a-4b60-bd79-4e4e2a70fb2a/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Schlafzimmer 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4827e4c0-b250-4f91-ad5c-3dc7ba2574b6/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Schlafzimmer 6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c840f22-8dcc-411a-b6d5-927d6a44e4b3/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Schlafzimmer 7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/806fdcb8-5141-4c91-8dc0-6a5f15bf82d8/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Kinderzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/640d2dd8-0ec5-46a4-99c7-dd9f633839cc/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Thomas"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6e1eb342-5d8b-45c0-a949-ba17a4aff3b7/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Wohnen 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c0c9c131-27d0-4f7b-a858-82612b845baa/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Balkon 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1c2c46ec-2182-4440-b168-9353e4359834/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Schlafzimmer 8"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/583c91b2-e254-4a00-93ad-d55fe378b91e/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Schlafzimmer 9"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6936055a-da67-4519-a984-9d0ed6a9651d/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59eeb6b8-906e-4627-bb02-32fc9fd4e0ae/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Sauna 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f714af8c-dafe-40e7-9965-4e4c663934b6/99/image.jpg",
+      "caption": "Landhaus Kumbichl - Ruheraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1587311416683",
+    "longitude": "11.8625736236572"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, балкон",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "160.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "160.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "240.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "240.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, гостиная/спальня",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "160.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "160.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "240.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "240.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, гостиная/спальня",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, гостиная/спальня",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "160.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "160.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "240.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "240.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dADD11EAE-C49C-4145-8832-5935FC1B6F76",
+    "http://www.ferien-hof.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laimach 117",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "+43 5282 20752",
+    "faxNumber": "+43 5282 2413",
+    "email": "GuesthouseHeim@gmx.at",
+    "url": "http://www.ferien-hof.at"
+  },
+  "name": "Heim Georg",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2930097f-0ace-4b4b-a8b0-c29a95337bd7/99/image.jpg",
+      "caption": "Heim Georg Hippach - Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef35a7a7-a4af-40f2-aaa3-a6fb3b1c771b/99/image.jpg",
+      "caption": "Heim Georg Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fa3f5be2-da5a-4b66-8db6-ffeef00bb2dc/99/image.jpg",
+      "caption": "Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad2844a9-87c9-47e3-8eea-dc4af178fd56/99/image.jpg",
+      "caption": "Badezimmer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad5932b1-5bbe-4ca5-94c3-bbe87b7268d9/99/image.jpg",
+      "caption": "Schlafzimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2167224915841",
+    "longitude": "11.8664199113846"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "22.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

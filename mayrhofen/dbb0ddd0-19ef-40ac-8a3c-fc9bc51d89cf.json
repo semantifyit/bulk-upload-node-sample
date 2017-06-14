@@ -1,0 +1,934 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.pension-schwemberger.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dDBB0DDD0-19EF-40AC-8A3C-FC9BC51D89CF"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schwemberger, Pension",
+    "streetAddress": "Jakob-Moser-Straße 589",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 664 99 18 636",
+    "email": "pension.schwemberger@zline.at",
+    "url": "http://www.pension-schwemberger.at"
+  },
+  "name": "Pension Schwemberger",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Familiäre Frühstückspension, sonnige, ruhige Waldrandlage. 3-5 Gehminuten zu den Bergbahnen bzw. Tennisplatz, Erlebnisbad und Eislaufplatz; Schikeller mit Schischuhheizung.Grillmöglichkeit im Garten."
+    },
+    {
+      "@language": "de",
+      "@value": "im Preis inkludiert: Kurtaxe und Frühstücksbuffet. Haustiere auf Anfrage. Zubringer vom Bahnhof.\nBei Kurzaufenthalten, Preiserhöhung."
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: ab 11:00 Uhr / Check out: 10:00 Uhr.\nÜber die B169 erreichen Sie Mayrhofen.Beim Kreisverkehr geradeaus,Einfahrt Mitte Richtung Dorfzentrum.Kreuzung rechts über Hauptstrasse.GegenüberPenkenbahn links Fischerstr.Nächste rechts Jakob-Moserst."
+    },
+    {
+      "@language": "en",
+      "@value": "Informal bed and breakfast in a sunny, quiet position at the edge of the forest. 3-5 minute walk to the lifts, tennis courts, adventure swimming pool and ice skating rink; Ski cellar with ski boot heating."
+    },
+    {
+      "@language": "en",
+      "@value": "Included in price: Local taxes and breakfast buffet. pets on request. Transfer to/from railway station."
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: from 11.00hr / Check out: 10.00hr.\nYou will reach Mayrhofen on the B169. Drive straight on at the roundabout and take the Einafhrt Mitte into the centre of town. Turn right at the junction and drive up the high street. Opposite the Penken lift turn left into the Fischerstrasse. At the end of this road turn right; Jakob-Moser Strasse. Our house can be found on the left, nr. 589."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b2c0e32-949d-4f6e-bc16-5883accd8fa2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Schwemberger Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Schwemberger Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Schwemberger Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a0a60b4a-dbc2-4ae1-ae8a-a2cdcd73ce51/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Schwemberger Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Schwemberger Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Schwemberger Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/78553b4d-03a7-413b-889f-a01367160ed2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Schwemberger - Frühstücksraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Schwemberger - Frühstücksraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Schwemberger - Frühstücksraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/480add10-223b-4518-b767-8fc9c73aa3cd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Schwemberger"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Schwemberger"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Schwemberger"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0e4d08d0-4133-4350-87fb-d0df193d5817/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Schwemberger - Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Schwemberger - Balkon"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Schwemberger - Balkon"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/190d73c2-dba8-4c22-bb6d-280ba7393bfe/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Schwemberger - Balkon 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Schwemberger - Balkon 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Schwemberger - Balkon 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/61273425-7090-4ad7-821f-52eab62eea3e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Schwemberger - Ausblick"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Schwemberger - Ausblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Schwemberger - Ausblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8cafc84d-7a61-40a9-9b6d-a3119cce357a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5500"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5500"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5500"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f21bf2c-8f52-4e5a-ba81-b58fafd3d62e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5504"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5504"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5504"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/de9d64a4-b91e-41b7-b111-afb6aac28955/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5505"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5505"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5505"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aca0290b-e9cb-4fe5-91c7-813ff2b3163d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5507"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5507"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5507"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c64447f9-5751-4f1b-8069-13d944aca493/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5511"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5511"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5511"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e8458e97-e90e-4b3f-aeef-c5ce01b1f3e6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5516"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5516"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5516"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a7d5707-9ca9-4bc2-9565-ff93a746e2ea/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5519"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5519"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5519"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/73193b7d-cefd-48d6-96ac-3541e07599d5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5521"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5521"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5521"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b3b88eef-d92d-47b6-940c-bc6c98fe7f38/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5524"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5524"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5524"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/62fa9ed0-790b-4621-849a-95417906c5d6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5526"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5526"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5526"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/00efa367-8732-4b5a-9cb2-a62716e41da1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5529"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5529"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5529"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/40e348f5-7156-4922-95e7-d35feea63950/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5531"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5531"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5531"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/07917953-9e34-430e-a231-245130e33f1c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5532"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5532"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5532"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/110231de-66e9-4fb9-b3b3-dee2256057a7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5537"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5537"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5537"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/19606a96-0b89-4e00-aa94-d96d72a4b5dd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5539"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5539"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5539"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7261a47d-6bbe-49fd-9fc9-b22249793f22/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5528"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5528"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5528"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b4e5521-2d26-4942-9b0e-5de4c128e58b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5546"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5546"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5546"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/57515767-767e-47a3-90c4-a4c060a54e05/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5454"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5454"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5454"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e850b321-006e-42e9-9d30-8148aca4664b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5459"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5459"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5459"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/622ac27f-fa3e-4b02-ba38-0347b452d766/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5471"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5471"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5471"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/505eb22e-687d-4678-b9aa-8935252b9181/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5472"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5472"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5472"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e08c8a26-c775-448c-b964-9f81012104d5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5479"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5479"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5479"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc1e473a-37a7-4722-b00c-56c00f7e82e5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5482"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5482"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5482"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6cf438d6-1bc2-4dcf-a74e-44ee01aa8afb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_5483"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_5483"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_5483"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1604017351077",
+    "longitude": "11.8644297122955"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer, Bad, WC, Bergseite"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room, bath, toilet, facing the mountains"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер, ванна, туалет, с видом на горы"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Großeses gemütliches Zimmer mit drei Betten,\nneu renoviertes Badezimmer mit Badewanne/WC/Kabel-Tv Panoramabild, sehr großer sonniger/Balkon. Tisch, Sessel\nFreier Eintritt in das Erlebnissbad Mayrhofen!"
+        },
+        {
+          "@language": "en",
+          "@value": "Room with 3 beds, sofa bed,bath/WC, cable TV, very large balcony, table and chairs."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Dreibettzimmer (Nr. 16) mit Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "triple room with bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "3-местный номер, ванна, туалет, с видом на горы"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer, Dusche, WC, Nichtraucher"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room, shower, toilet, no smoker"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер, душ, туалет, некурящий"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütliches Dreibettzimmer mit eingebauter Sitzecke und Liege, als Dreibettzimmer zu verwenden,Parterre mit Terrasse,Dusche/WC, Kabel-TV.+Panoramabild\nFreier Eintritt in das Erlebnissbad Mayrhofen!"
+        },
+        {
+          "@language": "en",
+          "@value": "Rooms with 3 beds, built in corner seating, on ground floor with terrace, shower/WC, cable TV."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Dreibettzimmer (Nr. 1) mit Dusche, WC, P"
+            },
+            {
+              "@language": "en",
+              "@value": "triple room with shower, WC, Ground Floor"
+            },
+            {
+              "@language": "ru",
+              "@value": "3-местный номер, душ, туалет, некурящий"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC, Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet, balcony"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет, балкон"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Nr.8 gemütliches Doppelzimmer mit Dusche /Wc Kabel TV  Panoramab.Tisch,Sessel süd/Balkon.\nNr.11 Gemütliches Doppelzimmer, Parkettboden,\nDU/WC/Kabel TV mit Panoramabild Tisch,Sessel,ost/Balkon \nzum Wald.\n Freier Eintritt in das Erlebnissbad Mayrh."
+        },
+        {
+          "@language": "en",
+          "@value": "Double room with shower/WC, cable TV, table and chairs, balcony."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer (Nr. 5, 8 u. 11) mit Dusche, W"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet, balcony"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет, балкон"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Zwei Doppelzimmer beide mit Zusatzaufbettung als Dreibett möglich. Beide Zimmer mit separatem Bad/Dusche/WC Gemütliche Wohnküche ausgestattet mit E-Herd, Geschirrspüler,Mikrowelle,Kaffeemaschine,Wasserkocher.\nInternet\nIm Sommer, freier Eintritt im Erlebnisbad!\n\nFrühstück extra:  € 8.- Euro pro Person\nHunde auf Anfrage"
+        },
+        {
+          "@language": "en",
+          "@value": "Two double bedrooms both possible with additional extra bed as triple. Both rooms with separate bath / shower / toilet Comfortable kitchen equipped with electric stove, dishwasher, microwave, coffee maker, kettle.\nInternet\nIn summer, free entrance to the water park!\nBreakfast extra: € 8 Euro per person\nDogs on request"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/2 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/2 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": ""
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "61.00",
+          "maxPrice": "66.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "74.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "99.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "115.00",
+          "maxPrice": "157.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "130.00",
+          "maxPrice": "174.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

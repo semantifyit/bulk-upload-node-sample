@@ -1,0 +1,208 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.fischer-haeusl.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dCB46C6E3-24F1-4775-AF74-126E6B8A423F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Talstraße 124",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3469",
+    "email": "rudolf.brugger@aon.at",
+    "url": "http://www.fischer-haeusl.at"
+  },
+  "name": "Fischerhäusl",
+  "description": [
+    "Quiet position with sun terrace an sunbathing lawn.\nPets are not allowed.",
+    "Child reduction on request.",
+    "Check in 14.00 Uhr - Check out 10.00"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3025ce63-88a8-4417-acc7-0aad8fc816cc/99/image.jpg",
+      "caption": "Fischerhäusl Ramau - Hausansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1e845b29-98c9-4ab0-884b-ef54fbaf0286/99/image.jpg",
+      "caption": "Fischerhäusl Ramsau - Hausansicht 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/059fd850-26be-4b90-a4d7-8b432742da23/99/image.jpg",
+      "caption": "Fischerhäusl Ramsau - Lage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/741f8895-1693-42df-8c0f-a9014ad4aef3/99/image.jpg",
+      "caption": "Fischerhäusl Ramsau - Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/351fea75-9c84-4cdb-876b-ef309a93bbbb/99/image.jpg",
+      "caption": "Sommerurlaub-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/904fa919-032a-4c52-9aad-cbbd4d5bcfed/99/image.jpg",
+      "caption": "Sommerurlaub-2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8b63f832-10cc-456f-81c5-67b91edb82dc/99/image.jpg",
+      "caption": "Sommerurlaub-3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/05f44377-22dc-49c3-b4ea-4d2d10f6211d/99/image.jpg",
+      "caption": "Sommerurlaub-4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f3060533-f2f9-4e17-b967-8d6117a8a170/99/image.jpg",
+      "caption": "Winterurlaub-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12e73525-d954-4ce4-9123-6aea858ad429/99/image.jpg",
+      "caption": "Winterurlaub-2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f449bf20-99bc-479c-96d2-8e931e056f2d/99/image.jpg",
+      "caption": "Winterurlaub-3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef3370fb-229a-4fcf-9212-2ad27b344d88/99/image.jpg",
+      "caption": "Winterurlaub-4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/abab0ff6-27f4-4610-a5e9-2498b99a946b/99/image.jpg",
+      "caption": "Winterurlaub-5"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.20106702531",
+    "longitude": "11.8703520298004"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "We have 3 double rooms shower, toilet, TV-SAT and with balcony.\n  2 double room shower WC, SAT-TV, without balcony.\n\n  We serve a sumptuous full breakfast in our cozy breakfast room.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower, toilet",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/63fcca3f-1db2-485d-8ab9-5b244a83d1cb/99/image.png",
+              "caption": "Tage des offenen Tales"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "27.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "21.50",
+          "maxPrice": "29.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet",
+      "description": "On the second floor we have an apartment for 2-4 people.\n  Equipment:\n\n   Room with double bed\n  Shower WC, SAT-TV.\n\n  Living room with fully equipped kitchen with electric stove and oven\n  Refrigerator with freezer.\n  Coffee maker, dishes, cutlery, etc. completely available for 4 persons.\n\n  Kitchen table with 2 chairs. Corner seat. SAT-TV. Shower and toilet with extra input from the apartment.\n  Balcony.\n  \n  Bed linen and towel and beach towel once available.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.liv.-bedroom/1 bedroom/bath,wc",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "57.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "57.00",
+          "maxPrice": "62.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "62.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

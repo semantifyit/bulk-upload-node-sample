@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "ALL in 1-SKIrental",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1659678",
+    "longitude": "11.8656477"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "ALL in 1-SKIrental ",
+    "streetAddress": "Brandbergstrasse 354",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 64400-33",
+    "email": "info@billigskiverleih.at",
+    "url": "http://www.billigskiverleih.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3b5b09cd-02fa-4e4c-ab56-df11e26c8388/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.billigskiverleih.at"
+  ]
+}

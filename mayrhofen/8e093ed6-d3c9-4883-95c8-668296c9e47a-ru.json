@@ -1,0 +1,530 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast",
+    "Hotel"
+  ],
+  "url": [
+    "http://www.haus-wiesengrund.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d8E093ED6-D3C9-4883-95C8-668296C9E47A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sporer, Apart",
+    "streetAddress": "Hollenzen 105",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62558",
+    "faxNumber": "0043 5285 62558",
+    "email": "hauswiesengrund@aon.at",
+    "url": "http://www.haus-wiesengrund.com"
+  },
+  "name": "Apart Sporer Haus Wiesengrund",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a158883e-4138-46c0-b4db-99e370aabd4a/99/image.jpg",
+      "caption": "Wiesengrund Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17c526eb-f9d6-43f3-9de6-c903713cba6a/99/image.jpg",
+      "caption": "Wiesengrund, Apart Sporer Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d3ac9d2f-1a8c-4a5d-954f-9ac072a3e1c9/99/image.jpg",
+      "caption": "Wiesengrund, Apart Sporer Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/45652351-a44e-4008-8782-97b87be1f483/99/image.jpg",
+      "caption": "Wiesengrund, Apart Sporer Mayrhofen - Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4d57c1af-ebd6-42d0-a746-b90a0be1816f/99/image.jpeg",
+      "caption": "Wiesengrund Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fac8b650-54b7-429b-809d-ebe8c166eb30/99/image.jpg",
+      "caption": "Wiesengrund Mayrhofen Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d1f01f8-8f7a-4757-97c4-67c087a4a143/99/image.jpg",
+      "caption": "Apart Sporer Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9175aacb-1508-4d96-a9d3-a1cec996b177/99/image.jpg",
+      "caption": "Apart Sporer Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8f2d77f-a62f-4d56-bb98-338d52c49427/99/image.jpg",
+      "caption": "Wiesengrund Mayrhofen - Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59479aef-4fa3-4776-92d1-5da57a0e08bf/99/image.jpg",
+      "caption": "Wiesengrund, Apart Sporer Mayrhofen - Fitnessraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/19242426-688c-4a11-a853-ec4ecd192bac/99/image.jpg",
+      "caption": "Wiesengrund, Apart Sporer Mayrhofen - Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c3be7193-522d-4fb5-a3e7-549caa2a005c/99/image.jpg",
+      "caption": "Wiesengrund, Apart Sporer Mayrhofen-Infrarotkabine"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2bb929e3-334f-4127-86bb-ab6adf3c0bef/99/image.jpg",
+      "caption": "Wiesengrnd Mayrhofen - Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bad9a94a-27a9-4ac9-83ec-aa875126cf00/99/image.jpg",
+      "caption": "FEWO 1-2 Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2a73cab-755e-4d8a-8877-1adb27bb32ab/99/image.jpg",
+      "caption": "FEWO 1-2 Küche2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/70437eda-10fe-4368-a7b4-d622a02726ce/99/image.jpg",
+      "caption": "FEWO 1-2 Küche3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2a3b834e-badf-4541-81f0-89c9e51f92d4/99/image.jpg",
+      "caption": "FEWO 1-2 Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/467e0196-c19f-4be9-825e-946802cbcc90/99/image.jpg",
+      "caption": "FEWO 1-2 Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c98e3795-c199-43f7-b3b4-bef40b1c9abf/99/image.jpg",
+      "caption": "FEWO 1-2 Bad2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9d6f50ac-70af-4f65-98da-f5dd54cddc00/99/image.jpg",
+      "caption": "FEWO 3 Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf3b3b96-9e3f-475d-97a5-2ffe1f28f629/99/image.jpg",
+      "caption": "FEWO 3 Wohnbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/65fec7bc-ea11-44e7-b0e2-d9bb44d2813f/99/image.jpg",
+      "caption": "FEWO 3 Wohnbereich2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3b0aaebc-629a-4c00-8fe2-5e82837bf9c4/99/image.jpg",
+      "caption": "FEWO 3 Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e9b8e753-05d7-4c40-ac54-d01f5c429064/99/image.jpg",
+      "caption": "FEWO 3 Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d8499e62-a0e0-47d9-863f-73fd98c4f339/99/image.jpg",
+      "caption": "FEWO 3 Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b1b5c6a6-3091-4a87-b079-d9c25879270d/99/image.jpg",
+      "caption": "FEWO 3 Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e2647f34-1ffa-4a02-a01b-d574c963d759/99/image.jpg",
+      "caption": "Paraglider"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f6c13abf-1300-4798-b7ce-debd55e8fabb/99/image.jpg",
+      "caption": "Olpererhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ce278d4-f885-4fda-b9f2-80af26c44132/99/image.jpg",
+      "caption": "Radfahren"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/702e2499-9e4e-4523-8789-d3cf40ec79ee/99/image.jpg",
+      "caption": "Biker"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fd4f582e-2e6f-4a8c-b17d-02abb58eed04/99/image.jpg",
+      "caption": "White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3485f50-a145-4b74-baf2-62a877484680/99/image.jpg",
+      "caption": "Rodeln"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fecc5fd7-9abb-4158-905f-e3a0a0b65245/99/image.jpg",
+      "caption": "Skifahrer in Action"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/908b2871-6fbe-4009-ab1d-3f8051baefb5/99/image.jpg",
+      "caption": "Langlaufen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1836569205794",
+    "longitude": "11.8707758188248"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Одноместный номер, горячая/холодная вода",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Одноместный номер, горячая/холодная вода",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Одноместный номер, горячая/холодная вода",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "22.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, горячая/холодная вода",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, горячая/холодная вода",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, горячая/холодная вода",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "31.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "44.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "26.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "26.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.33",
+          "maxPrice": "28.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "38.67",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, Душевая кабина или ванна, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, Душевая кабина или ванна, две спальни",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "34.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "26.00",
+          "maxPrice": "41.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "22.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "19.60",
+          "maxPrice": "31.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

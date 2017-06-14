@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Festival"
+  ],
+  "name": [
+    {
+      "@language": "de",
+      "@value": "Almabtrieb Klausenalm"
+    },
+    {
+      "@language": "en",
+      "@value": "Almabtrieb Klausenalm"
+    },
+    {
+      "@language": "ru",
+      "@value": "Almabtrieb Klausenalm"
+    }
+  ],
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Klausenalm",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Familie",
+      "familyName": "Geisler"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Zemmgrund 216",
+      "addressLocality": "Ginzling",
+      "postalCode": "6295",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5286 5226",
+      "faxNumber": "(0043) 5286 5226 4",
+      "email": "info@klausenalm.at",
+      "url": "www.klausenalm.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Klausenalm",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Zemmgrund 216",
+      "addressLocality": "Ginzling",
+      "postalCode": "6295",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5286 5226",
+      "faxNumber": "(0043) 5286 5226 4",
+      "email": "info@klausenalm.at",
+      "url": "www.klausenalm.at"
+    }
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Nähere Informationen folgen!"
+    },
+    {
+      "@language": "en",
+      "@value": "More information coming soon!"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8ee399e5-94a8-4987-b516-d3428e7466b6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Almabtrieb"
+        },
+        {
+          "@language": "en",
+          "@value": "Almabtrieb"
+        },
+        {
+          "@language": "ru",
+          "@value": "Almabtrieb"
+        }
+      ]
+    }
+  ],
+  "startDate": "2017-09-22T00:00:00",
+  "endDate": "2017-09-22"
+}

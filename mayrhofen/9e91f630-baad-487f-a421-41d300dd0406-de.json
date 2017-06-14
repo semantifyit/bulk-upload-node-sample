@@ -1,0 +1,143 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.dr-geisler-mayrhofen.at/",
+    "http://maps.mayrhofen.at/?foreignResource\u003d9E91F630-BAAD-487F-A421-41D300DD0406"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Dr. Geisler, Ferienwohnungen",
+    "streetAddress": "Waldbadstraße 530",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62315",
+    "faxNumber": "0043 5285 62315",
+    "email": "f.geisler@zline.at",
+    "url": "www.dr-geisler-mayrhofen.at"
+  },
+  "name": "Appartements Dr. Geisler",
+  "description": [
+    "Unser Haus liegt in zentraler und ruhiger Lage in Mayrhofen. Gleich gegenüber befindet sich ein Lebensmittelgeschäft mit einer Bäckerei. Die Seilbahnen sind in unmittelbarer Nähe. Das Erlebnisbad liegt in der selben Strasse und ist in 3 Gehminuten erreichbar.",
+    "Anreise: Bahnhof Mayrhofen - Einfahrt Mitte - Post - Kreuzung überqueren - nach 10m in die 1. Seitenstrasse rechts einbiegen. 1. Haus auf der linken Seite \"Haus Dr. Geisler\"."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/abf5b3ba-edba-45a6-b5b6-45eebb08b516/99/image.jpg",
+      "caption": "Gästehaus Geisler Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c47b3da7-55d1-4433-a81d-a70041a2ba84/99/image.jpg",
+      "caption": "Gästehaus Geisler Mayrhofen - Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1664307544379",
+    "longitude": "11.8635606765747"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Einzelzimmer, 2 Doppelzimmer, Wohn-Küchenraum, 2x Dusche/WC, Vorraum mit Garderobe, separater Eingang, Balkon mit Sitzgelegenheit, Holzboden mit Teppichen, ruhig, nebenan Bäckerei und Lebensmittelgeschäft, Seilbahnen in unmittelbarer Nähe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment \"Zillertal\"/3 Schlafräume/Dusc",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "2 DZ, 2xDU/WC, Wohn- Küchenraum mit Kabel-TV, Geschirrspüler, Kaffeemaschine, Mikrowelle und Kühlschrank, eigener Hauseingang, Zustellbett möglich.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment \"Brandberg\"/2 Schlafräume/Dusc",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Doppelzimmer mit DU/WC, Wohn-Küchenraum mit Kabel-TV, Geschirrspüler, Kaffeemaschine, Mikrowelle und Kühlschrank, Kaffeemaschine eigener Hauseingang;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment \"Steinerkogl\"/1 Schlafraum/Dus",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Wunderschönes Appartement mit Panoramaausblick, geräumiger Wohnraum, gut ausgestattete Küche.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. \"Laberg\"/Wohn-Schlafraum/1 Schlafrau",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "availability": "http://schema.org/InStock"
+    }
+  ]
+}

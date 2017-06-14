@@ -1,0 +1,149 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.mayrhofen.at/de/annelies-weissbacher",
+    "http://maps.mayrhofen.at/?foreignResource\u003dB95608CF-D44A-43D2-9751-CA54CE67D9A1"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lindenstraße 66",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2405",
+    "faxNumber": "0043 5282 2405",
+    "email": "weissbacher.a@aon.at",
+    "url": "http://www.haus-weissbacher.at"
+  },
+  "name": "Weissbacher Annelies",
+  "description": [
+    "Unser Haus befindet sich am Ortsrand von Hippach, in ruhiger Umgebung, ca. 5 Gehminuten vom Zentrum entfernt, Erlebnisschwimmbad, Tennisplatz, Kinderspielplatz, Radweg in unmittelbarer Nähe, Gästebushaltestelle direkt an der Strasse, Skibushaltestelle direkt an der Strasse",
+    "Kinderermässigung auf Anfrage!",
+    "Check in ab 14.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8a518122-92c6-4a80-98be-8fda7b1aeef6/99/image.jpg",
+      "caption": "Weissbacher Schwendau - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/90c18925-2502-4729-8e9b-2a39cc8598c9/99/image.jpg",
+      "caption": "Weissbacher Schwendau - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf7693cd-7cb7-43d1-8331-bd72efc5b524/99/image.jpg",
+      "caption": "Weissbacher Schwendau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84290b88-d57d-4448-b86c-310278948b6f/99/image.jpg",
+      "caption": "Weissbacher Schwendau - Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94b6f9af-0c7c-4e8e-8bc8-d77fe8a3dfed/99/image.jpg",
+      "caption": "Weissbacher Schwendau - Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7664ea74-448b-499c-96bb-699102580ae3/99/image.jpg",
+      "caption": "Weissbacher Schwendau - Fewo Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/83d04e25-a990-4ae0-813f-82c2690c406d/99/image.jpg",
+      "caption": "Weissbacher Schwendau - Fewo Zimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1996309807265",
+    "longitude": "11.8665486574173"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer mit DU/WC, auch Dreibettzimmer möglich, Sat-TV, Internetzugang, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "33.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "28.00",
+          "maxPrice": "33.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Unsere gemütlich eingerichtete Ferienwohnung verfügt über die folgende Ausstattung:\n\neine Wohnküche mit gemütlicher Sitzecke, Schlafsofa, SAT-TV, Küchenblock mit Backrohr und Mikrowelle, Kaffeemaschine, Wasserkocher, Toaster\nein Schlafzimmer mit Dusche, Waschbecken und SAT-TV,\nein separates WC\nZugang zum Balkon\nBettwäsche und handtücher sind natürlich vorhanden.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d413148EA-CA27-4110-8C2E-F55026C79FA5"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendberg 323",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4167",
+    "faxNumber": "0043 5282 4167",
+    "email": "fewo-bair@gmx.at",
+    "url": "http://www.neuhaus-am-schwendberg.com"
+  },
+  "name": "Pension Neuhaus",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Gemütliche Pension am Schwendberg, herrlicher Blick auf die Zillertaler Bergwelt, ruhige Lage"
+    },
+    {
+      "@language": "de",
+      "@value": "Kinderermäßigung:\nSommer und Winter : bis 12 Jahre Euro 10,00\n                                        bis 15 Jahre Euro 15,00"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in 12:00 Uhr - Check out 10:00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Comfortable pension in Schwendberg, marvellous look at the Zillertaler mountain world, quiet situation\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Reduction for children: \nSummer and winter: to 12 years 10.00 euros\n                                           to 15 years 15.00 euros\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in 12:00 - Check out 10:00 "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/67ff2284-04cc-4145-8f53-d1eb8e197c24/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Neuhaus Hippach - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Neuhaus Hippach - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Neuhaus Hippach - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a18297aa-8f9a-451c-834c-4ee9a3b2378e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Neuhaus - Ausblick Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Neuhaus - Ausblick Balkon"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Neuhaus - Ausblick Balkon"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd2295c6-7215-465f-bf20-9ab06171c03c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Neuhaus - Ausblick Balkon2"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Neuhaus - Ausblick Balkon2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Neuhaus - Ausblick Balkon2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb7e0c77-6b1e-4d45-b875-e8fead344ecf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Neuhaus - Ausblick Balkon Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Neuhaus - Ausblick Balkon Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Neuhaus - Ausblick Balkon Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/20740ded-8dd2-4f10-88cd-b983117a72a9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Neuhaus - Garten"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Neuhaus - Garten"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Neuhaus - Garten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68da4588-e9da-417a-ac5f-4ee3e4aa5b3e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Neuhaus - Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Neuhaus - Balkon"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Neuhaus - Balkon"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/421f3359-dd40-49a6-b314-81adf2e8dcb8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Neuhaus - Deko"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Neuhaus - Deko"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Neuhaus - Deko"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a5f1db4-7a1d-4881-9dd6-c937d6644c62/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Neuhaus - Gartenhütte"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Neuhaus - Gartenhütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Neuhaus - Gartenhütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0148f8e0-191e-4ebd-b4ef-74b156972f30/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Neuhaus - Brunnen"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Neuhaus - Brunnen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Neuhaus - Brunnen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/46d5174b-48fd-44b5-b722-c174f90232cd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Neuhaus - Schnaps"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Neuhaus - Schnaps"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Neuhaus - Schnaps"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/166c0536-043d-420e-97e5-2d31bde20db5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension Neuhaus - Parkplatz"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension Neuhaus - Parkplatz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension Neuhaus - Parkplatz"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2048829244463",
+    "longitude": "11.8612968921661"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütliche, südseitig gelegene Zimmer mit DU/WC, Balkon u. TV mit herrlichem Panoramablick auf die Zillertaler Bergwelt. Zustellbett möglich."
+        },
+        {
+          "@language": "en",
+          "@value": "Cosy, sun-side situated rooms with shower/toilette, balcony and TV with fantastic panoramic view to the \"Zillertaler\" Mountains.\nAdditional bed possible."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütliches Doppelzimmer zur Alleinbenützung mit TV, Balkon und Panoramablick."
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortable double-room for single use, with TV, balcony and fantastic panoramic view."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "single room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/1 Schlafraum/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

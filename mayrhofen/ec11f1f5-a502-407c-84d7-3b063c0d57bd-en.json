@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church"
+  ],
+  "name": "Granatkapelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1708422777404",
+    "longitude": "11.8035331625244"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Granatalm.at GmbH",
+    "streetAddress": "Penken 422",
+    "addressLocality": "Mayrhofen ",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63033",
+    "faxNumber": "(0043) 5285 63033-33",
+    "email": "info@granatalm.at",
+    "url": "www.granatalm.at"
+  },
+  "description": "Garnet Chapel on Mount Penken \n\nThe destination for tranquility, relaxation \u0026 contemplation at 2,087m.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1cb38c0-6969-4c8f-bdcc-d501160299a7/99/image.jpg",
+      "caption": "Kapelle "
+    }
+  ],
+  "url": [
+    "http://www.christas-skialm.at/sommer/aktuelles/granatkapelle"
+  ]
+}

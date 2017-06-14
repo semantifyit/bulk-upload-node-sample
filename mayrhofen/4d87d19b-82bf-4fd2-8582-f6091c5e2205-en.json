@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": "HNO-Facharzt Dr. Rainer Thomas",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2091103431943",
+    "longitude": "11.8733561038971"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 160",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 512 586604",
+    "faxNumber": "(0043) 512 5866044",
+    "email": "ordination@hno-rainer.at",
+    "url": "http://www.aerztehaus-ramsau.at/index.php/rainer"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/01cbc19b-32e5-4bc7-bfe0-05a022e287cb/99/image.jpg",
+      "caption": "Dr. Rainer Thomas"
+    }
+  ],
+  "url": [
+    "http://www.aerztehaus-ramsau.at/index.php/rainer"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ChildrensEvent"
+  ],
+  "name": "JU-KI Fest im Wald",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "KultWerk Kultur-und Jugendverein ",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dorf Haus 781",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 660 1497973"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "KultWerk Kultur-und Jugendverein ",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dorf Haus 781",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 660 1497973"
+    }
+  },
+  "description": "More information coming soon!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa425ddc-f991-46d4-84ed-fd804bbad523/99/image.jpg",
+      "caption": "Titelbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec33f943-f785-4889-bf1e-71fcbd64ab60/99/image.jpg",
+      "caption": "JU-KI Fest"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1768c0b3-f8e0-458b-b620-4f440b417943/99/image.jpg",
+      "caption": "Malen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/460f5753-fd19-4bf1-aa65-c058c5cbea74/99/image.jpg",
+      "caption": "Ringkampf"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e5dedfb-bd93-4062-8dd8-a5be6ddac361/99/image.jpg",
+      "caption": "Yoga"
+    }
+  ],
+  "url": [
+    "https://www.mayrhofen.at/fileadmin/userdaten/mayrhofen_at/dokumente/events/events-feratel/juki_programm_2016.pdf",
+    "https://www.youtube.com/watch?v\u003dTeRntEbWIoo\u0026ab_channel\u003ddieKommune"
+  ],
+  "startDate": "2017-07-29T13:00:00",
+  "endDate": "2017-07-29"
+}

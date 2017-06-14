@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast",
+    "Hotel"
+  ],
+  "url": [
+    "http://www.kumbichlhof.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d25DA781D-3688-44F7-B990-A6635071A77B"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kumbichlhof, Pension",
+    "streetAddress": "Kumbichl 874",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62458",
+    "faxNumber": "0043 5285 62458",
+    "email": "info@kumbichlhof.com",
+    "url": "http://www.kumbichlhof.com"
+  },
+  "name": "Pension Kumbichlhof",
+  "description": [
+    "Do you want to play sports, or just lie around and do nothing all day except enjoy the peace and quiet and tank some energy? Well here you will find exactly that, in our family run business, surrounded by stunning mountain scenery where one can enjoy a relaxing holiday.",
+    "Special offer from 01.05.-01.06.2008 and from 02.06.-04.10.2008 \nSpecial offer from 04.10.-31.10.2008 \n",
+    "Before Mayrhofen at the roundabout traffic  in the direction train station, after 50 metre you turn left to Mayrhofen middle. After the postal office turn right, the one-way street straight ahead to \"Gasthof Brücke\", then turn left again and straight ahead, after 50 metres you are there!\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "51"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b026efeb-4b2c-4668-a4a4-8160810cc026/99/image.jpg",
+      "caption": "Kumbichlhof  Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5a77e4e6-cefc-4d69-882f-7e71c0503caa/99/image.jpg",
+      "caption": "Kumbichlhof  Mayrhofen - Stube"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1590521331308",
+    "longitude": "11.8626916408539"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower or bath, toilet",
+      "description": "The comfortable guests rooms, furnished in a country style are equipped with shower/WC, balcony and  cable TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower or bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Triple room, shower or bath, toilet",
+      "description": "The guest rooms furnished in a Tyrolean style provide a pleasant atmosphere for your stay, and are equipped with shower/WC, balcony and cable TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "triple room with shower or bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Single room, shower or bath, toilet",
+      "description": "The guest rooms furnished in a Tyrolean style provide a pleasant atmosphere for your stay.  Equipped with shower/WC, balcony and  cable TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "single room with shower or bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

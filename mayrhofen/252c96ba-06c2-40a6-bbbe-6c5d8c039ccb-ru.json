@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": "Zell Brass auf der Granatalm",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Granatalm.at GmbH",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Christina",
+      "familyName": "Kröll-Brindlinger"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Penken 422",
+      "addressLocality": "Mayrhofen ",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5285 63033",
+      "faxNumber": "(0043) 5285 63033-33",
+      "email": "info@granatalm.at",
+      "url": "www.granatalm.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Granatalm.at GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Penken 422",
+      "addressLocality": "Mayrhofen ",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5285 63033",
+      "faxNumber": "(0043) 5285 63033-33",
+      "email": "info@granatalm.at",
+      "url": "www.granatalm.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02c1bbfd-4337-4ebd-b2dc-fc1fb1b19bad/99/image.jpg",
+      "caption": "Zell Brass"
+    }
+  ],
+  "startDate": "2017-03-26T12:00:00",
+  "endDate": "2017-03-26"
+}

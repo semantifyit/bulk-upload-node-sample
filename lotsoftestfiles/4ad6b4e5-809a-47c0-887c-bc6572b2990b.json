@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Bäckerei Bacher"
+    },
+    {
+      "@language": "de",
+      "@value": "Bäckerei Bacher"
+    },
+    {
+      "@language": "ru",
+      "@value": "Bäckerei Bacher"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2005531153439",
+    "longitude": "11.8653738498688"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bäckerei Bacher",
+    "streetAddress": "Lindenstraße 48",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 55050",
+    "faxNumber": "0043 5282 55061",
+    "email": "bacherbrot@aon.at",
+    "url": "http://bacherbrot.com"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich Willkommen in der Bäckerei Bacher!\nWir, die Familie Bacher sind stolz auf unsere traditionellen Backwaren. Bei uns wird seit Generationen nach traditioneller Rezeptur und guter, alter Handwerkskunst gebacken. \nUnsere 20 Mitarbeiter sind zum Teil seit vielen Jahren in unserem Betrieb tätig und helfen aktiv mit, unser gutes Brot und Gebäck herzustellen. Die Freundlichkeit unserer Verkäufer/Innen sorgen dafür, dass unsere Kunden gerne wiederkommen.\nÜberzeugen Sie sich von unseren Köstlichkeiten und probieren Sie selbst! Frühstück mit frischen Backwaren direkt aus unserer Backstube wird sowohl in unserem Geschäft in Mayrhofen als auch in der Filiale in Schwendau bereits ab 6.30 Uhr serviert! \n"
+    },
+    {
+      "@language": "en",
+      "@value": "Welcome to the bakery Bacher!\nWe, the family Bacher are proud of our traditional pastries. \nOur 20 employees are partly active in our company for many years and actively help to establish our good bread and pastries. The friendliness of our sales / interior ensure that our customers come back happy.\nConvince yourself of our delicacies and taste for yourself! Breakfast with fresh baked goods directly from our bakery is served both in our shop in Mayrhofen and in the branch in Schwendau already at 6.30 clock!"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c74422c7-6092-45ab-8df7-7286cb4afe0f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Bacher"
+        },
+        {
+          "@language": "de",
+          "@value": "Bacher"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bacher"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://bacherbrot.com"
+  ]
+}

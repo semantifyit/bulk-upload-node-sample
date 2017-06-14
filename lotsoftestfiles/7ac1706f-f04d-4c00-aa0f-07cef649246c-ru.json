@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Pfitscherjochhaus 2276m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "46.9946703232746",
+    "longitude": "11.6601473093033"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pfitscherjochhaus",
+    "streetAddress": "St. Jakob 103",
+    "addressLocality": "Pfitsch",
+    "postalCode": "39049",
+    "addressCountry": "IT",
+    "telephone": "(0039) 0472 630119 ",
+    "faxNumber": "(0039) 0472 630200",
+    "email": "office@pfitscherjochhaus.com",
+    "url": "www.pfitscherjochhaus.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5a72e504-2f73-44c0-a984-6459ccb821a7/99/image.jpg",
+      "caption": "Hütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eaef20e0-a865-448c-8ad4-df0c31a5b90a/99/image.jpg",
+      "caption": "Aussicht 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/73909ec0-dbd9-4cde-9d02-a10580fd6cf0/99/image.jpg",
+      "caption": "Aussicht 2"
+    }
+  ],
+  "url": [
+    "http://www.pfitscherjochhaus.com"
+  ]
+}

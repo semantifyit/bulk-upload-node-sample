@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Tiroler Stuben",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1702856126303",
+    "longitude": "11.8628633022308"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Carla, Apparthotel Landhaus",
+    "streetAddress": "Schwendaustraße 197a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62791",
+    "faxNumber": "(0043) 5285 63070",
+    "email": "info@landhaus-carla.at",
+    "url": "http://www.landhaus-carla.at"
+  },
+  "description": "Lots of wood and attention to detail characterize the atmosphere - numerous Tyrolean including Zillertal specialties crown the culinary of \"Tiroler Stuben\" in \"Hotel Landhaus Carla\". At the entrance to Mayrhofen in the Ziller Valley, just three minutes from the town center.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d40eae1e-f06b-4e73-86c8-583ed2a20b91/99/image.jpg",
+      "caption": "Tiroler Stuben"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c53971d2-927b-4355-bf55-7732d86036d0/99/image.jpg",
+      "caption": "Empfang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d525030d-8b3f-414f-9e1b-2ab057a9b622/99/image.jpg",
+      "caption": "Zimmer"
+    }
+  ],
+  "url": [
+    "http://www.landhaus-carla.at"
+  ]
+}

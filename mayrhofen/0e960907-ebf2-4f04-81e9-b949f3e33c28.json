@@ -1,0 +1,329 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d0E960907-EBF2-4F04-81E9-B949F3E33C28"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Antonia, Landhaus",
+    "streetAddress": "Ahornstraße 862",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62593",
+    "faxNumber": "0043 5285 62593",
+    "email": "landhaus-antonia@gmx.at"
+  },
+  "name": "Landhaus Antonia",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt eine Minute von der Hauptstrasse entfernt und trotzdem am Abend in ruhiger Lage zwischen den Bergbahnen (1min. zur Ahornbahn, 5min. zur Penkenbahn). Das Haus ist eine kleine familiäre Frühstückspension mit gemütlichen Zimmern mit Balkon und Radiowecker, Aufenthaltsraum mit TV, großer Parkplatz, Liegewiese und Gästekühlschrank. Wir bieten auch erweitertes reichhaltiges Frühstück an."
+    },
+    {
+      "@language": "de",
+      "@value": "Die Preise verstehen sich inklusive Kurtaxe und erweiterten Frühstück. Kinderermäßigung auf Anfrage!"
+    },
+    {
+      "@language": "de",
+      "@value": "Richtung Mayrhofen, beim Bahnhof vorbei, links abbiegen - Einfahrt Mitte - nach dem Postamt die erste rechts und die Hauptstrasse entlang bis über die Brücke, danach links abbiegen in die Ahornstrasse."
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is one minute away from the high street, but is still very quiet in the evenings. We are situated between the lifts (1 min to the Ahorn lift and 5 mins to the Penken). We are a small informal bed and breakfast, with pleasant rooms, which are equipped with a balcony and radio alarm, guest lounge with TV, large car park, sunning area and fridge for guest\u0027s use. We also offer a continental breakfast.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "The price includes local taxes and a continental breakfast. Children\u0027s price reductions on request!"
+    },
+    {
+      "@language": "en",
+      "@value": "Past the railway station at Mayrhofen, left at Einfahrt Mitte, after the post office first right, up the high street and over the bridge turn left."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ef50a1a-a802-4384-8f1e-f824099e3785/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Antonia Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Antonia Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Antonia Mayrhofen - Sommer"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1600916944434",
+    "longitude": "11.862530708313"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütlich eingerichtete Zimmer mit Radiowecker und Balkon nach Osten (Morgensonne)."
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortably furnished room with radio alarm and east facing balcony (morning sun)."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.50",
+          "maxPrice": "27.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, fl. k/w Wasser"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, running hot/cold water"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, горячая/холодная вода"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütlich eingerichtetes Zimmer mit Radiowecker und Balkon (Süd-West) mit herrlicher Aussicht."
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortably furnished room with radio alarm and sout hwest facing balcony with a fabulous view."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Etagendusche"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with running hot/cold water"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, горячая/холодная вода"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.50",
+          "maxPrice": "26.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Zweibettzimmer, fl. k/w Wasser"
+        },
+        {
+          "@language": "en",
+          "@value": "Twin room, running hot/cold water"
+        },
+        {
+          "@language": "ru",
+          "@value": "Твин, горячая/холодная вода"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütlich eingerichtetes Zimmer mit Radiowecker und Balkon (nach Osten)."
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortably furnished room with radio alarm and east facing balcony."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Zweibettzimmer mit fl. Wasser"
+            },
+            {
+              "@language": "en",
+              "@value": "twin with running hot/cold water"
+            },
+            {
+              "@language": "ru",
+              "@value": "Твин, горячая/холодная вода"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, fl. k/w Wasser"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, running hot/cold water"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, горячая/холодная вода"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütlich eingerichtetes kleines Zimmer mit Radiowecker."
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortably furnished small room with radio alarm."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer mit Etagendusche"
+            },
+            {
+              "@language": "en",
+              "@value": "single room with running hot/cold water"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер, горячая/холодная вода"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

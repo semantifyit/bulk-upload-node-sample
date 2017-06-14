@@ -1,0 +1,163 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dCED5C058-30B7-4963-BA7C-0CCB91A209F5"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendberg 265",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0043 5282 20 149",
+    "faxNumber": "(0043) 0043 5282 20 149",
+    "email": "msporer@gmx.at",
+    "url": "http://www.mayrhofen.at/de/andreas-sporer"
+  },
+  "name": "Sporer Monika",
+  "description": [
+    "Gepflegtes Haus in sonniger Lage nur 5 Gehminuten vom Ortskern entfernt.",
+    "Kinderermässigung auf Anfrage",
+    "Anreise: ab  14.00 Uhr \nAbreise: bis 10.00 Uhr "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b70e19b1-be9e-4718-affe-ae7e50ba4728/99/image.jpg",
+      "caption": "Monika Sporer Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56db04ee-6ff6-47a0-afc8-dcb1646daced/99/image.jpg",
+      "caption": "Monika Sporer Hippach - Winter 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f375590c-1fde-4b64-b708-b5095155e845/99/image.jpg",
+      "caption": "Winterlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0e0382e2-9f3e-497e-97aa-2031e8a63c78/99/image.jpg",
+      "caption": "Winter in Hippach"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b56f24e8-81fb-4d7a-87dd-793c7757d333/99/image.jpg",
+      "caption": "Winter in Hippach"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa7c6dca-a8fc-4b5b-bccc-76cf6c7a4fcd/99/image.jpg",
+      "caption": "Sommer im Zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6868280e-8ba7-4577-94f6-913cf51c8b82/99/image.jpg",
+      "caption": "Sommer/Wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad4260c5-a736-4bdc-8a16-6f804fa8a190/99/image.jpg",
+      "caption": "Wandern "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14d2f250-0086-464c-bf04-b7d5be3c3e0f/99/image.jpg",
+      "caption": "Ferienwohnung Doppelzimmer mit Zusatzbett"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bc5460ee-90a1-479f-90f9-1e7b33c4003b/99/image.jpg",
+      "caption": "Ferienwohnung Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9b75774-a5da-41c8-9359-458b24f1d99a/99/image.jpg",
+      "caption": "BILD0522"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e97775aa-3006-4df2-8b21-ed41218b62f2/99/image.jpg",
+      "caption": "BILD0523"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5bdb6e7-586c-4059-876f-2122ffafb03f/99/image.jpg",
+      "caption": "BILD0524"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2091686500628",
+    "longitude": "11.8644404411316"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Die Wohnung hat 1 Doppelzimmer mit Dusche/WC und TV im Zimmer und 1 Doppelzimmer mit Dusche/TV im Zimmer und WC am Gang. \nEs befindet sich in der Wohnung ebenso eine Küche, die komplett mit Geschirr ausgestattet ist. \nVon den Schlafzimmern sowie von der Küche aus, gelangen Sie auf unseren südlich ausgerichteten Balkon. \nSchi-Schuhtrockner ist ebenso vorhanden.\nBettwäsche, Handtücher und Geschirrtücher werden kostenlos zur Verfügung gestellt.  Die Ferienwohnung ist eine komplette Etage. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "62.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "72.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

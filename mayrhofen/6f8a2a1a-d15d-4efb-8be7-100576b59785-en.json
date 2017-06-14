@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gasthof Post",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2045111870275",
+    "longitude": "11.8653202056885"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Post",
+    "streetAddress": "Hippach-Dorf 18",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3652",
+    "faxNumber": "(0043) 5282 3652 7",
+    "email": "info@gasthofposthippach.at",
+    "url": "http://www.gasthofposthippach.at"
+  },
+  "description": "Hippach lies in the sunniest part of Zillertal and is ideal for a relaxing holiday at any time of the year.  Our traditional, cosy guest house is located in the heart of Hippach.\n\nThe ski bus stops directly in front of the hotel. The \"Ramba-Zamba\" Apres-Ski Bar is only a two minute walk from the main building, and we invite you there to enjoy the party atmosphere with live music!\n\nIn the summer we offer minigolf and pit-pat. Also, you get free entrance to the swimming pool and the Hippach \"Sommerwelt\" sports facilities (trampoline, tennis courts, beach volleyball,...). For kids there is plenty of action in the \"Young Stars Club\"!\n\nWe look forward to seeing you!\n\nFamily Hundsbichler-Riedl\n ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8dabe778-9dd7-4f97-8405-8d613309e1f6/99/image.jpg",
+      "caption": "Gasthof Post"
+    }
+  ],
+  "url": [
+    "http://www.gasthofposthippach.at"
+  ]
+}

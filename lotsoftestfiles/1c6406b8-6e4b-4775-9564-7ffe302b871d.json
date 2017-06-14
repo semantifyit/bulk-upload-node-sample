@@ -1,0 +1,133 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d1C6406B8-6E4B-4775-9564-7FFE302B871D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Valentina, Gästehaus",
+    "streetAddress": "Tuxer Straße 706",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62249",
+    "faxNumber": "0043 5285 62249"
+  },
+  "name": "Gästehaus Valentina",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Familiär geführtes Haus, 4 Gehminuten bis zum Zentrum. Direkt neben der neuen Ahornbahn; Nähe Penkenbahn, Liegewiese, Parkplatz, Aufenthaltsraum mit Kabel-TV, Zimmer mit Balkon."
+    },
+    {
+      "@language": "de",
+      "@value": "Preise inklusive Ortstaxe und Frühstück; Kinderermäßigung auf Anfrage!"
+    },
+    {
+      "@language": "de",
+      "@value": "Nur wenige Meter von der Talstation der Ahornbahn und der Penkenbahn entfernt."
+    },
+    {
+      "@language": "en",
+      "@value": "Family run house, 4 minutes walk away from town centre. Close to the Penken lifts and next to the new Ahorn lifts, sunning area, car park, guest lounge with cable TV, rooms with balcony."
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes local taxes and breakfast; Children\u0027s price reductions on request!"
+    },
+    {
+      "@language": "en",
+      "@value": "Only a few meters away from the Ahornbahn and Penkenbahn."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4568732c-c7f3-4621-9a28-fc2210bee5bd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gästehaus Valentina Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Gästehaus Valentina Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gästehaus Valentina Mayrhofen - Sommer"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1620321544734",
+    "longitude": "11.8594622612"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die freundlich eingerichteten Zimmer verfügen über Dusche/WC, die meisten über Balkon und Sitzecke."
+        },
+        {
+          "@language": "en",
+          "@value": "The nicely furnished rooms are equipped with shower/WC, and most have a balcony and seating area."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

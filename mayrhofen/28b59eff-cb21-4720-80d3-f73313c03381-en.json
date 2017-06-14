@@ -1,0 +1,189 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast",
+    "Hotel"
+  ],
+  "url": [
+    "http://members.aon.at/noal",
+    "http://maps.mayrhofen.at/?foreignResource\u003d28B59EFF-CB21-4720-80D3-F73313C03381"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Noal, Landhaus",
+    "streetAddress": "Tuxer Straße 711",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62637",
+    "faxNumber": "0043 5285 62637",
+    "email": "noal@aon.at"
+  },
+  "name": "Landhaus Noal",
+  "description": [
+    "Our house is situated in a sunny, central, yet quiet position. The Ahorn and Penken lifts, adventure swimming pool and stables are only a 3-4 minute walk away. The bus stop buses to the glacier and surrounding vallies is 100m away. Car park at house. Guest lounge with cable TV, terrace, sunning area, drink making facilities. Children sharing parent\u0027s room receive a 30-50% price reduction. We are available any time for further information. Family Petra and Andreas Schiestl",
+    "The price includes the local tax and the Vat-tax.\nAdd to this price comes the final cleaning of € 50,--.\nTowels and bedlines are in the appartment.\nYou can order bread and rolls for breakfast",
+    "At the roundabout drive on in the direction of the railway station, after approx. 200m turn left, and then right at the next junction.  In about 700m you will be at Landhaus Noal."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3300ba9d-7821-472a-961c-4436a909bfa1/99/image.jpg",
+      "caption": "Landhaus Noal - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4dce92c0-3a91-445f-a03e-6b8717179b0a/99/image.jpg",
+      "caption": "Landhaus Noal  - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8fa0d903-5ba3-4675-a544-a7f958869d7d/99/image.jpg",
+      "caption": "Landhaus Noal - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/778b360a-06e8-430c-82d9-2efd94f9651b/99/image.jpg",
+      "caption": "Landhaus Noal - Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb7a2dcf-906b-4ff3-888f-ce3e143b0914/99/image.jpg",
+      "caption": "Landhaus Noal - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/725349ba-be57-44e7-9d84-8fa2da3145f7/99/image.jpg",
+      "caption": "Landhaus Noal - Schlafzimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1615853443",
+    "longitude": "11.8590518832207"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet, balcony",
+      "description": "Comfortably furnished with shower/WC, cable TV, balcony, south facing with a view of the Grünberg mountain, east facing with a view of the Ahorn peak.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "31.50",
+          "maxPrice": "31.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "31.50",
+          "maxPrice": "31.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower or bathtub, 2 bed rooms",
+      "description": "2 bedrooms, 2 bath rooms, kitchen with equipment, garderobe and balcony\nThe appartments are completely new refurnished",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/990b7a94-7f33-4cd1-9b7c-99acc1b091b2/99/image.jpg",
+              "caption": "SAM_4420"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "Equipment: 1 bedroom, 1 bathroom, 1 kitchen with living room, garderobe, balcony",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "20.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

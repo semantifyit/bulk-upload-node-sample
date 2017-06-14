@@ -1,0 +1,91 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Gamshütte 1921m"
+    },
+    {
+      "@language": "de",
+      "@value": "Gamshütte 1921m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Gamshütte 1921m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1297755747771",
+    "longitude": "11.7955613136292"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gamshütte",
+    "streetAddress": "Brunnhaus 417",
+    "addressLocality": "Finkenberg",
+    "postalCode": "6292",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 343 7741",
+    "email": "info@gamshuette.at",
+    "url": "www.gamshuette.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Die Hütte ist der nördlichste Stützpunkt im Hauptkamm der Tuxer Alpen, der mit Schrammacher, Fußstein, Olperer und Hoher Riffler namhafte Gipfel aufweist. Die Schutzhütte befindet sich in freier Lage südwestlich von Finkenberg an den Hängen des Gamsberges. Ungehindert ist der Blick in den Floitenkees, Dristner und Großer Löffler, zur Ahornspitze, zum Rastkogel und Penken sowie ins Tal nach Ginzling und ins hintere Zillertal.\n\nHüttengeschichte\n\n1928 wurde die Hütte von privater Hand erbaut. Im Jahre 1932 erwarb die damalige Sektion Kurmark des Deutschen und Österreichischen Alpenvereins die Gamshütte. Da nach dem 2. Weltkrieg die Sektion nicht mehr existierte, übernahm 1949 die Sektion Berlin die Schutzhütte. \n1993 wechselte die Hütte erneut den Besitzer und ging in das Eigentum der Sektion Otterfing über. \nIn den letzten Jahren wurde rund um und in der Hütte viel erneuert und modernisiert. Für die Lösung des Problems der Energieversorgung wurde 1997 eine Photovoltaikanlage zum Erzeugen von Solarstrom und eine thermische Solaranlage zum Bereitstellen von Warmwasser errichtet.\nZuletzt wurde in der Hütte ein Trockenraum gebaut und die Terrasse gepflastert.\n\t\t\t\n  \t\t\t\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\ngeschlossen\n\nÜbernachtung möglich \n38 Lager\nErmäßigung für AV-Mitglieder "
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nclosed\n\novernight stay possible\n38 dormitories\ndiscount for AV members   "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dda0f5c4-4f8c-41be-b28a-c1da10ad15b5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Gamshütte 1921m"
+        },
+        {
+          "@language": "de",
+          "@value": "Gamshütte 1921m"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gamshütte 1921m"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/155f3b46-69e9-4e6a-8f02-7c13b06ce316/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Gamshütte"
+        },
+        {
+          "@language": "de",
+          "@value": "Gamshütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gamshütte"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://gamshuette.at"
+  ]
+}

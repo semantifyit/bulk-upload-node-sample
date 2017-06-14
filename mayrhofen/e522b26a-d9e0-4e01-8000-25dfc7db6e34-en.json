@@ -1,0 +1,163 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.zillertrollen.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003dE522B26A-D9E0-4E01-8000-25DFC7DB6E34"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zillertrollen Immobilien GmbH",
+    "streetAddress": "Einfahrt Mitte 424",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "email": "info@zillertrollen.com",
+    "url": "http://www.zillertrollen.com"
+  },
+  "name": "Zillertrollen Immobilien GmbH",
+  "description": [
+    "Two new fully equipped apartments in the central location, only 100 meters to the main street and 250 meters to the Penken ski lift, but still quiet place beside the Ziller river. The apartments have easy access to all facilities in Mayrhofen, such as the ski lifts, adventure swimming pool, tennis courts, shopping street, hiking / biking routes etc.",
+    "Price includes electricity, heating, bed linen and towels, excludes a cleaning charge.",
+    "Check in: 15:00hr, Check out 10:00hr.\nDrive straight ahead at the roundabout in Mayrhofen, and past the railway station, take the next left hand turn, past the Elisabeth Hotel and turn right at the Hervis sport shop, to the Park Platz Mitte and you will be able to see our Zillertrollen house at right hand side.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/075773fa-6090-40d5-88c6-b52eed81078a/99/image.jpg",
+      "caption": "Zillertrollen Immobilien GmbH - Ansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/abd7dfec-005c-41e7-b195-9311e3c0cf9c/99/image.jpg",
+      "caption": "Zillertaler Milchkuh"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ba4df0fd-72f3-4d07-b1f0-a304e9b3a5f0/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9438f2b7-f27c-4ec5-971b-4166d80a84f7/99/image.jpg",
+      "caption": "Moutainbiken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6fe9612a-2450-4e8e-a5d1-fde4d99c17dc/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dfa85528-d509-4f96-9b66-9dac93cb30eb/99/image.jpg",
+      "caption": "skifahrer-in-action"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/03c8bcca-80b1-4e59-b154-e746e60c2fe3/99/image.jpg",
+      "caption": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ea68a369-5b6b-47a2-86e4-29024e0f876c/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8fd32fd3-d1cf-4bf7-9d58-c0dd07a76e67/99/image.jpg",
+      "caption": "Sommer_Gipfel_Panorama ("
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/37fa443d-f4fb-4e97-a436-aee27b8ae777/99/image.jpg",
+      "caption": "Funpark Mayrhofner Bergbahnen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1657739",
+    "longitude": "11.8602604"
+  },
+  "paymentAccepted": [
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Holiday home, bath, toilet, 1 bed room",
+      "description": "2 apartments with about 55 m², 2 seperate sleeping rooms, shower/toilet, seperate toilet, \ncompletely equipped kitchen; 1 apartment is on the ground floor with terrace and sunbathing area,1 apartment is on the 1st floor with balcony\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "TOP 1 \u0026 TOP 2",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "154.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "100.00",
+          "maxPrice": "154.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "154.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "154.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "100.00",
+          "maxPrice": "154.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "100.00",
+          "maxPrice": "174.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "100.00",
+          "maxPrice": "194.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

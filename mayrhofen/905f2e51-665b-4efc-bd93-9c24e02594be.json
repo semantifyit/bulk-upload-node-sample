@@ -1,0 +1,525 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d905F2E51-665B-4EFC-BD93-9C24E02594BE"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Rauch",
+    "streetAddress": "Bichl 519",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "email": "barbara.peter.rauch@gmx.at"
+  },
+  "name": "Rauch Barbara",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt in sonniger, ruhiger und doch zentraler Lage. Nach Mayrhofen sind es ca. 3,5 km und nach Zell am Ziller ca 4 km.  Zur nächsten öffentl. Bus- bzw. Zughaltestelle sind es ca. 1 km.  PKW Parkplätze sind vorhanden. Brötchenservice möglich!\nInternetzugang im gesamten Haus via W-Lan oder D-Lan, Laptop ist selbst mitzubringen!\nNICHTRAUCHERHAUS! Aus Rücksicht auf die nachfolgenden Gäste ist das Rauchen in den Wohnungen nicht erlaubt! Restaurants in unmittelbarer Nähe.\n\nIm Sommer finden Sie bei uns den idealen Ausgangspunkt für Wanderungen und Fahrrad- bzw. Mountainbiketouren in der Umgebung. Unterstellplatz für Fahrräder und Motorräder sowie ein Abstellraum für Bergschuhe vorhanden. Zum Sport- und Freitzeitplatz (Tennis-, Fußball-,  Volleyballplatz, Freischwimmbad, Spielplatz für Kinder, Riesentrampolin) in Schwendau sind es ca. 2km.\nAusflugsprogramm laut Aushang vor Ort buchbar!\n\nIm Winter bieten wir unseren Gästen einen beheizten Skiabstellraum mit Skischuhheizung. Zur nahe gelegen Skibushaltestelle sind es etwa 200 m. Zur Horbergbahn Ski Zillertal 3000 sind es ca 1,5 km und zum nächsten Loipeneinstieg ca. 500 m.\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise in der Nebensaison auch für 4 - 5 Tage möglich, in der Hauptsaison ausschließlich Samstag - Samstag für 7 Tage!\nAnzahlung nach Vereinbarung durch Überweisung, Restzahlung vor Ort bei Anreise in Bar (es werden keine Kreditkarten akzeptiert!)"
+    },
+    {
+      "@language": "de",
+      "@value": "A12 Inntalautobahn, Ausfahrt Zillertal, weiter auf B169 Zilleralbundesstraße, in Ramsau an der Ampel gerade aus, Ausfahrt Bichl (Fristo Getränke), nach 150m links, am Hotel Theresia vorbei, nach 50m rechts, 100m gerade aus, Haus Straßenseite links;"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house lies in sunny, quiet and central situation. Mayrhofen is 3.5 km  away and Zell am Ziller 4 km. The next bus or train stop is 1 km away. Passenger car parking space exist. Bread service possible\nInternet access in the whole house via W-Lan or D-Lan.\nNON-SMOKER\u0027S HOUSE! \nRestaurants in close vicinity.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "final cleaning on request."
+    },
+    {
+      "@language": "en",
+      "@value": "A12 Inntalautobahn, exit Zillertal, further on B169 Zillertalbundesstrasse, in Ramsau at the traffic lights straight ahead, exit Bichl (Fristo drinks), after 150 meters on the left, along the hotel Theresia, after 50 meters on the right, 100 meters just from, the house is on the left side.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a0639caa-e0f4-493c-bd0e-699991571300/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Barbara Rauch Ramsau - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Barbara Rauch Ramsau - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Barbara Rauch Ramsau - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/82f8abd3-e0c5-4375-b308-5f0778107804/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnungen Rauch"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienwohnungen Rauch"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienwohnungen Rauch"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2ab96cf-d039-42e2-8804-899f894543d7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Barabra Rauch Ramsau - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Barabra Rauch Ramsau - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Barabra Rauch Ramsau - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d6ece82-c3ee-462a-a26a-e731afe6016d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnungen Rauch"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienwohnungen Rauch"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienwohnungen Rauch"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3375cc57-0f81-47d0-a66f-18f1ce97f88c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnungen Rauch"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienwohnungen Rauch"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienwohnungen Rauch"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d50c242e-6a72-49d8-8ad8-275ba9d1e2b9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnungen Rauch"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienwohnungen Rauch"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienwohnungen Rauch"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1953189686325",
+    "longitude": "11.8741393089294"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Geräumige Ferienwohnung ca 70 m², 2 getrennte Schlafzimmer (1 Doppelzimmer, 1 Zweibettzimmer mit getrennten Betten), Zusatzbett zubuchbar, 1 Badezimmer mit Badewanne u. Dusche, separates WC, Haarfön, kl. Garderobe am Gang, Wohnküche  mit Esstisch, Elektroherd mit Backrohr, Geschirrspüler, Kühlschrank mit Gefriermöglichkeit, Geschirrspülbecken, Kaffeemaschine, Wasserkocher, Mikro, Besteck, Geschirr vorhanden, Radio, SatTV, Couch, Bettwäsche u. Handtücher werden einmalig gestellt, NichtraucherFeWo"
+        },
+        {
+          "@language": "en",
+          "@value": "Lovely furnished holiday apartment approx 70 m², 2 separate sleeping rooms (1 double room, 1 twin room with separate beds) extra bed bookable on request, bathroom with bathtube and shower, separate toilet, hairdryer, small wardrobe on hallway, complete equipped combined living-kitchen with dinning table, stove with oven, refrigerator, small icebox, dishwasher, coffeemaker, kettle, microwave, table-and kitchenware, cutlery, plates, radio, sat-TV and sofa, bed linen and towels provided, NON SMOKER"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Fewo AHORN"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower and bath, toilet, 2 спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung ca 70 m², ganz neu, auf 2 Etagen, 2 getrennte Doppelzimmer mit je DU/WC, Wohnküche mit Essecke, Elektroherd, Backrohr, Kühlschrank, Dunstabzug, Geschirrspüler, Wasserkocher, Kaffeemaschine, Mikrowelle, Radio, Sat-TV, Haarfön, Balkon, Bettwäsche und Handtücher werden einmalig gestellt, Nichtraucherwohnung"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment approx 70m², 2 separate sleeping rooms (1 double room, 1 twin room with separate beds), combined living-kitchen with eating corner, stove, oven, dish washer, kettle, coffeemaker, micro wave, radio, sat-TV, balcony with chairs, 2x shower/toilet, bedlinen and towels provided once, NON-SMOKER APARTMENT\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Fewo KOLM"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet, 2 спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung im Parterre, 2 Schlafzimmer mit Verbindungstür (Durchgangszimmer), Kochnische, Wohn-Eßzimmer kombiniert (Kaffeemaschine, Elektroherd mit Backofen, Dunstabzug, Kühlschrank, Mikrowelle, Geschirr vorhanden) DU/WC, Radio, Sat-TV, kleine Gardarobe am Gang, Bettwäsche sowie Hand- und Duschtücher vorhanden,  ebenerdig, eigener Eingang, kein Balkon! Parkplatz vor dem Haus. NICHTRAUCHERWOHNUNG!\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment at ground level, 2 separate sleepingrooms with connection door (1 double 1 tiwn), combined living-dining room with kitchenette (coffeemaker, stove with oven, fridge, microwave, kitchenware) radio, sat-TV, sofa, dining table, shower/toilet, small wardrobe on hallway, bed linen provided, own entrance, no balcony! car park in front of the house, NON-SMOKER APARTMENT"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Fewo RASTKOGEL"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet, 2 спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Große Ferienwohnung ca 70 m², 2 getrennte Schlafzimmer (1 Doppelzimmer, 1 Zweibettzimmer mit getrennten Betten), Zusatzbett zubuchbar, 1 Badezimmer mit Badewanne und Dusche, separates WC, kl. Garderobe am Gang, Küche , Sitzecke mit Esstisch,  Elektroherd, Backrohr, Geschirrspüler, Kühlschrank mit Gefriermöglichkeit, Mikrowelle, Kaffeemaschine, Wasserkocher, Besteck, Geschirr vorhanden, Wohnzimmer mit Sat-TV und Couch, Bettwäsche u Handtücher werden einmalig gestellt, Balkon, Nichtraucher"
+        },
+        {
+          "@language": "en",
+          "@value": "Lovely furnished holiday apartment approx 70 m², 2 separate sleeping rooms ( 1 double room, 1 twin room with separate beds) extra bed bookable on request, bathroom with bathtube and shower, separate toilet, small wardrobe on hallway, kitchen with dinning table, stove with oven, refrigerator,small icebox, dishwasher, microwave, coffeemaker, table- and kitchenware, cutlery, plates, cosy living room with sat-TV and sofa, bed linen and towels provided once, balcony, Non Smoker apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Большой апартамент площадью 75 м², 2 раздельные спальни (одна с двуспальной кроватью, другая с двумя раздельными кроватями), возможность установки дополнительной кровати. 1 ванная комната, отдельный туалет, гардероб на входе, кухня, обеденный стол, электроплита с духовкой. холодильник с морозильной камерой,посудомоечная машина, кофеварка, чайник, столовые приборы, посуда. Гостиная со спутниковым ТВ и диваном, софу можно использовать как спальное место. Постельное белье и полотенца предоставляются 1 раз. Для НЕКУРЯЩИХ"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Fewo TRISTNER"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower and bath, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower and bath, toilet, 2 спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "95.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

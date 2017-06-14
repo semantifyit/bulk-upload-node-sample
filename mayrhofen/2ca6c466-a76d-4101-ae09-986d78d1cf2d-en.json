@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Alpengasthof Astegg 1170m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1666413725829",
+    "longitude": "11.8371508577331"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Finkenberg 522",
+    "addressLocality": "Finkenberg",
+    "postalCode": "6292",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62491",
+    "faxNumber": "(0043) 5285 6249133",
+    "email": "info@astegg.at",
+    "url": "www.astegg.at"
+  },
+  "description": "Summer \n14. May till 20. October 2017 \nno rest day\novernight stay possible 25 beds",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/01ca2332-241d-4fc2-818c-ce396349ddbb/99/image.jpg",
+      "caption": "Alpengasthof Astegg 1170 m"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/37973308-a446-45e0-b872-6a1f5cb51712/99/image.jpg",
+      "caption": "Sitzecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7580a768-f1ee-48db-80c1-35f339369dea/99/image.jpg",
+      "caption": "Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/010fae04-7f6b-480e-ba4e-a29ef4986e69/99/image.jpg",
+      "caption": "Terrasse mit wunderschönem Ausblick "
+    }
+  ],
+  "url": [
+    "http://www.astegg.at"
+  ]
+}

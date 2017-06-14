@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Brewery"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Schnapsbrennerei Stiefelscherm"
+    },
+    {
+      "@language": "de",
+      "@value": "Schnapsbrennerei Stiefelscherm"
+    },
+    {
+      "@language": "ru",
+      "@value": "Schnapsbrennerei Stiefelscherm"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1636989968193",
+    "longitude": "11.8592369556427"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Martin, Landhaus",
+    "streetAddress": "Dornauerstraße 615",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 699 19049897",
+    "faxNumber": "0043 5285 64021 ",
+    "email": "holiday@landhaus-martin.at",
+    "url": "http://www.apart-central.at/schnapsbrennerei/"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Verkauf und Schnapsverkostung auf Anfrage möglich.\n\nObst aus Bioanbau: u.a. Äpfel, Birnen, Zwetschgen, Kirschen;\nSortenreiner Edelbrand: Williams, Zwetschge, Marille, Vogelbeer;\nTraditionsbrände: Zillertaler Obst Edelbrand, Meisterwurz, Zirbe, 6ex Kräuter;\nSpezialitäten: Zachlingbrand, Schwammerl Likör;\n"
+    },
+    {
+      "@language": "en",
+      "@value": "\"New, modern apartments in the center of Mayrhofen, with a private in-house distillery...\", this must become a perfect holiday! We are pleased to invite all our guests in our distillery, named \"Stiefelscherm\". There we are pleased to introduce, interested guests, in the art of traditional Zillertal Schnaps destillation.\nSchnaps tasting and visitation:\n\n\"As speech is silver, and tasting is golden\", some first class spirits and liqueur products are ready to be tasted. You will experience and understand, that \"Schnpas, can be way different from Schnaps\". On enquiry we even can heat the oven and to a \"Live tastin\", where you enjoy the most fresh spirits you have ever had (recommended \"british weather\" activity ...). "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/abc88705-f6ca-4fb8-8977-59f7226cc1a2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Stiefelscherm"
+        },
+        {
+          "@language": "de",
+          "@value": "Stiefelscherm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Stiefelscherm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eed834ae-6f04-4f36-b039-400628756d81/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Schnapsbrennerei"
+        },
+        {
+          "@language": "de",
+          "@value": "Schnapsbrennerei"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schnapsbrennerei"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.trummlerhof.at/kontakt.htm"
+  ]
+}

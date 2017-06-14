@@ -1,0 +1,140 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.alpsapart-regina.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d262D0353-AE46-4B91-90F9-FE13A5952C0F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Regina, Alpsapart",
+    "streetAddress": "Schormis 112",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63088",
+    "email": "info@alpsapart-regina.at",
+    "url": "http://www.alpsapart-regina.at"
+  },
+  "name": "Alpsapart Regina",
+  "description": "We offer a nice flat for 4 to 6 people. \nOur house lies directly in the centre of Schwendau. From Flat Regina you only need 5 minutes with the car to the skiing area \"Ski Zillertal 3000\". Directly before the front door is the free ski coach .\nIn close vicinity (5 minutes on foot) you find a lot of restaurants, cafes and shopping possibilities.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/78d8a1b1-bcfd-413d-83bf-be2b05e4a865/99/image.jpg",
+      "caption": "Alpsapart Regina Schwendau - Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2004510617085",
+    "longitude": "11.8608516454697"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+      "description": "Appartement\nThat\u0027s what you expect to see!\n\nOur appartement is for non-smoker. It offers place for 4 up to 6 persons and is ca. 70 m² large. The complett flat is equipped with a beautiful \"barkett\". Unfortunately pets are not allowed,\n\nThe appartement has two spacious bedrooms with each one double-bed and a singlebed. The bedlinen and the towels are inlcusive.\n\nCheck in: 14.00\nCheck out: 10.00 \n\nliving room ( dinning area, Sat-TV )\nkitchen\nbathroom\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appart \"SARA\"",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+      "description": "Appartment\nThat\u0027s what you expect to see!\nOur appartement is for non-smoker. It offers space for 2 up to 5 people and is about 65 m² large.\nThe appartement has two spacious bed rooms, a bath with a shower, bath tub, toilet, kitchen in the living area.\nW-LAN for free.\nThe bedlinen and the towels are inclusive.\n\nCheck in: 14.00\nCheck out: 10.00\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Jack Wolfskin",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1685205088811",
+    "longitude": "11.8640434741974"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Jack Wolfskin",
+    "streetAddress": "Hauptstraße 404",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 64361",
+    "faxNumber": "(0043) 5285 69993",
+    "email": "store.mayrhofen@jack-wolfskin.com",
+    "url": "http://www.jack-wolfskin.de"
+  },
+  "description": "Outdoorbekleidung/Ausrüstung/Schuhe/Zubehör\nJack Wolfskin Store Mayrhofen\nHauptstrasse 404\nA-6290 Mayrhofen\nFon: +43 (0)5285 64361\nFax: +43 (0)5285  64493\nE-Mail: store.mayrhofen@jack-wolfskin.com\nUnsere Öffnungszeiten sind:\nMo - Fr : 9:00 - 18:30\nSa:             9:00 - 17:00\nSo:           10:00 - 17:00\n\nhttp://www.facebook.com/pages/Jack-Wolfskin-Store-Mayrhofen/103277999819141\n \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7e57d0a4-46b5-46d3-b450-724befc5fbd0/99/image.png",
+      "caption": "Jack Wolfskin"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a310fd17-6846-4d89-9403-2a34597a38a8/99/image.jpg",
+      "caption": "Store"
+    }
+  ],
+  "url": [
+    "http://www.jack-wolfskin.de"
+  ]
+}

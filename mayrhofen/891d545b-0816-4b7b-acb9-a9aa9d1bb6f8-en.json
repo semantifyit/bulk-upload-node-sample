@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Personaltraining Moni Sport",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1616615",
+    "longitude": "11.8617733999999"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Zillerlände 490a",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4060 346",
+    "email": "info@moni-sport.at",
+    "url": "http://www.moni-sport.at/sportzentrum"
+  },
+  "description": "This is the most effective form of having a customized training program  - individual, flexible and guidance, tailored for personal needs and goals.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c5f7fb26-4af0-4b5a-8bbc-74455df9efa3/99/image.png",
+      "caption": "Moni Sport"
+    }
+  ],
+  "url": [
+    "http://www.moni-sport.at/sportzentrum"
+  ]
+}

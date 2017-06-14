@@ -1,0 +1,64 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Bergrestaurant Ahornhütte 1965m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1361401462658",
+    "longitude": "11.8696761131287"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ahornhütte",
+    "streetAddress": "Filzenboden 920",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 64848",
+    "faxNumber": "(0043) 5285 62 33 34",
+    "email": "info@ahornhuette-mayrhofen.at",
+    "url": "www.ahornhuette-mayrhofen.at"
+  },
+  "description": [
+    "40 years are worth honouring! 40 years ago, in autumn 1971 Ernst and Riki Spieß built up our Ahornhütte in just 3 months construction time! Since then we were able to welcome a lot of guests coming from all countries around the globe! We would like to use this occasion to thank all our devoted guests!",
+    "Summer \n10. June till 26. October 2017 \nno rest day \nno overnight stay possible"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/393f6542-25d9-4c94-8e91-e6b8d19e3675/99/image.jpg",
+      "caption": "Ahornhütte 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/32b9ddb5-b928-4cbd-bdcf-69c5aa9cd471/99/image.jpg",
+      "caption": "Ahornhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/74a8c845-ff71-46f5-a20e-31d6e05c505d/99/image.jpg",
+      "caption": "See"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9031ba35-af7c-472f-8515-8e4844948d8b/99/image.jpg",
+      "caption": "Familie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c0cf76a-bc41-45a5-a0d9-437326fdae82/99/image.jpg",
+      "caption": "Adlerbühne"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b70fc738-c4bc-4ad9-8656-7aa1e85d0ea1/99/image.jpg",
+      "caption": "Landschaft"
+    }
+  ],
+  "url": [
+    "http://www.spiess.at"
+  ]
+}

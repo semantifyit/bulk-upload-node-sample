@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Salewa - Dynafit Mountainshop Hörhager",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1678877",
+    "longitude": "11.8632566"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Salewa",
+    "streetAddress": "Hauptstraße 412",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63258",
+    "email": "salewa.hoerhager@a1.net",
+    "url": "http://mayrhofen.salewa.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/95c6087e-857c-4254-8736-db38f3f2be11/99/image.bmp",
+      "caption": "Salewa - Dynafit Mountainshop Hörhager"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fe451f01-4118-4794-905a-f873cbd9de66/99/image.jpg",
+      "caption": "Shop Mayrhofen"
+    }
+  ],
+  "url": [
+    "http://www.mayrhofen.salewa.at"
+  ]
+}

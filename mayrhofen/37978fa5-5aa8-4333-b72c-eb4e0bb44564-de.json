@@ -1,0 +1,218 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d37978FA5-5AA8-4333-B72C-EB4E0BB44564",
+    "http://booking.mayrhofen.at/mayrhofen/de/accommodation/detail/ZIL/37978FA5-5AA8-4333-B72C-EB4E0BB44564/draxlerhof"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Draxlerhof",
+    "streetAddress": "Laimach 96",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2543",
+    "faxNumber": "0043 5282 2543",
+    "email": "martina.hundsbichler@aon.at",
+    "url": "http://booking.mayrhofen.at/mayrhofen/de/accommodation/detail/ZIL/37978FA5-5AA8-"
+  },
+  "name": "Draxlerhof",
+  "description": [
+    "Gemütliche Ferienwohnungen umgeben von Wiesen, sonnige, ruhige Tallage, zentral gelegen. Sehr schöne Aussicht,  Liegewiese, Parkplatz, Terasse, Skiraum, Skischutrockner, Nähe Skibus, Dörferbus, Langlaufloipe, Radweg, Kinderspielplatz und Erlebnisschwimmbad",
+    "Ideale Lage für einen erholsamen Urlaub!",
+    "Check in 14.00 Uhr - Check out 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/24db2492-617e-4962-8b1e-dca97be26334/99/image.jpg",
+      "caption": "Draxlerhof Hippach - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68726037-7aee-4a18-afeb-d7d97743f14d/99/image.jpg",
+      "caption": "Draxlerhof Hippach - Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b2f01d8-4a8a-436d-8899-2cd3506575fe/99/image.jpg",
+      "caption": "Draxlerhof Hippach - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4be87adb-71e6-45bf-984e-27e75050edf0/99/image.jpg",
+      "caption": "Draxlerhof Hippach - Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/38f7ed86-4046-425f-aece-4695dad3db63/99/image.jpg",
+      "caption": "Aussicht Richtung Ahornspitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4cc05778-081f-42c3-9b4d-5465f760a055/99/image.jpg",
+      "caption": "Aussicht nach Zell am Ziller"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ee9e420-cc00-4cd1-8ae0-20e378f99e3f/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/566131e4-d81f-462b-a4d7-c4d69e6b9136/99/image.jpg",
+      "caption": "Blick auf den Ahornspitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ec099cc-3f55-49c7-84c0-010642eec24d/99/image.jpg",
+      "caption": "Aussicht in den Obstgarten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6215d471-ea42-4b7d-bd5f-4c4aff5e139c/99/image.jpg",
+      "caption": "Eingang"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2139113347334",
+    "longitude": "11.8647368252277"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 3 Schlafräume",
+      "description": "Neue gemütliche Wohnung: Vorraum mit Gardarobe, großer Küche mit Essecke, 3 Schlafzimmern, zwei Duschen (eine davon mit WC), separates WC, Sat TV und großer Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Bad, WC",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "58.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "65.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "70.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "75.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "80.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 2 Schlafräume",
+      "description": "Neue, gemütliche Wohnung mit großem Vorraum inkl. Gardarobe, Küche, Essraum, 2 Schlafzimmer, Bad oder Dusche, separtes WC, Sat TV und einen großen Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Du od. Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "60.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

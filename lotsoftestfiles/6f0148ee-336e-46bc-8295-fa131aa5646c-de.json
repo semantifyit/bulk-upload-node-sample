@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Gasthaus Zimmereben 853m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1734509823412",
+    "longitude": "11.85910820961"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zimmereben",
+    "streetAddress": "Zimmereben 646",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 380 62 03",
+    "email": "info@zimmereben.at",
+    "url": "www.zimmereben.at"
+  },
+  "description": [
+    "Sommer \n24. März 2017 - 31. Oktober 2017 \nDienstag Ruhetag \nkeine Übernachtung möglich",
+    "In nur wenigen Gehminuten und ohne allzu große Anstrengung erreichen Sie das schön gelegene Zimmereben. \nHier können Sie zur Ruhe kommen und die Seele baumeln lassen. Gönnen Sie sich etwas Leckeres auf der sonnigen Terrasse und genießen Sie die herrliche Aussicht auf Mayrhofen und das hintere Zillertal. Lassen Sie sich einfach die Sonne ins Gesicht und ins Gemüt scheinen. \nFür Ihr leibliches Wohl sorgen wir gerne mit zahlreichen hausgemachten Schmankerln. \nAuch Kinder sind bei uns sehr gut aufgehoben. Neben der Hütte befindet sich ein liebevoll gestalteter Spielplatz. Vielleicht gibt es ja auch im umgebenden Wald etwas Interessantes zu entdecken."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4990027e-e136-43c5-b515-9eb7326edbd2/99/image.jpg",
+      "caption": "Zimmereben"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a2e8ce1-6d84-4723-864f-4d9f277756e7/99/image.jpg",
+      "caption": "Zimmereben 2"
+    }
+  ],
+  "url": [
+    "http://www.zimmereben.at"
+  ]
+}

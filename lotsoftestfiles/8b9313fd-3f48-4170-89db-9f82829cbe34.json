@@ -1,0 +1,550 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.gaestehaus-christoph.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003d8B9313FD-3F48-4170-89DB-9F82829CBE34"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Christoph, St.",
+    "streetAddress": "Jakob-Moser-Straße 585",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62585",
+    "faxNumber": "0043 5285 62585",
+    "email": "info@gaestehaus-christoph.com"
+  },
+  "name": "Pension St. Christoph",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ein schöneres Plätzchen für Ihren Urlaub im Zillertal werden Sie wohl kaum für Ihren Urlaub finden. Ruhig und sonnig am Waldrand gelegen, sind Sie doch nur einen Katzensprung vom Zentrum in Mayrhofen entfernt. Die Mayrhofner Bergbahnen mit der Penkenbahn und Ahornbahn, der Tennisplatz und das Hallenbad sind nur 5 Gehminuten entfernt.\n \nWir sind in einer der schönsten, ruhigen Lagen von Mayrhofen.\n \nDer Wirt steht auch für Musik, Schnitzerei und für Fischerei.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Preis inklusive Frühstück und Ortstaxe."
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise: bis 17.00 Uhr (spätere Anreise nur nach telefonischer Rücksprache!), Abreise: bis 10.00 Uhr.\nAm Bahnhof Mayrhofen vorbei, vor der blauen Aral-Tankstelle links einbiegen und bis zur Kreuzung, dann rechts die Hauptstraße hinauf. An der Penkenbahn links einbiegen bis zur Kreuzung, dann rechts an der Gabelung wieder rechts. Das Haus ist auf der linken Seite (250m)."
+    },
+    {
+      "@language": "en",
+      "@value": "Cultivated breakfast pension in quiet situation, 5 minutes to the mountain railways, swimming-pool, \nbreakfast buffet\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Prices including breakfast and local rate"
+    },
+    {
+      "@language": "en",
+      "@value": "Journey: till 17.00 o\u0027clock; departure: till 10. 00 o\u0027clock. \nPast the trainstation Mayrhofen, before the Aral filling station turn left and drive up to the crossroad, then on the right the main street up. At the Penkenbahn turn left  up to the crossroad, then turn right at the fork again right.\nThe house is on the left side (250 meter)\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc2965ad-8d7f-4449-8f5f-36adb753cf67/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Pension St. Christian Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Pension St. Christian Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Pension St. Christian Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a32fd801-fc97-4e2b-bdff-7e0c27595552/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "St. Christian - Ausblick"
+        },
+        {
+          "@language": "en",
+          "@value": "St. Christian - Ausblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "St. Christian - Ausblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f02a4de-d3e0-4bc0-b922-a021ef6611c8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "St. Christian - Ausblick2"
+        },
+        {
+          "@language": "en",
+          "@value": "St. Christian - Ausblick2"
+        },
+        {
+          "@language": "ru",
+          "@value": "St. Christian - Ausblick2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/25feee6a-ed05-4f38-883f-1e7ee5d1d836/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "St. Christian - Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "St. Christian - Balkon"
+        },
+        {
+          "@language": "ru",
+          "@value": "St. Christian - Balkon"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/414633ce-6920-4ecf-a8ef-e225f0d41420/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "St. Christian - Frühstücksraum"
+        },
+        {
+          "@language": "en",
+          "@value": "St. Christian - Frühstücksraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "St. Christian - Frühstücksraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/85216056-a57c-460d-94c3-33065aeb4d52/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "St. Christian - Frühstücksraum2"
+        },
+        {
+          "@language": "en",
+          "@value": "St. Christian - Frühstücksraum2"
+        },
+        {
+          "@language": "ru",
+          "@value": "St. Christian - Frühstücksraum2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac4a8442-7f4c-4377-a085-7a91e5b489c8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "St. Christian - Doppelzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "St. Christian - Doppelzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "St. Christian - Doppelzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81444240-4b91-49bf-829c-adfede915b31/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "St. Christian - Einzelzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "St. Christian - Einzelzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "St. Christian - Einzelzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a98e2e73-24c6-42ea-9500-9d8e9713c4e9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "St. Christian - FEWO Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "St. Christian - FEWO Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "St. Christian - FEWO Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/74ac559e-b89f-4ddb-9b56-38fff44f25f0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "St. Christian - FEWO Wohnzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "St. Christian - FEWO Wohnzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "St. Christian - FEWO Wohnzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6235f6fd-f2d5-4c86-886d-9b5e14a44e2d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "St. Christian - Klaus"
+        },
+        {
+          "@language": "en",
+          "@value": "St. Christian - Klaus"
+        },
+        {
+          "@language": "ru",
+          "@value": "St. Christian - Klaus"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db5c7610-6888-46fc-a0ba-5e3d1d428463/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "St. Christian - Garten"
+        },
+        {
+          "@language": "en",
+          "@value": "St. Christian - Garten"
+        },
+        {
+          "@language": "ru",
+          "@value": "St. Christian - Garten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1729fd4-3b0b-4a1a-b6c2-fec049119000/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "St. Christian - Hausmusik"
+        },
+        {
+          "@language": "en",
+          "@value": "St. Christian - Hausmusik"
+        },
+        {
+          "@language": "ru",
+          "@value": "St. Christian - Hausmusik"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f709ef8b-290b-4f34-b4de-9f6603da57cf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Mayrhofner mit Klaus"
+        },
+        {
+          "@language": "en",
+          "@value": "Mayrhofner mit Klaus"
+        },
+        {
+          "@language": "ru",
+          "@value": "Mayrhofner mit Klaus"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c28eced-2e2c-4c67-978e-ff5334d77ad3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "die mayrhofner mit Klaus"
+        },
+        {
+          "@language": "en",
+          "@value": "die mayrhofner mit Klaus"
+        },
+        {
+          "@language": "ru",
+          "@value": "die mayrhofner mit Klaus"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1608029615169",
+    "longitude": "11.8646442890167"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Neu renovierte helle Zimmer mit Kabel-TV und Dusche/WC."
+        },
+        {
+          "@language": "en",
+          "@value": "Room with cable TV and shower/WC.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "single room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "38.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Neu renovierte helle Zimmer mit Kavel-TV und Dusche/WC."
+        },
+        {
+          "@language": "en",
+          "@value": "Rooms with cable TV and shower/WC.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "28.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die Wohnung ist 108 m2 groß. Die Wohnung beinhaltet 3 Doppelzimmer und 1 Einzelzimmer mit Dusche, WC, TV und Balkon, weiters 1 Wohnzimmer und 1 Wohnküche mit Speisekammer.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "The flat is 108 m². The flat contains 3 double rooms and 1 single room with shower, WC, TV and balcony, also 1 sitting room and 1 kitchen-living room with pantry. \n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienhaus/4 od. mehr Schlafr./Dusche,WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "5"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "125.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "150.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "175.00",
+          "maxPrice": "245.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

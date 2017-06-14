@@ -1,0 +1,617 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dC87C27DE-3DA8-40CA-A5D9-C1C2CD08B97C",
+    "http://www.brunnerhof-zillertal.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brunnerhof",
+    "streetAddress": "Laimach 119",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 52823258",
+    "email": "hundsbichlergp@aon.at",
+    "url": "http://www.brunnerhof-zillertal.at"
+  },
+  "name": "Brunnerhof",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Gemütliches Bauernhaus in zentraler Lage zwischen Hippach und Zell. Wir bieten Ihnen eine Liegewiese sowie einen Skikeller mit Skischuhheizung. Die Ski- und Dörferbushaltestelle sowie der Langlaufloieneinstieg befindet sich in der Nähe des Hauses.\nUnser Tipp: Almwanderung zu unserer urig eingerichteten Grün Alm!"
+    },
+    {
+      "@language": "de",
+      "@value": "Kinderermäßigung auf Anfrage."
+    },
+    {
+      "@language": "de",
+      "@value": "Check in 15.00 Uhr - Check out 10.00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Central position between Hippach and Zell, sunbathing lawn, ski cellar with ski boot heating, ski bus and cross-country track nearby, walk to our own mountain pasture (Grün Alm), childrens playground"
+    },
+    {
+      "@language": "en",
+      "@value": "Reduction for children on inquiry.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in 12.00 o´clock - Check out 10.00 o´clock"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c2dcddd-7a61-424d-8d49-f66d00644aeb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Brunnerhof Winteransicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Brunnerhof Winteransicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Brunnerhof Winteransicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/95bc1b59-c086-4377-8576-9919f4a001ca/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Brunnerhof in Laimach, Hippach im Zillertal"
+        },
+        {
+          "@language": "en",
+          "@value": "Brunnerhof in Laimach, Hippach im Zillertal"
+        },
+        {
+          "@language": "ru",
+          "@value": "Brunnerhof in Laimach, Hippach im Zillertal"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/be7b0850-f8ad-4538-837a-214636c74a3e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Brunnerhof Hippach - Sommer "
+        },
+        {
+          "@language": "en",
+          "@value": "Brunnerhof Hippach - Sommer "
+        },
+        {
+          "@language": "ru",
+          "@value": "Brunnerhof Hippach - Sommer "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5a7d2ba8-91a6-45c5-803b-1c680dad3782/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Brunnerhof Hippach - Parkplatz"
+        },
+        {
+          "@language": "en",
+          "@value": "Brunnerhof Hippach - Parkplatz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Brunnerhof Hippach - Parkplatz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98dad9e3-e178-4b6a-9f6f-8e37c407e8db/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Brunnerhof Hippach - Skischuhtrockner"
+        },
+        {
+          "@language": "en",
+          "@value": "Brunnerhof Hippach - Skischuhtrockner"
+        },
+        {
+          "@language": "ru",
+          "@value": "Brunnerhof Hippach - Skischuhtrockner"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/78b828a5-ba06-4bd2-8e2f-76b89df0a330/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Brunnerhof Hippach - Brennerei 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Brunnerhof Hippach - Brennerei 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Brunnerhof Hippach - Brennerei 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f006e87-ce29-453f-bf1b-fbdc1d88ed39/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Brunnerhof Hippach - Brennerei 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Brunnerhof Hippach - Brennerei 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Brunnerhof Hippach - Brennerei 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/993610d6-265e-475f-8f58-60a75141b935/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Grünalm"
+        },
+        {
+          "@language": "en",
+          "@value": "Grünalm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Grünalm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a2547484-4262-429c-97a1-1814ac46d46b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Grünalm 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Grünalm 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Grünalm 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae446f12-b0c1-4321-8160-7702e4110099/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Zimmer Grünalm"
+        },
+        {
+          "@language": "en",
+          "@value": "Zimmer Grünalm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Zimmer Grünalm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/49fb6797-fde5-4cfb-b8fd-54e917a246d1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Brunnerhof Gerti"
+        },
+        {
+          "@language": "en",
+          "@value": "Brunnerhof Gerti"
+        },
+        {
+          "@language": "ru",
+          "@value": "Brunnerhof Gerti"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac51afe2-806d-41c3-8113-c915cd9b7177/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Brunnen_neu"
+        },
+        {
+          "@language": "en",
+          "@value": "Brunnen_neu"
+        },
+        {
+          "@language": "ru",
+          "@value": "Brunnen_neu"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2173346226363",
+    "longitude": "11.8661731481552"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnung \"Michelle\" 60m²\nKüche\ngroße Wohnküche mit Geschirrspüler, Cerankochfeld, Backofen, Dunstabzug, Microwelle, Kaffeemaschine, Wasserkocher, große Eckbank mit Tisch für bis zu 6 Personen\n\n\n1 Doppelbettzimmer mit Zusatzbett (Ausziehcouch) mit Balkon nach Ost\n1 Ausziehcouch (Doppelbett) im Wohnbereich\nBadezimmer\n1 Badezimmer mit Dusche und Waschmaschine\n1 extra WC\nWäsche\ndie Zimmer sind fertig bezogen\nHandtücher im Bad und Tischtücher in der Küche werden bereitgestellt\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment \"Michelle\" 60m²\nkitchen\nlarge kitchen with dishwasher, ceramic hob, oven, extractor, microwave, coffee maker, kettle, large corner bench with table for up to 6 people"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement Michelle"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент"
+            }
+          ],
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Toilette und Bad/Dusche getrennt"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, separate toilet and shower/bathtub"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, отдельный туалет и душ/ванна"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnung \"Lisa\" 64m²\nKüche\ngroße Wohnküche mit Geschirrspüler, Cerankochfeld, Backofen, Dunstabzug, Microwelle, Kaffeemaschine, Wasserkocher, große Eckbank mit Tisch für bis zu 6 Personen\n\n1 Doppelbettzimmer mit Zusatzbett (Ausziehcouch) mit Balkon nach West\n1 Ausziehcouch (Doppelbett) im Wohnbereich\nBadezimmer\n1 Badezimmer mit Dusche und Waschmaschine\n1 extra WC\nWäsche\ndie Zimmer sind fertig bezogen\nHandtücher im Bad und Tischtücher in der Küche werden bereitgestellt\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment \"Lisa\" 64m²\nkitchen\nlarge kitchen with dishwasher, ceramic hob, oven, extractor, microwave, coffee maker, kettle, large corner bench with table for up to 6 people\n\n1 double bed room with extra bed (fold-out couch) with balcony to the west\n1 sofa bed (double bed) in the living area\nbathroom\n1 bathroom with shower and washing machine\n1 extra toilet\nwash\nthe rooms are already covered\nBath towels and tablecloths are provided in the kitchen"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement Lisa"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnung \"Museumblick Peter\" 60m²\nKüche\ngroße Wohnküche mit Geschirrspüler, Cerankochfeld, Backofen, Dunstabzug, Microwelle, Kaffeemaschine, Wasserkocher, Sitzgelegenheit mit Tisch für bis zu 4 Personen\nSchlafzimmer\n1 Doppelzimmer mit Balkon nach West\n1 Doppelzimmer mit Balkon nach Ost\n\n1 Badezimmer mit WC, Badewanne/Dusche\nWäsche\ndie Zimmer sind fertig bezogen\nHandtücher im Bad und Tischtücher in der Küche werden bereitgestellt\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment \"Museum View Peter \u002760m²\nkitchen\nlarge kitchen with dishwasher, ceramic hob, oven, extractor, microwave, coffee maker, electric kettle, sitting area with table for up to 4 people\nbedroom\n1 double room with balcony facing West\n1 double room with balcony to East\n1 bathroom with toilet, bath / shower\nwash\nthe rooms are already covered\nBath towels and tablecloths are provided in the kitchen"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement Museumblick Peter"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnung \"klein aber fein\" 63m²\nKüche\nWohnküche mit Geschirrspüler, Cerankochfeld, Backofen, Dunstabzug, Microwelle, Kaffeemaschine, Wasserkocher, Esstisch für bis zu 4 Personen\nSchlafzimmer\n1 Doppelzimmer mit Ausziehcouch und Balkon nach Nord\n1 Doppelzimmer mit Balkon nach Nord\n\n1 Badezimmer mit WC, Badewanne, Waschmaschine und Wäschetrockner\nWäsche\ndie Zimmer sind fertig bezogen\nHandtücher im Bad und Tischtücher in der Küche werden bereitgestellt\n\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment \"klein aber fein\" 63m²\nkitchen\nKitchen with dishwasher, ceramic hob, oven, extractor hood, microwave, coffee maker, kettle, dining table for up to 4 people\nbedroom\n1 double room with sofa bed and balcony to the north\n1 double room with balcony to the north\n\n1 bathroom with toilet, bathtub, washing machine and tumble dryer\n wash\n the rooms are already covered\n Bath towels and tablecloths are provided in the kitchen"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement klein aber fein"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент"
+            }
+          ],
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnung \"Alpenblick Seppi\" 94m²\nKüche\ngroße Wohnküche mit Geschirrspüler, Cerankochfeld, Backofen, Dunstabzug, Microwelle, Kaffeemaschine, Wasserkocher, große Eckbank mit massivem Bauerntisch für bis zu 8 Personen\nSchlafzimmer\n2 Doppelzimmer\n1 Dreibettzimmer\n1 Ausziehcouch für 1 Person im Wohnzimmer\n\n1 Badezimmer mit Badewanne, Dusche, Waschmaschine und Wäschetrokner\n1 extra WC\nWäsche\ndie Zimmer sind fertig bezogen\nHandtücher im Bad und Tischtücher in der Küche werden bereitgestellt\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment \"Alpenblick Seppi\" 94m²\nkitchen\nlarge kitchen with dishwasher, ceramic hob, oven, extractor, microwave, coffee maker, kettle, large corner seat with massive farm table for up to 8 people\nbedroom\n2 double rooms\n1 triple room\n1 sofa for 1 person in the living room\n\n1 bathroom with bath, shower, washing machine and Wäschetrokner\n1 extra toilet\nwash\nthe rooms are already covered\nBath towels and tablecloths are provided in the kitchen"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement Alpenblick Seppi"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент"
+            }
+          ],
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Wohnung \"Rustikal\" 97m²\nKüche\ngroße Wohnküche mit Geschirrspüler, Cerankochfeld, Backofen, Dunstabzug, Microwelle, Kaffeemaschine, Wasserkocher, große Eckbank mit Tisch für bis zu 9 Personen, große Liegecouch \nSchlafzimmer\n2 Doppelbettzimmer mit Zusatzbett (Ausziehcouch) mit Balkon nach Ost\n1 Doppelzimmer\n\n1 Badezimmer mit Badewanne/Dusche und Waschmaschine\n1 Dusche\n1 extra WC\nWäsche\ndie Zimmer sind fertig bezogen\nHandtücher im Bad und Tischtücher in der Küche werden bereitgestellt\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment \"Rustic\" 97m²\nkitchen\nlarge kitchen with dishwasher, ceramic hob, oven, extractor, microwave, coffee maker, kettle, large corner bench with table for up to 9 people, large sun couch\nbedroom\n2 double bedrooms with extra bed (fold-out couch) with balcony to East\n1 double room\n\n1 bathroom with tub / shower and washing machine\n1 shower\n1 extra toilet\nwash\nthe rooms are already covered\nBath towels and tablecloths are provided in the kitchen"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement Rustikal"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент"
+            }
+          ],
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

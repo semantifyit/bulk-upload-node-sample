@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GolfCourse"
+  ],
+  "name": "Minigolf",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1635020422428",
+    "longitude": "11.8671441078186"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Minigolf Perauer",
+    "streetAddress": "Brandbergstraße 368",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63046 ",
+    "email": "info@perauer.at",
+    "url": "http://www.perauer.at/de/hier-gehts-um-die-wurscht.html"
+  },
+  "description": "Hier geht\u0027s um die Wurscht!\n\n18 aufregende Minigolfbahnen, Perauers hausgemachte Wurstspezialitäten, die hohe Kunst des Einlochens und eine Platzregel: Der Verlierer muss den Gewinner auf ein Würschtl einladen. Das ist ein Spaß! \n\nTäglich von Mai bis Oktober von 10.00 bis 22.00 Uhr.\n\nWir freuen uns auf euch!\n\n                \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a98b98a3-871c-4130-bc9c-12aa659f2360/99/image.jpg",
+      "caption": "perauer"
+    }
+  ],
+  "url": [
+    "http://www.perauer.at/de/hier-gehts-um-die-wurscht.html"
+  ]
+}

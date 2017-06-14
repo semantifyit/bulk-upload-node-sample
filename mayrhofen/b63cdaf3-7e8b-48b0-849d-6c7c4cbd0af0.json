@@ -1,0 +1,780 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-gaisberger.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dB63CDAF3-7E8B-48B0-849D-6C7C4CBD0AF0"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gaisberger, Haus",
+    "streetAddress": "Waldbadstraße 533",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62284",
+    "faxNumber": "0043 5285 6228440",
+    "email": "info@haus-gaisberger.at",
+    "url": "http://www.haus-gaisberger.at"
+  },
+  "name": "Haus Gaisberger",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "SCHAU REIN UND FÜHL DICH WIE DAHEIM! Schönes Ferienhaus mitten in Mayrhofen, ideale Wohnlage in unmittelbarer Nähe zum Ortszentrum, Bergbahnen, Erlebnisbad, Tennis- u. Eislaufplatz. AUSSTATTUNG: Gemütlich und hell eingerichtete Wohnungen mit Kabel-TV u. Safe, Sauna mit Fitnessraum, Skiraum, Gartenlaube für gemütliche Sommerabende, Parkplätze am Haus, Lebensmittelgeschäft nebenan, Skipassverkauf im Haus."
+    },
+    {
+      "@language": "de",
+      "@value": "Im Preis enthalten sind: Strom, Heizung, kompl Wäsche, Geschirr und Kochutensilien, Saunabenützung kostenlos.\nKinderermäßigung auf Anfrage!\nExklusive Endreinigung Euro 22,- - 29,- Hund Euro 5,- /Tag\nCheck-In ab 14:00 Uhr/Check-Out bis 10:00 Uhr"
+    },
+    {
+      "@language": "de",
+      "@value": "Sie fahren die Bundesstraße B169 bis Mayrhofen, beim Kreiverkehr Mayrhofen Nord gerade aus, am Bahnhof vorbei, MAYRHOFEN MITTE abbiegen, am Postamt vorbei. Nach Überquerung der Hauptstrasse biegen Sie nach ca. 30 m rechts in die Waldbadstrasse ein und erreichen nach ca. 200 m Ihr Feriendomizil: Haus Gaisberger!\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated in one of the most attractive residential areas in Mayrhofen. Quiet and sunny, and conveniently situated for access to the town centre, adventure swimming pool, tennis courts and ice skating rink. Car park."
+    },
+    {
+      "@language": "en",
+      "@value": "The price includes electricity, heating, local taxes, all bed linen, towels, crockery and cooking utensils, and use of the sauna and gym. Childrens discounts: Up to the age of 5 free, 6-12 years 50%"
+    },
+    {
+      "@language": "en",
+      "@value": "Use the B169 along the Ziller valley until Mayrhofen. At Mayrhofen access the town at Einfahrt Mitte, drive straight over the junction with the high street and turn right after about 30 metres. Drive to the next junction where there is a florists (Blumenhaus Sandhofer). Take a half left and we are the second house on the left: Haus Gaisberger!"
+    },
+    {
+      "@language": "ru",
+      "@value": "Приходите и чувствуйте себя как дома! Красивый коттедж в центре Майрхофена, идеально подходит для отдыха, недалеко от центра, подъемники, бассейны, теннисный корт и каток. ОСОБЕННОСТИ: Удобные и светлые апартаменты с кабельным телевидением и сейфом, сауна с тренажерным залом, помещение для хранения лыж, сад для летних вечеров, парковка на территории отеля, продуктовый магазин по соседству"
+    },
+    {
+      "@language": "ru",
+      "@value": "В стоимость входит: Электричество, отопление, постельное белье, посуда и кухонные принадлежности, пользование сайной\t\n! скидки ребенка по запросу \t\nНе входит в стоимость: туристический налог, финальная уборка € 22, - - 29 - Собаки € 5, - / день \t\nзаезд с 14:00 часов / отъезд до 10:00 часов\t\n"
+    },
+    {
+      "@language": "ru",
+      "@value": "Двигайтесь по шоссе B169 до Майрхофен, съезд на север (Nord) прямо мимо станции, мимо почтамта. После пересечения главной дороги примерно через 30 м повернуть направо на Waldbadstrasse и через 200 м будет наш дом Gaisberger!"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "29"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b926a309-0810-49f9-86d1-e24f4faa5297/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Gaisberger Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Gaisberger Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Gaisberger Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dce0009a-4c66-42c9-b92a-539873db7219/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Gaisberger Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Gaisberger Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Gaisberger Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cab7f8e2-21c8-4de6-b127-39996a444bf5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schau_rein"
+        },
+        {
+          "@language": "en",
+          "@value": "Schau_rein"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schau_rein"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dfa7163a-b00c-4861-9e60-f1acaa1d71cc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Gaisberger Mayrhofen - Wohnraum Max\u0026Moritz"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Gaisberger Mayrhofen - Wohnraum Max\u0026Moritz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Gaisberger Mayrhofen - Wohnraum Max\u0026Moritz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e5f5c3a6-efef-415b-bff5-ab5d9311289b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Gaisberger Mayrhofen - Küche Max\u0026Moritz"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Gaisberger Mayrhofen - Küche Max\u0026Moritz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Gaisberger Mayrhofen - Küche Max\u0026Moritz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/634bb7b5-0278-412a-bda1-f67b8e489ff9/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Gaisberger Mayrhofen - Bad Max\u0026Moritz"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Gaisberger Mayrhofen - Bad Max\u0026Moritz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Gaisberger Mayrhofen - Bad Max\u0026Moritz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eec9a405-ce54-4d9d-b882-646f3566e302/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Gaisberger Mayrhofen -Schlafzimmer Max\u0026Moritz"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Gaisberger Mayrhofen -Schlafzimmer Max\u0026Moritz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Gaisberger Mayrhofen -Schlafzimmer Max\u0026Moritz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae10f77c-64cb-476d-a364-d042d46724b3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Gaisberger Mayrhofen - WLAN"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Gaisberger Mayrhofen - WLAN"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Gaisberger Mayrhofen - WLAN"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/89f83ce6-0677-4df3-b840-f952fb9a97c5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Gaisberger Mayrhofen - App Leo"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Gaisberger Mayrhofen - App Leo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Gaisberger Mayrhofen - App Leo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/214e7f9f-d445-40b2-941f-46997c82019b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Gaisberger Mayrhofen - Schlafzimmer Leo"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Gaisberger Mayrhofen - Schlafzimmer Leo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Gaisberger Mayrhofen - Schlafzimmer Leo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4fa32e30-16a0-41f8-a322-3b8d8ef3947a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Gaisberger Mayrhofen - Schlafzimmer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Gaisberger Mayrhofen - Schlafzimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Gaisberger Mayrhofen - Schlafzimmer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c30c4bd-0149-4ca9-8538-4212ef82748f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Gaisberger Mayrhofen - Esstisch"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Gaisberger Mayrhofen - Esstisch"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Gaisberger Mayrhofen - Esstisch"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8eae6e11-caa9-45a8-afc6-7bc7f3b449c0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Gaisberger Mayrhofen - Wohnraum Leo"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Gaisberger Mayrhofen - Wohnraum Leo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Gaisberger Mayrhofen - Wohnraum Leo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b89f7fcd-c5ba-477d-ba73-14bd88a9d090/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Gaisberger Mayrhofen - Sauna"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Gaisberger Mayrhofen - Sauna"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Gaisberger Mayrhofen - Sauna"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/87abfe1f-4536-4da3-9f4e-c26a85bf4127/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Gaisberger Mayrhofen - Empfehlung"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Gaisberger Mayrhofen - Empfehlung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Gaisberger Mayrhofen - Empfehlung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ebb5633-f502-48bd-977a-907aca77cde8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5f22a59e-c981-46d1-8be2-5f925944f136/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/766ffe76-ad8e-4517-8bfa-0697b92c30fa/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommer3"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommer3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommer3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/884195a0-d969-43b0-81a0-edb32cf5006d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter1"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0051eb9d-9c0d-4ca1-b190-0035d5e9000f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter2"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a442e7a-d8a0-42ee-9c75-d2ca5e6df190/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter3"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter3"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1652235464315",
+    "longitude": "11.8639630079269"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnungen HAUS GAISBERGER\nWaldbadstr. 533, 6290 Mayrhofen\n\nTel. 0043-664 2828 617\nFax. 0043-5285 62284 40\nE-mail: info@haus-gaisberger.at\n\n2 Ferienwohnungen für 2 - 4 Personen (ca. 50 m²), 1 Schlafraum, Schrankvorraum, Bad, separates WC, Wohnraum mit ausziehbarer Doppelcouch, Kachelofen, Einbauküche mit Sitzecke, Südbalkon terrassenartig, Kabel-TV und Safe. Kinderermäßigung auf Anfrage! Endreinigung: Euro 22,-"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment HAUS GAISBERGER\nWaldbadstr. 533, 6290 Mayrhofen\n\nTel. 0043-664 2828 617\nFax. 0043-5285 62284 40\nE-mail: info@haus-gaisberger.at\n\n2 holiday apartments suitable for 2-4 persons (approx. 50m²), bedroom, entrance hall, separate WC, lounge with double couch, traditional tiled stove, fitted kitchen with dining area, large south facing balcony. The apartments are also equipped with cable TV and a safe, end cleaning: € 22,00"
+        },
+        {
+          "@language": "ru",
+          "@value": "Квартиры Haus Gaisberger \t\nWaldbadstr. 533, 6290 Майрхофен Тел.\t\n\t\n0043-664 2828 617\t\nФакс. \t\n0043-5285 62284 40 \t\nE-mail: info@haus-gaisberger.at\n\n2 квартиры для 2 - 4 человек (50 м²), 1 спальня, кладовая, ванная комната, отдельный туалет, гостиная с диван-кроватью, камином, оборудованная кухня с гостиной, балкон-терраса, кабельное телевидение и сейф. Скидка для детей по запросу! Финальная уборка: € 22, -\t\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment \"Moritz\" 50 m²"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment 50 m²"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "100.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "120.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnungen HAUS GAISBERGER\nWaldbadstr. 533, 6290 Mayrhofen\n\nTel. 0043-664 2828 617\nFax. 0043-5285 62284 40\nE-mail: info@haus-gaisberger.at\n\nGroßzügige Ferienwohnung für 4 - 6 Personen (ca. 90 m²), 2 Schlafräume, große holzgetäfelte Stube mit Holz-Kachelofen, große Küche als eigener Raum mit Sitzecke und Geschirrspüler, Vorratsraum, Bad, separates WC, Balkon, Kabel-TV und Safe. Kinderermäßigung auf Anfrage! Endreinigung: Euro 29,-"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment HAUS GAISBERGER\nWaldbadstr. 533, 6290 Mayrhofen\n\nTel. 0043-664 2828 617\nFax. 0043-5285 62284 40\nE-mail: info@haus-gaisberger.at\n\nApartment suitable for 4-6 persons (approx. 90m²), wooden clad lounge with traditional tiled stove, fitted kitchen with dish washer, seating area, larder, 2 bedrooms, bathroom, separate WC, balcony, terrace, garden with summer house. The apartments are additionally equipped with cable TV and a safe, end cleaning: € 22,00"
+        },
+        {
+          "@language": "ru",
+          "@value": "Квартиры Haus Gaisberger \t\nWaldbadstr. 533, 6290 Майрхофен Тел.\t\n\t\n0043-664 2828 617 \t\nФакс. \t\n0043-5285 62284 40 \t\nE-mail: info@haus-gaisberger.at \n\nПросторные апартаменты для 4 - 6 человек (90 м²), 2 спальни, большая кухня в отдельной комнате с зоной отдыха и посудомоечной машиной, кладовая, ванная комната , отдельный туалет, балкон, кабельное телевидение и сейф. Скидка для детей по запросу! Финальная уборка: € 29, -\t\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment \"Leo\" 90 m²"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment 90 m²"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "130.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "150.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "170.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnungen HAUS GAISBERGER\nWaldbadstr. 533, 6290 Mayrhofen\n\nTel. 0043-664 2828 617\nFax. 0043-5285 62284 40\nE-mail: info@haus-gaisberger.at\n\n2 Ferienwohnungen für 2 - 4 Personen (ca. 50 m²), 1 Schlafraum, Schrankvorraum, Bad, separates WC, Wohnraum mit ausziehbarer Doppelcouch, Kachelofen, Einbauküche mit Sitzecke, Südbalkon terrassenartig, Kabel-TV und Safe. Kinderermäßigung auf Anfrage! Endreinigung: Euro 22,-"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment HAUS GAISBERGER\nWaldbadstr. 533, 6290 Mayrhofen\n\nTel. 0043-664 2828 617\nFax. 0043-5285 62284 40\nE-mail: info@haus-gaisberger.at\n\n2 holiday apartments suitable for 2-4 persons (approx. 50m²), bedroom, entrance hall, separate WC, lounge with double couch, traditional tiled stove, fitted kitchen with dining area, large south facing balcony. The apartments are also equipped with cable TV and a safe, end cleaning: € 22,00"
+        },
+        {
+          "@language": "ru",
+          "@value": "Квартиры Haus Gaisberger \t\nWaldbadstr. 533, 6290 Майрхофен Тел.\t\n\t\n0043-664 2828 617 \t\nФакс. \t\n0043-5285 62284 40 \t\nE-mail: info@haus-gaisberger.at\n2 квартиры для 2 - 4 человек (50 м²), 1 спальня, кладовая, ванная комната, отдельный туалет, гостиная с диван-кроватью, камином, оборудованная кухня с гостиной, балкон-терраса, кабельное телевидение и сейф. Скидка для детей по запросу! Финальная уборка: € 22,00\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartment \"Max\" 50 m²"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, bath, toilet, 1 bed room"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, bath, toilet, 1 спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Tage des offenen Tales"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, bath, toilet, 1 bed room"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, одна спальня"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Alle Leistungen können mit Zillertaler Gästekarte* kostenlos am 14. und 15.06.2014 genutzt werden!\n\nFreie Fahrt mit den Zügen der Zillertalbahn inkl. Dampfzug (nicht gültig für Gruppen) \nFreie Berg \u0026 Talfahrt mit der Spieljochbahn und musikalische Unterhaltung bei der Bergstation \nFreie Berg \u0026 Talfahrt mit der Finkenberger Almbahn und Bergfest am Penkenjoch: Zillertaler Musik und echte Zillertaler Spezialitäten bei der Penkentenne (15.06.2014) und bei Christas Skialm sowie informative Kräuterrundwanderung bei der Mittelstation\nFreie Berg \u0026 Talfahrt mit der Rosenalmbahn, Gerlossteinbahn, Ramsberglift, Isskogelbahn, Ahornbahn, Penkenbahn \nFreier Eintritt in alle Freibäder des Zillertals\nFreier Eintritt ins Heimatmuseum Fügen, Regionalmuseum Zell \nFreier Eintritt im Strasser Häusl in Laimach (nur am 15.06.2014) \nKostenlose Besichtigung der Ausstellung \"Seelische Berührung\" in der Galerie im FeuerWerk in Fügen (14.06.2014)\nKostenlose Besichtigung der ErlebnisSennerei Mayrhofen \nKostenlose Besichtigung der Erlebnisbrennerei Feldishütte \nKostenlose Auffahrt zum Schlegeisspeicher\nKostenlose Auffahrt zum Stillupspeicher\nKostenlose Besichtigung der Ausstellung \"Gletscher.Welten\" im Naturparkhaus Ginzling, der \"Kultur.Landschafts.Welten Mitterstall\" in Brandberg und der \"Steinbock.Welten\" Zillergrund \nKostenlose Besichtigung der Spannagelhöhle (nur am 15.06.2014) und des Natur Eis Palastes am Hintertuxer Gletscher (nur am 15.06.2014, Berg- und Talfahrt mit der Hintertuxer Gletscherbahn exklusive)\n*Die Vorlage einer für den Zeitraum (14.+15.06.2014) gültigen Gästekarte der Zillertaler Tourismusverbände berechtigt alle Gäste zum kostenlosen Eintritt bei den angeführten Betrieben.\n"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a4859d0d-da79-4abc-b549-6c5e4a9547ae/99/image.png",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "Tage des offenen Tales"
+                },
+                {
+                  "@language": "en",
+                  "@value": "Tage des offenen Tales"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "Tage des offenen Tales"
+                }
+              ]
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "100.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "120.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "296.00",
+          "maxPrice": "296.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "336.00",
+          "maxPrice": "336.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "416.00",
+          "maxPrice": "416.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

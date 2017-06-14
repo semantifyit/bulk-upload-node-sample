@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gasthof Zillertaler Weinstadl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2035052962451",
+    "longitude": "11.8660926818848"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zillertaler Weinstadl",
+    "streetAddress": "Lindenstraße 13a",
+    "addressLocality": "Hippach ",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3314",
+    "faxNumber": "0043 5282 33145",
+    "email": "info@zillertaler-weinstadl.com",
+    "url": "http://www.zillertaler-weinstadl.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f773226-1665-4782-a0d8-241d6e7ad871/99/image.jpg",
+      "caption": "Weinstadl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c250af5-120a-4c95-8537-3f01582d682b/99/image.jpg",
+      "caption": "Gasthof Weinstadl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db12171f-bd8a-4610-b290-d2ab6c3afb4a/99/image.jpg",
+      "caption": "Titelbild"
+    }
+  ],
+  "url": [
+    "http://www.zillertaler-weinstadl.com"
+  ]
+}

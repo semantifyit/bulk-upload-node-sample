@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ClothingStore"
+  ],
+  "name": "Sportalm Shop",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.163483805671",
+    "longitude": "11.8617796897888"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sportalm Shop",
+    "streetAddress": "Hauptstrasse 473",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 622 00 ",
+    "email": "mayrhofen@sportalm.at",
+    "url": "http://www.sportalm.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef1d36ec-6f8d-4109-92cb-d0ceb838b802/99/image.jpg",
+      "caption": "Sportalm"
+    }
+  ],
+  "url": [
+    "http://www.sportalm.at"
+  ]
+}

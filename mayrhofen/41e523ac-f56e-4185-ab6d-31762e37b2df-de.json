@@ -1,0 +1,192 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d41E523AC-F56E-4185-AB6D-31762E37B2DF"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apart Panorama",
+    "streetAddress": "Neu-Burgstall 320",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 64431",
+    "faxNumber": "(0043) 5285 64431",
+    "email": "apartpanorama@aon.at",
+    "url": "http://www.apart-panorama.jimdo.com"
+  },
+  "name": "Apart Panorama",
+  "description": [
+    "Unser Gästehaus ist in ruhiger, sonniger Lage ca. 2km von Mayrhofen entfernt. In unmittelbarer Nähe befinden sich die Horbergbahn, die Langlaufloipe, sowie Radwanderwege. Ca. 80m entfernt befindet sich die Dörfer- und Schibushaltestelle. Liegewiese mit Gartenmöbel und Sonnenterrasse, sowie Parkplätze sind vorhanden.",
+    "Die Preise verstehen sich inklusive Kurtaxe, exklusive Endreinigung.",
+    "Anreise: Richtung Mayrhofen, vor Mayrhofen rechts abbiegen - Richtung Horbergbahn, beim Kreisverkehr die letzte Ausfahrt nehmen, danach die 3. Einfahrt rechts abbiegen."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7b5054fe-59f7-4f8d-be67-414fd62ec1e1/99/image.jpg",
+      "caption": "Apart Panorama Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/69cf2e36-075f-4f5c-aa84-77e4642e1542/99/image.jpg",
+      "caption": "Blick Ahornspitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/92f35d5d-9f66-43b5-98d3-b6070a47c76f/99/image.jpg",
+      "caption": "Kerzen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/18c6a28f-c98d-4d19-8def-3fe2e4c176b5/99/image.jpg",
+      "caption": "Flur"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1861634381073",
+    "longitude": "11.8596768379211"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Zweibettzimmer, Dusche, WC, Süd",
+      "description": "Gemütlich eingerichtetes Zimmer mit Balkon, Dusche, WC, Föhn, Safe und Sat-TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Die Ferienwohnung ist mit einer großen Küche, zwei separaten Zimmern mit Dusche/WC, Balkon, Sat-TV, Safe, Radio sowie Bettwäsche und Handtücher ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Ost",
+      "description": "Doppelzimmer mit Dusche/WC und Balkon, teilweise als Dreibettzimmer möglich.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

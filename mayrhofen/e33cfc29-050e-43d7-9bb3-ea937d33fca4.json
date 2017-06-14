@@ -1,0 +1,227 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.tiscover.com/moosleite",
+    "http://maps.mayrhofen.at/?foreignResource\u003dE33CFC29-050E-43D7-9BB3-EA937D33FCA4"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Moosleite",
+    "streetAddress": "Neu-Burgstall 318",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62894",
+    "faxNumber": "0043 5285 62064",
+    "email": "eberl.friedl@tirol.com"
+  },
+  "name": "Moosleite",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ankommen und wohlfühlen. Eine  Terrasse, zur Alleinbenutzung mit Blick auf die Zillertaler Berge gehört zur Wohnung. \n1,5km vor Mayrhofen befindet sich unser Haus, in ruhiger Lage und doch nahe an der Horbergbahn.\nEine sehr gut präparierte Langlaufloipe ist in unmittelbarer Haus nähe.  "
+    },
+    {
+      "@language": "de",
+      "@value": "Inklusive: Heinzung, Wasser, Strom, Bett \u0026 Tischwäsche, Handtücher, Parkplatz, Internetzugang,\n Endreinigung"
+    },
+    {
+      "@language": "de",
+      "@value": "Check-In: 14.00 Uhr, Check-Out: 9.00 Uhr\nAnreisebeschreibung: Fahren Sie auf der B169 bis kurz vor Mayrhofen die Abzweigung \"Horbergbahn\" kommt. Biegen Sie rechts ab und fahren Sie die Strasse entlang. Fahren Sie Richtung Burgstall vorbei am Gasthof"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is situated approx. 1.5km from Mayrhofen, at the edge of the forest and enjoying wonderful panoramic views. The ski and village bus stop can be found a few minutes walk away from the house, from where one can access the surrounding villages and mountain lifts. A beautiful cycle path is close by, which leads along the Ziller Promenade."
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes: Heating, water, electricity, bed and table linen, towels and car park, a final cleaning charge."
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 14,00hr, Check out: 9.00hr.\nDirections: Use the B169 to Mayrhofen, and just before Mayrhofen turn right towards the \"Horbergbahn\", and drive towards Burgstall, opposite the SIDAN guest house turn right in the direction of the forest, and in a few metres you will arrive at our house."
+    },
+    {
+      "@language": "ru",
+      "@value": "Наш отель находится на расстоянии 1,5 км от Майрхофена в непосредственной близости от подъемника \"Horbergbahn\" в месте с панорамным видом. В нескольких минутах пешком находится остановка горнолыжного и рейсового автобусов, на которых легко добраться до близлежащих поселков и горнолыжных станций. Красивая пешеходная дорожка всего за несколько минут выводит на променад вдоль реки Циллер.\n"
+    },
+    {
+      "@language": "ru",
+      "@value": "Включено: отопление, вода, электричество, постельное белье и скатерти, полотенца, парковка, интернет, \n курортная такса, финальная уборка\n"
+    },
+    {
+      "@language": "ru",
+      "@value": "Заезд: 14:00, отъезд: 9:00\nКак проехать: ехать по трассе В169. Незадолго до Майрхофена будет указатель \"Horbergbahn\". Поверните направо и поезжайте по улице в направлении Burgstall и доедете до нашего гастхофа.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/69089d4b-841a-4dec-9cc2-e082b076d3ed/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Moosleite Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Moosleite Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Moosleite Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2a5d8eae-5085-471b-a3eb-d302994ea74d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Moosleite Mayrhofen - Sommer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Moosleite Mayrhofen - Sommer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Moosleite Mayrhofen - Sommer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aada793b-4ae3-420c-8617-241aff595682/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "IMG_3433 (2)"
+        },
+        {
+          "@language": "en",
+          "@value": "IMG_3433 (2)"
+        },
+        {
+          "@language": "ru",
+          "@value": "IMG_3433 (2)"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1862746335978",
+    "longitude": "11.8581855297089"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Im Apartment befindet sich eine Küche mit Plattenherd, Mikrowelle, Filterkaffeemaschine, Toaster, Wasserkocher, Kühlschrank und Geschirr.\nEine gemütliche, eingebaute Sitz- Liegecouch ermöglicht Ihnen einen angenehmen Fernsehabend. Schlafzimmer mit Doppelbett, ein Bad mit DU/WC.\nHandtücher, Geschirrtücher, W-LAN und Parkplatz stehen Ihnen gratis zur Verfügung sowie ein Trockenraum. "
+        },
+        {
+          "@language": "en",
+          "@value": "The recently renovated holiday apartment can be found on the ground floor and consists of a double bedroom (with space for a cot or an additional camp bed) and a pleasant lounge/kitchen with a spacious sleeping area. 1 bathroom The kitchen is fully equipped, including a fridge, electric oven and crockery etc. Bed linen and towels are also available.\nThe apartment also has an entrance hall with cloakroom, shower/WC Sat-TV as well as it\u0027s own terrace.\nA bread delivery service will bring you fresh bread each day to your door."
+        },
+        {
+          "@language": "ru",
+          "@value": "Уютный апартамент с прекрасным панорамным видом находится прямо у подъемника \"Horbergbahn\" на Пенкен. Состоит из спальной комнаты с двуспальной кроватью и уютной гостиной с кухней и большим спальным уголком. 1 ванная комната, прихожая с гардеробом. Кухня полностью оборудована.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./Wohn-Schlafraum/1 Schlafraum/Du,WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./1 bedroom/shower,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/f8fc8273-53b8-4b2c-bad6-30dadbfcf91b/99/image.jpg",
+              "caption": [
+                {
+                  "@language": "de",
+                  "@value": "IMG_2957"
+                },
+                {
+                  "@language": "en",
+                  "@value": "IMG_2957"
+                },
+                {
+                  "@language": "ru",
+                  "@value": "IMG_2957"
+                }
+              ]
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

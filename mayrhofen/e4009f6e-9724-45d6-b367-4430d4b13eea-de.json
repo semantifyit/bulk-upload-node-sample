@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appart-kristina.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dE4009F6E-9724-45D6-B367-4430D4B13EEA"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kristina, Appartements",
+    "streetAddress": "Tuxerstrasse 714",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "url": "http://www.mayrhofen.at/de/appartements-kristina"
+  },
+  "name": "Appartements Kristina",
+  "description": [
+    "Großes Wohnhaus an Strassenecke, lachsfarbende Fassade, Im Obergeschoss Holzverkleidung. Markante Dachvorsprünge. Ringsherum Parkplätze. Im EG Schischule Gager,\"die roten Profis\". Eingang an der Ecke rechts vom Skigeschäft. Das Top befindet sich im 2. Obergschoss am Ende des Ganges, Top 15B. Tiefgaragenplatz für 1 PKW inklusive, Skiraum. Beide Seilbahnen (Penken und Ahornbahn) sind zu Fuß erreichbar, Skibushaltestelle für die Green Line \u003d Gletscherbus vor dem Haus, Zentrum 200 - 500 m entfernt, Eislaufplatz, Erlebnisbad 300 m;\n",
+    "Einfahrt Mitte, an Kreuzung mit Fußgängerzone rechts ab, an Penkenbahn vorbei, über die Brücke, rechts halten in Tuxerstrasse, an der ersten Querstrasse rechts großes Haus an der Ecke, Tiefgarage Einfahrt Waldfeldweg. Planquadrat M7.",
+    "Anreise per Auto\nÜber die Inntalautobahn A12 bis zur Ausfahrt Zillertal und von dort noch 30 km auf der Zillertal Bundesstraße Nr. B169 bis nach Mayrhofen.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5570d20e-4e4f-4823-9f20-c9f9c7230372/99/image.jpg",
+      "caption": "App Kristina Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/83fddff5-fe84-4070-b776-c7475c8528a9/99/image.jpg",
+      "caption": "App Kristina Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b19808c-2df5-45c4-ade7-ff635bc40db9/99/image.jpg",
+      "caption": "App Kristina Mayrhofen - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cdb87245-229e-4b05-afc3-0d38008ead4a/99/image.jpg",
+      "caption": "App Kristina Mayrhofen - Sommer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9515f84-1ca1-401a-8f09-29a1e3618048/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f77725ec-9a71-4a1e-bd53-76b39fc2b6d9/99/image.jpg",
+      "caption": "Schneeschuhwandern © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e38cf693-9bb6-4f03-80b0-a928e7d32d63/99/image.jpg",
+      "caption": "Skifahren © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f8f4ae55-7aca-4d8c-9ce1-ababc6233e5f/99/image.jpg",
+      "caption": "Spaß im Schnee © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/723b2caa-6b2b-436e-b1e6-2be3cf72ff35/99/image.jpg",
+      "caption": "Wandern am Stausee © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d32c71f8-a7ee-496b-8342-87133a896a32/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/540fca20-118b-4a4c-ac5e-05460edb0f5f/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4861a15d-7d48-4720-b12b-7740363e153d/99/image.jpg",
+      "caption": "Winter am Berg © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f79e54a9-8a95-464e-a287-61e557963f20/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/69f6f07d-1bdd-424f-ab77-5af571575991/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1618023668535",
+    "longitude": "11.8586951494217"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Maisonette - Appartment mit Pfiff in allerbesten Lage und allen Annehmlichkeiten für einen gemütlichen Urlaub. Voll eingerichtete Küche offen zur Essecke und zum gemütlichen ganz besonderen Wohnraum. SAT-TV. 4 unabhängige Schlafzimmer, 2 Bäder, kleine Dachterasse. Herrlicher Blick auf die umliegende Bergwelt.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Top \"B\" 90m²",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

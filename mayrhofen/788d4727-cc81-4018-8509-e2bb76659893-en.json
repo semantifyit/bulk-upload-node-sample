@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Holzbildhauerei Stöckl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2122484",
+    "longitude": "11.8661804"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laimach 85",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3743",
+    "email": "info@holzbildhauer.at",
+    "url": "http://www.holzbildhauer.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ef103e6-254b-4c90-b151-dbf2e581c2d1/99/image.",
+      "caption": "Stöckl Lois"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/23138513-d73d-482d-a613-6232bc6d2346/99/image.jpg",
+      "caption": "Holzkrippe"
+    }
+  ],
+  "url": [
+    "http://www.holzbildhauer.at"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Café Martin",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2215797",
+    "longitude": "11.8620085"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Cafe Martin",
+    "streetAddress": "Afelden 163",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 31 82 ",
+    "email": "cafe-martin@aon.at",
+    "url": "http://www.cafe-martin.at"
+  },
+  "description": "We are a family-run, cozy bed and breakfast with an attached cafe offering well-appointed comfort rooms.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa42f47a-918f-411e-9a0e-3a294810fea0/99/image.jpg",
+      "caption": "Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16d5b352-ff9e-407b-b05e-f02c08aca94e/99/image.jpg",
+      "caption": "Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13a0a2dc-03f9-4261-903e-6e3f0c628f2d/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/785375c9-6e1c-45dc-b763-982b1af4aab3/99/image.jpg",
+      "caption": "Gedeckter Tisch"
+    }
+  ],
+  "url": [
+    "http://www.cafe-martin.at"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d6A3A3CA5-CB2F-453B-8AC7-F67E10B92D73"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mariandl, Chalet",
+    "streetAddress": "Waldfeldweg 631",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 73623795",
+    "email": "mayrhofen@gmx.net"
+  },
+  "name": "Chalet Mariandl",
+  "description": "Haus mit 27 Betten und 3 Zustellbetten als Ferienhaus.\nPreise auf Anfrage.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/15c558d8-d7ca-4f29-8347-7908c34569ad/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1652308408221",
+    "longitude": "11.8572950363159"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Bad, WC, 4 oder mehr Schlafräume",
+      "description": "Küche, Aufenthaltsraum, Garten, Tv, Balkon, zentral, Parkplatz",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/4 od. mehr Schlafr./Bad, WC",
+          "numberOfRooms": "10.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "30",
+            "minValue": "20"
+          }
+        }
+      ]
+    }
+  ]
+}

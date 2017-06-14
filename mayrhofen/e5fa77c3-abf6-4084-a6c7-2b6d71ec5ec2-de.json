@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Brindlingalm 1823m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2075214563555",
+    "longitude": "11.8340671062469"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brindlingalm",
+    "streetAddress": "Schwendberg 468",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 2683"
+  },
+  "description": [
+    "Die Brindlingalm finden Sie am Hochschwendberg in einer besonders ruhigen \nund schönen Lage. \nerreichbar: von Gasthof Mösl in ca. 1 bis 1 1/2 Stunden \nmögliche Gipfelbesteigung ab Brindlingalm: Kreuzjoch 2.169 \nAuf der Brindlingalm können Sie nach einem gemütlichen Abend auch einmal \nübernachten. Auf Ihren Besuch freut sich die Familie Sporer!",
+    "Sommer \n03. Juni 2017\nÜbernachtung möglich"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4841cad2-5df8-40f1-acda-269bff1e3bf0/99/image.jpg",
+      "caption": "Brindlingalm"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

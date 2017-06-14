@@ -1,0 +1,66 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "SchauBauernhof der ErlebnisSennerei Zillertal"
+    },
+    {
+      "@language": "de",
+      "@value": "SchauBauernhof der ErlebnisSennerei Zillertal"
+    },
+    {
+      "@language": "ru",
+      "@value": "SchauBauernhof der ErlebnisSennerei Zillertal"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1778005853484",
+    "longitude": "11.8717789227539"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "ErlebnisSennerei Zillertal",
+    "streetAddress": "Hollenzen 116",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 6390630",
+    "faxNumber": "+43 5285 64926",
+    "email": "erlebnis@sennerei-zillertal.at",
+    "url": "www.erlebnissennerei-zillertal.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Der SchauBauernhof ermöglicht es, den ersten und damit wichtigsten Schritt der Entstehung hochwertiger LEBENSmittel zu sehen: Tiere im artgerechten Umfeld.\n\nDie Besonderheit:\nEs geht um das Bewusstsein, woher unsere LEBENSmittel stammen und wie wir mit Ihnen umgehen, sowie die Bedeutung des Ursprungs unserer LEBENSmittel zu verstehen\n* Heumilch von Ziege, Schaf und Kuh \n* Bio-Hühner \n* unser Honiglieferant, die Biene \n* Mini-Traktoren und Beschäftigungsmöglichkeiten für die jungen Gäste \n* gemütliche Verweilzonen...\n\nIm Kombipaket mit der SchauSennerei der ErlebnisSennerei Zillertal!"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8878d3a1-eceb-493f-b065-b158b1568c29/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "ErlebnisSennerei"
+        },
+        {
+          "@language": "de",
+          "@value": "ErlebnisSennerei"
+        },
+        {
+          "@language": "ru",
+          "@value": "ErlebnisSennerei"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.sennerei-zillertal.at"
+  ]
+}

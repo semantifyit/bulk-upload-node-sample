@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ferienhaus-nicole.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dAD9CB6FF-B848-490D-B66E-48EAE848A005"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Nicole, Ferienhaus",
+    "streetAddress": "Jakob-Moser-Straße 595",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 3537361",
+    "email": "info@ferienhaus-nicole.at",
+    "url": "http://www.ferienhaus-nicole.at"
+  },
+  "name": "Ferienhaus Nicole",
+  "description": [
+    "House in an idyllic location on the edge of the forest, near the center of Mayrhofen. The house can accommodate 9 people. Large, bright rooms with balcony or terrace. Perfect for the holidays with friends and family. Our house is located about 5 minutes walk from the Ahornbahn and 10 minutes from the Penkenbahn. 5 minutes  of the ice rink and water park / summer tennis court and swimming pool.",
+    "Including\n\"Cleaning\n\"Bed linen, towels and bath towels\n\"Operating Costs\n\"Guest tax\n",
+    "14.30 Check In / Check-Out 09.30\n\nHow to get there: Drive village, after the Post right through the village to Penkenbahn / butchery Gasser.Here turn left, then to ca.200m ,right in Jakob Moser Str.\nto the left will be after 200m house Nicole Nr.595"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6bdce51f-9f0a-439d-bd32-7326dc1b157c/99/image.jpg",
+      "caption": "Ferienhaus Nicole Mayrhofen - Winterbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9fcbb3e7-144d-459f-954d-777a4c9bc2fc/99/image.jpg",
+      "caption": "Ferienhaus Nicole Mayrhofen - Sommer Front links"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f928e7d0-3f80-49e5-a7b5-784fa9208b8e/99/image.jpg",
+      "caption": "Ferienhaus Nicole Mayrhofen - Sommer Front rechts"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09a16895-77ea-4b2e-967d-36b4a6a13bbe/99/image.jpg",
+      "caption": "Ferienhaus Nicole Mayrhofen - Sommer Front"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/319167aa-2cf4-4e34-b903-593f6a04ff61/99/image.jpg",
+      "caption": "Ferienhaus Nicole Mayrhofen - Sommer Waldseite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a38b103b-be82-43da-bc9f-babef669511d/99/image.jpg",
+      "caption": "Ferienhaus Nicole - Waldseite mit Grillplatz"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1598856075891",
+    "longitude": "11.8645477294922"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Holiday home, bath, toilet, 4 or more bed rooms",
+      "description": "The house has four bedrooms (three double beds / 1 bunk bed). The living room is a large dining table with seating for 8. The kitchen has a sitting area as well as the usual kitchen appliances. 1 bath-tub, a sep.WC, a large bath / shower /WC.\nBabybed",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "hol. house - 4 + more bedrooms/bath tube",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "235.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "245.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "110.00",
+          "maxPrice": "255.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "120.00",
+          "maxPrice": "265.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "130.00",
+          "maxPrice": "275.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

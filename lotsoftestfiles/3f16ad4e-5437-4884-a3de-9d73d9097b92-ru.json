@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gasthaus Schwarzenstein",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1028637072719",
+    "longitude": "11.809755563736"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schwarzenstein, Hotel-Gasthaus ",
+    "streetAddress": "Ginzling 216",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "+43 5286 5226",
+    "faxNumber": "+43 5286 52264",
+    "email": "info@schwarzenstein-ginzling.at",
+    "url": "http://www.schwarzenstein-ginzling.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/93ea7f76-8479-409e-912a-9e940e95d94a/99/image.jpg",
+      "caption": "Schwarzenstein"
+    }
+  ],
+  "url": [
+    "http://www.schwarzenstein-ginzling.at"
+  ]
+}

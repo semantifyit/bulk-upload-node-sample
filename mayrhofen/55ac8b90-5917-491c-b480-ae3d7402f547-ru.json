@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BodyOfWater"
+  ],
+  "name": "Angelmöglichkeiten - Hotel Neuhaus",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1760691985837",
+    "longitude": "11.8666505813599"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpendomizil Neuhaus",
+    "streetAddress": "Am Marktplatz 202",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 6703",
+    "faxNumber": "+43 5285 63808",
+    "email": "info@alpendomizil.at",
+    "url": "http://www.alpendomizil.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb17459a-3fa8-4560-9aee-6b4346914753/99/image.jpg",
+      "caption": "Schlegeis Stausee"
+    }
+  ],
+  "url": [
+    "http://www.kramerwirt.at",
+    "http://www.alpendomizil.at",
+    "http://www.urlaubimzillertal.at"
+  ]
+}

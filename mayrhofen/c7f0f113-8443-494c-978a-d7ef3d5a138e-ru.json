@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Pharmacy"
+  ],
+  "name": "Steinbockapotheke",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1660842776057",
+    "longitude": "11.8623322248459"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Steinbockapotheke",
+    "streetAddress": "Hauptstraße 444",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62313",
+    "faxNumber": "0043 5285 62313 23 ",
+    "email": "info@steinbock-apotheke.at",
+    "url": "http://www.steinbock-apotheke.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ef3aa4b-8f80-43c8-a0b4-113b21f32192/99/image.jpg",
+      "caption": "Steinbock"
+    }
+  ],
+  "url": [
+    "http://www.steinbock-apotheke.at"
+  ]
+}

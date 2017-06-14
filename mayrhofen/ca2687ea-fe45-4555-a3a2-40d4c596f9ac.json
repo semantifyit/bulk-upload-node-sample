@@ -1,0 +1,115 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Gasthaus Steinerkogl 1263m"
+    },
+    {
+      "@language": "de",
+      "@value": "Gasthaus Steinerkogl 1263m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Gasthaus Steinerkogl 1263m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1673743315423",
+    "longitude": "11.8814681577804"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Steinerkogl",
+    "streetAddress": "Brandberg 113",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63188",
+    "faxNumber": "(0043) 5285 63304",
+    "email": "steinerkogl@aon.at",
+    "url": "www.steinerkogl.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Relaxen über den Dächern von Mayrhofen. Von unserer Panoramaterrasse aus genießen Sie einen herrlichen Ausblick auf die umliegenden Berge der Zillertaler Alpen.\n\nSie lieben das Zillertal?\nDann werden Sie den herrlichen Blick, den man vom Berggasthaus Steinerkogl über das ganze Zillertal hat, noch mehr lieben. Der Steinerkogl auf 1.270 m hoch über Mayrhofen gelegen, gilt als Geheimtipp für Natur- und Bergfreunde!\nEs erwartet Sie eine fast unberührte und ursprüngliche Natur mit prachtvoller Kulisse!\nGenießen am Steinerkogl\nDer Berggasthof Steinerkogl verwöhnt Sie mit bodenständigen Gerichten in traditionellem Ambiente.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "ganzjährig geöffnet, vom 08. November - 24.12.2016 Urlaub\nMittwoch und Donnerstag Ruhetag\n\nÜbernachtung möglich\n\nSommer\ndurchgehend geöffnet\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Relax above the roofs of Mayrhofen. From our panoramic terrace you can enjoy a magnificent view of the surrounding mountains of the Zillertal Alps.\n\nYou love the Zillertal?\nThen you will enjoy a magnificent view. The Steinerkogl high above Mayrhofen at 1,270 m, is a hot tip for nature and mountain lovers!\nYou can expect an almost untouched and unspoilt nature with spectacular scenery!\nEnjoy the Steinerkogl\nThe Berggasthof Steinerkogl serves hearty meals in a traditional ambience."
+    },
+    {
+      "@language": "en",
+      "@value": "open the whole year, from 08. November till 24.12.2016 Holiday\nWednesday and Thursday day off\n\novernight stay possible \n\nSummer\ncontinuous "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8eb6d72f-dbc1-45dd-a23e-c7154ce43fde/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Steinerkogl"
+        },
+        {
+          "@language": "de",
+          "@value": "Steinerkogl"
+        },
+        {
+          "@language": "ru",
+          "@value": "Steinerkogl"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4701c696-dbec-4962-9166-a789f33d70eb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Aussicht"
+        },
+        {
+          "@language": "de",
+          "@value": "Aussicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Aussicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f13a7f8-770e-4cf7-adae-1698b1fd6538/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Steinerkogl 1263m"
+        },
+        {
+          "@language": "de",
+          "@value": "Steinerkogl 1263m"
+        },
+        {
+          "@language": "ru",
+          "@value": "Steinerkogl 1263m"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.steinerkogl.at"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness",
+    "GroceryStore",
+    "Restaurant"
+  ],
+  "name": "Huber\u0027s Boutique Hotel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.164815",
+    "longitude": "11.8589331000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Huber Gastro GmbH \u0026 CoKG",
+    "streetAddress": "Dornaustraße 612",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62569",
+    "faxNumber": "0043 5285 6252950",
+    "email": "info@huber-domizile.com",
+    "url": "http://www.huber-domizile.com"
+  },
+  "description": "Huber´s Boutiquehotel - modernes Wohnen!\nModern, gemütlich und ein bisschen extravagant - so erleben Sie Huber´s Boutiquehotel. Beim Umbau wurde großes Augenmerk auf die perfekte Symbiose von Natur und Architektur gelegt, dabei entstand ein Kleinod, das sich sehen lassen kann.\nIm Mittelpunkt steht das GREEN SPA, ein Wohlfühlbereich mit jeder Menge alpinem Charme. \nStets um Ihr Wohlergehen bemüht, verwöhnen wir Sie mit einer abwechslungsreichen Halbpension oder in unserem à la carte Restaurant mit gutbürgerlicher Küche, heimischen Schmankerln und hausgemachten Mehlspeisen. \nToplage in Mayrhofen\nUnser Hotel, ruhig aber doch zentral gelegen, bietet komfortable, geräumige Doppelzimmer, Mehrbettzimmer und Juniorsuiten. Jedes Zimmer in Huber´s Boutiquehotel verfügt über einen eigenen Balkon, von dem Sie den herrlichen Blick auf unsere großartige Bergwelt genießen können. \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/be15f558-a53a-4a46-8f75-8285194c5d4f/99/image.jpg",
+      "caption": "Huber\u0027s Boutique Hotels"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d413c77b-267b-4b32-87a6-286a9f8f150f/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/513dd5b7-74e5-433d-8eb5-28ac9c76b70e/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1a24ccd-944a-4949-a507-cf563ba590a0/99/image.jpg",
+      "caption": "Bar"
+    }
+  ],
+  "url": [
+    "http://www.huber-domizile.com"
+  ]
+}

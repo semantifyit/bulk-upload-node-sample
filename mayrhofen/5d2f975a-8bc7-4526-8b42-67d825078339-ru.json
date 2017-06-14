@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.privat.zline.at/dreiergruber",
+    "http://maps.mayrhofen.at/?foreignResource\u003d5D2F975A-8BC7-4526-8B42-67D825078339"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Oberbichl 748",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 664 1613167",
+    "email": "dreiermartin@hotmail.com",
+    "url": "http://www.privat.zline.at/dreiergruber"
+  },
+  "name": "Gruber Elisabeth",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/74073985-915e-41b2-ae6c-d6b47dd78cba/99/image.jpg",
+      "caption": "Gruber Elisabeth Ramsau"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1919361813436",
+    "longitude": "11.8739837408066"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, ванна, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

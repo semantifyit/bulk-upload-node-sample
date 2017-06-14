@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Reitstall Kiendlerhof"
+    },
+    {
+      "@language": "de",
+      "@value": "Reitstall Kiendlerhof"
+    },
+    {
+      "@language": "ru",
+      "@value": "Reitstall Kiendlerhof"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2009831963646",
+    "longitude": "11.8632817268372"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Reitstall Kiendlerhof",
+    "streetAddress": "Schormis 100",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3660",
+    "faxNumber": "(0043) 5282 62974",
+    "email": "kiendlerhof@aon.at",
+    "url": "http://www.kiendlerhof.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Auf dem Rücken der Haflingerpferde wird Urlaub am Kiendlerhof zum Mega-Erlebnis!\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Our farm is located in the Ziller Valley on a beautiful hillside overlooking Mayrhofen. You can reach us by car or with the Ziller Valley Railway and the (ski) bus. As our guest, you spend the night in comfortable rooms that are tastefully decorated and yet remain traditional. We offer you cozy double rooms, triple rooms and apartments with stunning views of the valley to relax and unwind. For the culinary aspect, you can expect delicious Tyrolean cuisine. Our rich breakfast buffet is the perfect start for a relaxing holiday. Visit us in the beautiful Ziller Valley and spend your summer or winter holiday in a relaxed atmosphere at our Kiendlerhof .\nWe look forward to welcoming you!"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77e5fc70-b347-437d-8c97-09c0d12121b8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Kiendlerhof"
+        },
+        {
+          "@language": "de",
+          "@value": "Kiendlerhof"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kiendlerhof"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.kiendlerhof.at"
+  ]
+}

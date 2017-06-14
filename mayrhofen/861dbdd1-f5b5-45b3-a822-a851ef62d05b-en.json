@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gasthof Metzgerwirt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2219290235818",
+    "longitude": "11.8699389696121"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Metzgerwirt",
+    "streetAddress": "Laimach 190",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3059",
+    "email": "info@metzgerwirt-laimach.at",
+    "url": "http://www.metzgerwirt-laimach.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/70b069b0-b44a-4d47-afb0-bbe1a070fbbb/99/image.jpg",
+      "caption": "Metzgerwirt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86d03077-c8c7-40bf-ab26-67ea556be4aa/99/image.jpg",
+      "caption": "Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/57a2afb1-4281-40e9-a965-f20f0f34a3e5/99/image.jpg",
+      "caption": "Gedeckter Tisch"
+    }
+  ],
+  "url": [
+    "http://www.metzgerwirt-laimach.at"
+  ]
+}

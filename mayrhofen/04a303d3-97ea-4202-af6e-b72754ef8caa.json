@@ -1,0 +1,374 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.harakiri-bar.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d04A303D3-97EA-4202-AF6E-B72754EF8CAA"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Harakiri Lifestyle, Hotel Garni",
+    "streetAddress": "Hauptstraße 454",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 200 53 80 ",
+    "email": "info@harakiri-lifestyle.at",
+    "url": "www.harakiri-lifestyle.at"
+  },
+  "name": "Hotel Garni Harakiri Lifestyle",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Entspanne dich nach einem erlebnisreichen Sporttag in einem unserer trendig eingerichteten Zimmer im Zentrum von Mayrhofen! \n\nDu findest bei uns alles, was du für einen angenehmen Aufenthalt brauchst:\nmoderne Zimmer mit Dusche/WC/Föhn,... \nreichhaltiges Frühstücksbuffet \nBar-Lounge im Haus \nSkischule und Ski-/Snowboardverleih im Haus \nkostenloser Parkplatz im Freien (ca. 3 Gehminuten entfernt) \nTiefgarage direkt im Haus (gegen Gebühr) \nW-LAN \nPENKENBAHN ist nur ca. 100m entfernt\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Relax after an exciting sports day in one of our trendy furnished rooms in the centre of Mayrhofen! \nYou can find everything what you need for a pleasant stay: \nmodern rooms with shower/WC/hairdryer\nextensive breakfast buffet \nBar lounge in the house \nSki school and ski and snowboard rental company in the house \nfree parking bay outside (approx. 3 walking minutes ) \nUnderground parking directly in the house (against fee) \nW-LAN \nPENKENBAHN is only 100 m away\n"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "reviewCount": "57"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/209d8b0a-5f1d-49a2-84b0-5c255371fae0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Harakiri Mayrhofen - Sommer "
+        },
+        {
+          "@language": "en",
+          "@value": "Harakiri Mayrhofen - Sommer "
+        },
+        {
+          "@language": "ru",
+          "@value": "Harakiri Mayrhofen - Sommer "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/714a0451-56c7-4949-a9a1-61a89862c09a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Harakiri Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Harakiri Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Harakiri Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b7437d99-7a73-46ab-a08e-98234ff25b2a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Harakiri Mayrhofen - Winter2"
+        },
+        {
+          "@language": "en",
+          "@value": "Harakiri Mayrhofen - Winter2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Harakiri Mayrhofen - Winter2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1f159fda-f908-444f-acbe-3503ab170f69/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Harakiri Mayrhofen - Haus seitlich"
+        },
+        {
+          "@language": "en",
+          "@value": "Harakiri Mayrhofen - Haus seitlich"
+        },
+        {
+          "@language": "ru",
+          "@value": "Harakiri Mayrhofen - Haus seitlich"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2fe5763c-ebf3-424c-99af-bed681844569/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Harakiri Mayrhofen - Zimmer_3pax"
+        },
+        {
+          "@language": "en",
+          "@value": "Harakiri Mayrhofen - Zimmer_3pax"
+        },
+        {
+          "@language": "ru",
+          "@value": "Harakiri Mayrhofen - Zimmer_3pax"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5326fcc3-0884-4c6e-b641-1dacd1a2c5c6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Harakiri Mayrhofen - bar2"
+        },
+        {
+          "@language": "en",
+          "@value": "Harakiri Mayrhofen - bar2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Harakiri Mayrhofen - bar2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ed3ab42c-7479-4ea2-b78c-5f6f2a7b2d02/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Harakiri Mayrhofen - Bett Blau"
+        },
+        {
+          "@language": "en",
+          "@value": "Harakiri Mayrhofen - Bett Blau"
+        },
+        {
+          "@language": "ru",
+          "@value": "Harakiri Mayrhofen - Bett Blau"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/80c6f7d2-5264-4e6a-9da7-f1c6de68a821/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Harakiri Mayrhofen - Bett2"
+        },
+        {
+          "@language": "en",
+          "@value": "Harakiri Mayrhofen - Bett2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Harakiri Mayrhofen - Bett2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e661f88-2940-4fec-a8bc-49451d039bbf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Harakiri Mayrhofen - Bett Grün "
+        },
+        {
+          "@language": "en",
+          "@value": "Harakiri Mayrhofen - Bett Grün "
+        },
+        {
+          "@language": "ru",
+          "@value": "Harakiri Mayrhofen - Bett Grün "
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1648916506005",
+    "longitude": "11.8618547916412"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer, Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower, toilet"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер, душ, туалет"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Dreibettzimmer, Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "Triple room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на трех человек, shower, toilet"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "79.00",
+          "maxPrice": "99.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Vierbettzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "4-bed room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "4-местный номер, душ, туалет"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Vierbettzimmer, Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "4-bed room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "четырёхпостельный номер, shower, toilet"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "79.00",
+          "maxPrice": "99.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

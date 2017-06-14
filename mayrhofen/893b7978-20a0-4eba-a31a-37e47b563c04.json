@@ -1,0 +1,464 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d893B7978-20A0-4EBA-A31A-37E47B563C04",
+    "http://www.kiendlerhof.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kiendlerhof",
+    "streetAddress": "Schormis 100",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "+43 5282 3660",
+    "faxNumber": "+43 5282 3660",
+    "email": "kiendlerhof@aon.at",
+    "url": "http://www.kiendlerhof.at"
+  },
+  "name": "Kiendlerhof",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Sie werden sich beim Kiendlerhof ganz bestimmt wohlfühlen. Wir bieten Ihnen Doppel- und Dreibettzimmer mit Dusche/WC und teilweise auch mit Balkon. Unser reichhaltiges Frühstücksbuffet mit regionalen Produkten sorgt für einen idealen Start in den Urlaubstag. Nach Wunsch verwöhnen wir Sie gerne auch am Abend mit gutbürgerlicher Küche. Der Bauernhof liegt in ruhiger, sonniger und zentraler Lage im Herzen des hinteren Zillertales. Der Dorfkern von Hippach und auch von Schwendau ist in wenigen Gehminuten gut erreichbar. Der Skibus hält vor dem Kiendlerhof und bringt Sie in zwei Minuten zur Talstation der Horbergbahn, welche zum Großraumskigebiet der Mayrhofner Bergbahnen gehört.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Preise inklusiv Endreinigung, Kinderermässigung auf Anfrage"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in 15.00 Uhr - Check out 10.00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "You will feel at home certainly when Kiendlerhof. We offer double and triple rooms with shower / WC and some with balcony. Our rich breakfast buffet with regional products makes for an ideal start to the day. If desired, we will spoil you in the evening with home cooking. The farm is located in a quiet, sunny and central location in the heart of the Zillertal valley. The village of Hippach and Schwendau is well within walking distance. The ski bus stops in front of the Kiendlerhof and brings you in two minutes to the Horbergbahn, which belongs to the large ski area of the Mayrhofen mountain railways.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "prices incl. final cleaning, children reduction on request"
+    },
+    {
+      "@language": "en",
+      "@value": "Check-in: 3pm\nCheck-out: 10am"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ecc3676-61b2-43db-8b7f-6fc176d57d51/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kiendlerhof Schwendau - Sommer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Kiendlerhof Schwendau - Sommer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kiendlerhof Schwendau - Sommer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04cf718b-0126-4ab7-af91-983a66be2fe8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kiendlerhof Schwendau - Sommer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Kiendlerhof Schwendau - Sommer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kiendlerhof Schwendau - Sommer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca59f3fb-41e8-4ac8-9224-aaee234b66f6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kiendlerhof Schwendau - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Kiendlerhof Schwendau - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kiendlerhof Schwendau - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/717eab99-9c87-48b1-aed1-9a75b2ade93b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Brunnen Kiendlerhof"
+        },
+        {
+          "@language": "en",
+          "@value": "Brunnen Kiendlerhof"
+        },
+        {
+          "@language": "ru",
+          "@value": "Brunnen Kiendlerhof"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4b702824-0555-4047-90ca-fdf70662245d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kiendlerhof Schwendau - Kreuz"
+        },
+        {
+          "@language": "en",
+          "@value": "Kiendlerhof Schwendau - Kreuz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kiendlerhof Schwendau - Kreuz"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/661bb03c-b1a1-46cd-bc69-ab400aef7193/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kiendlerhof Schwendau - Tafel"
+        },
+        {
+          "@language": "en",
+          "@value": "Kiendlerhof Schwendau - Tafel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kiendlerhof Schwendau - Tafel"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f12938b9-32a2-49e2-8bde-b9a15e967d47/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kiendlerhof Schwendau - Hofhund"
+        },
+        {
+          "@language": "en",
+          "@value": "Kiendlerhof Schwendau - Hofhund"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kiendlerhof Schwendau - Hofhund"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5da45ba-1461-4cb9-b86c-d13e3c8d4aab/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kutschenfahrten"
+        },
+        {
+          "@language": "en",
+          "@value": "Kutschenfahrten"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kutschenfahrten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/90823bbe-a095-413b-ad20-29049bcbc058/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kiendlerhof Schwendau - Kutschfahrten"
+        },
+        {
+          "@language": "en",
+          "@value": "Kiendlerhof Schwendau - Kutschfahrten"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kiendlerhof Schwendau - Kutschfahrten"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1d7e57b9-7874-4d1e-a584-a0558192f682/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kiendlerhof Schwendau - Pferde"
+        },
+        {
+          "@language": "en",
+          "@value": "Kiendlerhof Schwendau - Pferde"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kiendlerhof Schwendau - Pferde"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5f827fe2-4d35-4fa8-bc77-d46e175bef7c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kiendlerhof Schwendau - Haflinger"
+        },
+        {
+          "@language": "en",
+          "@value": "Kiendlerhof Schwendau - Haflinger"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kiendlerhof Schwendau - Haflinger"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2fb15541-b035-46b3-b374-742a4bc84fd3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Kiendlerhof Schwendau - Tiere"
+        },
+        {
+          "@language": "en",
+          "@value": "Kiendlerhof Schwendau - Tiere"
+        },
+        {
+          "@language": "ru",
+          "@value": "Kiendlerhof Schwendau - Tiere"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2011071173676",
+    "longitude": "11.863431930542"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung für 6 – 7 Personen; Größe: 70m²\n3 Schlafzimmer, Haustiere erlaubt\nMayrhofen ca. 3 km, Ortsmitte von Hippach ca. 300 m entfernt\nPiste/Lift: Horbergbahn ca. 1 km, Skibushaltestelle ca. 20 m\nAusstattung: Sat-TV, Balkon, Küche\nEinrichtung: feriengerecht, freundlich, Holzdielenboden\nWohnküche: Küchenausstattung: 4 Platten, Backofen, Geschirrspüler, Kühlschrank, Kaffeemaschine, Wasserkocher separat, Sitzcouch\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment for 6 - 7 people; Size: 70m²\n3 bedrooms, pets allowed\nMayrhofen 3 km, town center of Hippach approx 300 meters\nPiste / lift: Horberg 1 km, ski bus stop about 20 m\nAmenities: satellite TV, balcony, kitchen\nMeans: vacation needs, friendly, wooden floor\nKitchen: Kitchen equipment: 4 electric plates, oven, dishwasher, refrigerator, coffee maker, kettle separately, couch"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/3 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/3 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "110.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "115.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer für 2-3 Personen, 20m²\nHaustiere erlaubt, Sat-TV, Balkon, Bad mit Dusche\nNächster Ort/Stadt: Mayrhofen ca. 3 km, Ortsmitte von Hippach ca. 300 m\nHorbergbahn ca. 1 km, Skibushaltestelle ca. 20 m\nEinrichtung: feriengerecht, freundlich, Holzdielenboden\nWahlweise Abendessen\n\n\nZimmer Einrichtung:\nBalkon\nFrühstück\nSat-TV\n\nDoppelzimmer mit Dusche/WC, Balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "Double Room for 2-3 people, 20m²\nPets allowed, satellite TV, balcony, bathroom with shower\nNearest Town / City: Mayrhofen 3 km, town center of Hippach 300 m\nHorberg 1 km, ski bus stop about 20 m\nMeans: vacation needs, friendly, wooden floor\nOptional dinner"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppel-Dreibettzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

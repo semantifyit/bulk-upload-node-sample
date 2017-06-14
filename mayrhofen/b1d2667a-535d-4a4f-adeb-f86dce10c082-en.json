@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": "Allgemeinmediziner Dr. Alois Dengg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1839668237036",
+    "longitude": "11.8729323148727"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hollenzen 100",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 629920",
+    "faxNumber": "0043 5285 629924",
+    "email": "dr.alois.dengg@aon.at",
+    "url": "http://www.draloisdengg.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/35ce240c-e910-4b03-8f31-ac7b5692ede7/99/image.jpg",
+      "caption": "Haus "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a7410576-a518-4e20-8c3b-bda66c6a9579/99/image.jpg",
+      "caption": "Praxis"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d5b33a27-c604-4196-962a-985e3dd9260d/99/image.jpg",
+      "caption": "Dr. Alois Dengg"
+    }
+  ],
+  "url": [
+    "http://www.draloisdengg.at"
+  ]
+}

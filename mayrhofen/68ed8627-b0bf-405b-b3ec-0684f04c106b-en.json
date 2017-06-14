@@ -1,0 +1,145 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.troppmair.ag.vu",
+    "http://maps.mayrhofen.at/?foreignResource\u003d68ED8627-B0BF-405B-B3EC-0684F04C106B"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laimach 112",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2470",
+    "faxNumber": "0043 5282 2470",
+    "email": "haustroppmair@aon.at"
+  },
+  "name": "Troppmair Brigitte",
+  "description": [
+    "Our guesthouse is situated in sunny and quiet position in Laimach about 1 km from the center and 5 km from Mayrhofen and 2 km from Zell am Ziller away. The skibusstop is 50m next to house, the skibus brings you to the mainskiing areas Mayrhofen, Zell am Ziller....\nParking lot is directly next to the house, roll service is possible, 2 peds are allowed on request, in gound floor you find a big terasse, 2 WC, big lounge with bar, refrigator, dish-washer, Sat-TV and a kitchen.\n\n",
+    "children until 2 yeras payless",
+    "Check in 16.00 - Check out 09.00"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02f489db-ffa1-4cde-ab6a-9d51262e3cca/99/image.jpg",
+      "caption": "Brigitte Troppmair Hippach - Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/adb77790-95f4-4cd5-ac30-317eecca02f0/99/image.jpg",
+      "caption": "Brigitte Troppmair Hippach - Winterbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ada72932-db3e-4e5a-8817-594dda973c70/99/image.jpg",
+      "caption": "Brigitte Troppmair Hippach - Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3817f73-ae15-4657-af7e-80015e466581/99/image.jpg",
+      "caption": "Brigitte Troppmair Hippach - Tische"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2162488138964",
+    "longitude": "11.8658030033112"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, running hot/cold water",
+      "description": "terasse with big lounge, doubleroom with running hot/cold water",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with running hot/cold water",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "doubleroom with shower/WC, partly with balcony, extendet breakfast",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Holiday home, shower and bath, toilet, 4 or more bed rooms",
+      "description": "holiday house, 1 livingkitchen with dishwasher, Sat-TV and refrigerator, lounge with 60m², 15 bedrooms - 12 with shower/WC and balcony and 3 rooms with running hot/cold water, skibusstop 50m from the house, second kitchen in the 2nd floor\n\nadditional expenses € 20,--/person/week",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "hol. house/4 + more bedrooms/shower,bath",
+          "numberOfRooms": "15.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "38",
+            "minValue": "20"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 2 bed rooms",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/bath tube, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

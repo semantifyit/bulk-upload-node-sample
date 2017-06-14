@@ -1,0 +1,155 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dD069E6AF-98EB-4B60-AD36-5DC77BB0428D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hochmuth",
+    "streetAddress": "Oberbichl 715",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 20209",
+    "email": "appartement-hochmuth@aon.at",
+    "url": "http://www.appartement-hochmuth.at"
+  },
+  "name": "Hochmuth Claudia",
+  "description": [
+    "\nA new built house with a comfortable apartment \ncentral, quiet and sunny situation. \nSki bus stop 2 minutes away from the house, ski lifts and cross-country skiing cross-country trail in the near from the house.\n\nAPPARTMENT 4-5 people: big completely furnished kitchen with dishwasher, ceran field, microwave,  . . . 1 double room, 1 three-bed room, shower / WC , seperated WC, south balcony\n\n\nAPPARTMENT 2-4 people: completely furnished kitchen with dishwasher, Ceran field, microwave. . . \n2 double rooms, shower / WC, seperated WC, big south balcony. . .\n\n",
+    "Check In:  15.00 Uhr\nCheck Out: 09.00 Uhr\n\nDeposit: 100 euros per week.\nIf you cancel the reservation, the made deposit is valid as a cancelation fee!\n",
+    "Check-in: 3pm\nCheck-out: 9am"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fb3912f6-b177-4478-a9fa-03db3bf366c6/99/image.jpg",
+      "caption": "Claudia Hochmuth Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6c870cd-0be2-4740-bda2-2fa5b7c206b9/99/image.jpg",
+      "caption": "Claudia Hochmuth Ramsau - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/796244b5-72c1-4787-87f5-abab24548bac/99/image.jpg",
+      "caption": "Claudia Hochmuth Ramsau - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f778fd7-8a8c-4088-ada8-caf93e46a30b/99/image.jpg",
+      "caption": "Claudia Hochmuth Ramsau - Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cbbe4163-cce3-4589-9bdb-b622606ea374/99/image.jpg",
+      "caption": "Claudia Hochmuth Ramsau - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3bc550f1-ac50-4263-9cf2-9f4d2735dc5b/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17ff7673-8d1d-4add-a0dc-d108d2abfacb/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa406dd2-f7ac-4b48-b611-ec4b371a7407/99/image.jpg",
+      "caption": "Wandern am Stausee © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/757a0f4c-e9de-42ec-9557-06e9a1b99f55/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ee98d3aa-e1b0-4e05-8115-b5babf1b7ce9/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/371b92c0-f44e-46cb-ba2d-d6f14de47e08/99/image.jpg",
+      "caption": "Winter am Berg © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/591b7778-7229-4cb5-b5f0-75aec0dd46ea/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/92456eab-3455-41f9-9f13-9a2d69019293/99/image.jpg",
+      "caption": "Zillertaler Jause © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3cf7e2a6-a8d2-48c6-9eda-e03c34ee9604/99/image.jpg",
+      "caption": "Klettersteig © Bernd Ritschel"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1910904508287",
+    "longitude": "11.8712371587753"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "Appartement for 2-4 persons\nanteroom, shower/WC and one WC extra, 2 doubleroom, fully equipped kitchen, SAT-TV, big balcony, towels and bedlinen are available",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "Appartement for 2-7 persons, anteroom, shower/WC and one WC separate;\n1 doubleroom, 1 tripleroom, fully equipped kitchen, living-room, balcony, towels and bedlinen available ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

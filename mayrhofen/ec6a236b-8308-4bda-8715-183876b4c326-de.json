@@ -1,0 +1,76 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dEC6A236B-8308-4BDA-8715-183876B4C326"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendberg 422",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 22031",
+    "faxNumber": "(0043) 5282 22031",
+    "email": "wernerkogelnig@aol.com"
+  },
+  "name": "Haus Hochwies",
+  "description": [
+    "Unser Haus liegt an der Zillertaler Höhenstraße auf ca. 100m inmitten der Zillertaler Alpen. Mit einem wunderschönen Ausblick auf das Zillertal, könnten wir das ideale Urlaubsziel sein. Die Bushaltestelle ist direkt unterhalb der Hauszufahrt. Im Winter bringt Sie der Skibus direkt ins Skigebiet der Mayrhofner Bergbahnen (Penken, Horberg). Während der Sommermonaten können Sie mit dem Bus direkt in die wunderschöne Bergwelte der Zillertaler Alpen zum Melchboden gelangen. Der Melchboden ist ein Plateau auf 2000m, von dort haben Sie zahlreiche Möglichkeiten ausgedehnte Wanderungen zu starten oder einfach die herrliche Aussicht genießen und den Paraglidern beim Start zu zusehen. \n",
+    "Check in: 13.00 - Check out: 10.00\nSollten Sie nach 18 Uhr anreisen bitten wie Sie, uns dies vorher kurz telefonisch mitzuteilen.\n",
+    "Über die Inntalautobahn A12 bis zur Ausfahrt Zillertal und von dort noch 30 km auf der Zillertal Bundesstraße Nr. B169 bis nach Hippach - Schwendberg. In der Gemeinde Ramsau biegen Sie an der Ampel nach der Shell Tankstelle rechts ab. Dann überqueren Sie die Bahngleise und fahren bis zum ersten Abzweig gerade aus. An diesem Abzweig biegen Sie wieder rechts ab und folgen diese Straße ca. 500m. dann teilt sich die Straße und dort biegen Sie dann links ab und folgen dem Straßenverlauf ca. 4km bergauf. In der 5. Kehre liegt linker Hand der Ortsteil Gruben, dort gibt es 2 Abteilungen - die erste führt bergab und die zweite bergaub welche die Zufahrt zum Haus ist."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0accb678-e0bf-404e-b3e6-20af473634c1/99/image.jpg",
+      "caption": "Haus Hochwies Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1bfba64-2830-4093-a0ad-e66568b6e0cb/99/image.jpg",
+      "caption": "Haus Hochwies Hippach - Bushalestelle - Anfahrt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1743af6-2133-4ca0-9334-9c5ba8501024/99/image.jpg",
+      "caption": "Haus Hochwies Hippach - Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ff120ba-316f-404e-afdd-7126787aa54f/99/image.jpg",
+      "caption": "Haus Hochwies Hippach - Ausblick"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2095556",
+    "longitude": "11.8536425"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, 1 Schlafraum",
+      "description": "2 Zimmer Ferienwohnung ca. 50m² mit einem Schlafzimmer mit Doppel- uns Stockbett, ein Wohnschlafzimmer mit TV, Blur Ray DVD Player, Stereoanlage, W-Lan, eine voll ausgestattete Küche mit Kaffeeautomat, ein schönes großes Bad mit Palme. Die Wohneinheit hat einen separaten \nEingang und einen PKW Stellplatz.\nSkischuhtrockner und Skiraum sind vorhanden.\nBrötchenservice bei Bedarf. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, 1 Schlafraum",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

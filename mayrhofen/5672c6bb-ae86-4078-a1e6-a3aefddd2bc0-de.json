@@ -1,0 +1,162 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness",
+    "Hostel"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsberg 853",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 1127837",
+    "email": "hoellwarth.gottfried@aon.at"
+  },
+  "name": "Ferienhütte Hannes",
+  "description": [
+    "Unsere schöne, neu renovierte und voll ausgestattete Ferienhütte liegt im Herzen des Zillertales und bietet Platz für maximal 6 Personen.\nUnsere Ferienhütte liegt auf ca. 850m Seehöhe am Ramsberg. Das Haus ist das ganze Jahr über problemlos mit dem Auto zu erreichen. Ein kostenloser Skibus hält ca. 250m von unserem Haus entfernt und bringt unsere Gäste bequem in die umliegenden Skigebiete der Mayrhofner Bergbahnen, Zillertal Arena, Hintertuxer Gletscher,...\n\n\n\nGeeignet für:\nFür Kinder geeignet \nNichtraucherdomizil \nHaustiere möglich \nNicht Rollstuhlgeeignet \n",
+    "Hunde: 35,00 Euro"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "22"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/982106e7-082c-4bfc-ac87-abb373e91661/99/image.jpg",
+      "caption": "Ferienhütte Hannes Ramsberg - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/92f33cf8-1b05-4c8f-bcdd-6f621d2b1776/99/image.jpg",
+      "caption": "Ferienhütte Hannes Ramsberg - Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a424809b-abb1-480e-a657-6f582cfce2e4/99/image.jpg",
+      "caption": "Ferienhütte Hannes Ramsberg - Balkon Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f2ebdc00-6d22-432b-8dff-27513d60b69a/99/image.jpg",
+      "caption": "Ferienhütte Hannes Ramsberg - Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2a6a5673-2e42-40f7-84c9-e00287fe4120/99/image.jpg",
+      "caption": "Ferienhütte Hannes Ramsberg - Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a98b5332-978f-4eac-b88d-3c2e9dbcdd30/99/image.jpg",
+      "caption": "Ferienhütte Hannes Ramsberg - Küche 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/780262b3-d27c-4a36-88b5-43747ee618d0/99/image.jpg",
+      "caption": "Ferienhütte Hannes Ramsberg - Küche 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d6d7326f-b621-4195-b937-6dbcb0dead3c/99/image.jpg",
+      "caption": "Ferienhütte Hannes Ramsberg - Essecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1f78e027-a580-4d82-aa6b-cf62b1df6262/99/image.jpg",
+      "caption": "Ferienhütte Hannes Ramsberg - Schlafzimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b81182cf-98c2-44d1-9de9-9317602fc1d3/99/image.jpg",
+      "caption": "Ferienhütte Hannes Ramsberg - Schlafzimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf559401-ab8d-4248-818e-451554986235/99/image.jpg",
+      "caption": "Ferienhütte Hannes Ramsberg - Schlafzimmer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28a3d973-61ed-4325-b51d-b0af71f7f251/99/image.jpg",
+      "caption": "Ferienhütte Hannes Ramsberg - Gang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ace673a-2c53-48ef-88c5-47d5d87e6395/99/image.jpg",
+      "caption": "Ferienhütte Hannes Ramsberg - Badezimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2036382",
+    "longitude": "11.8857405"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Bad, WC, 2 Schlafräume",
+      "description": "Unsere schöne, neu renovierte und voll ausgestattete Ferienhütte liegt im Herzen des Zillertales und bietet Platz für maximal 6 Personen mit 1 Schlafzimmer mit 2 Doppelstockbetten für 4 Personen 1 Schlafzimmer mit Doppelbett. Eine gemütliche Terrasse, 2 Balkone laden zum Verweilen ein. \n\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhütte Hannes",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "100.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Prema Yoga"
+    },
+    {
+      "@language": "de",
+      "@value": "Prema Yoga"
+    },
+    {
+      "@language": "ru",
+      "@value": "Prema Yoga"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2108915",
+    "longitude": "11.8659928"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laimach 71",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 650 76 999 88",
+    "email": "prema1@live.at",
+    "url": "http://www.prema-yoga.at/"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Schön, dass dein Interesse an Yoga geweckt wurde!         \n\nWenn du Schmerzen im Rücken hast, dich nicht gut entspannen kannst, leichter und ruhiger atmen möchtest und dir mehr Beweglichkeit und eine bessere Haltung wünschst, dann bist du hier an der richtigen Adresse. "
+    },
+    {
+      "@language": "en",
+      "@value": "Thank you for your interest in Yoga!\n\nIf you have pain in your back, you can not relax well, you want to breathe more easily and calmly, and you want more agility and a better posture, then you are here at the right address.\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6a85bad1-2234-4458-a31f-862104e6c2f2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Prema Yoga"
+        },
+        {
+          "@language": "de",
+          "@value": "Prema Yoga"
+        },
+        {
+          "@language": "ru",
+          "@value": "Prema Yoga"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.prema-yoga.at/"
+  ]
+}

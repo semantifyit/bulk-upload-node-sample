@@ -1,0 +1,96 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.stiegenhaushof.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dE88FEC7E-7464-41B7-95E3-21F5FC80D670"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fankhauser, Landhaus",
+    "streetAddress": "Dorf 130",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63990",
+    "faxNumber": "0043 5285 63990",
+    "email": "info@stiegenhaushof.at",
+    "url": "http://www.stiegenhaushof.at/ueber-uns/landhaus-fankhauser.html"
+  },
+  "name": "Landhaus Fankhauser Maria",
+  "description": "Our country house offers an affectionately cultivated ambience in the village core of Schwendau in sunny situation with look at the Zillertaler Alps. Ideally for winter and summer vacation! ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8743c7b3-1226-430e-9f90-92d8b1bc30b6/99/image.jpg",
+      "caption": "Landhaus Fankhauser Schwendau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae907bcd-a880-4d6b-9af3-7128ed333405/99/image.jpg",
+      "caption": "Landhaus Fankhauser Schwendau - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.197371293106",
+    "longitude": "11.858875015351"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet",
+      "description": "nice and fully equiped kitchen diner with satellite TV, double room with extra bed, shower/WC, balcony, completely equipped, bed linen and hand towels available",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.liv.-bedroom/1 bedroom/bath,wc",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "all rooms with shower/WC, satellite TV and balcony, safe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

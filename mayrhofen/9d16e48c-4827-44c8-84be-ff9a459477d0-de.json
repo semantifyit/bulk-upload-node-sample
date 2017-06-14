@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ClothingStore"
+  ],
+  "name": "Simpl Life Company",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1667799",
+    "longitude": "11.8632175"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Simpl - Life Company",
+    "streetAddress": "Hauptstraße 435",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62796",
+    "email": "mayrhofen@simpl-life-company.net",
+    "url": "http://www.simpl-life-company.net/kontakt.php"
+  },
+  "description": "Hier treffen sich Lifestyle und Fashiontrends, hier treffen die neuesten Inventions der großen Modelables als erstes ein,\nhier ist das Lebensgefühl zu Hause.\nSimpl-Stores führen Marken von A wie “Ana Alcazar” bis Z wie “Zimtstern”. \nMode für jeden Geschmack und jede Brieftasche! \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9bd51ed4-020a-47ba-ba7e-c5ee77e7dfe3/99/image.jpg",
+      "caption": "Simpl"
+    }
+  ],
+  "url": [
+    "http://www.simpl-life-company.net/kontakt.php"
+  ]
+}

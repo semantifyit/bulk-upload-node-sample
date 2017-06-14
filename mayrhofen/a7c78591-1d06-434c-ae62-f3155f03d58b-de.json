@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore",
+    "BikeStore"
+  ],
+  "name": "Schiestl\u0027s Sport \u0026 Mode Ramsau",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2045038980325",
+    "longitude": "11.8693220615387"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schiestl\u0027s Sport \u0026 Mode",
+    "streetAddress": "Ramsau 437",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 4315",
+    "faxNumber": "(0043) 5282 4315 43",
+    "email": "info@sport-schiestl.at",
+    "url": "http://www.sport-schiestl.at"
+  },
+  "description": "Die Ski- \u0026 Snowboardschule Horberg bietet Ihnen ein umfangreiches Kursangebot. Damit sollte für jeden Sportler, der sich im Skilauf oder auf dem Snowboard individuell verbessern möchte, das passende Angebot dabei sein. Die intensivste und damit schnellste Form des Lernens bieten sicherlich unsere Privatkurse für Ski oder Snowboard - wir informieren Sie gerne über die umfangreichen Möglichkeiten dazu.\n\nAndreas Schiestl,\nLeiter der Ski- \u0026 Snowboardschule Horberg",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1a75baab-a77e-4448-a1a5-c356b33bf89a/99/image.jpg",
+      "caption": "sportgeschäft ramsau"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/141ae37a-0eb9-455f-9a34-ddb5b9381a90/99/image.jpg",
+      "caption": "logo"
+    }
+  ],
+  "url": [
+    "http://www.sport-schiestl.at"
+  ]
+}

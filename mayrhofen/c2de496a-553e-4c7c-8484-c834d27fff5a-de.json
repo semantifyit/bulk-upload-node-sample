@@ -1,0 +1,189 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dC2DE496A-553E-4C7C-8484-C834D27FFF5A",
+    "http://booking.mayrhofen.at/mayrhofen/de/accommodation/detail/ZIL/C2DE496A-553E-4C7C-8484-C834D27FFF5A/werner_dornauer"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hippach-Dorf 38",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3683",
+    "email": "werner.dornauer@aon.at",
+    "url": "http://booking.mayrhofen.at/mayrhofen/de/accommodation/detail/ZIL/C2DE496A-553E-"
+  },
+  "name": "Dornauer Werner",
+  "description": [
+    "Gemütliches Gästehaus in sehr zentraler Lage nur wenige Gehminuten von Bahnhof, Skiverleih... entfernt!",
+    "Preise verstehen sich inkl. Taxe\n",
+    "Check-in: 15.00\nCheck-out: 09.00"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3db65fb9-52cb-4adf-8fb0-1b5464cdab5a/99/image.jpg",
+      "caption": "Dornauer Werner Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ffe06e3-6271-41e7-8ec2-a2acf41bcea7/99/image.jpg",
+      "caption": "125850"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae92438e-682f-4820-9cbb-ae8c074cb816/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c190ed5a-8690-4c50-a69f-4ffeff1d70d9/99/image.jpg",
+      "caption": "bike mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/91bc0990-adb4-4e8c-bbf3-84e27489d80e/99/image.jpg",
+      "caption": "Bauer__Landwirt_Kulinarik_Brettljause_Wiese (Archi"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/938b299c-d9bb-4676-9ed4-f3884bfba9b0/99/image.jpg",
+      "caption": "Sommer wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d426fa5-ac20-4323-8c16-70feb8e42f72/99/image.jpg",
+      "caption": "Sommer_Gipfel_Panorama ("
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c14419d3-d733-476b-bbba-5c1ddee159ee/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d98c26c-0a3a-475a-ac67-4c8b7432d576/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a53a008b-ff41-4181-887d-e6e0871648b4/99/image.jpg",
+      "caption": "skifahrer-in-action"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2076526506496",
+    "longitude": "11.8658673763275"
+  },
+  "paymentAccepted": [
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Wohnküche mit Sat-TV, 10m² großer Balkon mit Blick ins Zentrum, Süd-Lage, 2 Schlafzimmer, 1 Badezimmer, Dusche-WC, 52m²,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "125.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Frühstückraum bzw. Aufenthaltsraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC, TV",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Reini\u0027s Taxi",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1687231",
+    "longitude": "11.8663143"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Reinis Taxi",
+    "streetAddress": "Dorf 46 ",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 650 463 7575",
+    "email": "reinis-taxi@aon.at",
+    "url": "www.reinis-taxi.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e44ea3cf-de8b-4f5d-92d6-d83e37c0edca/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.reinis-taxi.at"
+  ]
+}

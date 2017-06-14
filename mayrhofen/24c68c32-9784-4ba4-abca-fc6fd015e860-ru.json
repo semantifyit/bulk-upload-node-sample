@@ -1,0 +1,787 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hbhotel.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d24C68C32-9784-4BA4-ABCA-FC6FD015E860",
+    "https://www.youtube.com/embed/veCrXfsuqug"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Huber Gastro GmbH \u0026 CoKG",
+    "streetAddress": "Dornaustraße 612",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62569",
+    "faxNumber": "0043 5285 6252950",
+    "email": "info@hbhotel.at",
+    "url": "http://www.hbhotel.at"
+  },
+  "name": "Hubers Boutiquehotel",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "153"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f3ca010c-91ae-4b4f-9b11-73f8cb6474a4/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04834175-eb46-4c42-8844-e6a6dab32f6a/99/image.jpg",
+      "caption": "Huber\u0027s"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8b09475-6152-4d8e-80ff-2f280dcb3801/99/image.jpg",
+      "caption": "Hubers Boutiquehotel - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/174a09d4-aa2e-4264-820f-7a24eb752489/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen - Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c7dc11d-6880-43de-b79f-aa7d7142711c/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen - Abend"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/38fe4c4d-b46d-47d8-9699-7cecb585183c/99/image.jpg",
+      "caption": "Sommer 2 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68bd0185-f123-41ae-b565-a9340ed42601/99/image.jpg",
+      "caption": "Sommer 3 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/43ab747d-4aca-4e1f-a8ae-8b4970ce68c2/99/image.jpg",
+      "caption": "Innebereich "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60650b04-38aa-4bd4-9a71-64f40d8e0891/99/image.jpg",
+      "caption": "Tür in den Weinkeller bei Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca063b14-6c33-478f-bcc8-8c958f7ad7c8/99/image.jpg",
+      "caption": "Restaurant I"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f07240d1-d8c8-4515-b595-1630c41c39f6/99/image.jpg",
+      "caption": "Restaurant II"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a942a2d4-0c71-4e30-aac1-bb9d091d1f04/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen - Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c453ebc8-49c0-4284-b468-1eae2a86abb4/99/image.jpg",
+      "caption": "Stammtisch im Huber\u0027s"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e935c12d-910b-46af-87f5-bf42f854ba24/99/image.jpg",
+      "caption": "Boutiquezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ba3aed92-7fa5-43ba-b87f-0484649246ef/99/image.jpg",
+      "caption": "Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/967632da-999b-451a-b5ef-6e67ca0d5cad/99/image.jpg",
+      "caption": "Speisesaal I"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d3132903-bf5f-41df-93f2-598047ed0208/99/image.jpg",
+      "caption": "Dusche Boutique-Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c0b3679e-5413-47ba-a11f-43848f1dc6f5/99/image.jpg",
+      "caption": "Boutique-Mehrbettzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c111b68-29e2-4508-a95e-b6d6ca3450a1/99/image.jpg",
+      "caption": "Boutique-Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c08af1f-cd15-4a4a-8fe2-15a2d00c71c8/99/image.jpg",
+      "caption": "Boutique-Juniorsuite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/de8f0431-5d53-4279-9627-84f4f3acc4f9/99/image.jpg",
+      "caption": "Bad Boutique-Juniorsuite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2c9b2676-c66f-4a7d-89df-c8afd72f616f/99/image.jpg",
+      "caption": "Boutique-Suite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6eb1a97b-eea8-4207-972c-29d4219cc4d4/99/image.jpg",
+      "caption": "Impressionen Boutique Suite 57m² und 14m² Loggia"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e42aa783-2728-46b6-80a5-4cd848e83ceb/99/image.jpg",
+      "caption": "Impressionen Boutique -Suite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e81b699a-a7d6-4caa-93c8-0a32c4cc53ac/99/image.jpg",
+      "caption": "Aussicht Loggia Boutique-Suite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/82099ea0-a863-4874-a0f3-e7c4c6ca96a2/99/image.jpg",
+      "caption": "Klassik Doppel- Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4d05360-e8f0-4f50-92a2-907933be2989/99/image.jpg",
+      "caption": "Dusche Klassik Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9047ca0-d89b-4914-a628-12cadf9c5a1f/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen - Green Spa"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6906aaa0-90d5-466d-825b-e5c35179db89/99/image.jpg",
+      "caption": "Mehrbettzimmer Klassik"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1dcc852a-6eae-4189-960c-c5e152fb3c43/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen - Green Spa II"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0cae41b-d767-476e-a0e0-fd65321d6360/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen - Tisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e2120e56-3c85-470a-8d32-302af0006473/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen - Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13bb1e3a-1428-49e9-90b4-b54db9dc4ee4/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen - Aussenbereich 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68f425a1-2af5-416c-8bc3-e16c29c24dc3/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen - TerrasseII"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ad10aa9-b9c8-4f87-9e6c-87077f3d4115/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen - Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/757b90fc-f3ac-4506-a44e-9abb02808954/99/image.jpg",
+      "caption": "Küchenchef Klemens (Küchenzauberer)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/47e89fb8-732e-4f83-8911-b16b4ec0c2c0/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen - Käse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3e6f391a-3332-4d91-943e-30316f2af48c/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen - Marmelade"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d8555afe-cb81-408f-8bf2-4e77c7f4037b/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen-Aussicht Penkenbahn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ebf251c2-8ead-4372-8684-7301f3fb6419/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen - Wellnessbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/44163ad2-9836-441e-a78c-ee08de644e62/99/image.jpg",
+      "caption": "Hubers Boutiquehotel Mayrhofen - Frühstück"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/91943540-2a59-4dab-9b12-621dd5e1f94e/99/image.jpg",
+      "caption": "Hauptspeise Kulinarik"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa0a72f8-d05b-44f0-afba-d691b0347954/99/image.jpg",
+      "caption": "Jause"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8c85b341-aaad-4516-828a-31cc8aa28ae6/99/image.jpg",
+      "caption": "Zander auf Karottenpüree"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/68ac38d5-caa1-4ccf-ac74-01599a98e3c2/99/image.jpg",
+      "caption": "Rinderschnitte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/647d6fd8-a5e1-4488-85bf-fbae3ce2fccf/99/image.jpg",
+      "caption": "Süßer Abschluss"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1639032452385",
+    "longitude": "11.8595373630524"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "3-местный номер, Душевая кабина или ванна, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3-местный номер, Душевая кабина или ванна, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "апартамент, bath, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "апартамент, bath, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "комната на трех человек, shower or bath, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "комната на трех человек, shower or bath, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3-местный номер, Душевая кабина или ванна, туалет",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/bec2ab11-04cf-4314-b3ae-fb6957064d11/99/image.jpeg",
+              "caption": "Kennenlerntage "
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3-местный номер, Душевая кабина или ванна, туалет",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/e5c0b122-d676-4b8b-9049-194e4e76119a/99/image.jpg",
+              "caption": "Bergfrische "
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SCHNEEKRISTALLWOCHE, Mehrbettzimmer - Landhausstyl",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "137.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "137.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "233.00",
+          "maxPrice": "233.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "233.00",
+          "maxPrice": "233.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "539.00",
+          "maxPrice": "539.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "539.00",
+          "maxPrice": "539.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "880.00",
+          "maxPrice": "880.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "880.00",
+          "maxPrice": "880.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ и ванна, туалет, современные удобства",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "комната на двоих",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/cec3c8be-79ca-4495-83df-b1a72fe8123c/99/image.jpeg",
+              "caption": "Golf Special "
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SONNENSKILAUF, Boutique Zimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SCHNEEKRISTALLWOCHEN, Boutique Zimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ и ванна, туалет, современные удобства",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ и ванна, туалет, современные удобства",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "80.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "147.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "329.00",
+          "maxPrice": "329.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "883.00",
+          "maxPrice": "883.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1000.00",
+          "maxPrice": "1000.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ и ванна, Супериор",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ и ванна, Супериор",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ и ванна, Супериор",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "87.00",
+          "maxPrice": "157.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "3-местный номер, душ и ванна, Делюкс",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3-местный номер, душ и ванна, Делюкс",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3-местный номер, душ и ванна, Делюкс",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "95.00",
+          "maxPrice": "274.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "Zimmermann Erwin",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1598582508669",
+    "longitude": "11.8628311157227"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zimmermann Erwin",
+    "streetAddress": "Ahornstraße 863",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63757",
+    "email": "haus-emma@a1.net"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64615767-0fb6-4497-bee1-72183bd7a9dd/99/image.png",
+      "caption": "Holzschnitzer"
+    }
+  ]
+}

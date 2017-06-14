@@ -1,0 +1,91 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TennisComplex"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Tennisplätze Hotel Strass"
+    },
+    {
+      "@language": "de",
+      "@value": "Tennisplätze Hotel Strass"
+    },
+    {
+      "@language": "ru",
+      "@value": "Tennisplätze Hotel Strass"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1637863",
+    "longitude": "11.8610047"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport \u0026 Spa Hotel Strass Roscher KG",
+    "streetAddress": "Hauptstraße 470",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 6705",
+    "faxNumber": "0043 5285 63477",
+    "email": "info@hotelstrass.com",
+    "url": "http://www.hotelstrass.com"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Im Fun \u0026 Spa Hotel Strass in Mayrhofen haben Sie viele Möglichkeiten zur Unterhaltung. Für Sport und Spiel stehen Ihnen sowohl Indoor als auch Outdoor zahlreiche Anlagen und Programme zur Verfügung. Sie können das Techno-Gym aufsuchen und Squash, Tennis, Billard, Pit-Pat oder Tischtennis spielen. Es gibt auch eine Playstation und Computerspiele. Nutzen Sie Ihre speziellen Varianten für Fitness und Spaß im Sommerurlaub und denken Sie dabei auch an Wellness und Beauty!"
+    },
+    {
+      "@language": "en",
+      "@value": "In Fun \u0026 Spa Hotel Strass in Mayrhofen there are lots of entertainment options available. For sport and games there are numerous facilities available indoors and outdoors, and a programme of events. You can try the Techno-Gym equipment and play squash, tennis, snooker, Pit-Pat (mini-golf played with a snooker cue) or table tennis. There is also a play station and computer games. Take advantage of the special varieties on offer for fitness and fun during your summer holiday, and also try some of the wellness and beauty facilities!"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f2e45bcc-930a-4f15-881d-a338c2c6f205/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Hotel Strass"
+        },
+        {
+          "@language": "de",
+          "@value": "Hotel Strass"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hotel Strass"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd4c7134-7408-414e-b283-25e6c33537dc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Tennisplatz"
+        },
+        {
+          "@language": "de",
+          "@value": "Tennisplatz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Tennisplatz"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://",
+    "http://www.berghof.cc",
+    "http://",
+    "http://www.hotelstrass.com"
+  ]
+}

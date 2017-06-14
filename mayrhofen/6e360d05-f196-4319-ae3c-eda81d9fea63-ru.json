@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Landshuter Europahütte 2693m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "46.9971527364734",
+    "longitude": "11.580665409565"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landshuter Europahütte",
+    "streetAddress": "Frazione Caminata",
+    "addressLocality": "Pfitsch",
+    "postalCode": "39049 ",
+    "addressCountry": "IT",
+    "telephone": "(0039) 0472 646076 ",
+    "email": "info@europahuette.it",
+    "url": "www.europahuette.it"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/67f63e21-06a3-48fa-9422-2e79e329d8a5/99/image.jpg",
+      "caption": "Landshuter Hütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/437be2b8-5595-4ad0-9261-b525f7ce31b2/99/image.jpg",
+      "caption": "Europahütte"
+    }
+  ],
+  "url": [
+    "http://www.europahuette.it"
+  ]
+}

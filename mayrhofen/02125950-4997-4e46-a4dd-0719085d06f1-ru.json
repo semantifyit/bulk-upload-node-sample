@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Metzgerei Alois Kröll",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1656798",
+    "longitude": "11.8641437"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Metzgerei Alois Kröll",
+    "streetAddress": "Scheulingstraße 382",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62364",
+    "faxNumber": "0043 5285 64549",
+    "email": "info@kroell.at",
+    "url": "http://www.kroell.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84685245-5493-448b-ba0e-dd46e23aff6b/99/image.gif",
+      "caption": "Kröll"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ea461308-9e7b-4c55-bedf-0528bad2adb1/99/image.jpg",
+      "caption": "Wurst"
+    }
+  ],
+  "url": [
+    "http://www.kroell.at"
+  ]
+}

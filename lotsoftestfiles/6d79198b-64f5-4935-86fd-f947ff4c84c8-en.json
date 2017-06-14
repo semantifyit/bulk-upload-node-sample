@@ -1,0 +1,111 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.schmelzhuette.info",
+    "http://maps.mayrhofen.at/?foreignResource\u003d6D79198B-64F5-4935-86FD-F947FF4C84C8"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schmelzhütte, Ferienwohnung",
+    "streetAddress": "Stillupklamm 805",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 676 847144507",
+    "email": "office@schmelzhuette.info",
+    "url": "http://www.schmelzhuette.info"
+  },
+  "name": "Ferienwohnung Schmelzhütte",
+  "description": "Our house lies in very quiet situation at the edge of the forest and offers rest and relaxation. \nThe local centre is accessible on foot in 10 minutes\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e1817883-91c3-4bfb-9b88-6f00b500152e/99/image.jpg",
+      "caption": "Ferienwohnung Schmelzhütte Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/74ff8dfb-d178-4665-beab-1c0ca8aabdab/99/image.jpg",
+      "caption": "Ferienwohnung Schmelzhütte Mayrhofen - Sommer2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1578812344542",
+    "longitude": "11.8483901023865"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet",
+      "description": "The holiday apartments 2 \u0026 3; 3 are both in the attic and lie door with door.\nThere is the possibility to book both flats together for a group of 8 people.\nPlease, simply ask whether by your desired appointment both residential units are free.\nOther photos still follow!\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Kombination 2 \u0026 3 - 100m²",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap./combined living-bed-room/shower, WC",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/f97d7a75-3afa-493c-85a8-eb1936e50cb6/99/image.jpg",
+              "caption": "Winteransicht"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

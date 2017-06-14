@@ -1,0 +1,852 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://maps.google.com/maps/place?cid\u003d14284275553328289409",
+    "http://maps.google.com/maps/place?cid\u003d14284275553328289409",
+    "http://www.hotelviktoria.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d7E5A6507-055D-4364-AA53-B47FAD3B08AB"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Viktoria, Hotel Cafe",
+    "streetAddress": "Tuxer Straße 710",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62293",
+    "faxNumber": "0043 5285 64738",
+    "email": "info@hotelviktoria.at",
+    "url": "http://www.hotelviktoria.at"
+  },
+  "name": "Hotel Viktoria \u0026 Landhaus Joggl",
+  "description": [
+    "A WARM WELCOME! We reccommend our house as a well run family business with a comfortable Tyrolean atmosphere. Only a few minutes walk away from the lifts, cross country trails, tennis courts and adventure swimming pool. We pamper our guests with home grown products from our own farm. Special off season deals. The well equipped comfortable guest rooms provide for a pleasant stay. (Bath or shower, WC, living room with Sat-TV).",
+    "Included in price: Halfboard. Bed and breakfast available in summer! Pets: Free!",
+    "Check in: 13.00hr / Check out: 10.00 - 11.00hr.\nYou will reach Mayrhofen on the B169. Drive straight on at the roundabout, and turn left at Einfahrt Mitte in the direction of the town centre.  Turn right at the next junction in to the high street, and drive straight on, over the bridge and follow the Tuxerstrasse to the right. Pension Joggl can be found approx. 50m along on the right."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "127"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/679792a6-429c-43da-8982-91f3ac15517a/99/image.jpg",
+      "caption": "Hotel Viktoria \u0026 Landhaus Joggl - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14f12028-5c85-4678-9d35-ee7413bf35b8/99/image.jpg",
+      "caption": "Hotel Viktoria \u0026 Landhaus Joggl - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1f214104-5994-40f2-ae11-433889a4e6c5/99/image.jpg",
+      "caption": "Hotel Viktoria \u0026 Landhaus Joggl - Sommer 2 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d2a8434-ff5e-41f3-8945-d6e7993db953/99/image.jpg",
+      "caption": "Hotel Viktoria Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f09c9cc-5b24-44fb-a3e2-08da1225bb4b/99/image.jpg",
+      "caption": "Landhaus Joggl Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f359b047-53c2-4e03-bb4c-00ff94812074/99/image.jpg",
+      "caption": "Landhaus Joggl - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/758172bc-45aa-41eb-96fa-cd509d7ec859/99/image.jpg",
+      "caption": "WZ-Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2e33d05b-6217-4a03-b2a5-4dc6aa5fab80/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fbf08234-bc9c-414f-bb93-a9c8c6f51d81/99/image.jpg",
+      "caption": "Zimmer I"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b026b4c0-49da-4d9b-8b9d-903d6b992a1c/99/image.jpg",
+      "caption": "Garten I"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17e12c67-9c9b-4bc7-be38-aa34e31cc356/99/image.jpg",
+      "caption": "Ofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0aaa4543-bb4f-4eac-a217-edaf596136ae/99/image.jpg",
+      "caption": "Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7efeed3e-75fd-4a72-bcc0-b515c2a20908/99/image.jpg",
+      "caption": "Kuchen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b993d737-a765-4c2f-8396-d547476af27d/99/image.jpg",
+      "caption": "Essen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4b73b7b5-ac49-4b50-a57d-4ca5f26a8f04/99/image.jpg",
+      "caption": "Landhaus Zimmer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c93fc93e-4138-4a10-af7e-75b84c33d24e/99/image.jpg",
+      "caption": "Ansicht Zimmer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e17b9383-3392-4c16-8462-46b5d299ad5f/99/image.jpg",
+      "caption": "Ansicht Zimmer 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76de8358-a8f6-4ba5-a4f2-e0dc5ca7f9ab/99/image.jpg",
+      "caption": "Ansicht Zimmer 2 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f66aa3b1-efbb-4241-93df-1ffaf5f69e3b/99/image.jpg",
+      "caption": "Ansicht Zimmer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/45e16d7d-9e13-477b-a359-2da6673e36f7/99/image.jpg",
+      "caption": "Ansicht Zimmer 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b5e033e1-6972-4b29-a5bc-2c648a556349/99/image.jpg",
+      "caption": "Ansicht Zimmer 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2611107-fc3b-4a80-9713-a11ff273dceb/99/image.jpg",
+      "caption": "Stube (2)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c1f350d7-480b-455e-befb-5011578e8454/99/image.jpg",
+      "caption": "Appart. Finkenberg (9)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c90ef2c-eb96-4d57-8ce3-1706a308fe04/99/image.jpg",
+      "caption": "Appart. Penken (1)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cc53b68a-fbdf-421b-ab8c-4ce6a9cda323/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef857ff3-d9d4-40b2-8d60-2cc452ac419b/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f474f2b6-861e-46a8-b761-ecef2cf73a68/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a648df20-c8c1-4a4b-bb10-a8b41edfcd87/99/image.jpg",
+      "caption": "Gipfel © Paul Sürth"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3a349f52-2f01-40cf-9c0a-c03350773882/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4c3e0902-bf3d-4b14-9889-688aeff152ad/99/image.jpg",
+      "caption": "Schneeschuhwandern © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/61234c72-dd9a-4d91-b692-5bc7a4b7994a/99/image.jpg",
+      "caption": "Vans Penken Park © Dominic Berchtold"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4553832-ec4a-44c2-9a86-03d150234d8b/99/image.jpg",
+      "caption": "White Lounge am Genießerberg Ahorn © Frank Bauer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1619920328971",
+    "longitude": "11.8591779470444"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "Tyrolean-style furnished apartment with comfortable living room, at the Landhaus Joggl.\nprivate balcony\nfireplace\nseating Area\nbathtub\nkitchen block\nhairdryer\nWC\nSAT-TV\nvanity mirror\nWifi chargeable",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/fa319cdc-bdb0-4a24-8746-08038ffa1868/99/image.jpg",
+              "caption": "_DSC6119"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/17682df6-561e-4592-a1df-cf77c6db2a95/99/image.jpg",
+              "caption": "Appart Steinerkogel (20)"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/80a6b947-a46c-4d34-90b5-a67138130054/99/image.jpg",
+              "caption": "Appart Steinerkogel (3)"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "57.00",
+          "maxPrice": "86.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "57.00",
+          "maxPrice": "86.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "Apartment Ahorn for 4-6 persons at the Landhaus Joggl. 1ST FLOOR.\n\nSpacious, nice apartment with bay window seating area in a quiet sunny location\nWIFI surcharge",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "48.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "48.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "48.00",
+          "maxPrice": "76.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath, toilet, 2 bed rooms",
+      "description": "Apartment with 2 separate bedrooms, living room and seating area. Balcony, TV, fridge, fully equipped kitchen with coffee machine, pleasantly furnished, traditional tiled stove, shower, bath, separate WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower,bath tube,WC",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "50.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "50.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "50.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "Apartment BERGKRISTALL\nComfortable, generously furnished apartment with separate double rooms at the Landhaus Joggl.\nprivate balcony\n2 bathrooms\n3 WCs\nFöhn\u0027s\nSafe\u0027s\nFlat-TV\u0027s\nsmall kitchen\nvanity mirror\nWIFI surcharge",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/672e5314-b6f2-4211-b841-a3cac935c467/99/image.jpg",
+              "caption": "Appart Bergkristall"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/59ded098-9ed6-439a-8cc0-e8953652dc0b/99/image.jpg",
+              "caption": "Appart Bergkristall (12)"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/046b3738-c3cb-4f06-8e3e-c94cee21a393/99/image.jpg",
+              "caption": "Appart Bergkristall (10)"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/440d6642-b133-415f-89e7-49bc42a7e101/99/image.jpg",
+              "caption": "_DSC4938"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/0c5261ba-ace9-4dd8-891b-ca331448ab59/99/image.jpg",
+              "caption": "_DSC4949"
+            }
+          ],
+          "numberOfRooms": "7.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "54.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "54.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "54.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Single room, shower, toilet",
+      "description": "Single room with shower/WC, furnished in Tyrolean style. No balcony, Sat-TV when required.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "single room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "58.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, bath, toilet",
+      "description": "Double rooms furnished in Tyrolean style, with or withour separate living room, comfortable, all with TV and balcony. Bath/WC, some with separate WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "63.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Double rooms furnished in Tyrolean style, with or without separate living room, comfortable, with TV and seating area, balcony. SHower/WC, some with separate WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "65.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room",
+      "description": "Double room in Hotel Viktoria\n\nbalcony\nSAT-TV\nsafe\nshower\nWC\nhairdryer\nvanity mirror\nWIFI surcharge",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room",
+      "description": "Double rooms with a lounge area in the hotel Viktoria\n\nbalcony\nSAT-TV\nsafe\nShower or bath\nWC\nhairdryer\nSitting area / sofa\nvanity mirror\nWIFI surcharge",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room",
+      "description": "Double room \"Comfort\"\n\nComfortably furnished, modern double rooms at the Landhaus Joggl\n\nTerrace or balcony access\nSAT-TV\nsafe\nBath or Shower\nWC\ncouch\nWIFI surcharge",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/afcdbf7b-c537-41ee-8f0d-95f93df29b43/99/image.jpg",
+              "caption": "DZ-Komfort 29m² (7)"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/b200f4f2-0c54-41c4-937a-893985b3b3e5/99/image.jpg",
+              "caption": "DZ-Komfort 29m² (23)"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/36a5e168-35e3-4845-9c58-5c7f6041a0e1/99/image.jpg",
+              "caption": "DZ-Komfort 29m² (3)"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerpauschale, Doppelzimmer 29m²",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "162.00",
+          "maxPrice": "171.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "162.00",
+          "maxPrice": "171.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower or bath, toilet",
+      "description": "Double room with shower or bath, WC (some with separate WC), furnished in a Tyrolean style. With or without separate living room, comfortable, with TV and balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower or bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "84.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "84.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Family room",
+      "description": "Large double room with separate living / sleeping area\n\nprivate balcony\nSAT-TV\nsafe\nhairdryer\nshower\nWC separated\nvanity mirror\nseating Area\nfold-out couch\nWIFI surcharge",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Family room",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/56d0efd1-796d-458c-814f-3221032efde9/99/image.jpg",
+              "caption": "_DSC1595"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d5f4b515-3ce1-425a-9e4c-56b310ed24a5/99/image.jpg",
+              "caption": "_DSC1661"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/12f46d94-6565-40d5-9dce-9420d91e67a8/99/image.jpg",
+              "caption": "_DSC1582"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/39f2362c-4f1f-4b7e-9908-e109e8d18343/99/image.jpg",
+              "caption": "_DSC1629"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/f08a0db1-15ba-4076-9085-b05a7d99cc3c/99/image.jpg",
+              "caption": "_DSC6847"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Family room, shower and bath, toilet",
+      "description": "Family room: 2 separate rooms with connecting door. Recently built, in Tyrolean style with TV and balcony. Comfortable seating area, shower, bath and separate WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "family room with shower, bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "84.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "84.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "56.00",
+          "maxPrice": "84.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

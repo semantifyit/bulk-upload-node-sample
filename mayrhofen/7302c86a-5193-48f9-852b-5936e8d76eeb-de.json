@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Naturparkhaus Ginzling",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1003441299786",
+    "longitude": "11.810131072998"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Naturparkhaus Ginzling",
+    "streetAddress": "Ginzling 239",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "+43 5286 52181 ",
+    "faxNumber": "+43 5286 5218-4",
+    "email": "info@naturpark-zillertal.at",
+    "url": "http://www.naturpark-zillertal.at"
+  },
+  "description": [
+    "Im 2008 fertiggestellten Naturparkhaus sind die Verwaltung des Naturparks, die Ortsvorstehung Ginzling und die Alpin- und Regionalbibliothek untergebracht. Das Herzstück des Gebäudes ist jedoch die moderne und familiengerechte Erlebnisausstellung Gletscher.Welten \nDie Naturparkausstellung ist keine Ausstellung im herkömmlichen Stil! \nKeine Vitrinen, keine langweiligen Infotafeln und nirgendwo ein Schild mit der Aufschrift: „Bitte nicht berühren“. \nGanz im Gegenteil: die Besucher sollen hier im wahrsten Sinn des Wortes die Ausstellung angreifen, berühren und begreifen. An zahlreichen interaktiven, multimedialen Stationen begeben Sie sich auf die Suche nach einer vor Jahren verschollenen Expedition in den Zillertaler Alpen. \nGleichzeitig lernen Sie Wissenswertes und oft auch Verblüffendes aus der Geschichte der Region und über die Elemente der Natur: Wer waren die ersten Touristen im Zillertal? Welche Lebewesen findet man noch auf 3.000 m Seehöhe? Welches Geheimnis verbirgt sich im „Tauernfenster“? Und wo wird sich das Zillertal in 10 Millionen Jahren befinden? \nAntworten auf diese und viele weitere faszinierende Fragen gibt die Ausstellung kleinen und großen Besuchern, was sie auch besonders für Familien und Schulen attraktiv macht. \n\n\n",
+    "Mo-Do: 08.00-12.00 13.00-17.00 Uhr \nFr: 08.00-12.00 Uhr \nab 14. Juni täglich (auch am Wochenende) von 08.00-17.00 Uhr geöffnet.\n\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d5334059-5193-4b41-a2ff-a78fabc9b475/99/image.jpg",
+      "caption": "Naturpark "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6149a54f-5a12-4a87-b202-0c6884649384/99/image.jpg",
+      "caption": "Naturparkhaus Ginzling"
+    }
+  ],
+  "url": [
+    "http://www.naturpark-zillertal.at"
+  ]
+}

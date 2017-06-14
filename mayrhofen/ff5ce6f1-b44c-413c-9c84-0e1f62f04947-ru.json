@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Brewery"
+  ],
+  "name": "Schnapsbrennerei Klammsteinhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1926799",
+    "longitude": "11.8523958000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Klammsteinhof",
+    "streetAddress": "Kleinschwendberg 272",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62915",
+    "faxNumber": "0043 5285 62915",
+    "email": "info@klammsteinhof.at",
+    "url": "http://www.klammsteinhof.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a17400b-9d70-4142-966a-1352ab7c5b4d/99/image.jpg",
+      "caption": "Klammsteinhof"
+    }
+  ],
+  "url": [
+    "http://www.klammsteinhof.at"
+  ]
+}

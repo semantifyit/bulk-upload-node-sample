@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ElectronicsStore"
+  ],
+  "name": "Elektro Lechner",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1628599",
+    "longitude": "11.8605594"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Elektro Lechner",
+    "streetAddress": "Hauptstraße 478",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62319",
+    "faxNumber": "0043 5285 63805",
+    "email": "lechner@elektroring.com",
+    "url": "http://www.elektrolechner.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a611d1eb-9e81-476e-854b-873409e8e5a5/99/image.jpg",
+      "caption": "Elektro Lechner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97de290d-4503-4674-a29f-8e475a450488/99/image.png",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.elektrolechner.at"
+  ]
+}

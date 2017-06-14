@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": "Anniversary celebration: 25 Years Marc Pricher ",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Marc",
+      "familyName": "Pircher"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "  ",
+      "telephone": "+43 664 3932478",
+      "email": "info@marcpircher.at",
+      "url": "http://www.marcpircher.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "  ",
+      "telephone": "+43 664 3932478",
+      "email": "info@marcpircher.at",
+      "url": "http://www.marcpircher.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db37fbb5-f454-46a6-b327-868b9ed476c5/99/image.jpg",
+      "caption": "Marc Pircher"
+    }
+  ],
+  "url": [
+    "http://www.marcpircher.at/mapi-fest/"
+  ],
+  "startDate": "2017-06-05T00:00:00",
+  "endDate": "2017-06-11"
+}

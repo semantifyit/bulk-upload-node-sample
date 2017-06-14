@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Grillkuchl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.165122",
+    "longitude": "11.8619345"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Grillkuchl",
+    "streetAddress": "Hauptstraße 452",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c59ff0f2-d5d2-465c-aa6a-dc0f9f638f91/99/image.jpg",
+      "caption": "Grillkuchl 2"
+    }
+  ]
+}

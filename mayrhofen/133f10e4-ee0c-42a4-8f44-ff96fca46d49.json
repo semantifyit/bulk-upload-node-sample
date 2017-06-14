@@ -1,0 +1,123 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Penkenjochhaus 2095m - Penken/Horberg"
+    },
+    {
+      "@language": "de",
+      "@value": "Penkenjochhaus 2095m - Penken/Horberg"
+    },
+    {
+      "@language": "ru",
+      "@value": "Penkenjochhaus 2095m - Penken/Horberg"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1685350967558",
+    "longitude": "11.8000030517578"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Penkenjochhaus",
+    "streetAddress": "Penken 629",
+    "addressLocality": "Finkenberg",
+    "postalCode": "6292",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63345",
+    "email": "ma.wechselberger@gmx.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Restaurantbetrieb mit gutbürgerlicher Küche, herrlicher Ausblick aufdie Zillertaler- und Tuxer Alpen, direkt an der Bergstation der Finkenberger Almbahnen"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\nca. 03. Dezember 2016\n\nkeine Übernachtung möglich \n"
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nfrom 03. December 2016 \n\nno overnight stay possible "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/deba9d13-fa79-4657-a938-2d53f66e34b6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Hütte Sommer"
+        },
+        {
+          "@language": "de",
+          "@value": "Hütte Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hütte Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9d27d045-0db4-4a5e-a291-39422bcedc27/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Hütte Winter"
+        },
+        {
+          "@language": "de",
+          "@value": "Hütte Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hütte Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b87a995d-be34-45fa-9c55-01b3abe06202/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Winter"
+        },
+        {
+          "@language": "de",
+          "@value": "Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db12b617-4583-4493-8bd7-c019decd85d1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Ausblick"
+        },
+        {
+          "@language": "de",
+          "@value": "Ausblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ausblick"
+        }
+      ]
+    }
+  ]
+}

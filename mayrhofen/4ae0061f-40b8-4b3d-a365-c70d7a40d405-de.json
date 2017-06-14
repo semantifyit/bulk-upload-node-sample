@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Kunsteisbahn Mayrhofen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1642679726054",
+    "longitude": "11.864687204361"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Eislaufplatz Mayrhofen",
+    "streetAddress": "Waldbadstrasse 539",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 64000-20",
+    "email": "info@erlebnisbad-mayrhofen.at"
+  },
+  "description": "Eislaufen\nauf der Kunstbahn in Mayrhofen\nEislaufen macht der ganzen Familie Spaß. In der Ferienregion Mayrhofen-Hippach im Zillertal gibt es eine Kunsteislaufbahn - auch Eishockey ist hier möglich.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b0a2cfc9-08c4-47e5-815f-968142b97c09/99/image.jpg",
+      "caption": "eislaufen 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ee5e175-fdb0-47cb-9564-1d83cb684498/99/image.jpg",
+      "caption": "eislaufen 2"
+    }
+  ],
+  "url": [
+    "http://www.mayrhofen.at/winter-urlaub-ferien-familie/abseits-der-piste/"
+  ]
+}

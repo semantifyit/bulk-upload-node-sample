@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Drei Linden",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1989566824231",
+    "longitude": "11.8653309345245"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Drei Linden",
+    "streetAddress": "Lindenstraße",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02bd5e10-be17-4e96-bd11-e6d3ea7dcb62/99/image.jpg",
+      "caption": "Drei Linden"
+    }
+  ],
+  "url": [
+    "http://www.schwendau.at/index.php?option\u003dcom_content\u0026view\u003darticle\u0026id\u003d62\u0026Itemid\u003d109"
+  ]
+}

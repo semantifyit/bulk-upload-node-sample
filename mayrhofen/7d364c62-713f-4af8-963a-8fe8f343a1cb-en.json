@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Alpengasthof In der Au 1269m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.122003",
+    "longitude": "12.0096749"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "In der Au",
+    "streetAddress": "Zillergrund 69",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5289 214"
+  },
+  "description": "Summer\n25. May 2017 \nno rest day\novernight stay possible",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/558f7136-a825-4a2b-a50f-b8b5ca320929/99/image.jpg",
+      "caption": " in der Au"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3021b683-441d-4adf-a872-5b3b01d62afc/99/image.jpg",
+      "caption": "in der Au "
+    }
+  ],
+  "url": [
+    "http://www.zillergrund.com/betriebe.htm"
+  ]
+}

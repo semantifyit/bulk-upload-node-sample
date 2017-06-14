@@ -1,0 +1,270 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-tyrol.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d930A9236-17F6-4FA3-A41B-151DC721F3FD"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tyrol, Landhaus",
+    "streetAddress": "Tuxer Straße 750",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 4247533",
+    "faxNumber": "0043 5285 62458",
+    "email": "info@landhaus-tyrol.at",
+    "url": "http://www.landhaus-tyrol.at"
+  },
+  "name": "Landhaus Tyrol",
+  "description": [
+    "Landhaus Tyrol - hier wird noch Wert gelegt auf persönliche Betreuung, weil Komfort selbstverständlich ist. Damit Sie sich wohlfühlen - einen ganzen Urlaub lang und immer gerne daran zurückdenken! Wählen Sie zwischen unseren beiden gemütlich ausgestatteten Wohnungen (2-8 Personen) im südlichen Ortsrand von Mayrhofen mit herrlichem Blick auf das Bergpanorama. Die Bushaltestellen sind in nächster Nähe. Zu Fuß ist man in 10 Minuten an der Bergbahn. Idealer Ausgangspunkt für viele Wanderungen. Ein s",
+    "Inklusive: Sat-TV, Kaffeemaschine, Wasserkocher, Mikrowelle, gesamte Wäsche, Geschirr, Skischuh- und Trockenraum für Sportutensilien, Gitterbett, Fön, Geschirrspülmaschine \nExklusive: Endreinigung\nW-Lan ist kostenlos verfügbar!",
+    "Von der B169 Bundesstraße kommend beim Kreisverkehr und Bahnhof vorbei, folgen Sie einfach der Straße (am Feuerwehrhaus vorbei) bei der Einfahrt nach der Esso-Tankstelle (Einfahrt Süd) links einbiegen, 200 m weiter auf der linken Seite - LH Tyrol."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "33"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/520470b8-392a-41f0-af74-ea4f652a235c/99/image.jpg",
+      "caption": "Landhaus Tyrol - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13a113a5-242e-46bf-b4e7-f1f095e5895a/99/image.jpg",
+      "caption": "Landhaus Tyrol - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b726de15-7d6e-45f6-8ed0-334ad08d6d56/99/image.jpg",
+      "caption": "Landhaus Tyrol - Grundriss FEWO Ahornspitze"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/060a1e95-c56b-4fbf-9640-6510b5cced7b/99/image.jpg",
+      "caption": "Landhaus Tyrol - Küche FEWO Ahornspitze"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6ca8b4be-c22e-43df-8cd5-c9d1b8e06ce1/99/image.jpg",
+      "caption": "Landhaus Tyrol - Zimmer FEWO Ahornspitze"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5bea1814-1c82-4962-a90a-44216c7729c7/99/image.jpg",
+      "caption": "Landhaus Tyrol - Zimmer FEWO Ahornspitze2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b2fb285-05e2-45f2-b955-9a49622f33d0/99/image.jpg",
+      "caption": "Landhaus Tyrol - Grundriss FEWO Grünberg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f361da03-f94e-4833-af32-a9aeb23cc578/99/image.jpg",
+      "caption": "Landhaus Tyrol - Küche FEWO Grünberg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/294a949c-e952-44ed-a3da-1b2448b164ea/99/image.jpg",
+      "caption": "Landhaus Tyrol - Zimmer FEWO Grünberg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/69ec2ca5-42fa-4dda-aba0-46ea58373680/99/image.jpg",
+      "caption": "Landhaus Tyrol - Sitzcouch"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1595409118603",
+    "longitude": "11.853341460228"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Ferienwohnung \"Ahornspitze\", ca. 80m² + Balkon für 2-6 Pers. Zwei Dreibettzimmer, Wohnküche mit gemütlicher Sitzecke, Baderaum mit Du/WC.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/\"Ahornspitze\", 2 Schlafräume/Dusche, WC",
+          "description": "7 Übernachtungen in einer unseren Appartements\n6 Tage Zillertal Aktiv Card    www.zillertal.at \n3 kostenlose geführte Wanderungen pro Tag von Naturpark Zillertal \n(www.naturpark-zillertal.at )\nEndreinigung\nOrtstaxe\n\nPreis: 435,- Euro",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Winterpauschale",
+          "description": "WINTER SKIPASS PAUSCHALE \t05.12.-19.12.2015 09.01.-23.01.2016 21.03.-19.03.2016\t\n\n7\tÜbernachtungen in einem unserer Appartements\t\n6\tTage Skipass mit Gletscher \t\n*\tPreis pro Person exkl. Endreinigung € 40,- und Ortstaxe 1,50 pro Person/Tag\t€ 390,-\n\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/b52775e0-4634-4d49-9f59-a21f6c748d1e/99/image.jpg",
+              "caption": "Skifahrer"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "105.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "1560.00",
+          "maxPrice": "1560.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "1950.00",
+          "maxPrice": "1950.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "2340.00",
+          "maxPrice": "2340.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Ferienwohnung \"Grünberg\" für 2-8 Personen, ca. 90m² + Balkon, große Wohnküche mit gemütlicher Sitzecke, Ausziehcouch für 2 Personen, 2 Doppelzimmer, ein Zimmer mit 2 getrennten Betten, Dusche, separates WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/\"Grünberg\", 3 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "105.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "130.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "140.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

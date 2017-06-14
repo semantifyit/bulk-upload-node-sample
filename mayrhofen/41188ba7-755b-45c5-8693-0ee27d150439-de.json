@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Rodelbahn Tristenbachalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0952552578153",
+    "longitude": "11.8304833602715"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tristenbachalm",
+    "streetAddress": "Floitental 290",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 6769346678",
+    "email": "daniel@tristenbachalm.at",
+    "url": "www.tristenbachalm.at"
+  },
+  "description": "Von der Tristenbachalm in Ginzling führt die familienfreundliche \u0026 mittelschwierige Rodelbahn direkt auf der Privatstraße entlang bis zum Naturparkhaus. Einige Kehren, Kurven und steilere Passagen versprechen ein erstklassiges Rodelvergnügen auf der beleuchteten Strecke.\n\nLänge: 2,5 km\nHöhenlage Start: 1200 m\nHöhenlage Ziel: 1000 m\nHöhenunterschied: 200 m\nSchwierigkeitsgrad: mittel \nÖffnungszeiten: Dienstag bis Sonntag bis 22.00 Uhr; Montag Ruhetag \nBeleuchtung: Ja\nRodelverleih: Tristenbachalm, kostenlos \nEinkehrmöglichkeit: Tristenbachalm \nErreichbarkeit: Parkmöglichkeit beim Naturparkhaus, von dort ca. 40 min. zu Fuß oder Rodeltaxi nach Absprache mit Christian Klausner (+43 5286 20032)",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ec3e6b3-bbfd-4f66-9c24-bcc6e06062cb/99/image.jpg",
+      "caption": "rodeln"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Gasthof Wasserfall 1108m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1198111553739",
+    "longitude": "11.8721115589142"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Wasserfall",
+    "streetAddress": "Stilluptal 945",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62967"
+  },
+  "description": "\n\nSummer\nfrom middle May 2017\novernight stay possible ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bcf07de9-580e-413b-bf0c-117181a822df/99/image.jpg",
+      "caption": "Gasthof Wasserfall 1108m"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8bb31be8-62f9-4547-b64c-9216acac3b44/99/image.jpg",
+      "caption": "Gasthof Wasserfall 1"
+    }
+  ]
+}

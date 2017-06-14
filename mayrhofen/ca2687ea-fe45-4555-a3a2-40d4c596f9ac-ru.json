@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Gasthaus Steinerkogl 1263m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1673743315423",
+    "longitude": "11.8814681577804"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Steinerkogl",
+    "streetAddress": "Brandberg 113",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63188",
+    "faxNumber": "(0043) 5285 63304",
+    "email": "steinerkogl@aon.at",
+    "url": "www.steinerkogl.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8eb6d72f-dbc1-45dd-a23e-c7154ce43fde/99/image.jpg",
+      "caption": "Steinerkogl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4701c696-dbec-4962-9166-a789f33d70eb/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f13a7f8-770e-4cf7-adae-1698b1fd6538/99/image.jpg",
+      "caption": "Steinerkogl 1263m"
+    }
+  ],
+  "url": [
+    "http://www.steinerkogl.at"
+  ]
+}

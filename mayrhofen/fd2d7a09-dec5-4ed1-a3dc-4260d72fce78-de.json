@@ -1,0 +1,203 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dFD2D7A09-DEC5-4ED1-A3DC-4260D72FCE78",
+    "http://www.ferienwohnung-kreidl.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienwohnung Kreidl",
+    "streetAddress": "Neu-Burgstall 328",
+    "addressLocality": "Schwendau",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "email": "info@ferienwohnung-kreidl.at",
+    "url": "http://www.ferienwohnung-kreidl.at/"
+  },
+  "name": "Ferienwohnung Kreidl",
+  "description": [
+    "Unsere 70m² große Ferienwohnung bietet Platz für 5 Personen, befindet sich im 1.Stock unseres Hauses, und liegt in der Ferienregion Mayrhofen-Hippach genau inzwischen der beiden Orte.\n\nDas nahegelegene Skigebiet Ski Zillertal 3000 bietet Ihnen im Winter 133 Pistenkilometer, die Sie über die Horbergbahn in wenigen Minuten zu Fuss oder mit dem kostenlosen Ski Bus erreichen können.\n\nIm Sommer bietet Ihnen die Region viele Wandermöglichkeiten, Mountainbike- und Downhillstrecken, Kletterrouten und Klettersteige, Freibäder und vieles mehr.\n\nIm ca. 2 km entfernten Ort Mayrhofen finden Sie zahlreiche Restaurants, ein Erlebnishallenbad sowie Bars und Discos in denen auch Nachtschwärmer nicht zu kurz kommen.",
+    "Besuchen Sie uns auf unserer Homepage:\nhttp://www.ferienwohnung-kreidl.at/\n",
+    "Check-In ab 13:00 Uhr, Sie können gerne Ihr Gepäck bereits am Morgen der Anreise bei uns abstellen."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "14"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a774e71-4b13-4143-ba05-147d44cd9e57/99/image.jpg",
+      "caption": "Ferienwohnung Kreidl Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c23f463-5741-447f-ae86-2dc81b90a35f/99/image.png",
+      "caption": "logo2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17161b56-3aa0-48cd-8702-940e91218ccd/99/image.jpg",
+      "caption": "Haus Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/86250876-ec8f-4d3c-8e0c-2f9401878731/99/image.jpg",
+      "caption": "Ferienwohnung Kreidl Mayrhofen - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0609d338-6083-4511-8ffe-a073cc20fb52/99/image.jpg",
+      "caption": "Ferienwohnung Kreidl Mayrhofen - Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4342534b-ed31-4a5b-9e74-9279bbdc6016/99/image.jpg",
+      "caption": "Ferienwohnung Kreidl Mayrhofen - Doppelzimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d456b18f-d127-4ddb-9a89-3d2f641b437c/99/image.jpg",
+      "caption": "Ferienwohnung Kreidl Mayrhofen - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5af883b8-bdc1-4a87-979e-09a04738a67a/99/image.jpg",
+      "caption": "Ferienwohnung Kreidl Mayrhofen - Gang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9dd0292c-3e4d-4602-bb0f-009957bfc308/99/image.jpg",
+      "caption": "Ferienwohnung Kreidl Mayrhofen - Gang 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/94aa03bf-b005-47b0-9244-43ed1a1c12fc/99/image.jpg",
+      "caption": "Ferienwohnung Kreidl Mayrhofen - Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96d971f7-599b-42b6-82d4-51394800275a/99/image.jpg",
+      "caption": "Ferienwohnung Kreidl Mayrhofen - Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5bed14c5-796f-4b8b-8fc6-68f26240d547/99/image.jpg",
+      "caption": "Grundriss"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1868761789337",
+    "longitude": "11.8585824966431"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 3 Schlafräume",
+      "description": "Unsere 70m² große Ferienwohnung bietet Platz für 5 Personen, befindet sich im 1.Stock unseres Hauses, und liegt in der Ferienregion Mayrhofen-Hippach genau inzwischen der beiden Orte.\nDas nahegelegene Skigebiet Ski Zillertal 3000 bietet Ihnen im Winter 133 Pistenkilometer, die Sie über die Horbergbahn in wenigen Minuten zu Fuss oder mit dem kostenlosen Ski Bus erreichen können.\nIm Sommer bietet Ihnen die Region viele Wandermöglichkeiten, Mountainbike strecken, Kletterrouten und vieles mehr.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Dusche, WC",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/8ea987f0-28cf-4d1d-aea1-a8433a8b9c14/99/image.jpg",
+              "caption": "Haus Kreidl"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/364035e5-7c9c-4bc0-9aed-765330f4e176/99/image.jpg",
+              "caption": "Wohnküche Ferienwohnung Kreidl"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ca0d5425-f65f-4191-b517-054447cfe050/99/image.jpg",
+              "caption": "Doppelzimmer Ferienwohnung Kreidl"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/72212a7c-e057-43c6-9f5a-c060257309bd/99/image.jpg",
+              "caption": "Zimmer 2 Ferienwohnung Kreidl"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/14cd5911-f178-4b7b-858f-f62a27db59e3/99/image.jpg",
+              "caption": "Einbettzimmer Ferienwohnung Kreidl"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d87a83f3-1bab-4cc1-b8fd-e830a8197386/99/image.jpg",
+              "caption": "Gang Ferienwohnung Kreidl"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/fa78e8d4-3636-430b-b9d8-e6eba4fdd9b4/99/image.jpg",
+              "caption": "Gang 2 Ferienwohnung Kreidl"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/99bd575a-d136-44dd-8223-a9d9a7c24942/99/image.jpg",
+              "caption": "Balkon Ferienwohnung Kreidl"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a3568f96-eb0c-4fe7-916c-7247fbfc51e5/99/image.jpg",
+              "caption": "Garten Ferienwohnung Kreidl"
+            }
+          ],
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "73.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "91.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "109.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

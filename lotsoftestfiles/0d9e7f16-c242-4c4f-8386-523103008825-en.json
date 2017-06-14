@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "LocalBusiness"
+  ],
+  "name": "Stocky Air",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1954382",
+    "longitude": "11.8713002"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Stocky Air",
+    "streetAddress": "Bichl 484",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 664 3407976",
+    "email": "info@stockyair.com",
+    "url": "http://www.stockyair.com"
+  },
+  "description": "As a passenger, you need no previous knowledge. Children from 20 kg now only run with a few steps and you go in the fresh alpine air. Summer and winter day in aviation weather !!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4a4cfc0f-765e-4fe9-a8b9-c2470ce4a726/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/07f3d8ea-fd8a-4577-9714-e0df10634e2a/99/image.jpg",
+      "caption": "Paragleiten"
+    }
+  ],
+  "url": [
+    "http://www.stockyair.com"
+  ]
+}

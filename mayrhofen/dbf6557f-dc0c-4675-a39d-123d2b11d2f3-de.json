@@ -1,0 +1,151 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dDBF6557F-DC0C-4675-A39D-123D2B11D2F3"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Assmair, Landhaus",
+    "streetAddress": "Waldfeldweg 641",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 680 1188177",
+    "email": "paula.assmair@gmx.at"
+  },
+  "name": "Landhaus Assmair",
+  "description": [
+    "Unser Haus liegt in einem sehr schönen Ortsteil von Mayrhofen. Freizeiteinrichtungen wie, Seilbahn, Schwimmbad, Tennisplatz, Minigolfplatz sind in wenigen Gehminuten erreichbar! Unser neu angelegter Garten lädt besonders unsere Sommergäste zum Erholen und Entspannen ein. Alle Zimmer sind sehr großzügig und komfortabel eingerichtet. Unsere Bauernstube, sowie der einladende Frühstücksraum stehen unseren Gästen jederzeit zur Verfügung!",
+    "W-Lan",
+    "Von der Zillertaler Bundesstrasse kommend, nach dem Kreisverkehr in Richtung Bahnhof bis zur Einfahrt Mitte  - Mayrhofen, links abbiegen. Entlang der Hauptstrasse, bis ca. 50 m nach der Brücke rechts am Haus Georgine in den Waldfeldweg abbiegen. Ziel Haus nr. 641!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/22f4b029-edc4-4cd3-a7a4-078452194854/99/image.jpg",
+      "caption": "Haus Assmair Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c3e55445-609b-4fa9-9701-135337a9cdc6/99/image.jpg",
+      "caption": "Haus Assmair Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/baad5309-3cc8-492a-b84f-561df649cc41/99/image.jpg",
+      "caption": "Haus Assmair Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64371b89-ac93-4f77-918c-95a1ca82230f/99/image.jpg",
+      "caption": "Haus Assmair Stimmung 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/667a39d0-d1a1-4488-8b23-9a3f3d0e5a39/99/image.jpg",
+      "caption": "Assmair2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4831098b-fcc6-49c7-b732-270c43dd6b9d/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e840c88d-8e9c-4cba-b5cf-31df0b7282bc/99/image.jpg",
+      "caption": "Zimmer 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7e25c62f-2724-4480-8e68-875bb7b5e461/99/image.jpg",
+      "caption": "Zimmer 2 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/43ae75e5-1c86-43e3-9550-7b5ce1fb9ece/99/image.jpg",
+      "caption": "Zimmer 3 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c5868b90-1fd2-473a-8e27-607ecadbd213/99/image.jpg",
+      "caption": "Frühstücksraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1632540243299",
+    "longitude": "11.8578958511353"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Badewanne",
+      "description": "komfortabel eingerichtet, jedes Zimmer mit TV und Balkon. Geräumiges Badezimmer mit Bad, Dusche, WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, Badewanne",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "komfortabel eingerichtet, Zimmer mit TV/Balkon/Dusche/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "58.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d2048A176-429D-4846-B7D8-7F0819B65D26"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Johann-Sponring-Straße 94",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3452",
+    "faxNumber": "0043 5282 3452",
+    "email": "margret.eberharter@gmx.at"
+  },
+  "name": "Eberharter Josef und Margret",
+  "description": [
+    "Gemütliche Privatpension in sonniger Lage",
+    "Alle Preise inkl. Ortstaxe und Endreinigung",
+    "Hippach-vorbei an der Post - nach Hotel Alpenblick rechts vorbei 3. Haus rechte Seite"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd8e6239-156c-490f-98ae-2e5318edf26b/99/image.jpg",
+      "caption": "Haus Eberharter Hippach - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5cdf4d69-fa1a-48e6-b47e-c69b26daf5ec/99/image.jpg",
+      "caption": "Haus Eberharter Hippach - Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ba67910e-376f-4a62-99d7-26f050bf6fa4/99/image.jpg",
+      "caption": "Haus Eberharter Hippach - Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/20b65905-cf14-472b-83b3-34c6be7e05ef/99/image.jpg",
+      "caption": "Haus Eberharter Hippach - Frühstücksraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2024119150657",
+    "longitude": "11.8631047010422"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer mit Dusche/WC, Kühlschrank und Sat-TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "23.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "23.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC",
+      "description": "großes Dreibettzimmer mit Dusche/WC, Kühlschrank und Sat-TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "23.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "23.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

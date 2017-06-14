@@ -1,0 +1,157 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d815F0784-BA6D-4E25-A8F9-31B034C8703E"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendau Dorf 143",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043)664 4590696",
+    "email": "friedleberharter@a1.net"
+  },
+  "name": "Eberharter Monika und Friedl",
+  "description": [
+    "our house is situated  near the Horbergbahn on the local edge of Schwendau, the skibusstop removes 2 minutes, to the skilift it takes only 5 minutes, a restaurant is near the house,",
+    "Check in: 15.00 hrs\nCheck out: 09.00 hrs",
+    "Travelling by Car\nVia the Inntalautobahn A12 motorway until the exit for Zillertal, from there take the B169 Zillertal Road for the next 30 km to Schwendau."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/99388f96-6026-4421-8ff0-454177831d1e/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8b468659-151c-4e0f-af92-bc8e125a4ffa/99/image.jpg",
+      "caption": "Hausansicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28156d0d-933e-4436-8246-59d3f056b9de/99/image.jpg",
+      "caption": "Hinteransicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f8a771a8-8135-4211-936b-714d6ee657c5/99/image.jpg",
+      "caption": "Hinteransicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e7b1a24-ded0-432c-a2ee-09c5dc98de2f/99/image.jpg",
+      "caption": ",gemütliche Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/99c5f31b-b91e-4d40-83c9-735d668732d1/99/image.jpg",
+      "caption": ",Essecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b4cb435d-0b33-4191-a170-0f47960dd46e/99/image.jpg",
+      "caption": ",gemütliches Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1c92aec-52b4-4f13-926d-d346690ce785/99/image.jpg",
+      "caption": ",Schlafzimmer_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/813e1a3d-e0f0-424b-a65a-eb8266aefc38/99/image.jpg",
+      "caption": ",Schlafzimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/57d0c4e1-6b17-44fc-ac55-d2f23e3c75b3/99/image.jpg",
+      "caption": ",Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d798397c-2e17-458b-94bc-a8ba994cad6f/99/image.jpg",
+      "caption": "Wanglspitz 150ger Gondel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac7ac636-051a-4609-9ff3-2a1b43c82214/99/image.jpg",
+      "caption": "Penkenjoch Skigebiet Mayrhofen/Schwendau"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e45d8d2-a848-42e1-8f4c-3f0e5b560401/99/image.jpg",
+      "caption": "Blick zum Hintertuxer Gletscher"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/042e03b9-2fb1-4856-a9bc-cadb14fd1cab/99/image.jpg",
+      "caption": "Skipiste Penkenjoch mit Blick auf Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/47bc2168-83cb-4425-8008-668ae952cb26/99/image.jpg",
+      "caption": "Schneekar - Pyramide"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1972544966946",
+    "longitude": "11.8606477975845"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, standard",
+      "description": "complete equipped holiday appartement with balcony, 60m², 2 bedrooms, kitchen, Sat-TV, bathroom with WC,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.liv.-bedroom/1 bedroom/bath,wc",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

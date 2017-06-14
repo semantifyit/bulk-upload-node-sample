@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Karlalm 1750m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1842512038024",
+    "longitude": "11.9049310684204"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Karlalm",
+    "streetAddress": "Ramsberg ",
+    "addressLocality": "Ramsau ",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5288 62544"
+  },
+  "description": [
+    "Von Ende Mai bis Anfang September zieht unser Opa mit Kühen und Kälbern auf die Karlalm, die auf 1750 m liegt. Mit dabei ist heuer auch eine junge Sennerin. \nDort oben wird den ganzen Almsommer Käse (Tilsitter und Bergkäse) in der eigenen Sennerei produziert. Diesen können Sie bei einer guten Jause während einer Wanderung von Hainzenberg - Gondelbahn",
+    "Sommer \n27. Mai - ca. 20. September 2017 \nkein Ruhetag\nkeine Übernachtung möglich"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5fa068e1-a366-4368-9980-d930039bce6c/99/image.jpg",
+      "caption": "Karlalm 1750m"
+    }
+  ]
+}

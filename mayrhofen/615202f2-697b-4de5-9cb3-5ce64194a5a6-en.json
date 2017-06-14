@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": "Psychologin Mag. Janine Greisinger",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1952679368055",
+    "longitude": "11.8712425231934"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bichl 486",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 51010",
+    "faxNumber": "(0043) 5282 51020",
+    "email": "office@sportmed-tirol.com",
+    "url": "http://www.sportmed-tirol.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/039a7590-bd9e-424a-9d43-1ac6d6b35314/99/image.jpg",
+      "caption": "Janine Greisinger "
+    }
+  ],
+  "url": [
+    "http://www.sportmed-tirol.com"
+  ]
+}

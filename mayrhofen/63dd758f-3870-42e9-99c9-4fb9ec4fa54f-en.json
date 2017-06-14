@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "Skischule \"Mayrhofen 3000\" - Michael Thanner",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1646726",
+    "longitude": "11.8621618"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Skischule \"Mayrhofen 3000\"",
+    "streetAddress": "Hauptstraße 455",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64015",
+    "faxNumber": "0043 5285 64015",
+    "email": "skischule@mayrhofen3000.at",
+    "url": "http://www.skischule.mayrhofen3000.at"
+  },
+  "description": "Information and ski school office:\nMayrhofen 455, Mayrhofen 414, Tuxerstraße 700, Tel. + Fax 0043/5285/64015, Handy: 0043/664/4637490\n\n• Standard ski course - 4 hours per day\n• Ski Carving\n• Snowboard lessons \n• Children‘s ski school",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0cec2bbb-594d-46d2-ab3d-9bbfa7636352/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28c17214-4240-4bcc-b1e8-93d0452d5526/99/image.jpg",
+      "caption": "Büro Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca0c6a8d-ca30-4636-97fb-c6013b08afb0/99/image.jpg",
+      "caption": "Skiverleih"
+    }
+  ],
+  "url": [
+    "http://www.skischule.mayrhofen3000.at"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.tiscover.at/dr.roscher",
+    "http://maps.mayrhofen.at/?foreignResource\u003dB979D3D5-1DAF-4702-B096-8E14B2262234"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Roscher, Landhaus",
+    "streetAddress": "Zillergrundweg 568",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63110",
+    "faxNumber": "0043 5285 6311050",
+    "email": "info@landhausroscher.com",
+    "url": "http://www.tiscover.at/dr.roscher"
+  },
+  "name": "Landhaus Roscher",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.6",
+    "reviewCount": "17"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c93fcddf-3518-442c-8c62-e4086718ce61/99/image.jpg",
+      "caption": "Landhaus Dr. Roscher - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0cccd189-0156-4f22-9897-cd074b9be2fd/99/image.jpg",
+      "caption": "Landhaus Dr. Roscher - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1618862576871",
+    "longitude": "11.865406036377"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, Душевая кабина или ванна, туалет, одна спальня",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, Душевая кабина или ванна, туалет, одна спальня",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "3-местный номер, Душевая кабина или ванна, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3-местный номер, Душевая кабина или ванна, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,926 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.postresidenz.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Postresidenz Mayrhofen",
+    "streetAddress": "Am Marienbrunnen 348 B",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62204",
+    "faxNumber": "(+43) 5285 6807",
+    "email": "info@postresidenz.at",
+    "url": "http://www.postresidenz.at"
+  },
+  "name": "Postresidenz Mayrhofen",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "NEU: Ab Winter 2016/2017\nDie wunderschönen, hochwertig ausgestatteten Luxus-Apartments begeistern durch einen Mix aus Tradition und Moderne im alpinen Stil. \nDirekt an der Postresidenz liegt unser Posthotel Mayrhofen, welches für besondere Urlaubstage sorgt. Genießen Sie unvergessliche Tage in einem Luxus Apartment mit dem Service eines 3 Sterne Hotel Garni. Das anliegende Posthotel Mayrhofen bietet auch den Residenz Gästen einen Wellnessbereich mit finnischer Sauna, Bio-Sauna, Infrarotkabine, Ruhebereich, eine Hotelbar, reichhaltigem Frühstücksbuffet und vielen weiteren Annehmlichkeiten.\n\nNeu bei uns ab Winter 2016 / 2017 Der Skipass Verkauf! \nGerne können unsere Hausgäste direkt bei uns an der Rezeption im Posthotel einen Skipass kaufen für Ihren Aufentalt bei uns !\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Kinderermäßigung - Halbpension:\n0-3 Jahre    Kostenlos\n4-6 Jahre    5,- Euro\n7-11 Jahre  8,- Euro\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Gerne erwarten wir unsere Gäste, und Freunde der Postresidenz in der Zeit von 14:00 - 22:00.\n\nSollte der Gast nach 22 Uhr anreisen bitten wir den Gast uns telefonsich oder per Mail zu informieren."
+    },
+    {
+      "@language": "de",
+      "@value": "Posthotel Mayrhofen\nPostresidenz Mayrhofen \nUrlaub im Zillertal\nSkiurlaub im Zillertal"
+    },
+    {
+      "@language": "en",
+      "@value": "NEW: Winter 2016/2017\nThe beautiful, high-quality equipped luxury apartments inspire a mix of traditional and modern Alpine-style.\nJust off the post residence is our Posthotel Mayrhofen, which provides for special holidays. Enjoy unforgettable days in a luxury apartment with the services of a 3-star hotel. The adjacent Posthotel Mayrhofen also offers the residence guests a spa with a Finnish sauna, bio sauna, infrared sauna, relaxation area, a bar, a generous breakfast buffet and many other amenities.\n\nNew to us from the winter 2016/2017 The ski pass sales!\nGladly our guests can directly come to the reception at the Posthotel a ski pass purchase for your Aufentalt with us!"
+    },
+    {
+      "@language": "en",
+      "@value": "Childrens reduction - halfboard:\n0-3 Jahre    Kostenlos\n4-6 Jahre    5,- Euro\n7-11 Jahre  8,- Euro"
+    },
+    {
+      "@language": "en",
+      "@value": "We look forward to our guests and friends of the postal residence in the period 14:00 to 22:00.\n\nShould the guest arrive after 22 pm, please contact the guest to inform us telefonsich or by mail."
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "22"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a56b23b8-2de4-4b73-b25a-6366033bb3e4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Postresidenz_Am_MArienbrunnen_348_Haus_Winter_neu_"
+        },
+        {
+          "@language": "en",
+          "@value": "Postresidenz_Am_MArienbrunnen_348_Haus_Winter_neu_"
+        },
+        {
+          "@language": "ru",
+          "@value": "Postresidenz_Am_MArienbrunnen_348_Haus_Winter_neu_"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4079d002-468e-418b-8c2d-27dd7c62b3b4/99/image.png",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Postresidenz Mayrhofen"
+        },
+        {
+          "@language": "en",
+          "@value": "Postresidenz Mayrhofen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Postresidenz Mayrhofen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d29eb37c-b101-43f6-9e17-63342debadc2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Postresidenz Winter 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Postresidenz Winter 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Postresidenz Winter 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9bcc8f8b-ea85-48b6-a427-3489f136bca8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Postresidenz Winter 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Postresidenz Winter 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Postresidenz Winter 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d38e5697-ca8a-4e95-a8c1-2f7b0d33470d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Postresidenz Winter 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Postresidenz Winter 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Postresidenz Winter 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2b243f92-9a28-4655-ba02-85c9ca34e954/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Postresidenz Winter 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Postresidenz Winter 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Postresidenz Winter 4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fd5f9057-ebef-464e-a851-48ed1d82a402/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Postresidenz Winter 5"
+        },
+        {
+          "@language": "en",
+          "@value": "Postresidenz Winter 5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Postresidenz Winter 5"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/80a4aeab-bc89-46d0-b8fc-9e1ab06cc6e7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Postresidenz Winter 6"
+        },
+        {
+          "@language": "en",
+          "@value": "Postresidenz Winter 6"
+        },
+        {
+          "@language": "ru",
+          "@value": "Postresidenz Winter 6"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5bff1084-b56c-4d6b-add5-7c518efafc9b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Postresidenz Winter 7"
+        },
+        {
+          "@language": "en",
+          "@value": "Postresidenz Winter 7"
+        },
+        {
+          "@language": "ru",
+          "@value": "Postresidenz Winter 7"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6d842fa-084e-4fd8-96b5-d6c34525bd8f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Postresidenz Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Postresidenz Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Postresidenz Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/36e85720-3eb6-45e4-a240-95db622afa9b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Postresidenz Mayrhofen - Sommer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Postresidenz Mayrhofen - Sommer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Postresidenz Mayrhofen - Sommer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9052874-b25c-4a7a-9849-fcb64e86d6cc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Postresidenz_Am_Marienbrunnen_348_Mayrhofen_App_20"
+        },
+        {
+          "@language": "en",
+          "@value": "Postresidenz_Am_Marienbrunnen_348_Mayrhofen_App_20"
+        },
+        {
+          "@language": "ru",
+          "@value": "Postresidenz_Am_Marienbrunnen_348_Mayrhofen_App_20"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1677846",
+    "longitude": "11.8654359"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Hotelappartement, Toilette und Bad/Dusche getrennt, Ost"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel suite, separate toilet and shower/bathtub, east"
+        },
+        {
+          "@language": "ru",
+          "@value": "Люкс отель, отдельный туалет и душ/ванна, на восток"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Apartment \"Enzian\" für 2-4 Personen ca. 56 m² \n\nAusstattung\nIdeal für 2-4 Personen \nWohnfläche ca. 56 m² \n1 Balkon \n1 Schlafzimmer \n1 Schlafcouch \n1 Bad/WC \n1 WC separat\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment \"Enzian\" for 2-4 people ca. 56 m ²\n\nEquipment\nIdeally for 2-4 people\nLiving space approx. 56 m ²\n1 balcony\n1 bedroom\n1 sleeping couch\n1 bath / WC\n1 WC separately \n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Enzian"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "120.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "155.00",
+          "maxPrice": "185.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "190.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Apartment \"Alpenrose\" für 4-6 Personen ca. 72 m² \n\nAusstattung\nIdeal für 4-6 Personen \nWohnfläche ca. 72 m² \n1 Balkon \n2 Schlafzimmer \n1 Schlafcouch \n2 Bäder/WC\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment \"Alpenrose\" for 4-6 people ca. 72 m ²\n\nEquipment\nIdeally for 4-6 people\nLiving space ca. 72 m ²\n1 balcony\n2 bedrooms\n1 sleeping couch\n2 baths / WC \n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Alpenrose"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "200.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "200.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "200.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "235.00",
+          "maxPrice": "315.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "270.00",
+          "maxPrice": "350.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Hotelappartement, Toilette und Bad/Dusche getrennt, West"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel suite, separate toilet and shower/bathtub, west"
+        },
+        {
+          "@language": "ru",
+          "@value": "Люкс отель, отдельный туалет и душ/ванна, на запад"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Apartment \"Grünberg\" für 4-6 Personen ca. 81 m² \n\nAusstattung\nIdeal für 4-6 Personen \nWohnfläche ca. 81 m² \n1 Balkon \n2 Schlafzimmer \n1 Schlafcouch \n2 Bäder/WC \n1 WC separat\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment \"Grünberg\" for 4-6 people ca. 81 m ²\n\nEquipment\nIdeally for 4-6 people\nLiving space ca. 81 m ²\n1 balcony\n2 bedrooms\n1 sleeping couch\n2 baths / WC\n1 WC separately \n\n\n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Grünberg"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "212.00",
+          "maxPrice": "292.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "212.00",
+          "maxPrice": "292.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "212.00",
+          "maxPrice": "292.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "247.00",
+          "maxPrice": "327.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "282.00",
+          "maxPrice": "362.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Hotelappartement, Toilette und Bad/Dusche getrennt, Ost"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel suite, separate toilet and shower/bathtub, east"
+        },
+        {
+          "@language": "ru",
+          "@value": "Люкс отель, отдельный туалет и душ/ванна, на восток"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Apartment \"Ahorn\" für 6-8 Personen ca. 86 m² \n\nAusstattung\nIdeal für 6-8 Personen \nWohnfläche ca. 86 m² \n1 Balkon \n3 Schlafzimmer \n1 Schlafcouch \n2 Bäder/WC \n1 WC separat\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment \"Ahorn\" for 6-8 people ca. 86 m²\n\nEquipment\nIdeally for 6-8 people\nLiving space ca. 86 m ² \n1 balcony\n3 bedrooms\n1 sleeping couch\n2 baths / WC\n1 WC separately \n\n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Ahorn"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "description": [
+            {
+              "@language": "de",
+              "@value": "Apartment \"Ahorn\" für 6-8 Personen ca. 86 m² \nAusstattung\nIdeal für 6-8 Personen \nWohnfläche ca. 86 m² \n1 Balkon \n3 Schlafzimmer \n1 Schlafcouch \n2 Bäder/WC \n1 WC separat\n"
+            }
+          ],
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "288.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "288.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "288.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "288.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "323.00",
+          "maxPrice": "425.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "358.00",
+          "maxPrice": "460.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Hotelappartement, Toilette und Bad/Dusche getrennt, West"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel suite, separate toilet and shower/bathtub, west"
+        },
+        {
+          "@language": "ru",
+          "@value": "Люкс отель, отдельный туалет и душ/ванна, на запад"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Apartment \"Penken\" für 4-6 Personen ca. 102 m² \n\nAusstattung\nIdeal für 4-6 Personen \nWohnfläche ca. 102 m² \n1 Balkon \n2 Schlafzimmer \n1 Schlafcouch \n2 Bäder/WC \n1 WC separat\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment  \"Penken\" for 4-6 people ca. 102 m ²\n\nEquipment\nIdeally for 4-6 people\nLiving space ca. 102 m ²\n1 balcony\n2 bedrooms\n1 sleeping couch\n2 baths / WC\n\n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Penken"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "238.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "238.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "238.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "273.00",
+          "maxPrice": "355.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "308.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Hotelappartement, Toilette und Bad/Dusche getrennt, Ost"
+        },
+        {
+          "@language": "en",
+          "@value": "Hotel suite, separate toilet and shower/bathtub, east"
+        },
+        {
+          "@language": "ru",
+          "@value": "Люкс отель, отдельный туалет и душ/ванна, на восток"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Apartment \"Edelweiss\" für 6-8 Personen ca. 129 m² \n\nAusstattung\nIdeal für 6-8 Personen \nWohnfläche ca. 129 m² \n2 Balkon \n3 Schlafzimmer \n1 Schlafcoach \n3 Bäder/WC \n1 WC separat \n1 Sauna\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment \"edelweiss\" for 6-8 people ca. 129 m ²\n\nEquipment\nIdeally for 6-8 people\nLiving space ca. 129 m ²\n2 balconies\n3 bedrooms\n1 sleeping coach\n3 baths / WC\n1 WC separately\n1 sauna \n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment Edelweiss"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "7.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "330.00",
+          "maxPrice": "540.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "330.00",
+          "maxPrice": "540.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "330.00",
+          "maxPrice": "540.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "330.00",
+          "maxPrice": "540.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "365.00",
+          "maxPrice": "575.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "400.00",
+          "maxPrice": "610.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower and bath, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ и ванна, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ideal für 4-6 Personen\nWohnfläche ca. 105 m²\n1 Terrasse mit ca. 120 m² möbliert\n3 Schlafzimmer mit Flat-TV, Safe\n1 Wohnzimmer mit gemütlichem Sitzbereich, Flat-TV, Bose-Soundsystem für das Smartphone\n1 Badezimmer mit Dusche, WC, Fön, Kosmetikspiegel, Pflegeprodukte\n1 Badezimmer mit Badewanne und WC, Kosmetikspiegel, Fön\n1 finnische Privatsauna\n1 voll ausgestattete Küche mit Nespresso Kaffee Maschine\n"
+        },
+        {
+          "@language": "en",
+          "@value": "suitable for 4 - 6 person/about 105 m²/ 120 m² terrace\n3 bedrooms with flat-TV and Safe\n1 spacious living room with cosy sitting area, flat-TV\nBose-sound system for your smartphone\n1 bathroom with shower, WC, hair-dryer,\ncosmetics-mirror\n1 bathroom with bath-tub, WC,\ncosmetics-mirror, hair-dryer\n1 finnish privat sauna on the terrace\n1 fully equipped kitchen with Nespresso coffee machine\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement „Penthouse“"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "800.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "800.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "800.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

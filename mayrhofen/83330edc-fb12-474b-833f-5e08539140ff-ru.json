@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Café Smash",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2016027984852",
+    "longitude": "11.8666934967041"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Cafe Smash",
+    "streetAddress": "Lindenstrasse 35",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 650 6805996"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e7499406-3f16-44c8-b491-51f452938945/99/image.jpg",
+      "caption": "Smash"
+    }
+  ]
+}

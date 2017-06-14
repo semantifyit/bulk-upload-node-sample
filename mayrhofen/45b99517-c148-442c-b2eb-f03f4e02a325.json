@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Penkenalm 1800m - Penken/Horberg"
+    },
+    {
+      "@language": "de",
+      "@value": "Penkenalm 1800m - Penken/Horberg"
+    },
+    {
+      "@language": "ru",
+      "@value": "Penkenalm 1800m - Penken/Horberg"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1749816334857",
+    "longitude": "11.8148893117905"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Penkenalm",
+    "streetAddress": "Penken",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62882",
+    "email": "mary1989@gmx.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Die Penkenalm befindet sich im Skigebiet Penken."
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\nca. 12. Dezember 2016\n \n\nkeine Übernachtung möglich "
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nca. 12. December 2016\n\nno overnight stay possible "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13695fb0-df2c-4656-be29-b11289018ff1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Penkenalm Sommer "
+        },
+        {
+          "@language": "de",
+          "@value": "Penkenalm Sommer "
+        },
+        {
+          "@language": "ru",
+          "@value": "Penkenalm Sommer "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1a952c6f-f951-4d56-a285-b6cc769f3fab/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Penkenalm 1800m"
+        },
+        {
+          "@language": "de",
+          "@value": "Penkenalm 1800m"
+        },
+        {
+          "@language": "ru",
+          "@value": "Penkenalm 1800m"
+        }
+      ]
+    }
+  ]
+}

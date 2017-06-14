@@ -1,0 +1,491 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.glockenstuhl.com",
+    "http://maps.mayrhofen.at/?foreignResource\u003dEDD7B387-4669-4A06-91F1-82AFEAC0A21C"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Glockenstuhl, Hotel Garni",
+    "streetAddress": "Einfahrt Mitte 431",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63128",
+    "faxNumber": "0043 5285 631287",
+    "email": "info@glockenstuhl.com",
+    "url": "http://www.glockenstuhl.com"
+  },
+  "name": "Hotel Garni Glockenstuhl",
+  "description": [
+    "Relaxing holidays at any time of the year. Our house is centrally situated in a quiet and sunny position, and offers you comfort in an informal atmosphere. Tyrolean style guest lounge, house bar, pleasant foyer with open chimney, large sun terrace, beautiful garden, planty of car parking space.\nNEW SPA with different saunas, steam-bath, relax-room. W-LAN in the hotel free of charge",
+    "Price includes local taxes and breakfast. Childrens reduction on request.",
+    "At Mayrhofen take the Einfahrt Mitte, then the first slip road on the right."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "466"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e88a4f9f-ffda-4295-ae29-789138d8fc12/99/image.jpg",
+      "caption": "Hotel Garni Glockenstuhl - Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52275277-90fa-4c80-89ec-28123db07fc9/99/image.jpg",
+      "caption": "glockenstuhl02"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ff86e3ab-1109-42ed-8a67-effb1b68d3c8/99/image.jpg",
+      "caption": "glockenstuhl03"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0eaf0b0f-7ef2-4bdf-aa2a-55669716dc60/99/image.jpg",
+      "caption": "glockenstuhl-fruehstueck"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f9875b61-fed9-4920-a682-5b0688d8dcd4/99/image.jpg",
+      "caption": "glockenstuhl-fruehstuecksraum2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/40f04dd9-81bb-494c-95af-05a3dd5b6a85/99/image.jpg",
+      "caption": "glockenstuhl-fruehstuecksraum1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7781832f-b9f3-4ec3-9a6d-a4ff748462f7/99/image.jpg",
+      "caption": "glockenstuhl-garten02"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e6a29ed7-1f6e-412e-b4b2-556d3c23ffef/99/image.jpg",
+      "caption": "glockenstuhl-garten03"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/85d16f1f-ac9c-402d-938b-9cddafa26b63/99/image.jpg",
+      "caption": "glockenstuhl-garten04"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ad27e49-45ec-4ee6-b4c9-4bec34966d71/99/image.jpg",
+      "caption": "glockenstuhl-suite1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/996391c4-b861-4b99-824d-d37ea4fe9984/99/image.jpg",
+      "caption": "glockenstuhl-suite-bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6239503f-edbd-4a31-9178-806e8c6eff96/99/image.jpg",
+      "caption": "glockenstuhl-wellness01"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c9fb4ebd-6d8e-4d0b-9f5e-7b72a0fbafa0/99/image.jpg",
+      "caption": "glockenstuhl-wellness02"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0005907e-8f8d-4221-b447-33b64d2e7db8/99/image.jpg",
+      "caption": "glockenstuhl-garten01"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5761778-e14a-404f-97a5-a729f1db0db7/99/image.jpg",
+      "caption": "glockenstuhl-wellness04"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59777336-6c4f-4ca6-8a03-bb7dd81d5020/99/image.jpg",
+      "caption": "glockenstuhl-wellness05"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f7ce4e9-cb87-4234-88ec-6af6d2286d21/99/image.jpg",
+      "caption": "glockenstuhl-wellness06"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6c6ac396-d4da-415d-87bd-e97ba0d0e404/99/image.jpg",
+      "caption": "glockenstuhl-wellness07"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f129c64c-4307-4800-97b5-879bf6a22b73/99/image.jpg",
+      "caption": "glockenstuhl-wellness03"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f16a64f7-a2b5-4314-9673-b34ee3663628/99/image.jpg",
+      "caption": "book1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4051c5ae-e95c-4c72-9d41-3ca2dec37cda/99/image.jpg",
+      "caption": "book2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1672002896339",
+    "longitude": "11.8604063987732"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Single room, shower, toilet, 1 bed room",
+      "description": "Comfortable rooms with shower/WC, hair dryer, balcony, telephone with internet access, cable TV with panorama picture.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Single room, shower, toilet, 1 bed room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "55.00",
+          "maxPrice": "77.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, bath, toilet, 1 bed room",
+      "description": "30m² large double room with living area, bath/WC, balcony, hair dryer, safe, telephone, internet connection, cable TV with panorama pictures.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, bath, toilet, 1 bed room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, bath, toilet, 1 bed room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Double room with shower/WC, balcony, hair dryer, telephone, internet connection, cable TV with panorama pictures.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "57.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower or bath, toilet",
+      "description": "•Separate living and sleeping areas\n• Private balcony with view of the garden \n• Bath, WC, hairdryer, safe, \n•HD flat-panel TV (cable TV incl. live cam and regional news)\n• telephone, wireless Internet \n•Kitchenette",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Apartment, shower or bath, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "170.00",
+          "maxPrice": "235.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "210.00",
+          "maxPrice": "285.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet",
+      "description": "1 sleeping room, 1 living room with tiled stove, separate balcony, bath, WC, hairdryer, SAT-TV, radio, telephone with internet-connection, safe, little kitchen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "hotel apartment with bath tube, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "170.00",
+          "maxPrice": "235.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "210.00",
+          "maxPrice": "285.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Hotel suite, shower or bath, toilet",
+      "description": "•with Tower Room\n•separate sleeping and living areas\n•tiled stove",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Hotel suite, shower or bath, toilet",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/196f83a4-4d9a-4176-a2ff-b75ebf6d603a/99/image.jpg",
+              "caption": "Schlafzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/3d621f05-34e6-44c8-afc7-3c441227a9d9/99/image.jpg",
+              "caption": "Turmzimmer"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "220.00",
+          "maxPrice": "305.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room",
+      "description": "•bath/shower/WC\n• balcony with view of the surrounding mountains\n•HD flat-panel TV (cable TV incl. live cam and regional news)\n•wireless Internet, safe, hairdryer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room",
+      "description": "•bath/shower/WC\n• balcony with view of the surrounding mountains\n•HD flat-panel TV (cable TV incl. live cam and regional news)\n•wireless Internet, safe, hairdryer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room",
+      "description": "•bath/shower/WC\n• balcony with view of the surrounding mountains\n•HD flat-panel TV (cable TV incl. live cam and regional news)\n•wireless Internet, safe, hairdryer\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

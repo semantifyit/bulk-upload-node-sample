@@ -1,0 +1,162 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ahornach 29",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 650 5202206 ",
+    "email": "clouds042206@yahoo.de"
+  },
+  "name": "Bauernhaus Gallerhof",
+  "description": [
+    "The farmer house is direct on our hof on ca 1300m \"Seehöhe\" in the quiet and sunny area on the Brandberg. The house is ca. 100 yeats old and complete out of wood, with three bedrooms, a kitchen, a living room, a storeroom, a bath, a terrace and a balcony. You can see the \"Ahorn\" and also the \"Zillergrund\". In summer hiking is a great idea.\nIn winter you need to put on snow chains.\n\n",
+    "incl.: storno, water, wood and W-Lan\n\n\n",
+    "Before Mayrhofen in the direction Brandberg turn left, through the tunnel, after that right. In Brandberg at the fire brigade turn left on the street and \"Schindler\" follow the direction \"Gallerhof\"."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50de8a61-fb45-485c-b6ac-79deb8eca8df/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/55304317-ba20-48cd-a734-cd741b22ab17/99/image.jpg",
+      "caption": "Panorama © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4db07a9c-67a2-44ac-862d-4ff1d08158c9/99/image.jpg",
+      "caption": "Radtour für die ganze Familie © Zillertal Tourismu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/41025be6-fe21-4e1b-ace1-bdd496d8ea0a/99/image.jpg",
+      "caption": "Skifahren © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd282b8e-772d-47c0-9f59-2158f768845e/99/image.jpg",
+      "caption": "Wandern am Stausee © Norbert Freudenthaler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8727fa92-0a18-496d-a050-e6c6229268f2/99/image.jpg",
+      "caption": "Bergsteigen © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/df5ddd1a-9676-4dc6-93b5-0e57f7641b4e/99/image.jpg",
+      "caption": "Wandern im Stilluptal © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d37be7ac-78f2-40a7-a33c-2aa743666bd0/99/image.jpg",
+      "caption": "Winter am Berg © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52c1ef52-ff31-4866-a821-8473d1a8695e/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/25744351-6375-4325-b3a2-22ae41afff9d/99/image.jpg",
+      "caption": "Wandern im Naturpark © Norbert Freudenthaler"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1725714801506",
+    "longitude": "11.919372728836"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Holiday home, shower, toilet, 3 bed rooms",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Holiday home, shower, toilet, 3 bed rooms",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "990.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "990.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "990.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "990.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "990.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "990.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "0.00",
+          "maxPrice": "1190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "0.00",
+          "maxPrice": "1190.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

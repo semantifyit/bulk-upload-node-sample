@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Service"
+  ],
+  "name": "Werkstatt: Andreas Eberharter",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.200674",
+    "longitude": "11.8710302"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Talstraße 120",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 72 58 664"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e51fdae7-fa9c-4fa3-b50d-dced5aec63e6/99/image.png",
+      "caption": "Logo"
+    }
+  ]
+}

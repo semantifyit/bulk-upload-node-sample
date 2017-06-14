@@ -1,0 +1,553 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.landhaus-tipotsch.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d68D53A3B-0E4D-471D-AD67-E4D4A952990B"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tipotsch, Landhaus",
+    "streetAddress": "Schormis 103",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62903",
+    "faxNumber": "0043 5282 62357",
+    "email": "landhaus.tipotsch@aon.at",
+    "url": "http://www.landhaus-tipotsch.at"
+  },
+  "name": "Landhaus Tipotsch",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Mitten im Herzen des Zillertals gelegen, ist unser Haus in jeder Jahreszeit der ideale Ausgangspunkt für alle Urlaubsfreuden, die unsere herrliche Region Schwendau zu bieten hat. Ganz egal ob Sie sich zu den Sportlich-Aktiven zählen oder einfach nur für ein paar Tage die wohltuende Ruhe in den Zillertaler Bergen genießen möchten – in Schwendau finden Sie alles, was Ihr Herz im Urlaub begehrt!\n\nGerne können Sie auch eine Reiseversicherung bei uns abschließen:\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: ab 13 Uhr, Check out: bis 10 Uhr\nHunde Euro 7,00/Tag, Kinderermäßigung im Elternzimmer;\n"
+    },
+    {
+      "@language": "de",
+      "@value": "An der Ampel in Ramsau rechts Richtung Schwendau, über die Brücke der Ziller an der Kreuzung gerade aus, ca. 500m auf der linken Seite unterhalb der Straße"
+    },
+    {
+      "@language": "en",
+      "@value": "Quiet, central and sunny position with panoramic view, terrace and sunbathing lawn, lounge, sauna, infrared cabin, wifi, ski boot dryer, ski cellar, high chair, cot, slings, baby carriage\n\nWe provide also a travel insurance:\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: ab 13:00, Check out: 10:00 \ndogs euro 7,00/day, childrens reduction in the parents room;\n"
+    },
+    {
+      "@language": "en",
+      "@value": "At the traffic light in Ramsau turn right in direction Schwendau, cross the bridge of the Ziller and at the crossroad just straight ahead. 500 m on the left side below the street\n"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "92"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60eb17dd-2c01-4aec-96dd-72ad6d139022/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Tipotsch  - Winter 1"
+        },
+        {
+          "@language": "en",
+          "@value": ""
+        },
+        {
+          "@language": "ru",
+          "@value": ""
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76e43d1c-4226-4577-a663-2dd3ac7d6a1e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Tipotsch  - Sommer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Tipotsch  - Sommer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Tipotsch  - Sommer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d16b6ca9-ceca-4f48-85a5-624f2a034a7e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Tipotsch  - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Tipotsch  - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Tipotsch  - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ed26d2f9-3aef-4033-869b-da79d0ec7801/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Tipotsch  - Sommer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Tipotsch  - Sommer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Tipotsch  - Sommer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1511c815-e907-4996-a159-aced55968969/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Tipotsch - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Tipotsch - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Tipotsch - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/29e268a1-4a4c-48e1-8959-f876fedf3f78/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Tipotsch - Frühsücksraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Tipotsch - Frühsücksraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Tipotsch - Frühsücksraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b0922034-0c87-4abb-a511-2ba7e72783fe/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Tipotsch - Frühstücksraum2"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Tipotsch - Frühstücksraum2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Tipotsch - Frühstücksraum2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/238c8465-cd14-4215-9cac-6cc721207760/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Tipotsch - Einzelzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Tipotsch - Einzelzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Tipotsch - Einzelzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bcd01306-c60a-4cba-9a7d-e46daa44b25c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Tipotsch - Doppelzimmer 1"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Tipotsch - Doppelzimmer 1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Tipotsch - Doppelzimmer 1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/79458061-5784-42cb-990a-5c7875fd3eb6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Tipotsch - Doppelzimmer 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Tipotsch - Doppelzimmer 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Tipotsch - Doppelzimmer 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b799cdd7-f911-4d6b-a11f-2559f0b7e317/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Tipotsch - Doppelzimmer 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Tipotsch - Doppelzimmer 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Tipotsch - Doppelzimmer 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4b6e1bb2-b149-47c3-bed7-88e2c2158dfb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Tipotsch - Doppelzimmer 4"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Tipotsch - Doppelzimmer 4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Tipotsch - Doppelzimmer 4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d0662b93-4f89-48a3-800f-bae2b599dbf1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Tipotsch - Sauna"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Tipotsch - Sauna"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Tipotsch - Sauna"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c985cc3e-fe82-44b7-84e7-634aec2241bd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Tipotsch - Sauna2"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Tipotsch - Sauna2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Tipotsch - Sauna2"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2000938724389",
+    "longitude": "11.8614685535431"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Einzelzimmer, Dusche, WC, Nichtraucher"
+        },
+        {
+          "@language": "en",
+          "@value": "Single room, shower, toilet, no smoker"
+        },
+        {
+          "@language": "ru",
+          "@value": "Одноместный номер, душ, туалет, некурящий"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütliches Einzelzimmer mit Dusche/WC, Flachbild-Sat-TV, Radiowecker, sowie kostenlosem W-Lan."
+        },
+        {
+          "@language": "en",
+          "@value": "cosy single room with shower, WC, Flat-TV, radio and wifi free of charge\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "single room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Einzelzimmer mit Dusche, WC - shortstay"
+            },
+            {
+              "@language": "en",
+              "@value": "Single room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "Одноместный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "29.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "31.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC, Nichtraucher"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet, no smoker"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет, некурящий"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Komfortable Doppelzimmer mit \"Mehr-Wert\":\nDusche/WC, Flachbild-Sat-TV, Radiowecker, Balkon sowie kostenloses W-Lan.\nZustellbett und Kinderermäßigungen (bei 2 Vollzahlern) auf Anfrage."
+        },
+        {
+          "@language": "en",
+          "@value": "comfortable doublerooms with shower/WC, Flat-TV, radio, balcony and wifi free of charge\nadditional bed and child-reduction (within 2 adults) on request\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет, некурящий"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "HSV"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "комната на двоих, shower, toilet"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC - shortstay"
+            },
+            {
+              "@language": "en",
+              "@value": "Double room, shower, toilet, no smoker"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет, некурящий"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "29.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "31.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

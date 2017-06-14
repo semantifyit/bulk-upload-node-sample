@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "GroceryStore"
+  ],
+  "name": "Hotel Rose",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1670524",
+    "longitude": "11.8658389"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Rose",
+    "streetAddress": "Brandbergstraße 353",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 62229",
+    "faxNumber": "+43 5285 63321",
+    "email": "info@hotel-rose.at",
+    "url": "http://www.hotel-rose.at"
+  },
+  "description": "We are pleased and proud to have the honour of entertaining our guests and spoiling them with our delicious culinary specialities. Experience the true meaning of the words: Guest, friendship, feeling good. „Being happy“.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1078f791-16af-4576-baf3-251aedd3fc15/99/image.jpg",
+      "caption": "Hotel Rose"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9cb5f382-b157-4fe5-bf8b-3501c81c707d/99/image.jpg",
+      "caption": "Hotel Rose 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3c066bd-0b82-4562-8085-62d0aadbc5bf/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0daa8bfd-10e1-48e0-9c67-9dfccfd14cff/99/image.jpg",
+      "caption": "Restaurant 2"
+    }
+  ],
+  "url": [
+    "http://www.hotel-rose.at"
+  ]
+}

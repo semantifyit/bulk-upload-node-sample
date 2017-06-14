@@ -1,0 +1,182 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://members.aon.at/jkroell2",
+    "http://members.aon.at/jkroell2",
+    "http://maps.mayrhofen.at/?foreignResource\u003d27EA962D-BD03-48CF-AB8C-721EA123A7DA"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dornauberg 57",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 676 6447290",
+    "faxNumber": "0043 5286 5202",
+    "email": "leitenhof.57@gmail.com",
+    "url": "http://members.aon.at/jkroell2"
+  },
+  "name": "Feriengut Pension Leitenhof",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3b83ecaa-abdd-493b-a311-165afe7430f7/99/image.jpg",
+      "caption": "imm036_36"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c8598d59-0a6d-4394-a702-6272cfbce059/99/image.jpg",
+      "caption": "Balkonzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aad566e2-b5e5-46d8-8c31-18dfe7be6839/99/image.jpg",
+      "caption": "Sonnenterasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b5d7766a-d098-4528-8dbc-2e38bd72378e/99/image.jpg",
+      "caption": "LEITENHOF"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e613d2ca-0fd8-4e43-84fc-08252710281f/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fbb913b5-b9c6-4b1a-9b30-128827cbf7d6/99/image.jpg",
+      "caption": "Pension Kröll Ginzling - Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6e3d57d-833d-4763-a7c5-68d89aecabba/99/image.jpg",
+      "caption": "Pension Kröll Ginzling - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2b7feeef-4820-40bb-81ad-952f088cd0f5/99/image.jpg",
+      "caption": "LEITENHOF"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d3598c27-122f-4998-ad4b-c6c075eb9cb6/99/image.jpg",
+      "caption": "Pension Kröll Ginzling - Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c280c63b-02f5-4583-9b92-4ddc518d962e/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/83a040fb-00d2-47c5-96a3-a6eb0f673aff/99/image.jpg",
+      "caption": "Balkonzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7881834e-0ada-4353-9a4d-c84541dc4cfa/99/image.jpg",
+      "caption": "Zimmer mit DU/WC"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8c3951da-8bfb-4339-a881-f399e6e41853/99/image.jpg",
+      "caption": "Nichtraucherstüberl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b9191747-48a2-47f2-aea3-e1764bce7bb0/99/image.jpg",
+      "caption": "Kamin"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/03d219d8-da28-4163-9bb6-7fbfbc2f25b2/99/image.jpg",
+      "caption": "imm024_24"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4903f3e9-7f71-4743-bbf7-2b284d4b4128/99/image.jpg",
+      "caption": "CIMG1076"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0905495100732",
+    "longitude": "11.7909586429596"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "2-местный номер, душ, туалет",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "2-местный номер, душ, туалет",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Naturpark-Pauschale 3 Nächte - Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "29.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "27.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "99.00",
+          "maxPrice": "99.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "99.00",
+          "maxPrice": "99.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

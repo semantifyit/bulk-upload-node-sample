@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Tabak Trafik Hofer T.",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1620918",
+    "longitude": "11.8596911"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tabak Trafik Hofer ",
+    "streetAddress": "Tuxer Str. 705",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62725"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/872a7e2a-a475-4630-a9f3-d08b99de2f52/99/image.png",
+      "caption": "Tabak Trafik Hofer "
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Häusling Alm 1050m"
+    },
+    {
+      "@language": "de",
+      "@value": "Häusling Alm 1050m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Häusling Alm 1050m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1469755",
+    "longitude": "11.9658152"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthaus Häusling",
+    "streetAddress": "Zillergrund 53",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5289 212",
+    "email": "info@haeusling-alm.at",
+    "url": "www.haeusling-alm.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ein Ausflug zum Erholen \nKinderfreundlicher Gastbetrieb \ngroße Spielwiese mit Streicheltieren \nganztägig warme Küche\nBesuchen Sie uns und lassen Sie sich überraschen!\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\nLaut Anhang bei der Mautstelle\n\nÜbernachtung möglich "
+    },
+    {
+      "@language": "en",
+      "@value": "Winter \non Request\n\novernight stay possible "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b3e58e37-75bd-45f3-85a2-085aea2a790a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Gasthaus Häusling 1050m"
+        },
+        {
+          "@language": "de",
+          "@value": "Gasthaus Häusling 1050m"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gasthaus Häusling 1050m"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/daf1977c-e95b-415a-b4bb-7962028577fc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Häusling2"
+        },
+        {
+          "@language": "de",
+          "@value": "Häusling2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Häusling2"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.haeusling-alm.at"
+  ]
+}

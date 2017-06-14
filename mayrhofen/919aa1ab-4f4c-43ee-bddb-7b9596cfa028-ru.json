@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BodyOfWater"
+  ],
+  "name": "Schlegeis Stausee",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0367602325287",
+    "longitude": "11.7042589187622"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Verbund Tourismus GmbH",
+    "streetAddress": "Tuxer Straße 795",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 8127",
+    "email": "tourismus@verbund.com",
+    "url": "http://www.verbund.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dac5d878-b6c5-405a-9735-35fb14eb0c90/99/image.jpg",
+      "caption": "Schlegeis Alpenstrasse"
+    }
+  ],
+  "url": [
+    "http://www.verbund.com/tm/de/schlegeis"
+  ]
+}

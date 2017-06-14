@@ -1,0 +1,185 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ahornchalet.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d69D6DBC8-50DD-436B-AE90-5647E56D8755"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ahorn, Chalet",
+    "streetAddress": "Dorf Haus 754",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62254",
+    "faxNumber": "0043 5285 6225490",
+    "email": "info@berghof.cc",
+    "url": "http://www.ahornchalet.at"
+  },
+  "name": "Chalet Ahorn",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "14"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e6316d7-da70-413e-89c4-eaf6effb3f06/99/image.jpg",
+      "caption": "Chalet Ahorn Sommerfoto 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a8b9b304-f1c8-423a-a5a5-94dfe715ce5a/99/image.jpg",
+      "caption": "Chalet Ahorn Sommerfoto 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2d5c5104-a617-4c04-b920-623f221f0f35/99/image.jpg",
+      "caption": "Kuh auf der Alm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28d8c381-0ab0-463a-9c70-234bfb97197d/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b4865361-0cdc-4f64-ad67-6916b90a9a0b/99/image.jpg",
+      "caption": "bike mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/162ddc8f-033a-42a9-a4ff-13bd56ca6e26/99/image.jpg",
+      "caption": "Funpark Mayrhofner Bergbahnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/814d5c2b-8304-4b80-98ce-286b86b8d0e1/99/image.jpg",
+      "caption": "rafting"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1e98d7f5-ad20-45e9-83ee-8ffc28f74471/99/image.jpg",
+      "caption": "skifahrer-in-action"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b0b84eb6-519f-452a-95e7-f9698452715e/99/image.jpg",
+      "caption": "Bauer__Landwirt_Kulinarik_Brettljause_Wiese (Archi"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b189a979-4073-46c8-ab77-c8c58f923f37/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1118670e-fd99-456a-b826-1c00ef217769/99/image.jpg",
+      "caption": "Sommer_Gipfel_Panorama ("
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52f480ce-9820-4e25-8ad8-f53c2f7b9e7e/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b12aa334-2455-4e09-a254-5a1716c56abe/99/image.jpg",
+      "caption": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e1affed6-1883-4b57-b1bf-fa305a718b96/99/image.jpg",
+      "caption": "Essbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b4668f08-3b14-44e1-b7a0-921ea92b51f5/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ae33822-480d-4586-b60d-0ffd1fed9aac/99/image.jpg",
+      "caption": "Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ae8ceac-3bcb-4752-9834-76460a4532b8/99/image.jpg",
+      "caption": "1. Stock"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/065d15ab-dc2b-4d2b-8c9b-4c997a405008/99/image.jpg",
+      "caption": "Erdgeschoss"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1602485387703",
+    "longitude": "11.8580460548401"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Дом отдыха, душ и ванна, туалет, 4 или больше спалень",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Дом отдыха, душ и ванна, туалет, 4 или больше спалень",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "6"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "120.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "150.00",
+          "maxPrice": "370.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "30.00",
+          "maxPrice": "330.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "15.00",
+          "maxPrice": "345.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "15.00",
+          "maxPrice": "360.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,732 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.mayrhofen.at/de/101031/101218/101193/haus-ahorn.html",
+    "http://maps.mayrhofen.at/proxy/frontend/page/mayrhofen/de",
+    "http://maps.mayrhofen.at/?foreignResource\u003dD332FBA2-128D-4D6A-BF63-F31D5E78508C"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ahorn, Ferienhaus",
+    "streetAddress": "Jakob-Moser-Straße 583",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 64318",
+    "faxNumber": "0043 5285 62586",
+    "email": "ferienhausahorn@aon.at",
+    "url": "http://www.mayrhofen.at/de/haus-ahorn"
+  },
+  "name": "Haus Ahorn",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unsere gemütliche Frühstückspension liegt in sonniger, ruhiger und zentraler Lage direkt am Waldrand. In nur 3-5 Gehminuten erreicht man Ahorn- und Penkenseilbahn, Erlebnisschwimmbad (Hallenbad), Ortszentrum, Tennis- bzw. Eislaufplätze, Minigolf, Kinderspielplatz. In der Nähe befindet sich eine Bushaltestelle (im Winter Skibushaltestelle) zu beliebten Ausflugszielen.\nFrühstücksraum mit TV, Terrasse, Liegewiese. Gemütliche Zimmer mit großem Balkon, Dusche/WC, genügend Parkmöglichkeit, Tv-Zimmer."
+    },
+    {
+      "@language": "de",
+      "@value": "Preise inklusive reichhaltigem, erweitertem Frühstück, exkl. Ortstaxe. Rabatt für lange Aufenthalte ab 21 Nächte sowie Kurzaufenthaltszuschlag bis 3 Nächte auf Anfrage!"
+    },
+    {
+      "@language": "de",
+      "@value": "In Mayrhofen beim Bahnhof vorbei, dann links die Einfahrt Mitte nehmen, am Postamt vorbei, danach rechts in die Hauptstraße einbiegen, geradeaus weiter bis zur Penkenbahn-Talstation, nach der Fleischhauerei Gasser links in die Fischergasse und dann rechts in die Jakob-Moserstraße (fünftes Haus auf der linken Seite!)."
+    },
+    {
+      "@language": "en",
+      "@value": "Our pleasant bed and breakfast is situated in a sunny, quiet and central position, directly on the forest edge. The Ahorn and Penken lifts are only a 3-5 minute walk away, as well as the adventure swimming pool, town centre, tennis courts and ice skating rink, mini golf, children\u0027s play ground. The bus stop is close by (in winter ski bus), which will take you to popular tourist spots. Breakfast room with TV, terrace, garden. Comfortable rooms with large balcony, shared shower/WC facilities, plenty of car parking space, televission."
+    },
+    {
+      "@language": "en",
+      "@value": "Price includes a generous continental breakfast. Price without local taxes. Details of discounts made for long stays (from 21 nights) and the supplement for short stays (up to 3 days) available on request!"
+    },
+    {
+      "@language": "en",
+      "@value": "In Mayrhofen drive past the railway station, then left into the Einfahrt Mitte, past the post office, then right into the high street, straight on until the Penken lift station, left at the \"Gasser\" butchers into the Fischerstrasse, then right into the Jakob-Moserstrasse (fifth house on the left)."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ed678180-da5b-4d78-916a-3efe37d17c4a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150822_142531"
+        },
+        {
+          "@language": "en",
+          "@value": "20150822_142531"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150822_142531"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8160932d-0c6a-448c-8407-9fc45dd771d8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienhaus Ahorn Mayrhofen - Haus Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienhaus Ahorn Mayrhofen - Haus Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienhaus Ahorn Mayrhofen - Haus Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b852e4ff-268d-46fa-acf2-3826d8e5c38b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_095852"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_095852"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_095852"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bf717e6a-61d5-4af7-82b1-fba37f9b0a0c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_100506"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_100506"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_100506"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/80af3142-95e9-4892-9e64-b8a2346670e5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_100230"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_100230"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_100230"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/481116e8-f9eb-47b4-9e65-6ee5f8564531/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_100553"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_100553"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_100553"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3edba516-1390-41ff-a603-9e212a3aa892/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_104012"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_104012"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_104012"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/34601c04-30c9-4a13-8ff7-b1357e00aa37/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_104350"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_104350"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_104350"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1677cff4-ef6d-4090-a2f9-b3894c9ee002/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_104129"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_104129"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_104129"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50f6d80d-7cd9-4ed9-aa00-b814dfda263b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_104807"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_104807"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_104807"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0380760e-36f0-4a9c-a254-90c93b0dd5fd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_104713"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_104713"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_104713"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c6bbc6f-a5f6-4386-a521-c5179d840e9d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_111038"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_111038"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_111038"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8798f88-547a-4af2-9567-1227779179c2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_111126"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_111126"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_111126"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/55a5c249-439a-478b-8770-42b9020ea837/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_111333"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_111333"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_111333"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f90bde08-929f-48b3-ae70-6466516c8444/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_111712"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_111712"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_111712"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b9b63a8-d0e0-4ef2-99cf-a6644639d01a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_110916"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_110916"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_110916"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd699f37-7c93-4561-8f1f-1a04252f485f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150822_142247"
+        },
+        {
+          "@language": "en",
+          "@value": "20150822_142247"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150822_142247"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/47296f05-6229-4162-9d2a-f3ec7a33bbe3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150822_142328"
+        },
+        {
+          "@language": "en",
+          "@value": "20150822_142328"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150822_142328"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8d2a01f1-d30e-4ef9-b7dc-d9fb9775f225/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "2014-12-27 11.37.18"
+        },
+        {
+          "@language": "en",
+          "@value": "2014-12-27 11.37.18"
+        },
+        {
+          "@language": "ru",
+          "@value": "2014-12-27 11.37.18"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8575dcca-6475-4b23-b4fe-5e49dc7ea3fd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "2014-12-27 14.20.38"
+        },
+        {
+          "@language": "en",
+          "@value": "2014-12-27 14.20.38"
+        },
+        {
+          "@language": "ru",
+          "@value": "2014-12-27 14.20.38"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/603c20ac-7c03-4bbc-82e4-c6d7017aaf0b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "2014-12-27 14.21.22"
+        },
+        {
+          "@language": "en",
+          "@value": "2014-12-27 14.21.22"
+        },
+        {
+          "@language": "ru",
+          "@value": "2014-12-27 14.21.22"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/43afaf55-8af3-4de2-bac2-7fe559694107/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "2014-12-27 14.22.41"
+        },
+        {
+          "@language": "en",
+          "@value": "2014-12-27 14.22.41"
+        },
+        {
+          "@language": "ru",
+          "@value": "2014-12-27 14.22.41"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04a99096-e5fa-4650-9193-64981547b70a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "2014-12-27 19.38.07"
+        },
+        {
+          "@language": "en",
+          "@value": "2014-12-27 19.38.07"
+        },
+        {
+          "@language": "ru",
+          "@value": "2014-12-27 19.38.07"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/38c5af46-55e3-401f-b1e2-270cea3ec42d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "2014-12-27 19.39.10"
+        },
+        {
+          "@language": "en",
+          "@value": "2014-12-27 19.39.10"
+        },
+        {
+          "@language": "ru",
+          "@value": "2014-12-27 19.39.10"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/76f115fa-16bb-4508-87b1-8d2189b3a24b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "2015-02-09 13.00.31"
+        },
+        {
+          "@language": "en",
+          "@value": "2015-02-09 13.00.31"
+        },
+        {
+          "@language": "ru",
+          "@value": "2015-02-09 13.00.31"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a13e412c-8715-4fae-aa75-39ff89a9f32e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "2015-02-09 13.08.11"
+        },
+        {
+          "@language": "en",
+          "@value": "2015-02-09 13.08.11"
+        },
+        {
+          "@language": "ru",
+          "@value": "2015-02-09 13.08.11"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f2ea2d2-d2db-44dd-a9bd-7c88b179d627/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "2015-02-09 13.09.16"
+        },
+        {
+          "@language": "en",
+          "@value": "2015-02-09 13.09.16"
+        },
+        {
+          "@language": "ru",
+          "@value": "2015-02-09 13.09.16"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/027b6c02-308f-46b9-a85a-6d5e8a41c6cb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_095813"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_095813"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_095813"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1548740b-77d0-4e61-969a-786d73ca2c3d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "20150726_095826"
+        },
+        {
+          "@language": "en",
+          "@value": "20150726_095826"
+        },
+        {
+          "@language": "ru",
+          "@value": "20150726_095826"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1610400484254",
+    "longitude": "11.8645906448364"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, Душ"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Helles, gemütliches Zimmer mit Dusche, Sat-Tv, Couch und großem Balkon, mit schönem Blick auf die Berge. Eigenes Etagenklo (nur für dieses Zimmer). Kinderpreis auf Anfrage."
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortable rooms with shower, Sat-Tv, couch and large balcony with a beautiful view of the mountains. Seperate WC on the floor, only for that room. Price for children on request."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppel- o. Dreibettzimmer m. Dusche Zi.2"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, Душ"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "29.50",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "29.50",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Dreibettzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Triple room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "3-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütliches, geräumiges Zimmer mit Sat-Tv, Couch,  Balkon und schönem Blick auf die Berge. Zum Zimmer gehört ein schöner Duschraum und eigenem WC. Kinderpreis auf Anfrage."
+        },
+        {
+          "@language": "en",
+          "@value": "Comfortable, spacious room, Sat-Tv with couch, balcony and lovely view of the mountains. Attached is a nice shower room, WC separately. Price for children on request."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppel- o. Dreibett mit Dusche, WC Zi 3"
+            },
+            {
+              "@language": "en",
+              "@value": "triple room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "3-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "36.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "36.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

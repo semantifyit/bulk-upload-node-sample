@@ -1,0 +1,276 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.oblasser-zillertal.at.tf",
+    "http://maps.mayrhofen.at/?foreignResource\u003dA2ADB5F0-51F9-43C5-B6C6-C25F2EC1FF8A"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Oblasser, Ferienwohnung",
+    "streetAddress": "Gruben 38",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "faxNumber": "0043 5285 63166",
+    "email": "oblasser.zillertal@aon.at",
+    "url": "http://www.oblasser-zillertal.at.tf"
+  },
+  "name": "Schmirnerhof",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e6f7dcc7-9541-411c-aeeb-bd63b86344ee/99/image.jpg",
+      "caption": "Schmirnerhof Brandberg - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9e81b41-6e90-4a6b-a5c5-3201b313d19d/99/image.jpg",
+      "caption": "Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bef7c3b5-c851-4232-ac29-5f662eeccdfe/99/image.jpg",
+      "caption": "Sitzecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ffd07d84-738e-4e5e-a101-7d10f69ee9d3/99/image.jpg",
+      "caption": "Garderobe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6fa9ef0a-f750-4650-9ea1-5cdfc9915879/99/image.jpg",
+      "caption": "Zimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/30731e9d-22a4-477d-b3e5-b8aa6cc10269/99/image.jpg",
+      "caption": "ZImmer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56e5b5b2-e75b-40b5-834a-09028a9ef10a/99/image.jpg",
+      "caption": "Zimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6ccec153-dd4d-4bcc-a7c1-9e6437eebf28/99/image.jpg",
+      "caption": "Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa7b0571-502f-424d-8f4f-4b21b6e9c6de/99/image.jpg",
+      "caption": "Schmirnerhof - Skiraum "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/770a45cd-133d-4222-be26-91e8c7f28053/99/image.jpg",
+      "caption": "Spielecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ada5cfb7-b45f-416c-b2b9-1fd1cb7a054d/99/image.jpg",
+      "caption": "Aussicht vom Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a742edd8-f8ed-4205-ab47-abdebf352ccf/99/image.jpg",
+      "caption": "Liegewiese 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5169e75f-bfa6-479d-812b-145f8c3cf5e4/99/image.jpg",
+      "caption": "Spielplatz 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bddfc636-beeb-4536-afe5-f0a26edbb06b/99/image.jpg",
+      "caption": "Rutsche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/978fcac2-996a-4e63-ba8a-13437c6702cb/99/image.jpg",
+      "caption": "Sandkiste"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/65e7248c-6a1c-44d3-9773-b56937b50967/99/image.jpg",
+      "caption": "Schmirnerhof - Aussicht "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/088839f3-934e-4775-b7d4-a9a2f9df3bc6/99/image.jpg",
+      "caption": "Rose gelb"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/719de145-874a-4e3b-8883-47402ed215fd/99/image.jpg",
+      "caption": "Rose pink"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c922da99-3b7c-4a8b-b8c0-5f1481bdb90b/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3fbeff74-0121-465a-b964-158f016a978b/99/image.jpg",
+      "caption": "Schmirnerhof - Almhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db2344be-a6e0-4b44-a8c7-b22655c58274/99/image.jpg",
+      "caption": "Kuh"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77290fcd-db63-4c97-b787-362c191c68af/99/image.jpg",
+      "caption": "Brandbergerkolm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e848568f-6b78-4e75-9524-72d71fb0e525/99/image.jpg",
+      "caption": "Radfahren"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6318c0c-461f-44d5-83a2-7cac1f44b8dd/99/image.jpg",
+      "caption": "Wanderung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5bca62a9-4e21-4dd8-8dd6-8de4492c8517/99/image.jpg",
+      "caption": "Paraglider"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/89402db6-0fa1-4fa7-a586-f87fa3d8c856/99/image.jpg",
+      "caption": "Biken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c7c28eb-8c85-4196-92fb-3e24e409f14c/99/image.jpg",
+      "caption": "Klettersteig"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb622df7-528f-45f1-8e3e-9cc2cc566d8a/99/image.jpg",
+      "caption": "Rafting"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad7e3428-1520-4f6f-a4c5-8ea60365fe85/99/image.jpg",
+      "caption": "White Lounge Ahorn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ccd4a1e-bce3-4402-9c91-2c5bd6f16200/99/image.jpg",
+      "caption": "Langlaufen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e2d8da77-bdaa-43cc-b48a-70b0ca369c81/99/image.jpg",
+      "caption": "Rodeln"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/30622884-b839-4cb8-a1d5-47b1477fc922/99/image.jpg",
+      "caption": "Snowboarden"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/762a6528-2643-4726-87f9-b9b1927b0227/99/image.jpg",
+      "caption": "Skilift"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/560af71c-f1e7-4fe3-8cad-5069e221865e/99/image.jpg",
+      "caption": "Ortseingang Brandberg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a86be607-3277-49af-96ea-12877941acca/99/image.jpg",
+      "caption": "Schneemann"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dd2cbcfb-1b2b-42c6-bd97-878662611c1e/99/image.jpg",
+      "caption": "Winterlandschaft Brandberg"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1678494623147",
+    "longitude": "11.9030106067657"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, три спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, три спальни",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "92.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "115.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "138.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "161.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "184.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "207.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

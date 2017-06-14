@@ -1,0 +1,736 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d8D35E338-AA46-40A7-BE98-B93829C138AC",
+    "http://www.weberhof-zillertal.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienwohnungen Weberhof",
+    "streetAddress": "Schwendau-Dorf 134",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5322658",
+    "email": "info@weberhof-zillertal.at",
+    "url": "http://www.weberhof-zillertal.at"
+  },
+  "name": "Weberhof",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Der Weberhof ist ein traditionelles Tiroler Bauernhaus direkt im Zentrum von Schwendau im Zillertal. Die Horbergbahn (Skigebiet Mayrhofen-Penken) ist nur 700 m entfernt. Der örtliche Ski- und Wanderbus hält direkt vor der Haustür. In unseren beiden Ferienwohnungen mit Balkon und Terrasse verbringen Sie einen erholsamen Urlaub auf dem Bauernhof.\n\nZum Frühstück erhalten Sie auf Anfrage frische Brötchen und Milch und Eier vom eigenen Bauernhof. Für noch mehr Komfort können Sie Frühstück oder Halbpension im Hotel Neuwirt, direkt nebenan buchen. Vor dem Haus sind ausreichend Parkplätze vorhanden. Für Ihre Wintersportausrüstung steht ein Skiraum mit Skischuhtrockner zur Verfügung.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: ab 15.00 Uhr\nCheck out: bis 10.00 Uhr"
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise per Auto\nÜber die Inntalautobahn A12 bis zur Ausfahrt Zillertal und von dort noch 30 km auf der Zillertal Bundesstraße Nr. B169 bis nach Schwendau.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Urlaub, Erholung, Ruhe, Geheimtipp, Bauernhof, Kinder, Tiere, Natur, Genuss, Sauberkeit"
+    },
+    {
+      "@language": "en",
+      "@value": "Welcome at the Weberhof! \nThe Weberhof is a traditional Tyrolean Farmhouse in the centre of Schwendau / Zillertal The Horberg cable car (Skiarea Mayrhofen-Penken) is just 700m away. The local Ski- and Hiking bus stops just in front of the house. In our two holiday apartments with balcony and terrace you can enjoy some recreative farm holidays.\n\nFor breakfast you can order fresh bread rolls as well as milk and eggs from our farm. If you like it even more convenient you can have breakfast or halfboard at the enclosed Hotel Neuwirt. There is a free parking area just in front of the house. For your Ski equipment we have a ski storage room with skiboot dryer.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 15.00 hrs\nCheck out: 10.00 hrs"
+    },
+    {
+      "@language": "en",
+      "@value": "Travelling by Car\nVia the Inntalautobahn A12 motorway until the exit for Zillertal, from there take the B169 Zillertal Road for the next 30 km to Schwendau.\n"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "18"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c3d7ad61-5fbd-4536-92ce-6680cd5ae8a6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Weberhof Hippach - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Weberhof Hippach - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Weberhof Hippach - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f1a365b7-318f-45ce-8608-c61403ed37f8/99/image.png",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "logo weberhof"
+        },
+        {
+          "@language": "en",
+          "@value": "logo weberhof"
+        },
+        {
+          "@language": "ru",
+          "@value": "logo weberhof"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf95d07d-8f46-4780-b855-4d09e7c855ed/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Weberhof Hippach - Winter "
+        },
+        {
+          "@language": "en",
+          "@value": "Weberhof Hippach - Winter "
+        },
+        {
+          "@language": "ru",
+          "@value": "Weberhof Hippach - Winter "
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1aac34e1-2507-4519-a9c8-3ce0858f50e6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Weberhof - Wohnbereich"
+        },
+        {
+          "@language": "en",
+          "@value": "Weberhof - Wohnbereich"
+        },
+        {
+          "@language": "ru",
+          "@value": "Weberhof - Wohnbereich"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/deeff2e1-604d-431f-81ab-968b0369e943/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Weberhof - Zimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Weberhof - Zimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Weberhof - Zimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d2e903b-e66a-40ba-be50-980081ddf870/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Weberhof - Zimmer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Weberhof - Zimmer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Weberhof - Zimmer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/551a4b85-a03d-4f42-8570-383748bc38d3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Weberhof - Zimmer3"
+        },
+        {
+          "@language": "en",
+          "@value": "Weberhof - Zimmer3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Weberhof - Zimmer3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f7b8bb4-0fd6-4edc-b2b6-797ab3e987cf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Weberhof - Zimmer4"
+        },
+        {
+          "@language": "en",
+          "@value": "Weberhof - Zimmer4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Weberhof - Zimmer4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/19e80bb3-5368-49ad-8a44-e81bf36ce658/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Weberhof - Badezimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Weberhof - Badezimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Weberhof - Badezimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7834f502-726b-43c5-9072-65f3541d02b6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Weberhof - Badezimmer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Weberhof - Badezimmer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Weberhof - Badezimmer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/020eb548-bd82-4de5-bf6d-171ff7ec70f7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Weberhof - Wein"
+        },
+        {
+          "@language": "en",
+          "@value": "Weberhof - Wein"
+        },
+        {
+          "@language": "ru",
+          "@value": "Weberhof - Wein"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/251e6471-574f-4883-b575-d0ab09ca81ed/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Almsommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Almsommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Almsommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ea35def1-1f64-445b-84a9-656e8ddbce61/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterspaziergang an der Zillerpromenade"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterspaziergang an der Zillerpromenade"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterspaziergang an der Zillerpromenade"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/542111cc-c0b3-4494-a715-0f32c0c5dc72/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ziller im Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Ziller im Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ziller im Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/35e896f3-02a4-4f63-81c6-277434c5a48b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterspaziergang an der Zillerpromenade"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterspaziergang an der Zillerpromenade"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterspaziergang an der Zillerpromenade"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2b15fece-2e02-426d-9e81-48727b25b8fe/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Am Berg Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Am Berg Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Am Berg Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fd319f5e-79d3-47f3-b546-710dffb9c228/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter in den Bergen"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter in den Bergen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter in den Bergen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1f0d7ef-8c95-4ffb-81b3-9f3bd0affd91/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winter in den Bergen"
+        },
+        {
+          "@language": "en",
+          "@value": "Winter in den Bergen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter in den Bergen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/640acd9d-96a0-45ec-b98c-7d3a027419b4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skipiste"
+        },
+        {
+          "@language": "en",
+          "@value": "Skipiste"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skipiste"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2145ba56-04d0-466e-bd88-036b8cdbe74a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wohnküche"
+        },
+        {
+          "@language": "en",
+          "@value": "Wohnküche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wohnküche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f9adefe3-619c-4e46-b2de-b6f517c7527e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wohnküche"
+        },
+        {
+          "@language": "en",
+          "@value": "Wohnküche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wohnküche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db1c5c88-cdf7-438e-8345-77e26fd786ee/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "bad"
+        },
+        {
+          "@language": "en",
+          "@value": "bad"
+        },
+        {
+          "@language": "ru",
+          "@value": "bad"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fd1b83b1-5a04-4a9c-b08c-ecbd506fcc51/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "balkon"
+        },
+        {
+          "@language": "en",
+          "@value": "balkon"
+        },
+        {
+          "@language": "ru",
+          "@value": "balkon"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d526df2-015c-4014-b335-02be6b4adf50/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "hausgang"
+        },
+        {
+          "@language": "en",
+          "@value": "hausgang"
+        },
+        {
+          "@language": "ru",
+          "@value": "hausgang"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0e3012e3-6052-4456-a6b6-5de8ce9f9633/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "mahlzeit"
+        },
+        {
+          "@language": "en",
+          "@value": "mahlzeit"
+        },
+        {
+          "@language": "ru",
+          "@value": "mahlzeit"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c073a5f7-8eea-479e-9d22-c7073d285da6/99/image.png",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "logo weberhof"
+        },
+        {
+          "@language": "en",
+          "@value": "logo weberhof"
+        },
+        {
+          "@language": "ru",
+          "@value": "logo weberhof"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/408b06d7-156b-4cd4-a9bc-0bdc3da2b9fc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Whg1"
+        },
+        {
+          "@language": "en",
+          "@value": "Whg1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Whg1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4605ce3-8bdc-4b51-9396-4f502a8a636c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "oktober 2014 215"
+        },
+        {
+          "@language": "en",
+          "@value": "oktober 2014 215"
+        },
+        {
+          "@language": "ru",
+          "@value": "oktober 2014 215"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/01167af5-650f-46a1-9e3c-b678a6bdd092/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "oktober 2014 224"
+        },
+        {
+          "@language": "en",
+          "@value": "oktober 2014 224"
+        },
+        {
+          "@language": "ru",
+          "@value": "oktober 2014 224"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52ccde2c-37db-448b-8d67-61894122e3ee/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "a da hundskehle"
+        },
+        {
+          "@language": "en",
+          "@value": "a da hundskehle"
+        },
+        {
+          "@language": "ru",
+          "@value": "a da hundskehle"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e6d81e50-4036-400b-90a1-28acf6ad154c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "wintertraum"
+        },
+        {
+          "@language": "en",
+          "@value": "wintertraum"
+        },
+        {
+          "@language": "ru",
+          "@value": "wintertraum"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1ef1d953-13a3-494c-981e-02e862c21471/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "afn ahorn"
+        },
+        {
+          "@language": "en",
+          "@value": "afn ahorn"
+        },
+        {
+          "@language": "ru",
+          "@value": "afn ahorn"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1973164615868",
+    "longitude": "11.8596982955933"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, Standard"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, standard"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, Стандарт"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Geniessen Sie in unseren Ferienwohnungen für 4 und 6 Personen unvergessliche Urlaubstage im Zillertal. Die Appartements sind in einem modernen Alpenstil eingerichtet und verwöhnen Sie mit Berg- und Gartenblick. Sie verfügen über eine voll ausgestattete Küche mit gemütlichem Wohn/Essbereich und 2 Schlafzimmer,Dusche/WC. Die komplette Wohnung ist mit Parkett- oder Holzboden ausgestattet. Tv mit Sat,WLAN, im Hauseingangsbereich befindet sich ein Skischuhtrockner und Skiständer."
+        },
+        {
+          "@language": "en",
+          "@value": "Enjoy unforgettable holidays in our holiday apartments for 4 and 6 persons in the beautiful Zillertal, Tyrol. The apartments are furnished in a modern Alpine style with a breathtaking view at the surrounding mountains. They come with a fully equipped kitchen and 2 bedrooms, bathroom and toilett. Tv, free wlan included.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./Wohn-Schlafraum/2 Schlafr./Dusche,WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.living-bedr./2 bedr./shower, wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, Стандарт"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "105.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "125.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

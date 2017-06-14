@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Anja\u0027s Nageldesign",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1676541",
+    "longitude": "11.8651064000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Brandberg Straße 354",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 44 05 859",
+    "url": "http://www.anjas.at/"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/33ef71fe-be72-4ed4-b269-27f45a1caab2/99/image.jpg",
+      "caption": "Anja\u0027s Nageldesign"
+    }
+  ],
+  "url": [
+    "http://",
+    "http://www.anjas.at/"
+  ]
+}

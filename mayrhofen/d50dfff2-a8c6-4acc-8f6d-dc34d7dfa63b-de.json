@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Vintage House",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1683647",
+    "longitude": "11.864293"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Vintage House",
+    "streetAddress": "Hauptstraße 405",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 5935 621",
+    "email": "timea@vintagehouse.at",
+    "url": "http://www.vintagehouse.at"
+  },
+  "description": "...Lieblingsdinge für dich gemacht\n\n45 verschiedene Teegrassorten\nTeezubehör\nSchokoladenspezialitäten\nHandgemachte Vintage Geschenke, -Home Decor, -Naur Badeprodukte, -Seidenschals, -Schmuckstücke ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d8f78ccf-be0f-4307-a915-98944102d02b/99/image.jpg",
+      "caption": "Vintage House "
+    }
+  ],
+  "url": [
+    "http://www.vintagehouse.at"
+  ]
+}

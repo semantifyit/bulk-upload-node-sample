@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Anita Schmidt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1631737829925",
+    "longitude": "11.859644651413"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Dornaustraße 620",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 1168318"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7abb92dc-f4be-4d03-a079-263503abf633/99/image.jpg",
+      "caption": "Fusspflege Anita Schmidt"
+    }
+  ]
+}

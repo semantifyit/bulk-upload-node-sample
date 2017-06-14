@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ToyStore",
+    "BookStore"
+  ],
+  "name": "Wambti",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2045840769228",
+    "longitude": "11.8711996078491"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Talstraße 65",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 21732",
+    "faxNumber": "(0043) 5282 21732",
+    "email": "wambtishop@aon.at",
+    "url": "http://www.wambti.at"
+  },
+  "description": "WambTi-Shop Ramsau - Der Trendshop \nTop Aktuell: \nNEU, WambTi Shop Ramsau ist neuer offizieller Ergobag-Händler im Zillertal!\nAb sofort bei WambTi erhältlich: \nDer ergonomische Rucksack von ergobag für die Volksschule! \nViele Top Modelle und Zubehör auf Lager. \nAußerdem führen wir auch sämtliche Modelle von ergolino, für den Kindergarten und Satch, für die weiterführenden Schulen!\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2d721990-ab89-4f6b-9e78-cc864287525c/99/image.jpg",
+      "caption": "Wambti Shop"
+    }
+  ],
+  "url": [
+    "http://www.wambti.at"
+  ]
+}

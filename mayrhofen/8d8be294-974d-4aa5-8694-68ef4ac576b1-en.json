@@ -1,0 +1,77 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d8D8BE294-974D-4AA5-8694-68EF4AC576B1"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Antik, Haus",
+    "streetAddress": "Talstraße 18",
+    "addressLocality": "Ramsau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 25310",
+    "faxNumber": "0043 5282 3931",
+    "email": "info@appartement-regina.at"
+  },
+  "name": "Haus Antik",
+  "description": "fully furnished big appartement in sunny and central position",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bdd49560-ea3f-4081-b916-e275cc4bc3ef/99/image.jpg",
+      "caption": "Haus Antik Ramsau - Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2110417241099",
+    "longitude": "11.8724656105042"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "apartment/2 bedrooms/shower, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Geraerhütte 2326m"
+    },
+    {
+      "@language": "de",
+      "@value": "Geraerhütte 2326m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Geraerhütte 2326m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.043392593413",
+    "longitude": "11.6281226353004"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Geraerhütte ",
+    "streetAddress": "Vals 24b/1",
+    "addressLocality": "St. Jodok am Brenner",
+    "postalCode": "6154",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 9610 303",
+    "email": "info@geraerhuette.at",
+    "url": "www.geraerhuette.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "In den westlichen Zillertaler Alpen, eingebettet zwischen den markanten Felswänden von Olperer, Fußstein und Schrammacher liegt unterhalb der Alpeinerscharte im wild romantischen Talschluss der hinteren Valsertals die gemütliche Geraerhütte.\n\nBei einer ausgiebigen Rast können Sie sich von unserer reichhaltigen und herzhaften Küche, sowie einen guten Tropfen aus unserem Keller verwöhnen lassen.\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\ngeschlossen \n\nÜbernachtung möglich\n28 Betten und 75 Lager  "
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nclosed\n\novernight stay possible \n28 beds and 75 dormitories"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/28b9a35f-fd02-4d4c-bae8-277fe2cadc6e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Tisch"
+        },
+        {
+          "@language": "de",
+          "@value": "Tisch"
+        },
+        {
+          "@language": "ru",
+          "@value": "Tisch"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/eb068cc5-4011-49c4-8b07-4a047d66ee9c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Panoramablick"
+        },
+        {
+          "@language": "de",
+          "@value": "Panoramablick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Panoramablick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/15728da6-5c4d-4ea9-bb6b-af26f9bc2ea3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Geraerhüttte"
+        },
+        {
+          "@language": "de",
+          "@value": "Geraerhüttte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Geraerhüttte"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.geraerhuette.at"
+  ]
+}

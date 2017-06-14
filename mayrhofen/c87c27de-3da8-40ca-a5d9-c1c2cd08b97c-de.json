@@ -1,0 +1,230 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dC87C27DE-3DA8-40CA-A5D9-C1C2CD08B97C",
+    "http://www.brunnerhof-zillertal.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brunnerhof",
+    "streetAddress": "Laimach 119",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 52823258",
+    "email": "hundsbichlergp@aon.at",
+    "url": "http://www.brunnerhof-zillertal.at"
+  },
+  "name": "Brunnerhof",
+  "description": [
+    "Gemütliches Bauernhaus in zentraler Lage zwischen Hippach und Zell. Wir bieten Ihnen eine Liegewiese sowie einen Skikeller mit Skischuhheizung. Die Ski- und Dörferbushaltestelle sowie der Langlaufloieneinstieg befindet sich in der Nähe des Hauses.\nUnser Tipp: Almwanderung zu unserer urig eingerichteten Grün Alm!",
+    "Kinderermäßigung auf Anfrage.",
+    "Check in 15.00 Uhr - Check out 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c2dcddd-7a61-424d-8d49-f66d00644aeb/99/image.jpg",
+      "caption": "Brunnerhof Winteransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/95bc1b59-c086-4377-8576-9919f4a001ca/99/image.jpg",
+      "caption": "Brunnerhof in Laimach, Hippach im Zillertal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/be7b0850-f8ad-4538-837a-214636c74a3e/99/image.jpg",
+      "caption": "Brunnerhof Hippach - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5a7d2ba8-91a6-45c5-803b-1c680dad3782/99/image.jpg",
+      "caption": "Brunnerhof Hippach - Parkplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98dad9e3-e178-4b6a-9f6f-8e37c407e8db/99/image.jpg",
+      "caption": "Brunnerhof Hippach - Skischuhtrockner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/78b828a5-ba06-4bd2-8e2f-76b89df0a330/99/image.jpg",
+      "caption": "Brunnerhof Hippach - Brennerei 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f006e87-ce29-453f-bf1b-fbdc1d88ed39/99/image.jpg",
+      "caption": "Brunnerhof Hippach - Brennerei 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/993610d6-265e-475f-8f58-60a75141b935/99/image.jpg",
+      "caption": "Grünalm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a2547484-4262-429c-97a1-1814ac46d46b/99/image.jpg",
+      "caption": "Grünalm 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae446f12-b0c1-4321-8160-7702e4110099/99/image.jpg",
+      "caption": "Zimmer Grünalm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/49fb6797-fde5-4cfb-b8fd-54e917a246d1/99/image.jpg",
+      "caption": "Brunnerhof Gerti"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac51afe2-806d-41c3-8113-c915cd9b7177/99/image.jpg",
+      "caption": "Brunnen_neu"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2173346226363",
+    "longitude": "11.8661731481552"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Wohnung \"Michelle\" 60m²\nKüche\ngroße Wohnküche mit Geschirrspüler, Cerankochfeld, Backofen, Dunstabzug, Microwelle, Kaffeemaschine, Wasserkocher, große Eckbank mit Tisch für bis zu 6 Personen\n\n\n1 Doppelbettzimmer mit Zusatzbett (Ausziehcouch) mit Balkon nach Ost\n1 Ausziehcouch (Doppelbett) im Wohnbereich\nBadezimmer\n1 Badezimmer mit Dusche und Waschmaschine\n1 extra WC\nWäsche\ndie Zimmer sind fertig bezogen\nHandtücher im Bad und Tischtücher in der Küche werden bereitgestellt\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Michelle",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt",
+      "description": "Wohnung \"Lisa\" 64m²\nKüche\ngroße Wohnküche mit Geschirrspüler, Cerankochfeld, Backofen, Dunstabzug, Microwelle, Kaffeemaschine, Wasserkocher, große Eckbank mit Tisch für bis zu 6 Personen\n\n1 Doppelbettzimmer mit Zusatzbett (Ausziehcouch) mit Balkon nach West\n1 Ausziehcouch (Doppelbett) im Wohnbereich\nBadezimmer\n1 Badezimmer mit Dusche und Waschmaschine\n1 extra WC\nWäsche\ndie Zimmer sind fertig bezogen\nHandtücher im Bad und Tischtücher in der Küche werden bereitgestellt\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Lisa",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Wohnung \"Museumblick Peter\" 60m²\nKüche\ngroße Wohnküche mit Geschirrspüler, Cerankochfeld, Backofen, Dunstabzug, Microwelle, Kaffeemaschine, Wasserkocher, Sitzgelegenheit mit Tisch für bis zu 4 Personen\nSchlafzimmer\n1 Doppelzimmer mit Balkon nach West\n1 Doppelzimmer mit Balkon nach Ost\n\n1 Badezimmer mit WC, Badewanne/Dusche\nWäsche\ndie Zimmer sind fertig bezogen\nHandtücher im Bad und Tischtücher in der Küche werden bereitgestellt\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Museumblick Peter",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Wohnung \"klein aber fein\" 63m²\nKüche\nWohnküche mit Geschirrspüler, Cerankochfeld, Backofen, Dunstabzug, Microwelle, Kaffeemaschine, Wasserkocher, Esstisch für bis zu 4 Personen\nSchlafzimmer\n1 Doppelzimmer mit Ausziehcouch und Balkon nach Nord\n1 Doppelzimmer mit Balkon nach Nord\n\n1 Badezimmer mit WC, Badewanne, Waschmaschine und Wäschetrockner\nWäsche\ndie Zimmer sind fertig bezogen\nHandtücher im Bad und Tischtücher in der Küche werden bereitgestellt\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement klein aber fein",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Wohnung \"Alpenblick Seppi\" 94m²\nKüche\ngroße Wohnküche mit Geschirrspüler, Cerankochfeld, Backofen, Dunstabzug, Microwelle, Kaffeemaschine, Wasserkocher, große Eckbank mit massivem Bauerntisch für bis zu 8 Personen\nSchlafzimmer\n2 Doppelzimmer\n1 Dreibettzimmer\n1 Ausziehcouch für 1 Person im Wohnzimmer\n\n1 Badezimmer mit Badewanne, Dusche, Waschmaschine und Wäschetrokner\n1 extra WC\nWäsche\ndie Zimmer sind fertig bezogen\nHandtücher im Bad und Tischtücher in der Küche werden bereitgestellt\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Alpenblick Seppi",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Wohnung \"Rustikal\" 97m²\nKüche\ngroße Wohnküche mit Geschirrspüler, Cerankochfeld, Backofen, Dunstabzug, Microwelle, Kaffeemaschine, Wasserkocher, große Eckbank mit Tisch für bis zu 9 Personen, große Liegecouch \nSchlafzimmer\n2 Doppelbettzimmer mit Zusatzbett (Ausziehcouch) mit Balkon nach Ost\n1 Doppelzimmer\n\n1 Badezimmer mit Badewanne/Dusche und Waschmaschine\n1 Dusche\n1 extra WC\nWäsche\ndie Zimmer sind fertig bezogen\nHandtücher im Bad und Tischtücher in der Küche werden bereitgestellt\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Rustikal",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Souvenirs auf Holz - Thanner",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2081721",
+    "longitude": "11.8715279"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Talstraße 42",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 15 16 616"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f06dd5e3-e56f-42c4-94bb-62f389cfeb01/99/image.jpg",
+      "caption": "Thanner 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ddbd9b5e-81ac-4a81-bdd1-a3fac02e1bdf/99/image.jpg",
+      "caption": "Thanner 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9d85890b-ebeb-4b29-bb42-20a07eeae138/99/image.jpg",
+      "caption": "Thanner 3"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schwendberg 338/2",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 660 344 00 14 ",
+    "email": "apart.bradl@gmx.at"
+  },
+  "name": "Apart Bradl",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/53188c13-a13a-41f1-9371-99d9283deafd/99/image.jpg",
+      "caption": "IMG_3629"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59901561-4abf-443a-a82f-3b174493bb34/99/image.jpg",
+      "caption": "IMG_3631"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c09d6667-4de1-4b3d-997a-db18edf58f5f/99/image.jpg",
+      "caption": "Einkehr © Blickfang Photographie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/893a99b7-0195-4f20-8f37-6d1b11053e2f/99/image.jpg",
+      "caption": "Langlaufen © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64dc37ea-acf5-4065-b8aa-d5d71541fe43/99/image.jpg",
+      "caption": "Pistenspaß © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12f929e2-3873-4a40-9085-c246b879d4fd/99/image.jpg",
+      "caption": "Schneeschuhwandern © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e449e1b5-3502-4721-a643-587b79a59e40/99/image.jpg",
+      "caption": "Winter am Berg © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4559ff7e-6a38-4db4-809f-e085dd969e4f/99/image.jpg",
+      "caption": "Winterwandern © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/09be0ce4-b657-4cad-8201-ec05796b1fbf/99/image.jpg",
+      "caption": "Entspannung pur © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ce8cb36-12e4-4101-a86d-1af0113ab238/99/image.jpg",
+      "caption": "Gipfel © Paul Sürth"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6d36efb4-1da0-48d2-93a5-c0b7541b3d34/99/image.jpg",
+      "caption": "Hochgebirgs-Naturpark Zillertaler Alpen © Norbert "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2084282",
+    "longitude": "11.8605637000001"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "143.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

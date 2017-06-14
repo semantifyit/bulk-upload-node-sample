@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ChildrensEvent"
+  ],
+  "name": "Festival for children",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Sabrina",
+      "familyName": "Eder"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "(0043) 664 4590701 ",
+      "email": "office@diequerdenker.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "(0043) 664 4590701 ",
+      "email": "office@diequerdenker.at"
+    }
+  },
+  "description": "Auxiliary date in bad weather: 15th August 2017\n\nMore information coming soon!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/91b217ae-f036-448b-ade2-14d5ab36729e/99/image.jpg",
+      "caption": "Copyright by drubig-photo "
+    }
+  ],
+  "startDate": "2017-08-13T00:00:00",
+  "endDate": "2017-08-13"
+}

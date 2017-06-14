@@ -1,0 +1,87 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Bogensportanlage bei der Tristenbachalm"
+    },
+    {
+      "@language": "de",
+      "@value": "Bogensportanlage bei der Tristenbachalm"
+    },
+    {
+      "@language": "ru",
+      "@value": "Bogensportanlage bei der Tristenbachalm"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1643153869791",
+    "longitude": "11.8616187572479"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Action Club Zillertal",
+    "streetAddress": "Hauptstraße 458",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62977",
+    "email": "info@actionclub-zillertal.at",
+    "url": "http://www.actionclub-zillertal.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Auf der Bogensportanlage der Tristenbachalm gibt es die Möglichkeit, die Kunst des Bogenschießens zu erlernen und zu trainieren.\nDie Action-Club-Zillertal-Bogenprofis stehen Ihnen mit Rat und Tat zur Seite. Bogen, Pfeile und alle dazugehörigen Geräte werden zur Verfügung gestellt. \n\nAm Ende der Veranstaltung gibt´s ein Club-Turnierschießen mit anschließender Preisverteilung.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "On the bow of the sports facility Tristenbachalm there is the opportunity to learn the art of archery and train.\nThe Action Club Zillertal Bow professionals assist you with words and deeds aside. Bows, arrows and all associated equipment are made available.\n\nAt the end of the event theres a club tournament shooting, followed by prize distribution."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/992fdd3f-d0f3-4b39-9a85-a2a395ae5269/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Bogensportanlage bei der Tristenbachalm"
+        },
+        {
+          "@language": "de",
+          "@value": "Bogensportanlage bei der Tristenbachalm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bogensportanlage bei der Tristenbachalm"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1bfc3ee0-5640-4624-80f4-fcd9ef2085ea/99/image.bmp",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Bogensportanlage"
+        },
+        {
+          "@language": "de",
+          "@value": "Bogensportanlage"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bogensportanlage"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.actionclub-zillertal.at"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Festival"
+  ],
+  "name": "Almabtrieb Geislerhof",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Geislerhof",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Anton",
+      "familyName": "Kröll"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ramsau 396",
+      "addressLocality": "Ramsau",
+      "postalCode": "6284",
+      "addressCountry": "AT"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Geislerhof",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ramsau 396",
+      "addressLocality": "Ramsau",
+      "postalCode": "6284",
+      "addressCountry": "AT"
+    }
+  },
+  "description": "Das Almabtriebsfest beim Geislerhof in Ramsau findet am 23. September 2017 ab ca. 11.00 Uhr statt.\n\nFür Speis \u0026 Trank sowie Musik \u0026 Unterhaltung ist bestens gesorgt!\n\nEintritt frei.\n\nÄnderungen vorbehalten!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5b7db280-d7db-4a8d-9a36-e00287be88c4/99/image.jpg",
+      "caption": "Almabtrieb"
+    }
+  ],
+  "startDate": "2017-09-23T11:00:00",
+  "endDate": "2017-09-23"
+}

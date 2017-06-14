@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Zamser Eck 1794m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0306061774752",
+    "longitude": "11.6985605115875"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ginzling 104",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5286 5216",
+    "email": "info@dominikushuette.at",
+    "url": "www.dominikushuette.at"
+  },
+  "description": "Sommer \n10. Juni - Ende September 2017 \nkein Ruhetag \nkeine Übernachtung möglich",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/257ad448-a33a-48aa-be61-ca09cb32c3cb/99/image.jpg",
+      "caption": "Zamser Egg 1794m"
+    }
+  ],
+  "url": [
+    "www.dominikushuette.at"
+  ]
+}

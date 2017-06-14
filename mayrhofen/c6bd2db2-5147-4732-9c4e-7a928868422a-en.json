@@ -1,0 +1,140 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Gruben 432",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 3375742",
+    "email": "info@appart-auszeit.at"
+  },
+  "name": "Apartment Ahornblick",
+  "description": "Check-in: 12pm\nCheck-out: 09am",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4c69e027-3589-40f0-9d78-487888769057/99/image.jpg",
+      "caption": "IMG-20170223-WA0012"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/92e91e84-2437-4431-849c-f4674b0e84dc/99/image.jpg",
+      "caption": "DSC_0012[1]"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2341edda-b971-44a6-8e3b-3eaffc4992fc/99/image.jpg",
+      "caption": "IMG-20170223-WA0014"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b593dc9b-ee99-4b14-a233-db81cc2e7952/99/image.jpg",
+      "caption": "IMG-20170223-WA0002"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b1e3b197-ba49-4585-80df-e5b020cbf765/99/image.jpg",
+      "caption": "IMG-20170223-WA0007"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f1d21a4-dbe3-4d96-a517-5ee14a14f363/99/image.jpg",
+      "caption": "IMG-20170223-WA0013"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/030edb99-be0f-46a4-9761-698ad67e8fd3/99/image.jpg",
+      "caption": "IMG-20170223-WA0008"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dc7406fc-9dde-4d7c-a640-0e5f3fc53e54/99/image.jpg",
+      "caption": "IMG-20170223-WA0018"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0b295157-ac64-4766-bbf7-77fa84725f1f/99/image.jpg",
+      "caption": "IMG-20170223-WA0004"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9a5ab522-c2d2-4c00-9299-4b477867125b/99/image.jpg",
+      "caption": "IMG-20170223-WA0001"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/adc64a5d-6b00-4264-b793-9b096f8b928b/99/image.jpg",
+      "caption": "IMG-20170223-WA0005"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/047de34f-3cc7-4a5c-be60-9d82c821d492/99/image.jpg",
+      "caption": "IMG-20170223-WA0019"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/431502ea-4480-4daa-8644-f7c282689189/99/image.jpg",
+      "caption": "IMG-20170223-WA0006"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d6a52d22-08c4-4510-9909-f9bbf1d1538c/99/image.jpg",
+      "caption": "20150729_110408"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2112987",
+    "longitude": "11.8535491232788"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower and bath tub, 2 bed rooms",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower and bath tub, 2 bed rooms",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

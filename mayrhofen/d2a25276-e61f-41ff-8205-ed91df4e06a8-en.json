@@ -1,0 +1,265 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.restaurant-edelweiss.at/",
+    "http://maps.mayrhofen.at/?foreignResource\u003dD2A25276-E61F-41FF-8205-ED91DF4E06A8"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Edelweiss, Hotel",
+    "streetAddress": "Brandbergstraße 352",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62208",
+    "faxNumber": "0043 5285 622084",
+    "email": "info@restaurant-edelweiss.at",
+    "url": "http://www.restaurant-edelweiss.at"
+  },
+  "name": "Cafe Restaurant Edelweiss",
+  "description": [
+    "Gasthof Edelweiss\nAlready the 4. generation gourmed our guests with traditioanal kithcen, selfmade ice cream and pizza.\nOur house offer modern furnitured rooms and one apartement in the heart oft Mayrhofen.\nConvince yourself and enjoy one day in the sun on our big terrace with a cup of coffe and a selfmade apple strudel with vanilla sauce!\nWe are glad about your visit.\n\nEdelweiss Lounge\nDirektly next ot the musikpavillion in Mayrhofen is or Edelweiss Lounge, a modern Restaurant with traditional things and a big chill-out terrace. To our specialities belongs the Edelweiss burger, our selfmade cocktails and smoothies and oft course the giante pizza for 4 people!\nWe see us in the Edelweiss Lounge... with sun, good muusik and a cocktail! See you soon!",
+    "rooms inclusive breakfast, car parking facilities, wlan at the restaurants, reception",
+    "check in 14 am, departure 10 am, if you come in at mayrfhofen you´ll see the post office, stay on this street, if you see a parking place, you are wright at the edelweiss lounge :-)",
+    "summer, mountains, ahorn, penken, cable car, biking, hiking, swimming, sun,"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "24"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4511b34e-75cf-4ee7-a72c-e96c641e243a/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - Edelweiss Lounge Sommerfoto"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/95c90357-dac9-42e8-8d89-2ea4f99b8bf6/99/image.jpg",
+      "caption": "Edelweisslounge Mayrhofen - Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0d1ce9ae-0ead-4f42-99f0-514d0f2fb9ab/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/166b08ad-38b9-4090-bbfa-83d32829ac49/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - Winterfoto"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1763711-3798-40df-a88d-068878d7f37f/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen -  Winterfoto 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/55f809e8-f042-4411-aa78-9893379d47a9/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17b9ec25-c897-400c-a9cd-17b7a952bbfc/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - Zimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1878dbe2-1bfc-4481-8096-6623b466404f/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - Pizza"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/46321dc8-c108-4f56-8d27-835d3d914d62/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - hausgemachtes Eis"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b46159db-6d1a-4e22-b5b9-647bf2d4ece2/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/295d0369-5c8f-4fbb-a956-515b4ce1ce83/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - Restaurant2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/32404850-7321-4c2a-b274-7a24b3b0973d/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - Restaurant 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2f53c61-fe1c-4ca6-a40b-8431b3ddb31c/99/image.jpeg",
+      "caption": "Penken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8d510f4f-fa6f-46a9-aa67-05be2a3466ab/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a52444be-5fd4-43a2-8699-ca425b1f0d14/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63f34b5b-0973-4596-85b3-503caa5cbce6/99/image.jpg",
+      "caption": "Stausee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/06100d0e-cea4-4f0c-a3fe-a3adddcb2334/99/image.jpg",
+      "caption": "Eis - Edelweiss Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d895e034-2d44-47e5-9217-39a203a2830b/99/image.jpg",
+      "caption": "Genuss - Edelweiss Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/239cbe4e-e7c3-4f8a-a343-d46be5854f78/99/image.jpg",
+      "caption": "Einblick - Edelweiss Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ff26f92e-fa2d-4319-8e1e-1086bc7279b7/99/image.jpg",
+      "caption": "Kuchen - Edelweiss Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a989fe6-7ff7-4428-8270-932bc9cf2be2/99/image.jpg",
+      "caption": "Übersicht- Edelweiss Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/179f245e-efe3-4c13-8b0e-b7626b99a05d/99/image.jpg",
+      "caption": "Sitzgelegenheit - Edelweiss Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/511e39fc-b966-4a99-a40e-c49a134b006f/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - FullSizeRender"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6f060588-0ef2-4104-8a93-2faf23593eef/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen -  Weihnachten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59a5749f-d4a7-479a-87c6-90aad1548d2a/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - Room Pano 024 (2)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/585641d4-fc4c-4faa-adc0-e61260b992bc/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - Room Pano 019_2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/650bd240-db91-4e4d-80d5-506ced563098/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - Room Pano_017"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a0622e77-027d-4623-9a2f-8ff0d0816803/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - Room Pano_016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/43642fa3-926d-4404-85cb-5f47e961df7a/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d85d494f-7bac-4b97-8710-f41166616e1f/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab7f8b0a-22f1-4f45-9593-90dcd7c9b8ab/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7b6c2103-5b01-4cc0-83d3-de58bd400a2f/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60330663-78d4-44e4-8d73-96961f34d3f7/99/image.jpg",
+      "caption": "Edelweiss Mayrhofen 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/732504d6-0949-4417-9bf3-8bb18f457299/99/image.jpg",
+      "caption": "Winterlandschaft"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1667425816547",
+    "longitude": "11.8652223050594"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "our rooms included shower, bad, wc, sat-tv and safe\nincluding breakfast\nhalfboard you can have for lunch or in the evening additional charge",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "35.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

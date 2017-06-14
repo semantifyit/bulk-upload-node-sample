@@ -1,0 +1,649 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.almhof-roswitha.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d40212E11-33A8-4454-9574-2DC7BD3DF3F8",
+    "https://www.facebook.com/Almhof-Roswitha-114299435277307/?fref\u003dts",
+    "http://www.lichteben.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hochschwendberg 532",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3762",
+    "email": "info@almhof-roswitha.at",
+    "url": "http://www.almhof-roswitha.at"
+  },
+  "name": "Almhof Roswitha",
+  "description": [
+    "Cordial welcome - in the heart of the alps - in every seasen - here is the zillervalley still zillervalley.\n\nwe are pleased, to make your holidays to an unforgetable experience. We care us about your well-being.",
+    "we have special rates for groups on request. at short-stays - until 3 nights we charge the tarif from the main season",
+    "Check-in:\nCheck-out:"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "36"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/122462db-02b8-4572-b323-96d02ab012a8/99/image.jpg",
+      "caption": "2016.03.20_lichteben.009.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8646e059-ead1-4493-a102-c294b237962c/99/image.jpg",
+      "caption": "2016.03.20_lichteben.026.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1d9fc8c9-4297-4b88-8c87-d0dd2c1080ef/99/image.jpg",
+      "caption": "2016.02.11_ro.suites.lichteben_003.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/07526efd-d395-445d-9680-ecbca23e4cea/99/image.jpg",
+      "caption": "2016.04.12_roswitha.hotel.017.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/79456460-002c-4dfa-8b70-47efa49b4c61/99/image.jpg",
+      "caption": "2016.02.11_ro.suites.lichteben_005.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9a24922-07d1-44bb-8b9d-ac8dd51d33b1/99/image.jpg",
+      "caption": "csm_Sonnenterrasse_Winter03_4b3715cdc8"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04505a21-37a8-4117-8332-920c424805f3/99/image.jpg",
+      "caption": "2016.04.12_roswitha.hotel.025.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/814195c6-60fa-4318-ad95-5d4de93b7769/99/image.jpg",
+      "caption": "2016.03.20_lichteben.016.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bde4a7fb-c82a-4181-b2b8-3e5ff782b78f/99/image.jpg",
+      "caption": "2016.04.12_roswitha.hotel.006.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77e719dd-2471-4dd2-b410-c755999332bf/99/image.jpg",
+      "caption": "2016.02.11_ro.suites.lichteben_010.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/957f9972-0d87-48a3-b597-4e8b9624fbf3/99/image.jpg",
+      "caption": "2016.04.12_roswitha.hotel.028.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/20fcf1a8-b058-4cac-8fa1-034be397ea5c/99/image.jpg",
+      "caption": "2016.02.11_ro.suites.lichteben_011.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6b45f6d0-988c-4dbe-b00c-052309029c9f/99/image.jpg",
+      "caption": "2016.03.20_lichteben.061.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/61d325ec-4c86-4713-a7f7-0ac38395e8c1/99/image.jpg",
+      "caption": "2016.02.11_ro.suites.lichteben_042.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b364a970-116d-48bb-9b65-6f88f79be2ea/99/image.jpg",
+      "caption": "2016.03.20_lichteben.022.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/43234b85-ef57-44c2-a537-79247e99ac1d/99/image.jpg",
+      "caption": "DSC02456"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98558565-4d99-4379-97a4-4627d7abd21c/99/image.jpg",
+      "caption": "2016.03.20_lichteben.052.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bb2cda78-afbc-4f4c-ab9e-6c726fa29a25/99/image.jpg",
+      "caption": "Almhof Roswitha - Sauna1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/218fec5d-0413-4002-ad6b-616bf0f7b34c/99/image.jpg",
+      "caption": "2016.03.20_lichteben.056.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12ba6029-4a4e-4078-b8a3-061f2b97ef77/99/image.jpg",
+      "caption": "Almhof Roswitha - Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8c65456d-47b2-4b60-bf1b-bd0376a17c31/99/image.jpg",
+      "caption": "2016.04.12_roswitha.hotel.008.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/75d57af8-8a6f-4dd2-b903-85a376dc570a/99/image.jpg",
+      "caption": "2016.03.20_lichteben.049.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/be589b51-bc26-4326-9764-797b8aac1a33/99/image.jpg",
+      "caption": "DSC02455"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0c03be2-7f2c-4aaa-b921-1b6a422d6e9b/99/image.jpg",
+      "caption": "2016.03.20_lichteben.004.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bb306a1c-8476-47ff-bdcf-04187e015f3f/99/image.jpg",
+      "caption": "2016.04.12_roswitha.hotel.016.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ab6867a-9fa0-4363-a97a-a494791aaf8b/99/image.jpg",
+      "caption": "2016.03.20_lichteben.067.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0aff96f5-241d-4371-b9af-ebce22039766/99/image.jpg",
+      "caption": "2016.03.20_lichteben.072.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1b98c46d-51fc-493f-8441-49dec7d3d0d3/99/image.jpg",
+      "caption": "2016.03.20_lichteben.078.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b9e2f24c-9e1d-4b03-bf5d-77eb862fa43e/99/image.jpg",
+      "caption": "AMA Gastrosiegel 13 101654 kachel strich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/383de779-72b7-4025-bd0f-e92320d7c42d/99/image.jpg",
+      "caption": "2016.03.20_lichteben.037.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/74332b65-ee58-4447-9d22-7cb86f2dd2a4/99/image.jpg",
+      "caption": "Almhof Roswitha - Entspannung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3c75653-0635-4a6b-b08d-02704b34d3c5/99/image.jpg",
+      "caption": "Almhof Roswitha - Impressionen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dbf81621-1c69-45cc-a39c-b68aed8b7fae/99/image.jpg",
+      "caption": "Almhof Roswitha - Impressionen2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c549b3e3-ddb3-44ae-8337-cb42fdb60958/99/image.jpg",
+      "caption": "achtstern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e3ff8fea-cae4-4115-9b47-3988beb5e20e/99/image.jpg",
+      "caption": "Bilder hotel 2012 015"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab14f22e-1c48-41a0-9e54-c58c39c1ab18/99/image.jpg",
+      "caption": "Bilder hotel 2012 016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d28039ff-d24c-49c7-b930-9d3b04125e79/99/image.jpg",
+      "caption": "2016.04.12_roswitha.hotel.002.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/92e1f1e0-1c0c-451d-ac9c-4a110dc44811/99/image.jpg",
+      "caption": "2016.02.11_ro.suites.lichteben_041.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60d8a765-af10-4189-bcbe-9a98f317b530/99/image.jpg",
+      "caption": "Almhof Roswitha - Restaurant6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aadbca60-2675-4bb6-a91c-f66b91b45615/99/image.jpg",
+      "caption": "2016.03.20_lichteben.074.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/79104313-d47f-46ea-92d7-ac1e4309a0d6/99/image.jpg",
+      "caption": "2016.03.20_lichteben.076.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ffe895c3-8287-4a74-8b73-1118f1750420/99/image.jpg",
+      "caption": "Bewusst Tirol Münze"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/adcb730d-1c9e-4e8d-ba7d-7b9beffabc9b/99/image.jpg",
+      "caption": "Sunwend-Ju-137"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fc404d18-be7d-44ec-8ff1-5c2b30c1fd4d/99/image.jpg",
+      "caption": "9heilkraut seele"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b88b984-971c-4054-9583-d98c4f964b80/99/image.jpg",
+      "caption": "Almhof Roswitha - Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3de557f6-b75b-49a9-ad28-7f9e53b9bb3c/99/image.jpg",
+      "caption": "2016.03.20_lichteben.034.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a6fa49e0-43ac-4bc2-9520-8f154120b844/99/image.jpg",
+      "caption": "csm_Wellnessbereich01_kleiner_2efacb1d87"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/561f2cd7-1649-4c6f-9e65-85886e25f125/99/image.jpg",
+      "caption": "roswitha_04_1024x576"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8ca139d4-07cd-4da6-bcb5-d2531220b8e1/99/image.jpg",
+      "caption": "2016.03.20_lichteben.002.web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ffc3af0-fac3-4b73-aeae-9bb15897a6f1/99/image.jpg",
+      "caption": "roswitha_09_1024x576"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e8c1f6a3-8baf-4d33-b650-5373aa2019ad/99/image.jpg",
+      "caption": "roswitha_03_1024x576"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2071132942545",
+    "longitude": "11.8175554275513"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Classic:\n\nThe rooms have rustic furnishings and are approx. 20qm big. \nThe rooms are equipped with:\nbathroom (shower, toilet)\nbig double bed\nbalcony\nfree care products\nhairdryer\nSAT/TV\ntelephone, radio\nsauna basket\nbathrobe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "deluxe ( early comfort ):\nNew designed deluxe room have a new size about 30 qm and Sat-Tv/telephone/radio, own bathroom with a shower/toilet, free care products, hairdryer, a mirrow, bathrobe and a sauna.\n\n\nminimun: 1 full paying person\nmaximal: 2 full paying persons and one or tow children.\n\nIn this categorie are special family rooms aviable for up to four persons.\n\n\nIn dieser Kategorie sind spezielle Familienzimmer für bis zu 4 Personen verfügbar.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Holiday home",
+      "description": "Chalet \"silver thistle\"\n\n\nLiving space and usable area 78. 94 m ²\na bath with WC plus separate WC in the ground floor\n2 bedrooms\nSauna in the ground floor\nopen kitchen area\nexclusive living area and door to the relaxation area\nopen chimney\nWine depot",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Holiday home",
+          "numberOfRooms": "8.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Holiday home",
+      "description": "Chalet \"arnica\"\n\n\nLiving space and usable area 84. 50 m ²\ntwo baths with WC plus separate WC in the upper floor\n2 bedrooms\nSauna in the ground floor\nopen kitchen area\nexclusive living area and door to the relaxation area\nopen chimney\nWine depot",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Holiday home",
+          "numberOfRooms": "10.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Holiday home",
+      "description": "Chalet \"Erika\"\n\n\nLiving space and usable area 74. 97 m ²\na bath with WC plus separate WC in the ground floor\nsauna in the basement\nopen kitchen area\nexclusive living area and door to the relaxation area\nopen chimney\nWine depot",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Holiday home",
+          "numberOfRooms": "7.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Holiday home",
+      "description": "Living space and usable area 69. 30 m ²\n\n\na bath with WC plus separate WC in the basement\nSauna in the basement\nopen kitchen area\nexclusive living area and door to the relaxation area\nopen chimney\nWine depot",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Holiday home",
+          "numberOfRooms": "8.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Holiday home",
+      "description": "Chalet \"Steinquendel\"\n\n\nLiving space and usable area 61. 04 m ²\na bath plus separate WC\nSauna\nopen kitchen area\nexclusive living area and door to the relaxation area\nopen chimney\nWine depot",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Holiday home",
+          "numberOfRooms": "7.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Holiday home, shower, toilet, 4 or more bed rooms",
+      "description": "ground floor: kitchen, 2 WC, 1 shower, heating room big lounge, 1. floor: 3 doublerooms, 1 WC and 1 shower, 2. floor: 2 doublerooms and 2 4 bedrooms. terasse for barbique and sunbathing, parking lot for 6 cars,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "hol. house - 4 + more bedrooms/shower,WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "14",
+            "minValue": "6"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 10",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 11",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 12",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 13",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 14",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

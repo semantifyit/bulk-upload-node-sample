@@ -1,0 +1,76 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d15952634-7E64-4D32-8AEA-D49DE7C04E32"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hainz",
+    "streetAddress": "Talstraße 52",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 650 2578011",
+    "faxNumber": "(0043) 5282 2578 20 ",
+    "email": "thresi.hainz@aon.at"
+  },
+  "name": "Hainz Gottfried",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2d9c671-c405-4cf0-bc44-59b4a89a3ef0/99/image.jpg",
+      "caption": "Haus Hainz Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3d087202-68c2-497c-890a-47b576926c7c/99/image.jpg",
+      "caption": "Haus Hainz Ramsau - Wohnküche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2b9019fd-2a4f-4822-99bf-6e65019ef121/99/image.jpg",
+      "caption": "Haus Hainz Ramsau - Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e26a6af2-94bf-43d8-96af-89dbf565abec/99/image.jpg",
+      "caption": "Haus Hainz Ramsau - Zweibettzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b247878-e0fb-48cd-a1d8-03eb133e9118/99/image.jpg",
+      "caption": "Haus Hainz Ramsau - Ausblick"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2067780158934",
+    "longitude": "11.8710064888"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ и ванна, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ и ванна, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

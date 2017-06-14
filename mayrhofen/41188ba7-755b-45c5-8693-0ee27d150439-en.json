@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Rodelbahn Tristenbachalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.0952552578153",
+    "longitude": "11.8304833602715"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tristenbachalm",
+    "streetAddress": "Floitental 290",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "(0043) 6769346678",
+    "email": "daniel@tristenbachalm.at",
+    "url": "www.tristenbachalm.at"
+  },
+  "description": "Lenght: 2.5 km \nAltitude at start: 1200m\nAltitude at destination: 1000m \nAltitude difference 200, \nDifficulty level: moderate \nOpening times: Tuesday to Sunday until 10.00 p.m. ; closing day on Mondays \nLighting: Yes \nSled hire: at the Tristenbachalm, lending fee: € 3.-; only by aappointmen;\nCost of using the sled run: free of charge \nAvailable refreshment points: at the start of the sled run on the Tristenbachalm \nSpecial features: pleasant stop on the mountain pasture with music \nAccessibility´: \n    How to find: Parking available at the Naturparkhaus (nature park house) \n    Ascent: on foot or with the Rodeltaxi, time of walk: 40 min \n    Help with your ascent: For furter information on the Rodeltaxi, contact Christian Klausner (+43 5286 20032)",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ec3e6b3-bbfd-4f66-9c24-bcc6e06062cb/99/image.jpg",
+      "caption": "rodeln"
+    }
+  ]
+}

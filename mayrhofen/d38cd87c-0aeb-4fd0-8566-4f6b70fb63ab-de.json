@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore",
+    "LocalBusiness",
+    "BikeStore"
+  ],
+  "name": "Sport Fankhauser",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2039025524924",
+    "longitude": "11.86703145504"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport Fankhauser",
+    "streetAddress": "Augasse 6",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3386",
+    "faxNumber": "(0043) 5282 3386 20",
+    "email": "info@skischule-fankhauser.at",
+    "url": "http://www.skischule-fankhauser.at"
+  },
+  "description": "In unserem Ganzjahresbetrieb Sport Fankhauser im Zentrum von Hippach erwartet Sie ein vielfältiges Sortiment an Sport- und Freizeitmode und Ausrüstung! Im Winter sind wir direkt im Skigebiet Hippach - Mayrhofen an der Horberg Talstation und Horberg Bergstation für Sie da.\n\nSportartikel\nSport- und Freizeitmode\nFreizeit-, Wander- und Laufschuhe\nGolf-Ausstattung\nAccessoires uvm.\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/30827381-ec96-45dd-b2ba-40f4d8b86381/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5b2cceda-64f2-478c-a541-2f84db66d842/99/image.jpg",
+      "caption": "shop"
+    }
+  ],
+  "url": [
+    "http://www.skischule-fankhauser.at"
+  ]
+}

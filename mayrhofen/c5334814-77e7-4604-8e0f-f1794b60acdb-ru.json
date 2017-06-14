@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Rastkogelhütte 2124m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2326069171296",
+    "longitude": "11.7886009812355"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Rastkogelhütte",
+    "streetAddress": "Hochschwendberg",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 342 94 41",
+    "email": "rastkogelhuette@t-online.de",
+    "url": "www.alpenverein-oberkochen.de"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/64b9c742-6016-4925-b9c8-305d00cb9d12/99/image.jpg",
+      "caption": "Rastkogelhütt Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/37e7bf5a-2e63-49db-bb96-f89049ae4c31/99/image.jpg",
+      "caption": "Rastkogelhütte Sommer1/1"
+    }
+  ],
+  "url": [
+    "http://www.alpenverein.at/huettenHome/DE/Home/index.php?huetteNr\u003d0622"
+  ]
+}

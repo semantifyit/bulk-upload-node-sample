@@ -1,0 +1,548 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast",
+    "LodgingBusiness"
+  ],
+  "url": [
+    "https://www.panorama3d.at/gaestehaus-ferienhaeuser-martinus-mayrhofen/panorama",
+    "http://members.aon.at/martinus",
+    "http://maps.mayrhofen.at/?foreignResource\u003d71540439-AE8C-4FDA-9771-6D4FDC0E0CD3"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Martinus, Gästehaus-Ferienhäuser",
+    "streetAddress": "Rauchenwald 663",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63384",
+    "faxNumber": "0043 5285 63384",
+    "email": "martinus.mayrhofen@aon.at",
+    "url": "http://members.aon.at/martinus"
+  },
+  "name": "Gästehaus-Ferienwohnungen Martinus",
+  "description": [
+    "Nicht zu Hause und doch daheim im Gästehaus \u0026 Ferienhäuser Martinus. \nFür Erholung, Sport und Unterhaltung in unmittelbarer Nähe ist bei uns im Sommer und Winter bestens gesorgt. Besonders die zentrale Lage unserer Häuser wird von den Gästen sehr geschätzt. Wenige Gehminuten ins Ortszentrum, zur Penken- und Ahornbahn sowie zu den Bushaltestellen. Unsere kleinen Gäste fühlen sich bei uns immer ganz besonders wohl! Ob sie nun die zahlreichen Spielmöglichkeiten in Anspruch nehmen oder sich auf der großen Liegewiese so richtig austoben.\n\nHomepage: http://members.aon.at/martinus",
+    "Im Preis inkludiert: Ortstaxe, Fahrräderverleih, Spielgeräte, Tischtennis, Tischfussball.",
+    "Check in: 14:00 Uhr / Check out: 09:30 Uhr\nÜber die B169 erreichen Sie Mayrhofen. Beim Kreisverkehr geradeaus, ca. 700m bis zum SPAR-Markt. Sofort nach dem SPAR links abbiegen. Nach ca. 100m auf der linken Seite befindet sich das Gästehaus Martinus."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/48f99deb-8311-499b-8e07-de732e6dc6e4/99/image.jpg",
+      "caption": "Gästehaus Martinus Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0276fdf4-8620-48a9-9420-a0270d384647/99/image.bmp",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/545cb449-4918-41e0-a3e7-00a4349482c2/99/image.jpg",
+      "caption": "Gästehaus Martinus Mayrhofen - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16025593-a2f0-4adb-ade5-4d2807356184/99/image.jpg",
+      "caption": "Gästehaus Martinus Mayrhofen - Herzlich Willkommen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7a84e27-c9f1-4d27-9a2e-00211d76adb4/99/image.jpg",
+      "caption": "Gästehaus Martinus Mayrhofen - Zimmer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/654777fe-e013-4439-b4de-557dfea9fafa/99/image.jpg",
+      "caption": "Zimmer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6328d8bd-7669-4a57-b642-6593f98e3fba/99/image.jpg",
+      "caption": "A78A6759"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f7f79549-d5a0-459f-b590-8599e67b513d/99/image.jpg",
+      "caption": "A78A6725"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4703983b-e7a6-4ec8-bf5b-b3ab9d981b3d/99/image.jpg",
+      "caption": "A78A6735"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/50aa8c5c-a896-4326-a591-6c0b82ae99ae/99/image.jpg",
+      "caption": "A78A6741"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e5f9d1f1-b8fe-4e78-898a-f0a4ede91f3b/99/image.jpg",
+      "caption": "A78A6747"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0c84dca3-4a2f-465e-899c-a6c7e702fbda/99/image.jpg",
+      "caption": "Gästehaus Martinus Mayrhofen - Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e085c172-a5ae-495b-91b3-278a1fe7525e/99/image.jpg",
+      "caption": "Gästehaus Martinus Mayrhofen-Garten mit Gartenhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0162438-070c-4fd6-99b2-2645907d0c61/99/image.jpg",
+      "caption": "Spielplatz, Trampolin, Sandkiste"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ac61522-db6f-4be1-a859-47c00f17a37c/99/image.jpg",
+      "caption": "genügend Platz zum Spielen und Toben"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a48cafbd-e661-4aa8-83c7-5ca7f58f958d/99/image.jpg",
+      "caption": "Gästehaus Martinus Mayrhofen - Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d6bf4b9-591b-45d2-bc53-7f7204fa4702/99/image.jpg",
+      "caption": "Gästehaus Martinus Mayrhofen - Eisbahn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/177f5fbd-4052-49bc-97f3-5e8797e71d4b/99/image.jpg",
+      "caption": "Blick von der Terrasse Richtung Grünberg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a5d948a5-0bdd-4e3f-92b9-ab9beae79cd6/99/image.jpg",
+      "caption": "Blockhaus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d045b88e-318a-4a1d-a76f-1fe47b98bc20/99/image.jpg",
+      "caption": "Blockhaus Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/038b9875-46aa-4ec7-b766-a60b2c3e9d77/99/image.jpg",
+      "caption": "Gästehaus Martinus Mayrhofen - Auf Wiedersehen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1630132999542",
+    "longitude": "11.8564206361771"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Einzelzimmer mit DU/WC, TV und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "24.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Gemütliches Doppelzimmer mit DU/WC, TV, Balkon, teilweise mit Sitzecke.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "31.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC",
+      "description": "Gemütliches Dreibettzimmer mit Doppelbett und Zusatzliege, DU/WC, TV und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "22.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche oder Bad, WC, 2 Schlafräume",
+      "description": "Das Blockhaus verfügt über 1 Doppelzimmer, 1 Zweibettzimmer, Wohnzimmer mit Ausziehcouch, Sitzecke und TV, Küche, DU/WC, Terrasse, Garten und Parkplatz.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus 2-6 Pers./2 Schlafräume/Du od. Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "88.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "110.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Die Ferienwohnung I befindet sich im 2. Stock unseres Gästehauses und verfügt über ein Doppelzimmer mit TV und Balkon, Wohnzimmer mit Sitzecke, Couch und TV, Kleinküche, DU/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. No.I/Wohn-Schlafraum/1 Schlafraum/Du,WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "58.00",
+          "maxPrice": "61.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Die Ferienwohnung II befindet sich im Tiefparterre unseres Gästehauses und verfügt über ein Doppelzimmer, Wohnküche mit Sitzecke, Couch und TV, DU/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap.No.II/Wohn-Schlafraum/1 Schlafraum/Dusche,",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "53.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Die Ferienwohnung Rauchenwald befindet sich in der Tuxerstraße 714, ca. 200 m von unserem Gästehaus entfernt. Die Wohnung verfügt über 2 Doppelzimmer, 1 Zweibettzimmer mit TV, Wohnzimmer mit Sitzecke, Couch und TV, Küche, DU/WC, einmal DU und WC separat, Terrasse, Garten, Parkplatz und ein Tiefgaragenstellplatz.\nIns Ortszentrum, sowie zu den Bergbahnen (Penken und Ahorn) sind es ca. 3 Gehminuten.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap.No.III Rauchenwald",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "76.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "96.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "115.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "134.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "150.00",
+          "maxPrice": "161.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "166.00",
+          "maxPrice": "178.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo",
+      "description": "Die Ferienwohnung Lichtblick befindet sich in der Tuxerstraße 753, ca. 700 m von unserem Gästehaus entfernt. Die Wohnung verfügt über 1 Doppelzimmer, 2 Zweibettzimmer davon eines mit TV, Wohnzimmer mit Couch und TV, Küche, DU/WC, einmal DU und WC separat, Terrasse, Garten und Parkplatz.\nGleich neben der Wohnung finden Sie einen Supermarkt sowie im Winter eine Skibushaltestelle.\nIns Ortszentrum, sowie zu den Bergbahnen (Penken und Ahorn) sind es ca. 10 Gehminuten.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. No. IV Lichtblick",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "76.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "96.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "115.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "134.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "150.00",
+          "maxPrice": "161.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "166.00",
+          "maxPrice": "178.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d5069E5AD-B68A-4E35-B63B-B72E65A51FE2"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Neuginzling, Ferienwohnung",
+    "streetAddress": "Ginzling 221",
+    "addressLocality": "Ginzling",
+    "postalCode": "6295",
+    "addressCountry": "AT",
+    "telephone": "0043 5203"
+  },
+  "name": "Ferienwohnung Neuginzling",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b14a51a1-9b3b-4308-ac5b-32c9e9dfdcb6/99/image.jpg",
+      "caption": "Neuginzling Ginzling - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a35627df-28ea-41de-89df-29fe96e87ae7/99/image.jpg",
+      "caption": "Neuginzling - Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/be3a51c5-5713-4503-8de9-4e3c9d91b528/99/image.jpg",
+      "caption": "Neuginzling - Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/382f562c-233e-43da-bb7b-e030e7c7e905/99/image.jpg",
+      "caption": "Neuginzling - Esszimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e63b137c-4b68-417a-a927-4d528954d5e1/99/image.jpg",
+      "caption": "Neuginzling - Küche"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1016514038059",
+    "longitude": "11.8103241920471"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, три спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, три спальни",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, 4 или больше спалень",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, 4 или больше спалень",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "13",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

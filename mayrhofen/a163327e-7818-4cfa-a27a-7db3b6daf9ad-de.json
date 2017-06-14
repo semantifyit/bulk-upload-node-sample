@@ -1,0 +1,211 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dA163327E-7818-4CFA-A27A-7DB3B6DAF9AD"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 453",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63411",
+    "faxNumber": "0043 5285 64713",
+    "email": "stefankroell@aon.at"
+  },
+  "name": "Kröll Stefan",
+  "description": [
+    "Unser Haus (erbaut 1910) liegt direkt an der Hauptstraße von Mayrhofen und ist eines der wenigen Häuser, das noch größtenteils im alten Stil belassen wurde. Seit 1996 wurden 3 gemütliche Ferienwohnungen errichtet, die sich großer Beliebtheit erfreuen. So können wir 2 bis 12 Personen ein Wohlfühlquartier bieten.\n Auf Grund der zentralen Lage sind alle Infrastruktureinrichtungen in Kürze zu Fuß erreichbar. \n Im Parterre befindet sich ein Damen- und Kindermodengeschäft und im Sommer ein Eissalon.",
+    "Inkl.  Wasser, Heizung, Strom,   Schischuhtrockner, Bettwäsche, Handtücher, Parkplatz;\nExklusive Endreinigung, Brötchendienst.",
+    "Check-In: 12.00 Uhr, Check-Out: 10.00 Uhr; Anreise: Unser Haus liegt direkt an der oberen Hauptstraße (Einfahrt Mitte, bei der ersten Kreuzung rechts einbiegen) mitten im Ortszentrum, ca. 150m vor der Penkenbahn."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab020815-8d0c-477a-b6b9-fa5d2252b4b9/99/image.jpg",
+      "caption": "Kröll Stefan Mayrhofen - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7235bf08-dddb-4a68-a7fc-a4ac7666f9a2/99/image.jpg",
+      "caption": "Kröll Stefan - Gang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ebe5d2f-60e7-4d6b-af80-72063ced0cc2/99/image.jpg",
+      "caption": "Kröll Stefan - Gang2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f038c16-d2fb-4b7d-b94f-81c20dfa60cf/99/image.jpg",
+      "caption": "Appartement Ahorn - Wohnküche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fce9993c-3f58-4b68-88ab-b58664c559bd/99/image.jpg",
+      "caption": "Appartement Ahorn - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/38d9f611-2da6-4451-ad4c-211ab30267db/99/image.jpg",
+      "caption": "Appartement Grünberg - Wohnküche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a90d6e7e-bf80-4606-9dc0-082fb8d4b6ec/99/image.jpg",
+      "caption": "Appartement Grünberg - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/24b94901-4615-4136-ad62-9421ece722a7/99/image.jpg",
+      "caption": "Appartement Penken - Wohnküche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/270819e8-3005-4499-87ca-52e4a3d6925c/99/image.jpg",
+      "caption": "Appartement Penken - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e4f3c2ce-61f8-433d-92f0-cdf7a7843446/99/image.jpg",
+      "caption": "Appartement Penken - Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f6a187b1-4772-41a5-8f44-d1f6678c9831/99/image.jpg",
+      "caption": "Appartement Penken - Zimmer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/922c334a-6d94-4d7a-8e8f-752773c20c4b/99/image.jpg",
+      "caption": "Appartement Penken - Bad"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1649718893432",
+    "longitude": "11.862359046936"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Schönes, gemütliches Appartment mit 2 Schlafzimmern, großes Bad, 2 Balkone, moderne gut ausgestattete Wohnküche mit Kabel-TV, Flur mit großem Gardarobenschrank, direkt im Zentrum inkl. Parkplatz;\nSchischuhtrockner!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Penken/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "160.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "180.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Appartement \"AHORNSPITZE\"\n\nMit viel Liebe wurde diese Ferienwohnung im Herbst 2006\nerrichtet.\nDirekt im Zentrum und doch in ruhiger Lage ist der Wohnraum mit Kabel-TV und modern eingerichtetem Küchenteil, sowie einem großen Balkon das Herzstück.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Ahornspitz/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "140.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Neues gemütliches Appartement zum Wohlfühlen direkt im Zentrum, geräumiger Wohnraum mit Küchenblock mit Mikrowelle, Sat-TV, Balkon südseitig.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Grünberg/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "In unseren Ferienwohnungen befinden sich    \n4 Doppelzimmer,sowie ein 2-Bettzimmer,die wir auf Anfrage auch als \"Zimmer mit Frühstück\" anbieten. Durch die zentrale Lage, ideal für alle Sommeraktivitäten.\nWanderfreunde und Familien willkommen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

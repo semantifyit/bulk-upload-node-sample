@@ -1,0 +1,106 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": [
+    {
+      "@language": "de",
+      "@value": "Klausenalmfestl mit KaWoGl"
+    },
+    {
+      "@language": "en",
+      "@value": "Klausenalmfestl mit KaWoGl"
+    },
+    {
+      "@language": "ru",
+      "@value": "Klausenalmfestl mit KaWoGl"
+    }
+  ],
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Klausenalm",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Familie",
+      "familyName": "Geisler"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Zemmgrund 216",
+      "addressLocality": "Ginzling",
+      "postalCode": "6295",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5286 5226",
+      "faxNumber": "(0043) 5286 5226 4",
+      "email": "info@klausenalm.at",
+      "url": "www.klausenalm.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Klausenalm",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Zemmgrund 216",
+      "addressLocality": "Ginzling",
+      "postalCode": "6295",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5286 5226",
+      "faxNumber": "(0043) 5286 5226 4",
+      "email": "info@klausenalm.at",
+      "url": "www.klausenalm.at"
+    }
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Klausenalmfestl mit KaWoGl in der Klausenalm.\nBeginn 11.00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Klausenalm festival with the KaWoGl band from Germany.\nStart 11.00 a.m."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e016aa3a-8587-4536-bffd-4cac78c3a948/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Klausenalm Ginzling"
+        },
+        {
+          "@language": "en",
+          "@value": "Klausenalm Ginzling"
+        },
+        {
+          "@language": "ru",
+          "@value": "Klausenalm Ginzling"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a01890ad-7a51-464e-a5e9-c2a99415313b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "KAWOGL"
+        },
+        {
+          "@language": "en",
+          "@value": "KAWOGL"
+        },
+        {
+          "@language": "ru",
+          "@value": "KAWOGL"
+        }
+      ]
+    }
+  ],
+  "startDate": "2017-09-17T11:00:00",
+  "endDate": "2017-09-17"
+}

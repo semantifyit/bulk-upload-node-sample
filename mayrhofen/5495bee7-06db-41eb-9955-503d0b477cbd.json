@@ -1,0 +1,307 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d5495BEE7-06DB-41EB-9955-503D0B477CBD"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hochschwendberg 518",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 4186"
+  },
+  "name": "Spitaler Gertraud",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "An der Zillertaler Höhenstraße auf 1100 Meter bringt Sie der Skibus direkt ins Skigebiet Ski Zillertal 3000 (Umkehrplatz Schafkopf)! Die Skibushaltestelle befindet sich direkt vor dem Haus! 2 Stockwerke!"
+    },
+    {
+      "@language": "de",
+      "@value": "Brötchenservice"
+    },
+    {
+      "@language": "en",
+      "@value": "situated on the zillertaler Höhenstraße on 1100 meters, the skibus takes you directly into the skiing are Ski Zillertal 3000 (turn back place Schafkopf), The skibusstop is directly at the house, 2nd floor"
+    },
+    {
+      "@language": "en",
+      "@value": "bread roll service"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/edc79f10-6d66-4b23-bc31-660ca463eef2/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Gertraud Spitaler Hippach - Winterbild"
+        },
+        {
+          "@language": "en",
+          "@value": "Gertraud Spitaler Hippach - Winterbild"
+        },
+        {
+          "@language": "ru",
+          "@value": "Gertraud Spitaler Hippach - Winterbild"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d925ce6a-e0bb-4de9-b56c-9c181a121075/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ahorn"
+        },
+        {
+          "@language": "en",
+          "@value": "Ahorn"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ahorn"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9ee8bb23-57a2-4cfb-a09e-e753980699a5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Aussicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Aussicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Aussicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f9183a67-d0d8-4151-8091-5a8702e60ac8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Skifahren"
+        },
+        {
+          "@language": "en",
+          "@value": "Skifahren"
+        },
+        {
+          "@language": "ru",
+          "@value": "Skifahren"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e4113646-e0aa-4bb2-b246-68b4510b6ca4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Langlauf"
+        },
+        {
+          "@language": "en",
+          "@value": "Langlauf"
+        },
+        {
+          "@language": "ru",
+          "@value": "Langlauf"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f4c386d0-3bd0-4cb3-b624-061bffe3a26d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Almabtrieb"
+        },
+        {
+          "@language": "en",
+          "@value": "Almabtrieb"
+        },
+        {
+          "@language": "ru",
+          "@value": "Almabtrieb"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b013a18a-8abf-4ff4-a22f-026dcb712396/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Genuss"
+        },
+        {
+          "@language": "en",
+          "@value": "Genuss"
+        },
+        {
+          "@language": "ru",
+          "@value": "Genuss"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4987a721-f39c-47b2-96ce-7a54c9c4ed2f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bergsee"
+        },
+        {
+          "@language": "en",
+          "@value": "Bergsee"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bergsee"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6487cd02-8c8c-422f-bbc8-46c255ad479e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Klettern"
+        },
+        {
+          "@language": "en",
+          "@value": "Klettern"
+        },
+        {
+          "@language": "ru",
+          "@value": "Klettern"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3e5d5702-0eb3-48eb-a3da-23a27e849a50/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bike"
+        },
+        {
+          "@language": "en",
+          "@value": "Bike"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bike"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9cc13e44-07be-4eb2-99ce-0979feb319dc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wandern"
+        },
+        {
+          "@language": "en",
+          "@value": "Wandern"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wandern"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2020182923247",
+    "longitude": "11.8293786048889"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche oder Bad, WC, 4 oder mehr Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower or bath, toilet, 4 or more bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, Душевая кабина или ванна, туалет, 4 или больше спалень"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Große Wohnküche, Bad, Sitzecke im 2. Stock!"
+        },
+        {
+          "@language": "en",
+          "@value": "big livingroom with kitchen, bath, sitting corner in the second floor"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./4 od. mehr Schlafräume/Du od. Bad,WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap./4 + more bedrooms/shower or bath, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, Душевая кабина или ванна, туалет, 4 или больше спалень"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "13",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

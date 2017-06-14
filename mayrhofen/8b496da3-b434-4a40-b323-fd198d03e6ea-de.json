@@ -1,0 +1,117 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d8B496DA3-B434-4A40-B323-FD198D03E6EA"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apartment-Lisa",
+    "streetAddress": "Bichl 481",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 4702",
+    "faxNumber": "(0043) 5282 4702",
+    "email": "info@apartment-lisa.at",
+    "url": "www.apartment-lisa.at"
+  },
+  "name": "Appartment Lisa",
+  "description": "Unser Haus liegt in sonniger und ruhiger Lage; Ski- und Dörferbus vor dem Haus (Zillertal Arena und Ski Zillertal 3000), Bahnhof sowie Rad- und Wanderwege in unmittelbarer Nähe, Brötchenservice. Haustiere erlaubt.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/548abb56-badd-410f-900e-15c32ff66653/99/image.jpg",
+      "caption": "Appartment Lisa Ramsau - Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1957089959745",
+    "longitude": "11.8720364570618"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Gemütliche Ferienwohnung, ca. 42m², Vorraum mit Garderobe, 1 Schlafzimmer, Bad, DU und WC, 1 Wohnküche, Sat-TV, Radio, Hand- und Badetücher, Bettwäsche vorhanden! Preise excl. Ortstaxe!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Gemütlich eingerichtete Ferienwohnung, ca. 75m², Vorraum mit Garderobe, 2 Schlafzimmer, WC seperat, 1 Wohnschlafzimmer, komplett eingerichtete Küche, Bad, Dusche, Balkon, Sat-TV, Radio, Hand- und Badetücher, Bettwäsche vorhanden! Preise excl. Ortstaxe!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "114.00",
+          "maxPrice": "114.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "128.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

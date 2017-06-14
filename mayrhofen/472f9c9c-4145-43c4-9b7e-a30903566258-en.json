@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub"
+  ],
+  "name": "Passage",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1694103619047",
+    "longitude": "11.8655347824097"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Passage",
+    "streetAddress": "Durster Strasse 220 ",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285620 83"
+  },
+  "description": "Passage Bar Mayrhofen\n\nA very friendly Café Bar found at the bottom end of Mayrhofen main street. The indoor bar area benefits from free wifi and table service. A popular bar with Mayrhofen locals, who are always keen to meet and extend their hospitality to those visiting the town. On sunny days the outdoor seating area is perfect to relax in, enjoy a drink and watch the comings and goings of Mayrhofen town centre.\n\nThe menu includes the full range of beer, wines and spirits as well coffee and bar snacks including Pizza and toasted sandwiches. Busy all through the day whether it is for a morning coffee, evening drinks or a more relaxed Apres Ski.\n\nThe bar staff are always smiling and look forward to welcoming you for a drink on your next visit to Mayrhofen.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f3d1b7e7-3147-4515-8b29-c1f6243b3459/99/image.jpg",
+      "caption": "Passage"
+    }
+  ]
+}

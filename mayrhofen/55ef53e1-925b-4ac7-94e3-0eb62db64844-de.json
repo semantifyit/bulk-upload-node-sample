@@ -1,0 +1,150 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.ferienwohnung-klausner.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d55EF53E1-925B-4AC7-94E3-0EB62DB64844"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Oberbichl 737",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0043 5282 3670",
+    "email": "landhaus.klausner@aon.at",
+    "url": "http://www.ferienwohnung-klausner.at"
+  },
+  "name": "Landhaus Klausner",
+  "description": [
+    "Familiäres Haus mit 5 Doppelzimmern mit DU/WC und Balkon und Sat-TV und Kühlschrank, erweitertes Frühstück.Zimmer und Ferienwohnung sind für Allergiker geeignet. Grosser Aufenthaltsraum mit SAt-TV, herrliche ruhige Lage am Ortsrand gelegen, mitten im Grünen. Sonnenterrasse und grosse Liegewiese, Kinderspielplatz mit Schaukel, Idelaer Ausgangspunkt für zahlreiche Wanderungen in die Zillertaler Bergwelt!",
+    "Kindermässigung auf Anfrage",
+    "Check out 10.00 Uhr - Check in 14.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9be6abc-16eb-4665-bbfd-e02c679d86aa/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Sommeransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63d321a7-6daf-41c3-b58a-ef06f6a1c09a/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/32919a5a-b1b9-462e-9e56-3b4bcd57eb8d/99/image.jpg",
+      "caption": "Landhaus Klausner Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6b014087-cf2e-4a57-a017-b02e7ff91550/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca00a5c9-dc4d-478c-9ccc-0f6b5dbb7944/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/283c08ea-20c8-493d-8cab-ec4a886c96a9/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Tische"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/14625d74-de3c-4006-8b38-d72593ec0edc/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Tische2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec3da442-0571-4e96-9ccd-7b675bc58093/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Tische3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/99471fc4-6b35-4075-9d18-c94490a2e317/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/da3e67ee-3ade-4d19-8d5d-b69dff5cf4ce/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ad55ef5-f686-4ca6-a59a-ef89d4c7f2e4/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Zimmer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0977ae8-29e0-461e-948e-4ebdb2cf7a51/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f9d7927-b67b-4f15-957a-7aec6ee4c383/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Schnapskeller1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2820c6c5-4070-4d9f-8582-c1ecc374dea6/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Schnapskeller2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4bcd5fd6-c51a-48d2-acc5-7ac1e1a28f2b/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Schnapskeller3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fedddf38-d1ea-4ed3-9bbb-3cac451eb402/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Kreuz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4b381c04-32b9-494c-8097-34ccb6ec6db4/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Bild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f1b169cc-3064-43ae-9d68-62f04b24dceb/99/image.jpg",
+      "caption": "Landhaus Klausner Ramsau - Aussicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1925048546292",
+    "longitude": "11.8732810020447"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer mit DU/WC, Sat-TV und Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

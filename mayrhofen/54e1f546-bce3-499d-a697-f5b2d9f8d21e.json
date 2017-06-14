@@ -1,0 +1,193 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d54E1F546-BCE3-499D-A697-F5B2D9F8D21E"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kreidl",
+    "streetAddress": "Neu-Burgstall 314",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 4669074",
+    "faxNumber": "0043 5285 63602",
+    "email": "nicola.kreidl@a1.net"
+  },
+  "name": "Kreidl Nicola",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus befindet sich in einer sonnigen und ruhigen Panoramalage, Nähe der Horbergbahn.  Komplett ausgestattete Ferienwohnung für 2-5 Personen, Kinderreisebett auf Wunsch\n\nInbegriffen im Preis: Bettwäsche, Handtücher, Koch- und Essgeschirr\n\nBrötchenservice möglich!"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: 14.00 Uhr\nCheck out: 9.00Uhr\n\nWegbeschreibung: Folgen Sie den Wegweisern zur Horbergbahn - beim Kreisverkehr Richtung Pizzeria Sidan - nach ca. 200 m rechts abbiegen und die kleine Anhöhe hinauf - auf der rechten Seite befindet sich unse"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is built in a sunny and quiet panorama situation, nearness of the Horbergbahn. Completely equipped holiday apartment for 2-5 people.\nIncluded in the price: bedclothes, towels, cooking dishes and dinner set \nBread service possible\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 14. 00 o\u0027clock \nCheck out: 9. 30 o\u0027clock \nRoad description: Follow the signposts to the Horbergbahn - at the roundabout traffic to direction of pizzeria Sidan - after 200 m turn right and the small hill up - our house is on the right side\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f1741bc-c783-45e0-8296-e2c0c40dbb76/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Nicola Kreidl Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Nicola Kreidl Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Nicola Kreidl Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12a4996c-7516-4483-a21d-126868dcf53a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Nicola Kreidl Mayrhofen - Sommer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Nicola Kreidl Mayrhofen - Sommer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Nicola Kreidl Mayrhofen - Sommer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/85199ccd-68de-423f-b4ea-a47df959b63b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Nicola Kreidl Mayrhofen - Sommer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Nicola Kreidl Mayrhofen - Sommer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Nicola Kreidl Mayrhofen - Sommer2"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1861178661177",
+    "longitude": "11.8585556745529"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 1 Schlafraum"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 1 bed room"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, одна спальня"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Komplette neu eingerichtete Ferienwohnung  für 2 bis 5 Personen, \n1 großes Schlafzimmer für 2-4 Personen,  Küche mit Sitzecke, Mikrowelle, Backrohr, Toaster, Tisch- und Küchenwäsche vorhanden, Sat-TV, Wohnzimmer mit ausziehbarer Couch, DU/WC, Balkon, Parkplatz, Brötchenservice auf Wunsch"
+        },
+        {
+          "@language": "en",
+          "@value": "Complete new furnished holiday apartment  for 2 - 5 people,\n1 big bedroom for 2-4 people, kitchen with living-room furniture, microwave, baking pipe, toaster, table linen and culinary laundry available, Sat TV, sitting room with extendable couch, DU / WC, balcony, parking bay \n\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/1 Schlafraum/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/1 bedroom/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, одна спальня"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "58.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "73.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "88.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

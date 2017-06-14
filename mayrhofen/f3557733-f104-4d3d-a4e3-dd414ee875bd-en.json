@@ -1,0 +1,104 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "DanceEvent"
+    ],
+    "name": "Hoo Ruck  Concert with the Mayrhofener",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Europahaus",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dursterstr. 225",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 6750",
+        "faxNumber": "+43 5285 6760-33",
+        "email": "office@europahaus.at",
+        "url": "www.europahaus.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Europahaus",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dursterstr. 225",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 6750",
+        "faxNumber": "+43 5285 6760-33",
+        "email": "office@europahaus.at",
+        "url": "www.europahaus.at"
+      }
+    },
+    "description": "Entry: 7.45 p.m.\nStart: 8.30 p.m.\n\nTickets:\n\nChildren 6 to 15 years € 8,00\nAdults from 16 years € 16,50\n\nFixed table reservation, free choice of seats at the table.\n\nTickethotline: +43 5285 6760 or ticket@mayrhofen.at\n\nAt Europahaus Mayrhofen.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/eb259447-3de3-4969-bdee-f91e48920641/99/image.jpg",
+        "caption": "Die Mayrhofner"
+      }
+    ],
+    "url": [
+      "http://www.mayrhofen.at/shop/"
+    ],
+    "startDate": "2017-08-02T20:30:00",
+    "endDate": "2017-08-02"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "DanceEvent"
+    ],
+    "name": "Hoo Ruck  Concert with the Mayrhofener",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Europahaus",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dursterstr. 225",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 6750",
+        "faxNumber": "+43 5285 6760-33",
+        "email": "office@europahaus.at",
+        "url": "www.europahaus.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Europahaus",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dursterstr. 225",
+        "addressLocality": "Mayrhofen",
+        "postalCode": "6290",
+        "addressCountry": "AT",
+        "telephone": "+43 5285 6750",
+        "faxNumber": "+43 5285 6760-33",
+        "email": "office@europahaus.at",
+        "url": "www.europahaus.at"
+      }
+    },
+    "description": "Entry: 7.45 p.m.\nStart: 8.30 p.m.\n\nTickets:\n\nChildren 6 to 15 years € 8,00\nAdults from 16 years € 16,50\n\nFixed table reservation, free choice of seats at the table.\n\nTickethotline: +43 5285 6760 or ticket@mayrhofen.at\n\nAt Europahaus Mayrhofen.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/ZIL/1/eb259447-3de3-4969-bdee-f91e48920641/99/image.jpg",
+        "caption": "Die Mayrhofner"
+      }
+    ],
+    "url": [
+      "http://www.mayrhofen.at/shop/"
+    ],
+    "startDate": "2017-09-06T20:30:00",
+    "endDate": "2017-09-06"
+  }
+]

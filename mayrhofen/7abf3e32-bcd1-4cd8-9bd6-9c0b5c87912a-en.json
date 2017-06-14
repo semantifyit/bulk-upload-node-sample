@@ -1,0 +1,620 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "https://www.panorama3d.at/hof-neuhaus-mayrhofen/panorama/50893-appartement-lukas#showPano",
+    "http://www.hof-neuhaus.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d7ABF3E32-BCD1-4CD8-9BD6-9C0B5C87912A",
+    "https://www.panorama3d.at/hof-neuhaus-mayrhofen/panorama/50894-appartement-lorena#showPano"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Neuhaus, Hof",
+    "streetAddress": "Burgstall 350",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 5414734",
+    "email": "info@hof-neuhaus.at",
+    "url": "http://www.hof-neuhaus.at"
+  },
+  "name": "Hof Neuhaus",
+  "description": [
+    "Pretty farm in a quiet position.  Car park.  Day room with Sat TV and traditional tiled stove, equipped with barbeque, playing area, animals allowed.",
+    "Price includes electricity, excludes final cleaning charge.",
+    "Go straight over the roundabout at Mayrhofen, just before the railway station, turn right, follow the road to Burgstall (sign posted), carry on until the fire brigade station in Burgstall which can be seen on the right and turn right there to Hof Neu"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "20"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bbd01d85-2028-4c0d-bfcf-4f314cd305f6/99/image.jpg",
+      "caption": "Neuhaus Hof Mayrhofen - Sommeransicht 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f8c3d54a-bab6-49b0-8630-4a24d3eb1950/99/image.jpg",
+      "caption": "Neuhaus Hof Mayrhofen - Sommeransicht 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f1703949-fb73-4100-986c-042808483919/99/image.jpg",
+      "caption": "Neuhaus Hof Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c072208e-ff68-4d28-a442-5f5038e7b73a/99/image.jpg",
+      "caption": "Neuhaus Hof Mayrhofen - Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8a1a27c0-a100-4a6e-b609-fe2a9a0dbfce/99/image.jpg",
+      "caption": "Neuhaus Hof Mayrhofen - Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/37808a44-02d2-4581-8beb-d5cabdf6e70e/99/image.jpg",
+      "caption": "Neuhaus Hof Mayrhofen - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2b98e255-a64a-4400-9c4e-aa663a1b6f27/99/image.jpg",
+      "caption": "Neuhaus Hof Mayrhofen - Deko"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8f8df3de-c3df-454c-917b-b8039490a184/99/image.jpg",
+      "caption": "DSC_0023"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/43bb527b-0c41-403a-8e22-8a9cd034a739/99/image.jpg",
+      "caption": "DSC_0024"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8a06be08-2870-4e68-9902-b6fed81fcaa5/99/image.jpg",
+      "caption": "DSC_0025"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b5f319e9-f58f-4cc1-8879-1aec24cfe7ba/99/image.jpg",
+      "caption": "DSC_0150"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/468932ad-1608-4f5b-81c8-01ddbbd04b72/99/image.jpg",
+      "caption": "DSC_0152"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c7381f9-c261-45bc-bff4-23809332fe43/99/image.jpg",
+      "caption": "IMGP5507"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1831683637447",
+    "longitude": "11.8610286712646"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "New non-smoking appartment for 2 to 9 persons with a nice kitchen with dishwasher and Flat-TV, sitting corner and a coucht (double sofa bed), 2 separat double rooms for 2-4 persons wiht one double bed and one double sofa bed, each room with shower toilette, south side balcony, one room with a separat Flat-TV, Internet/W-Lan with charge",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 2 bed rooms",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/f952910b-ce0a-4fd3-9288-a3df9935d212/99/image.jpg",
+              "caption": "Schlafzimmer2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/eeea530a-9757-4f37-a14c-a85a7f121e0a/99/image.jpg",
+              "caption": "Wohnküche4"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/fe25abd6-c433-44cf-8a1a-a68bf3d09b2a/99/image.jpg",
+              "caption": "Dusche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/53f229f3-fcb3-4a95-bb3a-5d25bc1feaee/99/image.jpg",
+              "caption": "DSC_0019"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a64d0df9-8721-408d-ac23-88dc1d9720b0/99/image.jpg",
+              "caption": "Schlafzimmer3"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/eacf237b-a3fe-4a20-a00a-cda357cfdd98/99/image.jpg",
+              "caption": "Schlafzimmer4"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 2 bed rooms",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/46807f16-59d7-4028-90c2-65d7e4119037/99/image.jpg",
+              "caption": "Schlafzimmer2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/7c087d0f-f941-4e94-8fcc-870d3cb494d8/99/image.jpg",
+              "caption": "Wohnküche4"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/c1cc7501-5474-4d05-9b94-102084d6bf10/99/image.jpg",
+              "caption": "Dusche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/99986a1d-dec9-4bc5-a17e-ca05a21b456a/99/image.jpg",
+              "caption": "DSC_0019"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/fd645587-62ee-439e-a822-e6e71a92dbae/99/image.jpg",
+              "caption": "Schlafzimmer3"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/ef388e8e-de02-499a-af9f-72146f827003/99/image.jpg",
+              "caption": "Schlafzimmer4"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "23.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "22.40",
+          "maxPrice": "108.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "22.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "21.71",
+          "maxPrice": "148.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "21.50",
+          "maxPrice": "168.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "26.45",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "25.76",
+          "maxPrice": "108.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "25.30",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "24.97",
+          "maxPrice": "148.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "24.72",
+          "maxPrice": "168.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet, 2 bed rooms",
+      "description": "New NON-smoking appartment for 2 to max. 9 persons with a nice kitschen with dishwasher and Flat-TV, sitting corner and 1 couch (double sofa bed), 2 separate double rooms for 2-4 persons wiht one double bed and one double sofa bed, each room has shower toilette, south side balcony, one room has got a separate Flat-TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 1 bed room",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d839ca89-41d1-4cdd-8768-9d5d47ee9fb7/99/image.jpg",
+              "caption": "Küche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/d7e4d60a-9d8f-43fc-a51f-55e311ac4130/99/image.jpg",
+              "caption": "Wohnküche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/56a6e982-f1b2-4236-bf4f-7532231e1e06/99/image.jpg",
+              "caption": "Schlafzimmer1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/f9974c12-1a56-4205-b7d7-a1b6721b4171/99/image.jpg",
+              "caption": "Schlarfzimmer2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/045af006-e7be-43b4-86bc-c5dce9d18df4/99/image.jpg",
+              "caption": "Dusche1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/4d0c0c41-6256-4cd3-96d1-4ad3fedeaff7/99/image.jpg",
+              "caption": "Dusche2"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower, toilet, 2 bed rooms",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a73c814f-dfd2-491b-865e-061cefd704ca/99/image.jpg",
+              "caption": "Küche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/33c01193-3d1a-43a2-90fd-21010c5368fd/99/image.jpg",
+              "caption": "Wohnküche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/6dc03eaa-eb9d-44a4-be22-0bc97df7a40c/99/image.jpg",
+              "caption": "Schlafzimmer1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/c43b98b6-f417-428f-861b-5323613e6c15/99/image.jpg",
+              "caption": "Schlarfzimmer2"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/7361c101-3938-4724-a1c4-631ad42c8c5f/99/image.jpg",
+              "caption": "Dusche1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/4dbe23b5-dd7c-40f7-a5dc-1874ca21ce38/99/image.jpg",
+              "caption": "Dusche2"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "23.00",
+          "maxPrice": "112.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "22.40",
+          "maxPrice": "137.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "22.00",
+          "maxPrice": "164.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "21.71",
+          "maxPrice": "185.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "21.50",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "26.45",
+          "maxPrice": "112.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "25.76",
+          "maxPrice": "137.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "25.30",
+          "maxPrice": "164.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "24.97",
+          "maxPrice": "185.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "24.72",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Holiday home, shower, toilet, 2 bed rooms",
+      "description": "Kitchen with TV, seating corner and sofa, shower, WC, sleeping room for 2-3 persons, sleeping bunk for 2 persons",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Holiday home, shower, toilet, 2 bed rooms",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "61.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "40.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "30.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "29.60",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 1 bed room",
+      "description": "Nice double room for 2-4 persons, one double bed and one double sofa bed, southside balcony , shower and toilette",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet, 1 bed room",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Double room",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Double room",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/a414a6af-f6d5-4298-a64e-2a8ead09331c/99/image.jpg",
+              "caption": "Zimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/dfcc3bbc-617b-4e33-a3d0-18fc4f76d5a3/99/image.jpg",
+              "caption": "Zimmer1"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "26.00",
+          "maxPrice": "33.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "26.00",
+          "maxPrice": "33.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "26.00",
+          "maxPrice": "33.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

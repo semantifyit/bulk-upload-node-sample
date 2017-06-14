@@ -1,0 +1,115 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dAAC340D3-FE46-4ED9-9569-E3BA3748F97F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ramsau 295",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2955",
+    "faxNumber": "0043 5282 2880-20",
+    "email": "office@wartelsteiner.at"
+  },
+  "name": "Wiesenhäusl",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Zentral gelegenes Gästehaus im Ortsteil Ramsau."
+    },
+    {
+      "@language": "de",
+      "@value": "Check in 12.00 Uhr - Check out 10.00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "central situated guesthouse in Ramsau"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in 12.00 - Check out 10.00 "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c2d57cad-baf1-4a13-83f9-10fed7e56ae7/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2043726959506",
+    "longitude": "11.8714034557343"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, fl. k/w Wasser"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, running hot/cold water"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, горячая/холодная вода"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit fl. Wasser"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with running hot/cold water"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, горячая/холодная вода"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

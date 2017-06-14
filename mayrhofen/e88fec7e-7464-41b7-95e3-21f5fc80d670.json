@@ -1,0 +1,201 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.stiegenhaushof.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dE88FEC7E-7464-41B7-95E3-21F5FC80D670"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fankhauser, Landhaus",
+    "streetAddress": "Dorf 130",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63990",
+    "faxNumber": "0043 5285 63990",
+    "email": "info@stiegenhaushof.at",
+    "url": "http://www.stiegenhaushof.at/ueber-uns/landhaus-fankhauser.html"
+  },
+  "name": "Landhaus Fankhauser Maria",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Landhaus bietet ein liebevoll gepflegtes Ambiente im Dorfkern von Schwendau in sonniger Lage mit Blick auf die Zillertaler Alpen. Ideal für Winter und Sommerurlaub!  Wir schätzen uns glücklich, viele Stammgäste zu haben, die immer wiederkehren um die familiäre Atmosphäre in unserem Haus zu genießen."
+    },
+    {
+      "@language": "en",
+      "@value": "Our country house offers an affectionately cultivated ambience in the village core of Schwendau in sunny situation with look at the Zillertaler Alps. Ideally for winter and summer vacation! "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8743c7b3-1226-430e-9f90-92d8b1bc30b6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Fankhauser Schwendau - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Fankhauser Schwendau - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Fankhauser Schwendau - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae907bcd-a880-4d6b-9af3-7128ed333405/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Landhaus Fankhauser Schwendau - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Landhaus Fankhauser Schwendau - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Landhaus Fankhauser Schwendau - Winter"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.197371293106",
+    "longitude": "11.858875015351"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "gemütliche und vollausgestattete Wohnküche mit Sat-TV, Doppelzimmer mit Zustellbett, DU/WC,Balkon, Bettwäsche und Handtücher vorhanden"
+        },
+        {
+          "@language": "en",
+          "@value": "nice and fully equiped kitchen diner with satellite TV, double room with extra bed, shower/WC, balcony, completely equipped, bed linen and hand towels available"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ap./Wohn-Schlafraum/1 Schlafraum/Bad, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "ap/comb.liv.-bedroom/1 bedroom/bath,wc"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Doppelzimmer, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Double room, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "2-местный номер, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "alle Zimmer mit DU/WC, Sat-TV und Radio, Safe"
+        },
+        {
+          "@language": "en",
+          "@value": "all rooms with shower/WC, satellite TV and balcony, safe"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Doppelzimmer mit Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "double room with shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "2-местный номер, душ, туалет"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

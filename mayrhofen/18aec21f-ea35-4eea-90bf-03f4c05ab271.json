@@ -1,0 +1,368 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.lachgas.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Waldbadstraße 534",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "email": "office@lachgas.at",
+    "url": "http://www.lachgas.at"
+  },
+  "name": "Ferienwohnung Galerie Kaiser",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Haus liegt mitten im Zentrum von Mayrhofen in einer ruhigen Seitenstraße. Im Umkreis von 5 Gehminuten liegen Bäcker, Fleischer, kleiner Supermarkt, Erlebnisbad und Penkenbahn. Die einzige Ferienwohnung im Haus liegt im ersten Stock und ist voll ausgestattet. Parkplatz vor dem Haus.\nFreies WLAN."
+    },
+    {
+      "@language": "de",
+      "@value": "Waschmaschine, Wäschetrockner, Infrarotkabine, zwei TV Geräte und WLAN inklusive.\nFür Haustiere verrechnen wir € 8,- pro Tag!"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in: 16.00 Uhr\nCheck out: 10.00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Our house is located in the center of Mayrhofen in a quiet side street. Within 5 minutes are bakers, butchers, small supermarket, water park and Penkenbahn. The only apartment in the house on the first floor and is fully equipped. Parking in front of the house.\nFree Wi-Fi.\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Washing machine, dryer, infrared cabin, two TV sets and WiFi.\npets € 8,- per day"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in: 16.00 \nCheck out: 11.00 "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/48df55c6-a299-4d83-83f3-08f3c39329a5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung Galerie Kaiser - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienwohnung Galerie Kaiser - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienwohnung Galerie Kaiser - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0ae31ccc-8137-4446-a1d7-fa6b78d63238/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung Galerie Kaiser - Winter 2"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienwohnung Galerie Kaiser - Winter 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienwohnung Galerie Kaiser - Winter 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5d493e11-9606-4e70-8b3e-f6dc56490994/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung Galerie Kaiser - Winter 3"
+        },
+        {
+          "@language": "en",
+          "@value": "Ferienwohnung Galerie Kaiser - Winter 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ferienwohnung Galerie Kaiser - Winter 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fd0b1c03-e756-4242-9b3d-3741f7f5025b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Karte"
+        },
+        {
+          "@language": "en",
+          "@value": "Karte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Karte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5ccfab5d-3744-4e39-8c50-50081fce3933/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerurlaub-1"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerurlaub-1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerurlaub-1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/362a717e-a06e-48d4-9301-e8860de27422/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerurlaub-2"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerurlaub-2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerurlaub-2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/33770f69-843d-4475-b419-87b47a376f1d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerurlaub-3"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerurlaub-3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerurlaub-3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9c525d52-2669-4e56-a65c-e8594ad117fb/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Sommerurlaub-4"
+        },
+        {
+          "@language": "en",
+          "@value": "Sommerurlaub-4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Sommerurlaub-4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a14ea34e-36d2-418e-b220-3036777de1b4/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-1"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b1b2f610-72c4-4e7a-b620-5021f1672e88/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-2"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/275858ae-ba4f-49f8-9416-b6f185f72380/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-3"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ccf51d68-b19d-4448-ae21-c5aa616eda85/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-4"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fce99516-4df9-423e-ae33-cc76fbf6681d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Winterurlaub-5"
+        },
+        {
+          "@language": "en",
+          "@value": "Winterurlaub-5"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winterurlaub-5"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1652241",
+    "longitude": "11.8636974999999"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die einzige Ferienwohnung im Haus liegt im ersten Stock und ist voll ausgestattet. Parkplatz vor dem Haus.\nFreies WLAN."
+        },
+        {
+          "@language": "en",
+          "@value": "The only apartment in the house on the first floor and is fully equipped. Parking in front of the house.\nFree Wi-Fi.\n"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Ferienwohnung Galerie Kaiser"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

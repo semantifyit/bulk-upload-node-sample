@@ -1,0 +1,134 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d0DE57352-13E2-457E-BFFC-F7F265856085"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Oberbichl 766",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "email": "ehirner@gmx.at"
+  },
+  "name": "Hirner Evi",
+  "description": [
+    "Ruhige, sonnige Lage, Skibus und Dörferbus sowie Rad- und Wanderwege in Hausnähe.",
+    "Preise verstehen sich exkl. Ortstaxe.",
+    "Check-in:     Tag der Ankunft ab 14:00 Uhr \nCheck-out:  Tag der Abreise - spätestens um 10:00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cd9002de-4e63-4a5a-a16e-c432bc10a8a6/99/image.jpg",
+      "caption": "Evi Hirner Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84b3cd66-c78b-40c0-9d81-fbd31c12a805/99/image.jpg",
+      "caption": "Evi Hirner Ramsau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5374b23f-7431-4bf9-bf10-61912945cfc1/99/image.jpg",
+      "caption": "Ahornbahn © Frank Bauer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1623abe1-41f7-4879-befb-75c2a245e68d/99/image.jpg",
+      "caption": "Bergsteigen © Bernd Ritschel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c904c8d9-914c-4273-bf8f-564d9ff6ef40/99/image.jpg",
+      "caption": "Bouldern © Ursula Aichner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7903a8b8-c110-4862-a18c-7bf9e5dd4fed/99/image.jpg",
+      "caption": "Genießerberg Ahorn © Florian Schüppel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/809df205-2c60-4d9c-9c4d-b7d99b114bb8/99/image.jpg",
+      "caption": "Langlaufen © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/62817a6c-f837-4bc7-b2f0-46169adccb96/99/image.jpg",
+      "caption": "Einkehr © Blickfang Photographie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c112604-f37e-461f-91a1-9e75f7de902c/99/image.jpg",
+      "caption": "Panorama © Laurin Moser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b37817ef-009e-4202-8b93-b72895dae9fe/99/image.jpg",
+      "caption": "Pistenspaß © Laurin Moser"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.19076965297",
+    "longitude": "11.8727284669876"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Vorraum mit Garderobe, Schlafzimmer, großer Wohnraum mit Küchenblock (inkl. Spülmaschine), Dusche und WC, großer Balkon, separater Hauseingang, Sat-TV, Bettwäsche, Handtücher, Radio;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap./Wohn-Schlafraum/1 Schlafraum/Du,WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

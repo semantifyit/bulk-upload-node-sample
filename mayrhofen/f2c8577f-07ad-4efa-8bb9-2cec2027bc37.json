@@ -1,0 +1,83 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Primavera"
+    },
+    {
+      "@language": "de",
+      "@value": "Primavera"
+    },
+    {
+      "@language": "ru",
+      "@value": "Primavera"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.162665",
+    "longitude": "11.8605918"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 480",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64523",
+    "faxNumber": "(0043) 5337 64417",
+    "email": "office@primavera-geschenke.at",
+    "url": "http://www.primavera-geschenke.at/filialen/mayrhofen"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Geschenke-Primavera ist ein starker und verlässlicher Partner des Facheinzelhandels. Er bietet eine große Auswahl an aktuellen und bewährten Wohnaccessoires und Geschenksartikeln. Exklusive Designentwicklungen die sich mit viel Liebe zum Detail präsentieren, werden mit trendstarken Importen aus der ganzen Welt komplementiert. \n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f5c56e13-5b82-4550-acf1-b8c9d312350f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Geschäftsausstattung"
+        },
+        {
+          "@language": "de",
+          "@value": "Geschäftsausstattung"
+        },
+        {
+          "@language": "ru",
+          "@value": "Geschäftsausstattung"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af43998b-56b5-44fc-8436-f998e484d50d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.primavera-geschenke.at/filialen/mayrhofen"
+  ]
+}

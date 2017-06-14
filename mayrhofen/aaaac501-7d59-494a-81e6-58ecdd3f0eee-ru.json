@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "SchauBauernhof der ErlebnisSennerei Zillertal",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1778005853484",
+    "longitude": "11.8717789227539"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "ErlebnisSennerei Zillertal",
+    "streetAddress": "Hollenzen 116",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 6390630",
+    "faxNumber": "+43 5285 64926",
+    "email": "erlebnis@sennerei-zillertal.at",
+    "url": "www.erlebnissennerei-zillertal.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8878d3a1-eceb-493f-b065-b158b1568c29/99/image.jpg",
+      "caption": "ErlebnisSennerei"
+    }
+  ],
+  "url": [
+    "http://www.sennerei-zillertal.at"
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d7F7AA8C4-1530-4921-8FB7-640FCD79AC76"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Mühlen 193",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 64412",
+    "email": "rohrmoser.annemarie@aon.at"
+  },
+  "name": "Rohrmoser Annemarie",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Unser Gästehaus liegt im Ortsteil Mühlen in Schwendau, nur wenige Gehminuten von der Horbergbahntalstation entfernt. Optimaler Ausgangspunkt für Wanderungen und Spaziergänge!\nZusatzangebot :\nFREIER EINTRITT in die Freischwimmbäder Mayrhofen und Hippach !\nFREIER EINTRITT zum Tennisplatz !"
+    },
+    {
+      "@language": "de",
+      "@value": "Kinder bis 2 Jahre frei!"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in 12.00 Uhr - Check out 10.00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "Our guesthouse is situated in sunny and quiet position in Schwendau, only a few minutes walk to the Horbergbahn, best starting point for hiking tours and walks"
+    },
+    {
+      "@language": "en",
+      "@value": "children to 2 years free"
+    },
+    {
+      "@language": "en",
+      "@value": "Check in 12.00 - Check out 10.00 "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa316db2-cd03-4b68-a688-c071336a628d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Annemarie Rohrmoser Schwendau - Hausbild Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Annemarie Rohrmoser Schwendau - Hausbild Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Annemarie Rohrmoser Schwendau - Hausbild Sommer"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1946154541218",
+    "longitude": "11.8526118993759"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Gemütliche Ferienwohnung mit DU/WC, Balkon, 3 getrennten Schlafzimmern und komplett ausgestattete Wohnküche mit  Satelliten TV. Es steht Ihnen einen eigener Eingang zur Verfügung."
+        },
+        {
+          "@language": "en",
+          "@value": "cosy furnished holiday appartement with shower/WC, balcony, 3 seperate bedrooms, complete equipped living-kitchen with Sat-TV, own entrance to the appartement"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment/3 Schlafräume/Dusche, WC"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/3 bedrooms/shower, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

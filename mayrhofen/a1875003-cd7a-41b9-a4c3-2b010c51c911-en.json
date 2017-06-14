@@ -1,0 +1,128 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bichl 734",
+    "addressLocality": "Ramsau im Zillertal",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 35 15 937",
+    "email": "matthias_hotter1984@hotmail.com"
+  },
+  "name": "Tischlerhäusl",
+  "description": [
+    "A cap on the edge of the vibrant life Zillertal. In the center of the Austrian alpine tourism, this nice little cottage is ideal for adventurers and sports enthusiasts, active and people looking for fun and variety for every season\n",
+    "Other costs:\nFinal cleaning € 50.00\noptional: Bed linen / towels / tea towels per person on request € 10,00.\nCancellation fees: until 90 days before arrival 30%, until 30 days before arrival 60%, from 29 days before arrival 90% of the total price.\n",
+    "Check in: 14.00\nCheck out: 09.30"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97f2a304-55f2-4cda-881b-2b532e85a319/99/image.jpg",
+      "caption": "Tischlerhäusl - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/263fdd95-943f-4563-9c40-dadf8ac724d8/99/image.jpg",
+      "caption": "Tischlerhäusl - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d45dbcb3-0140-4ed5-b58c-7877fd248a2a/99/image.jpg",
+      "caption": "Tischlerhäusl - Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e2a09e86-bb59-4654-ae91-a9505d05c832/99/image.jpg",
+      "caption": "Tischlerhäusl - Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c69cd490-2d07-4f44-85ed-bff180f988ab/99/image.jpg",
+      "caption": "Innenbereich "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4521b86c-2b7f-4ee9-bbf2-df01c5d16de4/99/image.jpg",
+      "caption": "Küche "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c532ce73-1260-4efd-9719-7ff99d048766/99/image.jpg",
+      "caption": "Küche 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ca9e7d66-83ab-49c0-99a2-71a92f1446ef/99/image.jpg",
+      "caption": "Innenbereich 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a66a5f7e-55f9-446a-92ee-aa2a572e7d69/99/image.jpg",
+      "caption": "Ansicht Zimmer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f23800c4-8763-422e-a523-2322d66a5b5f/99/image.jpg",
+      "caption": "Ansicht Ziimer 1 "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1928983",
+    "longitude": "11.8803154"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment",
+      "description": "A wooden staircase leads you up a nice little terrace up in the, equipped with many wood and toasty woolly rugs apartment. Here there is a modern toilet with sink, the living room with seating area and rural well-equipped kitchen. In wood stove you can let the fire crackle and you prepare a hearty meal.\n\nThe master bedroom is at the rear of the apartment. There is a double bed and a cupboard with original folk art and an additional sofa bed. Curiously, this is also the shower and a sink. (\"The Tyrol are fun ...... ...\")\n\nA beautiful cottage garden with fruit trees and a gurgling fountain (covered) behind the hut, next to the vacant old farmhouse, in summer invites you to relax, play, reading, grilling and in the winter Snowman / woman / burg, or whatever, build one.\n\nEven just something practical: In the cottage there is space for setting Ski, sledding, biking, etc.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "60.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "90.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

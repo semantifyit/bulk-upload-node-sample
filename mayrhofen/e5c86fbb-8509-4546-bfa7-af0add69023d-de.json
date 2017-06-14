@@ -1,0 +1,92 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ferienhuetten.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dE5C86FBB-8509-4546-BFA7-AF0ADD69023D"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Urige Almhütte",
+    "streetAddress": "Zillergrund 58",
+    "addressLocality": "Zillergrund",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 2000 332",
+    "email": "franz.obermair@aon.at"
+  },
+  "name": "Urige Almhütte",
+  "description": "Urige Almhütte",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/aa1e39aa-c26c-42a3-9348-a7ca24f19714/99/image.jpg",
+      "caption": "Urige Almhütte - Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/491b132d-7405-4648-9872-26432e72baf7/99/image.jpg",
+      "caption": "Urige Almhütte - Vorraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2f0d8d0a-e7eb-47a3-b018-0abe6f0c9450/99/image.jpg",
+      "caption": "Urige Almhütte - Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7426623-ba88-4f3c-acfd-1b0cf741ea25/99/image.jpg",
+      "caption": "Urige Almhütte - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b3324622-36dc-4f16-a994-1d873189aaca/99/image.jpg",
+      "caption": "Urige Almhütte - Kamin"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/688f1549-1159-4dd7-9853-6cfd0f666026/99/image.jpg",
+      "caption": "Urige Almhütte - Dusche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5e1df4ce-30e2-40c5-9e4a-da1166116669/99/image.jpg",
+      "caption": "Urige Almhütte - Herd"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1548499096066",
+    "longitude": "11.9449281692505"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Urige Almhütte",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

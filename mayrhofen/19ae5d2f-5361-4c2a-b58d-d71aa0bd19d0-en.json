@@ -1,0 +1,125 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d19AE5D2F-5361-4C2A-B58D-D71AA0BD19D0"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pignellen 140",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62065",
+    "faxNumber": "0043 5285 62065",
+    "email": "franz.d@aon.at"
+  },
+  "name": "Dengg Elisabeth",
+  "description": [
+    "Our house is situated  2.5 km above Mayrhofen, far away from all traffic, however, centrally to all our destinations and skiing areas. Garage for car is available. In winter free ski coach to our skiing areas - 50 m away\n",
+    "Check-in: 15.00\nCheck-out: 09.00"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/89ada231-4b12-4f63-99c7-8802c6230ae3/99/image.jpg",
+      "caption": "Dengg Elisabeth Brandberg - Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/edad92e9-3107-4d63-8a86-ce2a1f62d453/99/image.jpg",
+      "caption": "Dengg Elisabeth Brandberg - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3dcfee45-3428-4f87-82a5-abb335154a42/99/image.jpg",
+      "caption": "Dengg Elisabeth Brandberg - Winter1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/635e02e2-672a-4e70-989f-bedfda2bb364/99/image.jpg",
+      "caption": "Dengg Elisabeth Brandberg - Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bfa607f1-ce9d-4236-94fd-4f84710393f0/99/image.jpg",
+      "caption": "Dengg Elisabeth Brandberg - Winter3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/38dc6dd7-814a-408f-9115-db95b942acf7/99/image.jpg",
+      "caption": "Dengg Elisabeth Brandberg - Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9335428c-7358-41d6-819d-57ee39872737/99/image.jpg",
+      "caption": "Dengg Elisabeth Brandberg - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/432d7907-f4ac-4f0e-81a2-16cc3dfa0083/99/image.jpg",
+      "caption": "Dengg Elisabeth Brandberg - Küche"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1588369231599",
+    "longitude": "11.8760919570923"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet",
+      "description": "A holiday apartment for 2-4 people, 75 m ² largely, a double room, big kitchen with place to sleep, nice sitting room with Sat TV as well as bath and separate WC. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.liv.-bedroom/1 bedroom/bath,wc",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "67.00",
+          "maxPrice": "67.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

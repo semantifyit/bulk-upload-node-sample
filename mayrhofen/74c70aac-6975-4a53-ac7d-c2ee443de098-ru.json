@@ -1,0 +1,117 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.zillertalnet.at/egger77",
+    "http://maps.mayrhofen.at/?foreignResource\u003d74C70AAC-6975-4A53-AC7D-C2EE443DE098"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Simon, Haus",
+    "streetAddress": "Hollenzen 77",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62722",
+    "email": "egger-rosmarie-77@gmx.at",
+    "url": "http://www.zillertalnet.at/egger77"
+  },
+  "name": "Haus Simon",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "52"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/370fff0b-73e0-4e22-aecc-c6b1382194e9/99/image.jpg",
+      "caption": "Haus Simon Mayrhofen - Sommer2008"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a9e51c34-2ebd-4ed5-abf2-ed12da110f9b/99/image.jpg",
+      "caption": "Haus Simon - Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/156a7879-7f82-42d7-b51a-8e09a4e53206/99/image.jpg",
+      "caption": "Haus Simon - Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e985fa4d-51b6-4688-b38f-7a88ee60ac96/99/image.jpg",
+      "caption": "Haus Simon - Wohnraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9b2117f9-ea4b-4698-8816-a8e5a9bb9bce/99/image.jpg",
+      "caption": "Haus Simon - Esstisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5428566d-2912-4237-b6d1-555be30053ed/99/image.jpg",
+      "caption": "Haus Simon - Esstisch2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d19bcb2e-af9b-49e7-9ab6-aceaae119dc5/99/image.jpg",
+      "caption": "Haus Simon - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/92098ba3-ee99-4df7-b247-5022e30501c5/99/image.jpg",
+      "caption": "Haus Simon - Bad"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.182555838376",
+    "longitude": "11.8724548816681"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, одна спальня",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, одна спальня",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

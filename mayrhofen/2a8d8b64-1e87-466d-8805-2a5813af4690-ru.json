@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "LocalBusiness"
+  ],
+  "name": "Flugtaxi Mayrhofen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1642815994439",
+    "longitude": "11.8616607103203"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Flugtaxi Mayrhofen",
+    "streetAddress": "Hauptstraße 458",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2055011",
+    "email": "info@flugtaximayrhofen.at",
+    "url": "www.flugtaximayrhofen.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d5c5da86-fc8b-4d53-80ae-1c1f9310a8fa/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8606b128-38e5-4531-a5c6-81f38e73ec3d/99/image.jpg",
+      "caption": "Paragleiter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/faba598e-be02-41f5-9ed9-fc8d0dac666f/99/image.jpg",
+      "caption": "Paragleiter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ae4ecd45-8ebf-4536-9416-125f340011be/99/image.jpg",
+      "caption": "Paragleiter 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/59db4254-4298-4e7e-8c1d-37a7b4f17289/99/image.jpg",
+      "caption": "Paragleiten"
+    }
+  ],
+  "url": [
+    "http://www.flugtaximayrhofen.at"
+  ]
+}

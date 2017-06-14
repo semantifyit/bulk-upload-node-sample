@@ -1,0 +1,344 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bichl 614",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5337366",
+    "email": "d.hintner@gmx.at"
+  },
+  "name": "Apart Horbergblick",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Das Apart Horbergblick befindet sich im Ortsteil Bichl auf einer sonnigen Anhöhe mit Blick auf die Bergkullisse der Zillertaler Alpen.\n\nDie Ortschaft Ramsau liegt im Herzen des hinteren Zillertal. Vor unserem Haus befindet sich eine Schibushaltestelle. Ab hier gelangen Sie auf einer Fahrt von ca. 5 Minuten zur nahe gelegenen Horbergbahn, mit welcher Sie in die Schiregion 3000 gelangen. Außerdem erreichen Sie die bekannten Schiorte Mayrhofen oder Zell am Ziller in wenigen Minuten. Der Hintertuxer Gletscher bietet das ganze Jahr über Schneevergnügen auf 3250 Metern über dem Meer. Die Talstation der Gletscherbahn erreichen Sie in ca. 30 Autominuten. \n"
+    },
+    {
+      "@language": "de",
+      "@value": "gratis Storno bis 14 Tage vor Anreise. Stornierungen und Änderungen die später erfolgen, sowie Nichtanreise werden mit 100 Prozent der ersten Nacht berechnet."
+    },
+    {
+      "@language": "de",
+      "@value": "Anreise zwischen 14:00 und 20:00 Uhr \n\nAbreise bis spätestens 10:00 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "The Horbergblick is in the district of Bichl on a sunny hill with look at the Bergkullisse of the Zillertaler Alps. \nThe place Ramsau lies in the heart of the rear Zillertal. In front of our house there is a ski bus stop. From hear you can reach the Horbergbahn (ski area Zillertal 3000) within 5min. Moreover you reacht the main skiresorts Zillertal Arena in Zell am Ziller and Mayrhofen in a few minutes. The Hintertuxer Gletscher offers snowy pleasure all year round. It is on 3250m above sea Level. You reach the bottom Station of the Hintertuxer Gletscher in approx. 30minutes. "
+    },
+    {
+      "@language": "en",
+      "@value": "14 days before arrival, you can cancel free of charge\nif you cancel later, the cancellation fee is 100% of the total amount"
+    },
+    {
+      "@language": "en",
+      "@value": "Check-in: 14:00 - 20:00 hrs\nCheck-out: 10:00 hrs"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "14"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/670e8fc3-167c-4816-901e-4fd6bdc2de9d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Horbergblick im Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Horbergblick im Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Horbergblick im Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2401789-da1e-4124-92b6-060052d41bdf/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Hausansicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Hausansicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hausansicht"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0708e865-1f89-41a0-b5bb-3321c442baa5/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9acdbe52-0f3e-4c1a-b0fb-5e2fe864ab45/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus2"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02401d05-5d0b-4e8d-b3bb-9e39403ee09e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/478dcf53-9a03-4528-8867-3dc94fd738a8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wohnbereich"
+        },
+        {
+          "@language": "en",
+          "@value": "Wohnbereich"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wohnbereich"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ab0305ad-0ab8-42b6-97a9-b34000f2e0b8/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wohnbereich2"
+        },
+        {
+          "@language": "en",
+          "@value": "Wohnbereich2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wohnbereich2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/10cb346b-3221-49ed-80a4-bd995b6cd79a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wohnbereich3"
+        },
+        {
+          "@language": "en",
+          "@value": "Wohnbereich3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wohnbereich3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/de994948-24cd-478a-ad80-10f05903acde/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Wohnbereich4"
+        },
+        {
+          "@language": "en",
+          "@value": "Wohnbereich4"
+        },
+        {
+          "@language": "ru",
+          "@value": "Wohnbereich4"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/edf33307-3b8e-40ec-9d02-d15ee5581147/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Schlafzimmer"
+        },
+        {
+          "@language": "en",
+          "@value": "Schlafzimmer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Schlafzimmer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0e39b057-873f-4553-9320-fd25d6fa2def/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Bad"
+        },
+        {
+          "@language": "en",
+          "@value": "Bad"
+        },
+        {
+          "@language": "ru",
+          "@value": "Bad"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1945285",
+    "longitude": "11.8807594"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet, 2 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет, две спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die Unterkunft verfügt über einen großzügigen Wohnbereich mit Küche, 2 Schlafzimmern und einem Badezimmer. Direkt vor der Unterkunft befindet sich ein kleiner Garten und ein Autoabstellplatz.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Our Appartements provides a big living-kitchen with kitchen, 2 bedrooms and a bathroom. In front of the accommodation you can find a small garden with a parking area."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Appartement/Fewo, Dusche, WC, 2 Schlafräume"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet, 2 bed rooms"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, душ, туалет, две спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "115.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "130.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Schönheitsinstitut Rieser Malzer"
+    },
+    {
+      "@language": "de",
+      "@value": "Schönheitsinstitut Rieser Malzer"
+    },
+    {
+      "@language": "ru",
+      "@value": "Schönheitsinstitut Rieser Malzer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1668501707374",
+    "longitude": "11.8626648187637"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schönheitsinstitut Rieser Malzer",
+    "streetAddress": "Hauptstraße 436",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 600 123",
+    "email": "office@rmt.at",
+    "url": "http://www.rmt.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich willkommen, \n\nGut aussehen, sich gut fühlen...\n\nSchönheit kommt von innen. Eine positive Ausstrahlung beginnt damit, sich in seinem Körper wohlzufühlen. Das Schönheits-Institut Rieser-Malzer bietet einzigartige und höchst effektive Methoden in allen Bereichen der Beauty-Behandlungen. Hochmoderne Technik, jahrelange Erfahrung und ein optimal geschultes Team garantieren für bestmögliche Ergebnisse.\nEntdecken Sie Ihre natürliche Schönheit!\n\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Mo- Do: 08.00-18.30 Uhr\nFr: 08.00-20.00 Uhr"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a4b5bcd5-6034-4da9-9b08-276454802b88/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Rieser Malzer"
+        },
+        {
+          "@language": "de",
+          "@value": "Rieser Malzer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Rieser Malzer"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.rmt.at"
+  ]
+}

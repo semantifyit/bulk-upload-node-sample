@@ -1,0 +1,398 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dA0C0193E-3C33-461A-9551-F73D3E9117E5"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Edergasse 522",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62228",
+    "faxNumber": "0043 5285 622283",
+    "email": "bacherbrot@aon.at",
+    "url": "http://www.bacherbrot.com"
+  },
+  "name": "Bacher Gerti",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Ferienwohnung, ca 60 bis 100 m²: 1Dz mit Bad+ WC, 2 Wohn-Schlafräume für 3 Pers. mit Bad + WC, 2 Balkone , separate Küche mit Spülmaschine,große Zirbenstube, Frühstück möglich auf Anfrage Euro 7 pro Person, Zusatzbett möglich. "
+    },
+    {
+      "@language": "en",
+      "@value": "Appartement, app. 60 to 100m², 2 bedrooms, 2 bathrooms, 2 balconys, kitchen, breakfast on request, euro 7 per person"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f444ab53-2498-40de-acaa-edca975f7b70/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bacher Mayrhofen - Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bacher Mayrhofen - Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bacher Mayrhofen - Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/964e901a-89ae-4296-9dc9-1e4ee0852b4b/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bacher Mayrhofen - Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bacher Mayrhofen - Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bacher Mayrhofen - Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f6502110-09a6-499b-a5d8-b8e20627ffc0/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bacher Mayrhofen - Essen"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bacher Mayrhofen - Essen"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bacher Mayrhofen - Essen"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7b79901-2032-492c-b10f-f03269c84b1f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bacher Mayrhofen - Küche"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bacher Mayrhofen - Küche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bacher Mayrhofen - Küche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1e65b6e1-939b-434b-a06c-81558c26592c/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bacher Mayrhofen - Essen1"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bacher Mayrhofen - Essen1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bacher Mayrhofen - Essen1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8474cb3e-2a73-47e2-9a48-9da81ea08646/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bacher Mayrhofen - Zimmer1"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bacher Mayrhofen - Zimmer1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bacher Mayrhofen - Zimmer1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cf6d5160-3ff8-4a9f-93f1-0767759876b3/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bacher Mayrhofen - Zimmer2"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bacher Mayrhofen - Zimmer2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bacher Mayrhofen - Zimmer2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/97228b26-f1fa-48ea-aeb2-031060c8d71f/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bacher Mayrhofen - Zimmer3"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bacher Mayrhofen - Zimmer3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bacher Mayrhofen - Zimmer3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0bfec96c-68c6-4957-8057-84b96ba3266d/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bacher Mayrhofen - Dusche"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bacher Mayrhofen - Dusche"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bacher Mayrhofen - Dusche"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0f9882fe-346e-4c86-a27d-86dd127f7302/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bacher Mayrhofen - Wohnschlafraum1"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bacher Mayrhofen - Wohnschlafraum1"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bacher Mayrhofen - Wohnschlafraum1"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fbb5dca6-5f57-446f-972d-952dac47d85e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bacher Mayrhofen - Wohnschlafraum2"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bacher Mayrhofen - Wohnschlafraum2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bacher Mayrhofen - Wohnschlafraum2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6991a874-8fac-4d85-ac45-1f48d92514fe/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bacher Mayrhofen - Wohnschlafraum3"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bacher Mayrhofen - Wohnschlafraum3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bacher Mayrhofen - Wohnschlafraum3"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1646472864105",
+    "longitude": "11.86343729496"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Bad, WC, 3 Schlafräume"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, bath, toilet, 3 bed rooms"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, ванна, туалет, три спальни"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Ferienwohnung, bis ca. 100m²,  3 Schlafzimmer,3 Bäder, separate Küche mit Micro + Spülmaschine ,schöne Zirbenstube ,Frühstück auf Anfrage, Euro 7 pro Person \nEigene Bäckerei mit Cafe u. Lebensmittelgeschäft im Haus.\n"
+        },
+        {
+          "@language": "en",
+          "@value": "Appartement, 60 m², 2 bedrooms, 2 bathrooms, kitchen, breakfast on request, Euro 7 per person"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment 4-5 Personen"
+            },
+            {
+              "@language": "en",
+              "@value": "apartment/3 bedrooms/bath tube, WC"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент, ванна, туалет, три спальни"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "160.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "160.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент"
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Apartment 2-3 Personen"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment"
+            },
+            {
+              "@language": "ru",
+              "@value": "Апартамент"
+            }
+          ],
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

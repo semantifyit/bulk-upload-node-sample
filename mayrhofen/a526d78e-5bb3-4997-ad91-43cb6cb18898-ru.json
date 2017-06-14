@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Unterbergalm 2021m - Penken/Horberg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1945885709342",
+    "longitude": "11.7947418987751"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Unterbergalm",
+    "streetAddress": "Schwendberg 395 ",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2049777",
+    "email": "info@paulerhof.at",
+    "url": "www.unterbergalm.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/edfc09fd-e9d9-4f86-950d-d50aff542d55/99/image.jpg",
+      "caption": "Unterbergalm"
+    }
+  ],
+  "url": [
+    "http://www.paulerhof.at"
+  ]
+}

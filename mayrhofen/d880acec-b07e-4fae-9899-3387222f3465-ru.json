@@ -1,0 +1,81 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dD880ACEC-B07E-4FAE-9899-3387222F3465",
+    "http://www.mayrhofen.at/de/anna-trojer"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laimach 172",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3195",
+    "faxNumber": "0043 5282 3195",
+    "url": "http://www.mayrhofen.at/de/anna-trojer"
+  },
+  "name": "Trojer Anna",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d961b810-3cf1-4ba2-9341-08028f7deafd/99/image.jpg",
+      "caption": "Anna Trojer Hippach - Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e672ea14-c374-47cd-9cd7-82d504c4215f/99/image.jpg",
+      "caption": "Anna Trojer Hippach - Haus Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2184641316227",
+    "longitude": "11.8669724464417"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, 4 или больше спалень",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, 4 или больше спалень",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

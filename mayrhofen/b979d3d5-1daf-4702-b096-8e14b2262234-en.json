@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.tiscover.at/dr.roscher",
+    "http://maps.mayrhofen.at/?foreignResource\u003dB979D3D5-1DAF-4702-B096-8E14B2262234"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Roscher, Landhaus",
+    "streetAddress": "Zillergrundweg 568",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63110",
+    "faxNumber": "0043 5285 6311050",
+    "email": "info@landhausroscher.com",
+    "url": "http://www.tiscover.at/dr.roscher"
+  },
+  "name": "Landhaus Roscher",
+  "description": [
+    "In a quiet, sunny position at the edge of the forest, and still only a 3 minute walk away from: The Penken lifts, adventure swimming pool, tennis courts, mini golf and shopping! Relax in summer in our garden with children\u0027s play area, and of course, your well behaved pets are also very welcome. You may use the following facilities in the closely situated Fun \u0026 Spa Hotel Strass: In summer: indoor pool for free; In winter: indoor pool and free entry to the Sports Arena Disco. You may also book halfboard, with a choice of 3 meals, which will also be served to you in the Fun \u0026 Spa Hotel Strass.",
+    "Included: Bed linen, hand and bath towels, heating, water, electricity, local taxes. Excluded: Telephone, final cleaning charge.\nDiscounts made for children! Price for 4 - 5 persons on request.",
+    "Arriving on the B169 - straight on at the Mayrhofen roundabout, past the railway station, left at Einfahrt Mitte, right at the next junction going on until Fun \u0026 Spa Hotel Strass, left at the butchers (Metzgerei Gasser) and on to the Kegelbahn (bowling alley). Landhaus Dr. Roscher can be found behind the Kegelbahn."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.6",
+    "reviewCount": "17"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c93fcddf-3518-442c-8c62-e4086718ce61/99/image.jpg",
+      "caption": "Landhaus Dr. Roscher - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0cccd189-0156-4f22-9897-cd074b9be2fd/99/image.jpg",
+      "caption": "Landhaus Dr. Roscher - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1618862576871",
+    "longitude": "11.865406036377"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower or bath, toilet, 1 bed room",
+      "description": "Entrance hall with cooking facilities, living room with cable TV, telephone, bedroom with radio, bathroom, WC, south facing balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap./1 bedroom/shower or bath tube, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower, toilet",
+      "description": "Entrance hall with cooking facilities, living room with cable TV, telephone, bedroom with radio, bathroom, WC, south facing balcony, available for 4-5 persons on request!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "ap/comb.living-bedr./1 bedroom/shower,wc",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Triple room, shower or bath, toilet",
+      "description": "Bed/living room with cable TV, telephone, bath, WC and balcony.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "triple room with shower or bath tube, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

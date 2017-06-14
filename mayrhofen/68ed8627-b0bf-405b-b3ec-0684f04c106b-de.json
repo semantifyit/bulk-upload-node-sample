@@ -1,0 +1,145 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.troppmair.ag.vu",
+    "http://maps.mayrhofen.at/?foreignResource\u003d68ED8627-B0BF-405B-B3EC-0684F04C106B"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Laimach 112",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 2470",
+    "faxNumber": "0043 5282 2470",
+    "email": "haustroppmair@aon.at"
+  },
+  "name": "Troppmair Brigitte",
+  "description": [
+    "Unser Gästehaus steht in Hippach - Ortsteil Laimach in ruhiger sonniger Lage ungefähr 1 km vom Ortskern Hippach, ca. 5 km von Mayrhofen und 2 km von Zell am Ziller entfernt.\nDie Skibushaltestelle befindet sich 50m  vom Haus entfernt und bietet Zubringerdienste in die nächstgelegenen Skigebiete Mayrhofen, Zell am Ziller etc.\nDer Parkplatz befindet isch direkt beim Haus. Brötchenservice ist möglich. 2 Haustiere sind nach Absprache erlaubt.\n\nIm Erdgeschoß befindet sich eine Terrasse, 2 WC-Anlagen, großer Gemeinschaftsraum (ca 60 qm) mit Tresen, Kühlschrank, Geschirrspüler, SAT-TV-Anlage sowie eine Küche  mit Herd, Backofen und Dunstabzug, 3 Kaffeemaschinen und einen Kühlschrank\n\nDas Haus kann auch als Selbstversorgerhaus angemietet werden (Preis nach Vereinbarung).\n",
+    "Kinder bis 2 Jahre frei",
+    "Check in 16.00 Uhr - Check out 09.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/02f489db-ffa1-4cde-ab6a-9d51262e3cca/99/image.jpg",
+      "caption": "Brigitte Troppmair Hippach - Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/adb77790-95f4-4cd5-ac30-317eecca02f0/99/image.jpg",
+      "caption": "Brigitte Troppmair Hippach - Winterbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ada72932-db3e-4e5a-8817-594dda973c70/99/image.jpg",
+      "caption": "Brigitte Troppmair Hippach - Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a3817f73-ae15-4657-af7e-80015e466581/99/image.jpg",
+      "caption": "Brigitte Troppmair Hippach - Tische"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2162488138964",
+    "longitude": "11.8658030033112"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, fl. k/w Wasser",
+      "description": "Terasse und großer Aufenthalts- und Frühstücksraum\nDoppelzimmer mit Etagendusche",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer mit Dusche und WC, teilweise mit Balkon; erweitertes Frühstücksbuffet;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Bad, WC, 4 oder mehr Schlafräume",
+      "description": "Ferienhaus, 1 Wohnküche mit Geschirrspüler, TV-Satanlage und Kühlschrank, grosser Aufenthaltsraum (ca. 60m²), 15 Schlafzimmer davon 12 mit Dusche, WC und Balkon und 3 Zimmer mit Etagendusche, Schibushaltestelle 20m entfernt, weitere Küche im 2. Stock\n\n\nNebenkosten: pro Person € 20,00 pro Woche",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/4 od. mehr Schlafr./Du,Bad,WC",
+          "numberOfRooms": "15.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "38",
+            "minValue": "20"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

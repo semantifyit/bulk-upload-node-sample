@@ -1,0 +1,64 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Allgemeinmediziner Dr. Armin Zumtobel"
+    },
+    {
+      "@language": "de",
+      "@value": "Allgemeinmediziner Dr. Armin Zumtobel"
+    },
+    {
+      "@language": "ru",
+      "@value": "Allgemeinmediziner Dr. Armin Zumtobel"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1671492307719",
+    "longitude": "11.8632817268372"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hauptstraße 416",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62054",
+    "email": "zumtobel@hotmail.com",
+    "url": "http://www.tiscover.com/at/guide/5,de/objectId,INF5935at/intern.html"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Mo, Di, Do, Fr: 9.00 - 12.00 Uhr\nMo, Do, Fr, 16.00 - 18.00 Uhr \n\nJederzeit nach Vereinbarung!"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/75629c37-505c-47a1-8ddc-6501349f6698/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Dr. Armin Zumtobel"
+        },
+        {
+          "@language": "de",
+          "@value": "Dr. Armin Zumtobel"
+        },
+        {
+          "@language": "ru",
+          "@value": "Dr. Armin Zumtobel"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.tiscover.com/at/guide/5,de/objectId,INF5935at/intern.html"
+  ]
+}

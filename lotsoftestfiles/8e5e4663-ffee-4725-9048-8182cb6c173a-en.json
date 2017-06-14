@@ -1,0 +1,136 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Josef",
+    "streetAddress": "Bichl 459",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "(0043) 660 48 58 912",
+    "email": "josef-77@gmx.at",
+    "url": "http://www.apart-zillertal.info/"
+  },
+  "name": "Appartment Josef",
+  "description": "Apart Josef - Zillervalley\n2 bedrooms each for 2 persons\nwell equipped kitchen\nFlat-TV\nfree WLAN\nheated ski cellar\nfree skibus direct in front of our house\n\"Horbergbahn\" 2 km away\n",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "29"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3b286a80-fe68-4a15-b967-ed1eeabd6874/99/image.jpg",
+      "caption": "Appartment Josef Ramsau - Sommer6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1274d722-831a-4423-917f-4b30f2c661f5/99/image.jpg",
+      "caption": "Appartment Josef Ramsau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d1aa96ca-d7e7-4d43-9e32-cebeff7e1e8e/99/image.jpg",
+      "caption": "Appartment Josef Ramsau - Sommer 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fc52c014-8519-4918-910f-38b959b7dd3e/99/image.jpg",
+      "caption": "Appartment Josef Ramsau - Sommer 2 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6660ed0a-7623-444e-b59e-4efd200f71d9/99/image.jpg",
+      "caption": "Appartment Josef Ramsau - Sommer 3 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad61162e-4aff-479f-b1dd-e1dbd5fc1b44/99/image.jpg",
+      "caption": "Appartment Josef Ramsau - Sommer 4 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0bab331-d79f-4b0e-8a07-e9054c923418/99/image.jpg",
+      "caption": "Appartment Josef Ramsau - Sommer 5 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d9649c2f-3048-46dc-a252-c6297180edf3/99/image.jpg",
+      "caption": "Appartment Josef Ramsau - Sommer 6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a529553-adbb-4316-a896-0b231501f1d4/99/image.jpg",
+      "caption": "Appartment Josef Ramsau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/007a212c-74ee-4b75-985d-542dddfcb917/99/image.jpg",
+      "caption": "Appartment Josef Ramsau - Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e71229c0-bdb0-4990-b4b8-a85a036fbd43/99/image.jpg",
+      "caption": "Appartment Josef Ramsau - Winter3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4e0ee3a9-1ee6-4338-a3d4-b4c893afdd60/99/image.jpg",
+      "caption": "Appartment Josef Ramsau - Winter 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f3612d12-55a7-4271-9f28-02af4b377b50/99/image.jpg",
+      "caption": "Appartment Josef Ramsau - Skiraum1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/136465b5-2871-48fa-93ec-94fe48edc75a/99/image.jpg",
+      "caption": "Appartment Josef Ramsau - Skiraum2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5650b34a-9f67-4145-9d8e-79c3b84a0309/99/image.jpg",
+      "caption": "Paraglider"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1982624",
+    "longitude": "11.8718559"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, shower or bath, toilet, 2 bed rooms",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, shower or bath, toilet, 2 bed rooms",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

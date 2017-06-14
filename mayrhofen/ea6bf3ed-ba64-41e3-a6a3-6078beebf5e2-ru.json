@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "Reitstall Kiendlerhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2009831963646",
+    "longitude": "11.8632817268372"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Reitstall Kiendlerhof",
+    "streetAddress": "Schormis 100",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5282 3660",
+    "faxNumber": "(0043) 5282 62974",
+    "email": "kiendlerhof@aon.at",
+    "url": "http://www.kiendlerhof.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/77e5fc70-b347-437d-8c97-09c0d12121b8/99/image.jpg",
+      "caption": "Kiendlerhof"
+    }
+  ],
+  "url": [
+    "http://www.kiendlerhof.at"
+  ]
+}

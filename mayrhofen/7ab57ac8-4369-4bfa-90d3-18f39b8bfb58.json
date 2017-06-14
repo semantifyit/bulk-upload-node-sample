@@ -1,0 +1,163 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Almstüberl 1760m - Penken/Horberg"
+    },
+    {
+      "@language": "de",
+      "@value": "Almstüberl 1760m - Penken/Horberg"
+    },
+    {
+      "@language": "ru",
+      "@value": "Almstüberl 1760m - Penken/Horberg"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1624516055024",
+    "longitude": "11.8080282211304"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Almstüberl",
+    "streetAddress": "Penkenberg 619",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 63495",
+    "email": "info@almstueberl-penken.com",
+    "url": "www.almstueberl-penken.com"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Almstüberl\nRestaurant Almstüberl – die echte Zillertaler Küche\nDas Almstüberl ist ein bei Wanderern, Bikern, Skifahrern und Snowboardern gleichermaßen beliebtes Ausflugsziel. Das Küchenteam des Almstüberls sorgt Sommer und Winter bestens für das leibliche Wohl seiner Gäste, damit der Urlaub in den Bergen ein unvergessliches Erlebnis wird. Hier wird noch richtig gekocht, nach Großmutters Rezepten, mit viel Liebe zum Detail und natürlich mit vielen frischen Produkten aus dem Zillertal. Die Hausmannskost wird ergänzt durch eine Auswahl internationaler Speisen, saftigen Steaks und knusprigen Schnitzel.\n\nTiroler Köstlichkeiten im Almstüberl genießen\nEin Urlaub in den Bergen ist aufregend, spannend, ereignisreich und erholsam, aber die viele Bewegung an der frischen Luft macht auch hungrig. Daher versorgt das Almstüberl an der Mittelstation der Finkenberger Almbahn seine Gäste Sommer wie Winter den ganzen Tag über mit regionalen Köstlichkeiten. Landestypische Hausmannkost, deftig oder leicht, aber immer frisch. Natürlich gibt es auch Schnitzel oder Steak, Salat und Obst. Dazu wird im Zillertal auch immer einen edler Tropfen oder ein kleiner Schnaps serviert, gebrannt aus Kräutern oder Früchten der Region.\n\nAprès Ski in der Alm Bar\nZu einem schönen Skitag gehören auch Spaß, Musik, Schnaps und Co. Dies alles finden Sie jeden Nachmittag aufs Neue in unserer Alm Bar. Gönnen Sie sich noch einen Einkehrschwung bevor es ins Tal geht und genießen Sie den ein oder anderen Willi mit Birne oder einen stärkenden Jagatee. \nWer kurze Wege zur Piste bevorzugt, findet im Almstüberl auch Zimmer zum Übernachten, so ist man am nächsten Morgen garantiert der Erste auf der Piste und muss am Abend nicht mehr mit der Seilbahn ins Tal fahren.\n"
+    },
+    {
+      "@language": "de",
+      "@value": "Winter:\nab ca. 03 Dezember 2016\n\nkeine Übernachtung möglich"
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nfrom 03. December 2016\n\nno overnight stay possible "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b6e86b06-06ca-4836-b71d-d30e670a3003/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Logo"
+        },
+        {
+          "@language": "de",
+          "@value": "Logo"
+        },
+        {
+          "@language": "ru",
+          "@value": "Logo"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec5b214f-6be7-4460-a3b7-b3cc2230317e/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Hütte"
+        },
+        {
+          "@language": "de",
+          "@value": "Hütte"
+        },
+        {
+          "@language": "ru",
+          "@value": "Hütte"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ed81eb52-c9fd-4985-a691-5c6816015227/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Winter"
+        },
+        {
+          "@language": "de",
+          "@value": "Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ece767c-8e04-4cc9-9d3d-0073ee7e871a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Ausblick"
+        },
+        {
+          "@language": "de",
+          "@value": "Ausblick"
+        },
+        {
+          "@language": "ru",
+          "@value": "Ausblick"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/99ddb5e0-b05b-46b0-8adc-edc300ba5b88/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Snowboarder"
+        },
+        {
+          "@language": "de",
+          "@value": "Snowboarder"
+        },
+        {
+          "@language": "ru",
+          "@value": "Snowboarder"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/04a18cae-e656-444d-ae24-cdef271a73bd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Tischgedecke"
+        },
+        {
+          "@language": "de",
+          "@value": "Tischgedecke"
+        },
+        {
+          "@language": "ru",
+          "@value": "Tischgedecke"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.almstueberl-penken.com"
+  ]
+}

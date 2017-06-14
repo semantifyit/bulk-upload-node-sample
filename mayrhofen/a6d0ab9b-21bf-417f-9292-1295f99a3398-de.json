@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsEvent"
+  ],
+  "name": "Blasmusikturnier des VC Zillertal",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "VC Zillertal",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Burggasse 14",
+      "addressLocality": "Schwaz",
+      "postalCode": "6130",
+      "addressCountry": "AT",
+      "email": "info@vc-zillertal.at",
+      "url": "http://www.vc-zillertal.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "VC Zillertal",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Burggasse 14",
+      "addressLocality": "Schwaz",
+      "postalCode": "6130",
+      "addressCountry": "AT",
+      "email": "info@vc-zillertal.at",
+      "url": "http://www.vc-zillertal.at"
+    }
+  },
+  "description": "Blasmusikturnier des VC Zillertal.\nBeginn 10.00 Uhr\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/66df5c26-b135-4937-873f-6ccb44ebb3c4/99/image.jpg",
+      "caption": "VC Zillertal"
+    }
+  ],
+  "url": [
+    "http://event.vc-zillertal.at"
+  ],
+  "startDate": "2017-06-24T10:00:00",
+  "endDate": "2017-06-24"
+}

@@ -1,0 +1,197 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003d5D17820D-B354-4728-86C9-52F22434EDDE"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergfriede, Haus",
+    "streetAddress": "Bichl 557",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3023",
+    "faxNumber": "0043 5282 3023",
+    "email": "acwidauer@aon.at"
+  },
+  "name": "Haus Bergfriede",
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich Willkommen in unserer Ferienwohnung \"Bergfriede\" in Bichl - Ramsau, der ideale Ausgangspunkt für Ihr Skivergnügen im Winter oder dem Wanderurlaub im Sommer. Nach ca. 5 Autominuten erreichen Sie die Talstation Horbergbahn, in ca. 10 min das Skigebiet Zillertal Arena. Zum Hintertuxer Gletscher fahren Sie eine halbe Stunde. Die nächste Skibushaltestelle befindet sich nur 2 min vom Haus entfernt."
+    },
+    {
+      "@language": "de",
+      "@value": "inkl. WLan ,Nichtraucherwohnung, Haustiere sind nicht erlaubt, Skiraum mit Skischuhtrockner"
+    },
+    {
+      "@language": "de",
+      "@value": "Check in 14.00 Uhr - Check out 9.30 Uhr"
+    },
+    {
+      "@language": "en",
+      "@value": "A cultivated house with one comfortable appartement  for 2-5 person.\nIs only 10 minutes walk from the centre.\nFree ski bus and guestbus stop outside the house  80 meter afar.\n\n"
+    },
+    {
+      "@language": "en",
+      "@value": "inkl. WLan ,Nichtraucherwohnung, Haustiere sind nicht erlaubt, Skiraum mit Skischuhtrockner\nicluding Wi-Fi, non-smoker appartment, pets aren\u0027t allowed, ski room with ski boot dryer "
+    },
+    {
+      "@language": "en",
+      "@value": "Check in 14.00 - Check out 9.30 "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/142de173-b625-4535-bccd-d6c04d54ea7a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bergfriede Ramsau - Hausansicht Sommer"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bergfriede Ramsau - Hausansicht Sommer"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bergfriede Ramsau - Hausansicht Sommer"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/854c4169-8af2-4b14-9733-c727544ce821/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bergfriede Ramsau - Hausansicht Winter"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bergfriede Ramsau - Hausansicht Winter"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bergfriede Ramsau - Hausansicht Winter"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/24b7ec1b-4a6b-478e-9233-acc2b798e80a/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Haus Bergfriede Ramsau - Aussicht"
+        },
+        {
+          "@language": "en",
+          "@value": "Haus Bergfriede Ramsau - Aussicht"
+        },
+        {
+          "@language": "ru",
+          "@value": "Haus Bergfriede Ramsau - Aussicht"
+        }
+      ]
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1977975982872",
+    "longitude": "11.8750083446503"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": [
+        {
+          "@language": "de",
+          "@value": "Appartement/Fewo, Dusche, WC"
+        },
+        {
+          "@language": "en",
+          "@value": "Apartment, shower, toilet"
+        },
+        {
+          "@language": "ru",
+          "@value": "Апартамент, душ, туалет"
+        }
+      ],
+      "description": [
+        {
+          "@language": "de",
+          "@value": "Die gemütlich eingerichtete Wohnung verfügt über 1 Dreibettzimmer mit TV und Waschbecken, 1 Doppelzimmer mit Waschbecken, 1 Dusche mit WC, Vorraum mit Garderobe sowie einer Küche mit Essecke und TV. Alle Räume sind mit Massivholz Einbaumöbel ausgestattet. Von Ihrem möblierten Balkon haben Sie freie Aussicht auf die Zillertaler Bergwelt. WLan ist kostenlos verfügbar.\nParkplatz für 1 PKW."
+        },
+        {
+          "@language": "en",
+          "@value": "Appartement with a large furnished balcony on the south-side.\n2 bedrooms with shower and WC, wardrobe, comfortable kitchen, satellite TV, coffeemachine, toaster, microwave, cooker with a oven and fume cupboard, fridge with a icebox. W-Lan\n\nSkicellar with skishoedryer.\nBreadservice and parking place."
+        }
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": [
+            {
+              "@language": "de",
+              "@value": "Wohnung Bergfriede"
+            },
+            {
+              "@language": "en",
+              "@value": "Apartment, shower, toilet"
+            },
+            {
+              "@language": "ru",
+              "@value": "апартамент, shower, toilet"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "70.00",
+          "maxPrice": "92.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

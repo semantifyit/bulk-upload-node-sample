@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SkiResort",
+    "BarOrPub"
+  ],
+  "name": "Brück\u0027n Stadl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1615762256858",
+    "longitude": "11.8604385852814"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brücke, Gasthof",
+    "streetAddress": "Ahornstraße 850",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "+43 5285 62232",
+    "faxNumber": "+43 5285 63745",
+    "email": "hotel.brueckenwirt@aon.at",
+    "url": "http://www.gasthof-bruecke.com"
+  },
+  "description": " in the Brück\u0027n Stadl in Mayrhofen in the Zillertal!\n\nOur \"Stadl\" is opened in summer offering folk music events as well as in winter for everybody who wants to join a great party during Aprés Ski. Till 11 p.m. we serve our traditional tyrolean meals with a refreshing beer or a noble glass of wine.\n\nSince 2010/2011 our \"party hut\" shows it\u0027s new face after a rebuild and it now is also present in a modern way on the internet channel facebook and also has it\u0027s own homepage on www.brueckenstadl.at.\n\nTake a look, leave your comments in our guestbook, get in contact via facebook,...\n\nIf you have any questions - we are always on your disposal.\n\nWe look forward to see you again!\n\nYours family Schneeberger - Hotel Gasthof Brücke",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d24ba58-02d3-48ce-b280-4c238ba5d309/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.gasthof-bruecke.com"
+  ]
+}

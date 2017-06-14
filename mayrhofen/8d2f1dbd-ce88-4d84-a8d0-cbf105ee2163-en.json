@@ -1,0 +1,520 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.mayrhofen-apartment.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d8D2F1DBD-CE88-4D84-A8D0-CBF105EE2163"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Romanelli, Haus",
+    "streetAddress": "Hauptstraße 455",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 63916",
+    "email": "info@mayrhofen-apartment.at",
+    "url": "http://www.mayrhofen-apartment.at"
+  },
+  "name": "Haus Romanelli",
+  "description": [
+    "A Warm Welcome and \"Grüß Gott\" at our Haus Romanelli !\n \nHaus Romanelli is a family business and is run with a lot of attention and dedication. Our two apartments invite you to enjoy a carefree and active holiday in the heart of Mayrhofen. The Penken cable car is only a few meters away from our house. The new Ahornbahn can be reached by foot in approximately ten minutes. The bus stop for the Hintertux Glacier is three houses down from Haus Romanelli.\nThe swimming pool \"Erlebnisbad\" Mayrhofen, as well as the Skating Rink and Tennis Courts are just across a field path. Hiking tours or leisurely walks can be started directly from our house.\nThe numerous restaurants and shops of Mayrhofen invite you to take a stroll and/or enjoy yourself at a nice dinner.\nClimbing paths, mountain huts, toboggan trails, mountain bike trails, paragliding schools and much more are directly in and around Mayrhofen. Active as well as relaxing holidays are almost guaranteed!",
+    "Deposit of 20% is necessary with reservation-\nfrom 14 days before journey 50% are settled by overnight price. if you cancel 1 day before journey: the whole price exkl. final cleaning and local rate.\n",
+    "Apartments are available at Check-In by 3pm, Check-Out is at 9am.\nB169, Exit Mayrhofen Mitte, at Crossroads turn right onto Hauptstraße, approx 300 meters, Haus Romanelli is on the left. Parking in front of \"Boom\" or \"Formano\""
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "20"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a7e95aa1-4905-4588-a8e4-cac65acf580c/99/image.jpg",
+      "caption": "Haus Romanelli Mayrhofen - Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13876021-430d-4af6-b2aa-a509a4044bc3/99/image.jpg",
+      "caption": "Haus Romanelli Mayrhofen - Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ad2ff0ff-3df7-4dc2-96bf-2fd83ee2d59e/99/image.jpg",
+      "caption": "Haus Romanelli - Wohnküche \"Mayrhofen\""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/358b58ff-00ed-4ddb-9f8a-a9e8895b5406/99/image.jpg",
+      "caption": "Haus Romanelli - Schlafzimmer \"Zentrum\""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/96b13116-1ace-49b6-8293-7fca529966ab/99/image.jpg",
+      "caption": "Haus Romanelli - Apartment Zentrum ab 12/12"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8e134d6d-aa34-4f5e-8cb4-dc5cfea9d5a0/99/image.jpg",
+      "caption": "Haus Romanelli - Wohnküche Apt Zentrum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dce58cd7-14a8-4384-9455-91eaa283a6a4/99/image.jpg",
+      "caption": "Haus Romanelli - Schlafzimmer Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6ad80a36-8bbc-4c7a-92ec-856be46f2a0e/99/image.jpg",
+      "caption": "Apt. Becknfeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ece44dad-c6b7-4871-8657-81ea15279f99/99/image.jpg",
+      "caption": "Apt. Becknfeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8ff84640-8b65-4d1b-afb4-0498e16d0c3b/99/image.jpg",
+      "caption": "Haus Romanelli - Skizze \"Becknfeld\""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8673c9ad-0677-45ae-bb5d-996fb82bc53b/99/image.jpg",
+      "caption": "Schlafzimmer Apt. Zentrum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9f6989d4-6963-4199-849f-eec9c72d8765/99/image.jpg",
+      "caption": "Wohnküche Apt. Zentrum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c6d8d9ce-0808-47b4-8e08-689ea99425a6/99/image.jpg",
+      "caption": "Badezimmer \"Mayrhofen\""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8486aa33-17a2-4c82-8e3a-7d9c90b182ea/99/image.jpg",
+      "caption": "Badezimmer \"Zentrum\""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4f2df791-b331-44ce-b681-a9b51423a8df/99/image.jpg",
+      "caption": "Edelweiss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7a3bd6f9-3082-42f1-902b-6d9907ae02f2/99/image.jpg",
+      "caption": "Apartment Scheuling"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/896be0a0-ba15-45a8-bacd-99aa7cc4687a/99/image.jpg",
+      "caption": "Badezimmer Scheuling"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/757edf29-b5f2-49c1-9418-9bc3d7814f5f/99/image.jpg",
+      "caption": "Blick von Apt. Becknfeld bzw. Scheuling"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/17ec8dc1-ae6a-45b4-ae2f-0f90ebb96952/99/image.jpg",
+      "caption": "Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c46aae57-0093-45f9-aa64-b4d6bf7ce0af/99/image.jpg",
+      "caption": "Achensee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/047f396c-582f-4747-9df8-9bc7a54e1a16/99/image.jpg",
+      "caption": "Blick vom Ahorn nordwärts"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0d682ef-ca31-445b-a388-bb41433de99c/99/image.jpg",
+      "caption": "Steinerkogel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/16a8fd07-7d09-46df-a19c-c5a3230996f6/99/image.jpg",
+      "caption": "Paragliding in den Zillertaler Alpen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b776a48a-12fe-4967-8016-f78d3349bbf9/99/image.jpg",
+      "caption": "Tandem Flug mit Stocky Air"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/456eeeae-3b25-4019-a842-421ed702c061/99/image.jpg",
+      "caption": "Kinderklettersteig Zimmereben"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/29ac33b6-981b-4fdf-8b81-96f568ed7662/99/image.jpg",
+      "caption": "ÖAV Penkenhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2ca8c76a-3d00-41a1-99e7-ed02dd2e1252/99/image.jpg",
+      "caption": "Powder am Ahorn"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1646728170501",
+    "longitude": "11.8621605634689"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 2 bed rooms",
+      "description": "Centrally located ca 70m to the Penkenbahn gondola. In 2011 renovated with 2 bedrooms, bath/WC, kitchen/living room, balcony overlooking Hauptstraße (shuttes in front of bedroom windows)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Mayrhofen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/f84e8396-261e-4b85-bec8-3f58b37ab362/99/image.jpg",
+              "caption": "Haus Romanelli"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet, 2 bed rooms",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet, 2 bed rooms",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet, 2 bed rooms",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/f8c8c571-5315-4071-997e-7d6e7ea36542/99/image.jpg",
+              "caption": "Haus Romanelli"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet, 2 bed rooms",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/8df6bd56-8aa8-46f3-b98d-39cc28e251bf/99/image.jpg",
+              "caption": "Haus Romanelli"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "68.00",
+          "maxPrice": "188.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "68.00",
+          "maxPrice": "188.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "68.00",
+          "maxPrice": "188.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "180.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "180.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "180.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "557.00",
+          "maxPrice": "557.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "557.00",
+          "maxPrice": "557.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "557.00",
+          "maxPrice": "557.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 1 bed room",
+      "description": "Centrally located, ca 70m to the Penkenbahn gondola.\nCosy apartment with kitchenette and living room/bedroom, balcony east facing, overlooking the \"Beckn\" Field.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet, 1 bed room",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/b9dd1346-9142-4999-a92b-7119e7538529/99/image.jpg",
+              "caption": "Scheuling1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/3ddd3d86-e401-4967-98cc-4962ff0164f2/99/image.jpg",
+              "caption": "Scheuling-Bad"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "56.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bathtub, 2 bed rooms",
+      "description": "Our completely rennoviertes flatlet centre loads them one in the heart Mayrhofens in perfect comfort to be relaxing. The größzügig invested, modern kitchen-living room forms the perfect heart of the flatlet. An infrared cabin being in the flatlet allows to relax you and the perfect day with our mountains end, before you sit down on our balcony, a glass of wine enjoy and watch the coloured activity of the Mayrhofner high street. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "description": " Our completely renovated apartment Zentrum invites you to enjoy life on the Hauptstrasse! The spacious and modern livingroom/kitchen area forms the heart of the apartment! A private Infrared Sauna Cabin in the master bedrooms allows you to relax and ejoy your perfect holiday!",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/3a7d1467-9024-4e11-98f7-8e4a4a335b59/99/image.jpg",
+              "caption": "zentrum-pano-04"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "72.00",
+          "maxPrice": "198.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "72.00",
+          "maxPrice": "198.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "198.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "886.00",
+          "maxPrice": "886.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "886.00",
+          "maxPrice": "886.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "886.00",
+          "maxPrice": "886.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Apartment, bath, toilet, 1 bed room",
+      "description": "Centrally located, ca 70m to the Penkenbahn gondola.\nCosy apartment with kitchenette and living room/bedroom, balcony east facing, overlooking the \"Beckn\" Field.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment, bath, toilet, 1 bed room",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/0f7b606e-0d7c-41f1-9e47-81f10594504f/99/image.jpg",
+              "caption": "Scheuling1"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/ZIL/1/5bbdef88-6b06-423a-8b33-b942d138d0f2/99/image.jpg",
+              "caption": "Scheuling-Bad"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "56.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

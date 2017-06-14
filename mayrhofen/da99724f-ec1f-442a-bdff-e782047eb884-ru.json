@@ -1,0 +1,106 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "https://sites.google.com/site/huettezillertal/Home",
+    "http://maps.mayrhofen.at/?foreignResource\u003dDA99724F-EC1F-442A-BDFF-E782047EB884"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wechselberger",
+    "streetAddress": "Hochschwendberg 678",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 650 861 80 86",
+    "email": "huette-schwendberg@gmx.at"
+  },
+  "name": "Wechselberger Lukas",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c967c4bb-f421-412b-8662-a11e4a7f41f0/99/image.jpg",
+      "caption": "Lukas Wechselberger Hippach - Hütte Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7c7842c7-4c43-4785-bc47-7a84e6da3ce3/99/image.jpg",
+      "caption": "Lukas Wechselberger Hippach - Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ff52a47b-49c7-44ab-9101-b518667ebf85/99/image.jpg",
+      "caption": "Lukas Wechselberger Hippach - Aussicht2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e1898f3b-b209-4117-b33e-c307255eb4cf/99/image.jpg",
+      "caption": "Lukas Wechselberger Hippach - Aussicht3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/19f39573-be75-4c56-988d-e7eadc455d57/99/image.jpg",
+      "caption": "Lukas Wechselberger Hippach - Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/73778f6a-f447-4049-b2bf-4c5339202103/99/image.jpg",
+      "caption": "Lukas Wechselberger Hippach - Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/65abc404-8c9a-430e-8ca8-950329e43904/99/image.jpg",
+      "caption": "Lukas Wechselberger Hippach - Schlafzimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d93d5059-8433-4839-b9c9-8a031ada8b16/99/image.jpg",
+      "caption": "Lukas Wechselberger Hippach - Wohnzimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/088545d0-2510-4110-91e7-4ff17bf38671/99/image.jpg",
+      "caption": "Lukas Wechselberger Hippach - Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63fd63ac-1e6f-4d8f-99f7-9fdb8946bed1/99/image.jpg",
+      "caption": "Lukas Wechselberger Hippach - Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a42cca14-1755-4661-8c6f-b4266b7b3340/99/image.jpg",
+      "caption": "Lukas Wechselberger Hippach - Küche Bad"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2152395019405",
+    "longitude": "11.8149483203888"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Дом отдыха, ванна, туалет, одна спальня",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Дом отдыха, ванна, туалет, одна спальня",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

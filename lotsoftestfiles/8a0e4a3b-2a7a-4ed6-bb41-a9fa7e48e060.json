@@ -1,0 +1,83 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "MusicEvent"
+  ],
+  "name": [
+    {
+      "@language": "de",
+      "@value": "Zillertaler Krapfenfest"
+    },
+    {
+      "@language": "en",
+      "@value": "Zillertal \"Krapfen\" Food Festival"
+    },
+    {
+      "@language": "ru",
+      "@value": "Zillertal \"Krapfen\" Food Festival"
+    }
+  ],
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Tourismusverband Mayrhofen-Hippach",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstrasse 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6760",
+      "faxNumber": "+43 5285 6760-33",
+      "email": "info@mayrhofen.at",
+      "url": "http://www.mayrhofen.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Tourismusverband Mayrhofen-Hippach",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dursterstrasse 225",
+      "addressLocality": "Mayrhofen",
+      "postalCode": "6290",
+      "addressCountry": "AT",
+      "telephone": "+43 5285 6760",
+      "faxNumber": "+43 5285 6760-33",
+      "email": "info@mayrhofen.at",
+      "url": "http://www.mayrhofen.at"
+    }
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Inmitten von Obstbäumen und Bauernhöfen präsentiert Schwendau ein Sommerfest der Sonderklasse. Das Krapfenfest zelebriert die Köstlichkeiten des Zillertals in der Ferienregion Mayrhofen-Hippach.\n\nBeim mittlerweile schon zur Tradition gewordene Krapfenfest in Schwendau, in der Ferienregion Mayrhofen-Hippach, werden nicht nur Zillertaler Krapfen sondern auch viele andere frische, regionale und hausgemachte Spezialitäten angeboten. Für musikalische Umrahmung ist ebenfalls gesorgt!\n\nTrachtenkleidung erwünscht!\n\nDie Veranstaltung findet bei jeder Witterung statt!\nEINTRITT FREI\n"
+    },
+    {
+      "@language": "en",
+      "@value": "Nestled in the midst of fruit trees and farm houses, the village of Schwendau is host to this extraordinary summer festival. The Food Festival celebrates the delicious regional delicacies of Zillertal in the Mayrhofen-Hippach holiday resort.\n\nThe Food Festival has long been a firm favourite in the summer diary of the Mayrhofen-Hippach holiday region. \n\nAlthough not compulsory, we would appreciate it if visitors wore traditional dress!\n\nThe event takes place whatever the weather!\nFREE ADMISSION\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/34a4e3cf-b803-4855-b7b3-293ca6e19177/99/image.jpg",
+      "caption": [
+        {
+          "@language": "de",
+          "@value": "Krapfenfest 2015"
+        },
+        {
+          "@language": "en",
+          "@value": "Krapfenfest 2015"
+        },
+        {
+          "@language": "ru",
+          "@value": "Krapfenfest 2015"
+        }
+      ]
+    }
+  ],
+  "startDate": "2017-08-20T00:00:00",
+  "endDate": "2017-08-20"
+}

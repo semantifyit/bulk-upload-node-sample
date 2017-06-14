@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartcarola.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d921E1D04-B93D-45AF-8ABA-DFB075B15C4C"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Carola, Appart-Haus",
+    "streetAddress": "Bichl 522",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 676 6207911",
+    "email": "appartcarola@aon.at",
+    "url": "http://www.appartcarola.at"
+  },
+  "name": "Appart-Haus Carola",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/676d89da-afc1-4a62-aa67-2a4e2fa4e71f/99/image.jpg",
+      "caption": "Appart-Haus Carola - Sommeransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/78bea9f2-5858-4c9a-94fd-0bb82c5a100d/99/image.jpg",
+      "caption": "Appart-Haus Carola - Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1955850623635",
+    "longitude": "11.8734848499298"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, ванна, туалет, 4 или больше спалень",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, ванна, туалет, 4 или больше спалень",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore",
+    "BikeStore",
+    "LocalBusiness"
+  ],
+  "name": "Intersport Bründl - Talstation Penkenbahn",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1633807174822",
+    "longitude": "11.8606817374343"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Intersport Bründl ",
+    "streetAddress": "Hauptstraße 472",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62233",
+    "faxNumber": "(0043) 5285 62400-15",
+    "email": "penkental@bruendl.at ",
+    "url": "http://www.bruendl.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/90688881-7673-426b-9f14-bbe5ba701287/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Gasthof Christlwirt"
+    },
+    {
+      "@language": "de",
+      "@value": "Gasthof Christlwirt"
+    },
+    {
+      "@language": "ru",
+      "@value": "Gasthof Christlwirt"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2049594582975",
+    "longitude": "11.8649178743362"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Christlwirt, Gasthof",
+    "streetAddress": "Hippach-Dorf 25",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 664 1051404 ",
+    "email": "info@christlwirt.at",
+    "url": "http://www.christlwirt.at"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Herzlich Willkommen im Gasthof ´Christlwirt´!\nDer ´Christlwirt´ - ruhig und doch zentral gelegen, ein bodenständiger Familienbetrieb mit einem Schuss Romantik - einfach zum verlieben.\n\nNicht nur wegen seiner Ausstattung wie Aufenthalts- und TV-Raum, Leseecke, Liegewiese, Bar und Zimmer mit Dusche/WC, Radio, SAT-TV und Telefon sondern auf Grund der gediegenen Ausführung, Behaglichkeit und familiären Atmosphäre.\nEin Gasthof wie er sein soll - und wir werden uns persönlich um Sie bemühen, sei es in der Küche oder im Service.\n\n250 km Wander- und Spazierwege, Tennis, Reiten, Drachenfliegen, Parafliegen, Veranstaltungs- und Unterhaltungsprogramm, Minigolf, Stockschießen, Parkschach, Radfahren, Kinderprogramm.\n\nWir freuen uns Sie begrüßen zu dürfen!\n"
+    },
+    {
+      "@language": "en",
+      "@value": "A little insider tip are the side villages of Mayrhofen. Hippach, Ramsau and Schwendau are not far from the action and the best of all is that you can enjoy the peace here. The inns and hotels have been lovingly decorated with flowers and the gardens are well maintained. Here you will find the green lush meadows with the typical meadow flowers. Small markets and companies with traditional products are not uncommon because im Zillertal is tradition capitalized. Put yourself in another time and enjoy nature to the fullest."
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/923558cf-95db-4fdd-ba07-f889acef6ba1/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Christlwirt"
+        },
+        {
+          "@language": "de",
+          "@value": "Christlwirt"
+        },
+        {
+          "@language": "ru",
+          "@value": "Christlwirt"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/63f0bb6d-3799-44b4-a84c-5d938dd7a489/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Christlwirt 2"
+        },
+        {
+          "@language": "de",
+          "@value": "Christlwirt 2"
+        },
+        {
+          "@language": "ru",
+          "@value": "Christlwirt 2"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a1a6cf68-012f-4aec-867f-02ff9dacacdd/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Christlwirt 3"
+        },
+        {
+          "@language": "de",
+          "@value": "Christlwirt 3"
+        },
+        {
+          "@language": "ru",
+          "@value": "Christlwirt 3"
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7f901970-710d-4105-bec7-c33bbd24e1a6/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Stube"
+        },
+        {
+          "@language": "de",
+          "@value": "Stube"
+        },
+        {
+          "@language": "ru",
+          "@value": "Stube"
+        }
+      ]
+    }
+  ],
+  "url": [
+    "http://www.christlwirt.at"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Atelier Kaiser"
+    },
+    {
+      "@language": "de",
+      "@value": "Atelier Kaiser"
+    },
+    {
+      "@language": "ru",
+      "@value": "Atelier Kaiser"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1652016632538",
+    "longitude": "11.8636465072632"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Atelier Kaiser, Juwelen + Mehr",
+    "streetAddress": "Waldbadstraße 534",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 624 61 ",
+    "email": "office@lachgas.at",
+    "url": "http://www.lachgas.at/de/biografie.html"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Franz macht aber auch sonst allerhand Sachen die Freude bereiten!\nKunstschmiedearbeiten, Bilder in Ätz- u Beiztechnik, Gürtel mit Gürtelschließen, oder Flachmänner  aus Leder ....\n.... \"schau´n Sie sich das an\", hätte Karl Farkas gesagt.\nNach fast 7 Jahren Suche, begann Franz Eberharter mit Alois Neuner und dem \"Gaudimax\" Rudi Sturzeis die Probenarbeiten zu einer Formation analog den \"Parodistl`n\" aus Innsbruck. Dieses Trio, das bereits 1964 bei den Olympischen Winterspielen in Innsbruck für Aufsehen sorgte, spielte in der klassischen Besetzung der Wiener Heurigenpartien mit Akkordeon, Gitarre und Kontrabass. Franz, ein gern lachender Mensch, spielte damals mit Rudi Sturzeis im Duo. Nach zwei Saisonen im Hotel Hohenhaus in Hintertux war klar, daß die Idee, eine solche Gruppe zu gründen, die Richtige war.\nLeider bekam Rudi Sturzeis nach wenigen Wochen Probe von Erwin Aschenwald das Angebot, bei den \"Mayrhofnern\" einzusteigen, was Rudi mit fliegenden Fahnen auch tat.\n\n"
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/21034fd3-2add-41c4-aae3-11b687324593/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Eberharter Franz"
+        },
+        {
+          "@language": "de",
+          "@value": "Eberharter Franz"
+        },
+        {
+          "@language": "ru",
+          "@value": "Eberharter Franz"
+        }
+      ]
+    }
+  ]
+}

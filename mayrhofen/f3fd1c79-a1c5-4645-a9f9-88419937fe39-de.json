@@ -1,0 +1,597 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.zenzerwirt.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003dF3FD1C79-A1C5-4645-A9F9-88419937FE39"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zenzerwirt, Landhotel",
+    "streetAddress": "Hippach-Dorf 14",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3602",
+    "faxNumber": "0043 5282 3622-44",
+    "email": "hotel@zenzerwirt.at",
+    "url": "http://www.zenzerwirt.at"
+  },
+  "name": "Landhotel Zenzerwirt",
+  "description": [
+    "Herzlich willkommen im Landhotel Zenzerwirt**** und in unserem Appartementhaus Dorfplatz . Ihr Ferienhotel - zu jeder Jahreszeit für die ganze Familie zum Wohlfühlen!\nFreuen Sie sich auf eine schöne Zeit in gemütlicher Atmosphäre, mit vielen Annehmlichkeiten, jeder Menge Komfort und unserer persönlichen Betreuung.\n\nUrlaub im Landhotel Zenzerwirt \nWir verwöhnen unsere Gäste mit Köstlichkeiten der heimischen und internationalen Küche sowie mit verschiedenen Spezialitätenabenden. Nach einem aktiven Urlaubstag finden Sie Erholung und Entspannung in unserem \"Vitalbad\".\nSie werden sich rundum wohlfühlen – beim \"Zenzerwirt\" im Zillertal.\nWir freuen uns auf Ihren Besuch!\nIhre Familie Kröll\nmit Mitarbeitern\n",
+    ".",
+    "Das Hotel liegt im Ortszentrum von Hippach unterhalb der Kirche;"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "reviewCount": "26"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/27584a43-b672-4481-898e-74f0ad66e03c/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Ansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/38ec577c-2bd7-4142-bc5e-3e4df427cdd7/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b258e441-1f08-48af-a976-e8dee5b90778/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7d9a81bb-dd6f-48e5-96f9-9e874a223a6b/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Außenansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ece1ec5-a0e5-465d-b730-cb7a4c92d466/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Außenansicht 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8b6b3a2f-9d15-4b68-9bb7-16d03fe4bdcc/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dca0e409-6ea6-4702-85c6-4f38c6e0cb1f/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ffaf4acd-6d7f-4551-befb-0391c7b188b8/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Außenansicht Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/845d1b6c-1695-4c0f-80fc-ceab8b2f6539/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Appartementhaus Dorfplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bcf9d4ed-b563-48fc-b1f4-8f8864c9df2c/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Schwimmbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/52bf988a-1468-4808-9d97-4846a023ae55/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Hallenbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fee0fec7-f6ee-4d63-b3e8-2f3ba05f07e9/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d2428735-d9eb-43a7-8db4-256ee2d0d84e/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Fitnessraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/13b002e5-c0e7-42d2-b681-ce5a82eb3c7d/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Gaststube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4cff8362-cf27-4064-a90a-8d689d5f7e17/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Gaststube 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8168333d-be87-4f3f-bd97-c20046414cca/99/image.jpg",
+      "caption": "Landhotel Zenzwerwirt - Gaststube 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/dddf633d-d29b-491e-8b89-70a824e41578/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Gaststube 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8c86ec21-492c-4288-8e06-fc09b7398a2b/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4e228f9-89e7-44a2-9d45-ddc8e354ce1f/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Bauernstube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef824851-db1e-4227-8d85-eb9819fb7821/99/image.jpg",
+      "caption": "Landhotel Zenzerwirt - Standard Doppelzimmer \"B\""
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2041066462884",
+    "longitude": "11.8649661540985"
+  },
+  "paymentAccepted": [
+    "American Express",
+    "Diners",
+    "JCB",
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC, Standard",
+      "description": "Doppelzimmer \"A\" 20m²\nGemütliches Doppelzimmer im Landhausstil mit Sitzecke\nBadezimmer mit Wanne oder Dusche/WC, Toilettenartikel, Tissues \nKosmetikspiegel, Fön, Bademantel \nBalkon, Parkgaragenstellplatz, Parkplatz vor dem Haus, Liegewiese \nKabel-TV, Radio, Telefon und Safe, W-LAN (kostenlos)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer A",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Doppelzimmer \"B\" 25m²\nGeräumiges Doppelzimmer mit Sitzecke\nBadezimmer mit Dusche/WC, Toilettenartikel, Tissues \nKosmetikspiegel, Fön, Bademantel \nBalkon, Parkgaragenstellplatz, Parkplatz vor dem Haus, Liegewiese \nKabel-TV, Radio, Telefon und Safe, W-LAN (kostenfrei)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer B",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.30",
+          "maxPrice": "78.30",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "51.87",
+          "maxPrice": "55.47",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Doppelzimmer \"C\" 25m²\nKuscheliges Doppelzimmer mit Fauteuils, Zimmer mit Verbindungstür möglich!\nBadezimmer mit Wanne oder Dusche/WC, Toilettenartikel, Tissues \nKosmetikspiegel, Fön, Bademantel \nBalkon, Parkgaragenstellplatz, Parkplatz vor dem Haus, Liegewiese \nKabel-TV, Radio, Telefon und Safe, W-LAN (kostenfrei)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer C",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "62.10",
+          "maxPrice": "79.20",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "53.07",
+          "maxPrice": "56.67",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Vierbettzimmer, Dusche oder Bad, WC",
+      "description": "Wohnschlafzimmer 30m²\nFamilienzimmer mit Wohnbereich\nBadezimmer mit Wanne oder Dusche/WC, Toilettenartikel, Tissues \nKosmetikspiegel, Fön, Bademantel \nVorraum, Balkon SW \u0026 Ost \nParkgaragenstellplatz, Parkplatz vor dem Haus, Liegewiese \nKabel-TV, Radio, Telefon und Safe, W-LAN (kostenfrei)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wohnschlafzimmer 30m²",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "64.80",
+          "maxPrice": "81.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.87",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "49.90",
+          "maxPrice": "70.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Vierbettzimmer, Dusche oder Bad, WC",
+      "description": "Wohnappartement 36m²\nGeräumiges Familienzimmer mit Wohnecke, Zimmer mit Verbindungstür möglich!\nBadezimmer mit Wanne oder Dusche/WC, Toilettenartikel, Tissues \nKosmetikspiegel, Fön, Bademantel \nVorraum, Balkon \nParkgaragenstellplatz, Parkplatz vor dem Haus, Liegewiese \nKabel-TV, Radio, Telefon und Safe, W-LAN (kostenfrei)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wohnschlafzimmer 36m²",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "66.60",
+          "maxPrice": "82.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.07",
+          "maxPrice": "75.20",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "50.80",
+          "maxPrice": "71.40",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Vierbettzimmer, Dusche oder Bad, WC",
+      "description": "Wohnappartement 40m²\nGroßzügiges Familienzimmer mit Wohnbereich, Zimmer mit Verbindungstür möglich!\nBadezimmer mit Wanne oder Dusche/WC, Toilettenartikel, Tissues \nKosmetikspiegel, Fön, Bademantel \nVorraum, Balkon \nParkgaragenstellplatz, Parkplatz vor dem Haus, Liegewiese \nKabel-TV, Radio, Telefon und Safe, W-LAN (kostenfrei)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wohnschlafzimmer 40m²",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "68.40",
+          "maxPrice": "84.60",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "57.27",
+          "maxPrice": "76.40",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "51.70",
+          "maxPrice": "72.30",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche oder Bad, WC",
+      "description": "Einbettzimmer 16m²\nGemütliches Zimmer mit Fauteuil\nBadezimmer mit Wanne oder Dusche/WC, Toilettenartikel, Tissues \nKosmetikspiegel, Fön, Bademantel \nParkgaragenstellplatz, Parkplatz vor dem Haus, Liegewiese \nKabel-TV, Radio, Telefon und Safe, W-LAN (kostenlos)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "68.40",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Appartement \"Bergkristall\" 45m²\nGemütliches Appartement für 2 bis 4 Personen mit separater Küche\n1 Doppelzimmer, 1 Wohnschlafzimmer mit Ausziehcouch \nKüche mit Mikrowelle, Kaffeemaschine und Geschirrspüler \nBadezimmer mit Wanne oder Dusche, Fön, Toilettenartikel, Tissues \nWC separat, Balkon, Parkplatz vor dem Haus \nHeizung, Strom, Bettwäsche und Handtücher inklusive \nSAT-TV, Radio, Telefon und Safe, W-LAN (kostenfrei)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment 2-4 Personen, 45m²",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "44.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "29.33",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "22.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Appartement \"Zillertal\" 50m²\nGroßzügiges Appartement für 2 bis max. 5 Personen\n1 Doppelzimmer, 1 Wohnschlafzimmer mit Ausziehcouch \nKüche mit Mikrowelle, Kaffeemaschine und Geschirrspüler \nBadezimmer mit Wanne oder Dusche, Fön, Toilettenartikel, Tissues \nWC separat, Balkon, Parkplatz vor dem Haus \nHeizung, Strom, Bettwäsche und Handtücher inklusive \nSAT-TV, Radio, Telefon und Safe, W-LAN (kostenfrei)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment für 2-4 Pers. 50m²",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.67",
+          "maxPrice": "49.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "23.00",
+          "maxPrice": "37.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "21.40",
+          "maxPrice": "33.60",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Appartement \"Sonnenaufgang\" 65m²\nAppartement für 2 bis max. 6 Personen mit 2 getrennten Doppelzimmern\n2 Doppelzimmer, 1 Wohnschlafzimmer mit Ausziehcouch \nKüche mit Mikrowelle, Kaffeemaschine und Geschirrspüler \nteilw. 2 Badezimmer mit Wanne oder Dusche, Fön, Toilettenartikel \nWC separat, Balkon, Parkplatz vor dem Haus \nHeizung, Strom, Bettwäsche und Handtücher inklusive \nSAT-TV, Radio, Telefon und Safe, W-LAN (kostenfrei)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment 2-6 Personen, 65m²",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "34.67",
+          "maxPrice": "53.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "26.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "23.80",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "22.33",
+          "maxPrice": "33.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

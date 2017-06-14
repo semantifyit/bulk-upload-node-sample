@@ -1,0 +1,227 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-obermair.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Garni Obermair",
+    "streetAddress": "Am Marktplatz 214",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5285 62454",
+    "faxNumber": "(0043)  810 9554 013 816",
+    "email": "info@hotel-obermair.at",
+    "url": "http://www.hotel-obermair.at"
+  },
+  "name": "Hotel Garni Obermair",
+  "description": [
+    "Im Zentrum von Mayrhofen im Zillertal, 800 m von der Penkenbahn entfernt, begrüßt Sie das Hotel Garni Obermair. Eine der sonnigsten Ecken Mayrhofens; nach einem anstrengenden Wandertag können Sie die Liegestühle im verspielten Garten nutzen und entspannt den Tag ausklingen lassen. Freuen Sie sich zudem auf ein Hallenbad. Nach einem Skitag nutzen Sie den Skibus, der direkt vor dem Hotel haltmacht. Entspannen Sie sich in der Sauna, im Dampfbad oder entspannen Sie Ihre Muskeln im Hallenbad.\nIm Obermair Hotel steht Ihnen im Winter ein Skiraum mit einem Skischuhtrockner zur Verfügung, und im Sommer können Sie direkt am Hotel Ihre Fahrräder mieten. Im Garten befindet sich ein Kinderspielplatz und kostenfreie Privatparkplätze sind auch vor Ort verfügbar.\nUnsere Zimmer verfügen über einen Balkon mit Blick auf die Zillertaler Alpen. Die Zimmer im Tiroler Stil bieten eine Sitzecke, Sat-TV, ein Badezimmer oder eine Dusche und einen Haartrockner. In der Zimmerkategorie \"Suite\" gibt es einen Kühlschrank; auf Anfrage können wir Ihnen gerne im Doppelzimmer auch einen Kühlschrank zur Verfügung stellen.\n\n",
+    "\nAnreise: 14:00 - 22:00 Uhr\nAbreise: 08:00 - 10:00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/f0f0aef2-537d-4f28-b626-2cd64e1d803d/99/image.jpg",
+      "caption": "DSC01572"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7de864be-8d12-43eb-9dbb-279002077d41/99/image.jpg",
+      "caption": "DSC01573"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/29e7d12b-383f-413b-80ec-1f1eb2bb7d9b/99/image.jpg",
+      "caption": "DSC01576"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c031cd0c-4cb6-4dd0-b1a0-016546f43914/99/image.jpg",
+      "caption": "DSC01602"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b926b28f-19e9-4c45-a1cc-f3899088ae38/99/image.jpg",
+      "caption": "DSC01581"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c4eac262-30fe-4c91-b566-a30af3e0ad63/99/image.jpg",
+      "caption": "DSC01582"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/98b3376e-2062-465e-95fb-b6257fea2cf3/99/image.jpg",
+      "caption": "DSC01588"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8aeddf0-d43d-4dbb-9724-378864043987/99/image.jpg",
+      "caption": "DSC01587"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/0b827330-19a1-49d4-adec-34cefb03d05b/99/image.jpg",
+      "caption": "DSC01586"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/00464a6e-a542-4845-b9c2-93ad0a67dd59/99/image.jpg",
+      "caption": "DSC01592"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7cbf52d0-5eb7-4769-94d2-4bf0d5002ae5/99/image.jpg",
+      "caption": "DSC01593"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/2584eda1-2319-4e82-a5c9-c099eeaaa0cd/99/image.jpg",
+      "caption": "FINNSauna.tiff"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b2b75dec-0981-4aa8-9ee5-ddfc5533d82d/99/image.jpg",
+      "caption": "BIOSauna2.tiff"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/cb090d15-9383-4fd9-b3f9-6d89343ac5d9/99/image.jpg",
+      "caption": "LANDSauna.tiff"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5aed902c-7328-4486-8d66-cf55e1ad522d/99/image.jpg",
+      "caption": "HOTELSuite3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c0681802-aec6-48ad-ab89-cfa63c5e81b8/99/image.jpg",
+      "caption": "HOTELBath1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/db6df63e-dc55-45e1-876f-9f75358497d6/99/image.jpg",
+      "caption": "HOTELBath2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1702076594412",
+    "longitude": "11.8665754576721"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Suite",
+      "description": "\nDiese geräumige Suite im Tiroler Stil verfügt über einen Balkon mit Bergblick, ein Schlafzimmer, ein Wohnzimmer mit Sat-TV und ein Badezimmer mit einem Haartrockner",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "49.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "44.20",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer",
+      "description": "Unsere Zimmer verfügen über einen Balkon mit Blick auf die Zillertaler Alpen. Die Zimmer im Tiroler Stil bieten eine Sitzecke, Sat-TV, ein Badezimmer oder eine Dusche und einen Haartrockner. Auf Anfrage können wir Ihnen gerne im Doppelzimmer auch einen Kühlschrank zur Verfügung stellen.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer",
+      "description": "Unsere Zimmer verfügen über einen Balkon mit Blick auf die Zillertaler Alpen. Die Zimmer im Tiroler Stil bieten eine Sitzecke, Sat-TV, ein Badezimmer oder eine Dusche und einen Haartrockner. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

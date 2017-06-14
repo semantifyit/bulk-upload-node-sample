@@ -1,0 +1,153 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://home.tele2.at/rahm",
+    "http://maps.mayrhofen.at/?foreignResource\u003d916A27E6-3D52-4AF6-80B4-7D5670E10369"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hippach-Dorf 39",
+    "addressLocality": "Hippach",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "email": "gaestehaus@mariedls.com"
+  },
+  "name": "Rahm Maria",
+  "description": [
+    "Comfortable private pension in Hippach, sunny and central situation\n",
+    "check- in: 15:00- 21:00\ncheck- out: -10:30"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12537ea7-58d3-4276-9dcd-a7e5275e7e19/99/image.jpg",
+      "caption": "Haus_2(c)StefanieRahm2016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/9dcd57ac-b11f-402e-9c5d-bfd533c18bba/99/image.png",
+      "caption": "Mariedl\u0027s Gästehaus_Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3aab907d-4cdb-4766-8ed5-916648f85b7f/99/image.jpg",
+      "caption": "(c)StefanieRahm2016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ac42ac65-87a2-4fbc-85ca-2ab38bd595ff/99/image.jpg",
+      "caption": "Ausblick_1_(c)StefanieRahm2016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b66f86bb-37a0-475f-95ff-b81ffc462c6a/99/image.jpg",
+      "caption": "Frühstück_1(c)StefanieRahm2016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4cee434b-c98f-4008-a3c4-2d93f280416d/99/image.jpg",
+      "caption": "Frühstück_4(c)StefanieRahm2016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3c6d0e18-aad6-4eae-89b3-c39bf330b8e2/99/image.jpg",
+      "caption": "Frühstück_8(c)StefanieRahm2016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a01af943-f9f1-4b5d-8920-f6fe8afda2e9/99/image.jpg",
+      "caption": "Küche_1(c)StefanieRahm2016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c398bd95-1d43-4036-b8e4-f185301901ca/99/image.jpg",
+      "caption": "Küche_2(c)StefanieRahm2016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a2dff425-8186-4840-a776-1c0835276ab4/99/image.jpg",
+      "caption": "Stube_1(c)StefanieRahm2016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/effda468-ca86-49b0-9805-5482e50d94a4/99/image.jpg",
+      "caption": "Terrasse_1(c)StefanieRahm2016"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2078494414821",
+    "longitude": "11.8658030033112"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Double room, shower, toilet",
+      "description": "Double room with shower WC ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "double room with shower, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Single room, shower, toilet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Single room, shower, toilet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "35.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

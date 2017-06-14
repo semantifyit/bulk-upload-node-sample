@@ -1,0 +1,71 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Landform",
+    "Restaurant"
+  ],
+  "name": [
+    {
+      "@language": "en",
+      "@value": "Filzenalm 1908m"
+    },
+    {
+      "@language": "de",
+      "@value": "Filzenalm 1908m"
+    },
+    {
+      "@language": "ru",
+      "@value": "Filzenalm 1908m"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1340162741772",
+    "longitude": "11.8686300516129"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Filzenalm",
+    "streetAddress": "Filzenboden ",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290 ",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 595 84 31",
+    "email": "vipalexst@hotmail.com"
+  },
+  "description": [
+    {
+      "@language": "de",
+      "@value": "Erreichbar über die Ahornbahn.\n\nAm besten von der Seilbahn, über den Rundwanderweg, ca. 10 Minuten direkt zur Hütte."
+    },
+    {
+      "@language": "de",
+      "@value": "Winter\ngeschlossen\n\nkeine Übernachtung möglich "
+    },
+    {
+      "@language": "en",
+      "@value": "Winter\nclosed\n \nno overnight stay possible "
+    }
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/6b45ef4a-4f3f-4619-9c20-6d9ee20ab7fc/99/image.jpg",
+      "caption": [
+        {
+          "@language": "en",
+          "@value": "Filzenalm"
+        },
+        {
+          "@language": "de",
+          "@value": "Filzenalm"
+        },
+        {
+          "@language": "ru",
+          "@value": "Filzenalm"
+        }
+      ]
+    }
+  ]
+}

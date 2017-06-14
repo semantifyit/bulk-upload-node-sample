@@ -1,0 +1,152 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ferienhuette-zillertal.at/",
+    "http://maps.mayrhofen.at/?foreignResource\u003d1A3AA1FA-81C3-4B33-8FCD-28E7B2BB7861"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Zillergrund 68",
+    "addressLocality": "Brandberg",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 664 9781709",
+    "email": "heim.margit@aon.at",
+    "url": "http://www.ferienhuette-zillertal.at"
+  },
+  "name": "Heim Margit",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ddf1171d-deee-43dd-9b50-3ef7eb82624c/99/image.jpg",
+      "caption": "Heim Margit - Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/12c44bed-be9f-4289-ab0d-acace9df4a18/99/image.jpg",
+      "caption": "Heim Margit - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/18b8e578-2bb6-4008-adc1-5c70dbdb89a8/99/image.jpg",
+      "caption": "Heim Margit - Sommer 1 "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b3ed917c-1777-4bd4-a400-3f5a84160f7b/99/image.jpg",
+      "caption": "Kachelofen "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7befb2f0-f55f-4a23-9ad0-25e59adc6771/99/image.jpg",
+      "caption": "Kuh beim grasen "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1e7fef5b-707d-4396-90d4-b9840a4b1529/99/image.jpg",
+      "caption": "Garten "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/670de9a4-93cf-481e-9941-f17eac413db0/99/image.jpg",
+      "caption": "Tafel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7ecaa031-e4b1-4cea-952a-78baef99982d/99/image.jpg",
+      "caption": "Kühe beim grasen "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ec1f1ebe-171b-45b4-af23-4da3aefedcef/99/image.jpg",
+      "caption": "IMG-20160628-WA0028"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d7df94f5-7ade-4eb4-8b03-b23c7fb9d567/99/image.jpg",
+      "caption": "Balkon "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1233773909892",
+    "longitude": "12.0074772834778"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Дом отдыха, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Дом отдыха, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "90.00",
+          "maxPrice": "205.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "215.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "105.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "110.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "115.00",
+          "maxPrice": "230.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "120.00",
+          "maxPrice": "235.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

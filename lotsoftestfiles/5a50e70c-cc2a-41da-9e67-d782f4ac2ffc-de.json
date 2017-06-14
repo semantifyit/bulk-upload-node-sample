@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Service"
+  ],
+  "name": "Autohaus Mayrhofen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1607154214679",
+    "longitude": "11.8505573272705"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Autohaus Mayrhofen",
+    "streetAddress": "Stumpfau 683",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 8154",
+    "faxNumber": "0043 5285 815476",
+    "email": "office@autohaus-mayrhofen.com",
+    "url": "http://www.autohaus-mayrhofen.com"
+  },
+  "description": [
+    "Wir reparieren Fahrzeuge aller Marken - Mechanische Reparaturen - Unfallreparaturen - Spengler und Lackierer Arbeiten - Spezial Lackierungen - Neuwagenverkauf - Abschleppdienst - Mopedverkauf - Finanzierung und Versicherung \n\n\n\n",
+    "Mo- Fr: 7.30-12.00 Uhr u. 13.00- 17.30 Uhr\nSa: 10.00-12.00 Uhr \n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7401b036-00a6-4dd0-b1ec-d7bb6ba8f8c8/99/image.jpg",
+      "caption": "Autohaus Mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/84aefe65-b81d-45a5-bee2-35908316a8c1/99/image.jpg",
+      "caption": "Autohaus Mayrhofen 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/5c5afa87-c54d-4174-b025-e88a4e3c1081/99/image.jpg",
+      "caption": "Angebot"
+    }
+  ],
+  "url": [
+    "http://www.autohaus-mayrhofen.com"
+  ]
+}

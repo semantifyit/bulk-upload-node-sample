@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ClothingStore"
+  ],
+  "name": "Wollfachgeschäft, Damen- und Kindermode  Natalie",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2044966090365",
+    "longitude": "11.8704164028168"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wollfachgeschäft Natalie",
+    "streetAddress": "Talstraße 72",
+    "addressLocality": "Ramsau",
+    "postalCode": "6284",
+    "addressCountry": "AT",
+    "telephone": "0043 5282 3682",
+    "email": "schoenauer.hauser@22a.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ccbdd08c-3141-4bb9-a022-4ee82f7442b8/99/image.png",
+      "caption": "Logo"
+    }
+  ]
+}

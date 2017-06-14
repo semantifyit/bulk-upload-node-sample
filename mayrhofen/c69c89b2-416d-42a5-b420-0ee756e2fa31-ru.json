@@ -1,0 +1,166 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://maps.mayrhofen.at/?foreignResource\u003dC69C89B2-416D-42A5-B420-0EE756E2FA31"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tipotsch, Gästehaus",
+    "streetAddress": "Neu-Burgstall 323",
+    "addressLocality": "Mayrhofen",
+    "postalCode": "6290",
+    "addressCountry": "AT",
+    "telephone": "0043 528563064",
+    "faxNumber": "0043 5285 63064",
+    "email": "gaestehaus.tipotsch@aon.at",
+    "url": "http://www.fam-rahm.at/"
+  },
+  "name": "Gästehaus Tipotsch",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c3b01ebe-3cf0-471d-af2a-9f5e6053bcaa/99/image.jpg",
+      "caption": "Gästehaus Tipotsch Mayrhofen - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/e97f8cdf-11c8-4815-b873-245d8ceaa501/99/image.jpg",
+      "caption": "Gästehaus Tipotsch Mayrhofen - Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/71e72fd5-9f6a-4a26-918a-6b9b6e28da37/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/75ea173c-65e1-448c-8724-cc82f99aacf3/99/image.jpg",
+      "caption": "M_Grundriss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/af54cac3-6e50-49fc-b60a-6523dc10bae4/99/image.jpg",
+      "caption": "M_Zimmer_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/8a2190ec-b5cc-47b5-8708-5bfa977ff531/99/image.jpg",
+      "caption": "Sitzecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/bbe51539-983e-4fde-bf6b-df49e8b58b18/99/image.jpg",
+      "caption": "Blick vom Penken 06"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3ba425a2-2755-4cc8-a444-8781663e8693/99/image.jpg",
+      "caption": "Zimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/b8b6b8a1-673d-433e-8dbd-1ee373e8c936/99/image.jpg",
+      "caption": "Kuh auf der Alm "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/81be4a53-5297-4703-8676-dcfdf44d3d57/99/image.jpg",
+      "caption": "Ahorn White Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/74e736cf-6541-425b-9fac-365309f862b5/99/image.jpg",
+      "caption": "skifahrer-in-action"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/fe57e507-53bf-44e3-a226-db50ab8dd2be/99/image.jpg",
+      "caption": "bike mayrhofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/3b7cbe04-b45f-487b-8ca7-038a9296a48e/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ffaa0a51-f278-4442-87cc-3b138246a59a/99/image.jpg",
+      "caption": "Sommer_Gipfel_Panorama ("
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/7e172d6a-80c1-4b23-a7e8-ce843b5cca6f/99/image.jpg",
+      "caption": "Wanderung Olpererhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/264c4d67-b8e7-4a46-a8a8-111f77784cda/99/image.jpg",
+      "caption": "Winter_Landschaft (Archiv TVB Mayrhofen Foto Paul "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.1861397406776",
+    "longitude": "11.8592315912247"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "62.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "62.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "62.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "72.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

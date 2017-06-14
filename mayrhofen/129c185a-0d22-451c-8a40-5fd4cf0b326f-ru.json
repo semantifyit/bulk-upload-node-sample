@@ -1,0 +1,143 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast",
+    "Hostel"
+  ],
+  "url": [
+    "www.ferienwohnung-sporer.at",
+    "http://maps.mayrhofen.at/?foreignResource\u003d129C185A-0D22-451C-8A40-5FD4CF0B326F"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kleinschwendberg 268",
+    "addressLocality": "Schwendau",
+    "postalCode": "6283",
+    "addressCountry": "AT",
+    "telephone": "0043 5285 62969",
+    "faxNumber": "0043 5285 62969",
+    "email": "sporerc@aon.at",
+    "url": "http://www.ferienwohnung-sporer.at"
+  },
+  "name": "Ferienwohnung Sporer",
+  "description": [
+    "Наш дом находится в очень тихом месте и предлагает отдых и расслабление. Наслаждайтесь тишиной и покоем с прекрасным видом на долины Циллерталь и вершины Ахорн. Мы находимся примерно в 300 метрах от подъемника Хорберг, который доставит Вас в один из крупнейших и самых красивых горнолыжных курортов долины Циллерталь - \"Ski Zillertal 3000\" \t\nМы сдаем в аренду квартиры с балконом, который могут разместиться от 2 до 6 человек. Имеется автостоянка.\t\n",
+    "В стоимость входит: постельное белье / полотенца; \t\nСкидки для детей по запросу! Финальная уборка 40, - €;\t\n",
+    "Двигайтесь по шоссе  Циллерталь B169 до Хиппаха, через 2 км повернуть направо и ехать до станции Хорбергбан. Оттуда около 300 метров в гору. Первый дом справа находится наш дом. Добро пожаловать! "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/82ad3021-966b-4473-b2b1-af3e7f1b073a/99/image.jpg",
+      "caption": "Ferienwohnung Sporer Schwendau - Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/ef2d951c-a2c0-4edb-838f-d96c84498355/99/image.jpg",
+      "caption": "Ferienwohnung Sporer Schwendau - Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/56c20df2-5cb2-42a5-8a46-8b008e5a525e/99/image.jpg",
+      "caption": "Küche1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/60e5f28a-e415-4cf0-ad0f-540d6b619c39/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/d4d29fc7-c315-467b-8fd4-336d139c13c3/99/image.jpg",
+      "caption": "Diwan"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/58fdc610-df29-45f5-ab3b-c325993a6cea/99/image.jpg",
+      "caption": "Zimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/c7f6bfcf-82c7-4513-a907-6800783d8701/99/image.jpg",
+      "caption": "Zimmer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/a87152d9-91d7-46be-9c2d-60f26bd04cff/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/1e03f235-1285-4bc7-b414-e3c232b46cdf/99/image.jpg",
+      "caption": "Deko"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/ZIL/1/4ca77c29-579a-46e9-a2e9-473252444c1b/99/image.jpg",
+      "caption": "Deko2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.193097620899",
+    "longitude": "11.853409593186"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Апартамент, душ, туалет, две спальни",
+      "description": "около 50 м² апартаменты для 4 - 6 человек с балконом, полностью оборудованная кухня с местом для сна. Кабельное ТВ. Квартира состоит из двух спален с двуспальной кроватью и диваном-кроватью, ванная комната с душевой кабиной и отдельным туалетом. Комнаты дополнительно оборудованы раковиной.\t\nДоступ в интернет\t\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Апартамент, душ, туалет, две спальни",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "65.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "72.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}
