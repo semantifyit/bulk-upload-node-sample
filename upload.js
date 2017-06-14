@@ -5,9 +5,9 @@ var request = require("request");
 
 var chunkSize = 500; //number of annotations submitted at a time
 var apiKey = "HkN8v6Az-"; //your semantify API key
-//var folder = "testfiles"; //folder where your JSON files are
+var folder = "testfiles"; //folder where your JSON files are
 //var folder = "lotsoftestfiles"; //folder where your JSON files are
-var folder = "mayrhofen"; //folder where your JSON files are
+//var folder = "mayrhofen"; //folder where your JSON files are
 
 var giantAnnotationArray = [];
 walker(folder).on("file", fileCallBack).on("end", endCallback);
