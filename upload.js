@@ -4,7 +4,9 @@ var walker = require("walker");
 var request = require("request");
 
 var chunkSize = 500; //number of annotations submitted at a time
-var apiKey = "HkN8v6Az-"; //your semantify API key
+var websiteUID = "HkN8v6Az-"; //your semantify Website UID
+var websiteSecret = "myWebsiteSecret"; //your semantify Website Secret
+
 var folder = "testfiles"; //folder where your JSON files are
 //var folder = "lotsoftestfiles"; //folder where your JSON files are
 //var folder = "mayrhofen"; //folder where your JSON files are
@@ -50,8 +52,11 @@ function endCallback() {
 
 function makeRequest(chunks) {
     request({
-        url: "https://semantify.it/api/annotation/" + apiKey,
+        url: "https://semantify.it/api/annotation/" + websiteUID,
         method: "POST",
+        headers: {
+            "website-secret": websiteSecret
+        },
         json: chunks
     }, function(error, response, body) {
         if (!error && response.statusCode === 200) {
